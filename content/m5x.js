@@ -68,14 +68,15 @@ window.NURSE_DATA.push({
    "answer": 0,
    "optionRationales": [
     "Correct. This is stress incontinence. Pregnancy and delivery weaken the pelvic floor and urethra, so laughing, sneezing, or lifting raises bladder pressure above urethral resistance.",
-    "This describes urge incontinence. Urge incontinence brings a strong urge and often nocturia, and she reports neither.",
-    "This describes overflow incontinence from outlet obstruction or a weak detrusor. It causes ongoing leaking from an overfull bladder, not leaking only with exertion.",
-    "This describes reflex incontinence. Reflex incontinence comes from neurologic impairment such as MS or spinal cord injury, not from routine childbirth."
+    "Incorrect. This describes urge incontinence. Urge incontinence brings a strong urge and often nocturia, and she reports neither.",
+    "Incorrect. This describes overflow incontinence from outlet obstruction or a weak detrusor. It causes ongoing leaking from an overfull bladder, not leaking only with exertion.",
+    "Incorrect. This describes reflex incontinence. Reflex incontinence comes from neurologic impairment such as MS or spinal cord injury, not from routine childbirth."
    ],
    "rationale": "Stress incontinence comes from relaxed pelvic muscles and a weak urethra, which lower urethral resistance. Pregnancy and delivery are classic causes. Small leaks triggered by coughing, sneezing, laughing, or lifting are the hallmark. One void a night is not a sign of urge incontinence.",
    "takeaway": "Leaking with a cough, sneeze, laugh, or lift and no urge = stress incontinence (weak urethral resistance).",
    "hintContent": "Recall the five types of urinary incontinence and the trigger and cause of each. Consider what pregnancy and delivery do to the pelvic floor.",
-   "hintStrategy": "Find the trigger (exertion, urge, no sensation, or overfilling). Then pick the mechanism that matches that trigger."
+   "hintStrategy": "Find the trigger (exertion, urge, no sensation, or overfilling). Then pick the mechanism that matches that trigger.",
+   "bestAnswer": true
   },
   {
    "id": "m5x-003",
@@ -100,15 +101,16 @@ window.NURSE_DATA.push({
    ],
    "answer": 1,
    "optionRationales": [
-    "Kegels treat stress and urge incontinence. They do not relieve an outlet blocked by an enlarged prostate.",
+    "Incorrect. Kegels treat stress and urge incontinence. They do not relieve an outlet blocked by an enlarged prostate.",
     "Correct. These cues suggest overflow incontinence: a blocked outlet causes retention and leakage. Measuring the post-void residual confirms how much urine is retained, and that guides catheterization and the provider’s plan.",
-    "Making him wait longer between voids would let an already overfull bladder fill even more. Bladder training is used for urge incontinence.",
-    "Protecting his skin matters, but it treats only the symptom. It does not address the retained urine causing the dribbling and the infections."
+    "Incorrect. Making him wait longer between voids would let an already overfull bladder fill even more. Bladder training is used for urge incontinence.",
+    "Incorrect. Protecting his skin matters, but it treats only the symptom. It does not address the retained urine causing the dribbling and the infections."
    ],
    "rationale": "BPH, a weak stream, a feeling of incomplete emptying, constant dribbling, repeated UTIs, and a suprapubic bulge all point to overflow incontinence. An obstructed outlet lets the bladder overfill until urine leaks out. The first step is to measure the retained volume. Therapies for other types, such as Kegels and bladder training, will not help and can make retention worse.",
    "takeaway": "Dribbling plus a feeling of incomplete emptying in a man with BPH = think overflow. Measure the residual first.",
    "hintContent": "Connect BPH, a weak stream, incomplete emptying, and UTIs to a type of incontinence. Recall how retained urine is measured.",
-   "hintStrategy": "Name the incontinence type first. Then choose the action that assesses the underlying problem before you treat it."
+   "hintStrategy": "Name the incontinence type first. Then choose the action that assesses the underlying problem before you treat it.",
+   "bestAnswer": true
   },
   {
    "id": "m5x-004",
@@ -130,15 +132,16 @@ window.NURSE_DATA.push({
    ],
    "answer": 2,
    "optionRationales": [
-    "Leaking with coughing or physical strain describes stress incontinence.",
-    "A strong urge with inability to delay describes urge incontinence. In reflex incontinence the client feels no urge.",
+    "Incorrect. Leaking with coughing or physical strain describes stress incontinence.",
+    "Incorrect. A strong urge with inability to delay describes urge incontinence. In reflex incontinence the client feels no urge.",
     "Correct. Neurologic damage such as spinal cord injury causes detrusor spasms, so the bladder empties suddenly with no sensation of needing to void.",
-    "Being unable to reach the toilet in time because of mobility limits describes functional incontinence."
+    "Incorrect. Being unable to reach the toilet in time because of mobility limits describes functional incontinence."
    ],
    "rationale": "In reflex incontinence, damage to nerve pathways (spinal cord injury, MS) causes detrusor spasms. The bladder empties without the person sensing fullness, which is the neurogenic bladder pattern. The key cue is urination without any urge.",
    "takeaway": "Reflex incontinence = neurologic damage plus voiding with NO urge.",
    "hintContent": "Recall what a spinal cord injury does to the sensation and control of bladder emptying (neurogenic bladder).",
-   "hintStrategy": "Match each quote to a type by its trigger: exertion, urge, mobility barrier, or no sensation."
+   "hintStrategy": "Match each quote to a type by its trigger: exertion, urge, mobility barrier, or no sensation.",
+   "bestAnswer": true
   },
   {
    "id": "m5x-005",
@@ -196,22 +199,23 @@ window.NURSE_DATA.push({
    "focus": "Client Teaching",
    "stem": "A 56-year-old postmenopausal client asks the nurse why she has started leaking urine since menopause. Which explanation by the nurse is accurate?",
    "options": [
-    "“Leaking urine is an expected part of aging that usually begins around menopause.”",
-    "“After menopause, your kidneys make more urine at night, and that overfills the bladder.”",
-    "“Menopause causes the bladder muscle to lose its nerve supply, so it empties on its own without warning.”",
+    "“Leaking is a normal part of getting older after menopause, and Kegel exercises can reduce it.”",
+    "“Your bladder holds less as you age, so it overflows before you ever feel the need to go.”",
+    "“Menopause causes weight gain, which presses on the bladder when you cough, laugh, or lift.”",
     "“Lower estrogen thins the tissues that help hold the urethra closed, so urine escapes more easily.”"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incontinence is never a normal consequence of aging. It is a symptom with a cause, and treatment options exist.",
-    "This does not explain menopause-related leaking. Nighttime urine production changes with kidney aging and is not the cause given here.",
-    "Loss of nerve control describes reflex incontinence from conditions such as MS or spinal cord injury. Menopause does not cause it.",
-    "Correct. Decreased estrogen during menopause is a listed cause. Thinner, weaker urethral and pelvic tissue lowers urethral resistance, so bladder pressure overcomes it more easily."
+    "Incorrect. Kegels do help, but leaking is not a normal part of aging. It is a symptom with a cause, and this statement does not explain why menopause causes leaking.",
+    "Incorrect. Bladder capacity does decrease with age, but that causes frequency, not overflow without any urge. It also does not link the leaking to menopause.",
+    "Incorrect. Extra weight is a risk factor for stress incontinence, but menopause does not always cause weight gain. Lower estrogen is the direct menopause-related cause.",
+    "Correct. Decreased estrogen during menopause thins the urethral and pelvic tissues that provide resistance. This directly explains why leaking began at menopause, which the other statements do not."
    ],
-   "rationale": "Incontinence happens when bladder pressure exceeds urethral pressure. Low estrogen after menopause weakens the urethral and pelvic tissues that provide resistance. That is why topical estrogen is a therapy for some postmenopausal women. Incontinence is a symptom, not a normal part of aging.",
+   "rationale": "Incontinence happens when bladder pressure exceeds urethral pressure. Low estrogen after menopause weakens the urethral and pelvic tissues that provide resistance. That is why topical estrogen is a therapy for some postmenopausal women. Incontinence is common, but it is a symptom with a cause, not a normal part of aging.",
    "takeaway": "Low estrogen means weaker urethral tissue and less resistance. Incontinence is never \"just aging.\"",
    "hintContent": "Recall the three causes listed for increased bladder pressure or decreased resistance (diuretics, pregnancy, decreased estrogen). Recall whether incontinence is a normal part of aging.",
-   "hintStrategy": "Eliminate any statement that normalizes incontinence. Then choose the mechanism that links estrogen to urethral resistance."
+   "hintStrategy": "Eliminate any statement that normalizes incontinence. Then choose the mechanism that links estrogen to urethral resistance.",
+   "bestAnswer": true
   },
   {
    "id": "m5x-007",
@@ -237,14 +241,15 @@ window.NURSE_DATA.push({
    "answer": 0,
    "optionRationales": [
     "Correct. Dribbling, restlessness, and lower abdominal fullness in a man with BPH suggest the bladder is overdistended with retained urine. Acute retention is a medical emergency, so this resident is seen first.",
-    "Coughing raises abdominal pressure, so more leaking is an expected worsening of known stress incontinence. It is not an emergency.",
-    "Nighttime episodes call for a toileting plan, but this is a stable, expected pattern for functional incontinence.",
-    "This resident needs hygiene and skin care soon. A wet brief with known reflex incontinence is expected and stable."
+    "Incorrect. Coughing raises abdominal pressure, so more leaking is an expected worsening of known stress incontinence. It is not an emergency.",
+    "Incorrect. Nighttime episodes call for a toileting plan, but this is a stable, expected pattern for functional incontinence.",
+    "Incorrect. This resident needs hygiene and skin care soon. A wet brief with known reflex incontinence is expected and stable."
    ],
    "rationale": "The resident with BPH is showing overflow from an obstructed, overdistended bladder, which can become painful acute retention. Acute retention is a medical emergency, and the bladder may need decompression. The other residents have expected patterns of known incontinence that need routine care.",
    "takeaway": "Dribbling, restlessness, and a full lower abdomen = possible retention. Retention outranks routine incontinence care.",
    "hintContent": "Compare expected, stable incontinence patterns with signs of an overdistended bladder. Recall which form of retention is an emergency.",
-   "hintStrategy": "Ask which resident has a new change that could cause harm if not addressed. The rest have expected findings for their known type."
+   "hintStrategy": "Ask which resident has a new change that could cause harm if not addressed. The rest have expected findings for their known type.",
+   "bestAnswer": true
   },
   {
    "id": "m5x-008",
@@ -302,19 +307,20 @@ window.NURSE_DATA.push({
     "“Take the furosemide at bedtime instead, so the extra urine comes while you’re resting in bed.”",
     "“Keep the morning dose and plan to be near a bathroom for the few hours after you take it.”",
     "“Limit your fluids to about 1 liter a day so the medicine doesn’t make as much urine.”",
-    "“Skip the dose on days you plan to be away from home until the leaking stops.”"
+    "“Do a Kegel squeeze when the urge hits so you can hold it until you reach the toilet.”"
    ],
    "answer": 1,
    "optionRationales": [
-    "A bedtime dose would cause nocturia, interrupt sleep, and raise fall risk on nighttime trips to the bathroom.",
-    "Correct. The diuretic is working. It quickly increases bladder volume and pressure, so planning for easy bathroom access after the dose prevents leaks safely.",
-    "Restricting fluids concentrates urine, which irritates the bladder. Fluid changes for heart failure are the provider’s decision, not a fix for leaking.",
-    "Skipping doses risks worsening heart failure. The nurse should not advise stopping a prescribed drug."
+    "Incorrect. Moving the dose seems to avoid daytime leaks, but a bedtime diuretic causes nocturia, broken sleep, and nighttime falls.",
+    "Correct. The diuretic is working. It quickly increases bladder volume and pressure, so keeping the morning dose and planning bathroom access afterward prevents leaks safely.",
+    "Incorrect. Less fluid sounds logical, but strict restriction concentrates urine and irritates the bladder. Fluid limits in heart failure are the provider’s decision.",
+    "Incorrect. Kegels can help suppress urgency, but they do not plan for the predictable surge of urine after the dose. Planning bathroom access addresses the cause."
    ],
-   "rationale": "Diuretics are a listed cause of incontinence. They raise bladder volume quickly, and bladder pressure can then exceed urethral pressure. Her weight loss and improving edema show the drug is working. The safest approach keeps the morning timing and plans toileting around the expected diuresis. Bedtime dosing, fluid limits, or skipped doses each create a new problem.",
+   "rationale": "Diuretics are a listed cause of incontinence. They raise bladder volume quickly, and bladder pressure can then exceed urethral pressure. Her weight loss and improving edema show the drug is working. The safest approach keeps the morning timing and plans toileting around the expected diuresis. Bedtime dosing and fluid limits create new problems, and urge-control techniques alone do not plan for the diuresis.",
    "takeaway": "Diuretic-related urgency: keep the dose in the morning and plan bathroom access. Don’t limit fluids or skip doses.",
    "hintContent": "Connect how diuretics raise bladder volume to the timing of urgency. Recall why fluids shouldn’t be limited and why nocturia is avoided.",
-   "hintStrategy": "Each wrong option fixes the leaking but creates a new safety problem. Find the one that keeps the therapy and prevents leaks."
+   "hintStrategy": "Each wrong option fixes the leaking but creates a new safety problem. Find the one that keeps the therapy and prevents leaks.",
+   "bestAnswer": true
   },
   {
    "id": "m5x-010",
@@ -372,22 +378,23 @@ window.NURSE_DATA.push({
    "focus": "Lifespan & Diversity",
    "stem": "The parent of an 8-year-old reports, “He was dry at night for over a year, but since we moved and he started a new school 2 months ago, he’s been wetting the bed most nights.” Which response by the nurse is most accurate?",
    "options": [
-    "“Bedwetting is expected until about age 10, so no evaluation is needed for now.”",
-    "“Because this started suddenly, a kidney or bladder disease is the most likely cause.”",
+    "“Bedwetting is common at this age, and most children outgrow it with time.”",
+    "“Limiting drinks for 2 hours before bed is the best first step to stop it.”",
     "“This is secondary enuresis, and finding out what changed is key to helping him.”",
-    "“He has primary enuresis, which almost always goes away once he sleeps more lightly.”"
+    "“A bedwetting alarm is the most effective way to help him stay dry.”"
    ],
    "answer": 2,
    "optionRationales": [
-    "Nighttime enuresis is not considered a problem until after age 7. At 8, with new loss of control, he needs evaluation.",
-    "Most often enuresis is not caused by a medical disorder. Stress such as a move or a new school is a common trigger.",
-    "Correct. Losing nighttime control after at least 6 months of dryness is secondary enuresis. Understanding why it started is essential to the child’s outcome and well-being.",
-    "Primary enuresis means the child has never had nighttime control. This child was dry for more than 6 months."
+    "Incorrect. Many children do outgrow bedwetting, but he was dry for over a year and then lost control. Reassurance alone skips finding the cause.",
+    "Incorrect. Limiting evening fluids is a reasonable measure, but it treats the symptom without looking for what triggered the change.",
+    "Correct. Losing nighttime control after at least 6 months of dryness is secondary enuresis. Identifying the trigger, such as the move and new school, comes before choosing treatment.",
+    "Incorrect. Alarms are effective for enuresis, but starting treatment before learning why wetting returned misses the stressor behind it."
    ],
    "rationale": "Primary enuresis means the child has never had nighttime control. Secondary enuresis means control lasted at least 6 months and was then lost. Understanding the cause is essential, and most enuresis is not due to a medical disorder. Life stressors such as a move are common triggers. Nighttime wetting is not considered a problem until after age 7.",
    "takeaway": "Dry 6 months or more, then wetting again = secondary enuresis. Find out why.",
    "hintContent": "Recall the definitions of primary and secondary enuresis, the age when nighttime wetting becomes a concern, and the usual causes.",
-   "hintStrategy": "Classify the enuresis from the history first. Then rule out options that misstate the age cutoff or the usual cause."
+   "hintStrategy": "Classify the enuresis from the history first. Then rule out options that misstate the age cutoff or the usual cause.",
+   "bestAnswer": true
   },
   {
    "id": "m5x-012",
@@ -412,15 +419,16 @@ window.NURSE_DATA.push({
    ],
    "answer": 3,
    "optionRationales": [
-    "Bladder training is appropriate for urge incontinence, but it should not start while a possible infection is causing the urgency.",
-    "Kegels help suppress urgency. They are not the first step when new symptoms point to an infection.",
-    "Limiting fluids concentrates urine and irritates the bladder further. Adequate fluid is encouraged.",
+    "Incorrect. Bladder training is appropriate for urge incontinence, but it should not start while a possible infection is causing the urgency.",
+    "Incorrect. Kegels help suppress urgency. They are not the first step when new symptoms point to an infection.",
+    "Incorrect. Limiting fluids concentrates urine and irritates the bladder further. Adequate fluid is encouraged.",
     "Correct. Dysuria and cloudy, foul-smelling urine suggest a UTI, a listed risk factor that worsens incontinence. A urinalysis and culture identify the infection so it can be treated first."
    ],
    "rationale": "New, worse urgency with dysuria and cloudy, foul-smelling urine suggests a UTI. UTI is a risk factor for incontinence, and medication for UTI is part of incontinence therapy. Treating the underlying cause comes before starting behavior therapy. Otherwise training is set up to fail, and the infection goes untreated.",
    "takeaway": "Sudden worse urgency with burning and cloudy urine: check for UTI before starting bladder training.",
    "hintContent": "Connect UTI as a risk factor for incontinence with the diagnostic tests for urine and the therapies for incontinence.",
-   "hintStrategy": "When symptoms suddenly change, look for a treatable cause before starting long-term behavior therapy."
+   "hintStrategy": "When symptoms suddenly change, look for a treatable cause before starting long-term behavior therapy.",
+   "bestAnswer": true
   },
   {
    "id": "m5x-013",
@@ -485,14 +493,15 @@ window.NURSE_DATA.push({
    "answer": 0,
    "optionRationales": [
     "Correct. A bladder diary sets the baseline pattern. The voiding schedule is built from it and then gradually lengthened.",
-    "The goal interval is 3 to 4 hours, but intervals are lengthened gradually from her current baseline. Jumping to 4 hours would cause more leaks and discouragement.",
-    "Kegels to suppress the urge are part of bladder training, but they come once the schedule is set. Without a baseline, there is no schedule yet.",
-    "Limiting fluids concentrates urine, which irritates the bladder and worsens urgency."
+    "Incorrect. The goal interval is 3 to 4 hours, but intervals are lengthened gradually from her current baseline. Jumping to 4 hours would cause more leaks and discouragement.",
+    "Incorrect. Kegels to suppress the urge are part of bladder training, but they come once the schedule is set. Without a baseline, there is no schedule yet.",
+    "Incorrect. Limiting fluids concentrates urine, which irritates the bladder and worsens urgency."
    ],
    "rationale": "Bladder training lengthens the interval between voids toward 3 to 4 hours to reduce frequency and urgency and stabilize the bladder. Kegels are used to inhibit the urge in between. It starts with a bladder diary, because the schedule is built from her actual pattern and lengthened gradually. Fluid restriction works against the goal.",
    "takeaway": "Bladder training starts with a diary, then the interval is lengthened gradually toward 3–4 hours, with Kegels to hold off the urge.",
    "hintContent": "Recall the components of bladder training: diary, schedule, gradual lengthening, and urge inhibition.",
-   "hintStrategy": "Several options are parts of bladder training. Ask which one has to come before the others can work."
+   "hintStrategy": "Several options are parts of bladder training. Ask which one has to come before the others can work.",
+   "bestAnswer": true
   },
   {
    "id": "m5x-015",
@@ -516,15 +525,16 @@ window.NURSE_DATA.push({
    ],
    "answer": 1,
    "optionRationales": [
-    "Nocturia is a manifestation of urge incontinence, one of the problems oxybutynin is meant to treat.",
+    "Incorrect. Nocturia is a manifestation of urge incontinence, one of the problems oxybutynin is meant to treat.",
     "Correct. Anticholinergics such as oxybutynin should be avoided in clients with glaucoma because they can raise eye pressure.",
-    "Topical estrogen is another therapy for incontinence in postmenopausal women. It is not a reason to hold the anticholinergic.",
-    "Caffeine is a bladder irritant to address in teaching, but it is not a safety concern that requires holding the drug."
+    "Incorrect. Topical estrogen is another therapy for incontinence in postmenopausal women. It is not a reason to hold the anticholinergic.",
+    "Incorrect. Caffeine is a bladder irritant to address in teaching, but it is not a safety concern that requires holding the drug."
    ],
    "rationale": "Anticholinergics such as oxybutynin relax the overactive detrusor muscle to reduce urgency and frequency. They have significant side effects and should be avoided in clients with glaucoma. The other findings are related to incontinence and call for teaching, not for questioning the prescription.",
    "takeaway": "Oxybutynin (anticholinergic): avoid in glaucoma.",
    "hintContent": "Recall the anticholinergic used for urge incontinence, how it works, and the condition in which it should be avoided.",
-   "hintStrategy": "Separate findings that are part of the problem being treated from findings that make the drug unsafe."
+   "hintStrategy": "Separate findings that are part of the problem being treated from findings that make the drug unsafe.",
+   "bestAnswer": true
   },
   {
    "id": "m5x-016",
@@ -586,15 +596,16 @@ window.NURSE_DATA.push({
    ],
    "answer": 2,
    "optionRationales": [
-    "Relaxing the detrusor muscle is the action of anticholinergics used for urge incontinence.",
-    "Antibiotics treat UTIs. Estrogen is not an antibiotic.",
+    "Incorrect. Relaxing the detrusor muscle is the action of anticholinergics used for urge incontinence.",
+    "Incorrect. Antibiotics treat UTIs. Estrogen is not an antibiotic.",
     "Correct. Low estrogen after menopause thins the urethral and vaginal tissue and lowers urethral resistance. Topical estrogen restores that tissue.",
-    "Estrogen does not reduce urine production. Lowering bladder volume is not how it helps."
+    "Incorrect. Estrogen does not reduce urine production. Lowering bladder volume is not how it helps."
    ],
    "rationale": "Decreased estrogen during menopause is a listed cause of incontinence, because thinner tissue means less urethral resistance. Topical estrogen is used for postmenopausal women with atrophic vaginitis. It restores tissue tone so the urethra resists bladder pressure better. This is different from how anticholinergics or antibiotics work.",
    "takeaway": "Topical estrogen rebuilds thin postmenopausal tissue, which increases urethral resistance.",
    "hintContent": "Connect the cause (low estrogen means weak urethral tissue) to the therapy (topical estrogen).",
-   "hintStrategy": "Match the drug to its mechanism. Eliminate options that describe a different drug class."
+   "hintStrategy": "Match the drug to its mechanism. Eliminate options that describe a different drug class.",
+   "bestAnswer": true
   },
   {
    "id": "m5x-018",
@@ -612,22 +623,23 @@ window.NURSE_DATA.push({
    "focus": "Client Teaching",
    "stem": "The parents of a 9-year-old with primary nocturnal enuresis say they have tried limiting drinks after dinner, with little improvement. A medical cause has been ruled out. Which treatment should the nurse explain is most effective for bedwetting?",
    "options": [
-    "Waking the child every 2 hours through the night to void",
-    "Stopping all fluids after school each day",
-    "Medication, because it is the first and most effective treatment",
+    "Waking the child once a night to void before the usual wet time",
+    "Desmopressin at bedtime, which reduces wetting while it is taken",
+    "A reward chart that gives the child a sticker for each dry night",
     "A bedwetting alarm that wakes the child when wetting begins"
    ],
    "answer": 3,
    "optionRationales": [
-    "Waking a child on a fixed schedule disrupts sleep and does not teach the child to respond to bladder signals.",
-    "Stopping fluids for that long risks dehydration and concentrated urine, and it does not address the cause.",
-    "Medications are sometimes used, but alarms are the most effective treatment. Behavioral and dietary changes come first.",
-    "Correct. Alarms are the most effective treatment for bedwetting. They condition the child to wake to the sensation of a full bladder."
+    "Incorrect. Scheduled waking may reduce wet nights, but the parent does the waking, so the child does not learn to respond to bladder signals.",
+    "Incorrect. Desmopressin reduces nighttime urine and can help, but wetting often returns when it is stopped. Alarms have more lasting results.",
+    "Incorrect. Reward charts support motivation and are a reasonable add-on, but on their own they are less effective than an alarm.",
+    "Correct. Alarms are the most effective treatment for bedwetting. They condition the child to wake to the sensation of a full bladder, so results last after treatment ends."
    ],
    "rationale": "Enuresis is treated with behavioral changes, dietary changes to manage constipation, and sometimes medication. Bedwetting alarms are the most effective treatment. Most nighttime enuresis improves as the child matures.",
    "takeaway": "The most effective treatment for bedwetting is an alarm.",
    "hintContent": "Recall the key points about enuresis treatment, especially which treatment is described as most effective.",
-   "hintStrategy": "Several options sound active. Pick the one the evidence names as most effective, not the most restrictive one."
+   "hintStrategy": "Several options sound active. Pick the one the evidence names as most effective, not the most restrictive one.",
+   "bestAnswer": true
   },
   {
    "id": "m5x-019",
@@ -653,14 +665,15 @@ window.NURSE_DATA.push({
    "answer": 0,
    "optionRationales": [
     "Correct. Habit training means voiding at the times identified in the bladder diary to prevent incontinence episodes.",
-    "Kegels require the client to understand and cooperate. They do not fit moderate dementia, and they are not habit training.",
-    "Checking and changing the brief protects the skin but only contains the incontinence. It does not prevent episodes.",
-    "Fluids are limited only near bedtime to prevent nocturia, not cut off after supper. Restriction concentrates urine."
+    "Incorrect. Kegels require the client to understand and cooperate. They do not fit moderate dementia, and they are not habit training.",
+    "Incorrect. Checking and changing the brief protects the skin but only contains the incontinence. It does not prevent episodes.",
+    "Incorrect. Fluids are limited only near bedtime to prevent nocturia, not cut off after supper. Restriction concentrates urine."
    ],
    "rationale": "Habit training uses the bladder diary to time voiding to the client’s own pattern and prevent incontinence episodes. It suits clients with cognitive impairment who cannot follow bladder training. Brief changes and skin care are needed, but they do not prevent episodes.",
    "takeaway": "Habit training = toilet at the client’s own diary-identified times.",
    "hintContent": "Distinguish bladder training, habit training, and scheduled toileting. Consider which fits a client with dementia.",
-   "hintStrategy": "Choose the instruction that carries out the ordered therapy and prevents episodes, rather than only managing them."
+   "hintStrategy": "Choose the instruction that carries out the ordered therapy and prevents episodes, rather than only managing them.",
+   "bestAnswer": true
   },
   {
    "id": "m5x-020",
@@ -718,19 +731,20 @@ window.NURSE_DATA.push({
     "The therapy is not working because she still has nocturia, so an anticholinergic should be added",
     "She is progressing, so the interval should keep lengthening gradually toward 3 to 4 hours",
     "The goal has been met, so she can stop the diary and the schedule",
-    "She should stop all fluids after 1800 to get rid of the remaining night-time voiding"
+    "She is progressing, so she can now wait a full 4 hours between voids"
    ],
    "answer": 1,
    "optionRationales": [
-    "Getting up once a night is not a reason to call training a failure. Her daytime pattern shows clear improvement.",
+    "Incorrect. Adding a drug may seem logical, but one night void is common and her daytime pattern shows clear improvement. Training is working.",
     "Correct. A longer interval and no leaks show progress toward the 3- to 4-hour goal, so training continues with gradual lengthening.",
-    "The target interval is 3 to 4 hours. Stopping at 2½ hours leaves the goal unmet.",
-    "Fluids are limited at night, not stopped early in the evening. Restriction concentrates urine and irritates the bladder."
+    "Incorrect. Her progress is real, but the target is 3 to 4 hours. Stopping at 2½ hours leaves the goal unmet.",
+    "Incorrect. She is progressing, but jumping straight to 4 hours is too fast. Intervals are lengthened gradually, and a sudden jump can bring back urgency and leaks."
    ],
    "rationale": "Bladder training gradually lengthens the voiding interval to 3 to 4 hours to stabilize the bladder and reduce urgency. Going from 1 hour to 2½ hours with no leaks is clear progress, but the goal is not yet met. Evaluation compares the data to the goal, then continues the plan or explores obstacles before changing it.",
    "takeaway": "Evaluate against the goal (a 3–4 hour interval). Progress means continue, not stop or switch.",
    "hintContent": "Recall the target interval for bladder training and how to evaluate progress toward a goal.",
-   "hintStrategy": "Compare her current numbers to the stated goal. Is she there, partway, or getting worse?"
+   "hintStrategy": "Compare her current numbers to the stated goal. Is she there, partway, or getting worse?",
+   "bestAnswer": true
   },
   {
    "id": "m5x-022",
@@ -755,15 +769,16 @@ window.NURSE_DATA.push({
    ],
    "answer": 2,
    "optionRationales": [
-    "Holding the next dose and reporting it is appropriate, but it comes after confirming retention. It does not address urine that may already be retained.",
-    "Adding fluid to a bladder that cannot empty increases distention and discomfort.",
+    "Incorrect. Holding the next dose and reporting it is appropriate, but it comes after confirming retention. It does not address urine that may already be retained.",
+    "Incorrect. Adding fluid to a bladder that cannot empty increases distention and discomfort.",
     "Correct. Anticholinergics are a risk factor for urinary retention. Assessing for a firm, distended bladder with dullness and measuring the volume confirms retention and guides the next step.",
-    "Catheterization may be needed, but it requires an order and should follow an assessment that confirms retention."
+    "Incorrect. Catheterization may be needed, but it requires an order and should follow an assessment that confirms retention."
    ],
    "rationale": "Anticholinergics reduce detrusor contraction, which helps urge incontinence but can cause urinary retention. In an older adult they can also cause confusion. No voiding for 8 hours, restlessness, and lower abdominal discomfort suggest retention. Assessment comes first: palpate and percuss for a firm, dull bladder, then scan to measure the volume.",
    "takeaway": "Anticholinergic plus no voiding plus discomfort = suspect retention. Assess and scan the bladder first.",
    "hintContent": "Connect the action of anticholinergics to urinary retention. Recall the physical findings and the test that confirm a full bladder.",
-   "hintStrategy": "Several options are reasonable steps. Ask which one confirms the suspected problem before you act on it."
+   "hintStrategy": "Several options are reasonable steps. Ask which one confirms the suspected problem before you act on it.",
+   "bestAnswer": true
   },
   {
    "id": "m5x-023",
@@ -820,20 +835,21 @@ window.NURSE_DATA.push({
    "options": [
     "Give the prescribed PRN opioid for the abdominal pain",
     "Encourage 500 mL of oral fluids to help start a stream",
-    "Document the findings and recheck in 1 hour",
+    "Run tap water and pour warm water over the perineum",
     "Perform a bladder scan to measure the volume of urine"
    ],
    "answer": 3,
    "optionRationales": [
-    "Opioids do not relieve a distended bladder and can worsen retention. The pain is a cue to find and treat the cause.",
-    "More fluid would add to a bladder that already cannot empty and increase distention.",
-    "Acute retention is a medical emergency. Waiting an hour lets distention and pain get worse.",
-    "Correct. Sudden painful inability to void with a firm, dull bladder suggests acute retention after anesthesia. A bladder scan quickly confirms the volume so decompression can proceed without delay."
+    "Incorrect. Pain relief matters, but opioids do not relieve a distended bladder and can worsen retention. The cause must be treated.",
+    "Incorrect. Fluids are often used to promote voiding, but they add volume to a bladder that already cannot empty.",
+    "Incorrect. These measures can help a client start voiding, but this bladder is already painful and overdistended. Waiting on them delays confirming the volume and decompressing the bladder.",
+    "Correct. Sudden painful inability to void with a firm, dull bladder suggests acute retention. A bladder scan quickly confirms the volume so decompression can proceed without delay."
    ],
-   "rationale": "Anesthesia is a major risk factor for urinary retention. Sudden painful inability to void despite a full bladder, a firm distended bladder, and dullness on percussion are the manifestations of acute retention, a medical emergency. A noninvasive bladder scan confirms the volume and leads to decompression by catheterization. Fluids, waiting, and opioids delay treatment or make retention worse.",
+   "rationale": "Anesthesia is a major risk factor for urinary retention. Sudden painful inability to void despite a full bladder, a firm distended bladder, and dullness on percussion are the manifestations of acute retention, a medical emergency. A noninvasive bladder scan confirms the volume and leads to decompression by catheterization. Voiding aids and fluids delay treatment, and opioids can make retention worse.",
    "takeaway": "Sudden painful inability to void with a firm, dull bladder = acute retention, an emergency. Scan, then decompress.",
    "hintContent": "Connect anesthesia as a risk factor with the manifestations of acute retention and the noninvasive test that measures bladder volume.",
-   "hintStrategy": "Recognize the emergency first. Then pick the action that moves fastest toward relief without causing harm."
+   "hintStrategy": "Recognize the emergency first. Then pick the action that moves fastest toward relief without causing harm.",
+   "bestAnswer": true
   },
   {
    "id": "m5x-025",
@@ -964,21 +980,22 @@ window.NURSE_DATA.push({
    "stem": "A 70-kg client is 1 day post-op. The nurse reviews the 8-hour shift data in the exhibit. Which interpretation is most accurate?",
    "options": [
     "The kidneys are producing urine, but the bladder is retaining it, so voided output is well below the expected 280 mL",
-    "The client is dehydrated, so IV fluids should be increased to raise urine output",
-    "Voided output is low, which signals kidney failure, so the provider should be told the kidneys have stopped filtering",
-    "Output is adequate because the client has voided twice during the shift"
+    "The client is dehydrated after surgery, so the IV fluid rate should be increased to raise urine output",
+    "Output is below the expected 280 mL, so the provider should be told the client may have acute kidney injury",
+    "Intake exceeds output by 1,300 mL, so the client is holding the extra fluid in the tissues as edema"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. The expected output is 0.5 mL/kg/hr × 70 kg × 8 hr = 280 mL. Only 100 mL was voided, yet the scan shows 600 mL retained. Small, frequent voids with a large residual mean retention.",
-    "Intake was 1,400 mL and membranes are moist, and 600 mL is sitting in the bladder. The client is not dehydrated, and more fluid would worsen distention.",
-    "The 600 mL in the bladder shows urine is being produced. The problem is emptying, not kidney filtering.",
-    "The number of voids does not show adequacy. 100 mL in 8 hours is far below expected, and most of the urine is retained."
+    "Incorrect. Low output can signal dehydration, but intake was 1,400 mL, membranes are moist, and 600 mL is in the bladder. More fluid would worsen distention.",
+    "Incorrect. The voided amount is below 280 mL, but the 600 mL in the bladder shows the kidneys are making urine. The problem is emptying, not kidney injury.",
+    "Incorrect. The intake and output gap is real, but most of the missing fluid is the 600 mL sitting in the bladder, not fluid in the tissues."
    ],
    "rationale": "Applying 0.5 mL/kg/hr gives an expected 280 mL for 8 hours. Voided output alone (100 mL) looks like oliguria, but the bladder scan shows 600 mL retained. With a feeling of incomplete emptying and urgency after voiding, this is retention after anesthesia. Output looks low only because urine is not leaving the bladder. The plan is bladder decompression, not more fluid.",
    "takeaway": "Low voided output plus a large post-void residual = retention, not kidney failure. Always compare with 0.5 mL/kg/hr.",
    "hintContent": "Apply the expected urine output formula. Connect the bladder scan result and the reported symptoms to whether the problem is producing urine or emptying it.",
-   "hintStrategy": "Calculate the expected output, then ask where the missing urine is. Is it not being made, or not getting out?"
+   "hintStrategy": "Calculate the expected output, then ask where the missing urine is. Is it not being made, or not getting out?",
+   "bestAnswer": true
   },
   {
    "id": "m5x-028",
@@ -995,22 +1012,23 @@ window.NURSE_DATA.push({
    "focus": "Prioritization",
    "stem": "A client with chronic urinary retention has an indwelling catheter. For the past 2 hours there has been no urine in the drainage bag, and the client reports suprapubic fullness and an urge to void. Which action should the nurse take first?",
    "options": [
-    "Notify the provider that the client may be developing acute kidney failure",
+    "Notify the provider that the catheter has stopped draining",
     "Check the tubing for kinks or dependent loops and the bag’s position",
-    "Remove the catheter and ask the client to try to void",
+    "Irrigate the catheter with sterile saline to clear a blockage",
     "Encourage the client to drink more fluids to flush the catheter"
    ],
    "answer": 1,
    "optionRationales": [
-    "Suprapubic fullness means urine is being made and is collecting in the bladder. Kidney failure is not the likely explanation, and checking the system comes first.",
+    "Incorrect. The provider may need to know, but a kink or bag position is a common cause the nurse can find and fix in seconds. Check the system first.",
     "Correct. No drainage with a full bladder suggests a mechanical obstruction. Kinks, a client lying on the tubing, or a bag above the bladder are quick, common causes the nurse can fix right away.",
-    "Removing a catheter requires an order. A client with known retention likely could not void and would become more distended.",
-    "More fluid adds to a bladder that is not draining. The flow problem has to be found first."
+    "Incorrect. Irrigation may be needed for a clot, but it requires an order and is invasive. Simple external causes are ruled out first.",
+    "Incorrect. Fluids support catheter care, but adding volume to a bladder that is not draining increases fullness. The flow problem must be found first."
    ],
-   "rationale": "When urine collects in the bladder but not in the bag, the drainage system is the first suspect. The nurse checks for kinks, tubing compression, dependent loops, and bag position before assuming kidney failure or changing the catheter. Catheter care is part of reducing retention and preventing UTIs.",
+   "rationale": "When urine collects in the bladder but not in the bag, the drainage system is the first suspect. The nurse checks for kinks, tubing compression, dependent loops, and bag position before calling the provider or irrigating the catheter. Catheter care is part of reducing retention and preventing UTIs.",
    "takeaway": "Catheter not draining and the bladder is full? Check the tubing and bag position first.",
    "hintContent": "Connect suprapubic fullness to where the urine is. Recall basic indwelling catheter care and drainage principles.",
-   "hintStrategy": "Rule out the simplest, most fixable cause before choosing invasive or provider-level actions."
+   "hintStrategy": "Rule out the simplest, most fixable cause before choosing invasive or provider-level actions.",
+   "bestAnswer": true
   },
   {
    "id": "m5x-029",
@@ -1075,15 +1093,16 @@ window.NURSE_DATA.push({
    ],
    "answer": 2,
    "optionRationales": [
-    "Fewer urges is the goal of anticholinergic therapy for urge incontinence, not of a cholinergic drug given for retention.",
-    "Reddish-orange urine is an expected effect of phenazopyridine (Pyridium), a urinary analgesic.",
+    "Incorrect. Fewer urges is the goal of anticholinergic therapy for urge incontinence, not of a cholinergic drug given for retention.",
+    "Incorrect. Reddish-orange urine is an expected effect of phenazopyridine (Pyridium), a urinary analgesic.",
     "Correct. Bethanechol is a cholinergic that promotes urination. A good void with a small residual shows the bladder is now emptying.",
-    "Fewer bladder spasms is the goal of urinary antispasmodics."
+    "Incorrect. Fewer bladder spasms is the goal of urinary antispasmodics."
    ],
    "rationale": "Cholinergic medications such as bethanechol stimulate the detrusor to contract and promote urination, so they are used for retention. Effectiveness is shown by better emptying: adequate voided volume and a small post-void residual. The other options describe the goals of different drug classes.",
    "takeaway": "Bethanechol (cholinergic) promotes urination. It is working when the client voids well with a low residual.",
    "hintContent": "Contrast cholinergic and anticholinergic urinary drugs. Recall how bladder emptying is measured.",
-   "hintStrategy": "Identify what the drug is supposed to do, then choose the measurable finding that shows it happened."
+   "hintStrategy": "Identify what the drug is supposed to do, then choose the measurable finding that shows it happened.",
+   "bestAnswer": true
   },
   {
    "id": "m5x-031",
@@ -1107,15 +1126,16 @@ window.NURSE_DATA.push({
    ],
    "answer": 3,
    "optionRationales": [
-    "A weak stream and urgency after voiding describe chronic retention. It is painless and needs follow-up, but it is not urgent.",
-    "Urine output increases early after delivery. Voids of 300 to 400 mL show she is emptying well.",
-    "45 mL/hr is above the 30 mL/hr average and the 0.5 mL/kg/hr expectation. The catheter is draining well.",
+    "Incorrect. A weak stream and urgency after voiding describe chronic retention. It is painless and needs follow-up, but it is not urgent.",
+    "Incorrect. Urine output increases early after delivery. Voids of 300 to 400 mL show she is emptying well.",
+    "Incorrect. 45 mL/hr is above the 30 mL/hr average and the 0.5 mL/kg/hr expectation. The catheter is draining well.",
     "Correct. No voiding for 9 hours with restlessness and a firm, tender, distended bladder after surgery means acute retention, a medical emergency that needs decompression."
    ],
    "rationale": "Acute urinary retention, a sudden painful inability to void with a distended bladder, is a medical emergency. Chronic retention is painless and is managed over time. Adequate postpartum voids and a well-draining catheter are expected findings.",
    "takeaway": "Acute painful retention comes before chronic retention and stable output.",
    "hintContent": "Compare acute and chronic retention. Recall normal urine output values and the expected postpartum changes.",
-   "hintStrategy": "Identify the one client with a sudden, painful change that could cause harm if not treated now."
+   "hintStrategy": "Identify the one client with a sudden, painful change that could cause harm if not treated now.",
+   "bestAnswer": true
   },
   {
    "id": "m5x-032",
@@ -1170,21 +1190,22 @@ window.NURSE_DATA.push({
    "stem": "An 80-year-old resident who has not had a bowel movement in 7 days now voids only small amounts and has a distended lower abdomen. A digital exam reveals a hard mass of stool in the rectum. Which explanation best links these findings?",
    "options": [
     "The hard stool mass presses on the bladder neck and urethra and blocks urine flow",
-    "Weeks of straining have permanently weakened the detrusor muscle",
-    "Constipation causes dehydration, so the kidneys have stopped making urine",
-    "Bacteria from the stool have caused a UTI, which is the only reason for the small voids"
+    "The hard stool traps gas in the colon, which causes the abdominal distention",
+    "Poor fluid intake has made her urine scant and concentrated, so she voids less",
+    "Stool bacteria may have caused a UTI, which makes her void only small amounts"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Fecal impaction causes urinary retention. The packed rectum compresses the bladder outlet, so small voids and a distended abdomen follow.",
-    "Straining is not described as permanently weakening the detrusor, and the findings came on with the impaction.",
-    "A distended lower abdomen suggests urine is being retained, not that the kidneys have stopped making it.",
-    "Repeated UTIs are a retention risk factor, but nothing here suggests infection. The impaction explains the findings directly."
+    "Correct. Fecal impaction causes urinary retention. The packed rectum compresses the bladder outlet, so small voids and a distended lower abdomen follow. This links all the findings.",
+    "Incorrect. Impaction can cause bloating, but this explains only the distention, not the small voids. It does not link the bowel and urine findings.",
+    "Incorrect. Low intake is common in older adults, but it would not cause a distended lower abdomen. The findings point to retained urine, not low production.",
+    "Incorrect. Impaction does raise UTI risk, and UTIs cause small, frequent voids, but nothing suggests infection. Compression of the outlet explains the findings directly."
    ],
    "rationale": "Hardened stool collecting in the rectum raises pressure in the colon and causes urinary retention by compressing the bladder neck and urethra. Constipation is also a listed risk factor for both retention and incontinence. Relieving the impaction is part of relieving the retention.",
    "takeaway": "Fecal impaction can cause urinary retention. Check the bowels when a client can’t empty the bladder.",
    "hintContent": "Connect the pathophysiology of fecal impaction with the risk factors for urinary retention.",
-   "hintStrategy": "Choose the explanation that ties together both findings in the stem without adding information that isn’t there."
+   "hintStrategy": "Choose the explanation that ties together both findings in the stem without adding information that isn’t there.",
+   "bestAnswer": true
   },
   {
    "id": "m5x-034",
@@ -1247,15 +1268,16 @@ window.NURSE_DATA.push({
    ],
    "answer": 1,
    "optionRationales": [
-    "Giving an antidiarrheal on the assumption of diarrhea could worsen an impaction. Leakage around hard stool is not true diarrhea.",
+    "Incorrect. Giving an antidiarrheal on the assumption of diarrhea could worsen an impaction. Leakage around hard stool is not true diarrhea.",
     "Correct. Seven days without formed stool, constipating medications, and liquid seepage suggest impaction. Abdominal assessment and a digital rectal exam confirm it before treatment.",
-    "These medications contribute to constipation, but holding prescribed drugs is not the first step and needs a provider decision.",
-    "Fluid and fiber help prevent constipation but will not resolve an existing impaction. This teaching comes later."
+    "Incorrect. These medications contribute to constipation, but holding prescribed drugs is not the first step and needs a provider decision.",
+    "Incorrect. Fluid and fiber help prevent constipation but will not resolve an existing impaction. This teaching comes later."
    ],
    "rationale": "Liquid, foul-smelling stool with no formed stool is a classic sign of fecal impaction: liquid seeps around the hard mass. Opioids and iron are constipating. The nurse assesses first (abdomen, bowel sounds, digital rectal exam) rather than treating a mislabeled ‘diarrhea’ with an antidiarrheal.",
    "takeaway": "‘Diarrhea’ in a constipated client on opioids or iron? Assess for impaction before giving an antidiarrheal.",
    "hintContent": "Connect the seepage sign, constipating medications, and the assessment techniques for bowel elimination.",
-   "hintStrategy": "Question the label the report gives you. Assess to confirm the real problem before you treat it."
+   "hintStrategy": "Question the label the report gives you. Assess to confirm the real problem before you treat it.",
+   "bestAnswer": true
   },
   {
    "id": "m5x-036",
@@ -1270,22 +1292,23 @@ window.NURSE_DATA.push({
    "focus": "Delegation & Safety",
    "stem": "During digital removal of a fecal impaction, the client becomes pale and lightheaded. The heart rate drops from 78/min to 46/min, and the blood pressure falls from 128/76 to 92/54 mm Hg. Which action should the nurse take first?",
    "options": [
-    "Finish removing the stool quickly so the stimulation ends sooner",
-    "Give the prescribed oil-retention enema to soften the remaining stool",
+    "Notify the provider of the drop in heart rate and blood pressure",
+    "Prepare atropine as prescribed to treat the slow heart rate",
     "Stop the procedure and monitor the client’s vital signs",
     "Raise the head of the bed and continue more slowly"
    ],
    "answer": 2,
    "optionRationales": [
-    "Continuing keeps stimulating the vagus nerve and can worsen the bradycardia and hypotension.",
-    "An enema follows successful manual removal. Giving it now ignores an unstable client and adds rectal stimulation.",
+    "Incorrect. The provider should be told, but the stimulus is still acting. Stopping the procedure comes first and often reverses the response.",
+    "Incorrect. Atropine treats symptomatic bradycardia, but removing the vagal stimulus comes first and may make the drug unnecessary.",
     "Correct. Bradycardia, hypotension, and pallor during manual removal signal a vasovagal response. Stopping removes the stimulus, and close monitoring tracks recovery.",
-    "Any continued rectal stimulation keeps the vagal response going. The procedure must stop."
+    "Incorrect. Going slower seems gentler, but any continued rectal stimulation keeps the vagal response going, and raising the head can worsen hypotension."
    ],
    "rationale": "Manual removal breaks the impaction into smaller pieces, followed by an enema or suppository. Rectal stimulation can trigger a vasovagal response with bradycardia, hypotension, and lightheadedness. The nurse monitors for this throughout, and if it occurs, stops immediately and assesses vital signs.",
    "takeaway": "Manual disimpaction: watch for a vasovagal response (low HR and BP). If it happens, stop.",
    "hintContent": "Recall the procedure for manual removal of an impaction and the complication to monitor for.",
-   "hintStrategy": "Identify the physiologic response from the vital signs. Then remove its cause."
+   "hintStrategy": "Identify the physiologic response from the vital signs. Then remove its cause.",
+   "bestAnswer": true
   },
   {
    "id": "m5x-037",
@@ -1340,22 +1363,23 @@ window.NURSE_DATA.push({
    "focus": "Client Teaching",
    "stem": "A 45-year-old woman with occasional constipation asks how much fiber she should eat and where to get it. Which response by the nurse is accurate?",
    "options": [
-    "“About 38 grams a day, mostly from cheese, eggs, and lean meats.”",
-    "“About 10 grams a day, mostly from white bread and white rice.”",
+    "“About 38 grams a day, from whole grains, fruit, and vegetables.”",
+    "“About 15 grams a day, from whole grains, fruit, and vegetables.”",
     "“About 25 grams a day, with less fluid so the extra fiber stays bulky.”",
     "“About 25 grams a day, from whole grains, fruit, and vegetables.”"
    ],
    "answer": 3,
    "optionRationales": [
-    "38 g is the goal for men, and cheese, eggs, and meat contain little or no fiber.",
-    "10 g is far below the goal, and refined grains are low in fiber.",
-    "25 g is the right amount, but fiber needs adequate fluid to work. Reducing fluid can worsen constipation.",
+    "Incorrect. The food sources are right, but 38 g a day is the goal for men. The goal for women is 25 g.",
+    "Incorrect. The food sources are right, but 15 g is close to the typical low intake, not the goal. Women need about 25 g a day.",
+    "Incorrect. 25 g is the right amount, but fiber needs adequate fluid to soften stool. Reducing fluid can worsen constipation.",
     "Correct. The goal for women is 25 g a day, from whole-grain cereals and breads, fresh fruit, and vegetables, with adequate fluid."
    ],
    "rationale": "Dietary management of constipation sets fiber goals of 25 g a day for women and 38 g a day for men. Fiber comes from whole-grain cereals and breads, fresh fruit, and vegetables, together with adequate fluid. Fiber without fluid can harden stool.",
    "takeaway": "Fiber: 25 g/day for women, 38 g/day for men, from whole grains, fruit, and vegetables, plus fluid.",
    "hintContent": "Recall the daily fiber targets by sex and the high-fiber food sources.",
-   "hintStrategy": "Check each option for both the right number for this client and the right food sources and fluid advice."
+   "hintStrategy": "Check each option for both the right number for this client and the right food sources and fluid advice.",
+   "bestAnswer": true
   },
   {
    "id": "m5x-039",
@@ -1373,21 +1397,22 @@ window.NURSE_DATA.push({
    "stem": "A client reports that for the past 7 months she has had about two bowel movements a week, strains with most of them, and passes hard, lumpy stools. She has not used laxatives. How should the nurse interpret these findings?",
    "options": [
     "They meet chronic constipation criteria: two or more symptoms for the last 3 months, with onset at least 6 months ago",
-    "They are not constipation, because she still has a bowel movement every single week",
-    "They suggest acute constipation that should resolve with one dose of a laxative",
-    "They indicate fecal impaction, because her stools are hard"
+    "They meet constipation criteria, but chronic constipation requires symptoms that began at least 12 months ago",
+    "They suggest irritable bowel syndrome, because she has had hard stools and straining for more than 6 months",
+    "They suggest fecal impaction, because she passes hard, lumpy stools and strains with most bowel movements"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Rome IV criteria for chronic constipation require two or more of: straining, lumpy or hard stool, a feeling of incomplete emptying, manual maneuvers, or fewer than 3 BMs a week, present for the last 3 months with onset at least 6 months before diagnosis. She has three of these, and they began 7 months ago.",
-    "Constipation is defined by fewer than 3 bowel movements a week or difficult passage, not by having none.",
-    "Seven months of symptoms is chronic, not acute, and a single laxative dose is not the management approach.",
-    "Impaction is a mass of hardened stool with seepage of liquid and nonproductive straining. She is still passing stool."
+    "Correct. Rome IV chronic constipation requires two or more of: straining, lumpy or hard stool, incomplete emptying, manual maneuvers, or fewer than 3 BMs a week, for the last 3 months with onset at least 6 months ago. She meets this.",
+    "Incorrect. She does meet constipation criteria, but the onset requirement is at least 6 months, not 12. Her 7 months of symptoms qualifies as chronic.",
+    "Incorrect. IBS can cause constipation, but it requires recurrent abdominal pain, which she does not report. Her findings match chronic constipation.",
+    "Incorrect. Hard stools and straining occur with impaction, but impaction involves a hardened mass with liquid seepage. She is still passing stool."
    ],
    "rationale": "Constipation means fewer than 3 BMs a week or difficult passage of hard, dry stools. Chronic constipation by Rome IV criteria is two or more of: straining, lumpy or hard stool, incomplete emptying, manual maneuvers, or fewer than 3 BMs a week, present for the last 3 months with onset at least 6 months before diagnosis. This client has straining, hard stools, and 2 BMs a week for 7 months.",
    "takeaway": "Chronic constipation = 2 or more Rome IV criteria for the last 3 months, with onset at least 6 months before diagnosis.",
    "hintContent": "Recall the definition of constipation and the Rome IV criteria for chronic constipation.",
-   "hintStrategy": "Count how many criteria she meets and for how long. Compare with the required number and duration."
+   "hintStrategy": "Count how many criteria she meets and for how long. Compare with the required number and duration.",
+   "bestAnswer": true
   },
   {
    "id": "m5x-040",
@@ -1445,22 +1470,23 @@ window.NURSE_DATA.push({
    "focus": "Lifespan & Diversity",
    "stem": "A client at 28 weeks’ gestation reports hard stools every 3 to 4 days and new hemorrhoids. She asks why this is happening. Which explanation by the nurse is most accurate?",
    "options": [
-    "“The baby absorbs most of the fluid you drink, so your stool dries out and hardens.”",
+    "“Higher progesterone relaxes the bowel muscle, so stool moves through more slowly.”",
     "“Higher progesterone slows your bowel, the uterus crowds it, and iron adds to it.”",
-    "“Constipation in pregnancy usually means your intestine is partly blocked.”",
-    "“Your prenatal vitamin is the only cause, so you should stop taking it.”"
+    "“Your growing uterus presses on the bowel and slows the movement of stool.”",
+    "“The iron in your prenatal vitamin is very constipating and is the main cause.”"
    ],
    "answer": 1,
    "optionRationales": [
-    "This is not the mechanism. Maternal fluid intake and stool hydration are not explained by the fetus absorbing fluid.",
-    "Correct. Increased progesterone slows peristalsis, the growing uterus displaces the small intestine, and prenatal iron is constipating. Hemorrhoids often follow.",
-    "Constipation in pregnancy is common and expected. It does not usually signal obstruction.",
-    "Iron contributes, but it is one of several causes. Stopping a prescribed prenatal vitamin is not appropriate."
+    "Incorrect. Progesterone does slow motility, but this gives only one of the causes. Uterine pressure and prenatal iron also contribute.",
+    "Correct. Increased progesterone slows peristalsis, the growing uterus displaces the intestines, and prenatal iron is constipating. This is the only response that names all three causes.",
+    "Incorrect. The enlarging uterus does crowd the bowel, but this leaves out the hormonal effect of progesterone and the iron in her vitamins.",
+    "Incorrect. Iron is constipating, but it is one of several causes, not the main one. Progesterone and uterine pressure also play a role."
    ],
    "rationale": "In pregnancy, increased progesterone slows motility, the growing uterus displaces the intestines, and prenatal iron is constipating. Straining with hard stools contributes to hemorrhoids. Management uses fiber, fluids, and activity rather than stopping prenatal vitamins.",
    "takeaway": "Pregnancy constipation = progesterone + crowding by the uterus + iron.",
    "hintContent": "Recall the lifespan factors for constipation during pregnancy.",
-   "hintStrategy": "Choose the answer that names all the contributing causes accurately without advising a harmful change."
+   "hintStrategy": "Choose the answer that names all the contributing causes accurately without advising a harmful change.",
+   "bestAnswer": true
   },
   {
    "id": "m5x-042",
@@ -1477,22 +1503,23 @@ window.NURSE_DATA.push({
    "focus": "Lifespan & Diversity",
    "stem": "The parent of a 6-year-old who has been toilet trained since age 3 says that for the past 6 weeks the child has had only one bowel movement a week. The stools are large, hard, and painful, sometimes clog the toilet, and the child hides to hold them in. Which response by the nurse is most appropriate?",
    "options": [
-    "“He is holding it in on purpose, so taking away privileges after accidents will help.”",
-    "“Constipation can’t be diagnosed until age 8, so it’s best to watch and wait for now.”",
+    "“Praise him for sitting on the toilet, and avoid scolding him for accidents.”",
+    "“Give him more water and fruit each day until his stools soften.”",
     "“A set toilet time after meals, more fiber, fluids, and activity will help.”",
-    "“A daily enema until his stools are normal will retrain his bowel quickly.”"
+    "“Have him sit on the toilet for 5 minutes each morning before school.”"
    ],
    "answer": 2,
    "optionRationales": [
-    "Punishment adds stress and fear, which makes withholding worse. Painful stools lead to holding them in.",
-    "Constipation is diagnosed in children older than 4. This child meets the criteria.",
-    "Correct. Children’s constipation is managed with behavior modification, a scheduled toilet routine, diet, regular activity, and a laxative if needed. Softer stools make defecation less painful, so withholding decreases.",
-    "Daily enemas are invasive and are not the first-line intervention. Behavior and diet changes come first."
+    "Incorrect. Positive reinforcement is part of behavior management, but praise alone does not soften stool or set a routine.",
+    "Incorrect. Fluids and fruit help soften stool, but diet alone leaves out scheduled toileting and activity, so withholding can continue.",
+    "Correct. Children’s constipation is managed with behavior modification, a scheduled toilet routine, diet, and activity, with a laxative if needed. This response combines these measures.",
+    "Incorrect. Scheduled sitting helps, but timing after meals uses the gastrocolic reflex, and this response leaves out diet, fluids, and activity."
    ],
    "rationale": "Constipation in children older than 4 is diagnosed by symptoms lasting a month after toilet training: two or fewer stools a week, painful hard BMs, large-diameter stools that clog the toilet, a large rectal mass, and excessive voluntary withholding. Pain causes withholding, and withholding causes harder stools. Interventions are behavior modification, scheduled toileting, diet, activity, and a laxative if needed.",
    "takeaway": "Children’s constipation: painful stools lead to withholding. Break the cycle with routine, diet, and activity, not punishment.",
    "hintContent": "Recall the diagnostic criteria and interventions for constipation in children, including the psychologic influence of pain.",
-   "hintStrategy": "Check the age criterion first. Then choose the least invasive approach that addresses the cause."
+   "hintStrategy": "Check the age criterion first. Then choose the least invasive approach that addresses the cause.",
+   "bestAnswer": true
   },
   {
    "id": "m5x-043",
@@ -1517,15 +1544,16 @@ window.NURSE_DATA.push({
    ],
    "answer": 3,
    "optionRationales": [
-    "Laxatives should not be used when there is a blockage or obstruction. These findings suggest one.",
-    "Activity helps prevent constipation, but it does not address a possible obstruction. Delaying the report is unsafe.",
-    "Adding food and fiber to a possibly obstructed bowel can increase distention and vomiting.",
+    "Incorrect. Laxatives should not be used when there is a blockage or obstruction. These findings suggest one.",
+    "Incorrect. Activity helps prevent constipation, but it does not address a possible obstruction. Delaying the report is unsafe.",
+    "Incorrect. Adding food and fiber to a possibly obstructed bowel can increase distention and vomiting.",
     "Correct. Vomiting, increasing distention, no flatus, and hypoactive bowel sounds after days without a BM suggest obstruction. Laxatives are contraindicated, and the provider needs to evaluate the client."
    ],
    "rationale": "Impaction and obstruction raise pressure in the colon and can lead to ulceration, perforation, and reduced perfusion. Laxatives are contraindicated with a blockage or obstruction. When constipation progresses to vomiting, no flatus, and distention, the nurse holds bowel stimulants and reports promptly.",
    "takeaway": "No laxatives with a suspected blockage. Vomiting, distention, and no flatus mean report it.",
    "hintContent": "Connect the signs of a possible bowel obstruction to the contraindications for laxatives.",
-   "hintStrategy": "Ask whether the usual constipation treatment is safe with these new findings."
+   "hintStrategy": "Ask whether the usual constipation treatment is safe with these new findings.",
+   "bestAnswer": true
   },
   {
    "id": "m5x-044",
@@ -1581,21 +1609,22 @@ window.NURSE_DATA.push({
    "stem": "A client on bed rest receiving opioids for pain asks why his stools have become so hard and dry. Which explanation by the nurse is accurate?",
    "options": [
     "“When stool moves slowly, the colon has more time to absorb water from it.”",
-    "“Bed rest speeds up the bowel, so stool passes before it can form.”",
-    "“The pain medicine makes the bowel secrete extra mucus, which dries the stool.”",
-    "“Hard stool is caused by too much fluid in your diet.”"
+    "“Pain medicine tightens the anal sphincter, so stool is harder to pass.”",
+    "“Lying in bed lowers your appetite, so you get less fiber to soften stool.”",
+    "“Not drinking enough fluid is the main reason stool becomes hard and dry.”"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Opioids and immobility slow transit, and slower movement allows more fluid absorption, so stools become dry and hard.",
-    "Immobility slows motility. It does not speed it up.",
-    "Opioids slow motility. Extra mucus is not why stools become hard.",
-    "Adequate fluid softens stool. Low fluid intake contributes to hard stools."
+    "Correct. Opioids and immobility slow transit, and slower movement gives the colon more time to absorb water, so stools become dry and hard. This explains both of his risk factors.",
+    "Incorrect. Opioids can raise sphincter tone, which makes passage harder, but that does not explain why the stool itself is dry.",
+    "Incorrect. Low fiber intake can contribute, but nothing suggests his diet changed. Slowed motility from bed rest and opioids is the direct cause.",
+    "Incorrect. Low fluid intake does harden stool, but nothing suggests he is drinking less. His risk factors, opioids and bed rest, act by slowing motility."
    ],
    "rationale": "Constipation develops when slow-moving stool loses more water to the colon. Immobility and opioids both slow motility, which is why they are listed risk factors. Activity, fluid, and fiber counteract this.",
    "takeaway": "Slower transit means more water absorbed, which means harder stool.",
    "hintContent": "Recall the pathophysiology of constipation and the effects of immobility and opioids on motility.",
-   "hintStrategy": "Think about what happens to stool water when transit time increases."
+   "hintStrategy": "Think about what happens to stool water when transit time increases.",
+   "bestAnswer": true
   },
   {
    "id": "m5x-046",
@@ -1616,19 +1645,20 @@ window.NURSE_DATA.push({
     "Teach the parent to add fiber and a scheduled toilet time after meals",
     "Document the bruises and report suspected abuse as required",
     "Recommend a meeting with the child’s teacher about bathroom access",
-    "Explain to the parent that encopresis is usually caused by stubbornness"
+    "Refer the child to a counselor for the withdrawal and stress"
    ],
    "answer": 1,
    "optionRationales": [
-    "Fiber and scheduled toileting are part of encopresis therapy, but child safety comes first.",
+    "Incorrect. Fiber and scheduled toileting are part of encopresis therapy, but child safety comes before the bowel plan.",
     "Correct. Encopresis therapy includes considering abuse. Bruises in different stages of healing with emotional withdrawal are red flags that the nurse must document and report.",
-    "Working with teachers is part of the plan, but it does not address the possible abuse.",
-    "Encopresis involves constipation, withholding, stress, and emotional factors. Blaming the child is inaccurate and not therapeutic."
+    "Incorrect. Working with teachers is part of the plan, but it does not address the possible abuse.",
+    "Incorrect. Psychological support is part of encopresis therapy, but a referral does not meet the nurse’s duty to report suspected abuse and protect the child now."
    ],
-   "rationale": "Encopresis is recurrent soiling in a child who should have bowel control. It is linked to constipation, withholding, small hard painful BMs, emotional withdrawal, and stress. Therapy includes family education, psychological support, fiber, behavior management, working with teachers, and considering abuse. Signs of possible abuse take priority over the bowel plan.",
+   "rationale": "Encopresis is recurrent soiling in a child who should have bowel control. It is linked to constipation, withholding, small hard painful BMs, emotional withdrawal, and stress. Therapy includes family education, psychological support, fiber, behavior management, working with teachers, and considering abuse. Signs of possible abuse take priority over the bowel plan and over counseling referrals.",
    "takeaway": "Encopresis: always consider abuse. Safety comes before the bowel plan.",
    "hintContent": "Recall the manifestations and therapy of encopresis, including the safety consideration listed.",
-   "hintStrategy": "Several options are part of the long-term plan. Ask which finding threatens the child’s safety right now."
+   "hintStrategy": "Several options are part of the long-term plan. Ask which finding threatens the child’s safety right now.",
+   "bestAnswer": true
   },
   {
    "id": "m5x-047",
@@ -1685,15 +1715,16 @@ window.NURSE_DATA.push({
    ],
    "answer": 2,
    "optionRationales": [
-    "Major fecal incontinence is the inability to control feces of normal consistency.",
-    "Impaction is a mass of hardened stool with liquid seepage. It is not described here.",
+    "Incorrect. Major fecal incontinence is the inability to control feces of normal consistency.",
+    "Incorrect. Impaction is a mass of hardened stool with liquid seepage. It is not described here.",
     "Correct. Partial fecal incontinence is the inability to control flatus or prevent minor soiling.",
-    "Encopresis is recurrent soiling in a child who should have bowel control."
+    "Incorrect. Encopresis is recurrent soiling in a child who should have bowel control."
    ],
    "rationale": "Fecal incontinence is the loss of voluntary control of fecal or gaseous matter. Partial incontinence means the person cannot control flatus or prevent minor soiling. Major incontinence means the person cannot control normal-consistency stool.",
    "takeaway": "Partial = gas and minor soiling. Major = can’t control normal stool.",
    "hintContent": "Recall the definitions of partial and major fecal incontinence.",
-   "hintStrategy": "Ask whether the client can control normal stool. That separates partial from major."
+   "hintStrategy": "Ask whether the client can control normal stool. That separates partial from major.",
+   "bestAnswer": true
   },
   {
    "id": "m5x-049",
@@ -1756,15 +1787,16 @@ window.NURSE_DATA.push({
    ],
    "answer": 3,
    "optionRationales": [
-    "Leaving stool against the skin for up to 4 hours worsens the breakdown already present.",
-    "Loose stools already cause fluid loss. Restricting fluid risks dehydration.",
-    "Kegels may help long-term prevention, but they do nothing for the skin breakdown happening now.",
+    "Incorrect. Leaving stool against the skin for up to 4 hours worsens the breakdown already present.",
+    "Incorrect. Loose stools already cause fluid loss. Restricting fluid risks dehydration.",
+    "Incorrect. Kegels may help long-term prevention, but they do nothing for the skin breakdown happening now.",
     "Correct. Liquid stool is very irritating. Prompt, gentle cleansing and a barrier protect skin that is already breaking down."
    ],
    "rationale": "Impaired skin integrity is on the problem list for fecal incontinence, and diarrhea adds fluid loss and a high risk of skin breakdown. With an open area already present, the priority is prompt cleansing and barrier protection. Perineal hygiene is a planned outcome.",
    "takeaway": "Incontinence plus loose stool: clean promptly and protect the skin. Don’t limit fluids.",
    "hintContent": "Connect diarrhea and fecal incontinence to skin breakdown risk and the problem list.",
-   "hintStrategy": "Look for the actual injury in the stem. Then choose the action that stops it from getting worse."
+   "hintStrategy": "Look for the actual injury in the stem. Then choose the action that stops it from getting worse.",
+   "bestAnswer": true
   },
   {
    "id": "m5x-051",
@@ -1782,21 +1814,22 @@ window.NURSE_DATA.push({
    "stem": "A 70-year-old client with partial fecal incontinence tells the nurse, “I’ve stopped going to my grandson’s ball games. What if I have an accident in the stands?” Which nursing response best addresses the client’s concern?",
    "options": [
     "“Let’s plan for game days: toilet first, find restrooms, and pack supplies.”",
-    "“Many people your age have this, since it’s a normal part of getting older.”",
-    "“It might be best to stay home until your bowel control gets better.”",
-    "“A colostomy would end the accidents, so you should ask your surgeon about one.”"
+    "“It’s normal to feel worried, and many people share that same fear.”",
+    "“Wearing a protective pad at the games could help you feel safer.”",
+    "“Ask your provider whether pelvic floor therapy could improve control.”"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. A planned outcome is identifying strategies to maintain social interactions. Practical planning lowers the fear of an accident.",
-    "Fecal incontinence is not a normal change of aging. Normalizing it dismisses the concern and the chance for treatment.",
-    "Staying home deepens the social isolation that fecal incontinence often causes.",
-    "Surgery is an option for some clients, but jumping to a colostomy skips first-line management and doesn’t address the concern now."
+    "Correct. A planned outcome is identifying strategies to maintain social interactions. A full game-day plan lowers the fear of an accident and keeps the client involved.",
+    "Incorrect. Validating the feeling is supportive, but it does not help the client return to the games. Problem-solving addresses the concern.",
+    "Incorrect. A pad is a useful part of a plan, but on its own it does not cover toileting before leaving or finding restrooms.",
+    "Incorrect. Pelvic floor therapy may help over time, but it does not address how to attend games now. The client needs a practical plan today."
    ],
    "rationale": "Fecal incontinence is emotionally distressing and often leads to social isolation and low self-esteem. Patient-centered planning includes strategies to keep up social interactions, along with the bowel regimen and perineal hygiene.",
    "takeaway": "Fecal incontinence leads to isolation. Plan strategies that keep the client socially active.",
    "hintContent": "Recall the psychosocial effects of fecal incontinence and the planned outcomes in the nursing process.",
-   "hintStrategy": "Choose the response that keeps the client involved and gives practical help, not one that dismisses or withdraws."
+   "hintStrategy": "Choose the response that keeps the client involved and gives practical help, not one that dismisses or withdraws.",
+   "bestAnswer": true
   },
   {
    "id": "m5x-052",
@@ -1820,15 +1853,16 @@ window.NURSE_DATA.push({
    ],
    "answer": 1,
    "optionRationales": [
-    "Adding a laxative changes the plan before the nurse knows why it failed. Prolonged laxative use is also discouraged.",
+    "Incorrect. Adding a laxative changes the plan before the nurse knows why it failed. Prolonged laxative use is also discouraged.",
     "Correct. The nurse explores why the goals were not met (diet, fluids, activity, obstacles, and whether education and support were enough) before changing the plan.",
-    "Lowering the goal before finding the cause accepts a poor outcome without solving anything.",
-    "The goal was not met. Continuing unchanged ignores the evaluation data."
+    "Incorrect. Lowering the goal before finding the cause accepts a poor outcome without solving anything.",
+    "Incorrect. The goal was not met. Continuing unchanged ignores the evaluation data."
    ],
    "rationale": "Evaluation in the bowel nursing process asks whether bowel habits improved, whether fluid and diet are adequate, whether activity is adequate, what obstacles exist, and whether education and support were enough. Reasons goals are not met are explored before the plan is modified.",
    "takeaway": "Goal not met? Explore why before you change the plan.",
    "hintContent": "Recall the evaluation step of the nursing process for bowel elimination.",
-   "hintStrategy": "All the options change or continue the plan. Pick the one that gathers the information needed to decide how."
+   "hintStrategy": "All the options change or continue the plan. Pick the one that gathers the information needed to decide how.",
+   "bestAnswer": true
   },
   {
    "id": "m5x-053",
@@ -1852,15 +1886,16 @@ window.NURSE_DATA.push({
    ],
    "answer": 2,
    "optionRationales": [
-    "‘Understand’ cannot be observed or measured.",
-    "This describes a nursing action, not a client outcome.",
+    "Incorrect. ‘Understand’ cannot be observed or measured.",
+    "Incorrect. This describes a nursing action, not a client outcome.",
     "Correct. It is client-centered, observable, measurable, and time-limited. Listing 4 high-fiber foods is one of the planned outcomes.",
-    "‘Normal bowel habits’ is vague and has no criteria or time frame."
+    "Incorrect. ‘Normal bowel habits’ is vague and has no criteria or time frame."
    ],
    "rationale": "Planning uses patient-centered, measurable outcomes, such as a soft, formed BM within 4 hours of a laxative, a soft, formed stool 3 times a week, or listing 4 high-fiber foods. Good outcomes name the client, an observable behavior, criteria, and a time frame.",
    "takeaway": "Outcomes: client-centered, observable, measurable, and timed (for example, lists 4 high-fiber foods by discharge).",
    "hintContent": "Recall the planning outcomes listed for bowel elimination and what makes an outcome measurable.",
-   "hintStrategy": "Eliminate options that describe nurse actions or use words you can’t observe."
+   "hintStrategy": "Eliminate options that describe nurse actions or use words you can’t observe.",
+   "bestAnswer": true
   },
   {
    "id": "m5x-054",
@@ -1912,22 +1947,23 @@ window.NURSE_DATA.push({
    "focus": "Nursing Interventions",
    "stem": "A client with fecal incontinence from an anal sphincter injury during childbirth asks about surgery. Which procedure repairs the anal sphincter?",
    "options": [
-    "Colostomy",
-    "Transurethral resection of the prostate",
-    "Cystocele repair",
+    "Diverting colostomy",
+    "Sacral nerve stimulation",
+    "Posterior rectocele repair",
     "Anal sphincteroplasty"
    ],
    "answer": 3,
    "optionRationales": [
-    "A colostomy diverts stool through the abdominal wall. It is a surgical option, but it does not repair the sphincter.",
-    "TURP removes prostate tissue in men with BPH.",
-    "A cystocele repair corrects a prolapsed bladder in urinary incontinence.",
-    "Correct. Anal sphincteroplasty repairs the anal sphincter to treat fecal incontinence."
+    "Incorrect. A colostomy is a surgical option for severe fecal incontinence, but it diverts stool rather than repairing the sphincter.",
+    "Incorrect. Sacral nerve stimulation treats fecal incontinence by improving nerve control, but it does not repair a torn sphincter.",
+    "Incorrect. A rectocele repair corrects a bulge of the rectum into the vagina, which can also follow childbirth, but it does not repair the sphincter.",
+    "Correct. Anal sphincteroplasty repairs the anal sphincter muscle injured during childbirth to treat fecal incontinence."
    ],
-   "rationale": "Surgical options related to fecal incontinence include anal sphincteroplasty, which repairs the sphincter, and colostomy, which diverts stool. TURP and cystocele repair treat urinary problems.",
+   "rationale": "Surgical options related to fecal incontinence include anal sphincteroplasty, which repairs the sphincter, and colostomy, which diverts stool. Sacral nerve stimulation improves nerve control, and a rectocele repair corrects a posterior vaginal wall bulge; neither repairs the sphincter itself.",
    "takeaway": "Sphincteroplasty repairs the sphincter. A colostomy diverts stool.",
    "hintContent": "Recall the surgical options for fecal incontinence and those for urinary incontinence.",
-   "hintStrategy": "Match the procedure to the structure it repairs."
+   "hintStrategy": "Match the procedure to the structure it repairs.",
+   "bestAnswer": true
   }
  ]
 });

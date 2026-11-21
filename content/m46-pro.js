@@ -328,7 +328,8 @@ window.NURSE_DATA.push({
       "cjmm": "Recognize Cues",
       "focus": "Nursing Interventions",
       "difficulty": 2,
-      "clientNeed": "Health Promotion and Maintenance"
+      "clientNeed": "Health Promotion and Maintenance",
+      "bestAnswer": true
     },
     {
       "id": "m46-pro-002",
@@ -404,17 +405,17 @@ window.NURSE_DATA.push({
       "priority": true,
       "stem": "At a church health fair, a nurse obtains a blood pressure of 186/118 mm Hg on a 56-year-old client who reports a severe headache and blurred vision that began this morning. Which action should the nurse take first?",
       "options": [
-        "Provide written materials about a low-sodium diet and regular exercise",
-        "Advise the client to recheck the blood pressure at a pharmacy in 1 week",
+        "Recheck the blood pressure in the other arm after 5 minutes of rest",
+        "Advise the client to see a primary care provider within the next 24 hours",
         "Refer the client to a community health center to establish primary care",
         "Arrange immediate emergency evaluation by activating emergency medical services"
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. Lifestyle teaching is appropriate for primary and secondary prevention but does nothing for a possible hypertensive emergency now.",
-        "Incorrect. Waiting a week delays care for symptoms that suggest target-organ involvement and risks stroke.",
-        "Incorrect. Establishing a medical home is important later, but it does not address the immediate threat.",
-        "Correct. Severely elevated blood pressure with headache and visual changes suggests a hypertensive emergency; physical safety comes first, so the client needs emergency evaluation now."
+        "Incorrect. Confirming a high reading is often reasonable, but this client already has symptoms of possible target-organ damage, and more measuring delays emergency care.",
+        "Incorrect. Prompt provider follow-up suits a high reading without symptoms, but headache and blurred vision signal a possible hypertensive emergency that cannot wait a day.",
+        "Incorrect. Establishing a medical home is a good follow-up step, but it does not address the immediate danger to this symptomatic client.",
+        "Correct. Severe headache and blurred vision with a markedly high blood pressure suggest target-organ damage, so emergency evaluation comes before rechecks, follow-up visits, or referrals."
       ],
       "rationale": "A screening event can uncover an emergency, and once it does, the priority shifts from prevention to immediate safety. Severe headache and blurred vision with a markedly elevated blood pressure are cues of possible target-organ damage, which requires emergency evaluation. Referral to a medical home addresses an access barrier and is a good secondary step, which makes it the most tempting distractor—but it does not prevent harm today.",
       "takeaway": "When screening reveals signs of an emergency, safety and emergency care come before teaching or referral.",
@@ -427,7 +428,8 @@ window.NURSE_DATA.push({
       "cjmm": "Take Action",
       "focus": "Prioritization",
       "difficulty": 2,
-      "clientNeed": "Physiological Integrity: Physiological Adaptation"
+      "clientNeed": "Physiological Integrity: Physiological Adaptation",
+      "bestAnswer": true
     },
     {
       "id": "m46-pro-005",
@@ -436,19 +438,19 @@ window.NURSE_DATA.push({
       "priority": false,
       "stem": "A client with a small, uncomplicated basal cell carcinoma on the forearm asks the nurse why the surgeon recommended removing it in the dermatology office instead of the hospital operating room. Which response by the nurse is most accurate?",
       "options": [
-        "“The hospital operating room is reserved for clients who have insurance coverage.”",
+        "“Basal cell carcinoma grows slowly and rarely spreads to other organs, so it is low risk.”",
         "“For an uncomplicated lesion, office removal under local anesthesia is a safe, lower-cost setting.”",
-        "“Office procedures are preferred because no consent is needed outside a hospital.”",
-        "“Skin cancers are treated in tertiary care settings only when they cannot be cured.”"
+        "“Your surgeon chose the setting, so the surgeon is the best person to explain the reason.”",
+        "“A dermatology office is a secondary care setting, just like the hospital operating room.”"
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. Setting selection is based on clinical need and cost-effectiveness, not insurance status; this statement is inaccurate and discriminatory.",
-        "Correct. Nurses help select the most cost-effective, efficient setting that safely meets the need; an uncomplicated lesion can be removed under local anesthesia in an office.",
-        "Incorrect. Informed consent is required for procedures in any setting.",
-        "Incorrect. This confuses care settings with prognosis and does not explain the recommendation."
+        "Incorrect. This is true and may reassure the client, but it does not explain why the office was chosen over the operating room.",
+        "Correct. Helping clients understand cost-effective, safe settings is a nursing role; an uncomplicated lesion can be removed under local anesthesia in the office.",
+        "Incorrect. The surgeon can add detail, but the nurse can answer this question directly; deflecting misses a teaching opportunity.",
+        "Incorrect. Both are secondary care settings, which is accurate, but this does not explain why the office is the better choice here."
       ],
-      "rationale": "Secondary care settings include hospitals, outpatient surgical centers, and specialists’ offices, and part of the nurse’s role is helping choose the most cost-effective, efficient setting. An uncomplicated basal cell carcinoma can be removed safely under local anesthesia in a dermatologist’s office, avoiding the cost and risk of a hospital operating room. The distractor about insurance sounds like a systems answer but is false and unjust; the consent distractor is a legal error.",
+      "rationale": "Secondary care settings include hospitals, outpatient surgical centers, and specialists’ offices, and part of the nurse’s role is helping choose the most cost-effective, efficient setting. An uncomplicated basal cell carcinoma can be removed safely under local anesthesia in a dermatologist’s office, avoiding the cost and risk of a hospital operating room. The other responses are true or reasonable—the cancer grows slowly, both sites are secondary care, the surgeon can explain—but none tells the client why the office is the better setting.",
       "takeaway": "Choose the least costly setting that safely meets the client’s clinical need.",
       "hintContent": "Think about what makes one setting more appropriate than another when both are safe.",
       "hintStrategy": "Eliminate any option that contains a factual or legal error (no consent needed, care based on insurance).",
@@ -457,7 +459,8 @@ window.NURSE_DATA.push({
       "cjmm": "Generate Solutions",
       "focus": "Client Teaching",
       "difficulty": 1,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m46-pro-006",
@@ -506,16 +509,16 @@ window.NURSE_DATA.push({
       "priority": true,
       "stem": "During an admission interview, the nurse hands a client a medication history form. The client says, “I forgot my glasses. Can I take this home and bring it back?” Which action by the nurse is most appropriate?",
       "options": [
-        "Give the form to the client’s adult son to complete on the client’s behalf",
-        "Document that the client declined to complete the medication history",
+        "Offer a large-print version of the form so the client can complete it now",
+        "Let the client take the form home and return it at the next visit",
         "Talk through the medication history together in plain, conversational language",
         "Read the form aloud exactly as written and have the client sign it at the bottom"
       ],
       "answer": 2,
       "optionRationales": [
-        "Incorrect. Having a family member complete the form bypasses the client, may compromise privacy, and may introduce errors.",
-        "Incorrect. The client did not decline; documenting refusal is inaccurate and leaves an unsafe gap in the medication history.",
-        "Correct. “Forgot my glasses” can be a cue of limited health literacy; completing the history through plain-language conversation gathers accurate information without shaming the client.",
+        "Incorrect. Large print addresses the stated reason, but “forgot my glasses” is a common cue of limited literacy, and the form still relies on reading.",
+        "Incorrect. This honors the client’s request, but the medication history is needed now for safe admission care, and possible literacy limits remain unaddressed.",
+        "Correct. A plain-language conversation gathers accurate information now, works whatever the client’s reading level, and preserves dignity.",
         "Incorrect. Reading jargon-filled text aloud does not ensure understanding, and asking for a signature does not confirm the information is accurate."
       ],
       "rationale": "Statements such as “I forgot my glasses” or “I’ll read it at home” are common cues of limited health literacy, which cannot be judged by appearance. The universal-precautions approach is to communicate clearly with everyone—using plain language and conversation, and real objects such as medication bottles when available—while preserving dignity. Reading the form aloud verbatim looks helpful but still relies on complex written language and does not verify understanding.",
@@ -527,7 +530,8 @@ window.NURSE_DATA.push({
       "cjmm": "Take Action",
       "focus": "Client Teaching",
       "difficulty": 2,
-      "clientNeed": "Psychosocial Integrity"
+      "clientNeed": "Psychosocial Integrity",
+      "bestAnswer": true
     },
     {
       "id": "m46-pro-008",
@@ -539,14 +543,14 @@ window.NURSE_DATA.push({
         "Report the suspected abuse to the designated child protective services agency",
         "Teach the student stress-management techniques for coping at home",
         "Call the student’s mother to ask whether the bruises have another explanation",
-        "Schedule a follow-up visit next week to watch for further evidence"
+        "Refer the student to the school counselor for ongoing emotional support"
       ],
       "answer": 0,
       "optionRationales": [
         "Correct. Nurses are mandated reporters; suspicion of abuse must be reported to child protective services without waiting for proof, and safety comes first.",
         "Incorrect. Coping strategies do not protect the student from ongoing harm and are not the first priority.",
         "Incorrect. Investigating is the agency’s role, and contacting the household may increase the student’s risk.",
-        "Incorrect. Waiting for more evidence delays protection; the duty is to report suspicion now."
+        "Incorrect. Counseling support is helpful later, but a referral does not meet the nurse’s legal duty to report or protect the student now."
       ],
       "rationale": "Experiencing violence is an adverse childhood experience, and current abuse is a safety emergency. Nurses must report reasonable suspicion of child maltreatment to the designated child protective agency (in North Carolina, the county department of social services), and they should not promise confidentiality about abuse. Calling the mother feels like gathering information, but nurses do not investigate, and it may endanger the child. Resiliency-building and coping support come after safety is addressed.",
       "takeaway": "Suspected child abuse is reported immediately to child protective services—report suspicion, do not investigate.",
@@ -557,7 +561,8 @@ window.NURSE_DATA.push({
       "cjmm": "Take Action",
       "focus": "Lifespan & Diversity",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+      "bestAnswer": true
     },
     {
       "id": "m46-pro-009",
@@ -601,16 +606,16 @@ window.NURSE_DATA.push({
       "priority": true,
       "stem": "A nurse is preparing to enroll a client with heart failure, who lives 80 miles from the cardiology practice, in a telehealth remote-monitoring program. Which finding is most important for the nurse to address before relying on telehealth for follow-up?",
       "options": [
-        "The client is 74 years old and recently widowed",
-        "The client’s daughter visits on weekends",
-        "The client’s main concern is the long drive to appointments",
+        "The client is 74 years old and was widowed earlier this year",
+        "The client has never used a video visit or home monitoring device",
+        "The client’s main concern is the long drive to cardiology visits",
         "The client has no home internet service and uses a basic phone"
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. Age alone does not prevent telehealth use; assuming it does is ageist, though widowhood may affect support.",
-        "Incorrect. A weekend visitor is a support resource, not a barrier to remote monitoring.",
-        "Incorrect. Distance is the reason telehealth may help, not an obstacle to it.",
+        "Incorrect. Grief may affect self-care and deserves attention, but age alone does not prevent telehealth use, and assuming it does is ageist.",
+        "Incorrect. Inexperience is a common concern, but the nurse can teach device use; it does not make remote monitoring impossible.",
+        "Incorrect. The long drive is a real burden, but it is the reason telehealth may help, not an obstacle to using it.",
         "Correct. Without connectivity or a capable device, telehealth cannot work; this gap must be solved or another follow-up plan made."
       ],
       "rationale": "Telehealth expands specialist access for rural clients only when the client has a device, connectivity, and technologic literacy. Lack of internet and a basic phone means remote monitoring would fail silently, and deterioration could be missed. The age distractor tempts students who stereotype older adults; age is not the barrier—access to the technology is.",
@@ -624,7 +629,8 @@ window.NURSE_DATA.push({
       "cjmm": "Analyze Cues",
       "focus": "Assessment Findings",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m46-pro-011",
@@ -633,19 +639,19 @@ window.NURSE_DATA.push({
       "priority": true,
       "stem": "A home health agency is planning services for the next decade based on projected U.S. population changes. Which service expansion should the agency prioritize?",
       "options": [
-        "Additional adolescent sports physicals and school-entry immunization clinics",
+        "Home asthma education and follow-up visits for school-aged children",
         "Chronic disease management and caregiver support for adults aged 85 and older",
-        "Fewer interpreter services because the population is becoming less diverse",
-        "Expansion of obstetric home visits based on a rising birth rate"
+        "Postpartum home nursing visits for new mothers and their newborn infants",
+        "Short-term wound care after same-day surgery for working-age adults"
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. These services remain needed, but they do not reflect the major projected shift toward an older population.",
-        "Correct. Adults 85 and older are projected to more than triple by 2060, with more chronic illness requiring home management and caregiver support.",
-        "Incorrect. The population is projected to become more racially and ethnically diverse, increasing the need for interpreters.",
-        "Incorrect. Projections emphasize aging and diversity, not a rising birth rate."
+        "Incorrect. Pediatric asthma care is a real home health need, but children are not the fastest-growing group in U.S. population projections.",
+        "Correct. Adults aged 85 and older are the fastest-growing group, and their multiple chronic conditions drive demand for chronic disease management and caregiver support.",
+        "Incorrect. Postpartum visits are valuable, but birth rates are not rising enough to make this the main growth area.",
+        "Incorrect. Post-surgical wound care is a common service, but working-age adults are not the group driving the largest projected growth."
       ],
-      "rationale": "By 2060 the U.S. population will be older and more diverse; adults aged 85 and older are projected to grow from about 6 million to about 19 million. Older adults live with multiple chronic conditions, so demand for chronic disease management, home health, and caregiver support rises. The interpreter distractor reverses a key fact—diversity is increasing—so cultural and linguistic services should grow, not shrink.",
+      "rationale": "By 2060 the U.S. population will be older and more diverse; adults aged 85 and older are projected to grow from about 6 million to about 19 million. Older adults live with multiple chronic conditions, so demand for chronic disease management, home health, and caregiver support rises. Pediatric, postpartum, and short-term surgical services remain real needs, but they do not reflect the largest projected growth. Because diversity is also increasing, cultural and linguistic services should grow as well.",
       "takeaway": "An aging, more diverse population shifts care toward chronic disease management and culturally responsive services.",
       "hintContent": "Which age group is projected to grow the fastest?",
       "hintStrategy": "Watch for options that reverse a known trend; they are designed to catch half-remembered facts.",
@@ -654,7 +660,8 @@ window.NURSE_DATA.push({
       "cjmm": "Prioritize Hypotheses",
       "focus": "Lifespan & Diversity",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m46-pro-012",
@@ -752,7 +759,8 @@ window.NURSE_DATA.push({
       "cjmm": "Generate Solutions",
       "focus": "Nursing Interventions",
       "difficulty": 2,
-      "clientNeed": "Health Promotion and Maintenance"
+      "clientNeed": "Health Promotion and Maintenance",
+      "bestAnswer": true
     },
     {
       "id": "m46-pro-015",
@@ -819,7 +827,8 @@ window.NURSE_DATA.push({
       "cjmm": "Prioritize Hypotheses",
       "focus": "Prioritization",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m46-pro-017",
@@ -829,16 +838,16 @@ window.NURSE_DATA.push({
       "stem": "A client enrolled in an HMO plan was told at discharge to follow up with a pulmonologist. The client asks the nurse, “Can I just call the lung specialist my neighbor uses?” Which response by the nurse is most accurate?",
       "options": [
         "“Your plan will likely need a referral from your primary care provider for the visit to be covered.”",
-        "“Yes, HMO plans allow you to see any specialist as long as you pay a higher copay.”",
-        "“HMO plans do not cover specialist visits, so you will need to pay for this yourself.”",
-        "“Go to the emergency department if you want to see a specialist without waiting.”"
+        "“Yes, HMO plans let you see any specialist you choose as long as you pay a higher copay.”",
+        "“You can call that specialist yourself, but first check that the office is in your network.”",
+        "“Ask the hospital provider who discharged you to choose a pulmonologist your plan covers.”"
       ],
       "answer": 0,
       "optionRationales": [
         "Correct. HMOs use a primary care gatekeeper who authorizes referrals to network specialists.",
         "Incorrect. Self-referral with higher cost-sharing describes a PPO, not an HMO.",
-        "Incorrect. HMOs cover specialist care when referred within the network.",
-        "Incorrect. Using the ED for nonemergent specialist access is inappropriate and costly."
+        "Incorrect. Using in-network providers matters in an HMO, but self-referral is not allowed; the primary care provider must refer first.",
+        "Incorrect. The discharging provider recommended follow-up, but in an HMO the primary care provider is the gatekeeper who makes specialist referrals."
       ],
       "rationale": "An HMO is the more restrictive managed care model: members use network providers, and the primary care provider acts as gatekeeper who must refer the member to specialists. PPOs allow self-referral and out-of-network care in exchange for higher premiums, copays, and deductibles. The second option is tempting because it describes real managed-care flexibility, but it belongs to a PPO.",
       "takeaway": "HMO = gatekeeper referral and network restrictions; PPO = flexibility at higher cost.",
@@ -849,7 +858,8 @@ window.NURSE_DATA.push({
       "cjmm": "Analyze Cues",
       "focus": "Client Teaching",
       "difficulty": 1,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m46-pro-018",
@@ -860,14 +870,14 @@ window.NURSE_DATA.push({
       "options": [
         "The case manager arranges a hospital bed and home health visits before the client’s discharge",
         "The insurer’s utilization reviewer approves 3 days of inpatient rehabilitation for the client",
-        "The nurse completes all morning baths before 0800 to keep the unit on its standard schedule",
+        "The nurse uses the unit’s standard teaching plan and schedule for every client with a new dressing",
         "The nurse schedules dressing teaching in the evening so the client’s spouse can attend, as the client asked"
       ],
       "answer": 3,
       "optionRationales": [
         "Incorrect. Arranging services across settings is case management.",
         "Incorrect. Utilization review to control cost and quality across members is a managed care function.",
-        "Incorrect. Organizing care around the unit’s routine is the opposite of patient-focused care.",
+        "Incorrect. A standard teaching plan supports consistent, safe care, but it is organized around the unit’s routine rather than this client’s expressed preferences.",
         "Correct. Care is organized around the client’s expressed needs, with the family included as partners in care."
       ],
       "rationale": "Patient-focused care organizes delivery around the client’s expressed physical and emotional needs and treats clients and families as integral partners. The three frameworks often overlap for one client, so items test whether you can identify the defining feature of a specific action. Case management (coordinating services) is the most tempting distractor because it is also client-centered, but its defining feature is coordination across settings.",
@@ -879,7 +889,8 @@ window.NURSE_DATA.push({
       "cjmm": "Analyze Cues",
       "focus": "Nursing Interventions",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m46-pro-019",
@@ -928,17 +939,17 @@ window.NURSE_DATA.push({
       "priority": true,
       "stem": "An uninsured client at 39 weeks’ gestation arrives at a hospital emergency department reporting regular contractions every 4 minutes. The registration clerk suggests sending her to the county hospital 30 miles away because she has no insurance. Which action should the nurse take first?",
       "options": [
-        "Arrange transportation to the county hospital as the clerk suggested",
+        "Ask the provider whether a transfer to the county hospital would be safe",
         "Ask a financial counselor to meet with the client about payment options",
         "Initiate the medical screening examination and notify the provider per protocol",
-        "Call the client’s family to bring proof of income for a Medicaid application"
+        "Report the clerk’s suggestion to the nursing supervisor right away"
       ],
       "answer": 2,
       "optionRationales": [
-        "Incorrect. Transferring a client in possible active labor because of inability to pay, without screening and stabilization, violates EMTALA and endangers the client and fetus.",
+        "Incorrect. A provider must approve any transfer, but transfer is considered only after the screening exam and stabilization, not before.",
         "Incorrect. Financial counseling may follow later but must not delay the screening examination.",
         "Correct. EMTALA requires a medical screening examination for anyone requesting emergency care, regardless of ability to pay, and stabilization if active labor is present.",
-        "Incorrect. Insurance enrollment is helpful later but does not address the immediate need for evaluation."
+        "Incorrect. The clerk’s suggestion is a possible EMTALA violation worth reporting, but the client in active labor needs screening first."
       ],
       "rationale": "The Emergency Medical Treatment and Active Labor Act requires Medicare-participating hospitals with emergency services to provide a medical screening examination to anyone requesting emergency care, regardless of ability to pay. If an emergency medical condition or active labor exists, the hospital must stabilize the client or arrange an appropriate transfer. Payment discussions must not delay screening. The financial-counselor option is tempting because it addresses a real barrier, but it comes after safety.",
       "takeaway": "EMTALA: screen and stabilize first; ability to pay never delays emergency care.",
@@ -949,7 +960,8 @@ window.NURSE_DATA.push({
       "cjmm": "Take Action",
       "focus": "Delegation & Safety",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m46-pro-021",
@@ -960,15 +972,15 @@ window.NURSE_DATA.push({
       "options": [
         "A client who lost employer coverage after being laid off and has no other insurance",
         "A client with an employer plan that does not cover the insulin pump supplies she needs",
-        "A client with Medicare and a supplemental plan that covers her prescribed medications",
-        "A child enrolled in CHIP who has received all recommended immunizations"
+        "A client with Medicaid who lives 50 miles from the nearest participating clinic",
+        "A client who is eligible for Medicaid but has not yet applied for coverage"
       ],
       "answer": 1,
       "optionRationales": [
         "Incorrect. Having no coverage at all describes an uninsured individual.",
         "Correct. She has coverage, but it is insufficient to meet her health needs, which defines underinsurance.",
-        "Incorrect. This client’s coverage meets her current needs.",
-        "Incorrect. This child’s coverage is meeting his needs."
+        "Incorrect. Distance is a real access barrier, but the coverage itself meets the client’s needs; the problem is reaching a site of care, not underinsurance.",
+        "Incorrect. This client would benefit from enrollment help, but having no coverage at all makes the client uninsured, not underinsured."
       ],
       "rationale": "Uninsured individuals have no coverage, while underinsured individuals have coverage that is insufficient for their needs—for example, a plan that excludes immunizations for a child or medications for a chronic illness. Underinsured clients often ration supplies or medications, which can look like nonadherence. The laid-off client is the tempting distractor because he clearly needs help, but he is uninsured, not underinsured.",
       "takeaway": "Underinsured = has coverage that does not meet needs; uninsured = no coverage.",
@@ -979,7 +991,8 @@ window.NURSE_DATA.push({
       "cjmm": "Analyze Cues",
       "focus": "Assessment Findings",
       "difficulty": 1,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m46-pro-022",
@@ -988,19 +1001,19 @@ window.NURSE_DATA.push({
       "priority": false,
       "stem": "A parent tells the clinic nurse, “We make too much money for Medicaid, but we can’t afford private insurance for our 7-year-old.” Which response by the nurse is most appropriate?",
       "options": [
-        "“Your child can enroll in Medicare until your income changes.”",
+        "“A community health center can see your child and charge on a sliding-fee scale.”",
         "“The emergency department must treat your child for free under federal law.”",
-        "“Community health centers only serve families who qualify for Medicaid.”",
+        "“The school nurse can provide basic care for your child during the school day.”",
         "“The Children’s Health Insurance Program was designed for families in your situation.”"
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. Medicare serves adults 65 and older and people with qualifying disabilities or diseases, not healthy children based on income.",
+        "Incorrect. Community health centers do offer sliding-fee care, which helps, but it is not insurance and leaves the child without coverage for hospital or specialist care.",
         "Incorrect. EMTALA requires screening and stabilization, not free ongoing care, and the ED is not a substitute for regular coverage.",
-        "Incorrect. Community health centers serve clients regardless of ability to pay using a sliding fee scale.",
+        "Incorrect. School nurses provide valuable basic care, but this does not replace health coverage or a primary care provider.",
         "Correct. CHIP covers children in families who earn too much for Medicaid but cannot afford private insurance."
       ],
-      "rationale": "CHIP fills the coverage gap for children whose family income is above Medicaid limits but who cannot afford private coverage; in some states it also covers pregnant women. Medicare is age- and disability-based. The EMTALA option is tempting because it is a real federal protection, but EMTALA guarantees emergency screening and stabilization, not insurance or free continuing care.",
+      "rationale": "CHIP fills the coverage gap for children whose family income is above Medicaid limits but who cannot afford private coverage; in some states it also covers pregnant women. Sliding-fee community health centers and school nurses help with care, but neither provides insurance coverage. The EMTALA option is tempting because it is a real federal protection, but EMTALA guarantees emergency screening and stabilization, not insurance or free continuing care.",
       "takeaway": "“Too much for Medicaid, too little for private insurance” + child = CHIP.",
       "hintContent": "Which program targets the income gap above Medicaid for children?",
       "hintStrategy": "Match the program to the population cue in the stem (age, income, condition).",
@@ -1009,7 +1022,8 @@ window.NURSE_DATA.push({
       "cjmm": "Generate Solutions",
       "focus": "Lifespan & Diversity",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m46-pro-023",
@@ -1121,16 +1135,16 @@ window.NURSE_DATA.push({
       "stem": "A primary care clinic is applying for patient-centered medical home (PCMH) recognition. Which practice best reflects PCMH principles?",
       "options": [
         "Clients see whichever provider has an opening so visits happen quickly",
-        "Clients are responsible for coordinating their own specialist referrals",
+        "Visits focus on the chief complaint so that wait times stay short",
         "Open scheduling, extended evening hours, and secure messaging are offered",
-        "Preventive care is deferred so visits can focus on the client’s acute problem"
+        "Specialists manage each chronic illness while the clinic treats acute illness"
       ],
       "answer": 2,
       "optionRationales": [
         "Incorrect. PCMH emphasizes a personal provider who leads ongoing care, not whoever is available.",
-        "Incorrect. Coordinated, integrated care across the system is a PCMH principle; the practice coordinates referrals.",
+        "Incorrect. Short waits support access, but focusing only on the chief complaint loses the whole-person orientation that PCMH requires.",
         "Correct. Enhanced access through open scheduling, expanded hours, and new communication options is a PCMH principle.",
-        "Incorrect. PCMH has a whole-person orientation that includes preventive, acute, and chronic care."
+        "Incorrect. Specialists have a role, but splitting care this way fragments it; a PCMH keeps a personal provider who coordinates the whole person’s care."
       ],
       "rationale": "The six PCMH principles are a personal provider, a provider-directed practice team, whole-person orientation, coordinated and integrated care, quality and safety through EBP and performance measurement, and enhanced access with supportive payment. Seeing whichever provider is open sounds like better access, which makes it tempting, but it sacrifices the personal provider relationship that PCMH is built on.",
       "takeaway": "A PCMH offers a personal provider, coordinated whole-person care, and enhanced access.",
@@ -1141,7 +1155,8 @@ window.NURSE_DATA.push({
       "cjmm": "Recognize Cues",
       "focus": "Nursing Interventions",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m46-pro-027",
@@ -1153,14 +1168,14 @@ window.NURSE_DATA.push({
         "Refer the client to the social worker for prescription assistance",
         "Assess for headache, chest pain, vision changes, and neurologic deficits",
         "Teach the client about a low-sodium diet to lower blood pressure",
-        "Instruct the client to restart the medication at a double dose"
+        "Notify the provider about the elevated blood pressure and missed doses"
       ],
       "answer": 1,
       "optionRationales": [
         "Incorrect. Prescription assistance is essential, but the nurse must first determine whether the client is in immediate danger.",
         "Correct. Assessing for symptoms of target-organ damage determines whether this is an emergency and guides the provider’s response.",
-        "Incorrect. Diet teaching will not address the immediate risk or the cost barrier.",
-        "Incorrect. Changing a dose requires a prescriber’s order and doubling could cause hypotension."
+        "Incorrect. Diet teaching supports long-term control, but it is lower priority than checking for immediate danger and does not address the cost barrier.",
+        "Incorrect. The provider must be told, but the nurse should first assess for symptoms so the report includes the data needed to decide how urgent this is."
       ],
       "rationale": "Cost-related nonadherence is a common access barrier among uninsured and underinsured clients, but the first nursing action is to assess for immediate physiologic risk. Symptoms such as headache, chest pain, visual changes, or neurologic deficits would make this an emergency. After assessing, the nurse notifies the provider and involves social work or case management to remove the cost barrier. The social-work referral is the best distractor because it addresses the root cause—but assessment comes first.",
       "takeaway": "Assess for immediate danger before addressing the access barrier that caused it.",
@@ -1173,7 +1188,8 @@ window.NURSE_DATA.push({
       "cjmm": "Recognize Cues",
       "focus": "Prioritization",
       "difficulty": 2,
-      "clientNeed": "Physiological Integrity: Reduction of Risk Potential"
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+      "bestAnswer": true
     },
     {
       "id": "m46-pro-028",
@@ -1203,7 +1219,8 @@ window.NURSE_DATA.push({
       "cjmm": "Analyze Cues",
       "focus": "Assessment Findings",
       "difficulty": 3,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m46-pro-029",
@@ -1273,7 +1290,8 @@ window.NURSE_DATA.push({
       "cjmm": "Recognize Cues",
       "focus": "Delegation & Safety",
       "difficulty": 1,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m46-pro-031",
@@ -1352,14 +1370,14 @@ window.NURSE_DATA.push({
         "Go to the client’s room and assess his respiratory status",
         "Ask the nursing assistant to recheck the saturation in 30 minutes",
         "Notify the provider of the decrease in oxygen saturation",
-        "Document the reading and continue with the medication pass"
+        "Ask the nursing assistant to raise the head of the client’s bed"
       ],
       "answer": 0,
       "optionRationales": [
         "Correct. A new decrease in saturation is a change in condition; the RN must assess the client directly before deciding on interventions.",
         "Incorrect. Delaying 30 minutes and delegating the follow-up leaves a possibly deteriorating client without RN assessment.",
         "Incorrect. The provider will likely need to be notified, but the RN should first assess so the report includes complete data and immediate interventions can begin.",
-        "Incorrect. Documenting without action ignores a significant change."
+        "Incorrect. Positioning may help breathing, but it does not replace RN assessment of a change in condition, which cannot be delegated."
       ],
       "rationale": "UAP collect and report data; interpreting changes and acting on them are RN responsibilities that cannot be delegated. A drop from 95% to 89% is a change in condition requiring prompt RN assessment—airway, breathing, lung sounds, vital signs—and immediate interventions such as positioning and oxygen per protocol. Notifying the provider is the tempting distractor, but an SBAR report needs current assessment data, and the RN can begin interventions at the bedside.",
       "takeaway": "When UAP report a change, the RN assesses the client personally first.",
@@ -1370,7 +1388,8 @@ window.NURSE_DATA.push({
       "cjmm": "Take Action",
       "focus": "Prioritization",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m46-pro-034",
@@ -1381,15 +1400,15 @@ window.NURSE_DATA.push({
       "options": [
         "Wait until the primary nurse returns before changing any aspect of care",
         "Implement safety measures and communicate the needed plan change to the primary nurse",
-        "Write a new care plan independently and remove the primary nurse’s plan from the record",
-        "Ask the charge nurse to reassign the client to a different primary nurse"
+        "Report the client’s new weakness to the charge nurse at the end of the shift",
+        "Ask the nursing assistant to round on the client every hour through the night"
       ],
       "answer": 1,
       "optionRationales": [
         "Incorrect. Delaying safety measures for new weakness puts the client at risk of falling.",
         "Correct. The associate nurse follows the primary nurse’s plan, acts on immediate safety needs, and communicates changes so the primary nurse can update the plan.",
-        "Incorrect. Replacing the plan without collaboration undermines the primary nurse’s 24/7 accountability and continuity.",
-        "Incorrect. A change in condition does not require a new primary nurse."
+        "Incorrect. The change should be communicated, but waiting until the end of the shift delays safety measures, and the primary nurse owns the plan.",
+        "Incorrect. Hourly rounding is a useful safety measure, but it is incomplete; the plan change must also be communicated to the primary nurse."
       ],
       "rationale": "In primary nursing, the primary nurse has 24-hour, 7-day responsibility and authority for the client from admission to discharge, and the associate nurse follows the primary nurse’s plan when the primary nurse is off. Client safety is never postponed—the associate nurse responds to new needs and communicates them so the plan is updated collaboratively. Waiting for the primary nurse is the tempting distractor because it seems respectful of the model, but it ignores safety.",
       "takeaway": "Associate nurses follow the primary nurse’s plan, act on safety needs, and communicate changes.",
@@ -1400,7 +1419,8 @@ window.NURSE_DATA.push({
       "cjmm": "Generate Solutions",
       "focus": "Delegation & Safety",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m46-pro-035",
@@ -1430,7 +1450,8 @@ window.NURSE_DATA.push({
       "cjmm": "Generate Solutions",
       "focus": "Delegation & Safety",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m46-pro-036",
@@ -1460,7 +1481,8 @@ window.NURSE_DATA.push({
       "cjmm": "Prioritize Hypotheses",
       "focus": "Prioritization",
       "difficulty": 3,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m46-pro-037",
@@ -1511,14 +1533,14 @@ window.NURSE_DATA.push({
       "options": [
         "Implement scheduled huddles, assigned pod buddies, and mobile communication devices",
         "Return the unit to a single central nurses’ station to restore teamwork",
-        "Instruct nurses to remain in their own pods and call the operator when they need help",
+        "Hold a staff meeting so nurses can share their concerns about isolation",
         "Survey clients and staff again in 6 months before making any changes to the unit"
       ],
       "answer": 0,
       "optionRationales": [
         "Correct. Intentional communication strategies address the teamwork drawback while keeping the benefits of decentralized pods.",
         "Incorrect. A central station would increase walking distance and reduce bedside time, losing the improvement in client outcomes.",
-        "Incorrect. Calling an operator delays help and does not address isolation.",
+        "Incorrect. Listening to staff is a good first gesture, but a meeting alone does not fix the communication gap that leaves nurses without help in emergencies.",
         "Incorrect. Waiting leaves a current safety concern unaddressed."
       ],
       "rationale": "Evidence shows decentralized workstations reduce nurse walking distance and increase time with clients and client satisfaction, but nurses may perceive lower teamwork unless communication strategies are deliberately built in. The best response keeps the evidence-based benefit and adds structured communication: huddles, buddy systems, and mobile devices. Returning to a central station is tempting because it fixes isolation, but it sacrifices the outcome the redesign achieved.",
@@ -1530,7 +1552,8 @@ window.NURSE_DATA.push({
       "cjmm": "Evaluate Outcomes",
       "focus": "Delegation & Safety",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m46-pro-039",
@@ -1601,7 +1624,8 @@ window.NURSE_DATA.push({
       "cjmm": "Prioritize Hypotheses",
       "focus": "Delegation & Safety",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m46-pro-040",
@@ -1676,15 +1700,15 @@ window.NURSE_DATA.push({
       "stem": "A nurse is preparing a presentation on resource allocation. Which situation is an example of rationing?",
       "options": [
         "A charge nurse assigns the most experienced RN to the clients with the highest acuity",
-        "A unit standardizes supply ordering to reduce expired and wasted items",
-        "A nurse removes a peripheral IV catheter that is no longer needed",
+        "A unit standardizes supply ordering to reduce expired, wasted, and duplicate items",
+        "The hospital pharmacy dispenses a lower-cost generic in place of the brand-name drug",
         "Because the region has one pediatric psychiatrist, new referrals wait 4 months to be seen"
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. Matching staff to acuity is allocation of resources by need; no client is denied beneficial care.",
-        "Incorrect. Reducing waste is cost containment, not limiting access to beneficial care.",
-        "Incorrect. Removing an unnecessary device is good practice that prevents complications.",
+        "Incorrect. Matching staff to acuity is a way of allocating scarce resources, but it directs care by need and no client is denied beneficial care.",
+        "Incorrect. Reducing waste does lower costs, but it is cost containment and does not limit anyone’s access to beneficial care.",
+        "Incorrect. Generic substitution saves money, but the client still receives an equally effective drug, so it is cost containment, not rationing.",
         "Correct. Children who would benefit from psychiatric care go without it for months because there are not enough specialists; a waiting list created by scarcity is implicit rationing."
       ],
       "rationale": "Resource allocation is the distribution of limited resources among competing needs; rationing is limiting access to beneficial services because there is not enough for everyone. Rationing may be explicit, with stated criteria, or implicit, through waiting lists, cost-sharing, or shortages that fall hardest on vulnerable clients. Assigning staff by acuity is the tempting distractor because it involves scarce staff, but it distributes care by need rather than withholding beneficial care from anyone.",
@@ -1698,7 +1722,8 @@ window.NURSE_DATA.push({
       "cjmm": "Analyze Cues",
       "focus": "Delegation & Safety",
       "difficulty": 3,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m46-pro-043",
@@ -1707,19 +1732,19 @@ window.NURSE_DATA.push({
       "priority": true,
       "stem": "At the start of a shift, an RN team leader is assigned eight clients, including two who are unstable, with one nursing assistant and no LPN. The supervisor says no additional staff are available. Which action by the RN is best?",
       "options": [
-        "Refuse the assignment and leave the unit until additional staff arrive",
+        "Accept and ask a nearby unit’s charge nurse to lend an RN for the shift",
         "Accept, prioritize care, and escalate the concern through the chain of command",
-        "Accept the assignment without comment to avoid conflict with the supervisor",
+        "Accept and file a safe-staffing report at the end of the shift",
         "Delegate assessments of the stable clients to the nursing assistant to save time"
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. Leaving after accepting responsibility for clients can constitute abandonment and leaves clients unsafe.",
-        "Correct. The RN provides care by priority while advocating for safe staffing and documenting the concern per policy—meeting both client safety and professional accountability.",
-        "Incorrect. Silence fails the duty to advocate for safe staffing and leaves the system unaware of the risk.",
+        "Incorrect. Seeking help is reasonable, but staffing is arranged through the chain of command, not informally with another unit, and care still must be prioritized.",
+        "Correct. The RN keeps clients safe by prioritizing care and formally escalates the unsafe staffing so leaders can respond during the shift.",
+        "Incorrect. Documenting unsafe staffing per policy is appropriate, but waiting until the shift ends leaves the concern unaddressed while clients are at risk.",
         "Incorrect. Assessment cannot be delegated to UAP, regardless of workload."
       ],
-      "rationale": "Healthcare systems connect directly to accountability, advocacy, and safety. When staffing is unsafe, the RN should not abandon clients and should not silently accept; the professional response is to prioritize care, communicate concerns objectively through the chain of command, and document per facility policy. Delegating assessment to save time is tempting under pressure, but assessment is never delegated to UAP.",
+      "rationale": "Healthcare systems connect directly to accountability, advocacy, and safety. When staffing is unsafe, the RN should not abandon clients and should not silently accept; the professional response is to prioritize care, communicate concerns objectively through the chain of command during the shift, and document per facility policy. Informal help from another unit or a report filed after the shift is incomplete. Delegating assessment to save time is tempting under pressure, but assessment is never delegated to UAP.",
       "takeaway": "For unsafe staffing: accept, prioritize, and escalate objectively—never abandon or delegate assessment.",
       "hintContent": "Which option protects clients now and still advocates for change?",
       "hintStrategy": "Eliminate extremes (refusing and leaving, or silent compliance) and any option outside scope.",
@@ -1728,7 +1753,8 @@ window.NURSE_DATA.push({
       "cjmm": "Take Action",
       "focus": "Delegation & Safety",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m46-pro-044",

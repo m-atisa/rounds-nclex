@@ -105,19 +105,20 @@ window.NURSE_DATA.push({
     "Acute gallbladder inflammation that remains localized to the RUQ",
     "Acute gallbladder inflammation that has produced a systemic response",
     "Chronic, lymphocyte-driven gallbladder inflammation limited to the RUQ",
-    "An IgE-mediated allergic reaction to the meal with systemic effects"
+    "Acute gallbladder inflammation that has progressed to septic shock"
    ],
    "answer": 1,
    "optionRationales": [
-    "The fever, tachycardia, and high WBC with bands meet the systemic cutoffs, so the response is not limited to the RUQ.",
+    "Incorrect. The onset and RUQ signs do fit acute inflammation, but the fever above 38.5 °C, HR above 90, and WBC above 12,000 with bands show the response is no longer only local.",
     "Correct. Rapid onset over hours with neutrophil-driven labs fits acute inflammation, and T >38.5 °C, HR >90, and WBC >12,000 with bands show a systemic response.",
-    "Onset over hours with a neutrophil/band response points to acute, not chronic, inflammation, and the findings are not limited to the RUQ.",
-    "An allergic reaction would cause hives, wheezing, or airway swelling within minutes, not organ tenderness and a left shift 18 hours later."
+    "Incorrect. The inflammation is in the gallbladder, but onset over hours with neutrophils and bands points to acute, not chronic, lymphocyte-driven inflammation, and the systemic signs are missed.",
+    "Incorrect. The findings are acute and systemic, but nothing shows shock; no hypotension or organ failure is reported, so this overstates the condition."
    ],
    "rationale": "Two judgments are combined. First, acute versus chronic: onset over hours, classic local signs, and a neutrophil response with bands indicate acute inflammation. Second, local versus systemic: fever above 38.5 °C, HR above 90, and WBC above 12,000 with bands meet the course cutoffs for a systemic response. Together these describe acute cholecystitis with systemic effects.",
    "takeaway": "Hours-long onset + bands = acute; T >38.5 °C, HR >90, WBC >12,000 = systemic.",
    "hintContent": "Compare acute and chronic inflammation (onset, main cells) and apply the systemic-sign cutoffs from the assessment slide.",
-   "hintStrategy": "Decide acute vs. chronic first, then local vs. systemic, and pick the option that gets both right."
+   "hintStrategy": "Decide acute vs. chronic first, then local vs. systemic, and pick the option that gets both right.",
+   "bestAnswer": true
   },
   {
    "id": "m10c-004",
@@ -182,15 +183,16 @@ window.NURSE_DATA.push({
    ],
    "answer": 2,
    "optionRationales": [
-    "Deep breathing is the goal, but the client cannot breathe deeply while pain is 7/10; the spirometer is coached after the analgesic takes effect.",
-    "Walking is important but will not happen with uncontrolled pain; it follows pain relief.",
+    "Incorrect. Deep breathing is the goal, but the client cannot breathe deeply while pain is 7/10; the spirometer is coached after the analgesic takes effect.",
+    "Incorrect. Walking is important but will not happen with uncontrolled pain; it follows pain relief.",
     "Correct. Pain is blocking deep breathing and walking; treating it first lets the client take part in the measures that prevent complications.",
-    "A temperature of 37.8 °C is below the course cutoff of 38.5 °C for a systemic sign; the findings do not need an urgent report."
+    "Incorrect. A temperature of 37.8 °C is below the course cutoff of 38.5 °C for a systemic sign; the findings do not need an urgent report."
    ],
    "rationale": "The client needs deep breathing and walking, but pain is the barrier. The prescribed opioid is for severe pain; it does not treat inflammation but allows recovery to proceed. The mildly elevated temperature and slightly high HR do not meet the systemic cutoffs, so there is no reason to call the surgeon before treating pain. Once pain is controlled, the nurse coaches the incentive spirometer and ambulation.",
    "takeaway": "When pain blocks recovery activities, give the prescribed analgesic first, then coach.",
    "hintContent": "Connect the role of opioids after surgery, why deep breathing and walking matter, and the course cutoff for a systemic temperature.",
-   "hintStrategy": "Ask what is stopping the client from doing the helpful actions; remove that barrier first."
+   "hintStrategy": "Ask what is stopping the client from doing the helpful actions; remove that barrier first.",
+   "bestAnswer": true
   },
   {
    "id": "m10c-006",
@@ -209,20 +211,21 @@ window.NURSE_DATA.push({
    "options": [
     "CRP of 2.9 mg/dL, which is still above the reference range",
     "WBC of 9,100/mm³ with bands down to 4%",
-    "Clean, dry port-site incisions with edges approximated",
+    "Port-site incisions that are clean, dry, and closed",
     "The client's plan to resume daily fast-food lunches"
    ],
    "answer": 3,
    "optionRationales": [
-    "CRP falls quickly when inflammation resolves; a drop from 8.2 to 2.9 mg/dL shows improvement, and it is expected to keep falling.",
-    "A normal WBC with normal bands shows the systemic response has resolved.",
-    "Clean, dry, approximated port sites are expected healing findings.",
+    "Incorrect. The CRP is still above normal, but it has fallen sharply from 8.2 mg/dL, which shows the inflammation is resolving as expected.",
+    "Incorrect. Checking the WBC is reasonable, but 9,100/mm³ with 4% bands is within normal limits and shows the acute response has settled.",
+    "Incorrect. Checking the incisions is an important discharge assessment, but clean, dry, closed port sites show expected healing and need no action.",
     "Correct. A Western diet high in fast food promotes inflammation and conflicts with an anti-inflammatory, higher-fiber, lower-fat pattern; this knowledge gap needs teaching before discharge."
    ],
-   "rationale": "Evaluating outcomes means judging each finding. The falling CRP, normal WBC and bands, and normal vital signs show the inflammation is resolving, and the incisions look healthy. The remaining problem is the client's plan to eat fast food daily, a modifiable risk factor for inflammation, so diet teaching is the priority before discharge.",
+   "rationale": "Evaluating outcomes means judging each finding. The falling CRP, normal WBC and bands, and normal vital signs show the inflammation is resolving, the incisions look healthy, and mild shoulder pain from the laparoscopy gas is expected. The remaining problem is the client's plan to eat fast food daily, a modifiable risk factor for inflammation, so diet teaching is the priority before discharge.",
    "takeaway": "A falling CRP and normalized WBC show recovery; an unhealthy diet plan is a teaching need.",
    "hintContent": "Recall how CRP and WBC/bands change as inflammation resolves, and which dietary pattern promotes inflammation.",
-   "hintStrategy": "Mark each option as improving/expected or as a problem; the priority is the one that is still a problem."
+   "hintStrategy": "Mark each option as improving/expected or as a problem; the priority is the one that is still a problem.",
+   "bestAnswer": true
   },
   {
    "id": "m10c-007",
@@ -429,14 +432,15 @@ window.NURSE_DATA.push({
    "answer": 0,
    "optionRationales": [
     "Correct. An SpO₂ of 89% with RR 26 is a breathing problem, and hypoxia can worsen confusion; oxygenation comes first.",
-    "Cultures are important before antibiotics, but they do not come before correcting hypoxia.",
-    "The change from baseline is already documented; re-comparing does not treat the low oxygen level.",
-    "The crackles point to the lungs as the source, and a urine specimen does not address the immediate hypoxia."
+    "Incorrect. Cultures are important before antibiotics, but they do not come before correcting hypoxia.",
+    "Incorrect. The change from baseline is already documented; re-comparing does not treat the low oxygen level.",
+    "Incorrect. The crackles point to the lungs as the source, and a urine specimen does not address the immediate hypoxia."
    ],
    "rationale": "In older adults, infection often shows up as new confusion, falls, and poor appetite, with only a small temperature rise over a low baseline (here 1.3 °C). The HR >90, RR >20, and WBC >12,000 with bands show a systemic response. Among the actions, the SpO₂ of 89% is the most immediate threat (breathing), so oxygen is applied first; cultures and further work-up follow.",
    "takeaway": "Atypical infection in older adults: compare with baseline to recognize it, but treat ABC problems like hypoxia first.",
    "hintContent": "Link atypical signs of infection in older adults, the systemic-sign cutoffs, and the ABC priority framework.",
-   "hintStrategy": "Several options are appropriate; rank them with the ABC framework, using the most abnormal values in the exhibit."
+   "hintStrategy": "Several options are appropriate; rank them with the ABC framework, using the most abnormal values in the exhibit.",
+   "bestAnswer": true
   },
   {
    "id": "m10c-009",
@@ -500,15 +504,16 @@ window.NURSE_DATA.push({
    ],
    "answer": 2,
    "optionRationales": [
-    "Fever is an expected systemic sign of the lung inflammation, and the antipyretic has had little time to work. It needs monitoring but is not the most urgent finding.",
-    "A fast respiratory rate is expected with fever and pneumonia in a toddler, and the SpO₂ is acceptable on the prescribed oxygen.",
+    "Incorrect. Fever is an expected systemic sign of the lung inflammation, and the antipyretic has had little time to work. It needs monitoring but is not the most urgent finding.",
+    "Incorrect. A fast respiratory rate is expected with fever and pneumonia in a toddler, and the SpO₂ is acceptable on the prescribed oxygen.",
     "Correct. Capillary refill longer than 2 seconds (here 4 seconds) and no wet diaper for many hours show the skin and kidneys are not being perfused. After 2 days of vomiting and poor intake, this signals significant fluid loss that needs action and reporting now.",
-    "A fussy child who cries with tears is alert and still producing tears, which is reassuring about mental status and hydration."
+    "Incorrect. A fussy child who cries with tears is alert and still producing tears, which is reassuring about mental status and hydration."
    ],
    "rationale": "Children lose fluid faster than adults because their total fluid volume is smaller and their kidneys conserve water poorly. The best bedside checks of fluid balance in a young child are mental status, capillary refill, and wet diapers. Fever and fast breathing are expected systemic signs of pneumonia, but delayed capillary refill with no urine output for 8 hours shows poor perfusion and requires immediate follow-up.",
    "takeaway": "In a young child, check mental status, capillary refill, and wet diapers to spot dangerous fluid loss.",
    "hintContent": "Connect the expected systemic signs of pneumonia with why fluid losses are more dangerous in toddlers and which bedside checks show poor perfusion.",
-   "hintStrategy": "Separate findings expected from the illness from the one showing that tissues and kidneys are not being perfused."
+   "hintStrategy": "Separate findings expected from the illness from the one showing that tissues and kidneys are not being perfused.",
+   "bestAnswer": true
   },
   {
    "id": "m10c-012",
@@ -527,20 +532,21 @@ window.NURSE_DATA.push({
    "options": [
     "“UV rays injured the skin, and leaky capillaries make it red and hot; no antibiotic is needed.”",
     "“UV rays injured the skin, and widened vessels bring in warm blood; no antibiotic is needed.”",
-    "“Bacteria multiplied in the sun-damaged skin, so an antibiotic will stop the redness.”",
-    "“Your immune system is attacking your own skin cells, so a steroid will be needed.”"
+    "“UV rays injured the skin, and white cells there make it red and hot; no antibiotic is needed.”",
+    "“UV rays injured the skin, and widened vessels bring in warm blood; an antibiotic prevents infection.”"
    ],
    "answer": 1,
    "optionRationales": [
-    "The cause is right, but leaky capillaries explain swelling, not redness and heat.",
+    "Incorrect. Correctly says no antibiotic is needed, but leaky capillaries cause swelling, not the redness and heat; those come from vasodilation.",
     "Correct. UV radiation is a physical agent that injures cells, and vasodilation brings more warm core blood to the area, causing redness and heat. No microorganism is involved.",
-    "Sunburn is caused by UV radiation, a physical agent; with intact skin and no fever there is no sign of infection, and an antibiotic would not help.",
-    "Sunburn is not an autoimmune process; the response is to an external injury."
+    "Incorrect. White cells do move into injured tissue, but they do not cause the redness and heat; vasodilation bringing warm blood does.",
+    "Incorrect. The explanation of redness and heat is right, but the skin is intact with no infection, so an antibiotic has no role and is not used to prevent one."
    ],
    "rationale": "Inflammation is a response to any harm, and infection is only one cause. UV radiation is a physical agent. The redness and heat of the sunburn come from vasodilation bringing extra warm blood to the injured skin. Because no microorganism is present, an antibiotic has no role.",
    "takeaway": "Inflammation is not infection: physical injuries like sunburn cause redness and heat through vasodilation, without germs.",
    "hintContent": "Recall the three categories of causes of inflammation and the process that produces redness and heat.",
-   "hintStrategy": "Check both halves of each response: the cause and the mechanism must both be correct."
+   "hintStrategy": "Check both halves of each response: the cause and the mechanism must both be correct.",
+   "bestAnswer": true
   },
   {
    "id": "m10c-013",
@@ -558,21 +564,22 @@ window.NURSE_DATA.push({
    "stem": "A client with a sprained right wrist has had a cloth-wrapped cold pack applied for 20 minutes every 2–3 hours, with the wrist elevated, for 24 hours. Which finding best indicates these measures are achieving the intended effect?",
    "options": [
     "The skin over the wrist stays pale and cool 1 hour after the pack is removed",
-    "The client reports numbness in the fingers while the cold pack is in place",
+    "The skin under the pack is intact with no blisters after each use",
     "Wrist circumference has decreased from 18.5 cm to 17.6 cm",
     "The client says the wrist “feels much less tight and sore than yesterday”"
    ],
    "answer": 2,
    "optionRationales": [
-    "Skin that stays pale and cool long after cold removal suggests impaired circulation or cold injury, not success.",
-    "Numbness during cold therapy means the cold should be removed; it is an adverse effect.",
+    "Incorrect. Cold does cause vasoconstriction, but skin that stays pale and cool an hour later suggests impaired circulation from the treatment, not reduced swelling.",
+    "Incorrect. Checking skin integrity is an important safety finding, but intact skin shows the cold pack caused no harm, not that the swelling is going down.",
     "Correct. Cold causes vasoconstriction and elevation lowers hydrostatic pressure, both reducing leakage; a measurable decrease in circumference at the same spot proves there is less edema.",
-    "Less tightness and soreness is encouraging, but it is subjective; a measured decrease in circumference is stronger evidence that the swelling has gone down."
+    "Incorrect. Feeling less tight and sore supports improvement, but it is subjective; a measured decrease in circumference is stronger evidence of less edema."
    ],
-   "rationale": "Swelling comes from increased capillary permeability and higher hydrostatic pressure. Cold (vasoconstriction) and elevation (lower hydrostatic pressure, better venous and lymph return) target those mechanisms. The best evidence they worked is a measurable drop in circumference at the same spot; the client's report of feeling better supports it but is subjective. Pale, cool, or numb skin signals harm from the treatment.",
+   "rationale": "Swelling comes from increased capillary permeability and higher hydrostatic pressure. Cold (vasoconstriction) and elevation (lower hydrostatic pressure, better venous and lymph return) target those mechanisms. The best evidence they worked is a measurable drop in circumference at the same spot; the client's report of feeling better supports it but is subjective. Intact skin shows the treatment is safe, not that it is working, and skin that stays pale and cool signals harm from the treatment.",
    "takeaway": "Evaluate swelling with an objective measurement such as circumference, not only the client's report.",
    "hintContent": "Connect why cold and elevation reduce swelling with how to measure a change in swelling and the safety signs of cold therapy.",
-   "hintStrategy": "Rank each finding by whether it shows benefit or harm, then by how measurable it is."
+   "hintStrategy": "Rank each finding by whether it shows benefit or harm, then by how measurable it is.",
+   "bestAnswer": true
   },
   {
    "id": "m10c-014",
@@ -589,20 +596,21 @@ window.NURSE_DATA.push({
    "options": [
     "Compare both knees using the back of the hand",
     "Palpate the left knee firmly with the fingertips",
-    "Measure the knee's skin with a tympanic thermometer",
+    "Palpate the left knee using the back of the hand",
     "Ask the client whether the knee feels warm"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. The back of the hand is most sensitive to temperature, and the other knee serves as the client's own normal.",
-    "Fingertips are less sensitive to temperature, and firm pressure adds pain without improving accuracy.",
-    "A tympanic thermometer measures core temperature in the ear, not local skin warmth.",
-    "The client's report is subjective and not an accurate assessment of warmth."
+    "Incorrect. Palpation is the right method, but fingertips are better for texture than temperature, and firm pressure on a painful knee adds discomfort without a comparison.",
+    "Incorrect. The back of the hand is the right tool, but without comparing to the other knee there is no baseline to judge whether warmth is increased.",
+    "Incorrect. The client's report is useful subjective data, but warmth is an objective finding the nurse must confirm by palpation."
    ],
    "rationale": "Local warmth (calor) comes from vasodilation bringing warm core blood to the site. It is assessed with the dorsal surface of the hand, comparing the affected area with the same spot on the opposite side.",
    "takeaway": "Check warmth with the back of the hand and compare sides.",
    "hintContent": "Think about which part of the hand senses temperature best and what the comparison standard should be.",
-   "hintStrategy": "Eliminate options that are subjective or measure the wrong thing."
+   "hintStrategy": "Eliminate options that are subjective or measure the wrong thing.",
+   "bestAnswer": true
   },
   {
    "id": "m10c-017",
@@ -624,9 +632,9 @@ window.NURSE_DATA.push({
    ],
    "answer": 3,
    "optionRationales": [
-    "Heart muscle has limited regeneration; rest does not make it regrow.",
-    "Bone marrow regenerates its own cells but does not replace heart muscle.",
-    "Anti-inflammatory drugs reduce inflammation but cannot make heart muscle regenerate.",
+    "Incorrect. Heart muscle has limited regeneration; rest does not make it regrow.",
+    "Incorrect. Bone marrow regenerates its own cells but does not replace heart muscle.",
+    "Incorrect. Anti-inflammatory drugs reduce inflammation but cannot make heart muscle regenerate.",
     "Correct. Muscle, including heart muscle, has limited regeneration, so the damaged area heals by scar (cicatrix), which is less functional."
    ],
    "rationale": "In the reparative phase, tissues that divide often (skin, GI and respiratory lining, bone, marrow, lymphoid) regenerate. Nervous, muscle (including cardiac), and elastic tissue have limited regeneration and heal by scar, which is strong but does not contract.",
@@ -656,15 +664,16 @@ window.NURSE_DATA.push({
    ],
    "answer": 2,
    "optionRationales": [
-    "Peanut butter adds protein, but the snack provides little vitamin C, which is needed to build strong collagen.",
-    "Oranges provide vitamin C, but the snack has very little protein, the building block for new tissue and collagen.",
+    "Incorrect. Peanut butter adds protein, but the snack provides little vitamin C, which is needed to build strong collagen.",
+    "Incorrect. Oranges provide vitamin C, but the snack has very little protein, the building block for new tissue and collagen.",
     "Correct. Greek yogurt provides protein and strawberries provide vitamin C, both needed to build granulation tissue and collagen.",
-    "Apple juice and saltines are mostly simple carbohydrate, low in protein and vitamin C."
+    "Incorrect. Apple juice and saltines are mostly simple carbohydrate, low in protein and vitamin C."
    ],
    "rationale": "Beefy red, moist tissue is granulation tissue, which means the wound is in the reparative stage. Fibroblasts now lay down collagen, which needs protein for building blocks and vitamin C to form strong fibers. The best snack supplies both; snacks that supply only one of them are partial answers.",
    "takeaway": "Granulation = reparative phase; support it with protein plus vitamin C.",
    "hintContent": "Identify the stage from the wound description, then recall which nutrients build new tissue and collagen.",
-   "hintStrategy": "Name the stage first, then check each snack for both nutrients that stage needs."
+   "hintStrategy": "Name the stage first, then check each snack for both nutrients that stage needs.",
+   "bestAnswer": true
   },
   {
    "id": "m10c-021",
@@ -683,21 +692,22 @@ window.NURSE_DATA.push({
    "stem": "A client with pneumonia has T 38.9 °C (102.0 °F) and HR 104/min, is sweating heavily, and has taken only 300 mL of oral fluid today. Acetaminophen was given 30 minutes ago. Which nursing action is the priority?",
    "options": [
     "Encourage oral fluids and change the damp gown and linens",
-    "Restrict oral fluids to 1 L per day to avoid fluid overload",
-    "Add heavy blankets so the client can sweat out the fever",
-    "Give a second antipyretic dose now to speed the drop in fever"
+    "Recheck the temperature in 30 minutes to evaluate the acetaminophen",
+    "Apply a cooling blanket to bring the temperature down faster",
+    "Report the heart rate of 104/min to the provider right away"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Fever and sweating increase fluid loss, and fluids support repair; dry linens promote comfort while the antipyretic takes effect.",
-    "Restricting fluids worsens the deficit caused by fever and sweating.",
-    "Heavy blankets trap heat and raise the temperature further.",
-    "The antipyretic was just given; repeating it early risks toxicity, and the temperature is rechecked after it has had time to work."
+    "Correct. Fever and sweating increase fluid loss, and the client has taken in very little; fluids support repair, and dry linens promote comfort while the antipyretic takes effect.",
+    "Incorrect. Rechecking the temperature is part of fever care, but it only evaluates the drug and does nothing for the fluid deficit the client has now.",
+    "Incorrect. External cooling can help a high fever, but it may cause shivering, which raises heat production, and it does not replace the fluid being lost.",
+    "Incorrect. Tachycardia is worth tracking, but an HR of 104/min is expected with fever and low fluid intake; treating the fluid loss comes before calling the provider."
    ],
    "rationale": "The fever and tachycardia are systemic signs of the lung inflammation. Prostaglandins drive the fever, and acetaminophen has just been given to lower it. While it takes effect, the nurse replaces the fluid lost through fever and sweating and provides comfort. Fluids are also part of promoting healing.",
    "takeaway": "Fever care: give the prescribed antipyretic, replace fluids, keep the client dry, and recheck.",
    "hintContent": "Connect systemic signs, how an antipyretic works and is timed, and why fever increases fluid needs.",
-   "hintStrategy": "Decide what the fever and sweating are doing to the client's fluid balance and comfort while the antipyretic takes effect."
+   "hintStrategy": "Decide what the fever and sweating are doing to the client's fluid balance and comfort while the antipyretic takes effect.",
+   "bestAnswer": true
   },
   {
    "id": "m10c-024",
@@ -714,20 +724,21 @@ window.NURSE_DATA.push({
    "options": [
     "Mild swelling of both ankles that improves after a night's rest",
     "Severe headache with spots in the vision despite acetaminophen",
-    "Needing to urinate more often than before the pregnancy began",
-    "A dull lower back ache after standing at work for several hours"
+    "Deep tendon reflexes of 2+ in both knees and no clonus",
+    "Weight gain of 0.5 kg (1 lb) since the visit last week"
    ],
    "answer": 1,
    "optionRationales": [
-    "Mild dependent ankle swelling that resolves with rest is common in pregnancy.",
+    "Incorrect. Edema is monitored in preeclampsia, but mild ankle swelling that resolves with rest is a common, expected pregnancy change.",
     "Correct. A severe headache with visual changes is a severe feature, showing the disorder is affecting the brain.",
-    "Urinary frequency is a common, expected change of pregnancy.",
-    "A dull back ache after standing is a common discomfort of pregnancy."
+    "Incorrect. Reflexes are an important check in preeclampsia, but 2+ reflexes without clonus are normal and do not show worsening disease.",
+    "Incorrect. Rapid weight gain can signal fluid retention, but 0.5 kg (1 lb) in a week is expected in the third trimester; a gain of more than about 1 kg (2 lb) in a week would be a concern."
    ],
-   "rationale": "Preeclampsia is an inflammation-mediated hypertensive disorder that damages the lining of blood vessels and stresses organs. A severe headache or visual disturbance signals progression to severe disease and must be reported immediately; the other findings are common pregnancy changes.",
+   "rationale": "Preeclampsia is an inflammation-mediated hypertensive disorder that damages the lining of blood vessels and stresses organs. A severe headache or visual disturbance signals progression to severe disease and must be reported immediately; the other findings, including mild ankle edema, normal reflexes, and expected weekly weight gain, are within normal limits for pregnancy.",
    "takeaway": "Preeclampsia + severe headache or visual changes = report immediately.",
    "hintContent": "Recall how preeclampsia affects blood vessels and organs and which symptoms show progression.",
-   "hintStrategy": "Separate common pregnancy discomforts from a sign of organ involvement."
+   "hintStrategy": "Separate common pregnancy discomforts from a sign of organ involvement.",
+   "bestAnswer": true
   },
   {
    "id": "m10c-028",
@@ -746,21 +757,22 @@ window.NURSE_DATA.push({
    "stem": "The RN is caring for an 88-year-old client admitted with pneumonia whose baseline temperature is 36.1 °C (97.0 °F). Which instruction is most important for the RN to give the unlicensed assistive personnel (UAP)?",
    "options": [
     "Report a temperature below 36 °C (96.8 °F) or above 38.5 °C (101.3 °F)",
-    "Keep the client in bed to conserve energy and do not offer to walk",
+    "Encourage oral fluids and record intake each shift",
     "Report any new confusion or change in behavior right away",
     "Report the temperature only if it rises above 39 °C (102.2 °F)"
    ],
    "answer": 2,
    "optionRationales": [
-    "These are the course cutoffs for a systemic temperature, but this client's baseline is 36.1 °C. A rise of about 1 °C above baseline can signal infection in an older adult and would be missed by waiting for 38.5 °C.",
-    "Strict bed rest increases complications; activity is individualized, not withheld.",
+    "Incorrect. These are the course cutoffs for a systemic temperature, but this client's baseline is 36.1 °C; in an older adult a rise of about 1 °C above baseline can signal infection and would be missed.",
+    "Incorrect. Encouraging fluids and recording intake is an appropriate UAP task for pneumonia, but it does not help detect worsening infection, which is the greatest risk.",
     "Correct. New confusion is often the first sign of worsening infection in an older adult, and the UAP can observe and report it.",
-    "Older adults often have a blunted fever response; waiting for 39 °C could miss worsening infection entirely."
+    "Incorrect. Reporting a high fever is reasonable, but older adults often have a blunted fever response, so waiting for 39 °C could miss worsening infection entirely."
    ],
    "rationale": "Older adults may show infection as confusion, falls, or poor appetite instead of a high fever, and their own baseline matters more than textbook cutoffs. Temperature-based instructions, even ones using the course cutoffs, can miss early infection in a client whose baseline is 36.1 °C. The UAP can observe and report changes while the RN assesses and acts, so the most useful instruction targets the earliest, most likely warning sign in this age group.",
    "takeaway": "Teach the UAP to report new confusion in older adults right away.",
    "hintContent": "Link atypical signs of infection in older adults, the systemic temperature cutoffs (high and low), and what the UAP may observe and report.",
-   "hintStrategy": "Choose the instruction within UAP scope that catches the earliest sign of trouble for this client's age and baseline."
+   "hintStrategy": "Choose the instruction within UAP scope that catches the earliest sign of trouble for this client's age and baseline.",
+   "bestAnswer": true
   },
   {
    "id": "m10c-029",
@@ -1055,15 +1067,16 @@ window.NURSE_DATA.push({
    ],
    "answer": 3,
    "optionRationales": [
-    "A cloth barrier is needed but comes after the baseline assessment.",
-    "Elevation reduces swelling but follows the baseline assessment.",
-    "Timing the application is part of the procedure after assessment.",
+    "Incorrect. A cloth barrier is needed but comes after the baseline assessment.",
+    "Incorrect. Elevation reduces swelling but follows the baseline assessment.",
+    "Incorrect. Timing the application is part of the procedure after assessment.",
     "Correct. A baseline check of skin, sensation, and circulation is needed before cold is applied, both to detect compression from swelling and to compare after treatment."
    ],
    "rationale": "Swelling from increased permeability can compress vessels and nerves, and cold itself can injure skin. The nurse first assesses skin, sensation, and circulation to establish a baseline, then wraps the pack, elevates, and applies it for 15–20 minutes.",
    "takeaway": "Assess skin, sensation, and circulation before applying cold.",
    "hintContent": "Connect the risks of swelling and cold therapy with the steps of safe cold application.",
-   "hintStrategy": "Several options are correct steps of cold application; decide which one the others depend on."
+   "hintStrategy": "Several options are correct steps of cold application; decide which one the others depend on.",
+   "bestAnswer": true
   },
   {
    "id": "m10c-038",
@@ -1087,15 +1100,16 @@ window.NURSE_DATA.push({
    ],
    "answer": 1,
    "optionRationales": [
-    "NSAIDs do not kill bacteria; the antibiotic treats the cause.",
+    "Incorrect. NSAIDs do not kill bacteria; the antibiotic treats the cause.",
     "Correct. Ibuprofen blocks prostaglandin production, reducing fever (thermostat reset) and pain.",
-    "NSAIDs do not block histamine release from mast cells.",
-    "Leukotrienes attract WBCs; prostaglandins cause fever."
+    "Incorrect. NSAIDs do not block histamine release from mast cells.",
+    "Incorrect. Leukotrienes attract WBCs; prostaglandins cause fever."
    ],
    "rationale": "The antibiotic treats the bacterial cause, while ibuprofen treats the symptoms. Prostaglandins produced at the site cause vasodilation, pain, and fever by acting on the hypothalamus. NSAIDs lower prostaglandin production, so pain and fever fall.",
    "takeaway": "Antibiotics treat the cause; NSAIDs block prostaglandins to relieve pain and fever.",
    "hintContent": "Match each mediator to its main effect and recall what NSAIDs do and do not do.",
-   "hintStrategy": "Identify which mediator causes fever, then pick the drug action that targets it."
+   "hintStrategy": "Identify which mediator causes fever, then pick the drug action that targets it.",
+   "bestAnswer": true
   },
   {
    "id": "m10c-039",
@@ -1121,14 +1135,15 @@ window.NURSE_DATA.push({
    "answer": 0,
    "optionRationales": [
     "Correct. Throat tightness and hoarseness after a drug signal airway swelling from possible anaphylaxis, an airway threat.",
-    "Spreading redness with tachycardia shows the infection is spreading and becoming systemic; this client is seen next.",
-    "Morning stiffness is an expected finding of chronic RA and is stable.",
-    "A comfort need for a stable local injury is the lowest priority."
+    "Incorrect. Spreading redness with tachycardia shows the infection is spreading and becoming systemic; this client is seen next.",
+    "Incorrect. Morning stiffness is an expected finding of chronic RA and is stable.",
+    "Incorrect. A comfort need for a stable local injury is the lowest priority."
    ],
    "rationale": "Prioritize with ABCs and then \"systemic before local, unstable before stable.\" Possible anaphylaxis threatens the airway and comes first. Spreading cellulitis with tachycardia is next. Stable chronic RA symptoms and a local comfort request follow.",
    "takeaway": "Airway threat from overactive inflammation first, then spreading/systemic, then chronic stable, then local comfort.",
    "hintContent": "Connect signs of anaphylaxis, signs of spreading or systemic inflammation, and the expected picture of chronic inflammation.",
-   "hintStrategy": "Apply ABCs first, then rank remaining clients by stability."
+   "hintStrategy": "Apply ABCs first, then rank remaining clients by stability.",
+   "bestAnswer": true
   },
   {
    "id": "m10c-040",
@@ -1152,15 +1167,16 @@ window.NURSE_DATA.push({
    ],
    "answer": 2,
    "optionRationales": [
-    "Redness and warmth are cardinal signs of vasodilation in Stage 1.",
-    "Neutrophil adhesion is part of the cellular response in Stage 1.",
+    "Incorrect. Redness and warmth are cardinal signs of vasodilation in Stage 1.",
+    "Incorrect. Neutrophil adhesion is part of the cellular response in Stage 1.",
     "Correct. Granulation tissue filling the wound is Stage 3, the reparative phase.",
-    "Serous exudate is characteristic of Stage 2."
+    "Incorrect. Serous exudate is characteristic of Stage 2."
    ],
    "rationale": "Stage 1 includes vasodilation (the redness and warmth of the cardinal signs) and the cellular response. Stage 2 is exudate production. Stage 3 is repair, marked by granulation tissue and later scar.",
    "takeaway": "Redness/warmth and WBC adhesion = Stage 1; serous fluid = Stage 2; granulation = Stage 3.",
    "hintContent": "Link the cardinal signs to the vascular stage and recall what each stage looks like at the wound.",
-   "hintStrategy": "Assign each option to a stage, then choose the one in the reparative phase."
+   "hintStrategy": "Assign each option to a stage, then choose the one in the reparative phase.",
+   "bestAnswer": true
   },
   {
    "id": "m10c-041",
@@ -1216,22 +1232,23 @@ window.NURSE_DATA.push({
    ],
    "stem": "The nurse is planning care for a 15-year-old with Crohn's disease, a chronic inflammatory condition, who is below the expected height for age. Which action should the nurse include in the plan of care?",
    "options": [
-    "Encourage skipping meals on school days to reduce diarrhea",
-    "Recommend aspirin for joint pain during flares",
-    "Discuss body image and school only with the parent present",
+    "Offer small, low-calorie meals to reduce diarrhea",
+    "Recommend ibuprofen for joint pain during flares",
+    "Discuss body image and school with the parent present",
     "Refer to a dietitian for a high-calorie meal plan"
    ],
    "answer": 3,
    "optionRationales": [
-    "Skipping meals worsens the nutritional deficit that is slowing growth.",
-    "Aspirin is avoided in children and teens (Reye syndrome risk) and irritates the GI tract.",
-    "Adolescents should be asked privately about body image and school.",
+    "Incorrect. Small, frequent meals can ease GI symptoms, but low-calorie intake worsens the poor growth caused by malabsorption.",
+    "Incorrect. Treating joint pain is reasonable, but NSAIDs such as ibuprofen can irritate the gut and trigger Crohn's flares, so they are generally avoided.",
+    "Incorrect. Addressing body image and school is appropriate, but adolescents should also be interviewed privately to discuss sensitive topics openly.",
     "Correct. Chronic gut inflammation decreases absorption and slows growth; a dietitian provides nutrient-dense, high-calorie meals as part of collaborative care."
    ],
    "rationale": "Chronic inflammation of the gut reduces nutrient absorption, which affects a child's growth, weight, and strength. The dietitian is a key collaborative team member for chronic inflammation. Height and weight are plotted on a growth chart, and adolescents are interviewed privately.",
    "takeaway": "Child with chronic gut inflammation and poor growth: dietitian referral and growth monitoring.",
    "hintContent": "Connect the effect of chronic gut inflammation on growth with the collaborative team and adolescent care.",
-   "hintStrategy": "Consider what slows growth in chronic gut inflammation and which team member addresses it, while keeping adolescent safety and privacy in mind."
+   "hintStrategy": "Consider what slows growth in chronic gut inflammation and which team member addresses it, while keeping adolescent safety and privacy in mind.",
+   "bestAnswer": true
   },
   {
    "id": "m10c-043",
@@ -1250,21 +1267,22 @@ window.NURSE_DATA.push({
    "stem": "A client has an acutely swollen, warm left knee after a fall 3 hours ago. There is no wound. The client asks how elevating the leg above heart level will reduce the swelling. Which explanation by the nurse is accurate?",
    "options": [
     "\"It lowers pressure in the capillaries so leaked fluid can drain back.\"",
-    "\"It raises arterial pressure in the leg to push the extra fluid out of the joint.\"",
-    "\"It increases blood flow to the knee to speed up healing.\"",
-    "\"It stimulates histamine release to tighten the capillaries.\""
+    "\"It reduces the release of the chemicals that cause swelling.\"",
+    "\"It increases blood flow to the knee so healing happens faster.\"",
+    "\"It narrows the blood vessels so less fluid leaks out of them.\""
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. Elevation lowers capillary hydrostatic pressure and lets gravity help fluid return through veins and lymph vessels.",
-    "Elevation does not raise arterial pressure, and higher pressure would push more fluid out.",
-    "More blood flow would increase swelling; that is the effect of heat, not elevation.",
-    "Histamine widens and loosens capillaries; it does not tighten them."
+    "Incorrect. Reducing chemical mediators does lessen swelling, but that is how anti-inflammatory drugs work; elevation acts on pressure, not mediator release.",
+    "Incorrect. Increasing blood flow to support healing describes heat, which is used later; elevation reduces pressure in the capillaries rather than raising flow.",
+    "Incorrect. Narrowing the vessels to limit leakage describes how cold works; elevation uses gravity to lower capillary pressure and help fluid drain back."
    ],
    "rationale": "In the vascular stage, vasodilation raises capillary hydrostatic pressure and increased permeability lets plasma leak out, causing swelling. Elevation lowers that pressure and uses gravity to help fluid return, which is why it is an independent intervention for acute swelling.",
    "takeaway": "Elevation reduces swelling by lowering capillary hydrostatic pressure and aiding venous and lymph return.",
    "hintContent": "Recall what causes swelling in the vascular stage and how gravity and pressure affect fluid movement.",
-   "hintStrategy": "Choose the explanation that reverses the mechanism that caused the swelling."
+   "hintStrategy": "Choose the explanation that reverses the mechanism that caused the swelling.",
+   "bestAnswer": true
   },
   {
    "id": "m10c-044",
@@ -1289,15 +1307,16 @@ window.NURSE_DATA.push({
    ],
    "answer": 1,
    "optionRationales": [
-    "Antibiotics treat acute infections on top of COPD but do not stop the chronic process.",
+    "Incorrect. Antibiotics treat acute infections on top of COPD but do not stop the chronic process.",
     "Correct. Cigarette smoke is the persistent irritant that keeps the chronic inflammation going; removing it (a modifiable risk factor) slows progression.",
-    "An anti-inflammatory diet can help lower inflammation overall, but it does not remove the smoke that restarts the airway inflammation every day.",
-    "Long-term daily NSAIDs carry GI, kidney, and bleeding risks and do not remove the cause."
+    "Incorrect. An anti-inflammatory diet can help lower inflammation overall, but it does not remove the smoke that restarts the airway inflammation every day.",
+    "Incorrect. Long-term daily NSAIDs carry GI, kidney, and bleeding risks and do not remove the cause."
    ],
    "rationale": "Chronic inflammation persists when the trigger keeps returning. In COPD, cigarette smoke restarts the response every day. Prevention equals avoidance of triggers, and smoking is a modifiable risk factor, so smoking cessation is the most effective intervention. Diet changes help general inflammation, and antibiotics and NSAIDs treat other problems, but none of them removes the cause.",
    "takeaway": "Chronic inflammation from a persistent irritant: remove the trigger.",
    "hintContent": "Connect why chronic inflammation persists with modifiable risk factors and the limits of drug therapy.",
-   "hintStrategy": "Ask what keeps this client's inflammation going day after day, then compare how directly each option affects it."
+   "hintStrategy": "Ask what keeps this client's inflammation going day after day, then compare how directly each option affects it.",
+   "bestAnswer": true
   },
   {
    "id": "m10c-045",
@@ -1316,20 +1335,21 @@ window.NURSE_DATA.push({
    "options": [
     "“Keep taking it; non-drowsy antihistamines do not affect skin testing.”",
     "“Switch to diphenhydramine at bedtime until the day of the test.”",
-    "“Take your dose the morning of the test so the testing doesn't itch.”",
+    "“Take your last dose the night before the test, then stop.”",
     "“Stop the cetirizine several days before the test as directed.”"
    ],
    "answer": 3,
    "optionRationales": [
-    "Non-drowsy antihistamines such as cetirizine still block histamine and can cause a false-negative skin test.",
-    "Diphenhydramine is also an antihistamine, so switching still blocks the wheal-and-flare response.",
-    "Taking the antihistamine on test day blocks the histamine-driven wheal and makes a false-negative result likely.",
+    "Incorrect. Cetirizine does cause less drowsiness, but it still blocks histamine and will suppress the wheal and flare the test depends on.",
+    "Incorrect. Taking the antihistamine at bedtime may reduce daytime symptoms, but diphenhydramine also blocks histamine and would still cause a false-negative test.",
+    "Incorrect. Stopping before the test is the right idea, but one night is too short; cetirizine lasts long enough that it must be stopped several days ahead.",
     "Correct. Antihistamines block histamine, the mediator that produces the wheal and flare, so they are stopped beforehand as the allergist directs to avoid false negatives."
    ],
    "rationale": "Skin testing identifies allergens by exposing the skin to them and watching for a histamine-driven wheal and flare. Because antihistamines block histamine, they must be stopped for several days as the allergist directs, or the test may be falsely negative.",
    "takeaway": "Hold antihistamines before skin testing; they block the histamine wheal.",
    "hintContent": "Link the mediator that causes the skin-test wheal with how antihistamines work.",
-   "hintStrategy": "Ask how the drug would change the test result, then choose the instruction that keeps the result accurate."
+   "hintStrategy": "Ask how the drug would change the test result, then choose the instruction that keeps the result accurate.",
+   "bestAnswer": true
   }
  ]
 });

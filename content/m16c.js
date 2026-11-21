@@ -186,20 +186,21 @@ window.NURSE_DATA.push({
    "hintStrategy": "Decide first whether this is severe hypertension alone or a hypertensive emergency, then choose the action that matches that level of urgency.",
    "stem": "A client who had an ischemic stroke has been mechanically ventilated for 2 days. At 0700, BP is 258/128 mm Hg and HR is 112/min. During the sedation vacation the client grimaces, crackles are heard throughout both lungs, and the nurse is suctioning pink, frothy sputum. Which action should the nurse take first?",
    "options": [
-    "Document the reading and plan to recheck the BP again in 1 hour",
+    "Recheck the BP manually in the other arm to confirm it",
     "Notify the provider now of the BP and the pink, frothy sputum",
-    "Increase the IV maintenance rate to help thin the secretions",
-    "Lower the head of the bed flat to make suctioning easier"
+    "Give the prescribed PRN pain medication for the grimacing",
+    "Restart the sedation infusion to ease the client's distress"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. BP far above 180/120 with acute pulmonary edema is an emergency; waiting an hour delays treatment while organ damage progresses.",
-    "Correct. BP far above 180/120 with acute pulmonary edema is a hypertensive emergency that needs immediate provider notification and controlled BP lowering.",
-    "Incorrect. Extra IV fluid adds preload to lungs that are already flooded.",
-    "Incorrect. Lying flat increases venous return and worsens pulmonary edema and breathing."
+    "Incorrect. Confirming an extreme reading is reasonable, but the crackles and pink, frothy sputum already show target-organ damage, so rechecking only delays treatment.",
+    "Correct. A BP of 258/128 with pulmonary edema is a hypertensive emergency. The provider must be notified now so the BP can be lowered in a controlled way and the edema treated.",
+    "Incorrect. Treating pain is helpful because pain raises BP, but an analgesic alone will not reverse a hypertensive emergency with pulmonary edema.",
+    "Incorrect. Easing distress may lower sympathetic drive somewhat, but sedation does not treat the BP or the fluid in the lungs, and the provider still needs to know now."
    ],
-   "rationale": "Severe hypertension becomes a hypertensive emergency when there is acute target-organ damage — here, the lungs. A BP of 258/128 creates an extreme afterload the left ventricle cannot push against, pressure backs up into the pulmonary capillaries, and fluid floods the alveoli (crackles, pink frothy sputum). The nurse notifies the provider immediately, keeps the head of the bed elevated, continues airway support, gives no extra fluid, and treats pain (grimacing drives the sympathetic response that raises BP) with prescribed medications.",
-   "takeaway": "Very high BP + pink frothy sputum = hypertensive emergency: notify now, head up, no extra fluid."
+   "rationale": "Severe hypertension becomes a hypertensive emergency when there is acute target-organ damage — here, the lungs. A BP of 258/128 creates an extreme afterload the left ventricle cannot push against, pressure backs up into the pulmonary capillaries, and fluid floods the alveoli (crackles, pink frothy sputum). The nurse notifies the provider immediately, keeps the head of the bed elevated, continues airway support, and gives no extra fluid. Rechecking a BP that the lung findings already confirm only delays care. Pain (grimacing drives the sympathetic response that raises BP) and agitation are treated with prescribed medications, but they support — not replace — emergency treatment.",
+   "takeaway": "Very high BP + pink frothy sputum = hypertensive emergency: notify now, head up, no extra fluid.",
+   "bestAnswer": true
   },
   {
    "id": "m16c-006",
@@ -232,7 +233,8 @@ window.NURSE_DATA.push({
     "Correct. Urine output well under 30 mL/h signals poor kidney perfusion — continuing target-organ damage or low cardiac output — and must be reported."
    ],
    "rationale": "Outcomes are judged against the client's own trend. A BP coming down gradually, clearing secretions, and a slower heart rate all show improvement; dropping BP too fast would be dangerous, so 172/94 trending down is expected. The kidneys are a target organ in hypertensive emergency and also a key bedside indicator of cardiac output: urine output persistently below about 30 mL/h means the kidneys are still underperfused and needs immediate follow-up.",
-   "takeaway": "After a hypertensive emergency, a slowly falling BP is good news; low urine output means an organ is still in trouble."
+   "takeaway": "After a hypertensive emergency, a slowly falling BP is good news; low urine output means an organ is still in trouble.",
+   "bestAnswer": true
   },
   {
    "id": "m16c-009",
@@ -334,20 +336,21 @@ window.NURSE_DATA.push({
    "hintStrategy": "Name the two branches of the left main first, then decide which chamber they feed and what losing that chamber's squeeze would do to cardiac output.",
    "stem": "Coronary angiography during a cardiac catheterization shows severe narrowing of a client's left main coronary artery. The client asks why this one blockage is considered so serious. Which response by the nurse is accurate?",
    "options": [
-    "\"It feeds the right coronary artery, which supplies the right ventricle.\"",
+    "\"It feeds your right ventricle, which pumps blood out to your whole body.\"",
     "\"Its two branches supply much of your left ventricle, your main pump.\"",
-    "\"It carries blood into the right ventricle, which pumps to the whole body.\"",
-    "\"Its posterior descending branch fills only while the heart is squeezing.\""
+    "\"It is the artery that supplies the heart's natural pacemaker, the SA node.\"",
+    "\"It is the only artery that brings oxygen-rich blood to the heart muscle.\""
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. The right coronary artery is a separate vessel; it does not arise from the left main.",
-    "Correct. The left main branches into the left anterior descending and circumflex arteries, which feed much of the left ventricle; ischemia there can weaken contractility and cardiac output.",
-    "Incorrect. Coronary arteries feed heart muscle, not the chambers, and the left ventricle — not the right — pumps to the body.",
-    "Incorrect. The posterior descending artery comes from the right coronary artery, and coronary arteries fill mainly during diastole."
+    "Incorrect. The left main is a major artery, but it feeds the left ventricle; the right ventricle is supplied mainly by the right coronary artery and pumps blood to the lungs, not the body.",
+    "Correct. The left main divides into the left anterior descending and circumflex arteries, which supply much of the left ventricle. A blockage here threatens the main pump and cardiac output.",
+    "Incorrect. A coronary blockage can affect conduction, but the SA node is usually supplied by the right coronary artery, so this does not explain why a left main blockage is so serious.",
+    "Incorrect. The left main is a major supply route, but the right coronary artery also brings blood to the heart muscle, so it is not the only one."
    ],
-   "rationale": "Coronary angiography uses contrast dye to outline the coronary arteries and show blockages. The left main coronary artery divides into the left anterior descending and circumflex arteries, which together supply much of the left ventricle — the chamber that pumps blood to the whole body. A severe left main blockage threatens the contractility of the main pump and therefore cardiac output. The right coronary artery gives rise to the posterior descending artery, and coronary filling occurs mainly in diastole.",
-   "takeaway": "Left main → LAD + circumflex → much of the left ventricle; blockage threatens the main pump."
+   "rationale": "Coronary angiography uses contrast dye to outline the coronary arteries and show blockages. The left main coronary artery divides into the left anterior descending and circumflex arteries, which together supply much of the left ventricle — the chamber that pumps blood to the whole body. A severe left main blockage threatens the contractility of the main pump and therefore cardiac output. The right ventricle (which pumps to the lungs) and, in most people, the SA node are supplied by the right coronary artery, which is also why the left main is not the only artery feeding the heart muscle.",
+   "takeaway": "Left main → LAD + circumflex → much of the left ventricle; blockage threatens the main pump.",
+   "bestAnswer": true
   },
   {
    "id": "m16c-014",
@@ -400,19 +403,20 @@ window.NURSE_DATA.push({
    "stem": "A client had fluid removed from the pericardial cavity by pericardiocentesis 2 hours ago. Which finding requires the nurse's immediate follow-up?",
    "options": [
     "BP 94/66 mm Hg (was 118/72) with HR 118/min (was 88/min)",
-    "Mild soreness at the needle insertion site, rated 2/10 on the pain scale",
-    "Clear, equal S1 and S2 heard at Erb's point without any murmur present",
-    "Respiratory rate 18/min with an SpO₂ of 97% while breathing room air"
+    "Needle site pain rated 4/10, up from 2/10 an hour ago",
+    "Temperature 100.2°F (37.9°C), up from 98.8°F (37.1°C)",
+    "Small amount of blood-tinged drainage on the site dressing"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. A falling BP with a rising heart rate suggests fluid is building up again in the snug pericardial sac, squeezing the heart so it cannot fill.",
-    "Incorrect. Mild site soreness is expected after a needle procedure.",
-    "Incorrect. Equal S1 and S2 at Erb's point without murmurs is a normal finding.",
-    "Incorrect. These respiratory values are within normal limits."
+    "Correct. A falling BP with a rising heart rate suggests fluid is reaccumulating and compressing the heart (tamponade), which threatens cardiac output and needs immediate follow-up.",
+    "Incorrect. Increasing site pain deserves reassessment and analgesia, but it is not a threat to circulation like falling BP with tachycardia.",
+    "Incorrect. A low-grade temperature rise should be monitored for infection, but it is a lower priority than signs of reduced cardiac output.",
+    "Incorrect. A small amount of drainage should be marked and monitored, but it is expected and less urgent than hemodynamic changes."
    ],
    "rationale": "Pericardial fluid collects in the pericardial cavity, between the parietal and visceral layers. Because the pericardium fits snugly, fluid that builds up again compresses the heart and keeps the ventricles from filling. Less filling means less preload and stroke volume, so cardiac output and BP fall, and the heart rate rises to compensate. After pericardiocentesis the nurse monitors the ECG, BP, and heart sounds and immediately reports a falling BP with a rising heart rate as a sign that fluid may be reaccumulating.",
-   "takeaway": "After pericardiocentesis: falling BP + rising HR = fluid reaccumulating and blocking filling — report now."
+   "takeaway": "After pericardiocentesis: falling BP + rising HR = fluid reaccumulating and blocking filling — report now.",
+   "bestAnswer": true
   },
   {
    "id": "m16c-016",
@@ -434,18 +438,19 @@ window.NURSE_DATA.push({
    "options": [
     "Left ventricular failure with fluid backing up into the lungs",
     "Right ventricular failure from pulmonary vasoconstriction",
-    "Hypovolemia from acidosis-induced systemic vasodilation",
-    "Pericardial effusion from acidosis-induced coronary spasm"
+    "Dependent edema from reduced activity and sitting for long periods",
+    "Air trapping in the lungs raising the pressure inside the chest"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Left ventricular failure produces pulmonary congestion with crackles, which this client does not have.",
-    "Correct. Acidosis constricts the pulmonary vessels, raising right ventricular afterload until the right ventricle fails and blood backs up into the jugular and leg veins.",
-    "Incorrect. Distended neck veins and edema show venous congestion, the opposite of hypovolemia (which flattens the neck veins).",
-    "Incorrect. Acidosis is not described as causing pericardial effusion; right ventricular failure explains the findings."
+    "Incorrect. Left ventricular failure is a common cause of edema, but it backs fluid into the lungs; the absence of crackles argues against it.",
+    "Correct. Acidosis causes pulmonary vasoconstriction, raising right ventricular afterload. The right ventricle fails and blood backs up into the systemic veins, causing JVD and dependent edema.",
+    "Incorrect. Inactivity can cause ankle edema, but it does not explain distended neck veins or link the findings to the lung disease.",
+    "Incorrect. Air trapping can make neck veins look fuller, but it does not explain new bilateral ankle edema."
    ],
-   "rationale": "Acidosis (respiratory or metabolic) causes pulmonary vasoconstriction, which raises pulmonary vascular pressure — the afterload of the right ventricle. Over time the right ventricle fails, and blood backs up into the systemic veins that drain into the right heart: the jugular veins distend at 30–45° and dependent edema develops. Clear lungs without crackles argue against left ventricular failure, and distended neck veins argue against hypovolemia.",
-   "takeaway": "Acidosis → pulmonary vasoconstriction → ↑ RV afterload → right-sided failure (JVD, edema)."
+   "rationale": "Acidosis (respiratory or metabolic) causes pulmonary vasoconstriction, which raises pulmonary vascular pressure — the afterload of the right ventricle. Over time the right ventricle fails, and blood backs up into the systemic veins that drain into the right heart: the jugular veins distend at 30–45° and dependent edema develops. The absence of crackles argues against left ventricular failure, and inactivity or air trapping might explain one finding but not both the distended neck veins and the bilateral ankle edema.",
+   "takeaway": "Acidosis → pulmonary vasoconstriction → ↑ RV afterload → right-sided failure (JVD, edema).",
+   "bestAnswer": true
   },
   {
    "id": "m16c-017",
@@ -465,20 +470,21 @@ window.NURSE_DATA.push({
    "hintStrategy": "Decide whether the chest tightness is an expected response to effort or a sign the heart muscle is not getting enough oxygen, then choose the action that removes the demand.",
    "stem": "During an exercise stress test, a 58-year-old client with coronary artery disease reaches a heart rate of 150/min and reports new chest tightness. Which action should the nurse take first?",
    "options": [
-    "Encourage the client to keep walking until the target rate is reached",
+    "Ask the client to rate the tightness on a 0–10 scale",
     "Stop the test and report the chest tightness",
-    "Reassure the client that tightness is expected at this heart rate",
-    "Increase the treadmill incline slightly to confirm the finding"
+    "Give sublingual nitroglycerin as prescribed",
+    "Check the BP while the client keeps walking"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Continuing increases myocardial oxygen demand while coronary filling time stays short, worsening ischemia.",
-    "Correct. Chest pain during a stress test is a stop criterion; ending the workload slows the rate, lengthens diastole, and restores coronary filling.",
-    "Incorrect. Chest pain signals that coronary flow is not meeting demand; it is not an expected finding to dismiss.",
-    "Incorrect. Adding workload further raises oxygen demand and is unsafe."
+    "Incorrect. Rating the pain is useful, but new chest pain is already a reason to stop; assessing first keeps the heart under demand.",
+    "Correct. New chest pain during a stress test is a criterion to stop. Stopping lowers the heart rate, lengthens diastole, and restores coronary filling.",
+    "Incorrect. Nitroglycerin may be needed if the pain persists, but the first step is to stop the exercise that is causing the demand.",
+    "Incorrect. BP monitoring is part of the test, but continuing to walk keeps diastole short and worsens ischemia."
    ],
    "rationale": "Coronary arteries fill mainly during diastole. A fast heart rate shortens diastole, so narrowed coronaries deliver less oxygen at exactly the time the working heart needs more — the basis of a stress test, which uncovers problems that appear only under demand. Chest pain, severe shortness of breath, dizziness, a dysrhythmia, or a drop in BP are reasons to stop the test and report. Once the rate slows, filling time returns and the pain usually eases.",
-   "takeaway": "Chest pain during a stress test: stop and report — a fast heart shortens diastole and starves narrowed coronaries."
+   "takeaway": "Chest pain during a stress test: stop and report — a fast heart shortens diastole and starves narrowed coronaries.",
+   "bestAnswer": true
   },
   {
    "id": "m16c-019",
@@ -510,7 +516,8 @@ window.NURSE_DATA.push({
     "Correct. Erb's point is the 3rd ICS at the left sternal border, where S1 and S2 are about equal; the apical pulse is counted at the 5th ICS, left midclavicular line."
    ],
    "rationale": "The auscultation areas are aortic (2nd ICS RSB), pulmonic (2nd ICS LSB), Erb's point (3rd ICS LSB), tricuspid (4th–5th ICS LSB), and mitral/apex (5th ICS, left midclavicular line). S1 and S2 are heard about equally at Erb's point. The apical pulse, required before medications that affect heart rate, is counted at the apex for a full minute.",
-   "takeaway": "Erb's point = 3rd ICS LSB; apical pulse = 5th ICS, left MCL."
+   "takeaway": "Erb's point = 3rd ICS LSB; apical pulse = 5th ICS, left MCL.",
+   "bestAnswer": true
   },
   {
    "id": "m16c-020",
@@ -579,7 +586,8 @@ window.NURSE_DATA.push({
     "Incorrect. S1 is produced by closure of the AV valves, not the semilunar valves."
    ],
    "rationale": "S1 ('lub') is produced by closure of the atrioventricular (mitral and tricuspid) valves at the start of ventricular systole, so it nearly coincides with the carotid pulse. S2 ('dub') is produced by semilunar valve closure at the start of diastole. Timing sounds against the carotid pulse helps distinguish them when the rate is fast.",
-   "takeaway": "S1 = AV valves close = start of systole = with the carotid pulse."
+   "takeaway": "S1 = AV valves close = start of systole = with the carotid pulse.",
+   "bestAnswer": true
   },
   {
    "id": "m16c-023",
@@ -599,19 +607,20 @@ window.NURSE_DATA.push({
    "stem": "A client admitted with black, tarry stools has HR 124/min, BP 98/80 mm Hg, and cool, pale extremities. Which explanation best accounts for these findings?",
    "options": [
     "Blood loss lowered preload and stroke volume, triggering tachycardia and vasoconstriction",
-    "Blood loss raised preload, overstretching the ventricle and speeding up the SA node",
-    "Bleeding dilated the blood vessels, lowering afterload and widening the pulse pressure",
-    "Bleeding irritated the SA node, and the faster rate is increasing each stroke volume pumped"
+    "Blood loss lowered preload, and the vessels dilated to send more blood to the organs",
+    "Pain and anxiety about the bleeding triggered the stress response and a faster rate",
+    "Blood loss lowered the hemoglobin, and the faster heart rate makes up for the anemia"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Less returning volume means less preload and stroke volume; baroreceptors trigger tachycardia and vasoconstriction (cool skin), which holds the diastolic up while systolic falls — a pulse pressure of only 18 mm Hg.",
-    "Incorrect. Bleeding decreases, not increases, preload.",
-    "Incorrect. Cool, pale skin shows vasoconstriction, and the pulse pressure (18 mm Hg) is narrowed, not widened.",
-    "Incorrect. The tachycardia is a compensatory reflex, and a very fast rate shortens filling time rather than raising stroke volume."
+    "Correct. Less preload means less stroke volume. Baroreceptors trigger tachycardia and vasoconstriction, which explains the cool, pale skin and the narrow pulse pressure.",
+    "Incorrect. Lower preload is right, but the body responds with vasoconstriction, not dilation; dilated vessels would cause warm skin, not cool, pale extremities.",
+    "Incorrect. Anxiety can raise the heart rate, but it does not explain the low systolic pressure, narrow pulse pressure, and cool, pale skin.",
+    "Incorrect. Anemia can raise the heart rate over time, but in acute bleeding the hemoglobin lags, and anemia does not explain the narrow pulse pressure or cool skin."
    ],
    "rationale": "Black, tarry stools suggest GI bleeding. Blood loss reduces venous return (preload), so each beat ejects less blood. Baroreceptors sense the falling pressure and trigger the sympathetic response: the heart speeds up to protect cardiac output and the skin vessels constrict (cool, pale extremities). Vasoconstriction keeps the diastolic up while the systolic falls, so the pulse pressure narrows (98 − 80 = 18 mm Hg) — an early sign of volume loss even before severe hypotension.",
-   "takeaway": "Bleeding → ↓ preload → ↓ SV → tachycardia + vasoconstriction → narrow pulse pressure."
+   "takeaway": "Bleeding → ↓ preload → ↓ SV → tachycardia + vasoconstriction → narrow pulse pressure.",
+   "bestAnswer": true
   },
   {
    "id": "m16c-024",
@@ -671,20 +680,21 @@ window.NURSE_DATA.push({
    "hintStrategy": "Decide whether this heart rate and BP are safe for a rate-slowing drug, then consider which options fall within the nurse's scope.",
    "stem": "Before giving a scheduled medication that slows the heart rate, the nurse takes the client's apical pulse. The client reports feeling dizzy when sitting up. Apical HR is 46/min (regular) and BP 84/52 mm Hg; the client's usual BP is 130/78. Which action should the nurse take first?",
    "options": [
-    "Give the dose and recheck the vital signs in 1 hour",
-    "Give half of the prescribed dose and reassess the client",
-    "Give the dose with a full glass of water to support the BP",
+    "Recheck the BP in 15 minutes before deciding",
+    "Withhold the dose and document the findings",
+    "Ask the pharmacist about giving a lower dose",
     "Withhold the dose and notify the provider"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Giving a rate-slowing drug when the heart rate is already 46/min could further reduce cardiac output.",
-    "Incorrect. Changing a prescribed dose is outside the nurse's scope of practice.",
-    "Incorrect. Water does not address the cause; the drug would slow the heart rate even further.",
-    "Correct. A heart rate of 46/min is lowering cardiac output enough to cause hypotension and dizziness; the dose is withheld and the provider notified."
+    "Incorrect. Rechecking is reasonable, but the low rate and BP fit the client's dizziness; the dose must be held and the provider told now.",
+    "Incorrect. Holding the dose is right, but this is incomplete; symptomatic bradycardia and hypotension must also be reported to the provider.",
+    "Incorrect. The pharmacist is a useful resource, but changing the dose is the provider's decision and the findings need to be reported to the provider.",
+    "Correct. A heart rate of 46 with hypotension and dizziness shows low cardiac output. Holding a rate-slowing drug and notifying the provider is safe and complete."
    ],
-   "rationale": "Because CO = HR × SV, a heart rate of 46/min can lower cardiac output enough to cause hypotension and dizziness. This is why the apical pulse is assessed before giving medications that could affect heart rate. The dose should be withheld and the provider notified; changing a prescribed dose (e.g., halving it) is outside the nurse's scope.",
-   "takeaway": "Slow HR + hypotension before a rate-slowing drug: hold the dose and notify the provider."
+   "rationale": "Because CO = HR × SV, a heart rate of 46/min can lower cardiac output enough to cause hypotension and dizziness. This is why the apical pulse is assessed before giving medications that could affect heart rate. The dose should be withheld and the provider notified; holding the dose without reporting it is incomplete, and changing a prescribed dose is the provider's decision, not the nurse's or the pharmacist's.",
+   "takeaway": "Slow HR + hypotension before a rate-slowing drug: hold the dose and notify the provider.",
+   "bestAnswer": true
   },
   {
    "id": "m16c-026",
@@ -826,7 +836,8 @@ window.NURSE_DATA.push({
     "Correct. New bradycardia with dizziness and hypotension shows the slow rate is lowering cardiac output — an unstable, symptomatic client."
    ],
    "rationale": "Prioritize the client who is unstable and symptomatic. Because CO = HR × SV, a new rate of 42/min can drop cardiac output enough to cause dizziness and hypotension, so this client needs immediate assessment and provider notification. A slightly long PR interval in an older adult reflects slowed AV node conduction (fibrosis with aging) and is not urgent when the client is asymptomatic. Chronic, controlled, or compensatory rhythms in stable clients can be seen after.",
-   "takeaway": "Treat the client, not the monitor: new rhythm + symptoms = see first."
+   "takeaway": "Treat the client, not the monitor: new rhythm + symptoms = see first.",
+   "bestAnswer": true
   },
   {
    "id": "m16c-030",
@@ -844,19 +855,20 @@ window.NURSE_DATA.push({
    "stem": "The central telemetry alarm displays a chaotic, irregular waveform with no identifiable QRS complexes labeled as ventricular fibrillation. When the nurse enters the room, the client is sitting on the edge of the bed brushing their teeth and talking with a visitor. Which action should the nurse take first?",
    "options": [
     "Assess the client and check the electrode and lead connections.",
-    "Call a code and bring the defibrillator to the bedside.",
-    "Begin chest compressions while another nurse gets help.",
-    "Administer the antidysrhythmic medication in the unit's standing protocol."
+    "Call the rapid response team to evaluate the rhythm.",
+    "Bring the defibrillator to the bedside in case the rhythm is real.",
+    "Obtain a 12-lead ECG to confirm the rhythm on the monitor."
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. A client in true VF is pulseless and unresponsive. A conscious, talking client means the tracing is artifact (e.g., from brushing movements or loose electrodes).",
-    "Incorrect. A code is not indicated for a conscious client with a pulse.",
-    "Incorrect. Chest compressions on a conscious client with a pulse would cause harm.",
-    "Incorrect. Antiarrhythmics are not given for artifact; this could cause harm."
+    "Incorrect. Calling for help is right for an unstable client, but an alert, talking client is not in VF; the nurse first checks the client and the leads for artifact.",
+    "Incorrect. Having the defibrillator ready is a cautious step, but a conscious client cannot be in VF, so assessing the client and the electrodes comes first.",
+    "Incorrect. A 12-lead ECG can clarify a rhythm, but the client's alert state already points to artifact; checking the client and electrode connections is faster and comes first."
    ],
    "rationale": "Always assess the client before acting on a monitor pattern. Ventricular fibrillation produces no cardiac output, so the client would be unresponsive and pulseless within seconds. Movement (brushing teeth, shivering, tremors) and loose electrodes create artifact that can mimic VF. The nurse confirms responsiveness and pulse, then checks leads and electrode contact.",
-   "takeaway": "VF on the monitor but talking in the room = artifact. Assess the client first."
+   "takeaway": "VF on the monitor but talking in the room = artifact. Assess the client first.",
+   "bestAnswer": true
   },
   {
    "id": "m16c-040",
@@ -886,7 +898,8 @@ window.NURSE_DATA.push({
     "Correct. Aspirin is an antiplatelet drug; it makes platelets less sticky, so the platelet plug forms more slowly."
    ],
    "rationale": "Hemostasis proceeds as vasoconstriction, platelet plug formation, and the coagulation cascade, followed later by fibrinolysis. Aspirin interferes with the platelet plug step, so a small cut bleeds longer; firm pressure helps. Anticoagulants act on the coagulation cascade, and thrombolytics (tPA) speed fibrinolysis.",
-   "takeaway": "Aspirin → weaker platelet plug; anticoagulants → cascade; thrombolytics → fibrinolysis."
+   "takeaway": "Aspirin → weaker platelet plug; anticoagulants → cascade; thrombolytics → fibrinolysis.",
+   "bestAnswer": true
   },
   {
    "id": "m16c-041",
@@ -916,7 +929,8 @@ window.NURSE_DATA.push({
     "Incorrect. Positioning does not protect the airway if the reflexes are still absent."
    ],
    "rationale": "During a TEE, a probe is passed into the esophagus after the throat is anesthetized. Until the gag and swallow reflexes return (often 1–2 hours), the client is kept NPO to prevent aspiration. Sedation effects are also monitored.",
-   "takeaway": "After TEE: no gag, no food or fluids."
+   "takeaway": "After TEE: no gag, no food or fluids.",
+   "bestAnswer": true
   },
   {
    "id": "m16c-042",
@@ -1021,7 +1035,8 @@ window.NURSE_DATA.push({
     "Incorrect. Measuring proteins from injured muscle describes troponin, and family history is nonmodifiable."
    ],
    "rationale": "Electron beam CT is a noninvasive screening test that identifies calcium buildup (calcified plaque) in the coronary arteries. A father with a heart attack at 46 is a family history of early-onset CAD — a nonmodifiable risk factor, along with age, gender, race, and personal history. Screening plus teaching about modifiable factors (smoking, diet and BMI, activity) and secondary factors (BP, cholesterol) lets the client act on what can be changed.",
-   "takeaway": "Electron beam CT = coronary calcium; family history is nonmodifiable, so focus teaching on what can change."
+   "takeaway": "Electron beam CT = coronary calcium; family history is nonmodifiable, so focus teaching on what can change.",
+   "bestAnswer": true
   },
   {
    "id": "m16c-046",
@@ -1053,7 +1068,8 @@ window.NURSE_DATA.push({
     "Incorrect. Triglycerides of 188 mg/dL are above the desirable level of less than 150, and a normal LDL does not cancel out other abnormal values."
    ],
    "rationale": "Each part of the lipid profile is read separately, using the right target for the client. Desirable values are total cholesterol < 200, LDL < 100, HDL ≥ 40 in men or ≥ 50 in women, and triglycerides < 150 mg/dL. This woman's LDL is desirable, but her total is above 200, her HDL is low for a woman, and her triglycerides are high — all of which add to coronary artery disease risk. Follow-up includes provider review and teaching on modifiable factors: a heart-healthy diet, daily activity, a BMI below 25, not smoking, and limiting alcohol.",
-   "takeaway": "Read every lipid value against its own target — and use the sex-specific HDL goal (≥ 40 men, ≥ 50 women)."
+   "takeaway": "Read every lipid value against its own target — and use the sex-specific HDL goal (≥ 40 men, ≥ 50 women).",
+   "bestAnswer": true
   },
   {
    "id": "m16c-047",
@@ -1072,20 +1088,21 @@ window.NURSE_DATA.push({
    "hintStrategy": "Consider whether the drop in heart rate is good or bad news in this context; then apply ABCs.",
    "stem": "A 2-year-old child with a severe lower respiratory infection has been increasingly lethargic. Over 10 minutes, SpO₂ falls from 90% to 81% and the heart rate drops from 162/min to 74/min. Which action should the nurse take first?",
    "options": [
-    "Document the improvement in heart rate and continue monitoring.",
+    "Apply oxygen by nonrebreather mask and recheck in 5 minutes.",
     "Count the apical pulse for a full minute to confirm the rate.",
     "Begin bag-mask ventilation with 100% oxygen and call for help.",
-    "Increase the IV fluid rate to raise the child's heart rate."
+    "Begin chest compressions at a rate of 100 to 120 per minute."
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. In a hypoxemic child, a falling heart rate is an ominous sign, not an improvement.",
-    "Incorrect. Delaying intervention to recount the pulse wastes critical time.",
-    "Correct. Children respond to severe hypoxemia with bradycardia, which lowers cardiac output and signals impending arrest; the priority is to ventilate with oxygen and call for help.",
-    "Incorrect. Fluids do not correct hypoxemia-induced bradycardia."
+    "Incorrect. Oxygen is needed, but a lethargic child with falling SpO₂ and heart rate is not breathing effectively; a mask alone will not ventilate, and waiting 5 minutes delays care.",
+    "Incorrect. Counting a full minute is usually best in young children, but here the trend is clear and delaying ventilation risks arrest.",
+    "Correct. In children, bradycardia with falling SpO₂ signals severe hypoxemia and impending arrest. Assisted ventilation with 100% oxygen treats the cause and should restore the rate.",
+    "Incorrect. Compressions are started if the rate stays below 60/min with poor perfusion despite ventilation; at 74/min, ventilation comes first."
    ],
    "rationale": "Unlike adults, who become tachycardic with hypoxemia, children respond to severe hypoxemia with bradycardia. Because CO = HR × SV, a falling rate in a child sharply reduces cardiac output, and in children cardiac arrest is usually the end result of respiratory failure. Bradycardia with falling SpO₂ and lethargy requires immediate bag-mask ventilation with 100% oxygen and a call for help; correcting the oxygen problem should restore the rate.",
-   "takeaway": "Hypoxic child + bradycardia = impending arrest; ventilate now."
+   "takeaway": "Hypoxic child + bradycardia = impending arrest; ventilate now.",
+   "bestAnswer": true
   },
   {
    "id": "m16c-048",
@@ -1106,18 +1123,19 @@ window.NURSE_DATA.push({
    "options": [
     "Cerebral thrombosis from increased blood viscosity",
     "Intracranial hemorrhage from a low platelet count",
-    "Pulmonary edema from fluid volume excess during the illness",
-    "Hypertensive crisis from dehydration"
+    "Hypercyanotic spells triggered by crying and agitation",
+    "Iron deficiency from poor intake during the illness"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Compensatory polycythemia already thickens the blood; dehydration concentrates it further, increasing the risk of thrombosis, including stroke.",
-    "Incorrect. Nothing suggests a low platelet count; the problem is thick, concentrated blood.",
-    "Incorrect. The child is dehydrated, not fluid overloaded.",
-    "Incorrect. Dehydration lowers circulating volume and does not cause a hypertensive crisis."
+    "Correct. Polycythemia (Hct 62%) thickens the blood, and dehydration from vomiting and diarrhea concentrates it further, raising the risk of thrombosis and stroke.",
+    "Incorrect. Some children with cyanotic defects have low platelets, but no platelet count is given and the data point to thick, concentrated blood.",
+    "Incorrect. Hypercyanotic spells are a real risk with some cyanotic defects, but the high hematocrit with dehydration points to thrombosis as the immediate danger.",
+    "Incorrect. Iron deficiency is a concern in these children, but it develops over time and is not the immediate risk during dehydration."
    ],
    "rationale": "Children's bone marrow responds to chronic hypoxemia by producing more RBCs (polycythemia) to increase oxygen-carrying capacity. The trade-off is thicker blood; dehydration further concentrates it, increasing viscosity and the risk of thrombosis, including stroke. These children need prompt fluid replacement during illness.",
-   "takeaway": "Cyanotic heart disease → polycythemia; add dehydration → high viscosity → thrombosis/stroke risk."
+   "takeaway": "Cyanotic heart disease → polycythemia; add dehydration → high viscosity → thrombosis/stroke risk.",
+   "bestAnswer": true
   },
   {
    "id": "m16c-049",
@@ -1187,7 +1205,8 @@ window.NURSE_DATA.push({
     "Incorrect. Painful procedures are done last so they do not distort the rest of the assessment."
    ],
    "rationale": "In infants and toddlers, respirations and the apical pulse are counted first, while the child is calm, because crying and discomfort artificially raise both. Less distressing measurements (temperature) follow, then more disruptive ones (undressing, weighing). Painful procedures such as immunizations are done last. In children younger than 2–3 years, the apical pulse is preferred because peripheral pulses are difficult to count.",
-   "takeaway": "Toddler assessment: count respirations and apical pulse while calm; painful procedures last."
+   "takeaway": "Toddler assessment: count respirations and apical pulse while calm; painful procedures last.",
+   "bestAnswer": true
   }
  ]
 });

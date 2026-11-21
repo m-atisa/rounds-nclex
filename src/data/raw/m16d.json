@@ -66,18 +66,19 @@
    "options": [
     "Weigh the client on a bed scale to set a baseline for the diuresis",
     "Place the client in high Fowler's with the legs dependent",
-    "Give a 250-mL normal saline bolus to slow the heart rate",
-    "Teach the client to check food labels for sodium content"
+    "Insert an indwelling urinary catheter to track the diuresis",
+    "Auscultate the heart for an S3 gallop before treatment begins"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. A baseline weight is important for tracking fluid loss, but it does not help the client breathe and can wait until breathing is supported.",
-    "Correct. Sitting upright lets the lungs expand, and letting the legs hang down reduces venous return, lowering preload on the overloaded ventricle — this helps oxygenation right away.",
-    "Incorrect. The fast heart rate is compensation for a weak pump, not low volume. Extra fluid raises preload further and worsens pulmonary congestion.",
-    "Incorrect. Sodium teaching prevents future episodes, but teaching is not a priority while the client is hypoxic and short of breath."
+    "Incorrect. A baseline weight is useful for tracking diuresis, but it does nothing for the hypoxemia and can wait until breathing is supported.",
+    "Correct. Upright positioning with legs dependent improves lung expansion and reduces venous return right away, easing the impaired gas exchange while oxygen and furosemide are obtained. Weighing, catheter insertion, and auscultation do not relieve the breathing problem.",
+    "Incorrect. Accurate output measurement matters during diuresis, but a catheter is not the first need and does not improve oxygenation; it may not even be required.",
+    "Incorrect. An S3 is common in heart failure, but the crackles and SpO₂ already show the problem; more assessment delays a simple action that eases breathing."
    ],
-   "rationale": "Impaired gas exchange from fluid in the alveoli is the immediate threat. High Fowler's with legs dependent improves lung expansion and decreases venous return (preload), so the overstretched ventricle has less volume to handle while oxygen and the diuretic are started. Fluid boluses are wrong in fluid overload, and weight and teaching follow once breathing is supported.",
-   "takeaway": "Fluid overload with hypoxia: sit the client up with legs down first; never bolus fluid for HF tachycardia."
+   "rationale": "Impaired gas exchange from fluid in the alveoli is the immediate threat. High Fowler's with legs dependent improves lung expansion and decreases venous return (preload), so the overstretched ventricle has less volume to handle while oxygen and the diuretic are started. Weighing, output measurement, and further heart assessment follow once breathing is supported.",
+   "takeaway": "Fluid overload with hypoxia: sit the client up with legs down first; never bolus fluid for HF tachycardia.",
+   "bestAnswer": true
   },
   {
    "id": "m16d-003",
@@ -109,7 +110,8 @@
     "Correct. The failing left ventricle backs blood into the pulmonary circulation, pushing fluid into the alveoli. SpO₂ 88% and RR 28 show oxygen cannot reach the blood — a breathing problem comes first."
    ],
    "rationale": "Because the circulations are connected in series, a failing left ventricle backs fluid into the lungs, causing crackles, orthopnea, and hypoxemia. Using ABCs, impaired gas exchange is the priority. The edema, mild dilutional hyponatremia, and knowledge deficit are real but less immediately dangerous.",
-   "takeaway": "In acute HF, fluid in the lungs (impaired gas exchange) outranks skin, electrolyte, and teaching problems."
+   "takeaway": "In acute HF, fluid in the lungs (impaired gas exchange) outranks skin, electrolyte, and teaching problems.",
+   "bestAnswer": true
   },
   {
    "id": "m16d-004",
@@ -170,19 +172,20 @@
    "stem": "A client with heart failure received IV furosemide and has had 1,650 mL of urine output over 5 hours. BP has gone from 160/92 to 118/70. The client got up alone, felt dizzy, and is now back in bed with the call light in reach. The radial pulse, regular on admission, is now 96/min and irregular. Which action should the nurse take first?",
    "options": [
     "Count the apical pulse for 1 minute with a radial count",
-    "Encourage 500 mL of water to replace the urine output",
-    "Hold the next furosemide dose until the pulse becomes regular",
-    "Lower the head of the bed flat until the dizziness resolves"
+    "Notify the provider right away that the pulse is now irregular",
+    "Review the most recent serum potassium level in the chart",
+    "Remind the client to call for help before getting out of bed"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. An irregular pulse requires a full-minute apical count; comparing it with a simultaneous radial count identifies a pulse deficit (beats not reaching the periphery) before the nurse reports the new rhythm.",
-    "Incorrect. The client is still being treated for fluid overload and is on a fluid restriction; pushing fluids would work against therapy.",
-    "Incorrect. The nurse does not change a prescribed dose independently; the new rhythm and the BP trend are reported to the provider.",
-    "Incorrect. Lying flat increases venous return to an overloaded heart and worsens breathing; dizziness is managed with slow position changes and safety measures."
+    "Correct. A new irregular rhythm needs an accurate apical rate and a check for a pulse deficit first, so the nurse has complete data before reporting and acting.",
+    "Incorrect. The provider should be notified, but the nurse first measures the apical rate and pulse deficit so the report is complete and accurate.",
+    "Incorrect. Diuresis can cause hypokalemia that triggers dysrhythmias, so the potassium is worth reviewing, but the client is assessed directly before reviewing labs.",
+    "Incorrect. Fall prevention is important after dizziness, but the client is already back in bed with the call light; the new irregular pulse is the priority."
    ],
-   "rationale": "Brisk diuresis lowers preload and BP, which explains the dizziness, and fluid and electrolyte shifts can trigger a new irregular rhythm. Once the client is safe, the nurse obtains an apical pulse for a full minute with a simultaneous radial count to measure the heart rate accurately and detect a pulse deficit, then notifies the provider. Fluids, lying flat, and changing the dose alone are inappropriate.",
-   "takeaway": "New irregular radial pulse → full-minute apical-radial count, then report; don't push fluids or lay an HF client flat."
+   "rationale": "Brisk diuresis lowers preload and BP, which explains the dizziness, and fluid and electrolyte shifts can trigger a new irregular rhythm. Once the client is safe, the nurse obtains an apical pulse for a full minute with a simultaneous radial count to measure the heart rate accurately and detect a pulse deficit, then notifies the provider. Reviewing the potassium and reinforcing fall safety follow the bedside assessment.",
+   "takeaway": "New irregular radial pulse → full-minute apical-radial count, then report; don't push fluids or lay an HF client flat.",
+   "bestAnswer": true
   },
   {
    "id": "m16d-006",
@@ -241,20 +244,21 @@
    "hintStrategy": "Decide whether the readings show orthostatic hypotension, then pick the action that lets the client meet the need safely without adding risk or unnecessary restriction.",
    "stem": "An 82-year-old client admitted with dehydration takes two antihypertensive medications at home and was found sitting on the floor this morning after getting dizzy. Orthostatic vital signs: supine 134/78, HR 78; standing at 1 minute 102/64, HR 104, lightheaded. Later the client says, \"I need to use the bathroom.\" Which action should the nurse take first?",
    "options": [
-    "Recheck the orthostatic vital signs before the client gets up",
-    "Offer a bedpan and keep the client in bed until the IV fluids finish",
+    "Recheck the orthostatic vital signs before the client gets out of bed",
+    "Offer a bedpan and keep the client in bed until the dehydration is corrected",
     "Have the client sit on the bed's edge, pump the ankles, then stand with help",
-    "Give the scheduled antihypertensive first so BP is controlled before walking"
+    "Turn on the bed alarm and remind the client to call before getting up alone"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Orthostatic hypotension has already been confirmed; repeating the readings delays toileting and adds nothing that changes how the client should get up.",
-    "Incorrect. Keeping the client in bed is an unnecessary restriction that causes deconditioning and venous stasis; safe, staged, assisted mobility is the goal.",
-    "Correct. Sitting on the edge of the bed, dangling the legs, and pumping the ankles before standing with assistance lets BP adjust and prevents another fall.",
-    "Incorrect. An antihypertensive would lower BP further and worsen the orthostatic drop; the nurse checks the hold parameters and consults the provider rather than giving it before the client walks."
+    "Incorrect. Orthostatic vital signs are useful, but they were just measured and already confirm orthostatic hypotension; rechecking delays the client's need to toilet.",
+    "Incorrect. A bedpan avoids standing, but prolonged bed rest worsens deconditioning in older adults, and the client can get up safely with a slow, assisted position change.",
+    "Correct. Sitting, dangling, and ankle pumping let BP adjust before standing, and the nurse's help prevents a fall while meeting the client's toileting need now.",
+    "Incorrect. A bed alarm and call-light teaching support fall prevention, but they do not meet the client's immediate need to get up safely right now."
    ],
    "rationale": "The 32 mm Hg systolic drop with a rising pulse and symptoms meets the criteria for orthostatic hypotension. Older adults adapt more slowly to position changes, and dehydration plus antihypertensives increase the risk. Safe movement — sit, dangle, pump ankles, then stand with help — is the first action.",
-   "takeaway": "Older adult with orthostatic hypotension: sit, dangle, pump ankles, then stand with help."
+   "takeaway": "Older adult with orthostatic hypotension: sit, dangle, pump ankles, then stand with help.",
+   "bestAnswer": true
   },
   {
    "id": "m16d-009",
@@ -327,7 +331,8 @@
     "Incorrect. A dry dressing does not rule out internal bleeding, and SpO₂ 96% is acceptable; this is not the priority."
    ],
    "rationale": "Bleeding lowers preload and stroke volume. The heart speeds up to protect cardiac output, vessels constrict so the diastolic stays up while the systolic falls (narrow pulse pressure), the kidneys conserve water (urine output below 30 mL/hr), and the brain becomes restless. The systolic still looks acceptable, but this cluster signals falling perfusion and must be reported now.",
-   "takeaway": "Rising HR + narrowing pulse pressure + low urine output + restlessness after surgery = possible bleeding; report now."
+   "takeaway": "Rising HR + narrowing pulse pressure + low urine output + restlessness after surgery = possible bleeding; report now.",
+   "bestAnswer": true
   },
   {
    "id": "m16d-011",
@@ -399,7 +404,8 @@
     "Correct. With both arms ruled out, a correctly sized thigh cuff over the popliteal artery is used, and the site is documented because the systolic usually reads higher."
    ],
    "rationale": "BP is not measured on a limb with a cast (anywhere on the limb), an IV or central line, injury, AV fistula, or lymph node removal. That rules out both arms. The thigh is the alternative, using a thigh-sized cuff and the popliteal pulse site behind the knee. Documenting the site lets others compare like with like.",
-   "takeaway": "Both arms unusable → thigh cuff, popliteal artery, document the site (systolic usually higher)."
+   "takeaway": "Both arms unusable → thigh cuff, popliteal artery, document the site (systolic usually higher).",
+   "bestAnswer": true
   },
   {
    "id": "m16d-013",
@@ -462,7 +468,8 @@
     "Incorrect. The reading was taken sitting; supine hypotension is a separate problem in late pregnancy with symptoms."
    ],
    "rationale": "Pregnancy increases cardiac output early, and the pulse rises by 10–15 bpm by term. BP drops to its lowest point in the second trimester and then rebounds. Compared with her baseline, these findings fit the expected pattern, and she has no symptoms of low perfusion.",
-   "takeaway": "Mid-pregnancy: pulse up, BP at its lowest in the 2nd trimester — expected."
+   "takeaway": "Mid-pregnancy: pulse up, BP at its lowest in the 2nd trimester — expected.",
+   "bestAnswer": true
   },
   {
    "id": "m16d-017",
@@ -482,19 +489,20 @@
    "stem": "During a routine assessment of a 70-year-old client with hypertension and high cholesterol, the nurse auscultates the carotid arteries with the bell and hears a low-pitched blowing sound over the right carotid. How should the nurse interpret this finding?",
    "options": [
     "A sound transmitted from the aortic valve that needs no follow-up",
-    "A finding to confirm by palpating both carotid arteries at once",
+    "Carotid narrowing that can wait until the next routine checkup",
     "An expected finding from age-related arterial stiffening",
     "Turbulent flow through a narrowed carotid that raises stroke risk"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. A blowing sound over the carotid is not a normal transmitted heart sound; a bruit requires follow-up.",
-    "Incorrect. Carotids are palpated one at a time; pressing both can reduce blood flow to the brain and slow the heart.",
-    "Incorrect. Arteries do stiffen with age, but a bruit is never simply normal aging — it signals turbulent flow through a narrowed artery and needs follow-up.",
-    "Correct. A bruit is turbulent flow through a plaque-narrowed carotid, so less blood may reach the brain and ischemic stroke risk is higher; document and report."
+    "Incorrect. Aortic murmurs can radiate to the neck, but in a client with these risk factors a carotid bruit must be treated as possible carotid disease, not dismissed.",
+    "Incorrect. This correctly links the bruit to narrowing, but it delays follow-up; a new bruit raises stroke risk and is documented and reported now.",
+    "Incorrect. Arteries do stiffen with age, but a bruit is not a normal aging finding; it signals turbulent flow from narrowing.",
+    "Correct. A bruit means turbulent flow through a plaque-narrowed carotid, which raises the risk of ischemic stroke and is documented and reported promptly."
    ],
    "rationale": "Hypertension and high cholesterol damage arteries and promote plaque. Plaque narrowing the carotid creates turbulent flow — a bruit. Because the carotid supplies the brain, a bruit signals higher risk of ischemic stroke and is documented and reported.",
-   "takeaway": "Carotid bruit = narrowed carotid = stroke risk; report it and never palpate both carotids together."
+   "takeaway": "Carotid bruit = narrowed carotid = stroke risk; report it and never palpate both carotids together.",
+   "bestAnswer": true
   },
   {
    "id": "m16d-021",
@@ -524,7 +532,8 @@
     "Incorrect. There are no cues of fluid loss; the likely cause is environmental."
    ],
    "rationale": "Normal capillary refill is less than 2–3 seconds, but cold, vasoconstriction, and poor lighting slow it. With normal vital signs and no complaints, the nurse verifies the finding after the hands warm.",
-   "takeaway": "Slow refill in cold hands: warm and recheck before calling it poor perfusion."
+   "takeaway": "Slow refill in cold hands: warm and recheck before calling it poor perfusion.",
+   "bestAnswer": true
   },
   {
    "id": "m16d-025",
@@ -557,7 +566,8 @@
     "Incorrect. A BP unchanged from the client's baseline is stable."
    ],
    "rationale": "Heart sounds must be interpreted with the whole client. Pregnancy and healthy aging can explain an S3 and S4. The heart failure client has two new findings — rapid weight gain and crackles — that show fluid overload with lung congestion, so this client is seen first.",
-   "takeaway": "New weight gain + new crackles in HF beats an S3 in pregnancy or an S4 in a healthy older adult."
+   "takeaway": "New weight gain + new crackles in HF beats an S3 in pregnancy or an S4 in a healthy older adult.",
+   "bestAnswer": true
   },
   {
    "id": "m16d-026",
@@ -574,20 +584,21 @@
    "hintStrategy": "Judge each response by whether it stays with the client's feelings or moves away from them.",
    "stem": "A 58-year-old client recently diagnosed with heart failure tells the nurse, \"I used to work construction. Now I get tired just walking to the mailbox. I feel useless.\" Which response by the nurse is most appropriate?",
    "options": [
-    "\"Don't worry — most people with heart failure feel normal after a few weeks.\"",
-    "\"You should try to focus on the positive things in your life instead.\"",
+    "\"It's normal to feel this way after a new heart failure diagnosis.\"",
+    "\"Cardiac rehab can help you build your strength back over time.\"",
     "\"That sounds really hard. How have you been coping with these changes?\"",
-    "\"I can ask your provider to prescribe something to help you relax.\""
+    "\"Let's plan rest periods so you can save energy for the things you enjoy.\""
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. This is false reassurance and dismisses the client's feelings.",
-    "Incorrect. Telling the client how to feel minimizes the concern and closes the conversation.",
-    "Correct. Acknowledging the loss and inviting the client to talk is psychosocial support, an independent nursing intervention.",
-    "Incorrect. Jumping to medication avoids exploring the client's feelings."
+    "Incorrect. Normalizing the feeling is supportive, but it closes the conversation instead of inviting the client to share more about the loss of role.",
+    "Incorrect. Cardiac rehab is accurate and helpful information, but offering it now moves to problem-solving before the client's feelings are explored.",
+    "Correct. Acknowledging the feeling and asking an open-ended question invites the client to talk about the loss of role, which is the therapeutic first step.",
+    "Incorrect. Energy conservation addresses the fatigue, but it skips the client's expressed feeling of uselessness, which needs to be explored first."
    ],
-   "rationale": "Heart disease changes clients' roles and abilities, and many feel anxious, depressed, or useless. Psychosocial support means acknowledging the feeling and inviting the client to talk rather than offering false reassurance or changing the subject.",
-   "takeaway": "Acknowledge the feeling and invite the client to talk — no false reassurance."
+   "rationale": "Heart disease changes clients' roles and abilities, and many feel anxious, depressed, or useless. Psychosocial support means first acknowledging the feeling and inviting the client to talk. Normalizing, information about cardiac rehab, and energy conservation can help later, but they do not explore what the client is feeling.",
+   "takeaway": "Acknowledge the feeling and invite the client to talk — no false reassurance.",
+   "bestAnswer": true
   },
   {
    "id": "m16d-029",
@@ -619,7 +630,8 @@
     "Incorrect. Teaching is a nursing responsibility."
    ],
    "rationale": "UAPs can collect routine data (vital signs, weights, I&O) on stable clients. The nurse keeps assessment of new symptoms — such as new numbness that may mean a limb isn't getting enough blood — as well as evaluation and teaching.",
-   "takeaway": "Delegate routine data on stable clients; keep new symptoms, evaluation, and teaching."
+   "takeaway": "Delegate routine data on stable clients; keep new symptoms, evaluation, and teaching.",
+   "bestAnswer": true
   },
   {
    "id": "m16d-030",
@@ -679,7 +691,8 @@
     "Incorrect. This assesses Timing (T)."
    ],
    "rationale": "PQRST: Provokes/Palliates, Quality, Region/Radiation, Severity, Timing. After P, the nurse asks about the quality of the pain.",
-   "takeaway": "After P comes Q: \"What does the pain feel like?\""
+   "takeaway": "After P comes Q: \"What does the pain feel like?\"",
+   "bestAnswer": true
   },
   {
    "id": "m16d-032",
@@ -829,7 +842,8 @@
     "Incorrect. Deflation and listening come after inflating above the palpated estimate."
    ],
    "rationale": "Older adults with hypertension and stiff, less elastic arteries often have an auscultatory gap — a temporary disappearance of Korotkoff sounds. Palpating the systolic first and inflating 30 mm Hg above it prevents recording a falsely low systolic and missing hypertension.",
-   "takeaway": "Palpate first, then inflate 30 mm Hg above — especially in older adults with hypertension."
+   "takeaway": "Palpate first, then inflate 30 mm Hg above — especially in older adults with hypertension.",
+   "bestAnswer": true
   },
   {
    "id": "m16d-042",
@@ -859,7 +873,8 @@
     "Incorrect. Documentation comes after the Doppler assessment is complete."
    ],
    "rationale": "Doppler steps: explain and expose, apply gel, hold the probe at about 45° and move slowly until the signal is heard, mark the spot, clean off the gel, and document (for example, 'pedal pulse present by Doppler').",
-   "takeaway": "Doppler: gel → probe at 45° → mark the spot → clean → document."
+   "takeaway": "Doppler: gel → probe at 45° → mark the spot → clean → document.",
+   "bestAnswer": true
   },
   {
    "id": "m16d-043",
@@ -951,19 +966,20 @@
    "stem": "A client arrives in the emergency department after a motor vehicle crash. BP is 96/80, HR 124, and the skin is cool and pale. How should the nurse interpret these findings?",
    "options": [
     "Pulse pressure of 16 mm Hg is narrowed as blood loss lowers stroke volume",
-    "Pulse pressure of 16 mm Hg is widened from stiff, noncompliant arteries of aging",
+    "Systolic of 96 mm Hg is still acceptable, so perfusion is adequate",
     "Pulse pressure of 48 mm Hg is normal, showing adequate compensation",
     "Pulse pressure of 16 mm Hg is narrowed, showing cardiac output is restored"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. 96 − 80 = 16 mm Hg (narrow). Blood loss lowers preload and stroke volume, so the systolic falls, while vasoconstriction keeps the diastolic up; tachycardia and cool, pale skin show compensation.",
-    "Incorrect. 16 mm Hg is narrow, not wide; a widened pulse pressure from stiff arteries is typical of older adults.",
-    "Incorrect. The pulse pressure is 16 mm Hg, not 48; the calculation is wrong.",
-    "Incorrect. A narrowed pulse pressure with tachycardia and cool skin shows the body is struggling to maintain cardiac output, not that it is restored."
+    "Correct. Pulse pressure is 96 − 80 = 16 mm Hg. Bleeding lowers stroke volume while vasoconstriction holds the diastolic up, and with tachycardia and cool skin this signals early poor perfusion.",
+    "Incorrect. A systolic of 96 can look acceptable, but the tachycardia, cool pale skin, and narrow pulse pressure show the body is compensating for poor perfusion.",
+    "Incorrect. Normal pulse pressure is about 30–50 mm Hg, but this value is miscalculated; 96 − 80 is 16, which is narrowed.",
+    "Incorrect. The pulse pressure is correctly calculated as narrowed, but narrowing reflects falling stroke volume, not restored cardiac output."
    ],
    "rationale": "Pulse pressure = systolic − diastolic (normal about 30–50 mm Hg). After trauma, bleeding lowers preload and stroke volume, dropping the systolic. The heart speeds up and vessels constrict to maintain cardiac output and BP, keeping the diastolic up. A narrowing pulse pressure with a rising heart rate and cool skin is an early sign of poor perfusion even when the systolic still looks acceptable.",
-   "takeaway": "Narrow pulse pressure + tachycardia + cool skin = falling volume with compensation."
+   "takeaway": "Narrow pulse pressure + tachycardia + cool skin = falling volume with compensation.",
+   "bestAnswer": true
   },
   {
    "id": "m16d-049",
@@ -986,17 +1002,18 @@
     "A deficit of 18/min shows some contractions are too weak to reach the wrist",
     "The count is likely wrong because the radial rate should equal or exceed the apical",
     "A deficit of 18/min is an expected change of aging and needs no follow-up",
-    "A deficit of 18/min shows the tremor is blocking the radial artery"
+    "A deficit of 18/min means the radial rate decides whether to give the drug"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. 96 − 78 = 18. With an irregular rhythm, some beats come before the ventricle has filled, so stroke volume is too small to create a palpable radial pulse; the deficit is reported.",
-    "Incorrect. The radial rate can never exceed the apical rate; a lower radial rate is exactly what a pulse deficit looks like.",
-    "Incorrect. A pulse deficit means some beats are not perfusing the body; it is never simply normal aging and needs follow-up.",
-    "Incorrect. A tremor makes the radial pulse hard to count, which is why the apical pulse is used, but it does not block the artery."
+    "Correct. The apical-radial difference of 18/min is a pulse deficit: some contractions in the irregular rhythm are too weak to produce a palpable radial pulse.",
+    "Incorrect. Recounting is reasonable when unsure, but two nurses counted simultaneously; the radial rate can be lower than the apical, never higher.",
+    "Incorrect. Irregular rhythms are more common with age, but a pulse deficit means nonperfusing beats and is reported, especially before a rate-slowing drug.",
+    "Incorrect. The deficit is correctly identified, but the apical rate, not the radial rate, is used to decide whether to give a heart-rate-slowing medication."
    ],
    "rationale": "The pulse is the wave created by left ventricular contraction and reflects stroke volume. In an irregular rhythm, early beats shorten filling time so some contractions are too weak to reach the periphery. The apical-radial count (apical − radial = 18) identifies these nonperfusing beats. Tremors are a reason to rely on the apical pulse in older adults, and the apical rate is what the nurse checks before a heart-rate-slowing medication.",
-   "takeaway": "Pulse deficit = apical − radial; it means some beats aren't perfusing — report it."
+   "takeaway": "Pulse deficit = apical − radial; it means some beats aren't perfusing — report it.",
+   "bestAnswer": true
   }
  ]
 }

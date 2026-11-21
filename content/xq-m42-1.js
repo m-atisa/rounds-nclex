@@ -32,7 +32,8 @@ window.NURSE_DATA.push({
    "focus": "Prioritization",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-002",
@@ -64,7 +65,8 @@ window.NURSE_DATA.push({
    "focus": "Prioritization",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-003",
@@ -73,18 +75,18 @@ window.NURSE_DATA.push({
    "stem": "An urgent care manager tells the RNs, “Starting Monday, our new policy lets RNs prescribe antibiotics for adults with uncomplicated urinary symptoms to shorten wait times.” Which response by an RN reflects accurate understanding of scope and accountability?",
    "options": [
     "“Policy can’t give RNs authority the Nurse Practice Act doesn’t.”",
-    "“If it’s written in our policy, the facility takes on the liability for us.”",
-    "“I can do it safely as long as I document my reasoning carefully.”",
-    "“I’ll prescribe only for the clients I have fully assessed myself.”"
+    "“I’ll ask for antibiotic training before Monday so I’m competent.”",
+    "“I’ll check that my malpractice insurance covers this new role.”",
+    "“I’ll prescribe only for clients who have no drug allergies.”"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. Facility policy may narrow nursing scope, but it can never expand it beyond the state Nurse Practice Act; independent prescribing is outside RN scope.",
-    "Incorrect. Each licensed nurse remains accountable for practicing within legal scope; an employer policy does not transfer that accountability.",
-    "Incorrect. Documentation cannot make an act legal; prescribing is outside RN scope no matter how well it is charted.",
-    "Incorrect. A thorough assessment does not create prescriptive authority; the act itself remains beyond RN scope."
+    "Incorrect. Seeking training shows concern for competence, but training cannot create legal prescriptive authority the Nurse Practice Act does not grant.",
+    "Incorrect. Checking coverage is a sensible habit, but insurance does not make an act legal; prescribing is still outside RN scope.",
+    "Incorrect. Screening for allergies is a real safety step, but it does not change the fact that the RN lacks authority to prescribe."
    ],
-   "rationale": "Scope of practice is set by the state Nurse Practice Act and board of nursing rules, and employer policy sits below that law. A policy can be stricter than the law, but it can never make an illegal act legal. Independent prescribing of antibiotics requires advanced practice or prescriptive authority, so an RN who follows this policy is practicing beyond scope and is personally accountable. The tempting answer is that the facility assumes liability, but the license belongs to the nurse, and the board judges the nurse’s actions, not the employer’s intent. The accountable path is to decline and raise the concern through the chain of command.",
+   "rationale": "Scope of practice is set by the state Nurse Practice Act and board of nursing rules, and employer policy sits below that law. A policy can be stricter than the law, but it can never make an illegal act legal. Independent prescribing of antibiotics requires advanced practice or prescriptive authority, so an RN who follows this policy is practicing beyond scope and is personally accountable. Asking for training is tempting because it sounds responsible, but training builds skill, not legal authority; the license belongs to the nurse, and the board judges the nurse’s actions, not the employer’s intent. The accountable path is to decline and raise the concern through the chain of command.",
    "takeaway": "Facility policy can narrow your scope but never widen it past the Nurse Practice Act.",
    "hintContent": "Which document sets the outer limit of what an RN may legally do?",
    "hintStrategy": "When an option says a policy, employer, or provider makes an act acceptable, check whether the act is legal for an RN in the first place.",
@@ -94,7 +96,8 @@ window.NURSE_DATA.push({
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-004",
@@ -102,19 +105,19 @@ window.NURSE_DATA.push({
    "type": "mcq",
    "stem": "During a skin assessment, a nurse finds a 4-cm area of nonblanchable redness over the sacrum of an 88-year-old client on bed rest after a stroke. No skin-care orders are in place. Which action best demonstrates appropriate individual nursing autonomy?",
    "options": [
-    "Wait for the provider’s rounds to get orders before turning the client.",
-    "Apply a prescription cream that is stocked for another client on the unit.",
+    "Notify the provider and request orders for pressure injury care.",
+    "Consult the wound care nurse to stage the area before turning.",
     "Begin a turning schedule and a pressure-relief surface per protocol.",
-    "Ask the family to decide how often the client should be repositioned."
+    "Document the finding and reassess the skin at the next shift."
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Repositioning does not require a medical order; delaying it allows the stage 1 injury to worsen.",
-    "Incorrect. A prescription product needs an order for this client; using another client’s supply is outside scope and unsafe.",
-    "Correct. Repositioning and pressure redistribution are independent nursing actions within RN scope that the nurse can begin without waiting.",
-    "Incorrect. Families can be included in care, but deciding the turning schedule is a nursing judgment the nurse should not hand off."
+    "Incorrect. The provider should be informed, but repositioning and pressure relief do not need an order, so waiting for one delays care.",
+    "Incorrect. A wound nurse consult can help later, but the RN can stage a stage 1 injury and should not delay turning.",
+    "Correct. Repositioning and pressure redistribution are independent nursing actions within RN scope that the nurse can begin right away, before notifying or consulting.",
+    "Incorrect. Documentation is required, but recording without intervening lets the stage 1 injury progress."
    ],
-   "rationale": "Individual autonomy is the nurse’s freedom to perform needed nursing actions within scope, paired with answerability for those actions. Nonblanchable redness is a stage 1 pressure injury, and repositioning plus pressure redistribution are independent nursing interventions that should start right away. Waiting for orders is tempting because it feels cautious, but it gives up a nursing decision the nurse is authorized and accountable to make. Using another client’s prescription cream goes the other way, beyond scope. The nurse should also document the finding and inform the provider.",
+   "rationale": "Individual autonomy is the nurse’s freedom to perform needed nursing actions within scope, paired with answerability for those actions. Nonblanchable redness is a stage 1 pressure injury, and repositioning plus pressure redistribution are independent nursing interventions that should start right away. Requesting orders or a wound care consult first is tempting because it feels cautious and collaborative, but it gives up a nursing decision the nurse is authorized and accountable to make. Simply documenting and reassessing later is also not enough. The nurse should begin care, then document the finding and inform the provider.",
    "takeaway": "Individual autonomy means acting promptly on independent nursing interventions within scope, not waiting for permission you don’t need.",
    "hintContent": "Decide which actions require a provider’s order and which a nurse can begin independently.",
    "hintStrategy": "For autonomy questions, choose the option where the nurse acts within scope without waiting; reject options that stall or overreach.",
@@ -124,7 +127,8 @@ window.NURSE_DATA.push({
    "focus": "Nursing Interventions",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-005",
@@ -171,15 +175,15 @@ window.NURSE_DATA.push({
    "options": [
     "Report the pattern to the nurse manager per policy.",
     "Confront the colleague privately and ask for an explanation.",
-    "Watch the colleague for a few more weeks to gather proof.",
-    "Tell the colleague’s clients that their pain will be rechecked."
+    "Track the clients’ pain scores for a few more shifts first.",
+    "Report the concern directly to the state board of nursing."
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Suspected diversion endangers clients and the colleague; it is reported through the proper channel without delay.",
-    "Incorrect. Confronting a possible diverter can lead to destroyed evidence or conflict and does not protect clients.",
-    "Incorrect. The nurse does not need proof to report; waiting leaves clients with unrelieved pain.",
-    "Incorrect. Reassurance does not stop the pattern causing the pain and hides the concern from those who can act."
+    "Correct. Suspected diversion endangers clients and the colleague; it is reported through the facility’s proper channel without delay.",
+    "Incorrect. Speaking to a peer is often reasonable, but confronting a possible diverter can lead to destroyed evidence or conflict and does not protect clients.",
+    "Incorrect. More data might seem fair, but the nurse does not need proof to report, and waiting leaves clients with unrelieved pain.",
+    "Incorrect. The board may eventually need a report, but the facility’s chain of command is the first channel and can act immediately."
    ],
    "rationale": "The code of ethics requires a nurse to protect clients, even when that means reporting a coworker. Unrelieved pain after documented opioid doses plus frequent wastes is a classic pattern of possible drug diversion. The nurse reports the pattern to the manager per policy; the facility then investigates with pharmacy and, when needed, reports to the board of nursing. Gathering more proof is tempting because it feels fair, but nurses report reasonable concern and do not investigate on their own while clients continue to suffer.",
    "takeaway": "Report a pattern suggesting drug diversion to leadership right away; you need concern, not proof.",
@@ -191,7 +195,8 @@ window.NURSE_DATA.push({
    "focus": "Delegation & Safety",
    "difficulty": 3,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-007",
@@ -199,19 +204,19 @@ window.NURSE_DATA.push({
    "type": "mcq",
    "stem": "An experienced coworker tells a nurse new to the unit, “We just inject air and listen for the whoosh to check feeding tube placement—it’s faster than testing pH.” Unit policy requires checking aspirate pH before each feeding for a 69-year-old client receiving bolus tube feedings. Which action by the nurse is most appropriate?",
    "options": [
-    "Use the air method, since the experienced staff on this unit rely on it.",
+    "Check the external tube marking instead, since it is faster.",
     "Use the air method only when an aspirate is hard to obtain.",
     "Skip the check, because an x-ray confirmed placement on admission.",
     "Check aspirate pH per policy and raise the issue with the educator."
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Coworkers’ habits are not evidence; air auscultation cannot reliably tell gastric from respiratory placement.",
+    "Incorrect. Checking the external marking helps detect migration, but on its own it does not meet the policy requiring aspirate pH before each feeding.",
     "Incorrect. The unreliable method is still unsafe when aspiration is difficult; policy describes what to do instead.",
-    "Incorrect. Tubes can migrate after insertion, so placement must be verified before each use per policy.",
-    "Correct. The nurse follows the evidence-based policy and raises the unsafe habit through a proper channel."
+    "Incorrect. The admission x-ray is the gold standard at insertion, but tubes can migrate, so placement must be verified before each use per policy.",
+    "Correct. The nurse follows the evidence-based policy and raises the unsafe habit through a proper channel so the whole unit’s practice can be corrected."
    ],
-   "rationale": "Accountable nurses can explain their decisions with evidence, and ‘we always do it this way’ is not an explanation. Listening for air is an outdated method that can miss a tube in the lung, while aspirate pH, with x-ray confirmation after insertion, is supported by evidence and by this unit’s policy. Copying an experienced coworker is tempting for a new nurse, but habit is not part of nursing’s body of knowledge. The nurse follows policy and brings the drift to the educator or practice council rather than ignoring it.",
+   "rationale": "Accountable nurses can explain their decisions with evidence, and ‘we always do it this way’ is not an explanation. Listening for air is an outdated method that can miss a tube in the lung, while aspirate pH, with x-ray confirmation after insertion, is supported by evidence and by this unit’s policy. Checking the external marking or relying on the admission x-ray is tempting because each is a real part of tube care, but neither replaces the pH check policy requires before each feeding. The nurse follows policy and brings the drift to the educator or practice council rather than ignoring it.",
    "takeaway": "Habit is never a defense; follow evidence-based policy and report unsafe shortcuts through proper channels.",
    "hintContent": "Ask which method has evidence behind it and which is simply habit.",
    "hintStrategy": "When an option is justified only by experience or ‘how we do it here,’ treat it as a trap.",
@@ -221,7 +226,8 @@ window.NURSE_DATA.push({
    "focus": "Nursing Interventions",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-008",
@@ -229,17 +235,17 @@ window.NURSE_DATA.push({
    "type": "mcq",
    "stem": "A medical ICU has had four central line infections this quarter. The unit practice council is deciding whether to add daily chlorhexidine bathing for clients with central lines. Which source of evidence should carry the most weight in the council’s decision?",
    "options": [
-    "A single large randomized controlled trial completed at one teaching hospital",
+    "A large randomized controlled trial done at one teaching hospital",
     "A systematic review and meta-analysis of randomized controlled trials",
-    "A qualitative study describing ICU nurses’ experiences with bathing",
-    "An expert panel’s opinion published in a nursing trade magazine"
+    "A qualitative study of ICU nurses’ experiences with daily bathing",
+    "A quality improvement report from a similar ICU in the same system"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. A single trial is strong evidence but ranks below a systematic review that combines several trials.",
-    "Correct. Systematic reviews and meta-analyses of randomized trials are the strongest level of evidence.",
-    "Incorrect. Qualitative studies describe experiences but cannot show whether bathing reduces infections.",
-    "Incorrect. Expert opinion is the weakest level of evidence."
+    "Incorrect. A randomized trial is strong evidence, but a single trial ranks below a systematic review that combines several trials.",
+    "Correct. Systematic reviews and meta-analyses of randomized trials are the strongest level of evidence for a practice change.",
+    "Incorrect. Qualitative work shows how nurses experience the change, which helps with adoption, but it cannot show whether bathing lowers infections.",
+    "Incorrect. A local project is relevant to a similar unit, but quality improvement data lack the controls of research and rank low in the hierarchy."
    ],
    "rationale": "Accountability for nursing’s body of knowledge means basing practice changes on the best available evidence, not on habit or opinion. The usual hierarchy places systematic reviews and meta-analyses of randomized controlled trials at the top, followed by single randomized trials, then nonrandomized and observational studies, then qualitative or descriptive studies, with expert opinion at the bottom. A single large trial is tempting because it sounds rigorous, but combining several trials gives a more reliable answer. Evidence-based practice then blends that research with clinical expertise and client preferences.",
    "takeaway": "When changing practice, weigh systematic reviews of randomized trials most heavily and expert opinion least.",
@@ -251,7 +257,8 @@ window.NURSE_DATA.push({
    "focus": "Nursing Interventions",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-009",
@@ -324,19 +331,19 @@ window.NURSE_DATA.push({
    "type": "mcq",
    "stem": "While preparing a 0730 dose for a 61-year-old client with type 2 diabetes, a nurse notices that pharmacy dispensed a vial of U-500 regular insulin instead of the prescribed U-100 regular insulin. The nurse has not yet drawn up the dose. Which action should the nurse take first?",
    "options": [
-    "Calculate the U-500 volume for the dose and give it on schedule.",
-    "Return the vial to the client’s bin, since the error never reached her.",
+    "Ask the provider whether U-500 can be given instead today.",
+    "Complete an event report describing the near miss now.",
     "Hold the insulin and document that the dose was not available.",
     "Remove the vial from use and notify the pharmacy of the error."
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Substituting a concentration that was not prescribed invites a fivefold dosing error.",
-    "Incorrect. A near miss is still reported, and the wrong vial left in the bin could be given by another nurse.",
-    "Incorrect. Simply holding the dose leaves the dispensing error unaddressed and delays needed insulin.",
-    "Correct. Securing the wrong concentration and alerting pharmacy prevents the error and starts getting the correct insulin."
+    "Incorrect. The provider may need to know about a delay, but switching to a fivefold concentration is not the fix; pharmacy must supply the prescribed insulin.",
+    "Incorrect. A near miss is reported, but the report comes after the wrong vial is secured and the correct insulin is on its way.",
+    "Incorrect. Holding the dose avoids the error, but it leaves the dispensing problem unaddressed and delays needed insulin.",
+    "Correct. Securing the wrong concentration and alerting pharmacy prevents the error, protects other clients, and starts getting the correct insulin."
    ],
-   "rationale": "A near miss is an error caught before it reaches the client, and accountable nurses treat it as seriously as an actual error. U-500 insulin is five times as concentrated as U-100, so the first step is to remove it from use and alert pharmacy so the correct product is sent and the dispensing process is checked. The nurse then gives the correct insulin and completes an event report so the system can learn. Returning the vial is tempting because ‘nothing happened,’ but it leaves a dangerous product where someone else could use it.",
+   "rationale": "A near miss is an error caught before it reaches the client, and accountable nurses treat it as seriously as an actual error. U-500 insulin is five times as concentrated as U-100, so the first step is to remove it from use and alert pharmacy so the correct product is sent and the dispensing process is checked. The nurse then gives the correct insulin and completes an event report so the system can learn. Filing the report first is tempting because it feels like owning the error, but until the vial is secured, someone else could still use it.",
    "takeaway": "Remove a wrong high-alert product from use and report near misses—no harm is not a reason to stay quiet.",
    "hintContent": "Think about who else could be harmed if the vial stays where it is.",
    "hintStrategy": "For near-miss questions, choose the action that removes the hazard and alerts the people who can fix the source.",
@@ -346,7 +353,8 @@ window.NURSE_DATA.push({
    "focus": "Pharmacology",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-012",
@@ -376,7 +384,8 @@ window.NURSE_DATA.push({
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-013",
@@ -422,16 +431,16 @@ window.NURSE_DATA.push({
    "stem": "A nurse who lives in North Carolina and holds a multistate license works for a telephone triage service. A caller with new chest pain is at home in Virginia. Which statement about the nurse’s accountability is accurate?",
    "options": [
     "The nurse follows only North Carolina rules, the state that issued the license.",
-    "Phone triage is not nursing practice, so no state’s nursing law applies.",
-    "The nurse follows whichever state’s rules the employer’s policy chooses.",
+    "The nurse must obtain a Virginia license before triaging this caller.",
+    "The nurse must meet both states’ laws, applying the stricter rule.",
     "The nurse must follow the nursing law of Virginia, where the client is."
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. The home-state license grants the privilege to practice, but the client’s state law governs the care.",
-    "Incorrect. Telephone assessment and advice are nursing practice and are regulated.",
-    "Incorrect. Employer policy cannot choose which state’s law governs nursing practice.",
-    "Correct. Under the Nurse Licensure Compact, the nurse practices under the law of the state where the client is located."
+    "Incorrect. The home state issues the multistate license, but practice is governed by the law of the state where the client is located.",
+    "Incorrect. A separate license would be needed for a noncompact state, but Virginia is in the compact, so the multistate license covers this call.",
+    "Incorrect. Following the stricter rule sounds cautious, but the compact assigns one governing law: that of the client’s state.",
+    "Correct. Under the Nurse Licensure Compact, the nurse may practice by telehealth in Virginia and must follow Virginia’s Nurse Practice Act."
    ],
    "rationale": "A multistate license under the Nurse Licensure Compact lets a nurse practice in other compact states, including by telehealth, but the nurse must follow the Nurse Practice Act of the state where the client is located. North Carolina is a compact state, so this nurse can triage the Virginia caller while practicing under Virginia law. Following only the home state’s rules is the tempting mistake, because the license was issued there. Accountability travels with the nurse, and scope is defined by the client’s location.",
    "takeaway": "With a multistate license, practice under the nursing law of the state where the client is.",
@@ -443,7 +452,8 @@ window.NURSE_DATA.push({
    "focus": "Delegation & Safety",
    "difficulty": 3,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-015",
@@ -453,15 +463,15 @@ window.NURSE_DATA.push({
    "options": [
     "Give the dose now and document it as given at 0900.",
     "Assess the client for signs of venous thromboembolism.",
-    "Plan to give a double dose at the next scheduled time.",
-    "Let the oncoming nurse decide what to do about the dose."
+    "Notify the provider of the missed dose and request direction.",
+    "Complete an event report describing the omitted dose."
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Charting a false time is falsification, and the timing of a late dose should be decided with the provider.",
-    "Correct. Assessment comes first so the nurse can report the client’s current condition along with the missed dose.",
-    "Incorrect. Doubling an anticoagulant increases bleeding risk and requires a provider order.",
-    "Incorrect. The omission is this nurse’s to own; handing it off delays action and dodges accountability."
+    "Incorrect. Giving the missed dose may be appropriate after provider direction, but charting it at 0900 is falsification and hides the omission.",
+    "Correct. The client who missed anticoagulation is at risk for thromboembolism, so the nurse first assesses, then calls the provider with findings.",
+    "Incorrect. The provider must be notified, but the call is more useful once the nurse has assessed for signs of a clot.",
+    "Incorrect. The omission must be reported, but the event report follows assessment and provider notification."
    ],
    "rationale": "A missed dose is an omission, and omissions count in accountability. The client who missed anticoagulation after joint replacement is at risk for deep vein thrombosis or pulmonary embolism, so the nurse first assesses for calf pain, swelling, dyspnea, and chest pain. She then notifies the provider, follows direction about the dose, documents the actual times, and files an event report. Giving the dose and charting it at 0900 is tempting because it seems to ‘fix’ the problem, but it is falsification and hides the omission from those who need to know.",
    "takeaway": "Own an omission: assess the client, notify the provider, document truthfully, and report—never chart a false time.",
@@ -473,7 +483,8 @@ window.NURSE_DATA.push({
    "focus": "Prioritization",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-016",
@@ -481,19 +492,19 @@ window.NURSE_DATA.push({
    "type": "mcq",
    "stem": "A medical unit is short one nursing assistant this morning. A 71-year-old client newly prescribed warfarin is scheduled to go home in 20 minutes. Which activity should the RN complete personally first?",
    "options": [
-    "Pass the mid-morning water pitchers to clients on the unit.",
-    "Restock the supply cart before the afternoon admissions arrive.",
+    "Obtain the routine vital signs for two stable clients on the unit.",
+    "Give a stable client a bed bath and change the linens.",
     "Teach the warfarin client, using teach-back to confirm learning.",
-    "Take a stable client by wheelchair to the radiology department for a scan."
+    "Take a stable client by wheelchair to radiology for a scan."
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Water pitchers are a nonnursing task that support staff or others can complete.",
-    "Incorrect. Restocking is not RN-level work and is not time-sensitive compared with discharge teaching.",
+    "Incorrect. Vital signs must get done, but routine checks on stable clients can be delegated to assistive personnel or done later.",
+    "Incorrect. Hygiene matters to comfort and skin, but bathing a stable client is a delegable task that is not time-sensitive.",
     "Correct. Teaching for a safe transition on a high-alert drug requires RN judgment and is time-sensitive.",
-    "Incorrect. Transporting a stable client can be done by transport staff or an assistant."
+    "Incorrect. The scan may be scheduled, but transporting a stable client can be done by transport staff or an assistant."
    ],
-   "rationale": "Top-of-license practice means RNs spend their time on work that needs their education and legal scope, especially assessment, teaching, coordination, and safe transitions. Discharge teaching for a high-alert anticoagulant is RN work, and the client leaves in 20 minutes, so it is both RN-only and time-sensitive. When staffing is short, it is tempting to fill the gap with visible tasks like water pitchers or transport, but that leaves RN-only work undone. The RN can ask the charge nurse to redistribute nonnursing tasks.",
+   "rationale": "Top-of-license practice means RNs spend their time on work that needs their education and legal scope, especially assessment, teaching, coordination, and safe transitions. Discharge teaching for a high-alert anticoagulant is RN work, and the client leaves in 20 minutes, so it is both RN-only and time-sensitive. When staffing is short, it is tempting to fill the gap with visible tasks like routine vital signs, baths, or transport, but that leaves RN-only work undone. The RN can ask the charge nurse to redistribute nonnursing tasks.",
    "takeaway": "When time is short, protect RN-only work such as teaching for safe transitions; nonnursing tasks can go to others.",
    "hintContent": "Which task cannot be done by anyone but an RN, and which has a deadline?",
    "hintStrategy": "Combine two filters—who can do the task and how soon it must be done—to pick the RN’s priority.",
@@ -503,7 +514,8 @@ window.NURSE_DATA.push({
    "focus": "Prioritization",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-017",
@@ -609,7 +621,8 @@ window.NURSE_DATA.push({
       }
      }
     ]
-   }
+   },
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-019",
@@ -617,17 +630,17 @@ window.NURSE_DATA.push({
    "type": "mcq",
    "stem": "An alert, oriented 79-year-old client with heart failure declines his morning weight, saying, “I know what I weigh—I don’t want to stand on that scale today.” Which response by the nurse best balances accountability with the client’s autonomy?",
    "options": [
-    "Weigh him anyway, since daily weights are part of his ordered plan of care.",
-    "Record yesterday’s weight so the daily trend stays complete.",
+    "Explain that his provider needs the weight to adjust his diuretic.",
+    "Document his refusal in the chart and notify the provider right away.",
     "Skip the weight and say nothing, since he has the right to refuse.",
     "Explore his reasons, explain the purpose, and report if he still refuses."
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. A competent adult may refuse; weighing him against his wishes violates his autonomy.",
-    "Incorrect. Recording a weight that was not measured today is falsification.",
-    "Incorrect. Respecting a refusal does not end the nurse’s duty to inform, document, and report.",
-    "Correct. The nurse respects his right to decide while making sure the choice is informed and the provider knows."
+    "Incorrect. Explaining the purpose is part of informed refusal, but skipping his reasons misses problems such as dizziness or fatigue that might be solved.",
+    "Incorrect. Documenting and reporting are needed if he still refuses, but doing them first skips exploring and teaching that may change his mind.",
+    "Incorrect. He may refuse, but saying nothing leaves the refusal uninformed and the provider unaware.",
+    "Correct. Exploring reasons, explaining the purpose, and reporting a continued refusal respects his autonomy while meeting the nurse’s accountability."
    ],
    "rationale": "Client autonomy and nursing accountability work together: a competent adult may refuse care, and the nurse remains accountable for making sure the refusal is informed and communicated. Daily weights detect fluid gain early in heart failure, so the nurse explores the reason (fatigue, pain, dizziness), explains the purpose, and offers options such as weighing later. If he still declines, she documents his words and notifies the provider. Silently skipping the weight is tempting because it appears respectful, but it drops the nurse’s duty to follow up.",
    "takeaway": "Respect an informed refusal, but explore it, teach, document the client’s words, and report it.",
@@ -639,7 +652,8 @@ window.NURSE_DATA.push({
    "focus": "Nursing Interventions",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-020",
@@ -669,7 +683,8 @@ window.NURSE_DATA.push({
    "focus": "Prioritization",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-021",
@@ -734,7 +749,8 @@ window.NURSE_DATA.push({
    "focus": "Prioritization",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-023",
@@ -744,15 +760,15 @@ window.NURSE_DATA.push({
    "options": [
     "Decline to adjust them alone and request orders and a trained clinician.",
     "Adjust the settings, since the provider gave verbal permission to do so.",
-    "Adjust the settings after watching an online video about that ventilator model.",
-    "Make only small changes and document that the provider asked her to."
+    "Ask the provider to state exact settings, then adjust them herself.",
+    "Leave the settings unchanged and closely monitor the client’s oxygenation."
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Top-of-license practice stops at legal scope and personal competence; independent ventilator management exceeds both here.",
-    "Incorrect. Permission does not supply the training she lacks or replace a specific order.",
-    "Incorrect. A video is not validated competence for a high-risk device.",
-    "Incorrect. Small changes are still independent decisions she is not trained to make, and documenting the request does not make them safe."
+    "Correct. The RN stays within both legal scope and personal competence by getting specific orders and a trained clinician while she supports the client.",
+    "Incorrect. Verbal permission cannot give the RN authority the law does not grant or skills she lacks.",
+    "Incorrect. Specific orders solve the scope problem, but the RN still has no ventilator training, so making the changes exceeds her competence.",
+    "Incorrect. Monitoring is safe and needed, but it leaves the client without the ventilator changes the provider believes are necessary."
    ],
    "rationale": "Top-of-license practice means working at the full extent of your education and legal scope, with two ceilings: legal scope and personal competence. Choosing ventilator settings independently is a medical decision, and this RN has no ventilator training, so she is beyond both limits. Verbal permission is the tempting answer because it seems to authorize the act, but a provider cannot hand an RN skills she lacks or authority the law does not give. The accountable response is to ask for specific orders and a qualified clinician while she monitors and supports the client.",
    "takeaway": "Practicing at the top of your license never means practicing beyond your legal scope or your competence.",
@@ -766,7 +782,8 @@ window.NURSE_DATA.push({
    "focus": "Delegation & Safety",
    "difficulty": 3,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-024",
@@ -817,16 +834,16 @@ window.NURSE_DATA.push({
     "Skip the overnight checks, since the client has the right to refuse.",
     "Ask the provider whether the vital sign frequency can be changed.",
     "Continue the checks and tell him the order cannot be changed.",
-    "Record the evening values for the overnight times to let him sleep."
+    "Cluster the overnight checks with other care to limit waking."
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Skipping ordered care without telling the provider leaves the nurse out of compliance with the order and unaccountable.",
-    "Correct. The nurse advocates for the client by seeking an order change through the prescriber rather than acting alone.",
-    "Incorrect. Orders can be changed when the client’s condition supports it; this response ignores his concern.",
-    "Incorrect. Recording vital signs that were not measured is falsification."
+    "Incorrect. Clients may refuse care, but quietly skipping an order leaves the provider unaware and the nurse answerable for the omission.",
+    "Correct. The client is stable, so the nurse advocates by asking the prescriber to adjust an order that no longer fits his condition.",
+    "Incorrect. Following the order is safe, but saying it cannot change ignores the nurse’s role in advocating for a change.",
+    "Incorrect. Clustering care is a good sleep strategy, but he would still be woken every 2 hours when the order itself may no longer be needed."
    ],
-   "rationale": "Accountable nurses advocate for clients through proper channels. A stable client’s sleep matters for recovery, and when an order no longer fits the client’s condition, the nurse asks the prescriber to change it instead of ignoring or altering it. Skipping the checks is tempting because the client requested it, but quietly not following an order leaves the provider unaware and the nurse answerable for the omission. Copying old values into the chart is falsification.",
+   "rationale": "Accountable nurses advocate for clients through proper channels. A stable client’s sleep matters for recovery, and when an order no longer fits the client’s condition, the nurse asks the prescriber to change it instead of ignoring or altering it. Skipping the checks is tempting because the client requested it, but quietly not following an order leaves the provider unaware and the nurse answerable for the omission. Clustering care helps, but it works around the problem rather than fixing an order that no longer fits.",
    "takeaway": "When an order no longer fits the client, clarify or change it with the prescriber—don’t skip it, alter it, or fake it.",
    "hintContent": "Who has the authority to change the frequency of ordered vital signs?",
    "hintStrategy": "Look for the option that respects both the client’s wish and the order by going to the prescriber.",
@@ -836,7 +853,8 @@ window.NURSE_DATA.push({
    "focus": "Nursing Interventions",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-026",
@@ -845,16 +863,16 @@ window.NURSE_DATA.push({
    "stem": "A new nurse tells her preceptor, “I gave Mrs. Ruiz 10 units of lispro instead of 1 unit before lunch. She’s 81 and seems fine. Nobody else knows—should I just keep an eye on her glucose?” Which response by the preceptor is best?",
    "options": [
     "“Watch her glucose closely and report it only if it drops.”",
-    "“Chart 1 unit, since the error wasn’t intentional.”",
+    "“Give her a snack now and recheck her glucose in an hour.”",
     "“File the event report first, and then go check her blood glucose.”",
     "“Let’s check her glucose now and call the provider together.”"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Waiting for hypoglycemia to appear delays treatment and hides an error the provider must know about.",
-    "Incorrect. Charting a dose that was not given is falsification regardless of intent.",
-    "Incorrect. The event report is required, but it comes after the client’s safety is addressed.",
-    "Correct. The client is at risk for severe hypoglycemia; assessment and provider notification come first, with support for the new nurse."
+    "Incorrect. Monitoring is needed, but waiting for a drop keeps the provider uninformed and delays preventive orders.",
+    "Incorrect. Extra carbohydrate may help, but an hour is too long after a tenfold rapid-acting dose, and the provider still must be told.",
+    "Incorrect. The event report is required, but it comes after the client is assessed and the provider is notified.",
+    "Correct. The preceptor supports the nurse while making sure the client is assessed now and the provider is notified for orders."
    ],
    "rationale": "An overdose of rapid-acting insulin can cause hypoglycemia within 15–30 minutes, and an older adult may not show the classic warning signs. The accountable response is to assess the client now, notify the provider, treat per protocol, document the actual dose, and then file an event report. ‘Watch and report only if it drops’ is tempting because it sounds like monitoring, but it keeps the provider uninformed and delays preventive orders such as extra carbohydrate. The preceptor also models a Just Culture approach by supporting the nurse who disclosed the error.",
    "takeaway": "An unreported error is two problems; assess the client and tell the provider right away, then report through the safety system.",
@@ -866,7 +884,8 @@ window.NURSE_DATA.push({
    "focus": "Pharmacology",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-027",
@@ -896,7 +915,8 @@ window.NURSE_DATA.push({
    "focus": "Prioritization",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-028",
@@ -1015,14 +1035,14 @@ window.NURSE_DATA.push({
     "Give the dose, since the prescriber wrote the order for this client.",
     "Give half the dose and monitor urine output closely.",
     "Hold the dose and call the prescriber with the kidney data.",
-    "Ask another nurse to give the dose so it is not delayed."
+    "Hold the dose and recheck urine output over the next hour."
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. A prescriber’s order does not relieve the nurse of accountability for giving a drug that is unsafe for this client.",
-    "Incorrect. Changing a dose on her own is outside the nurse’s scope and still exposes the kidneys to the drug.",
-    "Correct. An NSAID can worsen acute kidney injury; the nurse clarifies an order that conflicts with the client’s condition before giving it.",
-    "Incorrect. Passing an unsafe order to a colleague does not make it safe."
+    "Incorrect. A valid order matters, but the nurse is still accountable for giving a drug that the lab data show may harm the kidneys.",
+    "Incorrect. Lowering the dose seems cautious, but changing an order on her own is outside the nurse’s scope.",
+    "Correct. The nurse holds the NSAID and gives the prescriber the kidney data so a safer analgesic can be ordered.",
+    "Incorrect. Holding is right, but three hours of low output already show the trend, and waiting leaves pain untreated and the prescriber unaware."
    ],
    "rationale": "Nurses are accountable for every medication they give, even when a prescriber wrote the order. Ketorolac, an NSAID, reduces blood flow to the kidneys and is risky in older adults with rising creatinine and low urine output. The nurse holds the dose and calls the prescriber with the data using SBAR, suggesting an alternative analgesic. Giving the dose because ‘it was ordered’ is the tempting choice, but that is the exact reasoning accountability rejects; adjusting the dose herself is also outside scope.",
    "takeaway": "Clarify an order that conflicts with the client’s condition before giving it—never give it blindly or change it yourself.",
@@ -1088,7 +1108,8 @@ window.NURSE_DATA.push({
       }
      }
     ]
-   }
+   },
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-032",
@@ -1118,7 +1139,8 @@ window.NURSE_DATA.push({
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-033",
@@ -1128,15 +1150,15 @@ window.NURSE_DATA.push({
    "options": [
     "Let the client sleep, since respirations are still above 10/min.",
     "Stay with the client, stimulate, and assess airway and breathing.",
-    "Give the next PRN dose early so the pain stays controlled.",
+    "Give naloxone IV now per the respiratory depression protocol.",
     "Document the sedation level and plan to recheck the client in 1 hour."
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Sedation rises before breathing slows; a normal-looking rate does not mean the client is safe.",
-    "Correct. Increasing sedation warns of coming respiratory depression; the nurse stays, arouses the client, and monitors breathing.",
-    "Incorrect. More opioid would deepen sedation and could stop breathing.",
-    "Incorrect. A client falling asleep mid-sentence needs continuous monitoring now, not in an hour."
+    "Incorrect. Rest after pain relief seems helpful, but falling asleep mid-sentence is an early warning of respiratory depression.",
+    "Correct. Increasing sedation precedes falling respirations, so the nurse stays, stimulates, and assesses airway and breathing while holding further opioids.",
+    "Incorrect. Naloxone may be needed if he cannot be roused or breathing worsens, but he is still arousable, so stimulation and assessment come first.",
+    "Incorrect. Documenting the sedation level is needed, but waiting an hour misses a client who is worsening now."
    ],
    "rationale": "Nurses are not accountable for how a drug acts in the body, but they are accountable for monitoring and responding. In opioid therapy, sedation increases before respirations fall, so a client who falls asleep mid-conversation is a warning sign even when the rate is 12/min. The nurse stays, stimulates, assesses airway and breathing, holds further opioids, follows the respiratory depression protocol, and notifies the provider. Letting the client sleep is the tempting choice because rest seems helpful, but it misses the early warning that sedation provides.",
    "takeaway": "Rising sedation is the early warning of opioid respiratory depression—stay, stimulate, and monitor before breathing slows further.",
@@ -1183,7 +1205,8 @@ window.NURSE_DATA.push({
       }
      }
     ]
-   }
+   },
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-034",
@@ -1191,17 +1214,17 @@ window.NURSE_DATA.push({
    "type": "mcq",
    "stem": "A 29-year-old client comes to the emergency department with a wrist injury. The nurse notes bruises of different colors on both upper arms. The client’s partner answers every question and refuses to leave the room. Which action should the nurse take first?",
    "options": [
-    "Ask the partner to explain how the arm bruises happened.",
+    "Ask the client directly if they feel safe at home.",
     "Arrange a way to interview the client alone.",
     "Report the partner to the police before the examination.",
-    "Give the client a domestic violence brochure in front of the partner."
+    "Document the bruises on a body map with photographs."
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Questioning the possible abuser can increase danger and will not give reliable information.",
-    "Correct. Abuse screening must be done privately so the client can answer safely.",
-    "Incorrect. Reporting rules for adult intimate partner violence vary, and the nurse first needs the client’s private account.",
-    "Incorrect. Giving materials in front of a possible abuser can put the client at risk."
+    "Incorrect. Asking about safety is the right question, but asking it with the partner present is unsafe and unlikely to get an honest answer.",
+    "Correct. A private interview is needed for safe, accurate abuse screening when a partner controls the conversation.",
+    "Incorrect. Reporting may be required by state law, but the nurse first needs the client’s own account, gathered privately.",
+    "Incorrect. Careful documentation of injuries is important, but it follows the private interview."
    ],
    "rationale": "Nurses are accountable for screening every client for abuse, and screening must be private to be safe and accurate. Bruises in different stages of healing and a partner who controls the conversation are classic red flags. The nurse uses a routine reason, such as collecting a urine specimen or an x-ray, to talk with the client alone and ask direct, caring questions. Reporting to police first is tempting because it seems protective, but the nurse first needs the client’s own account and must follow state reporting law; safety planning follows the interview.",
    "takeaway": "Screen for abuse in private—separate the client from a controlling partner before asking.",
@@ -1213,7 +1236,8 @@ window.NURSE_DATA.push({
    "focus": "Assessment Findings",
    "difficulty": 2,
    "clientNeed": "Psychosocial Integrity",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-035",
@@ -1221,16 +1245,16 @@ window.NURSE_DATA.push({
    "type": "mcq",
    "stem": "While walking down a hallway, a nurse sees a puddle of water beside the bed of a 77-year-old client who uses a walker and is starting to stand up to go to the bathroom. Which action should the nurse take first?",
    "options": [
-    "Call environmental services to clean it and continue to the next room.",
-    "Complete an event report describing the unsafe floor.",
+    "Call environmental services to clean the floor right away.",
+    "Walk the client carefully around the puddle to the bathroom.",
     "Help the client stay seated and dry the floor before he walks.",
     "Place a wet-floor sign and remind the client to be careful."
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Leaving a known hazard beside a client who is standing up risks a fall in the meantime.",
-    "Incorrect. Reporting comes after the immediate hazard is fixed.",
-    "Correct. The nurse removes the immediate hazard and protects the client before reporting.",
+    "Incorrect. Environmental services should be called, but the client is standing now and could slip before anyone arrives.",
+    "Incorrect. Assisting him helps, but walking an older adult with a walker beside water still leaves the hazard in his path.",
+    "Correct. The nurse removes the immediate hazard and protects the client before calling for cleanup or reporting.",
     "Incorrect. A sign does not protect an older adult with a walker who is about to step into the water."
    ],
    "rationale": "The safety duty has two parts: fix an immediate hazard first, then report it. An older adult using a walker who is about to step into water faces a high fall risk, so the nurse stops him, dries the floor, and helps him to the bathroom safely. A wet-floor sign is tempting because it is a standard response, but a warning does not protect a client already moving toward the hazard. Afterward, the nurse looks for the source of the water and reports it.",
@@ -1243,7 +1267,8 @@ window.NURSE_DATA.push({
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-036",
@@ -1273,7 +1298,8 @@ window.NURSE_DATA.push({
    "focus": "Pharmacology",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-037",
@@ -1284,14 +1310,14 @@ window.NURSE_DATA.push({
     "Give 0.6 mg so the client gets full relief from one dose.",
     "Give 0.4 mg and reassess the client at the next scheduled vital signs.",
     "Give 0.2 mg and reassess pain and sedation in 15–30 minutes.",
-    "Hold the medication until the pain reaches 8/10."
+    "Offer repositioning first and reassess pain in 30 minutes."
    ],
    "answer": 2,
    "optionRationales": [
     "Incorrect. The highest dose in a frail, opioid-naive older adult raises the risk of oversedation and goes against policy.",
     "Incorrect. The dose ignores policy, and waiting for routine vital signs misses the peak-effect reassessment.",
     "Correct. Starting low and reassessing at peak follows the order, policy, and the client’s age-related risk.",
-    "Incorrect. Withholding treatment for moderate pain fails the comfort duty."
+    "Incorrect. Nondrug comfort measures are useful additions, but moderate pain with an active order should not wait 30 minutes for treatment."
    ],
    "rationale": "With a range order, the nurse chooses a dose within the range based on assessment and facility policy and answers for that choice. Older, opioid-naive adults are at higher risk for respiratory depression, so policy calls for starting at the low end. IV opioids peak in about 15–30 minutes, so the nurse reassesses pain, sedation, and breathing then and can give more within the order if needed. The highest dose is tempting because it promises faster relief, but the nurse is accountable for a safe process, not for guaranteeing a drug’s effect.",
    "takeaway": "With range orders, choose the dose by assessment and policy, start low in high-risk clients, and reassess at peak.",
@@ -1356,7 +1382,8 @@ window.NURSE_DATA.push({
       }
      }
     ]
-   }
+   },
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-038",
@@ -1422,7 +1449,8 @@ window.NURSE_DATA.push({
       }
      }
     ]
-   }
+   },
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-039",
@@ -1430,19 +1458,19 @@ window.NURSE_DATA.push({
    "type": "mcq",
    "stem": "During the surgical time-out, a nurse notices that the consent form lists the left knee, but the right knee is marked. The client is already sedated. The surgeon says, “The mark is right—let’s go, we’re behind.” Which action should the nurse take first?",
    "options": [
-    "Allow the surgery to proceed and report the discrepancy afterward.",
+    "Review the chart and imaging to see which knee is correct.",
     "Document the discrepancy and let the surgeon make the decision.",
     "Ask the anesthesia provider which knee is the correct one.",
     "Voice the concern and stop the procedure until it is resolved."
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Reporting after a wrong-site surgery cannot undo the harm.",
+    "Incorrect. Checking records helps resolve the conflict, but the team is about to proceed, so the nurse must stop the line first.",
     "Incorrect. Documenting does not prevent the error, and the time-out is a team responsibility.",
     "Incorrect. Another team member’s opinion does not resolve a conflict between the consent and the site marking.",
     "Correct. Any team member may stop the line for a safety issue; the discrepancy must be resolved before the incision."
    ],
-   "rationale": "The time-out exists so any team member can stop a procedure when something does not match. A conflict between the consent and the site marking is a red-flag safety issue, so the nurse uses clear CUS language—‘I’m concerned, I’m uncomfortable, this is a safety issue’—and stops the line until the records, imaging, and team agree. Proceeding and reporting later is tempting because the surgeon is confident and rushed, but wrong-site surgery is a never event. If the surgeon refuses, the nurse moves up the chain of command.",
+   "rationale": "The time-out exists so any team member can stop a procedure when something does not match. A conflict between the consent and the site marking is a red-flag safety issue, so the nurse uses clear CUS language—‘I’m concerned, I’m uncomfortable, this is a safety issue’—and stops the line until the records, imaging, and team agree. Reviewing the chart is tempting because it helps find the answer, but without a stop, the rushed surgeon may proceed while the nurse is still looking; wrong-site surgery is a never event. If the surgeon refuses, the nurse moves up the chain of command.",
    "takeaway": "Any team member can and must stop the line when a safety discrepancy appears; resolve it before proceeding.",
    "hintContent": "What is the purpose of the time-out?",
    "hintStrategy": "When the stem includes pressure to proceed despite a safety mismatch, choose the option that pauses care.",
@@ -1452,7 +1480,8 @@ window.NURSE_DATA.push({
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-040",
@@ -1462,14 +1491,14 @@ window.NURSE_DATA.push({
    "options": [
     "Notify the nursing supervisor so the concern moves up the chain.",
     "Start the infusion and document that the prescriber insisted.",
-    "Call the state board of nursing for advice on this order.",
+    "Call the prescriber a third time with the latest lung sounds.",
     "Start the infusion at half the ordered rate and monitor lung sounds hourly."
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. When the prescriber and charge nurse cannot resolve an unsafe order, the next step is the supervisor, who can reach the medical director.",
     "Incorrect. Documentation does not make an unsafe order safe, and the nurse remains accountable.",
-    "Incorrect. The board is not part of the facility’s chain of command for resolving an order.",
+    "Incorrect. New data can be worth sharing, but the prescriber has refused twice, so the concern must move up the chain.",
     "Incorrect. Changing the rate on her own is outside scope, even if it seems safer."
    ],
    "rationale": "When a nurse believes an order is unsafe, she holds it, tells the prescriber, and uses the chain of command until it is resolved. The usual chain is prescriber, charge nurse, supervisor or manager, then medical director or chief nursing officer. Having already gone through the prescriber twice and the charge nurse, the next step is the supervisor. Starting at half the rate is tempting because it looks like a compromise, but the nurse may not change an order on her own; documenting and giving it is the classic wrong answer.",
@@ -1482,7 +1511,8 @@ window.NURSE_DATA.push({
    "focus": "Delegation & Safety",
    "difficulty": 3,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-041",
@@ -1492,15 +1522,15 @@ window.NURSE_DATA.push({
    "options": [
     "Stop the assistant and get qualified staff to insert the catheter.",
     "Coach the assistant step by step through the insertion.",
-    "Let the assistant continue, since the LPN made the delegation decision.",
-    "Report the LPN to the manager before the procedure goes on."
+    "Have the LPN supervise the assistant during the insertion.",
+    "Ask the LPN why she delegated this task to the assistant."
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. The assistant lacks verified training for the task, so the RN stops it to protect the client.",
     "Incorrect. Coaching during the procedure does not replace training and validation for an invasive sterile skill.",
-    "Incorrect. Any nurse who sees an unsafe delegation must intervene; the client is at risk now.",
-    "Incorrect. Feedback to the LPN is needed, but the immediate step is stopping an unsafe procedure."
+    "Incorrect. Supervision matters, but an LPN watching does not give an unvalidated assistant the skill to do a sterile, invasive procedure safely. The client is still exposed to infection and injury.",
+    "Incorrect. The RN does need to follow up with the LPN, but that conversation comes after the client is protected. The first step is to stop an unsafe procedure."
    ],
    "rationale": "Right person is one of the five rights of delegation: the task must be within the person’s role, allowed by policy, and backed by verified skill. A new assistant with no validation for sterile catheter insertion is the wrong person, and the client faces infection and injury risk. The RN stops the procedure and makes sure a qualified person performs it. Coaching the assistant through it is tempting because it seems to support learning, but an invasive sterile procedure is not the place for first-time practice. The RN then addresses the delegation decision with the LPN.",
    "takeaway": "Stop any delegated task the person has not been trained and validated to perform.",
@@ -1512,7 +1542,8 @@ window.NURSE_DATA.push({
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-042",
@@ -1523,14 +1554,14 @@ window.NURSE_DATA.push({
     "Accept her answer, since clients have the right to report their own pain.",
     "Assess pain with a behavioral pain scale and treat as ordered.",
     "Ask the family whether she usually complains about pain.",
-    "Recheck her pain report at the next scheduled assessment."
+    "Reposition her with pillows and reassess her pain in 30 minutes."
    ],
    "answer": 1,
    "optionRationales": [
     "Incorrect. Her words conflict with clear nonverbal signs; dementia can make self-report unreliable.",
     "Correct. When verbal reports are unreliable, a behavioral pain tool lets the nurse recognize and treat pain.",
     "Incorrect. Family input helps, but it does not replace a structured assessment of current pain.",
-    "Incorrect. Waiting leaves likely pain untreated and slows recovery."
+    "Incorrect. Repositioning is a helpful comfort measure, but it does not measure her pain or treat it as ordered. Her cues already point to pain that needs a full assessment now."
    ],
    "rationale": "The comfort duty includes recognizing pain when words and cues do not match. Moaning, grimacing, and guarding during movement after hip surgery strongly suggest pain, and dementia can make a ‘no’ unreliable. The nurse uses a behavioral tool such as PAINAD, treats as ordered, and reassesses. Accepting her verbal answer is tempting because self-report is usually the gold standard, but when a client cannot reliably report, the nurse is accountable for using other evidence.",
    "takeaway": "When a client’s words and behavior don’t match, assess the whole picture—use a behavioral pain tool for clients who can’t self-report reliably.",
@@ -1542,7 +1573,8 @@ window.NURSE_DATA.push({
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-043",
@@ -1572,7 +1604,8 @@ window.NURSE_DATA.push({
    "focus": "Nursing Interventions",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-044",
@@ -1580,19 +1613,19 @@ window.NURSE_DATA.push({
    "type": "mcq",
    "stem": "A 44-year-old client with suspected kidney stones has an order to strain all urine. The RN is giving directions to the nursing assistant. Which instruction is most appropriate?",
    "options": [
-    "“Please strain his urine whenever you have time, and let me know how things are going with him.”",
+    "“Strain every void, and then tell me at the end of the shift what you found.”",
     "“Strain every void, save any stone, and tell me right away about clots or new pain.”",
-    "“Strain his urine, and then decide on your own whether anything you find needs my attention.”",
-    "“Strain the urine if he complains of pain, and discard the rest.”"
+    "“Strain every void and send any stone you find straight down to the lab.”",
+    "“Strain his urine once each shift, save any stone, and report any new pain.”"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. ‘When you can’ and ‘how it’s going’ are vague and do not say what must be reported.",
-    "Correct. Clear directions say what to do, what to save, and what to report immediately.",
-    "Incorrect. Deciding what is significant is a judgment the RN keeps.",
-    "Incorrect. The order is to strain all urine; straining only some can miss a stone."
+    "Incorrect. Straining every void is right, but waiting until the end of the shift delays reporting, and the assistant is not told which findings need the RN right away.",
+    "Correct. This direction names the task, the timing, what to save, and the specific findings to report at once, so nothing is left to the assistant’s judgment.",
+    "Incorrect. Straining every void and saving stones is correct, but the assistant is not told which findings to report, so clots or new pain could go unreported.",
+    "Incorrect. Saving stones and reporting pain are appropriate, but straining once a shift misses most voids, so a passed stone could be lost."
    ],
-   "rationale": "Right directions and communication is one of the five rights of delegation. Directions should be specific about the task, its timing, what to keep, and which findings to report at once. Vague phrases leave room for missed stones or unreported changes, and asking the assistant to decide what matters gives away RN judgment. Each concrete detail—every void, saving any stone, and named findings to report—removes a chance for error.",
+   "rationale": "Right directions and communication is one of the five rights of delegation. Directions should be specific about the task, its timing, what to keep, and which findings to report at once. Directions that leave out the timing of reports, the findings to watch for, or the frequency of straining leave room for missed stones or unreported changes. Each concrete detail—every void, saving any stone, and named findings to report right away—removes a chance for error.",
    "takeaway": "Delegated directions should be specific about what to do, what to save, and what to report immediately.",
    "hintContent": "Which instruction leaves the least room for guessing?",
    "hintStrategy": "For delegation-communication items, choose the instruction that is specific and keeps judgment with the RN.",
@@ -1602,7 +1635,8 @@ window.NURSE_DATA.push({
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-045",
@@ -1632,7 +1666,8 @@ window.NURSE_DATA.push({
    "focus": "Delegation & Safety",
    "difficulty": 3,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-046",
@@ -1662,7 +1697,8 @@ window.NURSE_DATA.push({
    "focus": "Delegation & Safety",
    "difficulty": 3,
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-047",
@@ -1692,7 +1728,8 @@ window.NURSE_DATA.push({
    "focus": "Nursing Interventions",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-048",
@@ -1702,15 +1739,15 @@ window.NURSE_DATA.push({
    "options": [
     "Make sure suspected maltreatment is reported to the county DSS now.",
     "Wait for all test results before deciding whether to make a report.",
-    "Ask the parents more questions to find out who caused the injuries.",
-    "Leave the decision to the hospital social worker and do nothing more."
+    "Ask the parents for a detailed account of how the injury happened.",
+    "Ask the social worker to decide whether a report is needed."
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. Any person who suspects child maltreatment must report it; proof or completed tests are not required.",
     "Incorrect. Waiting for proof delays protection; suspicion is enough to report.",
-    "Incorrect. Investigating is the agency’s role, and confronting caregivers can endanger the child.",
-    "Incorrect. A hospital’s internal process does not replace each person’s duty to ensure the report reaches DSS."
+    "Incorrect. Documenting the history is useful, but the findings already create reasonable suspicion. Gathering more detail should not delay a report, and the nurse should not investigate who caused the injury.",
+    "Incorrect. Involving the social worker follows many facility procedures, but the duty to report suspicion belongs to the nurse too. The decision is not handed off to someone else."
    ],
    "rationale": "A femur fracture in an infant who cannot yet walk, plus older rib fractures that do not fit the story, creates reasonable suspicion of abuse. North Carolina is a universal reporting state, and anyone who suspects maltreatment of a child must report to the county department of social services; nationally, nurses must report suspicion to the designated child protection agency. Waiting for test results is tempting because it feels more certain, but the law asks for suspicion, not proof, and good-faith reporters are protected. The nurse keeps the child safe, documents objectively, and follows facility procedure.",
    "takeaway": "Report suspected child abuse to the designated agency (county DSS in NC) without waiting for proof or investigating yourself.",
@@ -1722,7 +1759,8 @@ window.NURSE_DATA.push({
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
    "clientNeed": "Psychosocial Integrity",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-049",
@@ -1732,15 +1770,15 @@ window.NURSE_DATA.push({
    "options": [
     "“You’ll need to learn this before discharge, so let’s begin now.”",
     "“This is a big change. Tell me what feels hardest right now.”",
-    "“Your family can learn the care, so you don’t need to look at it.”",
-    "“Most people get used to their stomas quickly, so try not to worry.”"
+    "“Let’s start small today and just practice emptying the pouch.”",
+    "“Feeling this way is normal. We can try again tomorrow.”"
    ],
    "answer": 1,
    "optionRationales": [
     "Incorrect. Pushing teaching before the client is ready is unlikely to result in learning.",
     "Correct. The nurse acknowledges feelings and assesses readiness to learn before teaching.",
-    "Incorrect. This avoids the client’s feelings and may delay her own adjustment.",
-    "Incorrect. False reassurance dismisses her feelings and does not assess readiness."
+    "Incorrect. Teaching in small steps is a good strategy, but she is not ready to look at the stoma yet. Readiness must be assessed before any skills teaching.",
+    "Incorrect. Normalizing her feelings is supportive, but postponing without exploring what is hardest does not address her distress or help plan teaching."
    ],
    "rationale": "The education duty starts with assessing learning needs and readiness. A client who is crying and cannot look at her stoma is not ready for skills teaching, and teaching her now would waste the effort and add distress. The nurse acknowledges the loss and explores what is hardest, then plans teaching in small steps as readiness grows. Starting teaching anyway is tempting because discharge is coming, but accountability for teaching means teaching that works, which requires readiness.",
    "takeaway": "Assess readiness before teaching—acknowledge emotions first, then teach in small steps.",
@@ -1752,7 +1790,8 @@ window.NURSE_DATA.push({
    "focus": "Client Teaching",
    "difficulty": 2,
    "clientNeed": "Psychosocial Integrity",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-050",
@@ -1763,14 +1802,14 @@ window.NURSE_DATA.push({
     "Ask the client whether he understands the instructions.",
     "Give the client a printed handout and a video link to review at home.",
     "Ask the client to show how he will use the inhaler and spacer.",
-    "Document that teaching was completed and the client nodded."
+    "Ask the client to list the steps for using the inhaler and spacer."
    ],
    "answer": 2,
    "optionRationales": [
     "Incorrect. A yes/no question often gets a polite ‘yes’ without showing real understanding.",
     "Incorrect. Extra materials support learning but do not evaluate it.",
     "Correct. A return demonstration directly shows whether he can perform the skill correctly.",
-    "Incorrect. Nodding is not evidence of learning; documentation should reflect a real evaluation."
+    "Incorrect. Teach-back is a good way to check knowledge, but this is a psychomotor skill. Reciting the steps does not show he can actually perform them correctly."
    ],
    "rationale": "Accountability for teaching includes evaluating whether learning took place. For a psychomotor skill, the most reliable evaluation is a return demonstration, and for knowledge, the teach-back method. Asking ‘Do you understand?’ is tempting because it is quick, but clients often say yes to avoid embarrassment. The nurse watches for errors such as not shaking the inhaler or breathing in too fast, and re-teaches as needed.",
    "takeaway": "Evaluate teaching with return demonstration or teach-back, not by asking if the client understands.",
@@ -1782,7 +1821,8 @@ window.NURSE_DATA.push({
    "focus": "Client Teaching",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-051",
@@ -1791,15 +1831,15 @@ window.NURSE_DATA.push({
    "stem": "A 70-year-old client with chronic kidney disease has an order for an IV contrast CT scan. The nurse is concerned because the client’s creatinine has risen sharply since yesterday, and the provider has dismissed her first concern. Which statement by the nurse best uses the CUS approach?",
    "options": [
     "“I just want to double-check whether you’re sure about the CT order.”",
-    "“The radiology staff probably won’t accept this order anyway.”",
-    "“I’ll document that you were told about the creatinine level.”",
+    "“Her creatinine rose sharply since yesterday. What do you want to do?”",
+    "“I’m going to call the charge nurse about this CT order.”",
     "“I’m concerned and uncomfortable. This is a safety issue.”"
    ],
    "answer": 3,
    "optionRationales": [
     "Incorrect. This soft wording does not convey that a safety issue exists.",
-    "Incorrect. Shifting the concern to another department avoids stating the safety issue.",
-    "Incorrect. Documentation protects no one; it does not state the concern clearly.",
+    "Incorrect. Stating the data is important, but the provider already dismissed the first concern. This repeats the report without the clear CUS language that signals a safety problem.",
+    "Incorrect. Moving up the chain of command may be needed, but the question asks for the CUS approach, which is voiced directly to the provider first.",
     "Correct. CUS uses the words Concerned, Uncomfortable, and Safety issue to signal that the issue must be addressed."
    ],
    "rationale": "CUS is a TeamSTEPPS tool that escalates a concern with three phrases: I am Concerned, I am Uncomfortable, and This is a Safety issue. It is used when a first attempt has not worked, as here, and is paired with the two-challenge rule, voicing the concern twice before moving up the chain of command. The tentative ‘double-check’ wording is tempting because it feels polite, but it is easy to dismiss. The nurse states the data, makes a clear recommendation, and escalates if needed.",
@@ -1812,7 +1852,8 @@ window.NURSE_DATA.push({
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-052",
@@ -2167,7 +2208,8 @@ window.NURSE_DATA.push({
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-062",
@@ -2175,14 +2217,14 @@ window.NURSE_DATA.push({
    "type": "mcq",
    "stem": "At 0300, a 69-year-old client is 1 day after bowel resection. The urinary catheter is patent. The nurse has already called the provider twice tonight about other concerns and thinks, “I don’t want to bother her again.” Review the exhibit. Which action should the nurse take first?",
    "options": [
-    "Wait until morning rounds, since the provider has been called twice.",
+    "Recheck the vital signs and urine output in 30 minutes.",
     "Increase the IV rate to improve the client’s urine output.",
     "Call the provider now and report the findings using SBAR.",
     "Ask the charge nurse whether the call can wait until morning."
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Waiting 3 hours with signs of hypovolemia or bleeding risks serious harm.",
+    "Incorrect. Rechecking is reasonable, but the trend across three readings is already clear. Waiting another 30 minutes delays treatment for possible bleeding or hypovolemia.",
     "Incorrect. Changing the IV rate requires an order.",
     "Correct. Low urine output, falling blood pressure, and tachycardia need prompt evaluation; fear of bothering the provider must not delay the call.",
     "Incorrect. Consulting the charge nurse delays a call the data already justify."
@@ -2232,7 +2274,8 @@ window.NURSE_DATA.push({
       }
      }
     ]
-   }
+   },
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-063",
@@ -2243,14 +2286,14 @@ window.NURSE_DATA.push({
     "Explain that confusion often fluctuates in clients with dementia.",
     "Apply a bed alarm and reorient the client every hour.",
     "Check vital signs, oxygen saturation, and blood glucose.",
-    "Ask the provider for a sedative to calm the client."
+    "Review her medication list for drugs that cause confusion."
    ],
    "answer": 2,
    "optionRationales": [
     "Incorrect. This dismisses the daughter’s report of an acute change from baseline.",
     "Incorrect. Safety measures help, but they do not identify the cause of the acute change.",
     "Correct. A sudden change in mental status needs a search for causes such as sepsis, hypoxia, or hypoglycemia.",
-    "Incorrect. Sedation could mask the cause of delirium and worsen confusion."
+    "Incorrect. Medications are a common cause of delirium and should be reviewed, but life-threatening causes such as hypoxia, hypoglycemia, and sepsis must be checked first."
    ],
    "rationale": "Critical thinkers investigate before acting and do not dismiss new information because a label, such as dementia, seems to explain it. An acute change from baseline reported by a family member who knows the client well suggests delirium, which in a client with cellulitis may signal sepsis, hypoxia, or hypoglycemia. The nurse checks vital signs, SpO2, and glucose, reviews medications, and reports the change. Reassuring the daughter is tempting because confusion in dementia does vary, but that answer replaces assessment with an assumption.",
    "takeaway": "A family member’s report of a sudden change from baseline is a cue to assess for acute causes, not to dismiss.",
@@ -2262,7 +2305,8 @@ window.NURSE_DATA.push({
    "focus": "Assessment Findings",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-064",
@@ -2271,14 +2315,14 @@ window.NURSE_DATA.push({
    "stem": "A new graduate nurse is preparing to give labetalol IV push to a 61-year-old client with severe hypertension. She has never given this drug by IV push and is unsure how fast to give it. Which action should the nurse take first?",
    "options": [
     "Push it slowly over about 1 minute, as with most IV medications.",
-    "Ask the client how fast it was given during a previous admission.",
+    "Ask an experienced coworker how fast she usually pushes it.",
     "Mix it in a small IV bag and give it as a piggyback instead.",
     "Confirm the rate with a drug reference and a pharmacist."
    ],
    "answer": 3,
    "optionRationales": [
     "Incorrect. Guessing a rate for a drug that lowers blood pressure and heart rate is unsafe.",
-    "Incorrect. The client is not a reliable source for administration rates.",
+    "Incorrect. Asking for help is right, but a coworker’s usual habit is not a verified source. The rate for a high-alert IV push should come from a drug reference and the pharmacist.",
     "Incorrect. Changing the route or method without an order is outside scope.",
     "Correct. The first rule of competence is to ask for help when unsure whether an action is safe."
    ],
@@ -2292,7 +2336,8 @@ window.NURSE_DATA.push({
    "focus": "Pharmacology",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-065",
@@ -2301,18 +2346,18 @@ window.NURSE_DATA.push({
    "stem": "At 0700, after a 12-hour night shift, a nurse learns her relief has called out sick. She is exhausted and has four clients, including one on a heparin infusion. Which action should the nurse take first?",
    "options": [
     "Notify the supervisor and stay until a qualified nurse takes report.",
-    "Leave at the end of her scheduled shift, as she had originally planned to do.",
-    "Give report to the nursing assistant and then go home to rest.",
+    "Notify the supervisor and then leave at the end of her scheduled shift.",
+    "Give report to the day-shift LPN and then go home to rest.",
     "Agree to work a second full shift to cover the vacancy."
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. The nurse must not leave accepted clients without a handoff, and the supervisor must find coverage.",
-    "Incorrect. Leaving clients without a handoff to a qualified nurse may be abandonment.",
-    "Incorrect. An assistant cannot accept responsibility for RN-level care, such as a heparin infusion.",
+    "Incorrect. Notifying the supervisor is the right first call, but leaving before a qualified nurse takes report is abandonment of clients she has accepted.",
+    "Incorrect. Giving report is necessary, but an LPN cannot take over an RN’s full assignment and assessment duties. A qualified RN must accept the clients.",
     "Incorrect. An exhausted nurse is not fit for a full extra shift; fatigue threatens safety."
    ],
-   "rationale": "Two accountability duties meet here: the nurse may not abandon clients she has accepted, and she must not practice when too tired to be safe. The balanced answer is to notify the supervisor and stay only until a qualified nurse takes report. Agreeing to a full second shift is tempting because it solves the staffing gap, but the nurse is already exhausted, and fitness for duty is part of competence. Leaving without a handoff, or handing off to an assistant, is abandonment.",
+   "rationale": "Two accountability duties meet here: the nurse may not abandon clients she has accepted, and she must not practice when too tired to be safe. The balanced answer is to notify the supervisor and stay only until a qualified nurse takes report. Agreeing to a full second shift is tempting because it solves the staffing gap, but the nurse is already exhausted, and fitness for duty is part of competence. Leaving after notifying the supervisor but before a handoff, or handing off to an LPN who cannot assume RN duties, still leaves clients without a qualified nurse.",
    "takeaway": "Never leave accepted clients without a handoff to a qualified nurse—but don’t take on a full shift you are too tired to work safely.",
    "hintContent": "Two rules apply: no abandonment and fitness for duty.",
    "hintStrategy": "Look for the option that satisfies both safety rules at once.",
@@ -2322,7 +2367,8 @@ window.NURSE_DATA.push({
    "focus": "Delegation & Safety",
    "difficulty": 3,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-066",
@@ -2332,15 +2378,15 @@ window.NURSE_DATA.push({
    "options": [
     "“Fine—stable babies shouldn’t need any special skills from me.”",
     "“I can help beside a NICU nurse, but I can’t take babies on my own.”",
-    "“I can’t work in this unit, so I’m going to go home now.”",
-    "“I’ll take them if the parents can show me their babies’ feeding and care routines.”"
+    "“I’ll take the stable babies if you check on me every hour.”",
+    "“I’m not trained for the NICU, so please float someone else.”"
    ],
    "answer": 1,
    "optionRationales": [
     "Incorrect. Even stable neonates need NICU-specific skills she has not been trained in.",
     "Correct. She names the gap, offers help within her skills, and declines an independent assignment.",
-    "Incorrect. Refusing to help at all ignores staffing needs and safer options.",
-    "Incorrect. Parents are not responsible for the nurse’s competence or the infants’ safety."
+    "Incorrect. Asking for check-ins shows caution, but she would still be caring for NICU infants on her own, beyond her competence.",
+    "Incorrect. Naming the gap is right, but she offers no safe way to help a short-staffed unit. The best response pairs the limit with a safe role."
    ],
    "rationale": "Competence is specific to the setting, so an expert in labor and delivery can be a beginner in the NICU. Accepting an independent assignment beyond her skills would violate competence standards and the Nurse Practice Act, even with stable infants. The accountable response names the gap, shows willingness to help, and proposes a safe role, such as basic tasks beside a NICU nurse. Accepting ‘stable’ babies is tempting because it seems like a compromise, but stability does not supply the specialized skills she lacks.",
    "takeaway": "When floated outside your competence, decline an independent assignment and offer a safe, supported role.",
@@ -2352,7 +2398,8 @@ window.NURSE_DATA.push({
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-067",
@@ -2382,7 +2429,8 @@ window.NURSE_DATA.push({
    "focus": "Assessment Findings",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-068",
@@ -2392,15 +2440,15 @@ window.NURSE_DATA.push({
    "options": [
     "Read the quick-reference card and program the pump herself.",
     "Ask a trained super-user to program the pump with her.",
-    "Ask the client’s spouse for help, since he has used a PCA at home.",
-    "Delay starting the PCA until she finishes training next week."
+    "Ask the charge nurse to reassign the client to another nurse.",
+    "Call the pharmacist to talk her through programming the pump."
    ],
    "answer": 1,
    "optionRationales": [
     "Incorrect. A quick-reference card is not validated training for a high-risk opioid device.",
     "Correct. Getting help from someone validated on the device addresses the specific gap while the client gets timely pain relief.",
-    "Incorrect. A family member is not responsible for device safety.",
-    "Incorrect. A week-long delay leaves pain untreated; help is available now."
+    "Incorrect. Reassignment could be safe, but it delays the client’s pain control and does not close her gap with a device she will keep using.",
+    "Incorrect. A pharmacist can verify the PCA order and dose, but talking her through it by phone is not the hands-on, device-specific help a trained super-user gives at the bedside."
    ],
    "rationale": "Competence must be maintained as tools change, and a nurse who has not been trained on a device should not program it alone, especially for a high-alert drug like an opioid. The best action targets the specific gap: a trained colleague or super-user programs the pump with her, ideally with an independent double-check. Self-teaching from a card is tempting because it seems resourceful, but it is ‘figuring it out as I go’ with a high-risk device. The nurse should then complete training before using the pump independently.",
    "takeaway": "For a new device you haven’t been trained on, get a validated colleague to help now and complete training before working alone.",
@@ -2412,7 +2460,8 @@ window.NURSE_DATA.push({
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-069",
@@ -2442,7 +2491,8 @@ window.NURSE_DATA.push({
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-070",
@@ -2503,7 +2553,8 @@ window.NURSE_DATA.push({
       }
      }
     ]
-   }
+   },
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-071",
@@ -2511,14 +2562,14 @@ window.NURSE_DATA.push({
    "type": "mcq",
    "stem": "During a night shift, a nurse sees a colleague who is working her fourth straight 12-hour night nod off at the medication cart while preparing an insulin infusion for a client in diabetic ketoacidosis. Which action should the nurse take first?",
    "options": [
-    "Offer her coffee so she can finish preparing the infusion.",
+    "Double-check her insulin calculation before it is hung.",
     "Let her finish, then suggest she rest during her break.",
     "Report her to the board of nursing for working while impaired.",
     "Ask her to stop and step away, then notify the charge nurse."
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Caffeine does not make a nodding-off nurse safe to prepare high-alert medication.",
+    "Incorrect. A double-check is a good safeguard for insulin, but it leaves an impaired nurse still caring for a client in DKA. The colleague needs to step away first.",
     "Incorrect. Allowing her to finish exposes the client to a possible insulin error.",
     "Incorrect. Fatigue is handled through the charge nurse and staffing, not as a first step to the board.",
     "Correct. A nurse falling asleep while preparing a high-alert drug is not fit for duty at that moment; stopping the task protects the client."
@@ -2533,7 +2584,8 @@ window.NURSE_DATA.push({
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-072",
@@ -2593,7 +2645,8 @@ window.NURSE_DATA.push({
    "focus": "Nursing Interventions",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-074",
@@ -2604,14 +2657,14 @@ window.NURSE_DATA.push({
     "Supervised orientation with a preceptor before working independently",
     "A full independent assignment, since she is already an expert nurse",
     "Reading the unit policy manual on her own for one shift, then working alone",
-    "Caring only for the most complex clients to build skill quickly"
+    "An independent assignment of stable clients, with a mentor available"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. Competence is setting-specific; in a new specialty she needs orientation and validation.",
     "Incorrect. Expertise in the NICU does not transfer to adult psychiatric care.",
     "Incorrect. Reading alone does not build or validate the skills the new setting needs.",
-    "Incorrect. Complex clients need experienced psychiatric nurses; she should start with supported, stable assignments."
+    "Incorrect. Stable clients and an available mentor reduce risk, but she would still work alone in a specialty where she has no experience. She needs orientation first."
    ],
    "rationale": "Benner’s stages are setting-specific: a nurse can be an expert in one area and a beginner in another. In adult psychiatry, this nurse lacks the patterns and skills that come from experience there, such as de-escalation and risk assessment, so she needs a supervised orientation with a preceptor and competency validation. A full assignment is tempting because of her years of experience, but those years were with a very different population. Skilled nurses still need orientation when they change specialty.",
    "takeaway": "Expertise does not transfer across specialties—new settings require orientation and validation.",
@@ -2623,7 +2676,8 @@ window.NURSE_DATA.push({
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-075",
@@ -2633,14 +2687,14 @@ window.NURSE_DATA.push({
    "options": [
     "Give the dose because it is scheduled and the glucose is within normal limits.",
     "Hold the dose and clarify with the provider because the client is NPO.",
-    "Give the dose with a small glass of juice to prevent low glucose.",
+    "Hold the dose and document that it was held because of NPO status.",
     "Give half the dose, since the client will not be eating."
    ],
    "answer": 1,
    "optionRationales": [
     "Incorrect. This is task completion; it ignores the hypoglycemia risk of the drug while fasting.",
     "Correct. A sulfonylurea taken without food can cause hypoglycemia; the nurse investigates before acting.",
-    "Incorrect. Giving juice breaks the NPO order and still uses a risky drug.",
+    "Incorrect. Holding the dose is reasonable, but the nurse must also clarify with the provider so a new plan for glucose control is ordered.",
     "Incorrect. Changing a dose without an order is outside nursing scope."
    ],
    "rationale": "Critical thinkers investigate before acting rather than simply completing tasks. Glipizide stimulates insulin release and can cause hypoglycemia in a fasting client, so giving it during NPO status before surgery is risky. The nurse holds the dose and clarifies with the provider. Giving the dose because the glucose is normal is tempting, but a normal glucose now does not predict a safe glucose several hours into a fast after a sulfonylurea.",
@@ -2684,7 +2738,8 @@ window.NURSE_DATA.push({
       }
      }
     ]
-   }
+   },
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-076",
@@ -2692,16 +2747,16 @@ window.NURSE_DATA.push({
    "type": "mcq",
    "stem": "A 34-year-old client who is a Jehovah’s Witness has a hemoglobin of 6.8 g/dL after a postpartum hemorrhage. She is alert and oriented and says, “I will not accept blood, even if I could die.” Which action by the nurse best reflects ethical reasoning?",
    "options": [
-    "Ask her family members to persuade her to accept the blood transfusion today.",
+    "Accept her decision and document the refusal clearly in her chart.",
     "Prepare the transfusion, since a hemoglobin of 6.8 g/dL is dangerously low for her.",
-    "Tell her she will probably die so she will reconsider the decision.",
+    "Offer a chaplain visit to support her as she makes this decision.",
     "Make sure the refusal is informed, notify the provider, and explore alternatives."
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Using family pressure undermines the autonomy of a competent adult.",
+    "Incorrect. Respecting and documenting the refusal is right, but the nurse must also confirm it is informed, notify the provider, and look for acceptable alternatives.",
     "Incorrect. Transfusing a competent adult against her refusal violates her autonomy and may be battery.",
-    "Incorrect. Using fear to change a decision is coercion, not honest informing.",
+    "Incorrect. Spiritual support may help, but it does not ensure the refusal is informed, notify the provider, or explore treatments she will accept.",
     "Correct. The nurse respects an informed refusal while making sure the decision is informed and that alternatives are considered."
    ],
    "rationale": "Ethical reasoning applies the ANA Code and principles such as autonomy to everyday decisions. A competent adult may refuse treatment, even life-saving treatment, for religious reasons. The nurse makes sure the refusal is informed, notifies the provider, documents, and helps explore alternatives the client may accept, such as volume expanders, iron, or erythropoiesis-stimulating agents. Preparing the transfusion is tempting because the hemoglobin is critically low, but beneficence does not override a competent adult’s informed decision.",
@@ -2714,7 +2769,8 @@ window.NURSE_DATA.push({
    "focus": "Lifespan & Diversity",
    "difficulty": 3,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-077",
@@ -2725,16 +2781,16 @@ window.NURSE_DATA.push({
     "“What does the ceremony involve? Let’s plan it safely with his care.”",
     "“Hospital rules don’t allow outside healers to treat or perform rituals on clients.”",
     "“You can do the ceremony after he is discharged home.”",
-    "“Go ahead, but I will cut the strings off once you leave.”"
+    "“Let me check with the charge nurse whether this is allowed here.”"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. The nurse asks rather than assumes and works to fit the practice safely into the plan of care.",
     "Incorrect. A blanket refusal disregards the family’s values without exploring whether the practice is safe.",
     "Incorrect. Delaying the practice ignores what matters to the family now.",
-    "Incorrect. Removing sacred items without discussion is disrespectful and breaks trust."
+    "Incorrect. Checking policy may be part of planning, but the nurse first needs to learn what the ceremony involves and advocate for the family rather than pass the question along."
    ],
-   "rationale": "Cultural competence means listening, learning a family’s traditions, and advocating for their wishes when they can be safely combined with treatment. Most spiritual ceremonies and wrist strings can be accommodated, so the nurse asks what is involved and plans around oxygen, IV lines, and safety. Refusing because of ‘rules’ is tempting because it is simple, but it ignores the family’s values and damages trust. Removing the strings without discussion would also be disrespectful.",
+   "rationale": "Cultural competence means listening, learning a family’s traditions, and advocating for their wishes when they can be safely combined with treatment. Most spiritual ceremonies and wrist strings can be accommodated, so the nurse asks what is involved and plans around oxygen, IV lines, and safety. Refusing because of ‘rules’ is tempting because it is simple, but it ignores the family’s values and damages trust. Passing the question to the charge nurse before learning what the ceremony involves delays advocacy.",
    "takeaway": "Ask families about cultural practices and accommodate them safely instead of refusing or overriding.",
    "hintContent": "What does cultural competence ask the nurse to do first—assume, refuse, or ask?",
    "hintStrategy": "For cultural questions, choose the open, respectful response that explores and accommodates.",
@@ -2744,7 +2800,8 @@ window.NURSE_DATA.push({
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
    "clientNeed": "Psychosocial Integrity",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-078",
@@ -2774,7 +2831,8 @@ window.NURSE_DATA.push({
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
    "clientNeed": "Psychosocial Integrity",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-079",
@@ -2782,16 +2840,16 @@ window.NURSE_DATA.push({
    "type": "mcq",
    "stem": "An off-duty nurse at a youth soccer game in North Carolina sees a 14-year-old player collapse. The player is unresponsive and not breathing normally. Which action by the nurse reflects accountable practice?",
    "options": [
-    "Leave once a bystander begins CPR, since she is not on duty.",
-    "Attempt a procedure she has never done, since the law will protect her.",
-    "Ask the parents to sign a waiver before she begins to help.",
+    "Call 911 and stay with the player until EMS arrives.",
+    "Act without worry about liability, since Good Samaritan law protects her.",
+    "Start CPR, then hand over care to the team’s coach when he arrives.",
     "Start CPR, use an available AED, and stay until EMS takes over."
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Once she begins helping, leaving before qualified help arrives may be abandonment.",
-    "Incorrect. Good Samaritan protection does not cover gross negligence, and she should act only within her training.",
-    "Incorrect. Delaying CPR for paperwork wastes critical minutes.",
+    "Incorrect. Calling 911 is essential, but an unresponsive player who is not breathing normally needs CPR and an AED now, not just waiting.",
+    "Incorrect. Good Samaritan laws do protect good-faith help, but not gross negligence. She is still accountable for acting within her training.",
+    "Incorrect. Starting CPR is right, but she must stay until someone equally or more qualified, such as EMS, takes over. A coach is not.",
     "Correct. The nurse acts within her training and does not leave until an equally or more qualified person takes over."
    ],
    "rationale": "Good Samaritan laws, such as North Carolina’s, protect people who give emergency care without pay unless the injury results from gross negligence or intentional wrongdoing, and they do not cover care given in a paid job. Even with this protection, the nurse must act within her training and competence and stay until an equally or more qualified person, such as EMS, takes over. Believing the law protects anything she attempts is tempting, but competence limits apply whether or not a nurse is on duty.",
@@ -2804,7 +2862,8 @@ window.NURSE_DATA.push({
    "focus": "Nursing Interventions",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-080",
@@ -2813,16 +2872,16 @@ window.NURSE_DATA.push({
    "stem": "A nurse’s father died of pancreatic cancer 2 months ago. Today she is caring for a 61-year-old client with pancreatic cancer who wants to talk about dying. The nurse notices she has avoided his room all morning and feels tearful. Which action best demonstrates emotional intelligence?",
    "options": [
     "Admit her grief to herself and talk with the charge nurse about support.",
-    "Avoid the topic of death so she can protect her own feelings.",
+    "Visit him briefly and refer his questions about dying to the chaplain.",
     "Share the story of her father’s illness so the client knows she understands him.",
-    "Stay out of the room until his family arrives to support him."
+    "Set her feelings aside and focus fully on the client’s needs today."
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. She notices that her emotions are shaping her care and takes steps so the client’s needs are still met.",
-    "Incorrect. Avoiding the topic puts her needs ahead of the client’s.",
+    "Incorrect. Chaplain support can help, but redirecting his questions still lets her grief steer care and leaves him without the nurse he reached out to.",
     "Incorrect. Self-disclosure shifts the focus from the client to the nurse.",
-    "Incorrect. Continued avoidance leaves the client without nursing care."
+    "Incorrect. Focusing on the client sounds professional, but suppressing grief without acknowledging it is how avoidance continues. Emotional intelligence starts with naming the feeling."
    ],
    "rationale": "Emotional intelligence is noticing when your own emotions, rather than the client’s needs, are steering your actions. Avoiding the room is a sign that grief is affecting care. The emotionally intelligent response is to acknowledge this and take action, such as getting support from the charge nurse, sharing the assignment, or arranging chaplain involvement, so the client can still talk about his fears. Sharing her own story is tempting because it seems empathetic, but it shifts the focus to the nurse.",
    "takeaway": "When your feelings start steering your care, name them and get support so the client’s needs are still met.",
@@ -2834,7 +2893,8 @@ window.NURSE_DATA.push({
    "focus": "Nursing Interventions",
    "difficulty": 3,
    "clientNeed": "Psychosocial Integrity",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m42-x1-081",

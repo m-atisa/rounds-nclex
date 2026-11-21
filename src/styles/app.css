@@ -1355,3 +1355,74 @@ h3 { letter-spacing: -.005em; }
 .q-type.is-priority { color: var(--bad) !important; }
 .unit-chips-head { gap: 1rem; align-items: baseline; }
 .unit-chips-head .link-btn { white-space: nowrap; }
+
+/* ===== v4 (Nov 2026): Atkinson Hyperlegible, wider reading column, cards ===== */
+:root { --font: "Atkinson Hyperlegible Next", "Atkinson Hyperlegible", ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif; }
+body { letter-spacing: 0; }
+.container, .topbar-inner { max-width: 76rem; }
+.page-head p { max-width: 50rem; }
+
+/* Lesson: wider column, more air */
+.lesson-page.container { max-width: 86rem; }
+@media (min-width: 76rem) { .lesson-layout { grid-template-columns: minmax(0, 1fr) 15rem; gap: 4rem; justify-content: stretch; } }
+.article.lesson { max-width: 60rem; }
+.article.lesson p, .article.lesson li { font-size: 1.125rem; line-height: 1.75; }
+.article.lesson .prose p { margin: 0 0 1.25rem; }
+.article.lesson ul li { margin: .6rem 0; }
+.article.lesson .lesson-section { padding-top: 3rem; margin: 0 0 1.5rem; }
+.article.lesson h2 { font-size: 1.7rem; margin: 0 0 1rem; }
+.key-idea { font-size: 1.22rem !important; line-height: 1.55 !important; margin: 0 0 1.3rem !important; }
+.article.lesson .summary { font-size: 1.22rem; }
+.article.lesson td, .article.lesson th { font-size: 1.02rem; padding: .85rem 1.1rem; }
+.part-source { margin-top: 1.5rem; }
+
+/* Cards: units, modules, lessons */
+.unit-cards { display: grid; gap: 1rem; grid-template-columns: repeat(auto-fill, minmax(min(100%, 22rem), 1fr)); }
+.card-grid { display: grid; gap: 1rem; grid-template-columns: repeat(auto-fill, minmax(min(100%, 17rem), 1fr)); }
+.unit-card, .mod-card { display: flex; flex-direction: column; gap: .55rem; padding: 1.3rem 1.4rem; background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-lg); color: inherit; text-decoration: none; transition: border-color .15s ease, box-shadow .15s ease; }
+.unit-card:hover, .mod-card:hover, .lesson-card:hover { border-color: var(--line-2); box-shadow: 0 2px 10px rgba(30, 25, 15, .06); }
+.unit-card:focus-visible, .mod-card:focus-visible, .lesson-card:focus-visible { outline: 2px solid var(--brand); outline-offset: 2px; }
+.unit-card h3, .mod-card h3 { font: 600 1.35rem/1.25 var(--font-serif); margin: 0; color: var(--ink); letter-spacing: -.01em; }
+.mod-card h3 { font-size: 1.2rem; }
+.uc-top { display: flex; align-items: center; justify-content: space-between; gap: .5rem; }
+.uc-eyebrow { font-size: .85rem; font-weight: 600; color: var(--ink-3); }
+.uc-new { flex: none; font-size: .75rem; font-weight: 700; color: var(--brand); background: var(--brand-soft); padding: .12rem .55rem; border-radius: 999px; }
+.uc-desc { margin: 0; color: var(--ink-2); font-size: 1rem; line-height: 1.55; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.mod-card .uc-desc { -webkit-line-clamp: 2; font-size: .95rem; }
+.uc-modules { font-size: .9rem; color: var(--ink-3); line-height: 1.5; }
+.uc-foot { margin-top: auto; padding-top: .7rem; display: flex; flex-direction: column; gap: .5rem; font-size: .88rem; color: var(--ink-3); }
+.uc-bar { display: block; height: 4px; border-radius: 4px; background: var(--line); overflow: hidden; }
+.uc-bar i { display: block; height: 100%; background: var(--brand); border-radius: 4px; }
+.unit-card.is-new, .mod-card.is-new { background: color-mix(in srgb, var(--brand) 5%, var(--surface)); border-color: color-mix(in srgb, var(--brand) 32%, var(--line)); }
+.unit-card.is-new:hover, .mod-card.is-new:hover { border-color: color-mix(in srgb, var(--brand) 50%, var(--line)); }
+
+.lesson-cards { list-style: none; margin: 0; padding: 0; display: grid; gap: .9rem; grid-template-columns: repeat(auto-fill, minmax(min(100%, 22rem), 1fr)); }
+.lesson-cards > li { display: block; border: 0 !important; }
+.lesson-card { display: grid; grid-template-columns: 2.1rem minmax(0, 1fr); gap: .9rem; height: 100%; padding: 1.15rem 1.25rem; background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-lg); color: inherit; text-decoration: none; transition: border-color .15s ease, box-shadow .15s ease; }
+.lesson-card .row-num { width: 2.1rem; height: 2.1rem; border-radius: 50%; display: grid; place-items: center; background: var(--surface-2); color: var(--ink-2); font-weight: 700; font-size: .92rem; }
+.lesson-card.done .row-num { background: var(--brand-soft); color: var(--brand); }
+.lesson-card .row-main { display: flex; flex-direction: column; gap: .35rem; min-width: 0; }
+.lesson-card .row-main strong { font-size: 1.1rem; line-height: 1.35; color: var(--ink); }
+.lesson-card .row-sub { white-space: normal; color: var(--ink-2); font-size: .97rem; line-height: 1.5; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.lesson-card .row-meta { font-size: .85rem; color: var(--ink-3); margin-top: auto; }
+.lesson-card .row-chev { display: none; }
+
+/* Key terms as vocabulary cards */
+.vocab { margin: 0 0 2.75rem; }
+.article.lesson h2.vocab-title { font: 600 1.3rem/1.3 var(--font-serif); margin: 0 0 1rem; display: flex; align-items: baseline; flex-wrap: wrap; gap: .25rem .7rem; }
+.vocab-title span { font: 400 .95rem var(--font); color: var(--ink-3); }
+.vocab-grid { display: grid; gap: .8rem; grid-template-columns: repeat(auto-fill, minmax(min(100%, 16rem), 1fr)); }
+.vocab-card { display: flex; flex-direction: column; gap: .4rem; padding: 1rem 1.1rem; background: var(--surface); border: 1px solid var(--line); border-top: 3px solid var(--brand); border-radius: var(--r-lg); }
+.vocab-term { font-weight: 700; font-size: 1.05rem; color: var(--ink); line-height: 1.3; }
+.article.lesson .vocab-def, .vocab-def { font-size: 1rem; line-height: 1.55; color: var(--ink-2); }
+
+/* Sidebar unit names wrap cleanly */
+.side-unit-link { align-items: center; gap: .5rem; line-height: 1.3; }
+.side-unit-link > span:first-child { min-width: 0; }
+.fb-best { margin: 0 0 .9rem; padding: .7rem .9rem; border-radius: var(--r); background: var(--surface-2); color: var(--ink-2); font-size: .97rem; line-height: 1.5; }
+
+.vocab-card { border-top: 1px solid var(--line); }
+.vocab-term { color: var(--brand); }
+.vocab-more { margin-top: 1rem; }
+@media (max-width: 40rem) { .vocab-card { padding: .85rem .95rem; } .vocab-grid { gap: .6rem; } }
+.unit-cards { grid-template-columns: repeat(auto-fill, minmax(min(100%, 28rem), 1fr)); }

@@ -11,16 +11,16 @@
    "stem": "A 71-year-old client in the surgical holding area is scheduled for an elective colectomy. His living will refuses mechanical ventilation. As the anesthesia provider approaches, he tells the nurse, “I’ve been thinking. If I need the breathing machine after surgery, I want it.” Which action should the nurse take first?",
    "options": [
     "Remind the client that his living will legally controls this decision",
-    "Call his health care proxy to ask whether the change should be honored",
+    "Help him complete a revised living will before he goes to surgery",
     "Notify the surgeon and anesthesia provider of the client’s new wishes",
-    "Proceed as planned and record his statement in the nursing notes"
+    "Document his exact words about the ventilator in the nursing notes"
    ],
    "answer": 2,
    "optionRationales": [
     "Incorrect. A directive guides care only when the client cannot speak for himself; his current wish controls.",
-    "Incorrect. A proxy has no decision-making role while the client can decide for himself.",
+    "Incorrect. Helping him update the document is appropriate later, but a spoken change is valid now and the team must know before surgery starts.",
     "Correct. A client with capacity may change his mind at any time, even moments before a procedure, and the team must know before proceeding.",
-    "Incorrect. Proceeding without telling the team risks care that conflicts with his current wishes."
+    "Incorrect. Recording his exact words is needed, but charting alone does not change the plan the anesthesia provider is about to carry out."
    ],
    "rationale": "An advance directive speaks for a client only when the client cannot speak for himself. This alert client has capacity, so his spoken wish now outranks the document he signed earlier. The nurse pauses, notifies the surgeon and anesthesia provider so the plan and orders match his current choice, documents his exact words, and helps him update the directive. Reminding him that the living will controls is tempting because it is a legal document, but a competent client may change or revoke it at any time.",
    "takeaway": "While a client has capacity, the client’s current words outrank any advance directive.",
@@ -31,7 +31,8 @@
    "cjmm": "Take Action",
    "focus": "Prioritization",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-ad-002",
@@ -61,7 +62,8 @@
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-ad-003",
@@ -128,7 +130,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Nursing Interventions",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-ad-005",
@@ -158,7 +161,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Client Teaching",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-ad-006",
@@ -207,15 +211,15 @@
    "options": [
     "Start CPR and call a code until the provider talks with the daughter",
     "Withhold CPR, stay with the daughter, and notify the provider",
-    "Begin chest compressions only, without airway support or shocks",
-    "Ask the daughter to leave the room while the team decides what to do"
+    "Withhold CPR and ask the chaplain to sit with the daughter",
+    "Withhold CPR and call the rapid response team to the room"
    ],
    "answer": 1,
    "optionRationales": [
     "Incorrect. Starting CPR would violate a valid order and the client’s documented refusal.",
     "Correct. The DNR order carries out the client’s own refusal of CPR; the nurse supports the daughter and notifies the provider.",
-    "Incorrect. A partial or “slow” code still violates the DNR order and helps no one.",
-    "Incorrect. There is nothing to decide, and sending her away abandons her when she needs support."
+    "Incorrect. Withholding CPR is right and a chaplain can help, but the nurse should stay with the daughter and must notify the provider.",
+    "Incorrect. Withholding CPR is right, but a rapid response team is for unstable living clients; the provider is the one to notify here."
    ],
    "rationale": "A living will states the client’s wishes, and a DNR order is the provider’s medical order that lets staff honor a refusal of CPR. When a valid order exists, the nurse follows it even if a family member objects in the moment, because the client’s own wishes govern. The nurse’s role now shifts to supporting the grieving daughter, notifying the provider, and documenting. Starting CPR until the provider arrives is tempting because it feels safe, but it overrides the client’s autonomy and a valid order.",
    "takeaway": "A valid DNR order that reflects the client’s wishes is followed even when family members demand CPR.",
@@ -226,7 +230,8 @@
    "cjmm": "Take Action",
    "focus": "Prioritization",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-ad-008",
@@ -237,14 +242,14 @@
    "options": [
     "“Once an agent is named, only a court can remove him from that role.”",
     "“Your ex-husband would need to agree before your sister is named.”",
-    "“Your sister will decide anyway, so there is no need to change it.”",
+    "“Tell your provider so the change is noted in your chart.”",
     "“You may change it anytime while you can decide. I can help.”"
    ],
    "answer": 3,
    "optionRationales": [
     "Incorrect. A client with capacity may replace her agent without going to court.",
     "Incorrect. The agent’s permission is not needed for the client to change her own document.",
-    "Incorrect. The nurse cannot promise who will decide; updating the document makes her current choice clear.",
+    "Incorrect. Telling her provider is helpful, but a chart note does not replace the old document; she needs a new written directive naming her sister.",
     "Correct. A client with capacity may revoke or change a directive at any time, and the nurse supports the update."
    ],
    "rationale": "An advance directive is never locked in. A client with capacity may revoke or change it at any time, including replacing the named health care agent. The nurse supports the change, connects her with resources such as social work to complete a new document, and reminds her to give copies to her provider and new agent. Saying a court must remove the agent is tempting because directives are legal documents, but the person who made the directive controls it while she has capacity.",
@@ -256,7 +261,8 @@
    "cjmm": "Take Action",
    "focus": "Client Teaching",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-ad-009",
@@ -323,7 +329,8 @@
    "cjmm": "Take Action",
    "focus": "Lifespan & Diversity",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-ad-011",
@@ -332,14 +339,14 @@
    "priority": false,
    "stem": "During admission to a rehabilitation hospital, a 75-year-old client says, “I signed a living will and a health care power of attorney naming my son. They’re in a drawer at home.” Which action by the nurse is most appropriate?",
    "options": [
-    "Tell her the documents are not valid unless they were signed here",
+    "Ask her son to bring the documents on his next visit",
     "Have her fill out new forms before the end of the shift",
     "Document her report and request copies for the chart",
     "Record that she has no directive until the copies arrive"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. A valid directive signed elsewhere remains valid; it does not need to be redone.",
+    "Incorrect. Getting copies is part of the answer, but the nurse must also document her report and the agent’s name now so the team knows today.",
     "Incorrect. Her existing documents are valid, and new forms are not required.",
     "Correct. The nurse records the directives and the agent’s name and requests copies so the team can follow them.",
     "Incorrect. This is inaccurate charting and hides wishes the team needs to know."
@@ -353,7 +360,8 @@
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-ad-012",
@@ -434,19 +442,19 @@
    "priority": true,
    "stem": "An 81-year-old client with a do-not-resuscitate (DNR) order calls the nurse and reports new crushing chest pain rated 8/10. Blood pressure is 158/92 mm Hg, heart rate 112/min, and SpO2 88% on room air. The client is alert. Which action should the nurse take first?",
    "options": [
-    "Call the client’s family to ask whether they want treatment",
+    "Notify the provider of the client’s new chest pain",
     "Withhold treatment because the client has a DNR order in place",
-    "Ask the provider to change the orders to comfort care only",
+    "Give sublingual nitroglycerin as prescribed",
     "Apply oxygen and begin a focused cardiac assessment"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. The client is alert and makes her own choices, and delaying care for possible ischemia is unsafe.",
+    "Incorrect. The provider must be notified, but the client is hypoxic, so applying oxygen and assessing come first.",
     "Incorrect. A DNR order does not mean “do not treat”; it applies only after the heart or breathing stops.",
-    "Incorrect. Nothing suggests the client wants comfort care only, and this delays urgent treatment.",
+    "Incorrect. Nitroglycerin may be part of chest pain care, but her SpO2 is 88%, so breathing support comes before treating circulation.",
     "Correct. A DNR order means no CPR; this living client needs airway, breathing, and circulation support and assessment now."
    ],
-   "rationale": "A DNR order is a provider’s order not to start CPR if the heart or breathing stops. It does not limit other care, so a client with a DNR still receives assessment, oxygen, medications, and other treatments the client wants. This client is hypoxic with chest pain that suggests ischemia, so oxygen and a focused assessment come first, followed by provider notification. Calling the family is tempting because end-of-life decisions often involve family, but this alert client decides for herself and needs care now.",
+   "rationale": "A DNR order is a provider’s order not to start CPR if the heart or breathing stops. It does not limit other care, so a client with a DNR still receives assessment, oxygen, medications, and other treatments the client wants. This client is hypoxic with chest pain that suggests ischemia, so oxygen and a focused assessment come first, followed by provider notification and other ordered treatments such as nitroglycerin. Withholding treatment is tempting because of the DNR order, but DNR means no CPR, not no care.",
    "takeaway": "DNR means no CPR, not no care; treat acute problems in a DNR client as you would any client.",
    "hintContent": "Define exactly what a DNR order withholds.",
    "hintStrategy": "Apply ABCs to any living, unstable client; code status changes only what happens after arrest.",
@@ -455,7 +463,8 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Physiological Adaptation"
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "bestAnswer": true
   },
   {
    "id": "m49-ad-014",
@@ -521,7 +530,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Nursing Interventions",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-ad-015",
@@ -568,14 +578,14 @@
     "Sign as a witness, since the nurse can confirm the client is competent",
     "Check the facility’s policy on staff witnessing advance directives",
     "Ask the nursing assistant caring for the client to sign instead",
-    "Tell the client that directives can only be signed after discharge"
+    "Ask a family member who is visiting to sign instead"
    ],
    "answer": 1,
    "optionRationales": [
     "Incorrect. Knowing the client does not override state law or facility rules on who may witness.",
     "Correct. Many states and agencies limit caregiving staff from witnessing, so the nurse checks policy before acting.",
     "Incorrect. A nursing assistant is also caregiving staff and faces the same limits.",
-    "Incorrect. Clients may complete directives while hospitalized; the nurse helps find qualified witnesses."
+    "Incorrect. Finding a non-staff witness is reasonable, but many states bar relatives and heirs from witnessing, so the nurse checks the rules first."
    ],
    "rationale": "Supporting a client who wants to complete a directive is part of the nurse’s role, but who may serve as a witness is set by state law and facility policy. Many states and agencies bar caregiving staff from witnessing because they could be seen as having a conflict of interest. The nurse checks policy and, if needed, involves social work or other designated staff to arrange qualified witnesses. Signing because the nurse knows the client is alert is tempting, but it could put the document’s validity at risk.",
    "takeaway": "Before witnessing an advance directive, check facility policy and state rules; caregiving staff are often not allowed.",
@@ -586,7 +596,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-ad-017",
@@ -616,7 +627,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Client Teaching",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-ad-018",
@@ -667,14 +679,14 @@
    "options": [
     "Review her stated comfort wishes with him and notify the provider",
     "Stop the morphine, because the husband is her legal decision-maker",
-    "Keep giving the morphine without telling the husband about it",
+    "Hold the morphine until the provider can speak with him",
     "Cut the morphine dose in half as a compromise between both views"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. The decision-maker must act on the client’s wishes, so the nurse advocates for her documented comfort plan and involves the provider.",
     "Incorrect. A decision-maker’s authority is to carry out the client’s wishes, not to replace them with his own.",
-    "Incorrect. Hiding care is deceptive and does not resolve the conflict.",
+    "Incorrect. Involving the provider is right, but holding the morphine leaves her in pain and goes against her written comfort wishes.",
     "Incorrect. The nurse cannot change a prescribed dose, and a partial dose leaves her in pain."
    ],
    "rationale": "A designated decision-maker may approve comfort measures and pain control, but must decide as the client would have decided, which is called substituted judgment. This client wrote that comfort mattered more to her than alertness, and she shows signs of pain. The nurse gently reviews her wishes with the husband, notifies the provider, and can offer a chaplain to help the family plan prayers in a way that honors her comfort. Stopping the morphine is tempting because the husband has legal authority, but that authority exists to voice her wishes, not his own.",
@@ -686,7 +698,8 @@
    "cjmm": "Take Action",
    "focus": "Lifespan & Diversity",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-ad-020",
@@ -697,15 +710,15 @@
    "options": [
     "“A dementia diagnosis means she can no longer sign legal papers.”",
     "“She can make a directive now, while she understands her choices.”",
-    "“You can complete the directive for her, since you’re her husband.”",
-    "“She should wait until her symptoms progress before making one.”"
+    "“She could name you as her health care agent instead of this.”",
+    "“She should talk her wishes over with you before she signs it.”"
    ],
    "answer": 1,
    "optionRationales": [
     "Incorrect. A diagnosis alone does not remove capacity; she shows that she understands.",
     "Correct. Capacity is judged by her current ability to understand and decide, and early planning protects her wishes.",
-    "Incorrect. A spouse cannot write another adult’s living will for her.",
-    "Incorrect. Waiting risks losing the capacity she needs to make a directive."
+    "Incorrect. Naming an agent is a good idea, but it does not answer her request for a living will or correct the belief that she cannot sign.",
+    "Incorrect. Family talks are helpful, but this delays her right to decide now and does not correct the husband’s belief about capacity."
    ],
    "rationale": "Capacity is the ability to understand information, weigh choices, and communicate a decision, and it is judged by what the client can do now, not by a diagnosis. Early-stage Alzheimer disease is often the best time to complete a directive, because capacity will likely decline. The nurse supports her plan, offers resources to complete the document, and can encourage her to discuss her wishes with her husband. Saying a dementia diagnosis prevents signing is tempting, but it confuses a diagnosis with a loss of capacity.",
    "takeaway": "A diagnosis is not incapacity; encourage clients with early dementia to complete directives while they still can.",
@@ -716,7 +729,8 @@
    "cjmm": "Take Action",
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-ad-021",
@@ -764,14 +778,14 @@
    "stem": "Paramedics bring a 77-year-old client in cardiac arrest to the emergency department with CPR in progress. His wife says, “He has a living will at home that says no CPR.” There is no copy of the document, no DNR order, and no portable medical order form. Which action should the nurse take?",
    "options": [
     "Stop CPR now, because the wife has described his wishes",
-    "Pause CPR while someone goes home to find the living will",
+    "Continue CPR and send someone home for the living will",
     "Continue CPR and tell the provider what the wife reported",
     "Ask the wife whether she wants the team to keep going"
    ],
    "answer": 2,
    "optionRationales": [
     "Incorrect. A nurse cannot stop resuscitation without a provider’s order, and the document has not been seen.",
-    "Incorrect. Pausing CPR is unsafe and is not a decision the nurse can make alone.",
+    "Incorrect. Continuing CPR is right, but the provider needs the wife’s report now, and a living will alone is not an order to stop.",
     "Correct. Without a DNR order, the team resuscitates, and the provider needs the wife’s report to decide next steps.",
     "Incorrect. The wife is not the one who orders resuscitation stopped; the provider makes that call."
    ],
@@ -784,7 +798,8 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-ad-023",
@@ -793,16 +808,16 @@
    "priority": false,
    "stem": "A 78-year-old Chinese American client with heart failure tells the nurse, “In my family, my eldest son makes these decisions. If I become too sick to decide, I want him to choose for me.” The client is alert and has no advance directive. Which response by the nurse is most appropriate?",
    "options": [
-    "“The law requires you to make every decision about your own care.”",
+    "“I will note in your chart that your son makes your health decisions.”",
     "“Your son will decide automatically, because he is your eldest child.”",
-    "“We are allowed to share information only with you, not your family.”",
+    "“Would you like your son to be here when we talk about your care?”",
     "“Would you like to name your son in writing as your health care agent?”"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. A client with capacity may choose to involve or defer to family.",
+    "Incorrect. Charting her preference is helpful, but a chart note is not legally binding if she later loses capacity.",
     "Incorrect. Without a named agent, state law sets the surrogate order, which may not put him first.",
-    "Incorrect. A client may permit staff to share information with family members she chooses.",
+    "Incorrect. Including her son now respects her values, but it does not give him authority to decide if she later cannot.",
     "Correct. This respects her family-centered values and gives her son legal authority if she later cannot decide."
    ],
    "rationale": "Many clients, including some from cultures that value family-centered decisions, prefer a relative to lead care discussions. A client with capacity may choose to include family, and a durable power of attorney for health care makes that choice legally binding if she loses capacity. Without one, state law decides who speaks for her, and a spouse or other relatives may rank alongside or ahead of her son. Telling her that the son will decide automatically is tempting because it seems to honor her wishes, but it is inaccurate and leaves her preference unprotected.",
@@ -814,7 +829,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Lifespan & Diversity",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-ad-024",
@@ -884,7 +900,8 @@
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-ad-026",
@@ -894,14 +911,14 @@
    "stem": "An 18-year-old client with relapsed leukemia tells the nurse she wants to complete a living will and name her best friend as her health care agent. Her parents say she is “too young to make these choices.” Which response by the nurse is most appropriate?",
    "options": [
     "“Her parents must cosign any directive until she turns 21 years old.”",
-    "“Advance directives are meant for older adults, not young ones.”",
-    "“She may name an agent, but it must be one of her parents.”",
+    "“She may want to talk this over with both of you before she signs.”",
+    "“She may name an agent, but the agent must be one of her parents.”",
     "“As an adult with capacity, she has the right to make these documents.”"
    ],
    "answer": 3,
    "optionRationales": [
     "Incorrect. The age of majority is 18, and parents do not cosign an adult’s directive.",
-    "Incorrect. Any adult with capacity may make a directive, whatever the age.",
+    "Incorrect. Family talks can help, but this suggests her parents must approve and does not affirm her legal right as an adult.",
     "Incorrect. A client may name any trusted adult, not only a relative.",
     "Correct. At 18 she is a legal adult who may make a directive and name any trusted adult as agent."
    ],
@@ -914,7 +931,8 @@
    "cjmm": "Take Action",
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-ad-027",
@@ -982,7 +1000,8 @@
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-ad-029",
@@ -993,15 +1012,15 @@
    "options": [
     "“Yes. Most people should wait until they have a serious illness.”",
     "“Any adult can suddenly become unable to speak, so plan now.”",
-    "“Directives are mainly needed by people who have no family.”",
-    "“Only your doctor can tell you whether you need a directive.”"
+    "“It’s a good idea to talk with your family about your wishes.”",
+    "“Your family could decide for you under state law if needed.”"
    ],
    "answer": 1,
    "optionRationales": [
     "Incorrect. Waiting risks losing capacity before wishes are recorded.",
     "Correct. Accidents and sudden illness can happen at any age, and a directive makes the person’s wishes known.",
-    "Incorrect. Directives also spare families from guessing and reduce conflict.",
-    "Incorrect. Making a directive is the person’s own choice and does not require a provider’s approval."
+    "Incorrect. Talking with family is helpful, but it does not correct the myth or record wishes in a legal document.",
+    "Incorrect. Surrogate laws exist, but this does not answer the question, and a surrogate may have to guess at wishes."
    ],
    "rationale": "A health care advance directive states a person’s wishes for a time when the person cannot communicate, which can happen suddenly at any age after an injury or illness. Completing one while healthy protects autonomy and spares loved ones from guessing in a crisis. The nurse can briefly explain living wills and powers of attorney for health care and offer written resources. Agreeing that young people should wait is tempting because serious illness seems far away, but loss of capacity is often unexpected.",
    "takeaway": "Every adult benefits from an advance directive because loss of capacity can happen suddenly at any age.",
@@ -1012,7 +1031,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Client Teaching",
    "difficulty": 2,
-   "clientNeed": "Health Promotion and Maintenance"
+   "clientNeed": "Health Promotion and Maintenance",
+   "bestAnswer": true
   },
   {
    "id": "m49-ad-030",
@@ -1153,7 +1173,8 @@
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-ad-032",
@@ -1165,14 +1186,14 @@
     "The Five Wishes advance directive",
     "A portable medical order form signed by the provider",
     "A do-not-resuscitate order for the hospice chart",
-    "A HIPAA authorization for release of information"
+    "A health care power of attorney naming a proxy"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. Five Wishes is a plain-language directive that covers a decision-maker, treatment, comfort, how to be treated, and messages to loved ones.",
     "Incorrect. A medical order form lists treatment orders; it does not name a decision-maker or hold personal messages.",
     "Incorrect. A DNR is a provider’s order about CPR only.",
-    "Incorrect. This form permits sharing of health information; it is not an advance directive."
+    "Incorrect. This form names who decides, which she wants, but it does not record her treatment wishes or messages to loved ones."
    ],
    "rationale": "Five Wishes is a popular advance directive written in everyday language. It covers who will decide, which treatments the person wants or does not want, how comfortable the person wants to be, how the person wants to be treated, and what the person wants loved ones to know. It meets legal requirements in most states and can be used alongside official state forms where needed. The portable medical order form is tempting because it is also used near the end of life, but it is a provider’s order and does not capture personal or spiritual wishes.",
    "takeaway": "Five Wishes is a plain-language directive covering who decides, treatment, comfort, dignity, and messages to loved ones.",
@@ -1183,7 +1204,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Client Teaching",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-ad-033",
@@ -1230,16 +1252,16 @@
    "stem": "A 63-year-old client who speaks only Vietnamese is being admitted for elective knee surgery. The nurse needs to ask about advance directives and give information about the client’s rights. The client’s 14-year-old grandson offers to translate. Which action by the nurse is most appropriate?",
    "options": [
     "Let the grandson translate, since he is family and is here now",
-    "Skip the questions, since they are not needed for elective surgery",
+    "Wait until an adult relative can interpret for the client",
     "Use a qualified medical interpreter to discuss advance directives",
-    "Give the client an English handout to read later at home"
+    "Give the client a Vietnamese handout on advance directives"
    ],
    "answer": 2,
    "optionRationales": [
     "Incorrect. A minor family member may translate inaccurately and is burdened by sensitive end-of-life topics.",
-    "Incorrect. Facilities must ask every adult admitted about advance directives, whatever the reason for admission.",
+    "Incorrect. An adult is better than a minor, but family members should not interpret sensitive legal topics; a qualified interpreter is the standard.",
     "Correct. A trained interpreter ensures the client understands rights and directive questions accurately and privately.",
-    "Incorrect. Information the client cannot read does not inform the client of his rights."
+    "Incorrect. Written material in his language helps, but it does not let him ask questions or confirm that he understands his rights."
    ],
    "rationale": "Under the Patient Self-Determination Act, facilities must tell adult clients about their right to accept or refuse care and make an advance directive, and must ask whether they have one. That information only counts if the client understands it, so a qualified medical interpreter is needed for a client with limited English. Family members, and especially minors, should not interpret sensitive topics such as life-sustaining treatment because of accuracy, privacy, and emotional burden. Using the grandson is tempting because he is convenient, but convenience does not meet the standard for informed communication.",
    "takeaway": "Discuss advance directives with clients who have limited English through a qualified medical interpreter, never a minor relative.",
@@ -1250,7 +1272,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-ad-035",
@@ -1280,7 +1303,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Nursing Interventions",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-ad-036",
@@ -1398,7 +1422,8 @@
    "cjmm": "Take Action",
    "focus": "Pharmacology",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies"
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "bestAnswer": true
   },
   {
    "id": "m49-ad-038",
@@ -1477,17 +1502,17 @@
    "options": [
     "Record the client as a full code, because the agent now decides",
     "Place a DNR armband now, because the living will refuses CPR",
-    "Tell the nephew he is no longer the agent because he disagrees",
+    "Call the ethics committee before notifying the provider",
     "Notify the provider and advocate for the client’s living will"
    ],
    "answer": 3,
    "optionRationales": [
     "Incorrect. An agent’s authority is to carry out the client’s wishes, which are written clearly here.",
     "Incorrect. Staff withhold CPR based on a provider’s order, which has not been written yet.",
-    "Incorrect. The nurse cannot remove an agent; the conflict needs the provider and possibly the ethics committee.",
+    "Incorrect. An ethics consult may help with this conflict, but the provider must be notified first to address code status.",
     "Correct. The agent must follow the client’s known wishes, and the provider must address code status and support the nephew."
    ],
-   "rationale": "A health care agent should decide as the client would have, which is called substituted judgment, and a clear living will is the best evidence of those wishes. When an agent asks for care the client refused, the nurse advocates for the client’s written wishes, notifies the provider so code status can be addressed, and offers social work, chaplain, or ethics support to the grieving nephew. The nurse cannot place a DNR band without an order or strip the nephew of his role. Recording full code is tempting because the agent is the legal voice, but that voice must reflect the client’s choices.",
+   "rationale": "A health care agent should decide as the client would have, which is called substituted judgment, and a clear living will is the best evidence of those wishes. When an agent asks for care the client refused, the nurse advocates for the client’s written wishes, notifies the provider so code status can be addressed, and offers social work, chaplain, or ethics support to the grieving nephew. The nurse cannot place a DNR band without an order, and an ethics consult may help later but does not replace notifying the provider. Recording full code is tempting because the agent is the legal voice, but that voice must reflect the client’s choices.",
    "takeaway": "When an agent contradicts a clear living will, advocate for the client’s written wishes and involve the provider.",
    "hintContent": "Decide which source best shows what the client himself wanted.",
    "hintStrategy": "Advocacy items favor the client’s own wishes plus notification of the person who can write orders.",
@@ -1496,7 +1521,8 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Nursing Interventions",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-ad-041",
@@ -1507,15 +1533,15 @@
    "options": [
     "Ask what she understands about tube feeding and the directive",
     "Tell her that a feeding tube does not count as one of the “machines”",
-    "Explain that a feeding tube cannot be stopped once it has been placed",
-    "Give her a hospice brochure to read before tomorrow’s meeting"
+    "Notify the provider that the daughter is confused about the directive",
+    "Suggest she raise this question at tomorrow’s family meeting"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. The nurse first assesses the family’s understanding of the treatment and of what the directive actually covers.",
     "Incorrect. The nurse should not interpret the document before assessing what it says and what she understands.",
-    "Incorrect. This is false; life-sustaining treatments may be withheld or withdrawn according to the client’s wishes.",
-    "Incorrect. A brochure does not address her specific misunderstanding about the directive."
+    "Incorrect. The provider should hear this concern, but the nurse first assesses what she understands so the report is accurate.",
+    "Incorrect. The meeting is the right place for the decision, but the nurse should assess her understanding now rather than defer."
    ],
    "rationale": "A key nursing role is assessing the client’s and family’s understanding of life-sustaining treatments and of what the advance directive actually covers. Vague wording such as “no machines” is a red flag for confusion, so the nurse first asks what the daughter understands and reviews the directive’s actual wording. The nurse then clarifies with plain language and teach-back and shares the concern with the provider before the meeting. Telling her that a feeding tube is not a machine is tempting because it sounds helpful, but it skips assessment and puts the nurse in the role of interpreting the document.",
    "takeaway": "Assess the family’s understanding of life-sustaining treatments and of what the directive covers before teaching.",
@@ -1526,7 +1552,8 @@
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-ad-042",
@@ -1535,14 +1562,14 @@
    "priority": true,
    "stem": "A nursing assistant tells the RN, “The client in room 12 just told me that if her heart stops, she doesn’t want to be brought back.” The 74-year-old client is alert, has no advance directive on file, and is listed as full code. Which action should the RN take first?",
    "options": [
-    "Ask the nursing assistant to place a DNR armband on the client",
+    "Document the client’s statement as the assistant reported it",
     "Notify the provider that the client is now a DNR",
     "Talk with the client to clarify her wishes about resuscitation",
     "Tell the nursing assistant that only the provider may discuss this"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Code status changes require a provider’s order, and this task is not delegated.",
+    "Incorrect. Her words should be charted, but secondhand information must first be verified by the RN with the client.",
     "Incorrect. The RN first confirms what the client wants and understands before reporting.",
     "Correct. The RN assesses the client’s wishes and understanding directly before taking further steps.",
     "Incorrect. Exploring a client’s wishes is within the RN’s role and should not be deferred."
@@ -1556,7 +1583,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   }
  ]
 }

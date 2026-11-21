@@ -33,7 +33,8 @@
    "cjmm": "Take Action",
    "focus": "Prioritization",
    "hintContent": "Think about what snoring and retractions in a sedated client tell you about where the problem is.",
-   "hintStrategy": "When every option is a type of oxygen, ask whether the oxygen can even reach the lungs; ABCs put the airway ahead of breathing support."
+   "hintStrategy": "When every option is a type of oxygen, ask whether the oxygen can even reach the lungs; ABCs put the airway ahead of breathing support.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-002",
@@ -65,7 +66,8 @@
    "cjmm": "Take Action",
    "focus": "Prioritization",
    "hintContent": "Look at what the titration prescription already allows the nurse to do.",
-   "hintStrategy": "Before choosing \"call for help,\" check whether an option lets you act safely within your current orders; the least delay to effective treatment wins."
+   "hintStrategy": "Before choosing \"call for help,\" check whether an option lets you act safely within your current orders; the least delay to effective treatment wins.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-003",
@@ -207,7 +209,8 @@
    "cjmm": "Evaluate Outcomes",
    "focus": "Prioritization",
    "hintContent": "Compare the trend across the three times, and recall the maximum effective flow for a nasal cannula.",
-   "hintStrategy": "Trend data in an exhibit usually shows whether the treatment is working; if it is not, the answer is to escalate, not to repeat the same intervention."
+   "hintStrategy": "Trend data in an exhibit usually shows whether the treatment is working; if it is not, the answer is to escalate, not to repeat the same intervention.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-006",
@@ -276,7 +279,8 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Delegation & Safety",
    "hintContent": "Look for the situation where harm could happen in the next few seconds.",
-   "hintStrategy": "When all clients are physiologically stable, apply safety first: the most immediate environmental danger outranks comfort needs."
+   "hintStrategy": "When all clients are physiologically stable, apply safety first: the most immediate environmental danger outranks comfort needs.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-008",
@@ -292,23 +296,24 @@
    "stem": "A client with community-acquired pneumonia was started on oxygen at 4 L/min by nasal cannula 45 minutes ago. Before oxygen, the client had an SpO₂ of 87%, HR 118/min, RR 30/min, and was speaking in short phrases. Which finding best indicates that the oxygen therapy is effective?",
    "options": [
     "The client is now sleeping more deeply and is hard to awaken",
-    "The client's cough has become more frequent and productive",
-    "The client reports that the cannula prongs feel comfortable",
+    "The client's SpO₂ has risen to 89% and RR is now 28/min",
+    "The client says breathing feels a little easier with the oxygen",
     "The client speaks in full sentences and HR has fallen to 96/min"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Increased drowsiness can signal worsening hypoxemia or CO₂ retention rather than improvement.",
-    "Incorrect. A productive cough reflects secretion clearance, not whether the oxygen is correcting hypoxemia.",
-    "Incorrect. Comfort is important, but it does not show that oxygenation has improved.",
-    "Correct. Less dyspnea and a falling heart rate show that tissue oxygenation is improving and the body no longer needs to compensate."
+    "Incorrect. Deeper sleep can look like relief, but a client who is hard to awaken may be retaining CO₂ or becoming more hypoxic.",
+    "Incorrect. A small rise in SpO₂ is a start, but 89% is still low and an RR of 28 shows the client is still working hard to breathe.",
+    "Incorrect. The client's report is encouraging, but it is subjective; objective signs such as speech, heart rate, and SpO₂ better show whether oxygen is working.",
+    "Correct. Speaking in full sentences and a heart rate falling from 118 to 96 are objective signs that hypoxia is reversing and the body no longer needs to compensate."
    ],
-   "rationale": "To decide whether oxygen is working, the nurse looks for the signs of hypoxia to reverse: SpO₂ moving toward the target, slower and easier breathing, a falling heart rate, better alertness, and better color. Speaking in full sentences and a heart rate that drops from 118 to 96 show the body is no longer working as hard to compensate. Deeper sleep is the tempting choice because it looks like relief, but a client who is hard to awaken may be retaining CO₂ or becoming more hypoxic. Cough and comfort do not measure oxygenation.",
+   "rationale": "To decide whether oxygen is working, the nurse looks for the signs of hypoxia to reverse: SpO₂ moving toward the target, slower and easier breathing, a falling heart rate, better alertness, and better color. Speaking in full sentences and a heart rate that drops from 118 to 96 show the body is no longer working as hard to compensate. A small rise in SpO₂ with an RR still near 30 shows only partial improvement, and the client's report of easier breathing is encouraging but subjective. Deeper sleep looks like relief, but a client who is hard to awaken may be retaining CO₂ or becoming more hypoxic.",
    "takeaway": "Oxygen is working when the compensations calm down: slower HR and RR, easier speech, better alertness.",
    "cjmm": "Evaluate Outcomes",
    "focus": "Assessment Findings",
    "hintContent": "Recall what the body does to compensate for low oxygen and what should change when oxygen improves.",
-   "hintStrategy": "For \"effective\" questions, pick the option that directly reverses the problem in the stem; be wary of drowsiness that looks like comfort."
+   "hintStrategy": "For \"effective\" questions, pick the option that directly reverses the problem in the stem; be wary of drowsiness that looks like comfort.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-009",
@@ -340,7 +345,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Nursing Interventions",
    "hintContent": "Weigh the immediate danger of an SpO₂ of 83% against the risk of CO₂ retention.",
-   "hintStrategy": "When two risks compete, choose the answer that treats the more immediately life-threatening one while managing the other."
+   "hintStrategy": "When two risks compete, choose the answer that treats the more immediately life-threatening one while managing the other.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-010",
@@ -356,21 +362,22 @@
     "Place the mask on the client and then watch the bag fill",
     "Turn the flow down to 6 L/min until the mask is secured",
     "Let the reservoir bag fill with oxygen before applying the mask",
-    "Remove a one-way valve flap so the client can breathe more easily"
+    "Obtain a baseline SpO₂ before placing the mask on the client"
    ],
    "answer": 2,
    "optionRationales": [
     "Incorrect. Applying the mask with an empty bag means the client's first breaths draw from a reservoir that holds no oxygen.",
     "Incorrect. A nonrebreather requires 10–15 L/min; a low flow lets the bag collapse.",
     "Correct. Prefilling the reservoir ensures the client breathes high-concentration oxygen from the first breath.",
-    "Incorrect. The one-way valves keep exhaled air out of the reservoir; removing them lowers the oxygen concentration."
+    "Incorrect. Monitoring SpO₂ matters, but severe hypoxemia is already known; a separate baseline check delays oxygen the client needs now."
    ],
    "rationale": "A nonrebreather delivers the highest oxygen concentration of the standard masks because the client breathes from a reservoir bag filled with oxygen, and one-way valves keep exhaled air out. Just as the nurse confirms flow at the prongs before placing a cannula, the nurse lets the reservoir fill before placing the mask, so the client never breathes from an empty system. Placing the mask first is the tempting answer because it seems faster, but an empty bag can collapse on inspiration and deliver little oxygen. Once the mask is on, the bag must stay inflated during inhalation.",
    "takeaway": "Prefill the nonrebreather bag, then apply; the bag should never collapse on inspiration.",
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "hintContent": "Think about where the client's first breath will come from when the mask goes on.",
-   "hintStrategy": "For sequence items, ask which step prevents the client from receiving no medication at the moment the device is applied."
+   "hintStrategy": "For sequence items, ask which step prevents the client from receiving no medication at the moment the device is applied.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-011",
@@ -400,7 +407,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Delegation & Safety",
    "hintContent": "Consider how oxygen from the prongs reaches the lungs and what the SpO₂ shows.",
-   "hintStrategy": "In delegation questions, eliminate any option that has the AP change a treatment; then check the clinical fact behind the AP's concern."
+   "hintStrategy": "In delegation questions, eliminate any option that has the AP change a treatment; then check the clinical fact behind the AP's concern.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-012",
@@ -456,21 +464,22 @@
     "Page the provider and wait for a verbal oxygen prescription",
     "Obtain a full set of vital signs and a medication history",
     "Start oxygen per protocol, then obtain the prescription",
-    "Have the client breathe slowly into a paper bag to reduce anxiety"
+    "Coach slow, pursed-lip breathing to ease the client's anxiety"
    ],
    "answer": 2,
    "optionRationales": [
     "Incorrect. Waiting for a prescription delays treatment of significant hypoxemia when a protocol already authorizes the nurse to act.",
     "Incorrect. Further assessment matters, but an SpO₂ of 85% with distress needs treatment first.",
     "Correct. Emergency protocols allow nurses to start oxygen right away for hypoxemia and then obtain the order.",
-    "Incorrect. Rebreathing into a bag lowers inspired oxygen and is dangerous for a hypoxemic client."
+    "Incorrect. Coaching slow breathing can ease anxiety and work of breathing, but it does not correct an SpO₂ of 85%; oxygen is needed first."
    ],
-   "rationale": "Oxygen is a medication and normally requires a prescription, but facilities have emergency protocols so nurses can begin oxygen immediately for clients in distress and then obtain the order. An SpO₂ of 85% with tachypnea is an oxygenation emergency. Paging the provider and waiting is tempting because it follows the usual rule, but the protocol exists to prevent exactly that delay. Paper-bag breathing lowers inspired oxygen and would worsen hypoxemia. After starting oxygen, the nurse reassesses SpO₂ and effort and notifies the provider.",
+   "rationale": "Oxygen is a medication and normally requires a prescription, but facilities have emergency protocols so nurses can begin oxygen immediately for clients in distress and then obtain the order. An SpO₂ of 85% with tachypnea is an oxygenation emergency. Paging the provider and waiting is tempting because it follows the usual rule, but the protocol exists to prevent exactly that delay. Coaching slow breathing can help with anxiety, but it does not correct hypoxemia on its own. After starting oxygen, the nurse reassesses SpO₂ and effort and notifies the provider.",
    "takeaway": "In an emergency, start oxygen per protocol first, then get the prescription.",
    "cjmm": "Take Action",
    "focus": "Prioritization",
    "hintContent": "Consider what the emergency protocol authorizes the nurse to do.",
-   "hintStrategy": "When a protocol is mentioned in the stem, it usually signals the nurse can act before the provider responds."
+   "hintStrategy": "When a protocol is mentioned in the stem, it usually signals the nurse can act before the provider responds.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-014",
@@ -500,7 +509,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Delegation & Safety",
    "hintContent": "Sort each instruction into \"measure and report\" versus \"judge and adjust.\"",
-   "hintStrategy": "Eliminate any delegation option that contains assessment, teaching, evaluation, or a medication change."
+   "hintStrategy": "Eliminate any delegation option that contains assessment, teaching, evaluation, or a medication change.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-015",
@@ -518,21 +528,22 @@
     "Decrease the flow per the prescription and reassess the SpO₂",
     "Leave the flow unchanged because the saturation is in the normal range",
     "Discontinue the oxygen because the client is no longer hypoxemic",
-    "Notify the provider immediately of a critical saturation value"
+    "Notify the provider that the client may no longer need oxygen"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. A titration prescription directs the nurse to adjust the dose to reach the target range; lowering the flow reduces the risk of CO₂ retention.",
     "Incorrect. The prescribed target for this client is 88–92%, so 96–97% is above the goal even though it is \"normal\" for most adults.",
     "Incorrect. Stopping oxygen entirely is not what the titration prescription directs and may drop the client below target.",
-    "Incorrect. This is not a critical value; the nurse already has a prescription to manage it."
+    "Incorrect. Keeping the provider informed is reasonable, but the titration prescription already lets the nurse lower the flow now, and the client may still need some oxygen."
    ],
    "rationale": "Titrating oxygen means adjusting the dose up or down to keep the SpO₂ inside the prescribed range. For a client with COPD and CO₂ retention, a saturation above the target is not \"extra safety\"; it increases the risk of rising CO₂ and CO₂ narcosis. Leaving the flow alone is tempting because 96% looks excellent, but the nurse treats the client according to the individualized target. The nurse lowers the flow in small steps, reassesses SpO₂, mental status, and RR, and avoids turning the oxygen off completely.",
    "takeaway": "A titration order works both ways: turn oxygen down when SpO₂ is above the target.",
    "cjmm": "Generate Solutions",
    "focus": "Nursing Interventions",
    "hintContent": "Compare the SpO₂ to this client's prescribed range, not the general normal range.",
-   "hintStrategy": "When a prescription gives a target range, any value outside it, high or low, calls for the nurse to act on that prescription."
+   "hintStrategy": "When a prescription gives a target range, any value outside it, high or low, calls for the nurse to act on that prescription.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-016",
@@ -564,7 +575,8 @@
    "cjmm": "Take Action",
    "focus": "Prioritization",
    "hintContent": "Ask whether a slower respiratory rate means improvement or fatigue in this client.",
-   "hintStrategy": "If the stem shows maximal noninvasive therapy is failing, the answer is escalation, not another noninvasive option."
+   "hintStrategy": "If the stem shows maximal noninvasive therapy is failing, the answer is escalation, not another noninvasive option.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-017",
@@ -691,7 +703,8 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Pathophysiology",
    "hintContent": "Compare what happened to the oxygen values versus the CO₂ value after the flow change.",
-   "hintStrategy": "In exhibit items, line up the timing: what changed right before the client got worse? Use the other tabs to rule out competing causes."
+   "hintStrategy": "In exhibit items, line up the timing: what changed right before the client got worse? Use the other tabs to rule out competing causes.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-018",
@@ -743,14 +756,14 @@
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "stem": "A client on postoperative day 1 is receiving a hydromorphone patient-controlled analgesia (PCA) infusion and oxygen at 2 L/min by nasal cannula. On rounds, the nurse finds the client difficult to arouse with RR 7/min and shallow breaths. SpO₂ is 95%. Which action should the nurse take first?",
    "options": [
-    "Document the SpO₂ as within normal limits and continue monitoring",
+    "Review the PCA history to see how many doses were given",
     "Increase the oxygen to 4 L/min to maintain the saturation",
     "Attempt to arouse the client and stop the PCA infusion",
     "Draw an arterial blood gas to measure the oxygen level"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. A normal SpO₂ does not rule out hypoventilation; the RR and level of consciousness show danger.",
+    "Incorrect. Reviewing the PCA history is useful, but the client is barely breathing now; checking records delays stimulating the client and stopping the opioid.",
     "Incorrect. More oxygen can keep SpO₂ looking normal while CO₂ continues to rise, masking the problem.",
     "Correct. Stimulating the client to breathe and stopping the opioid addresses the cause of hypoventilation; the nurse then follows the opioid reversal protocol and notifies the provider.",
     "Incorrect. An ABG may be ordered, but the client needs immediate action to improve ventilation first."
@@ -760,7 +773,8 @@
    "cjmm": "Recognize Cues",
    "focus": "Prioritization",
    "hintContent": "Recall what pulse oximetry can and cannot measure.",
-   "hintStrategy": "When a reassuring number conflicts with an alarming clinical picture, trust the client's condition and treat the cause."
+   "hintStrategy": "When a reassuring number conflicts with an alarming clinical picture, trust the client's condition and treat the cause.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-020",
@@ -906,7 +920,8 @@
    "cjmm": "Take Action",
    "focus": "Lifespan & Diversity",
    "hintContent": "Consider what changes in the response when the infant loses consciousness.",
-   "hintStrategy": "Emergency sequence items hinge on a trigger in the stem; find the change in the client's status and choose the step that follows it."
+   "hintStrategy": "Emergency sequence items hinge on a trigger in the stem; find the change in the client's status and choose the step that follows it.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-024",
@@ -1004,7 +1019,8 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
    "hintContent": "Compare each rate to its age range and look for signs of increased work of breathing.",
-   "hintStrategy": "In pediatric prioritization, first rule out findings that are normal for age, then pick the child with signs of distress."
+   "hintStrategy": "In pediatric prioritization, first rule out findings that are normal for age, then pick the child with signs of distress.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-026",
@@ -1112,7 +1128,8 @@
    "cjmm": "Take Action",
    "focus": "Lifespan & Diversity",
    "hintContent": "Consider what the uterus can press on when a client in late pregnancy lies flat.",
-   "hintStrategy": "When the stem includes a position and a sudden change, ask whether the position caused it; repositioning is often the first action."
+   "hintStrategy": "When the stem includes a position and a sudden change, ask whether the position caused it; repositioning is often the first action.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-029",
@@ -1128,23 +1145,24 @@
    "stem": "A client at 34 weeks' gestation calls the clinic and says, \"For the past day I can't catch my breath even when I'm sitting still, and my chest feels tight.\" The nurse notes RR 28/min when the client is seen. Which response by the nurse is best?",
    "options": [
     "\"That's expected now because the baby is pressing up on your diaphragm.\"",
-    "\"Try lying flat on your back with your feet up to make breathing easier.\"",
-    "\"This happens to many women late in pregnancy, so it should pass after birth.\"",
+    "\"Sit upright with pillows behind you and rest for the rest of the day.\"",
+    "\"Let's plan to check your breathing closely at your next prenatal visit.\"",
     "\"Breathlessness at rest is not a usual pregnancy change; let me check your oxygen.\""
    ],
    "answer": 3,
    "optionRationales": [
     "Incorrect. The raised diaphragm explains mild breathlessness with exertion, not dyspnea at rest with an RR of 28.",
-    "Incorrect. Lying flat on the back in late pregnancy can compress major vessels and does not help breathing.",
-    "Incorrect. Dismissing new dyspnea at rest delays evaluation of a potentially serious problem.",
-    "Correct. Dyspnea at rest, chest tightness, and tachypnea need follow-up; checking SpO₂ and reporting to the provider is appropriate."
+    "Incorrect. Sitting upright can ease breathing, but it is comfort advice that skips assessment of new dyspnea at rest and chest tightness.",
+    "Incorrect. Close follow-up is appropriate, but waiting for the next visit delays evaluation of a potentially serious problem happening now.",
+    "Correct. Dyspnea at rest, chest tightness, and tachypnea need follow-up now; checking SpO₂ and reporting to the provider is appropriate."
    ],
    "rationale": "Pregnancy normally raises the diaphragm and increases tidal volume, so mild shortness of breath on stairs is expected. The respiratory rate rises only slightly, staying within the normal adult range. Dyspnea at rest, chest tightness, and an RR of 28 are not normal pregnancy changes and need prompt assessment, because the fetus depends on the mother's oxygenation. The tempting answer attributes the symptoms to the growing uterus, which is true for mild exertional dyspnea but not for this picture.",
    "takeaway": "Mild dyspnea on exertion is expected in pregnancy; dyspnea at rest or RR well above 20 is not.",
    "cjmm": "Analyze Cues",
    "focus": "Lifespan & Diversity",
    "hintContent": "Compare the client's symptoms with the expected respiratory changes of pregnancy.",
-   "hintStrategy": "For \"best response\" items, reject answers that falsely reassure when the data show a possible problem."
+   "hintStrategy": "For \"best response\" items, reject answers that falsely reassure when the data show a possible problem.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-030",
@@ -1202,22 +1220,23 @@
    "options": [
     "Reorient the resident and reassess her behavior in 1 hour",
     "Measure her SpO₂ and auscultate her lung sounds",
-    "Ask the provider for a prescription for a sedative",
-    "Document the change as a likely sundowning episode"
+    "Notify the provider of the new change in mental status",
+    "Offer fluids and a snack since she ate little breakfast"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Reorienting does not address a possible physical cause, and waiting delays recognition of illness.",
+    "Incorrect. Reorienting is supportive, but it does not address a possible physical cause, and waiting delays recognition of illness.",
     "Correct. New confusion with tachycardia and tachypnea in an older adult can be the first sign of pneumonia or hypoxemia, even without fever, so the nurse assesses oxygenation first.",
-    "Incorrect. Sedation could mask the cause and further depress breathing.",
-    "Incorrect. This is a change from baseline that needs assessment, not a label."
+    "Incorrect. The provider will need to know, but the nurse should first gather SpO₂ and lung findings so the report is complete and useful.",
+    "Incorrect. Poor intake matters, but food and fluids do not address the elevated HR and RR that suggest a respiratory cause."
    ],
    "rationale": "Older adults with pneumonia often do not have a fever. Instead, they may show new confusion, weakness, poor appetite, an increased heart rate, and increased respiratory rate. This resident's baseline is alert and oriented ×3, so the confusion is new, and her HR and RR are both elevated. Calling it a \"bad dementia day\" is the tempting trap, because confusion is common in long-term care, but any change from baseline needs a physical assessment. Checking SpO₂ and lung sounds guides the report to the provider.",
    "takeaway": "Afebrile older adult with new confusion, fast HR, and fast RR: assess for pneumonia before blaming dementia.",
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
    "hintContent": "Recall how pneumonia often presents in older adults.",
-   "hintStrategy": "Assessment comes before intervention when the cause is unknown; choose the option that gathers the key missing data."
+   "hintStrategy": "Assessment comes before intervention when the cause is unknown; choose the option that gathers the key missing data.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-032",
@@ -1249,7 +1268,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Assessment Findings",
    "hintContent": "Sort each finding into \"common with aging\" or \"new change.\"",
-   "hintStrategy": "When several findings look abnormal, choose the one that is new for the client rather than the one that sounds most clinical."
+   "hintStrategy": "When several findings look abnormal, choose the one that is new for the client rather than the one that sounds most clinical.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-033",
@@ -1305,24 +1325,25 @@
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
    "stem": "A 79-year-old client with COPD is admitted for the third time in 4 months with an exacerbation. The client lives alone and has prescriptions for three inhalers. Which action should the nurse take first when planning discharge teaching?",
    "options": [
-    "Give the client a written schedule for all three inhalers",
-    "Tell the client that missing doses is the reason for his admissions",
-    "Recommend that the client move to an assisted living facility",
+    "Give the client a written schedule showing when to use each inhaler",
+    "Teach the correct technique for each of the three inhalers",
+    "Arrange a home health referral to monitor his medication use",
     "Ask the client to describe how and when he uses each inhaler at home"
    ],
    "answer": 3,
    "optionRationales": [
     "Incorrect. A written schedule may help later, but it assumes the problem is timing before the nurse knows the barrier.",
-    "Incorrect. Blaming the client is not therapeutic and assumes a cause that has not been assessed.",
-    "Incorrect. This decision belongs to the client and is premature without assessment.",
-    "Correct. Assessing how the client actually uses his inhalers reveals barriers such as cost, memory, or difficulty with technique, so teaching can target the real problem."
+    "Incorrect. Technique teaching may be needed, but teaching before assessing may miss the real barrier, such as cost or memory.",
+    "Incorrect. Home health may be useful for a client who lives alone, but the referral is premature until the nurse knows what the problem is.",
+    "Correct. Assessing how the client actually uses his inhalers reveals barriers such as cost, memory, or difficulty with technique, so teaching and referrals can target the real problem."
    ],
    "rationale": "Repeated admissions in an older adult with a chronic lung disease should prompt the nurse to assess adherence and the barriers to it, such as cost, memory, and difficulty using inhalers. Asking the client to describe his routine, and ideally to demonstrate his technique, uncovers the specific problem. A written schedule is the tempting answer because it is a common teaching tool, but it may miss the real issue if he cannot afford the inhalers or cannot use them correctly. Assessment comes before planning and teaching.",
    "takeaway": "Frequent readmissions: assess adherence barriers (cost, memory, technique) before teaching.",
    "cjmm": "Analyze Cues",
    "focus": "Lifespan & Diversity",
    "hintContent": "Think about what the nurse needs to know before choosing how to teach.",
-   "hintStrategy": "When a stem asks what to do \"first\" in planning, the answer is usually an assessment step."
+   "hintStrategy": "When a stem asks what to do \"first\" in planning, the answer is usually an assessment step.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-035",
@@ -1339,22 +1360,23 @@
    "options": [
     "Keep the child upright on the parent's lap and apply oxygen",
     "Lay the child flat on the stretcher for a complete lung assessment",
-    "Obtain a throat swab for a rapid strep test before treatment",
-    "Offer oral fluids to thin the child's secretions"
+    "Obtain a full set of vital signs, including a temperature",
+    "Prepare a nebulizer treatment for when the provider arrives"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. An upright position eases breathing, staying with the parent reduces distress, and oxygen treats the hypoxemia.",
+    "Correct. An upright position eases breathing, staying with the parent reduces distress, and oxygen treats the hypoxemia now.",
     "Incorrect. Lying flat worsens breathing and separating a distressed child from the parent can increase oxygen demand.",
-    "Incorrect. Diagnostic testing can wait until breathing is supported.",
-    "Incorrect. A child in respiratory distress may not be able to swallow safely, and fluids do not correct hypoxemia."
+    "Incorrect. Full vital signs are useful, but the distress and SpO₂ of 89% are already known and need treatment first.",
+    "Incorrect. Anticipating a nebulizer is reasonable, but it is not yet prescribed and does nothing for the hypoxemia right now."
    ],
    "rationale": "Children have less respiratory reserve than adults and can deteriorate quickly. Nasal flaring, retractions, a rate above the preschool range of 20–35, and an SpO₂ of 89% indicate respiratory distress that needs immediate support. Keeping the child upright and calm on the parent's lap reduces work of breathing and oxygen demand, and oxygen per protocol treats the hypoxemia. Laying the child flat for a thorough exam is tempting because assessment usually comes first, but in distress the nurse supports breathing first and assesses without worsening it.",
    "takeaway": "Child in respiratory distress: keep upright and calm, and give oxygen; do not lay flat or agitate.",
    "cjmm": "Take Action",
    "focus": "Lifespan & Diversity",
    "hintContent": "Consider what position and environment reduce a child's work of breathing.",
-   "hintStrategy": "When distress is already evident, support airway and breathing before diagnostic tests or comfort measures."
+   "hintStrategy": "When distress is already evident, support airway and breathing before diagnostic tests or comfort measures.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-036",
@@ -1386,7 +1408,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Assessment Findings",
    "hintContent": "Recall the normal respiratory rate ranges for infants, toddlers, and preschoolers.",
-   "hintStrategy": "With pediatric vital signs, match each number to its age range; the highest number is not always the abnormal one."
+   "hintStrategy": "With pediatric vital signs, match each number to its age range; the highest number is not always the abnormal one.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-037",
@@ -1437,15 +1460,15 @@
    "stem": "A 3-year-old eating dinner at a family restaurant suddenly starts coughing forcefully and crying. The child's face is red, and air can be heard moving with each cough. The nurse, who is dining nearby, reaches the child. Which action should the nurse take first?",
    "options": [
     "Give 5 back blows between the shoulder blades",
-    "Perform a finger sweep to remove the food",
-    "Give the child sips of water to wash it down",
+    "Give abdominal thrusts until the food comes out",
+    "Look in the mouth and remove any food you see",
     "Stay with the child and encourage coughing"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Back blows and thrusts are used when the child cannot cough, cry, or breathe.",
-    "Incorrect. A blind finger sweep can push the object deeper into the airway.",
-    "Incorrect. Drinking while the airway is partly obstructed increases the risk of aspiration.",
+    "Incorrect. Back blows are used when the child cannot cough, cry, or breathe; this child is moving air.",
+    "Incorrect. Abdominal thrusts are correct for a complete obstruction in a child, but this child's forceful cough shows air is still moving.",
+    "Incorrect. Looking is reasonable, but reaching into the mouth of a coughing child can push the food deeper and turn a partial obstruction into a complete one.",
     "Correct. A forceful cough and crying mean the airway is only partly blocked and air is moving, so the child's own cough is the most effective way to clear it."
    ],
    "rationale": "The key decision in a choking emergency is whether air is moving. A child who can cough forcefully and cry has a partial obstruction with good air exchange, and a strong cough is the most effective way to clear it. The nurse stays with the child, encourages coughing, and watches for signs that the obstruction is becoming complete, such as a silent cough, inability to cry or speak, or cyanosis. Jumping to back blows is tempting because it feels like doing something, but it is reserved for a complete obstruction.",
@@ -1453,7 +1476,8 @@
    "cjmm": "Take Action",
    "focus": "Lifespan & Diversity",
    "hintContent": "Determine whether this airway is partly or completely blocked.",
-   "hintStrategy": "In emergency items, first classify the severity; the correct response depends on it."
+   "hintStrategy": "In emergency items, first classify the severity; the correct response depends on it.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-039",
@@ -1514,7 +1538,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Lifespan & Diversity",
    "hintContent": "Recall how normal hemoglobin and hematocrit differ between men and women.",
-   "hintStrategy": "When an exhibit gives reference ranges, compare each value to its own range rather than to each other."
+   "hintStrategy": "When an exhibit gives reference ranges, compare each value to its own range rather than to each other.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-040",
@@ -1529,24 +1554,25 @@
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
    "stem": "A client at 12 weeks' gestation who has persistent asthma says, \"I've decided to stop my inhalers until the baby comes so the medicine doesn't hurt her.\" Which response by the nurse is best?",
    "options": [
-    "\"That's a good idea; most medicines aren't safe during pregnancy.\"",
+    "\"I can tell you're worried about her; tell me more about that.\"",
     "\"Keep taking them for now, and let's review them with your providers.\"",
     "\"Stop the daily inhaler, but keep using your rescue inhaler as needed.\"",
-    "\"Asthma usually improves in pregnancy, so you won't need them.\""
+    "\"Asthma inhalers are safe in pregnancy, so don't worry about it.\""
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Stopping asthma medications puts the mother and fetus at risk from poorly controlled asthma.",
-    "Correct. Uncontrolled asthma reduces oxygen to the fetus, so medication decisions are made together with the pulmonary and obstetric providers.",
+    "Incorrect. Exploring her worry is therapeutic, but it leaves an unsafe plan in place; she needs to know to keep taking her medicine.",
+    "Correct. Uncontrolled asthma reduces oxygen to the fetus, so the client keeps her medications while decisions are made with the pulmonary and obstetric providers.",
     "Incorrect. Stopping a controller without a prescription allows airway inflammation to return and attacks to increase.",
-    "Incorrect. Asthma can worsen, improve, or stay the same in pregnancy; it cannot be assumed to improve."
+    "Incorrect. Many asthma drugs are considered safe in pregnancy, but this blanket reassurance dismisses her concern and skips a review with her providers."
    ],
    "rationale": "The fetus depends entirely on the mother's oxygenation, so poorly controlled asthma is a greater risk to the baby than most asthma medications. Medications should be checked for safety in pregnancy, and treatment should involve both the pulmonologist and the obstetrician. The tempting answer keeps the rescue inhaler but stops the controller, which sounds like a compromise but allows inflammation to return. The nurse respects the client's concern, explains why oxygenation matters for the baby, and arranges a review with her providers.",
    "takeaway": "In pregnancy, controlling asthma protects the baby; medication changes are made with both providers.",
    "cjmm": "Generate Solutions",
    "focus": "Client Teaching",
    "hintContent": "Consider what happens to the fetus if the mother's asthma becomes uncontrolled.",
-   "hintStrategy": "For therapeutic responses, choose the answer that addresses the concern and keeps the client safe, not one that agrees or dismisses."
+   "hintStrategy": "For therapeutic responses, choose the answer that addresses the concern and keeps the client safe, not one that agrees or dismisses.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-041",
@@ -1619,7 +1645,8 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
    "hintContent": "Ask which client's findings are expected for age or pregnancy and which are new.",
-   "hintStrategy": "In \"assess first\" questions, cross off clients whose findings are expected, then choose the one with an acute change."
+   "hintStrategy": "In \"assess first\" questions, cross off clients whose findings are expected, then choose the one with an acute change.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-043",
@@ -1681,7 +1708,8 @@
    "cjmm": "Evaluate Outcomes",
    "focus": "Assessment Findings",
    "hintContent": "Ask what physiologic change incentive spirometry is meant to produce.",
-   "hintStrategy": "For \"effective\" questions, choose the client outcome over adherence or knowledge."
+   "hintStrategy": "For \"effective\" questions, choose the client outcome over adherence or knowledge.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-045",
@@ -1732,24 +1760,25 @@
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
    "stem": "A client on postoperative day 1 after an open abdominal hysterectomy refuses to cough and deep breathe, saying, \"It hurts too much.\" Pain is 8 on a 0–10 scale; the last prescribed analgesic was given 5 hours ago, and a dose is available now. Breath sounds are diminished at both bases. Which action should the nurse take first?",
    "options": [
-    "Explain that coughing exercises are required to prevent pneumonia",
-    "Document that the client refused coughing and deep breathing",
+    "Explain that deep breathing and coughing help prevent pneumonia",
+    "Help the client splint the incision with a pillow and cough now",
     "Give the prescribed analgesic and coach the client after it takes effect",
-    "Notify the surgeon that the client is not participating in care"
+    "Notify the surgeon that breath sounds are diminished at both bases"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Insisting does not remove the barrier, and a client in severe pain will still breathe shallowly.",
-    "Incorrect. Documenting the refusal without addressing the cause leaves the client at risk for atelectasis.",
+    "Incorrect. Teaching the purpose of the exercises is reasonable, but the client's barrier is pain at 8/10, not a lack of knowledge.",
+    "Incorrect. Splinting is a helpful technique, but with pain at 8/10 the client still cannot breathe deeply; the analgesic should come first.",
     "Correct. Pain control removes the main barrier, so the client can breathe deeper and cough more effectively.",
-    "Incorrect. The nurse can manage this independently with the prescribed analgesic; there is nothing new to escalate yet."
+    "Incorrect. Diminished bases on day 1 should be reported if they persist, but the nurse can treat the cause now with pain relief and coaching."
    ],
    "rationale": "Surgical pain leads to shallow breaths and avoided coughs, which allow secretions to pool and alveoli to collapse. The diminished breath sounds suggest this is already starting. Giving the prescribed pain medication before breathing exercises is a key nursing intervention, because clients who are not in pain breathe more deeply. Explaining the risk of pneumonia is tempting because teaching seems helpful, but the client's barrier is pain, not lack of knowledge. After the analgesic takes effect, the nurse coaches splinted coughing and incentive spirometry.",
    "takeaway": "Give pain medicine before breathing and coughing exercises; pain is the barrier to deep breaths.",
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "hintContent": "Identify what is stopping this client from breathing deeply.",
-   "hintStrategy": "When a client refuses care, look for the cause of the refusal and choose the option that removes it."
+   "hintStrategy": "When a client refuses care, look for the cause of the refusal and choose the option that removes it.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-047",
@@ -1762,24 +1791,25 @@
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
    "stem": "A 66-year-old client is recovering from a thoracotomy. Rhonchi are heard in the right lung, and the client says coughing \"feels like it rips my incision open.\" Which instruction by the nurse is best?",
    "options": [
-    "\"Take small, quick breaths so you don't stretch the incision.\"",
-    "\"Wait to cough until the rhonchi go away on their own.\"",
-    "\"Cough as hard as you can several times in a row to clear it quickly.\"",
+    "\"Take 10 slow, deep breaths with your incentive spirometer.\"",
+    "\"Sip warm fluids to thin the mucus before you try to cough.\"",
+    "\"Press on the incision with your hand and give a small cough.\"",
     "\"Hug a pillow over your incision, take deep breaths, then huff.\""
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Shallow breathing promotes atelectasis and secretion retention.",
-    "Incorrect. Rhonchi indicate secretions in the large airways that need to be cleared by coughing.",
-    "Incorrect. Repeated forceful coughing increases pain and fatigue and may be ineffective.",
+    "Incorrect. Incentive spirometry expands the lungs, but rhonchi mean secretions are present and must be moved with an effective cough.",
+    "Incorrect. Fluids help thin secretions over time, but they do not clear the rhonchi now or address the pain that stops coughing.",
+    "Incorrect. Splinting is correct, but a small cough without a deep breath is weak and will not move the secretions well.",
     "Correct. Splinting supports the incision, and a huff cough moves secretions with less pain and effort."
    ],
-   "rationale": "Retained secretions after surgery can lead to atelectasis and pneumonia, but pain makes clients avoid coughing. A splinted cough, with a pillow hugged against the incision, supports the wound, and a huff cough (an open-mouth exhalation, like fogging a mirror) moves mucus with less pain and fatigue than a hard cough. Small, quick breaths seem like a way to protect the incision but cause the very atelectasis the nurse wants to prevent. Rhonchi will not clear without effective coughing.",
+   "rationale": "Retained secretions after surgery can lead to atelectasis and pneumonia, but pain makes clients avoid coughing. A splinted cough, with a pillow hugged against the incision, supports the wound, and deep breaths followed by a huff cough (an open-mouth exhalation, like fogging a mirror) move mucus with less pain and fatigue than a hard cough. Pressing with a hand and giving a small cough is tempting because it includes splinting, but without a deep breath the cough is too weak to clear rhonchi. Incentive spirometry and fluids help, but they do not clear the secretions now.",
    "takeaway": "After surgery, teach splinted and huff coughing to clear secretions with less pain.",
    "cjmm": "Generate Solutions",
    "focus": "Client Teaching",
    "hintContent": "Think about how to make coughing effective while protecting the incision.",
-   "hintStrategy": "Choose the option that both solves the clinical problem and addresses the client's stated concern."
+   "hintStrategy": "Choose the option that both solves the clinical problem and addresses the client's stated concern.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-048",
@@ -1868,23 +1898,24 @@
    "stem": "The nurse finds a client with a COPD exacerbation slumped low in bed with the head of the bed at 20 degrees. The client is short of breath with RR 30/min, using neck muscles, and SpO₂ is 88% on 2 L/min by nasal cannula (prescribed target 88–92%). Which action should the nurse take first?",
    "options": [
     "Sit the client upright, leaning forward on the overbed table",
-    "Increase the oxygen flow to 6 L/min by cannula",
-    "Request a prescription for an arterial blood gas",
-    "Give the PRN cough suppressant to reduce the work of breathing"
+    "Increase the oxygen flow from 2 to 4 L/min by nasal cannula",
+    "Request a prescription for an arterial blood gas analysis",
+    "Auscultate breath sounds in all lung fields before acting"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. An upright, forward-leaning (tripod) position lets the diaphragm drop and helps the accessory muscles lift the chest.",
-    "Incorrect. The SpO₂ is within the prescribed target, and extra oxygen could raise CO₂ in this client.",
-    "Incorrect. An ABG may be useful later, but it does not ease the client's breathing now.",
-    "Incorrect. Cough suppressants trap secretions and do not relieve dyspnea."
+    "Incorrect. Oxygen is helpful in COPD, but SpO₂ is already within the 88–92% target, and more oxygen does not fix the poor position and may raise CO₂.",
+    "Incorrect. An ABG may be useful later, but it does not ease breathing now; a simple position change can help immediately.",
+    "Incorrect. Auscultation is part of a full assessment, but the cause of distress is clear and repositioning is fast, safe, and should not be delayed."
    ],
-   "rationale": "When a client lies low or flat, the abdominal organs push up against the diaphragm and the lungs cannot expand fully. Sitting upright, or leaning forward in a tripod position, is often the first and fastest way to ease breathing. This client's SpO₂ is already within the prescribed target, so increasing the oxygen is the tempting but wrong choice; it does not solve the positioning problem and can worsen CO₂ retention. Cough suppressants keep secretions in the lungs.",
+   "rationale": "When a client lies low or flat, the abdominal organs push up against the diaphragm and the lungs cannot expand fully. Sitting upright, or leaning forward in a tripod position, is often the first and fastest way to ease breathing. This client's SpO₂ is already within the prescribed target, so increasing the oxygen is the tempting but wrong choice; it does not solve the positioning problem and can worsen CO₂ retention. An ABG or a full auscultation can follow, but they should not delay a simple fix that helps right away.",
    "takeaway": "For a short-of-breath client, positioning upright is often the first, fastest fix.",
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "hintContent": "Notice where the client's SpO₂ is compared with the target and how the client is positioned.",
-   "hintStrategy": "Choose the least invasive effective action first, especially when the client is already within the treatment target."
+   "hintStrategy": "Choose the least invasive effective action first, especially when the client is already within the treatment target.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-051",
@@ -1939,15 +1970,15 @@
    "stem": "A 14-year-old client with asthma is receiving a prescribed acetylcysteine nebulizer before postural drainage. Five minutes into the treatment, the client develops new wheezing, says \"my chest is getting tight,\" and SpO₂ falls from 95% to 91%. Which action should the nurse take first?",
    "options": [
     "Reassure the client that the sulfur smell is expected",
-    "Continue the treatment and begin percussion to loosen mucus",
-    "Have the client cough forcefully to clear the secretions",
+    "Slow the nebulizer flow and recheck the SpO₂ in 5 minutes",
+    "Stop the acetylcysteine and notify the provider right away",
     "Stop the acetylcysteine and give the prescribed bronchodilator"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. The odor is expected, but the wheezing and chest tightness are not and require action.",
-    "Incorrect. Continuing the drug during bronchospasm worsens airway narrowing.",
-    "Incorrect. Forceful coughing during bronchospasm can increase airway narrowing and does not treat the cause.",
+    "Incorrect. The rotten-egg odor is a true, expected effect, but the client's problem is new bronchospasm, not the smell.",
+    "Incorrect. Monitoring SpO₂ is reasonable, but slowing the flow still delivers the drug that is narrowing the airway.",
+    "Incorrect. Stopping the drug is correct, and the provider should be informed, but a prescribed bronchodilator is available and should be given first to open the airway.",
     "Correct. Acetylcysteine can cause bronchospasm, especially in asthma; stopping it and giving a bronchodilator reverses the airway narrowing."
    ],
    "rationale": "Acetylcysteine thins mucus but can trigger bronchospasm, particularly in clients with asthma. That is why a bronchodilator is usually given first. New wheezing, chest tightness, and a falling SpO₂ during the treatment mean the airways are narrowing, so the nurse stops the drug and gives the prescribed bronchodilator, then reassesses. Reassuring the client about the rotten-egg smell is tempting because the odor is a well-known, expected effect, but it ignores the airway problem in front of the nurse.",
@@ -1955,7 +1986,8 @@
    "cjmm": "Take Action",
    "focus": "Prioritization",
    "hintContent": "Recall the most serious adverse effect of acetylcysteine and how it is prevented.",
-   "hintStrategy": "Separate expected effects from adverse reactions; an airway change always takes priority over comfort or reassurance."
+   "hintStrategy": "Separate expected effects from adverse reactions; an airway change always takes priority over comfort or reassurance.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-053",
@@ -2024,7 +2056,8 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
    "hintContent": "Look for the client with signs that secretions are blocking the airway.",
-   "hintStrategy": "In \"first\" questions, pick the client with an airway problem now, not the one whose care is simply due."
+   "hintStrategy": "In \"first\" questions, pick the client with an airway problem now, not the one whose care is simply due.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-055",
@@ -2041,22 +2074,23 @@
    "options": [
     "\"Yes, all suctioning must be done with sterile technique.\"",
     "\"Mouth suctioning with a Yankauer catheter uses clean technique.\"",
-    "\"Use the sterile kit, and insert it until you meet resistance.\"",
-    "\"Let's wait for the respiratory therapist to suction her mouth.\""
+    "\"Use a sterile catheter and limit each pass to 10 seconds.\"",
+    "\"Ask the respiratory therapist, since suctioning is their role.\""
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Only tracheal suctioning requires sterile technique; the mouth is not sterile.",
+    "Incorrect. Sterile technique is required for tracheal suctioning, but the mouth is not sterile, so oropharyngeal suctioning uses clean technique.",
     "Correct. Oropharyngeal suctioning with a Yankauer catheter clears the mouth and throat and is a clean procedure.",
-    "Incorrect. Inserting until resistance describes tracheal suctioning, not mouth suctioning.",
-    "Incorrect. Oropharyngeal suctioning is within the nurse's scope and should not be delayed."
+    "Incorrect. Limiting each pass is a sound safety habit, but a sterile catheter is unnecessary for the mouth; a rigid Yankauer with clean technique works best.",
+    "Incorrect. Respiratory therapists can suction, but oropharyngeal suctioning is within the nurse's scope, and the client needs it now."
    ],
    "rationale": "Older adults often need more frequent suctioning because of a decreased gag and cough reflex. Oropharyngeal suctioning with a rigid Yankauer catheter removes secretions pooled in the mouth and throat and uses clean technique because the mouth is not sterile. Tracheal suctioning, by contrast, enters the lower airway and requires sterile technique. The student's plan sounds extra careful, so it is a tempting choice to affirm, but it confuses the two procedures.",
    "takeaway": "Yankauer (mouth and throat) = clean technique; tracheal suctioning = sterile technique.",
    "cjmm": "Analyze Cues",
    "focus": "Nursing Interventions",
    "hintContent": "Distinguish the technique needed for oropharyngeal versus tracheal suctioning.",
-   "hintStrategy": "When two procedures look alike, identify the anatomic site; the site determines the technique."
+   "hintStrategy": "When two procedures look alike, identify the anatomic site; the site determines the technique.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-056",
@@ -2109,16 +2143,16 @@
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
    "stem": "A 55-year-old client with bronchitis has a productive cough with thick, yellow sputum. The client asks, \"Can I take diphenhydramine at night to dry up all this mucus?\" The client has no fluid restrictions. Which response by the nurse is best?",
    "options": [
-    "\"Yes, it will dry up the mucus so you can sleep without coughing.\"",
-    "\"Take it only on nights when the cough is keeping you awake.\"",
-    "\"Ask your provider for a cough suppressant to take with it.\"",
+    "\"A humidifier at night will help keep the mucus thin.\"",
+    "\"Check with your provider before taking any new medicine.\"",
+    "\"Raise the head of your bed so the cough bothers you less.\"",
     "\"Drying medicines thicken mucus; extra fluids will thin it.\""
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Antihistamines dry and thicken secretions, making them harder to clear.",
-    "Incorrect. Occasional use still thickens secretions when the client needs to clear them.",
-    "Incorrect. Suppressing a productive cough traps mucus in the lungs.",
+    "Incorrect. Humidity does help thin mucus, but this response does not tell the client that diphenhydramine would thicken the secretions.",
+    "Incorrect. Checking with the provider is sensible, but the nurse can teach now that drying medicines make mucus thicker and harder to cough out.",
+    "Incorrect. Elevating the head may ease nighttime coughing, but it does not answer the question or warn against the drying medicine.",
     "Correct. Antihistamines thicken secretions; fluids of about 2–3 L/day, unless restricted, thin mucus so it can be coughed out."
    ],
    "rationale": "When a client has a productive cough, the goal is to thin and move secretions out, not to dry them up or stop the cough. Antihistamines dry and thicken secretions, and scheduled cough suppressants keep mucus in the lungs, where it can block airways and promote infection. The client's request sounds reasonable because a \"drying\" medicine seems to reduce mucus, but it actually makes the mucus stickier. Fluids, humidity, walking, and effective coughing are the better choices.",
@@ -2126,7 +2160,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Client Teaching",
    "hintContent": "Consider what antihistamines do to the consistency of secretions.",
-   "hintStrategy": "In teaching items about secretions, the correct answer usually thins or mobilizes mucus rather than suppressing it."
+   "hintStrategy": "In teaching items about secretions, the correct answer usually thins or mobilizes mucus rather than suppressing it.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-058",
@@ -2158,7 +2193,8 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Pathophysiology",
    "hintContent": "Match the timing and the lung findings to the most likely complication.",
-   "hintStrategy": "For hypothesis questions, choose the explanation that accounts for all the cues, including the timing."
+   "hintStrategy": "For hypothesis questions, choose the explanation that accounts for all the cues, including the timing.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-059",
@@ -2174,23 +2210,24 @@
    "stem": "The nurse is performing open tracheal suctioning on a client with a tracheostomy. After the first 10-second pass, a moderate amount of secretions remains audible. SpO₂ has dropped from 95% to 90% and HR has risen from 88 to 102/min. Which action should the nurse take next?",
    "options": [
     "Perform a second pass right away to finish clearing the secretions",
-    "Increase the suction pressure so the next pass removes more",
+    "Stop suctioning and notify the provider of the SpO₂ drop",
     "Reoxygenate the client and reassess before another pass",
-    "Instill normal saline into the tracheostomy to loosen secretions"
+    "Auscultate the lungs, then perform a second suction pass"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Another pass while the client is desaturated removes more oxygen and worsens hypoxemia.",
-    "Incorrect. Higher pressure increases mucosal injury and does not address the drop in SpO₂.",
+    "Incorrect. Secretions remain, so another pass may be needed, but doing it right away adds a second oxygen loss before the client recovers.",
+    "Incorrect. A brief SpO₂ drop during suctioning is expected and usually corrects with reoxygenation; the nurse can manage it before calling.",
     "Correct. The client needs time and oxygen to recover; the nurse reoxygenates and checks SpO₂, HR, and breath sounds before deciding on another pass.",
-    "Incorrect. Routine saline instillation is not recommended and does not address the desaturation."
+    "Incorrect. Reassessing breath sounds is appropriate, but the client must be reoxygenated first, or the next pass will drop SpO₂ further."
    ],
-   "rationale": "Each suction pass removes oxygen along with secretions, so a drop in SpO₂ and a rise in heart rate are signals that the client needs to recover before another pass. The nurse reoxygenates and reassesses SpO₂, HR, and breath sounds, and only then decides whether a second pass is needed. Going straight to a second pass is tempting because secretions are still audible, but it stacks one oxygen loss on top of another. Saline instillation and higher pressure are not appropriate ways to speed the process.",
+   "rationale": "Each suction pass removes oxygen along with secretions, so a drop in SpO₂ and a rise in heart rate are signals that the client needs to recover before another pass. The nurse reoxygenates and reassesses SpO₂, HR, and breath sounds, and only then decides whether a second pass is needed. Going straight to a second pass, even after listening to the lungs, is tempting because secretions are still audible, but it stacks one oxygen loss on top of another. A brief drop that corrects with reoxygenation does not by itself require calling the provider.",
    "takeaway": "Between suction passes, reoxygenate and reassess before going again.",
    "cjmm": "Take Action",
    "focus": "Prioritization",
    "hintContent": "Think about what the drop in SpO₂ tells you about the client's tolerance.",
-   "hintStrategy": "In procedure sequence items, finishing the task never outranks the client's response to it."
+   "hintStrategy": "In procedure sequence items, finishing the task never outranks the client's response to it.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-060",
@@ -2204,15 +2241,15 @@
    "stem": "A 45-year-old client is recovering from procedural sedation in the endoscopy unit. The client is drowsy but responds to voice, has just started gagging, and says, \"I'm going to throw up.\" The client is lying on the back with the head of the stretcher flat. Which action should the nurse take first?",
    "options": [
     "Give the prescribed PRN antiemetic intravenously",
-    "Offer the client small sips of ginger ale",
-    "Place a pillow under the client's knees for comfort",
+    "Set up suction equipment at the bedside",
+    "Hand the client an emesis basin",
     "Turn the client onto the side"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. An antiemetic takes time to work and does not protect the airway from vomit right now.",
-    "Incorrect. Fluids by mouth increase the risk of aspiration in a drowsy, nauseated client.",
-    "Incorrect. This keeps the client flat on the back, where aspiration risk is highest.",
+    "Incorrect. The antiemetic will help the nausea, but it will not act fast enough to prevent aspiration in the next few seconds.",
+    "Incorrect. Suction should be ready, but setting it up while the client lies flat leaves the airway unprotected if vomiting starts.",
+    "Incorrect. A basin is useful, but a drowsy client lying flat may still aspirate; positioning protects the airway.",
     "Correct. Side-lying lets vomit drain out of the mouth instead of into the airway in a drowsy client."
    ],
    "rationale": "A drowsy client who is about to vomit is at high risk for aspiration because protective reflexes are reduced. Turning the client onto the side protects the airway by letting vomit drain out of the mouth rather than into the lungs. Giving the antiemetic is tempting because it treats the nausea, but it will not work fast enough to prevent aspiration in the next few seconds. Once the airway is protected, the nurse can give the antiemetic and have suction ready.",
@@ -2220,7 +2257,8 @@
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "hintContent": "Consider what could enter the airway in the next few seconds.",
-   "hintStrategy": "When a threat to the airway is imminent, choose the action that protects it immediately over one that treats the symptom."
+   "hintStrategy": "When a threat to the airway is imminent, choose the action that protects it immediately over one that treats the symptom.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-061",
@@ -2235,24 +2273,25 @@
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
    "stem": "The nurse is helping a client with severe COPD bathe at the sink. Partway through, the client becomes very short of breath, RR rises to 32/min, and SpO₂ drops from 90% to 85% on the prescribed 2 L/min by nasal cannula. Which action should the nurse take first?",
    "options": [
-    "Finish the bath quickly so the client can rest sooner",
+    "Coach pursed-lip breathing and continue the bath slowly",
     "Increase the oxygen to 6 L/min until the bath is done",
     "Stop the bath and help the client rest sitting upright",
     "Call the rapid response team for the drop in SpO₂"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Continuing the activity increases oxygen demand and worsens the dyspnea.",
+    "Incorrect. Pursed-lip breathing eases dyspnea, but continuing the bath keeps oxygen demand above what the client can tolerate.",
     "Incorrect. Raising the flow well above what is needed can increase CO₂ retention and does not address the excess demand.",
     "Correct. Stopping the activity and resting upright lowers oxygen demand and eases breathing; the nurse then reassesses SpO₂ and RR.",
     "Incorrect. Activity-related desaturation usually responds to rest; rapid response is needed if the client does not recover."
    ],
-   "rationale": "Clients with severe lung disease use much of their energy just to breathe, so ADLs can quickly exceed their reserve. Monitoring activity tolerance means watching HR, RR, SpO₂, and dyspnea before, during, and after activity, and stopping when the client cannot tolerate it. Resting upright reduces oxygen demand and makes breathing easier. Finishing the bath quickly is tempting because it seems kind, but it keeps demand high. Afterward, the nurse plans rest periods and breaks ADLs into smaller steps.",
+   "rationale": "Clients with severe lung disease use much of their energy just to breathe, so ADLs can quickly exceed their reserve. Monitoring activity tolerance means watching HR, RR, SpO₂, and dyspnea before, during, and after activity, and stopping when the client cannot tolerate it. Resting upright reduces oxygen demand and makes breathing easier. Continuing the bath with pursed-lip breathing is tempting because the technique helps, but it keeps demand high. Afterward, the nurse plans rest periods and breaks ADLs into smaller steps.",
    "takeaway": "If a client desaturates during an ADL, stop the activity and let them rest upright before anything else.",
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "hintContent": "Think about what is causing the drop in SpO₂ and what removes that cause.",
-   "hintStrategy": "For activity intolerance, the first action removes the extra demand before adding treatments."
+   "hintStrategy": "For activity intolerance, the first action removes the extra demand before adding treatments.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-062",
@@ -2320,7 +2359,8 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
    "hintContent": "Look for the client whose data show a problem with gas exchange now.",
-   "hintStrategy": "In assignment exhibits, eliminate clients whose data are within normal limits, then choose the one with abnormal oxygenation."
+   "hintStrategy": "In assignment exhibits, eliminate clients whose data are within normal limits, then choose the one with abnormal oxygenation.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-063",
@@ -2335,24 +2375,25 @@
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
    "stem": "An AP tells the nurse, \"The client with emphysema in room 12 is sitting on the edge of the bed leaning on the overbed table. Should I lay her back so she can rest?\" The client's SpO₂ is 90% on 2 L/min by nasal cannula (target 88–92%), and she says she is comfortable. Which response by the nurse is best?",
    "options": [
-    "\"Yes, lay her flat so her back muscles can relax.\"",
+    "\"Ask her whether she would like to lie back and rest.\"",
     "\"Let her stay that way; leaning forward helps her breathe.\"",
     "\"Raise her to semi-Fowler's and lower the overbed table.\"",
     "\"Ask her to sit back in bed and take slow, deep breaths.\""
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Lying flat lets abdominal organs push against the diaphragm and worsens breathing.",
+    "Incorrect. Offering the client a choice is respectful, but suggesting she lie back steers her toward a position that limits lung expansion.",
     "Correct. The tripod position helps the accessory muscles lift the chest and is a position many clients with COPD choose on their own.",
-    "Incorrect. Moving her out of a position that is working for her could worsen her breathing.",
-    "Incorrect. Changing her position is unnecessary because she is comfortable and within her SpO₂ target."
+    "Incorrect. Semi-Fowler's is a common position for dyspnea, but it removes the forward lean that is easing her breathing, and she is comfortable within her target.",
+    "Incorrect. Slow, deep breaths can help, but sitting back takes away the forward lean that lets her accessory muscles work; she is comfortable, so no change is needed."
    ],
    "rationale": "In the tripod position, the client sits leaning forward with the arms on the knees or an overbed table, which allows the accessory muscles to help lift the chest. Many clients with COPD adopt it naturally because it eases the work of breathing. Laying the client back is tempting because it looks more restful, but lying flat pushes the abdomen up against the diaphragm and limits lung expansion. The nurse explains why the position helps and lets the client stay in it.",
    "takeaway": "A client with COPD in the tripod position is helping herself breathe; do not lay her flat.",
    "cjmm": "Analyze Cues",
    "focus": "Delegation & Safety",
    "hintContent": "Think about how leaning forward on the arms affects the breathing muscles.",
-   "hintStrategy": "If the client is comfortable and within target, the best answer usually supports what is already working."
+   "hintStrategy": "If the client is comfortable and within target, the best answer usually supports what is already working.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-064",
@@ -2491,22 +2532,23 @@
    "options": [
     "Have her take her prescribed albuterol inhaler now",
     "Have her take two more puffs of fluticasone/salmeterol",
-    "Wait 30 more minutes for the fluticasone/salmeterol to work",
-    "Give her scheduled theophylline dose early"
+    "Recheck her SpO₂ and breath sounds in 15 minutes",
+    "Teach her how rescue and controller inhalers differ"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. Albuterol is the rescue (quick-relief) medication and opens the airways within minutes.",
     "Incorrect. Fluticasone/salmeterol is a controller; extra puffs will not relieve an acute attack and add LABA and steroid exposure.",
-    "Incorrect. The combination inhaler will not work fast enough, and waiting lets the attack progress.",
-    "Incorrect. Theophylline is a scheduled controller, and taking it early increases the risk of toxicity."
+    "Incorrect. Reassessment is needed, but only after treatment; waiting 15 minutes leaves an active attack untreated.",
+    "Incorrect. This teaching is important, but it should come after the attack is treated with albuterol."
    ],
    "rationale": "Only the short-acting beta-agonist, albuterol, opens the airways within minutes and is used for rescue. Fluticasone/salmeterol combines an inhaled corticosteroid with a long-acting beta-agonist; both are controllers taken every day to prevent attacks, not to treat them. The client's mistake is a common one, and the tempting wrong answer is to give more of the medication she already took. The nurse has her use albuterol now, reassesses, and then reteaches the difference between rescue and controller medications.",
    "takeaway": "Rescue = albuterol; controllers (including fluticasone/salmeterol) never treat an acute attack.",
    "cjmm": "Take Action",
    "focus": "Pharmacology",
    "hintContent": "Sort each drug into rescue or controller.",
-   "hintStrategy": "In acute-symptom items, choose the drug that works in minutes; controllers are always wrong for a rescue."
+   "hintStrategy": "In acute-symptom items, choose the drug that works in minutes; controllers are always wrong for a rescue.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-067",
@@ -2591,16 +2633,16 @@
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
    "stem": "A 67-year-old client with chronic bronchitis takes theophylline extended-release twice daily. The serum level today is within the therapeutic range. The client reports feeling nervous and having trouble sleeping and says, \"I drink about six cups of coffee and a couple of energy drinks every day.\" Which instruction is most important for the nurse to give?",
    "options": [
-    "\"Take your theophylline dose with a full glass of milk.\"",
+    "\"Take your theophylline at the same times each day.\"",
     "\"Cut back on coffee, energy drinks, and other caffeine.\"",
-    "\"Switch to taking your theophylline once a day at bedtime.\"",
+    "\"Avoid smoking, since it changes your theophylline level.\"",
     "\"Take an extra dose when you feel short of breath.\""
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Taking it with milk does not address the cause of the symptoms.",
+    "Incorrect. Consistent timing is good practice, but it does not address the caffeine that is causing the stimulant symptoms.",
     "Correct. Caffeine is also a xanthine and adds to theophylline's stimulant effects, raising the risk of toxicity.",
-    "Incorrect. Changing the dosing schedule requires a prescription and does not address caffeine.",
+    "Incorrect. Smoking does affect theophylline levels, but this client's symptoms are explained by heavy caffeine intake.",
     "Incorrect. Theophylline is a controller with a narrow therapeutic range; extra doses can cause toxicity."
    ],
    "rationale": "Theophylline and caffeine are both xanthines, so large amounts of caffeine add to theophylline's effects and can push the client toward toxicity even when the level was in range. Nervousness, restlessness, and insomnia are early signs of excess xanthine effect. Teaching the client to limit caffeine is the most important instruction. Taking an extra dose for dyspnea is a tempting misunderstanding because theophylline is a bronchodilator, but it is a scheduled controller with a narrow therapeutic index, not a rescue drug.",
@@ -2608,7 +2650,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Pharmacology",
    "hintContent": "Consider which substances share theophylline's drug class.",
-   "hintStrategy": "When a client reports a habit in the stem, the answer often addresses that habit's interaction with the drug."
+   "hintStrategy": "When a client reports a habit in the stem, the answer often addresses that habit's interaction with the drug.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-070",
@@ -2624,23 +2667,24 @@
    "stem": "A 74-year-old man with COPD started scheduled ipratropium nebulizer treatments yesterday. He tells the nurse he has not urinated in 10 hours despite drinking fluids and feels full and uncomfortable in his lower abdomen. Which action should the nurse take first?",
    "options": [
     "Encourage him to drink another 500 mL of fluid",
-    "Give the next scheduled ipratropium dose",
+    "Notify the provider before giving the next dose",
     "Assess for bladder distention with a bladder scan",
-    "Document the finding as an expected effect"
+    "Help him stand at the toilet and run the water"
    ],
    "answer": 2,
    "optionRationales": [
     "Incorrect. More fluid will not help if the bladder cannot empty and may worsen distention.",
-    "Incorrect. Another dose of an anticholinergic could worsen urinary retention before it is evaluated.",
+    "Incorrect. The provider should be notified, but the nurse first confirms bladder distention so the report includes the findings.",
     "Correct. Anticholinergics such as ipratropium can cause urinary retention; the nurse first confirms the problem by assessing the bladder.",
-    "Incorrect. Urinary retention is an adverse effect that needs assessment and reporting, not just documentation."
+    "Incorrect. Helping him try to void is reasonable, but the nurse first assesses how full the bladder is to guide care and the report."
    ],
    "rationale": "Ipratropium blocks acetylcholine, which explains its \"drying\" side effects: dry mouth, blurred vision, and urinary retention. Older men, especially those with an enlarged prostate, are at higher risk. When a client reports no urine output and lower abdominal fullness, the nurse first assesses for bladder distention, often with a bladder scan, then reports the findings to the provider before the next dose. Encouraging fluids is the tempting answer because low output often means dehydration, but here the problem is the bladder not emptying.",
    "takeaway": "New urinary retention on an anticholinergic: assess the bladder, then report before the next dose.",
    "cjmm": "Recognize Cues",
    "focus": "Pharmacology",
    "hintContent": "Recall the anticholinergic side effects of ipratropium.",
-   "hintStrategy": "When a new symptom could be a drug effect, assess to confirm before acting or giving more of the drug."
+   "hintStrategy": "When a new symptom could be a drug effect, assess to confirm before acting or giving more of the drug.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-071",
@@ -2654,15 +2698,15 @@
    "stem": "A client with COPD who could not tolerate albuterol has started an ipratropium inhaler. At a follow-up visit, he says, \"My mouth is so dry all the time.\" The client has no other new symptoms. Which instruction should the nurse give?",
    "options": [
     "\"Stop the inhaler and call your provider for a new one.\"",
-    "\"Use the inhaler only when you feel short of breath.\"",
-    "\"Spray the medication toward the back of your throat.\"",
+    "\"Ask your provider whether a lower dose would help.\"",
+    "\"Dry mouth is expected and should go away in a week.\"",
     "\"Try sugar-free hard candy and frequent sips of water.\""
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Dry mouth is a common, expected effect and does not by itself require stopping the drug.",
-    "Incorrect. Scheduled ipratropium is a controller; using it only for symptoms reduces its benefit.",
-    "Incorrect. Aiming the spray at the throat deposits more drug there and does not prevent dry mouth.",
+    "Incorrect. Stopping is not needed for an expected, harmless effect, and he could not tolerate the alternative bronchodilator.",
+    "Incorrect. Contacting the provider is reasonable if symptoms persist, but simple measures usually control dry mouth without changing the dose.",
+    "Incorrect. Dry mouth is an expected effect, but it often persists with use; the client needs ways to manage it.",
     "Correct. Sugar-free candy and sips of water relieve the dry mouth caused by the anticholinergic effect."
    ],
    "rationale": "Anticholinergics block acetylcholine, which normally stimulates secretions, so dry mouth is one of their most common side effects. It is expected and can be managed with sugar-free candy, sips of water, and good oral care. Stopping the drug is tempting because the client is uncomfortable, but this effect is not dangerous and the drug was chosen because he could not tolerate beta-agonists. The nurse also reminds the client to report urinary retention or eye pain, which are more serious anticholinergic effects.",
@@ -2670,7 +2714,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Client Teaching",
    "hintContent": "Consider whether this effect is expected and how it can be managed.",
-   "hintStrategy": "For side-effect questions, decide first whether the effect is expected or dangerous; expected effects call for comfort measures."
+   "hintStrategy": "For side-effect questions, decide first whether the effect is expected or dangerous; expected effects call for comfort measures.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-072",
@@ -2738,7 +2783,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Client Teaching",
    "hintContent": "Consider what moves the medication out of a device that has no spray.",
-   "hintStrategy": "When a client switches devices, look for the answer that corrects the habit from the old device."
+   "hintStrategy": "When a client switches devices, look for the answer that corrects the habit from the old device.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-074",
@@ -2753,22 +2799,23 @@
    "options": [
     "Ask the client to remain in the clinic for observation per policy",
     "Give the client an antihistamine to take if itching starts",
-    "Document the injection and let the client leave as planned",
+    "Teach the client the signs of anaphylaxis and when to call 911",
     "Teach the client to use the albuterol inhaler if wheezing occurs"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. Anaphylaxis usually begins soon after the injection, so clients are observed in a setting with epinephrine available, often for about 30 minutes.",
-    "Incorrect. An antihistamine does not treat anaphylaxis and does not replace observation.",
-    "Incorrect. Leaving immediately removes the client from a setting where anaphylaxis can be treated.",
-    "Incorrect. Albuterol is not first-line for anaphylaxis, and the client should not be managing a reaction alone."
+    "Incorrect. An antihistamine may ease itching, but it does not treat anaphylaxis, which can start soon after the injection.",
+    "Incorrect. Teaching warning signs is helpful, but a reaction can progress quickly; the client should be observed where epinephrine is available.",
+    "Incorrect. Albuterol relieves wheezing but does not treat anaphylaxis, so it does not replace the observation period."
    ],
    "rationale": "Immunotherapy injects small amounts of allergen and can trigger anaphylaxis. It is given only where emergency equipment and epinephrine are ready, and the client is observed after each injection per clinic policy, often for about 30 minutes, because most serious reactions start in that window. Letting the client leave with an antihistamine or albuterol is tempting because it seems to meet the client's need, but neither treats anaphylaxis. The nurse explains the reason for the wait and respects the client's concern while keeping them safe.",
    "takeaway": "After an allergy shot, the client stays for observation where epinephrine is available.",
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
    "hintContent": "Recall when anaphylaxis is most likely after immunotherapy and what treats it.",
-   "hintStrategy": "Safety outranks convenience; choose the option that keeps the client where a reaction can be treated."
+   "hintStrategy": "Safety outranks convenience; choose the option that keeps the client where a reaction can be treated.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-075",
@@ -2824,15 +2871,15 @@
    "stem": "A 31-year-old client with asthma takes fluticasone/salmeterol twice daily. At a routine visit, he says, \"I've needed my albuterol about four times a day this past week, but I'm managing fine.\" Which action should the nurse take?",
    "options": [
     "Praise the client for using his rescue inhaler as directed",
-    "Tell him to double his fluticasone/salmeterol dose",
-    "Suggest stopping the fluticasone/salmeterol since albuterol works",
+    "Reteach the client how to use his albuterol inhaler",
+    "Ask him to keep a diary of albuterol use for 2 weeks",
     "Report to the provider that his asthma is poorly controlled"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Frequent rescue use is a warning sign, not a sign of good management.",
-    "Incorrect. Changing the controller dose requires a prescription and could increase adverse effects.",
-    "Incorrect. Stopping the controller would let inflammation increase and worsen control.",
+    "Incorrect. He is using the rescue inhaler as directed, but frequent use signals poor control and should not be praised as success.",
+    "Incorrect. Reviewing technique is reasonable, but albuterol is working; the problem is that the controller plan is not keeping inflammation down.",
+    "Incorrect. A diary can help track symptoms, but daily rescue use is already a warning sign and waiting 2 weeks delays a plan change.",
     "Correct. Needing the rescue inhaler more often means the asthma is poorly controlled, and the treatment plan needs to be re-evaluated."
    ],
    "rationale": "A rescue inhaler should be needed only occasionally. Using albuterol several times a day means the airway inflammation is not controlled, which is a warning sign that can come before a severe attack. The client's statement that he is \"managing fine\" is the tempting cue to accept, but frequent rescue use is not managing; it should be reported so the provider can re-evaluate the plan. The nurse also checks inhaler technique and adherence to the controller.",
@@ -2840,7 +2887,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Pharmacology",
    "hintContent": "Think about what frequent albuterol use says about the underlying inflammation.",
-   "hintStrategy": "When a client minimizes a symptom, judge by the data, not by the client's interpretation."
+   "hintStrategy": "When a client minimizes a symptom, judge by the data, not by the client's interpretation.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-077",
@@ -2906,7 +2954,8 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
    "hintContent": "Ask which reaction could threaten the airway within minutes.",
-   "hintStrategy": "In prioritization exhibits, cross off expected drug effects first, then choose the one that could become an airway emergency."
+   "hintStrategy": "In prioritization exhibits, cross off expected drug effects first, then choose the one that could become an airway emergency.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-078",
@@ -2921,24 +2970,25 @@
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
    "stem": "A 22-year-old client with moderate persistent asthma has been using an inhaled corticosteroid. The nurse reviews a new prescription: \"Discontinue inhaled fluticasone. Start salmeterol 1 inhalation twice daily.\" No other controller is prescribed. Which action should the nurse take?",
    "options": [
-    "Teach the client to use salmeterol as the new rescue inhaler",
+    "Teach the client how salmeterol differs from an albuterol inhaler",
     "Contact the provider to clarify the prescription before teaching",
     "Give the first dose and teach the client to rinse and spit",
-    "Tell the client to use salmeterol only when wheezing starts"
+    "Document the change and teach the new dosing schedule"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Salmeterol is a long-acting controller; it is never used as a rescue drug.",
+    "Incorrect. This teaching is useful, but the prescription itself is unsafe and must be clarified before any teaching begins.",
     "Correct. In asthma, a LABA is never used alone because LABA monotherapy raises the risk of severe asthma attacks; it is paired with an inhaled corticosteroid.",
-    "Incorrect. Implementing the prescription without clarification could put the client at risk.",
-    "Incorrect. A LABA is a scheduled controller and does not work fast enough for acute symptoms."
+    "Incorrect. Rinsing after inhaled steroids is good teaching, but giving salmeterol alone carries out an unsafe prescription.",
+    "Incorrect. Documenting and teaching are normal steps, but they implement a LABA without an inhaled steroid, which raises the risk of severe attacks."
    ],
-   "rationale": "Salmeterol is a long-acting beta-agonist that keeps airways open for about 12 hours. In asthma, a LABA is always combined with an inhaled corticosteroid, as in fluticasone/salmeterol, because using a LABA alone increases the risk of severe asthma attacks. A prescription that stops the steroid and starts a LABA alone should be clarified with the provider before it is implemented. Treating salmeterol as a rescue inhaler is a tempting error because it is a beta-agonist like albuterol, but its onset is too slow.",
+   "rationale": "Salmeterol is a long-acting beta-agonist that keeps airways open for about 12 hours. In asthma, a LABA is always combined with an inhaled corticosteroid, as in fluticasone/salmeterol, because using a LABA alone increases the risk of severe asthma attacks. A prescription that stops the steroid and starts a LABA alone should be clarified with the provider before it is implemented. Teaching how salmeterol differs from albuterol is tempting because the client will need it, but teaching an unsafe prescription comes after the prescription is corrected.",
    "takeaway": "In asthma, a LABA is never given alone; clarify any prescription for LABA monotherapy.",
    "cjmm": "Analyze Cues",
    "focus": "Pharmacology",
    "hintContent": "Recall the safety rule for long-acting beta-agonists in asthma.",
-   "hintStrategy": "When a prescription conflicts with a safety rule, the nurse clarifies before giving or teaching."
+   "hintStrategy": "When a prescription conflicts with a safety rule, the nurse clarifies before giving or teaching.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-079",
@@ -3014,14 +3064,14 @@
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
    "stem": "A 58-year-old client who is too short of breath to coordinate an inhaler is learning to use a home nebulizer for albuterol. Which observation indicates that the client is using the nebulizer correctly?",
    "options": [
-    "Lies back with the head of the bed flat during the treatment",
+    "Sits upright and breathes rapidly and deeply the whole time",
     "Sits upright and breathes normally until the mist stops",
     "Holds each breath for 10 seconds throughout the treatment",
     "Stops the treatment after 3 minutes when the mist is still present"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Lying flat limits lung expansion; the client should sit upright.",
+    "Incorrect. Upright posture is correct, but rapid deep breathing throughout can cause dizziness and fatigue; normal breaths with an occasional deep breath are enough.",
     "Correct. The client sits upright and breathes normally, with an occasional deep breath, until the medication cup is empty.",
     "Incorrect. Breath-holding on every breath is not needed with a nebulizer; normal breathing with an occasional deep breath is used.",
     "Incorrect. The treatment continues for about 10–15 minutes until the mist stops so the full dose is delivered."
@@ -3031,7 +3081,8 @@
    "cjmm": "Evaluate Outcomes",
    "focus": "Client Teaching",
    "hintContent": "Recall how nebulizer technique differs from inhaler technique.",
-   "hintStrategy": "When two devices are taught together, distractors often borrow steps from the other device."
+   "hintStrategy": "When two devices are taught together, distractors often borrow steps from the other device.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-081",
@@ -3047,15 +3098,15 @@
    "stem": "A 68-year-old client with COPD has taken prednisone 10 mg daily for 8 months. He tells the clinic nurse, \"I ran out 4 days ago and decided I didn't need it anymore.\" He reports weakness, dizziness when standing, and nausea. BP is 86/54 mm Hg and HR is 112/min. Which action should the nurse take first?",
    "options": [
     "Teach the client how a steroid taper is done",
-    "Tell the client to restart prednisone tomorrow morning",
-    "Schedule a follow-up appointment for next week",
+    "Tell the client to refill and restart his prednisone today",
+    "Encourage oral fluids and recheck the BP in 15 minutes",
     "Notify the provider of the findings right away"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Teaching is important, but the client's hypotension needs treatment first.",
-    "Incorrect. Restarting without provider direction delays care, and the client may need a higher dose or IV treatment now.",
-    "Incorrect. These findings cannot wait a week.",
+    "Incorrect. Teaching about tapering addresses the cause, but it should wait until the client's unstable vital signs are treated.",
+    "Incorrect. The client likely needs steroids, but hypotension and tachycardia need urgent provider evaluation; the dose and route must come from the provider.",
+    "Incorrect. Fluids and rechecks are supportive, but hypotension with tachycardia needs prompt medical treatment, not watchful waiting.",
     "Correct. Stopping long-term steroids suddenly can cause adrenal insufficiency because the body's own steroid production is suppressed; hypotension and weakness need prompt medical treatment."
    ],
    "rationale": "After months of systemic corticosteroids, the body's own steroid production is suppressed, which is why these drugs are tapered rather than stopped suddenly. Abrupt withdrawal can cause weakness, nausea, dizziness, and hypotension from inadequate steroid levels. This client is hypotensive and tachycardic, so the provider must be notified promptly for treatment. Teaching about tapering is tempting because the cause was a knowledge gap, but teaching comes after the client is stabilized. The nurse keeps the client lying down for safety while awaiting orders.",
@@ -3063,7 +3114,8 @@
    "cjmm": "Recognize Cues",
    "focus": "Pharmacology",
    "hintContent": "Consider what happens when long-term steroids are stopped abruptly.",
-   "hintStrategy": "When a client is hemodynamically unstable, treatment and notification come before teaching."
+   "hintStrategy": "When a client is hemodynamically unstable, treatment and notification come before teaching.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-082",
@@ -3095,7 +3147,8 @@
    "cjmm": "Take Action",
    "focus": "Pharmacology",
    "hintContent": "Ask which drug works within minutes to open the airways.",
-   "hintStrategy": "When multiple drugs are prescribed in an emergency, give the one with the fastest effect on the immediate problem first."
+   "hintStrategy": "When multiple drugs are prescribed in an emergency, give the one with the fastest effect on the immediate problem first.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-083",
@@ -3109,23 +3162,24 @@
    "stem": "Fifteen minutes after an albuterol nebulizer treatment, a client with asthma says, \"My hands are shaking and my heart is racing. Is something wrong with me?\" HR is 106/min and regular, and the wheezing has decreased. Which response by the nurse is best?",
    "options": [
     "\"I'll hold your next treatment because you're having a reaction.\"",
-    "\"You're likely anxious about your asthma, so try to relax.\"",
+    "\"I'll recheck your heart rate and rhythm in about 15 minutes.\"",
     "\"These are common albuterol effects that usually fade in a few hours.\"",
     "\"Your heart rate is dangerously high, so I'll call your provider.\""
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. These expected effects do not require holding a needed bronchodilator.",
-    "Incorrect. Attributing the symptoms to anxiety dismisses a real medication effect.",
+    "Incorrect. Holding treatment is not needed; these are expected effects and the wheezing is improving.",
+    "Incorrect. Continued monitoring is appropriate, but this does not answer the client's question or explain that the symptoms are expected.",
     "Correct. Tremor and mild tachycardia are expected beta-agonist effects; the nurse reassures the client while continuing to monitor.",
-    "Incorrect. A regular HR of 106 after albuterol is expected, not dangerous."
+    "Incorrect. A regular HR of 106/min after albuterol is expected; irregular pulse or chest pain would warrant a call."
    ],
    "rationale": "Beta-agonists are not perfectly selective; they also stimulate the heart and skeletal muscle, causing tachycardia, palpitations, tremor, and nervousness. A mild tremor and a regular heart rate of about 100–110 after albuterol are expected, especially when the wheezing is improving. The tempting wrong answer calls the provider for a \"dangerous\" HR, but new irregular pulse, muscle weakness, or low potassium are the findings that need follow-up. The nurse explains the effect, reassures the client, and continues monitoring.",
    "takeaway": "Tremor and a regular HR around 100–110 after albuterol are expected; irregular pulse or weakness is not.",
    "cjmm": "Generate Solutions",
    "focus": "Pharmacology",
    "hintContent": "Recall which albuterol effects are expected and which need follow-up.",
-   "hintStrategy": "For \"best response\" items, choose accurate information that addresses the client's worry without false alarm or dismissal."
+   "hintStrategy": "For \"best response\" items, choose accurate information that addresses the client's worry without false alarm or dismissal.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x2-084",

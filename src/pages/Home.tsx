@@ -1,7 +1,6 @@
 import { useMemo } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import { MODULE_BY_ID, UNITS, getTopic, unitModules } from '../data';
-import { NewBadge } from '../components/UnitOverview';
 import { Icon, type IconName } from '../components/Icon';
 import { emptyFilters, matchQuestions, recommendations, recordsFromAttempts, smartPick, statusOf, streak } from '../lib/analytics';
 import { createSession } from '../lib/session';
@@ -49,7 +48,7 @@ export function Home() {
   let next: { label: string; title: string; detail: string; to: string; cta: string };
   if (active) next = { label: 'Pick up where you left off', title: active.title, detail: `Question ${active.idx + 1} of ${active.qids.length}`, to: '/session', cta: 'Resume session' };
   else if (lastT && lastM) next = { label: 'Continue reading', title: lastT.title, detail: `Module ${lastM.number} · ${lastM.title}`, to: `/learn/${lastMid}/${lastTid}`, cta: 'Open lesson' };
-  else next = { label: 'Start here', title: firstUnit.title, detail: `${firstUnit.label} · read a lesson, then practice its questions`, to: `/learn/${firstUnit.slug}`, cta: `Open ${firstUnit.label}` };
+  else next = { label: 'Start here', title: firstUnit.title, detail: `${firstUnit.eyebrow}. Read a lesson, then practice its questions.`, to: `/learn/${firstUnit.slug}`, cta: 'Open this unit' };
 
   return (
     <div className="container home">
@@ -97,7 +96,7 @@ export function Home() {
             All lessons <Icon name="arrowRight" />
           </Link>
         </div>
-        <ul className="row-list">
+        <div className="unit-cards">
           {UNITS.map((u) => {
             const mods = unitModules(u);
             const topics = mods.flatMap((m) => m.topics.map((t) => `${m.id}:${t.id}`));
@@ -105,26 +104,26 @@ export function Home() {
             const qs = mods.flatMap((m) => m.questions);
             const mm = qs.filter((q) => statusOf(attempts, q.id) === 'mastered').length;
             return (
-              <li key={u.slug}>
-                <Link to={`/learn/${u.slug}`} className="row-link">
-                  <div className="row-main">
-                    <span className="row-kicker">
-                      {u.eyebrow} {u.isNew && <NewBadge />}
-                    </span>
-                    <strong>{u.title}</strong>
-                    <span className="row-sub">
-                      {done}/{topics.length} lessons read · {mm}/{qs.length} questions mastered
-                    </span>
-                  </div>
-                  <div className="row-progress" aria-hidden="true">
+              <Link key={u.slug} to={`/learn/${u.slug}`} className={u.isNew ? 'unit-card is-new' : 'unit-card'}>
+                <span className="uc-top">
+                  <span className="uc-eyebrow">{u.eyebrow}</span>
+                  {u.isNew && <span className="uc-new">New</span>}
+                </span>
+                <h3>{u.title}</h3>
+                <p className="uc-desc">{u.overview}</p>
+                <span className="uc-modules">{mods.map((m) => m.title).join(' · ')}</span>
+                <span className="uc-foot">
+                  <span className="uc-bar" aria-hidden="true">
                     <i style={{ width: `${(done / Math.max(1, topics.length)) * 100}%` }} />
-                  </div>
-                  <Icon name="chevronRight" className="row-chev" />
-                </Link>
-              </li>
+                  </span>
+                  <span>
+                    {done}/{topics.length} lessons read · {mm}/{qs.length} mastered
+                  </span>
+                </span>
+              </Link>
             );
           })}
-        </ul>
+        </div>
       </section>
 
       {answered > 0 && (

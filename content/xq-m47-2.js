@@ -63,7 +63,8 @@ window.NURSE_DATA.push({
       "focus": "Prioritization",
       "difficulty": 3,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m47-x2-002",
@@ -106,19 +107,19 @@ window.NURSE_DATA.push({
         ]
       },
       "options": [
-        "Temperature of 37.1 °C (98.8 °F)",
+        "Nausea and abdominal pain that began 1 day ago",
         "Deep, rapid respirations with a fruity breath odor",
         "A1C of 7.2% measured 6 months ago",
-        "Use of HSA funds to buy glucose test strips"
+        "Report of taking half her insulin doses until January"
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. This temperature is within normal limits and does not need urgent action.",
+        "Incorrect. These symptoms fit diabetic ketoacidosis and need evaluation, but they are less specific and less dangerous than the breathing pattern, which shows severe acidosis.",
         "Correct. Deep, rapid respirations and fruity breath with a high glucose suggest diabetic ketoacidosis from insulin rationing, a life-threatening emergency.",
-        "Incorrect. An A1C from 6 months ago reflects past control and does not explain today’s acute symptoms.",
-        "Incorrect. Using HSA money for supplies is an appropriate use of the account, not a problem."
+        "Incorrect. An A1C above goal deserves follow-up at a later visit, but it reflects past control and does not explain today’s acute symptoms.",
+        "Incorrect. Insulin rationing is the likely cause and must be addressed before she leaves, but it is history; the breathing pattern shows the danger happening now."
       ],
-      "rationale": "Consumer-driven plans lower premiums but push early-year costs onto the client, and some clients ration insulin until the deductible is met. In type 1 diabetes, cutting insulin can quickly cause diabetic ketoacidosis, shown here by hyperglycemia, Kussmaul-type breathing, fruity breath, nausea, and abdominal pain. That respiratory finding signals an acute metabolic emergency and needs immediate follow-up. The financing details explain why it happened but are addressed after the client is stabilized.",
+      "rationale": "Consumer-driven plans lower premiums but push early-year costs onto the client, and some clients ration insulin until the deductible is met. In type 1 diabetes, cutting insulin can quickly cause diabetic ketoacidosis, shown here by hyperglycemia, Kussmaul breathing, fruity breath, nausea, and abdominal pain. The respiratory finding signals severe metabolic acidosis and needs immediate follow-up. The report of insulin rationing is tempting because it explains the problem, but it is addressed once the client is stabilized.",
       "takeaway": "Insulin rationing for cost can cause DKA; the physical cues of DKA come before the financial fix.",
       "hintContent": "Which finding shows the body compensating for a dangerous acid-base problem?",
       "hintStrategy": "When an exhibit mixes money details with clinical data, choose the abnormal physical finding that signals an acute threat.",
@@ -128,7 +129,8 @@ window.NURSE_DATA.push({
       "focus": "Assessment Findings",
       "difficulty": 2,
       "clientNeed": "Physiological Integrity: Physiological Adaptation",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m47-x2-003",
@@ -136,19 +138,19 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "A 61-year-old client with newly diagnosed heart failure will be discharged tomorrow with prescriptions for furosemide, metoprolol, and sacubitril-valsartan. He tells the nurse that his company closed last week and his employer coverage ends in 10 days. Which action by the nurse is the priority?",
       "options": [
-        "Advise him to take each medication every other day until coverage begins",
-        "Tell him Medicare will start automatically because he is close to age 65",
-        "Give him the clinic phone number and document his financial concern",
+        "Ask the prescriber to switch his medicines to lower-cost generics",
+        "Teach him to fill all three prescriptions before his coverage ends",
+        "Give him a list of low-cost community clinics and pharmacies nearby",
         "Refer him to case management today to review COBRA, Marketplace, and Medicaid"
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. Stretching heart failure medications risks fluid overload and decompensation.",
-        "Incorrect. Medicare generally begins at 65, not because a client is close to that age.",
-        "Incorrect. Documenting without acting leaves a known coverage gap unsolved at discharge.",
-        "Correct. A same-day referral lets the team review COBRA, a special enrollment Marketplace plan, or Medicaid before his medicines run out."
+        "Incorrect. Lower-cost drugs are reasonable, but they do not replace lost coverage for follow-up visits, labs, and future refills.",
+        "Incorrect. Filling prescriptions now helps for a month, but it is a short-term fix and leaves him uninsured afterward.",
+        "Incorrect. Resource lists are helpful, but they leave a newly diagnosed client to sort out coverage alone instead of getting expert help before discharge.",
+        "Correct. A same-day referral lets the team review COBRA, a special enrollment Marketplace plan, or Medicaid before discharge, which protects both his medicines and his follow-up care."
       ],
-      "rationale": "Most adults get coverage through work, so a job loss can cut off medicines and follow-up care right when a client needs them most. When coverage is ending, the nurse refers to case management or social work the same day so options can be reviewed before discharge: COBRA, a Marketplace plan through a special enrollment period, or Medicaid if income is low. Telling him Medicare will start is tempting because 61 sounds close to 65, but eligibility is based on age 65 or qualifying disability, not nearness to it. Advising him to stretch doses is unsafe.",
+      "rationale": "Most adults get coverage through work, so a job loss can cut off medicines and follow-up care right when a client needs them most. When coverage is ending, the nurse refers to case management or social work the same day so options can be reviewed before discharge: COBRA, a Marketplace plan through a special enrollment period, or Medicaid if income is low. Generic drugs, early refills, or a resource list are tempting because each eases cost, but each solves only part of the problem and leaves him without coverage for ongoing heart failure care.",
       "takeaway": "A coverage lapse at discharge is a safety risk; refer to case management the same day.",
       "hintContent": "Which programs can bridge the gap after employer coverage ends for someone under 65?",
       "hintStrategy": "Pick the option that solves the problem before discharge; eliminate answers that only document or give false reassurance.",
@@ -158,7 +160,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m47-x2-004",
@@ -167,18 +170,18 @@ window.NURSE_DATA.push({
       "stem": "A 74-year-old client with Original Medicare Parts A and B and a Medigap policy is being discharged after a pulmonary embolism with a new prescription for apixaban. She has no Part D plan. She says, “Medigap pays whatever Medicare doesn’t, so my blood thinner is covered.” What is the nurse’s priority action?",
       "options": [
         "Notify the case manager and prescriber that she lacks drug coverage",
-        "Reassure her that Medigap pays the drug costs Medicare leaves behind",
+        "Teach her that Medigap does not cover outpatient prescriptions",
         "Teach bleeding precautions and complete the discharge as scheduled",
         "Advise her to enroll in a Part D plan at the next open enrollment"
       ],
       "answer": 0,
       "optionRationales": [
-        "Correct. Without drug coverage she may not fill the anticoagulant, so the team must solve access before she leaves.",
-        "Incorrect. Medigap pays Original Medicare cost-sharing such as deductibles and coinsurance; it does not supply outpatient drug coverage.",
-        "Incorrect. Bleeding teaching matters, but discharging without confirming she can obtain the drug risks a recurrent clot.",
-        "Incorrect. Waiting for open enrollment leaves a gap in anticoagulation now."
+        "Correct. Without drug coverage she may not fill the anticoagulant, so the case manager and prescriber must solve access before she leaves.",
+        "Incorrect. Correcting her belief is accurate teaching, but it does not get her the apixaban she needs today.",
+        "Incorrect. Bleeding precautions are needed for any anticoagulant, but discharging her without drug coverage risks a missed dose and another embolism.",
+        "Incorrect. Part D enrollment is a reasonable long-term step, but waiting for open enrollment leaves her without the drug now."
       ],
-      "rationale": "Medigap fills the cost-sharing gaps of Original Medicare, such as Part A and Part B deductibles and coinsurance, but outpatient prescription coverage comes from Part D or a Medicare Advantage plan that includes drugs. This client’s belief means she may arrive at the pharmacy unable to pay for an anticoagulant she needs to prevent another embolism. The priority is to alert the case manager and prescriber so drug coverage or a lower-cost option is in place before discharge. Reassuring her is tempting because Medigap sounds comprehensive, but it reinforces a dangerous misconception.",
+      "rationale": "Medigap fills the cost-sharing gaps of Original Medicare, such as Part A and Part B deductibles and coinsurance, but outpatient prescription coverage comes from Part D or a Medicare Advantage plan that includes drugs. This client’s belief means she may arrive at the pharmacy unable to pay for an anticoagulant she needs to prevent another embolism. The priority is to alert the case manager and prescriber so drug coverage or a lower-cost option is in place before discharge. Correcting her misconception is tempting because it is accurate teaching, but teaching alone does not put the drug in her hands.",
       "takeaway": "Medigap fills Original Medicare’s cost-sharing gaps; outpatient drugs need Part D or an Advantage plan with drugs.",
       "hintContent": "Which part of Medicare pays for outpatient prescriptions, and does she have it?",
       "hintStrategy": "When a client states a false belief that could stop a high-risk drug, choose the action that fixes access before discharge, not later.",
@@ -188,7 +191,8 @@ window.NURSE_DATA.push({
       "focus": "Pharmacology",
       "difficulty": 3,
       "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m47-x2-005",
@@ -218,7 +222,8 @@ window.NURSE_DATA.push({
       "focus": "Prioritization",
       "difficulty": 2,
       "clientNeed": "Physiological Integrity: Physiological Adaptation",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m47-x2-006",
@@ -227,18 +232,18 @@ window.NURSE_DATA.push({
       "stem": "A client with a PPO plan calls the nurse advice line while visiting another state. He reports severe right lower abdominal pain for 6 hours, a temperature of 38.9 °C (102 °F), and repeated vomiting. He asks whether he should drive 45 minutes to an in-network hospital so he is not billed more. Which response is best?",
       "options": [
         "“Get to the nearest emergency department now; in-network rates still apply.”",
-        "“Drive to the in-network hospital so your plan will pay at the lower rate.”",
-        "“Call your insurer for preauthorization first, then go to the nearest hospital.”",
-        "“Go to an in-network urgent care tomorrow if the pain is still present.”"
+        "“Have someone drive you to the in-network hospital 45 minutes away.”",
+        "“Call your insurer to find the closest covered hospital, then go.”",
+        "“Go to the nearest urgent care center now so you can be examined.”"
       ],
       "answer": 0,
       "optionRationales": [
-        "Correct. His symptoms suggest an acute abdomen, and emergency care is covered without prior approval at in-network cost-sharing.",
-        "Incorrect. Driving 45 minutes while ill delays care and is unsafe.",
-        "Incorrect. Emergency care does not require preauthorization, and calling first delays treatment.",
-        "Incorrect. Waiting until tomorrow risks rupture if this is appendicitis."
+        "Correct. His symptoms suggest appendicitis, and emergency care is covered without prior approval at in-network cost-sharing, so the closest emergency department is best.",
+        "Incorrect. Not driving himself is safe advice, but the extra 45 minutes delays care for a possible acute abdomen, and emergency care is covered at in-network rates anyway.",
+        "Incorrect. Checking coverage sounds responsible, but the call delays care and emergency services do not need prior approval.",
+        "Incorrect. Acting now is right, but urgent care cannot do surgery or advanced imaging, so he would likely be transferred, delaying treatment."
       ],
-      "rationale": "Severe right lower quadrant pain with fever and vomiting suggests appendicitis, which needs prompt emergency evaluation. Under the ACA, plans must cover emergency services without prior approval and with in-network cost-sharing, even at an out-of-network hospital, and the No Surprises Act protects most insured clients from surprise out-of-network emergency bills. Driving to the in-network hospital is tempting because it seems to save money, but it delays care and the cost fear is mostly unfounded. He should not drive himself while this ill, and billing questions come after he is evaluated.",
+      "rationale": "Severe right lower quadrant pain with fever and vomiting suggests appendicitis, which needs prompt emergency evaluation. Under the ACA, plans must cover emergency services without prior approval and with in-network cost-sharing, even at an out-of-network hospital, and the No Surprises Act protects most insured clients from surprise out-of-network emergency bills. Going to the in-network hospital is tempting because it seems to save money, but it delays care and the cost fear is mostly unfounded; an urgent care center is quick but cannot treat an acute abdomen. He should not drive himself while this ill, and billing questions come after he is evaluated.",
       "takeaway": "For emergency symptoms, send the client to the nearest emergency care; network rules do not delay emergencies.",
       "hintContent": "What do his symptoms suggest, and what do plans owe clients in an emergency?",
       "hintStrategy": "When insurance worries compete with emergency symptoms, choose the answer that gets care fastest.",
@@ -248,7 +253,8 @@ window.NURSE_DATA.push({
       "focus": "Prioritization",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m47-x2-007",
@@ -259,14 +265,14 @@ window.NURSE_DATA.push({
         "Ask the UAP to remind the client why insulin must be taken daily",
         "Go to the client to assess her understanding and her cost barriers",
         "Call the social worker to arrange an insulin cost-assistance program",
-        "Document the statement and continue with the scheduled discharge"
+        "Notify the prescriber that the client may not take her insulin daily"
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. Teaching and correcting a client’s plan are RN responsibilities, not UAP tasks.",
+        "Incorrect. Reinforcing teaching matters, but client teaching and evaluation are RN responsibilities and cannot be delegated to a UAP.",
         "Correct. The RN must first assess what the client understands and what barrier exists before planning a solution.",
-        "Incorrect. A referral is likely needed, but the RN should assess first so the referral targets the real problem.",
-        "Incorrect. Proceeding with discharge ignores a high-risk plan to skip insulin."
+        "Incorrect. Cost help may be needed, but arranging it before assessing could miss a knowledge gap or coverage she already has.",
+        "Incorrect. The prescriber will need to know, but calling before assessing gives only secondhand information and no clear picture of the barrier."
       ],
       "rationale": "The UAP appropriately reported what the client said, but assessment, teaching, and evaluation belong to the RN. The RN goes to the client first to learn how she plans to take the insulin, what she can afford, and whether she has drug coverage. A social work referral is tempting because cost is the stated problem, yet acting before assessing can miss a knowledge gap or a coverage option, such as a Part D plan, that is already available. After assessing, the RN notifies the prescriber and case manager so the client can afford the insulin before she leaves.",
       "takeaway": "When a UAP reports a cost-related risk, the RN assesses the client personally before planning.",
@@ -278,7 +284,8 @@ window.NURSE_DATA.push({
       "focus": "Delegation & Safety",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m47-x2-008",
@@ -308,7 +315,8 @@ window.NURSE_DATA.push({
       "focus": "Prioritization",
       "difficulty": 2,
       "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m47-x2-009",
@@ -338,7 +346,8 @@ window.NURSE_DATA.push({
       "focus": "Prioritization",
       "difficulty": 2,
       "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m47-x2-010",
@@ -368,7 +377,8 @@ window.NURSE_DATA.push({
       "focus": "Prioritization",
       "difficulty": 3,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m47-x2-011",
@@ -398,7 +408,8 @@ window.NURSE_DATA.push({
       "focus": "Assessment Findings",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m47-x2-012",
@@ -406,19 +417,19 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "A 16-year-old client at a North Carolina family practice asks for a pregnancy test. She is covered by her father’s employer health plan and says, “If my dad sees this on an insurance statement, he’ll be furious.” Which response by the nurse is best?",
       "options": [
-        "“I can’t do the test until a parent signs a consent form for you.”",
-        "“Visits by minors are kept off a parent’s insurance statements.”",
+        "“You can consent to this test yourself, without a parent present.”",
+        "“I will keep this visit private and won’t tell your father about it.”",
         "“You can consent to this; let’s plan the billing to protect your privacy.”",
-        "“If you consent to the test yourself, the plan will not bill your father.”"
+        "“It may help to talk with your father before we do this test.”"
       ],
       "answer": 2,
       "optionRationales": [
-        "Incorrect. A minor may consent to pregnancy-related services without a parent.",
-        "Incorrect. Plan statements usually go to the policyholder, so this is false reassurance.",
+        "Incorrect. This is true under North Carolina law, but it ignores her real worry: an insurance statement could still reveal the visit.",
+        "Incorrect. The nurse will protect her confidentiality, but the promise is incomplete because the plan may still mail a statement to her father.",
         "Correct. She can consent to pregnancy care, and the nurse can coordinate with billing or a free public health clinic to protect confidentiality.",
-        "Incorrect. Her own consent does not change how the plan sends statements to the policyholder."
+        "Incorrect. Encouraging family communication can be helpful later, but parental involvement is not required and suggesting it now may stop her from getting care."
       ],
-      "rationale": "In North Carolina, G.S. 90-21.5 lets a minor give effective consent for pregnancy-related services, as most states do. Consent and billing are separate issues, however: insurance statements usually go to the policyholder, so using a parent’s plan could reveal a confidential visit. The best response affirms her right to consent and addresses her real worry by coordinating with billing or offering a free public health clinic. The tempting distractors give false reassurance about statements, which could break her trust if her father later sees a bill.",
+      "rationale": "In North Carolina, G.S. 90-21.5 lets a minor give effective consent for pregnancy-related services, as most states do. Consent and billing are separate issues, however: insurance statements usually go to the policyholder, so using a parent’s plan could reveal a confidential visit. The best response affirms her right to consent and addresses her real worry by coordinating with billing or offering a free public health clinic. Confirming consent alone or promising the nurse’s own silence is tempting because each is true, but neither stops a statement from reaching her father.",
       "takeaway": "A minor’s right to consent does not stop a parent’s plan from sending statements; plan billing to protect confidentiality.",
       "hintContent": "Separate two questions: who can consent, and who receives the insurance statement?",
       "hintStrategy": "Avoid absolute promises such as “never” or “will not”; the best response is accurate and addresses the client’s actual concern.",
@@ -428,7 +439,8 @@ window.NURSE_DATA.push({
       "focus": "Lifespan & Diversity",
       "difficulty": 3,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m47-x2-013",
@@ -436,19 +448,19 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "The daughter of an 86-year-old client with end-stage pancreatic cancer says, “The doctor mentioned hospice, but we can’t afford it. Dad only has Medicare.” Which response by the nurse is best?",
       "options": [
-        "“Hospice is usually private pay, so let’s look into a long-term care loan.”",
-        "“Medicare pays only for hospital stays, so Medicaid would have to cover it.”",
-        "“Don’t worry about the cost now; focus on spending time with your father.”",
+        "“Let’s ask the social worker to look at your father’s coverage options.”",
+        "“Medicare Part A covers home health care, so he can be cared for at home.”",
+        "“It sounds like the cost of his care is a big worry for your family.”",
         "“Medicare Part A covers hospice; would you like to meet with the hospice team?”"
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. Hospice is a Medicare Part A benefit, so this gives false information.",
-        "Incorrect. Part A covers more than inpatient stays, including hospice, skilled nursing, and home health.",
-        "Incorrect. This dismisses a real concern and leaves the misconception in place.",
+        "Incorrect. A social work referral is reasonable, but the nurse can correct the misconception now instead of delaying accurate information.",
+        "Incorrect. This statement is true, but it does not answer her question about hospice, which is the benefit her father needs.",
+        "Incorrect. Reflecting her feelings is supportive, but it leaves her believing hospice is unaffordable when it is covered.",
         "Correct. It corrects the misconception and opens a path to the hospice team, who can explain what is included."
       ],
-      "rationale": "Medicare Part A covers inpatient hospital care, short-term skilled nursing facility care, home health, and hospice. A family that believes hospice is unaffordable may refuse comfort-focused care the client is entitled to. The best response gives accurate information and offers a next step with the hospice team. The reassurance option is tempting because it sounds caring, but it dismisses the daughter’s concern and leaves her believing hospice is out of reach.",
+      "rationale": "Medicare Part A covers inpatient hospital care, short-term skilled nursing facility care, home health, and hospice. A family that believes hospice is unaffordable may refuse comfort-focused care the client is entitled to. The best response gives accurate information and offers a next step with the hospice team. Reflecting her worry is tempting because it sounds caring, but without accurate information it leaves the daughter believing hospice is out of reach.",
       "takeaway": "Medicare Part A covers hospice; correct cost myths so families can choose end-of-life care freely.",
       "hintContent": "Recall what services Part A covers besides inpatient hospital care.",
       "hintStrategy": "The best therapeutic response is both accurate and responsive; eliminate options that give false facts or dismiss feelings.",
@@ -458,7 +470,8 @@ window.NURSE_DATA.push({
       "focus": "Client Teaching",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m47-x2-014",
@@ -682,18 +695,18 @@ window.NURSE_DATA.push({
       "stem": "A 40-year-old client who is legally blind and receives Supplemental Security Income (SSI) has missed two eye clinic appointments. He says, “SSI is my health insurance, but they never pay these bills.” Which response by the nurse is most accurate?",
       "options": [
         "“SSI is cash aid, not insurance; let’s check whether you have Medicaid.”",
-        "“SSI covers clinic visits only after you meet a yearly deductible.”",
-        "“SSI pays for hospital care, so clinic bills go to Medicare Part B.”",
-        "“SSI is health insurance for low income, so send the bills to them.”"
+        "“Let’s ask the billing office why these clinic bills were not paid.”",
+        "“SSI gives monthly cash aid to people who are blind or disabled.”",
+        "“Missing eye care can harm your vision, so let’s reschedule today.”"
       ],
       "answer": 0,
       "optionRationales": [
-        "Correct. SSI is cash for food, clothing, and housing; health coverage comes from programs such as Medicaid.",
-        "Incorrect. SSI is not insurance and has no deductible.",
-        "Incorrect. SSI does not pay hospital care, and SSI does not make a client eligible for Medicare.",
-        "Incorrect. This confuses SSI with Medicaid and sends bills to a program that does not pay them."
+        "Correct. SSI is cash for food, clothing, and housing; health coverage comes from programs such as Medicaid, so the nurse corrects the mix-up and checks his coverage.",
+        "Incorrect. Asking billing is a reasonable step, but it does not correct his belief that SSI is insurance or find the coverage he needs.",
+        "Incorrect. This is true, but it does not tell him SSI is not insurance or point him to Medicaid.",
+        "Incorrect. Keeping eye care is important, but rescheduling without fixing the payment problem will likely lead to more missed visits."
       ],
-      "rationale": "Supplemental Security Income is a federal cash benefit for aged, blind, or disabled people with little income, meant for basic needs such as food, clothing, and housing. It is not health insurance. Health coverage for a low-income client like this one usually comes from Medicaid, so the nurse helps him check his Medicaid status and keep his eye care. The tempting error is the classic look-alike: SSI is cash, Medicaid is coverage.",
+      "rationale": "Supplemental Security Income is a federal cash benefit for aged, blind, or disabled people with little income, meant for basic needs such as food, clothing, and housing. It is not health insurance. Health coverage for a low-income client like this one usually comes from Medicaid, so the nurse helps him check his Medicaid status and keep his eye care. Rescheduling or calling billing is tempting, but neither fixes the look-alike error at the root: SSI is cash, Medicaid is coverage.",
       "takeaway": "SSI is cash for basic needs; Medicaid is health coverage.",
       "hintContent": "Is SSI a payment to the person or coverage for health care?",
       "hintStrategy": "For programs that serve the same population, ask what each one actually provides.",
@@ -703,7 +716,8 @@ window.NURSE_DATA.push({
       "focus": "Lifespan & Diversity",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m47-x2-021",
@@ -741,19 +755,19 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "A 58-year-old client with an indemnity health plan has chronic low back pain, and the provider orders a lumbar MRI. The client says, “My plan has no network, so I’ll just book the MRI wherever I want tomorrow.” Which response by the nurse is best?",
       "options": [
-        "“Indemnity plans pay for imaging only at centers inside their network.”",
-        "“You will need a referral from your primary care gatekeeper first.”",
-        "“Indemnity plans do not cover imaging, so you will pay the full cost.”",
+        "“That’s right; with an indemnity plan you may use any imaging center.”",
+        "“Ask the MRI center whether it accepts your plan before you book.”",
+        "“Check your plan’s coinsurance so you know what you will owe for it.”",
         "“You may choose any center, but check whether the MRI needs preauthorization.”"
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. Indemnity plans have no network.",
-        "Incorrect. A PCP gatekeeper is a feature of HMOs, not indemnity plans.",
-        "Incorrect. Indemnity plans cover services such as imaging, often with preauthorization.",
-        "Correct. Indemnity plans allow any provider, but some services such as an MRI may still need preauthorization."
+        "Incorrect. This is true of indemnity plans, but it misses that an MRI may still need preauthorization, so he could be billed for it.",
+        "Incorrect. Confirming the center bills his plan is reasonable, but it does not address preauthorization, the step most likely to cause a denial.",
+        "Incorrect. Knowing his cost share is useful, but it does not prevent a denial if the plan requires preauthorization.",
+        "Correct. Indemnity plans allow any provider, but some services such as an MRI may still need preauthorization, so this supports his choice and prevents a denial."
       ],
-      "rationale": "Indemnity plans are fee-for-service plans with no network and are the least restrictive private option. Least restrictive does not mean no rules: some services, such as an MRI, may still need preauthorization, and skipping that step could leave the client with the bill. The gatekeeper option is tempting because referrals are common in managed care, but that rule belongs to HMOs. The nurse supports the client’s freedom of choice while preventing an avoidable denial.",
+      "rationale": "Indemnity plans are fee-for-service plans with no network and are the least restrictive private option. Least restrictive does not mean no rules: some services, such as an MRI, may still need preauthorization, and skipping that step could leave the client with the bill. Simply confirming his freedom of choice is tempting because it is true, but it misses the preauthorization step. The nurse supports the client’s freedom of choice while preventing an avoidable denial.",
       "takeaway": "Indemnity plans allow any provider but may still require preauthorization for services such as an MRI.",
       "hintContent": "Where does an indemnity plan fall on the restrictiveness spectrum, and what rule can it still have?",
       "hintStrategy": "Place each plan on the HMO-to-indemnity spectrum and reject features that belong to a different plan type.",
@@ -763,7 +777,8 @@ window.NURSE_DATA.push({
       "focus": "Client Teaching",
       "difficulty": 3,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m47-x2-023",
@@ -793,7 +808,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 3,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m47-x2-024",

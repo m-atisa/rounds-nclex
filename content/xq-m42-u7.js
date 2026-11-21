@@ -11,18 +11,18 @@ window.NURSE_DATA.push({
       "stem": "During a skills lab, a first-semester nursing student draws up 10 mL instead of 1 mL of a practice medication. The instructor’s check catches the error. Which instructor response best supports the student’s professional socialization?",
       "options": [
         "Ask the student to reflect on what happened, why, and what to change, then discuss it.",
-        "Tell the student that lab errors do not count, so there is no need to discuss it.",
-        "Describe the error to the whole class by name as a warning about careless math.",
-        "Remove the student from the next clinical day as a penalty for the error."
+        "Reassure the student that errors are common while learning a new skill.",
+        "Review the correct dosage calculation with the student step by step before she continues.",
+        "Have the student repeat the calculation and draw up the correct dose."
       ],
       "answer": 0,
       "optionRationales": [
-        "Correct. Reflective practice helps the student understand the mistake and its consequences, which is a core part of successful socialization.",
-        "Incorrect. Dismissing the error teaches that mistakes can be ignored, the opposite of an accountable professional culture.",
-        "Incorrect. Public blame discourages reporting and violates the avoidance-of-blame principle of a learning culture.",
-        "Incorrect. Punishment without understanding does not teach the student how to prevent the error, and it signals a blame culture."
+        "Correct. Reflecting on what happened, why, and what to change helps the student understand the mistake and its consequences, which builds the accountable habits of a nurse.",
+        "Incorrect. Reassurance is supportive and avoids blame, but it does not help the student understand why the error happened or how to prevent it.",
+        "Incorrect. Reviewing the math is useful teaching, but the instructor does the thinking; it fixes this error without building the student's habit of examining her own practice.",
+        "Incorrect. Repeating the skill reinforces the correct technique, but it skips reflection on why the error happened and what the student will change."
       ],
-      "rationale": "Socialization to nursing is learning to think, act, and feel like a nurse. Successful socialization uses clear expectations, a focus on strengths, and reflective practice to understand mistakes and their consequences. A dynamic learning culture is transparent and avoids blame. Having the student reflect on what happened and what to change builds the habit of owning and learning from errors. Shaming or punishing the student is tempting as a deterrent, but it teaches students to hide mistakes.",
+      "rationale": "Socialization to nursing is learning to think, act, and feel like a nurse. Successful socialization uses clear expectations, a focus on strengths, and reflective practice to understand mistakes and their consequences. A dynamic learning culture is transparent and avoids blame. Having the student reflect on what happened and what to change builds the habit of owning and learning from errors. Reviewing the math or having the student redo the dose is tempting, but it corrects this one error without teaching the student to examine why it happened.",
       "takeaway": "Reflective practice, not blame, turns a student’s mistake into professional growth.",
       "hintContent": "Think about which response helps the student understand the mistake and its consequences.",
       "hintStrategy": "For culture and socialization questions, eliminate options that either ignore the error or assign blame.",
@@ -32,7 +32,8 @@ window.NURSE_DATA.push({
       "focus": "Delegation & Safety",
       "difficulty": 1,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m42-u7-002",
@@ -80,19 +81,19 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "On her first clinical day, a nursing student sees her assigned staff nurse document a client’s 1200 vital signs at 1000. The nurse says, “Everyone does it here; it saves time.” What should the student do first?",
       "options": [
-        "Document her own client’s noon vital signs early to fit the unit routine.",
-        "Wait until the end of the rotation and mention it on her course evaluation.",
+        "Tell the staff nurse she is not comfortable charting vital signs early.",
+        "Report the falsified entry directly to the unit’s nurse manager.",
         "Report what she observed to her clinical instructor during the shift.",
-        "Correct the staff nurse’s entry in the client’s record herself before noon."
+        "Take the client’s vital signs at noon and compare them with the entry."
       ],
       "answer": 2,
       "optionRationales": [
-        "Incorrect. Copying the practice is falsification and shows socialization into an unsafe norm.",
-        "Incorrect. Waiting weeks leaves an unsafe practice in place and delays action on false documentation.",
-        "Correct. The clinical instructor is the student’s direct line of authority and can address the falsified entry promptly.",
-        "Incorrect. A student cannot alter another nurse’s documentation; that would create a second improper entry."
+        "Incorrect. Speaking up shows integrity, but it does not address the false entry already in the record, and a student’s line of authority is her clinical instructor.",
+        "Incorrect. The concern is valid and may reach the manager, but a student goes through her clinical instructor first rather than skipping the chain of command.",
+        "Correct. The clinical instructor is the student’s direct line of authority and can promptly address the falsified entry and the unit practice.",
+        "Incorrect. Getting accurate data helps the client, but it leaves the false entry and the unsafe practice unreported."
       ],
-      "rationale": "Charting vital signs before they are taken is falsification and can hide a client’s real condition. Students are socialized by the culture around them, so they must not adopt unsafe norms just because “everyone does it.” The student’s responsibility under student codes of conduct is honesty in clinical work, and her chain of command is the clinical instructor. Reporting promptly lets the instructor protect the client and address the practice. Mentioning it later on an evaluation is tempting because it avoids conflict, but it leaves the risk in place.",
+      "rationale": "Charting vital signs before they are taken is falsification and can hide a client’s real condition. Students are socialized by the culture around them, so they must not adopt unsafe norms just because “everyone does it.” The student’s responsibility under student codes of conduct is honesty in clinical work, and her chain of command is the clinical instructor. Reporting promptly lets the instructor protect the client and address the practice. Confronting the staff nurse or going straight to the manager is tempting, but the instructor is the student’s first line of authority.",
       "takeaway": "When a student sees an unsafe or dishonest practice, report it promptly to the clinical instructor; never copy it.",
       "hintContent": "Charting care before it happens is a form of falsification. Who is the student’s direct supervisor?",
       "hintStrategy": "For “first” questions, choose the action that stops the risk soonest through the proper chain of command.",
@@ -102,7 +103,8 @@ window.NURSE_DATA.push({
       "focus": "Prioritization",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m42-u7-004",
@@ -110,19 +112,19 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "A 68-year-old client is admitted for an elective hip replacement. Which action by the admitting nurse meets the requirements of the Patient Self-Determination Act?",
       "options": [
-        "Explaining that surgery cannot be scheduled until he completes a living will.",
+        "Encouraging him to complete a living will before the date of his hip surgery.",
         "Giving him written information about refusing care and making advance directives.",
-        "Telling him a do-not-resuscitate order is standard for clients older than 65.",
-        "Waiting to discuss advance directives until his condition becomes serious."
+        "Explaining his right to refuse care during his preoperative teaching.",
+        "Referring him to the social worker if he asks about advance directives."
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. Care can never be conditioned on whether a client has an advance directive.",
+        "Incorrect. Advance planning is wise before surgery, but the law requires informing clients of their rights, not urging them to complete a directive.",
         "Correct. The law requires written information at admission about the right to accept or refuse care and to make advance directives.",
-        "Incorrect. Code status is the client’s choice; age never makes a DNR order standard.",
-        "Incorrect. The information must be given at admission, before a crisis makes decisions harder."
+        "Incorrect. This covers part of the content, but it is verbal, comes later than admission, and leaves out the right to make advance directives.",
+        "Incorrect. A referral can help, but the law requires every adult client to be informed, not only those who ask."
       ],
-      "rationale": "The Patient Self-Determination Act requires facilities that take Medicare or Medicaid to inform adult clients in writing, at admission, of their rights to accept or refuse medical care and to make advance directives. The facility must also ask about and document existing directives. In many organizations the nurse is responsible for making sure this happens. Requiring a living will is a tempting distractor because it sounds protective, but the law requires informing clients, not forcing them to sign anything.",
+      "rationale": "The Patient Self-Determination Act requires facilities that take Medicare or Medicaid to inform adult clients in writing, at admission, of their rights to accept or refuse medical care and to make advance directives. The facility must also ask about and document existing directives. In many organizations the nurse is responsible for making sure this happens. Encouraging a living will is tempting because it sounds protective, but the law requires informing clients, not urging them to sign anything.",
       "takeaway": "PSDA: inform every adult in writing at admission; never require an advance directive for care.",
       "hintContent": "The law is about informing clients of their rights, not choosing for them.",
       "hintStrategy": "Eliminate options that pressure the client or delay the information past admission.",
@@ -132,7 +134,8 @@ window.NURSE_DATA.push({
       "focus": "Client Teaching",
       "difficulty": 1,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m42-u7-005",
@@ -140,19 +143,19 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "An 80-year-old client is admitted unresponsive after a large stroke. His daughter is at the bedside. The hospital participates in Medicare. How should the nurse handle the advance-directive information required at admission?",
       "options": [
-        "Skip the information because the client cannot understand it now.",
-        "Ask the daughter to sign a do-not-resuscitate form on his behalf.",
-        "Hold the information and give it only if he regains consciousness.",
+        "Document that he cannot receive the information at this time.",
+        "Ask the daughter whether he already has an advance directive.",
+        "Give it to him if he regains consciousness and note the delay.",
         "Give it to the daughter now and to the client if he becomes able."
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. The duty to inform does not disappear because the client is incapacitated.",
-        "Incorrect. The required step is information about rights, not pushing a specific decision such as a DNR.",
-        "Incorrect. Delaying leaves the family without information while decisions may be needed now.",
-        "Correct. When a client is incapacitated at admission, the information may go to family or a surrogate, and to the client once able."
+        "Incorrect. Documenting his status is appropriate, but it does not meet the duty to inform; the information may go to family or a surrogate now.",
+        "Incorrect. Asking about an existing directive is a required step, but it does not give the family the written information about rights.",
+        "Incorrect. He must receive it once able, but waiting leaves the family without information while decisions may be needed now.",
+        "Correct. When a client is incapacitated at admission, the information may go to family or a surrogate now, and to the client once he is able."
       ],
-      "rationale": "Your course slides say competent adults must be informed at admission. Under federal rules, when an adult is incapacitated at admission, the facility may give the advance-directive information to family or a surrogate. It must still give it to the client once he is no longer incapacitated. The nurse also asks whether he already has a directive, such as a health care power of attorney, and documents it. Pushing the daughter toward a DNR is tempting in a grave situation, but the law requires information, not a specific choice.",
+      "rationale": "Competent adult clients must be informed in writing at admission. Under federal rules, when an adult is incapacitated at admission, the facility may give the advance-directive information to family or a surrogate. It must still give it to the client once he is no longer incapacitated. The nurse also asks whether he already has a directive, such as a health care power of attorney, and documents it. Only asking about an existing directive is tempting because it is required, but the family still needs the written information now.",
       "takeaway": "If a client is incapacitated at admission, give advance-directive information to the family or surrogate, then to the client when able.",
       "hintContent": "The duty is to inform. Who can receive information when the client cannot?",
       "hintStrategy": "Choose the option that meets the legal duty without pressuring a particular decision.",
@@ -164,7 +167,8 @@ window.NURSE_DATA.push({
       "focus": "Lifespan & Diversity",
       "difficulty": 3,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m42-u7-006",
@@ -212,19 +216,19 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "A client newly diagnosed with type 2 diabetes says, “I read online that cinnamon pills can replace metformin, so I plan to stop taking it next week.” Which response should the nurse make first?",
       "options": [
-        "“Cinnamon is natural, so it should be safe to try in place of metformin.”",
+        "“I will let your provider know you are interested in cinnamon pills.”",
         "“Please keep taking metformin, and let’s look at where that claim came from.”",
-        "“Most health websites are unreliable, so it is best to avoid them.”",
-        "“You may stop metformin if your morning sugars stay under 130.”"
+        "“Here is a MedlinePlus page on diabetes that you can read at home.”",
+        "“Cinnamon has not been proven to lower blood sugar as well as metformin.”"
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. “Natural” does not mean effective or safe, and stopping metformin risks high blood glucose.",
-        "Correct. It protects the client from stopping a needed drug and opens teaching on judging online sources.",
-        "Incorrect. Dismissing all websites ignores that clients use them; the nurse should guide clients to reliable ones.",
-        "Incorrect. The nurse cannot change or stop a prescribed medication; that needs the provider."
+        "Incorrect. The provider should be told about the supplement, but this does not first stop the client from discontinuing a needed drug.",
+        "Correct. It protects the client from stopping a needed drug first and opens teaching on judging online sources.",
+        "Incorrect. Pointing to a reliable site is good teaching, but it does not address the unsafe plan to stop metformin.",
+        "Incorrect. This is accurate, but it does not tell the client to keep taking metformin or teach how to judge the source."
       ],
-      "rationale": "Consumers today are more informed and vocal, partly because of the internet, but online information is not always accurate. The nurse is accountable for knowing reliable websites and helping clients judge sources. The first priority is safety: the client should not stop metformin based on an unproven claim. The nurse then reviews the source, points the client to reliable sites such as MedlinePlus, and tells the provider about the supplement. Telling the client to avoid all websites is tempting, but it ends the conversation instead of teaching.",
+      "rationale": "Consumers today are more informed and vocal, partly because of the internet, but online information is not always accurate. The nurse is accountable for knowing reliable websites and helping clients judge sources. The first priority is safety: the client should not stop metformin based on an unproven claim. The nurse then reviews the source, points the client to reliable sites such as MedlinePlus, and tells the provider about the supplement. Notifying the provider or sharing a reliable site is tempting, but those steps come after making sure the client keeps taking metformin.",
       "takeaway": "When a client cites online health claims, protect safety first, then teach how to find reliable sources.",
       "hintContent": "Which response keeps the client safe and still respects the client’s interest in learning?",
       "hintStrategy": "Eliminate options that endorse an unsafe change, change orders, or shut down the client’s questions.",
@@ -236,7 +240,8 @@ window.NURSE_DATA.push({
       "focus": "Client Teaching",
       "difficulty": 2,
       "clientNeed": "Health Promotion and Maintenance",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m42-u7-008",
@@ -245,18 +250,18 @@ window.NURSE_DATA.push({
       "stem": "A hospital retention committee is addressing high turnover among experienced nurses, which leaves few preceptors for new graduates. Which proposal best fits recommended strategies for the nursing shortage?",
       "options": [
         "Offer flexible schedules and added pay to nurses who serve as mentors.",
-        "Raise each nurse’s client load until the open positions are filled.",
-        "Require mandatory overtime from experienced nurses on every unit.",
-        "Stop hiring new graduates and recruit only experienced travel nurses."
+        "Partner with local high schools to recruit students into nursing.",
+        "Fund faster degree programs so more new graduates join the staff.",
+        "Raise starting salaries to attract more newly graduated nurses."
       ],
       "answer": 0,
       "optionRationales": [
-        "Correct. Scheduling flexibility and better rewards for mentors are recommended ways to keep experienced nurses.",
-        "Incorrect. Heavier loads worsen burnout and turnover and threaten client safety.",
-        "Incorrect. Mandatory overtime adds fatigue and drives experienced nurses away.",
-        "Incorrect. Cutting new-graduate hiring shrinks the future workforce instead of growing it."
+        "Correct. Scheduling flexibility and better rewards for mentors keep experienced nurses, which directly addresses turnover and the preceptor gap.",
+        "Incorrect. Early recruitment is a recommended strategy, but it is long term and does nothing to keep the experienced nurses who leave now.",
+        "Incorrect. Faster education paths are a recommended strategy, but more new graduates need more preceptors, and this does not keep the experienced nurses who are leaving.",
+        "Incorrect. Higher salaries are recommended, but this targets new graduates rather than keeping the experienced nurses who serve as preceptors."
       ],
-      "rationale": "Factors behind the nursing shortage include a faculty shortage, nurses reaching retirement, changing demographics, an aging population, and high turnover. Recommended fixes include more scheduling flexibility, better rewards for experienced nurses who mentor, adequate staffing, higher salaries, faster paths through education, early recruitment, and more funding. Raising client loads may look like a quick fix, but it increases turnover and risk. Supporting preceptors keeps experienced nurses and helps new graduates succeed.",
+      "rationale": "Factors behind the nursing shortage include a faculty shortage, nurses reaching retirement, changing demographics, an aging population, and high turnover. Recommended fixes include more scheduling flexibility, better rewards for experienced nurses who mentor, adequate staffing, higher salaries, faster paths through education, early recruitment, and more funding. Recruiting and educating more new nurses are valid strategies, but they do not keep the experienced nurses this unit is losing. Supporting preceptors keeps experienced nurses and helps new graduates succeed.",
       "takeaway": "Keep experienced nurses with flexibility, mentor rewards, adequate staffing, and fair pay.",
       "hintContent": "Which option would make experienced nurses more likely to stay?",
       "hintStrategy": "Eliminate options that add workload or fatigue; they worsen turnover.",
@@ -266,7 +271,8 @@ window.NURSE_DATA.push({
       "focus": "Delegation & Safety",
       "difficulty": 1,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m42-u7-009",
@@ -274,19 +280,19 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "A 34-year-old client brings results from a direct-to-consumer genetic test that reports a BRCA1 variant. She asks, “Should I schedule surgery to remove my breasts?” Which action should the nurse take first?",
       "options": [
-        "Tell her home genetic tests are inaccurate, so the result can be ignored.",
-        "Explain that this variant means she will develop breast cancer later.",
-        "Advise her to schedule a mastectomy consultation as soon as possible.",
+        "Explain that the variant raises her risk but is not a cancer diagnosis.",
+        "Recommend that she schedule a mammogram and a breast MRI in the next month.",
+        "Encourage her to share the result with her mother and sisters.",
         "Notify her provider and arrange a genetic counselor to review the result."
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. The result may be real and needs confirmation, not dismissal.",
-        "Incorrect. A variant raises risk; it does not guarantee cancer.",
-        "Incorrect. Surgical decisions come after confirmation, counseling, and discussion with the provider.",
-        "Correct. Results from tests outside the usual system should be confirmed and explained by qualified professionals."
+        "Incorrect. This is accurate teaching, but it does not get the result confirmed or her options reviewed by qualified professionals.",
+        "Incorrect. Added screening may become part of her plan, but it is premature before the result is confirmed and counseled.",
+        "Incorrect. Relatives may benefit from knowing, but sharing an unconfirmed result before counseling can cause harm and confusion.",
+        "Correct. Results from tests outside the usual system should be confirmed and explained by qualified professionals before any decisions."
       ],
-      "rationale": "Genetic testing is now available outside the traditional healthcare system, so nurses must expand their knowledge to help clients interpret results safely. A direct-to-consumer result may need a clinical test to confirm it, and the client needs counseling to understand her risk and options. The nurse’s first step is to involve the provider and a genetic counselor. Telling her to ignore the result is tempting because home tests can be wrong, but a true variant would leave her without needed care.",
+      "rationale": "Genetic testing is now available outside the traditional healthcare system, so nurses must expand their knowledge to help clients interpret results safely. A direct-to-consumer result may need a clinical test to confirm it, and the client needs counseling to understand her risk and options. The nurse’s first step is to involve the provider and a genetic counselor. Explaining that a variant is not a diagnosis is tempting because it is true, but it does not get the result confirmed or her options reviewed.",
       "takeaway": "Route direct-to-consumer genetic results to the provider and a genetic counselor for confirmation and counseling.",
       "hintContent": "Who is qualified to confirm and explain a genetic result?",
       "hintStrategy": "Eliminate options that dismiss the finding or jump to treatment before confirmation.",
@@ -298,7 +304,8 @@ window.NURSE_DATA.push({
       "focus": "Client Teaching",
       "difficulty": 2,
       "clientNeed": "Health Promotion and Maintenance",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m42-u7-010",
@@ -411,19 +418,19 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "A hospital introduces new smart infusion pumps. A nurse returning from 6 weeks of leave missed the employer’s training class. She is assigned a client who needs a heparin infusion on the new pump. What should the nurse do first?",
       "options": [
-        "Program the pump using the quick-start card attached to its side.",
-        "Ask the client’s daughter, who used one at home, to help set it up.",
+        "Have another nurse double-check her settings after she programs it.",
+        "Complete the manufacturer’s online training module before starting.",
         "Tell the charge nurse she is untrained on the pump and ask for help.",
-        "Get an old-model pump from storage that she already knows well."
+        "Call the pharmacy to confirm the heparin dose and concentration."
       ],
       "answer": 2,
       "optionRationales": [
-        "Incorrect. Teaching herself on the fly with a high-alert drug is the unsafe “figure it out as I go” approach.",
-        "Incorrect. Family members are not responsible for device safety in the hospital.",
-        "Correct. The first rule of competence is to ask for help when unsure, and employer training on new equipment keeps competence current.",
-        "Incorrect. Using retired equipment bypasses facility safety systems and policy."
+        "Incorrect. An independent double-check is a standard heparin safeguard, but it does not fix her lack of training on the device.",
+        "Incorrect. Training is needed, but doing it alone delays a needed infusion and gives no hands-on validation; the charge nurse should know first.",
+        "Correct. The first rule of competence is to ask for help when unsure; the charge nurse can arrange hands-on help, validation, or reassignment.",
+        "Incorrect. Verifying a high-alert drug is reasonable, but the safety gap here is her competence with the pump, not the order."
       ],
-      "rationale": "Nurses build competence across their careers through experience, new knowledge, and hospital or employer classes on new equipment and procedures. A nurse who missed training has a competence gap for this device, and heparin is a high-alert drug. The first rule of competence is to ask for help whenever unsure an action is safe. She tells the charge nurse, gets hands-on help or validation, and completes the training. Using the quick-start card is tempting because it seems resourceful, but it is guessing with a dangerous drug.",
+      "rationale": "Nurses build competence across their careers through experience, new knowledge, and hospital or employer classes on new equipment and procedures. A nurse who missed training has a competence gap for this device, and heparin is a high-alert drug. The first rule of competence is to ask for help whenever unsure an action is safe. She tells the charge nurse, gets hands-on help or validation, and completes the training. A coworker double-check is tempting because it is a standard heparin safeguard, but a check cannot replace knowing how to use the device.",
       "takeaway": "Missed training on new equipment is a competence gap: say so and get help before using it.",
       "hintContent": "Heparin is high-alert, and she has never been trained on this device.",
       "hintStrategy": "Reject options that guess, shift responsibility to family, or bypass policy; choose naming the gap to the right person.",
@@ -433,7 +440,8 @@ window.NURSE_DATA.push({
       "focus": "Prioritization",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     }
   ]
 });

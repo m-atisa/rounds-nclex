@@ -139,14 +139,14 @@ window.NURSE_DATA.push({
         "Personal identity centered on continuity of core values.",
         "Role performance involving a valued parental responsibility.",
         "Body image centered on the residual limb’s appearance.",
-        "Self-awareness centered on the nurse’s own emotional responses."
+        "Self-esteem centered on the client’s overall sense of worth."
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. Identity may also be affected, but the statement specifically emphasizes a family responsibility.",
-        "Correct. The client is concerned about fulfilling a valued parental role.",
-        "Incorrect. The client’s stated concern is an activity and role rather than appearance.",
-        "Incorrect. Self-awareness does not explain the specific responsibility the client describes."
+        "Incorrect. Identity can be shaken by limb loss, but the client is not describing a change in who they are or what they value; the concern is about a specific parenting task.",
+        "Correct. The client names a valued parenting responsibility they fear they cannot fulfill, which points most directly to role performance. Identity, body image, and self-esteem may also be affected but are not what the statement centers on.",
+        "Incorrect. Body image is often affected after amputation, but the client says nothing about how the limb looks; the worry is about doing a parental role.",
+        "Incorrect. Self-esteem may drop when a role is threatened, but that is a possible downstream effect; the statement itself centers on the parenting role."
       ],
       "rationale": "The statement centers on fulfilling a parental role. Explore its meaning, available support, and adaptations while also assessing other self-concept concerns. Do not assume the physical change has the same meaning for every client.",
       "takeaway": "Use the client’s specific concern to identify the component of self.",
@@ -160,7 +160,8 @@ window.NURSE_DATA.push({
       "focus": "Assessment Findings",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m29-u6-002",
@@ -169,16 +170,16 @@ window.NURSE_DATA.push({
       "stem": "A toddler needs routine care and pushes away the washcloth. Which response should the nurse try first when immediate danger is absent?",
       "options": [
         "Explain care and perform it without inviting participation.",
-        "Ask whether care should occur or be omitted.",
-        "Explain long-term consequences before offering the child participation.",
+        "Ask a parent to hold and soothe the child during care.",
+        "Distract the child with a favorite toy during care.",
         "Offer two appropriate choices and a manageable step."
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. This misses a safe opportunity to support autonomy.",
-        "Incorrect. A limited choice should not imply that necessary care is optional.",
-        "Incorrect. Abstract lengthy explanation is not matched to toddler development.",
-        "Correct. A limited genuine choice supports autonomy within necessary care."
+        "Incorrect. A simple explanation is appropriate, but doing the care without inviting participation ignores the toddler’s need for autonomy and is likely to increase resistance.",
+        "Incorrect. Parental comfort is supportive, but it does not address the toddler’s push for control; limited choices let the child participate while care still happens.",
+        "Incorrect. Distraction can help during procedures, but it sidesteps the toddler’s need for autonomy rather than supporting it with real, safe choices.",
+        "Correct. Toddlers are working on autonomy. Offering two acceptable choices and a small step the child can do keeps care non-optional while giving control, which addresses the resistance more directly than comfort or distraction alone."
       ],
       "rationale": "Toddlers seek independence. Safe limited choices and manageable participation can support autonomy without making essential care optional. Use concrete language and assess the child’s actual development.",
       "takeaway": "Support autonomy with safe choices that are genuinely available.",
@@ -192,7 +193,8 @@ window.NURSE_DATA.push({
       "focus": "Lifespan & Diversity",
       "difficulty": 1,
       "clientNeed": "Psychosocial Integrity",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m29-u6-003",
@@ -238,16 +240,16 @@ window.NURSE_DATA.push({
       "stem": "An older adult says that mentoring younger neighbors gives life meaning. Which developmental task is most directly reflected by this activity?",
       "options": [
         "Generativity expressed through contribution to younger people.",
-        "Industry because all adult skills reflect childhood mastery.",
-        "Autonomy because receiving advice establishes physical independence.",
-        "Integrity alone because age excludes earlier developmental themes."
+        "Integrity expressed through acceptance of one’s whole life.",
+        "Intimacy expressed through close and trusting relationships.",
+        "Industry expressed through mastering new skills and tasks."
       ],
       "answer": 0,
       "optionRationales": [
-        "Correct. Mentoring reflects contribution and nurturing regardless of rigid age categories.",
-        "Incorrect. The emphasis is contribution to others rather than acquiring a basic competence.",
-        "Incorrect. The client describes mentoring others, not a struggle for basic independence.",
-        "Incorrect. Developmental themes can overlap; age does not exclude generativity."
+        "Correct. Mentoring younger people is a classic expression of generativity: contributing to the next generation. An older adult can continue this role while also working on integrity through life review.",
+        "Incorrect. Integrity is the expected task of older adulthood, but it centers on life review and acceptance; the activity described is contributing to younger people, which is generativity.",
+        "Incorrect. Mentoring involves relationships, but intimacy centers on close, committed bonds; guiding the next generation reflects generativity.",
+        "Incorrect. Mentoring may involve skills, but industry is the school-age task of mastery and competence; the meaning here comes from contributing to others."
       ],
       "rationale": "Developmental tasks are guides rather than rigid age boxes. Mentoring reflects contribution and generativity, and an older adult may continue this meaningful role while also engaging in life review and integrity.",
       "takeaway": "Developmental themes can overlap across ages.",
@@ -261,7 +263,8 @@ window.NURSE_DATA.push({
       "focus": "Lifespan & Diversity",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m29-u6-005",
@@ -307,17 +310,17 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "A client seeking help for eating concerns reports recurrent vomiting, very limited intake, palpitations, and a near-fainting episode. The client says, “I do not look underweight, so I cannot be medically ill.” Which problem is the nurse’s priority concern?",
       "options": [
-        "Body-image distress without evidence of physical risk.",
-        "Inadequate motivation requiring further routine health teaching.",
+        "Body-image disturbance linked to distorted self-perception.",
+        "Knowledge deficit about the health risks of frequent purging.",
         "Potential physiologic instability from restriction and purging.",
-        "A mismatch between teaching methods and learning preferences."
+        "Ineffective coping related to emotional distress around food."
       ],
       "answer": 2,
       "optionRationales": [
-        "Incorrect. The symptoms raise concern for medical complications beyond body-image distress alone.",
-        "Incorrect. Palpitations and near-syncope require physical assessment rather than a motivation label.",
-        "Correct. Recurrent vomiting, poor intake, palpitations, and near-syncope can signal fluid or electrolyte complications.",
-        "Incorrect. A teaching-method issue does not explain the physical warning signs."
+        "Incorrect. The client’s view of their body is a real concern, but palpitations and near-fainting suggest possible electrolyte or cardiac problems, which take priority over psychosocial needs.",
+        "Incorrect. The client does misunderstand the risks, and teaching will be needed, but physical warning signs must be assessed before education.",
+        "Correct. Recurrent vomiting, very low intake, palpitations, and near-fainting point to possible fluid, electrolyte, or cardiac instability regardless of body size. Physiologic safety comes before body-image, coping, or teaching needs.",
+        "Incorrect. Coping problems likely underlie the behavior, but they are a longer-term focus; current physical symptoms make physiologic instability the priority."
       ],
       "rationale": "The current physical symptoms suggest possible medical instability, including fluid or electrolyte complications, regardless of body size. This priority hypothesis requires prompt physiologic assessment and evaluation; screening and body-image work do not replace immediate safety care.",
       "takeaway": "Physical warning signs take priority over assumptions based on appearance.",
@@ -331,7 +334,8 @@ window.NURSE_DATA.push({
       "focus": "Assessment Findings",
       "difficulty": 3,
       "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m29-u6-007",
@@ -341,15 +345,15 @@ window.NURSE_DATA.push({
       "options": [
         "A confirmed disorder requiring its specific treatment protocol.",
         "A positive screen warranting further assessment and referral.",
-        "A medical-stability measure replacing further vital-sign assessment.",
-        "A nutrition-education need without other assessment until rescreening."
+        "A sign of risk best handled with nutrition teaching first.",
+        "A borderline result to rescreen at the next routine visit."
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. A screening threshold does not establish diagnosis or treatment.",
-        "Correct. A positive screen prompts evaluation with attention to physical and psychological risk.",
-        "Incorrect. The screen does not replace physical assessment.",
-        "Incorrect. A positive result warrants comprehensive assessment rather than a restricted teaching response."
+        "Incorrect. Two affirmative answers do raise real concern, but a screen cannot diagnose a disorder or set treatment; that requires a full evaluation.",
+        "Correct. Two or more affirmative SCOFF responses is a referral threshold. The result raises concern, so the nurse assesses safety and physical findings and coordinates further evaluation, without treating the screen as a diagnosis.",
+        "Incorrect. Nutrition teaching may be part of later care, but a positive screen first calls for further assessment and referral; teaching alone may miss a serious disorder.",
+        "Incorrect. Rescreening is reasonable when results are unclear, but two affirmative answers meet the referral threshold, so waiting delays needed evaluation."
       ],
       "rationale": "The course identifies two or more affirmative responses as a referral threshold. A positive screen raises concern but does not determine diagnosis, severity, or treatment. Assess safety and physical findings and coordinate evaluation.",
       "takeaway": "A screening threshold prompts assessment; it does not complete diagnosis.",
@@ -363,7 +367,8 @@ window.NURSE_DATA.push({
       "focus": "Assessment Findings",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m29-u6-008",
@@ -432,7 +437,8 @@ window.NURSE_DATA.push({
       "focus": "Prioritization",
       "difficulty": 3,
       "clientNeed": "Psychosocial Integrity",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m29-u6-010",
@@ -479,17 +485,17 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "A client says, “You promised to return after lunch, but no one came. I cannot trust this team.” Which response should the nurse make first?",
       "options": [
-        "“Let me first explain the unit workload.”",
-        "“We can discuss that after scheduled care.”",
-        "“Every future visit will be on time.”",
+        "“I am sorry. The unit got very busy today.”",
+        "“Let me ask the charge nurse to talk with you.”",
+        "“I will check back with you at 3 o’clock.”",
         "“We missed follow-up. Let us address your need.”"
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. Explaining logistics first may feel defensive and does not address the unmet need.",
-        "Incorrect. This defers the stated trust concern and current need without assessment.",
-        "Incorrect. This is a guarantee the nurse cannot reliably make.",
-        "Correct. Acknowledgment and realistic action support repair of trust."
+        "Incorrect. An apology helps, but adding the workload explanation sounds like an excuse and shifts focus away from the client’s unmet need.",
+        "Incorrect. Involving the charge nurse may be appropriate later, but handing off the concern first avoids accountability; the nurse can acknowledge the lapse and act now.",
+        "Incorrect. A specific, realistic commitment builds trust, but it postpones the unmet need and does not acknowledge the missed follow-up.",
+        "Correct. Honestly owning the missed follow-up and acting on the unmet need right away restores trust better than an excuse, a handoff, or a future promise alone."
       ],
       "rationale": "Trust is supported by honest acknowledgment, reliable follow-through, and realistic commitments. Defensiveness or impossible promises can worsen the relationship. Assess the unmet need and communicate a feasible plan.",
       "takeaway": "Repair trust with acknowledgment and concrete follow-through.",
@@ -503,7 +509,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m29-u6-012",
@@ -512,16 +519,16 @@ window.NURSE_DATA.push({
       "stem": "After practicing a transfer, which feedback best supports a client’s self-efficacy?",
       "options": [
         "“You completed that transfer using the safe technique.”",
-        "“You performed better than several of our clients.”",
-        "“You can manage all mobility tasks independently now.”",
-        "“Your success means that worry needed no discussion.”"
+        "“Great job! You did really well with that today.”",
+        "“You did that transfer better than you did yesterday.”",
+        "“Keep practicing, and this will get easier for you.”"
       ],
       "answer": 0,
       "optionRationales": [
-        "Correct. Specific feedback identifies the successful action supporting self-efficacy.",
-        "Incorrect. Comparison does not identify the useful action and can undermine dignity.",
-        "Incorrect. One performance does not establish independence for all tasks.",
-        "Incorrect. This dismisses a concern rather than supporting coping and mastery."
+        "Correct. Specific feedback that names what the client did correctly builds self-efficacy through recognized mastery. General praise, comparison, and future encouragement are supportive but less tied to the client’s actual success.",
+        "Incorrect. Praise is encouraging, but it is general and does not tell the client which skill was done well, so it builds less confidence from mastery.",
+        "Incorrect. Noting progress is supportive, but it centers on comparison rather than naming the safe technique the client used.",
+        "Incorrect. Encouraging practice is reasonable, but it looks ahead instead of recognizing the success the client just achieved."
       ],
       "rationale": "Specific feedback helps a person recognize what they did successfully and build confidence through mastery. Avoid comparison, dismissal, or overgeneralizing one performance into an unsupported independence claim.",
       "takeaway": "Name the actual safe action when reinforcing progress.",
@@ -535,7 +542,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m29-u6-013",
@@ -581,17 +589,17 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "A client says a prescribed antidepressant should “fix my whole personality and all my relationships.” Which response is most accurate?",
       "options": [
-        "“It will address the entire problem over time.”",
+        "“Many people notice changes within a few weeks.”",
         "“It targets symptoms within a broader treatment plan.”",
-        "“Only therapy can contribute to meaningful psychosocial recovery.”",
-        "“Improved mood will establish that every goal is met.”"
+        "“Be sure to take it exactly as it was prescribed.”",
+        "“Your provider can explain what this drug treats.”"
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. This overstates the scope of pharmacologic treatment.",
-        "Correct. Medication may treat particular symptoms while skills, therapy, and support address other needs.",
-        "Incorrect. Prescribed medication can have an appropriate symptom-focused role.",
-        "Incorrect. Mood response does not demonstrate every functional outcome."
+        "Incorrect. This is true about onset, but it does not correct the belief that the drug will fix personality and relationships.",
+        "Correct. The client expects the drug to fix everything. Explaining that it targets symptoms as one part of a broader plan corrects the misconception directly and sets realistic expectations.",
+        "Incorrect. Adherence teaching is important, but it does not address the client’s unrealistic expectation of what the drug can do.",
+        "Incorrect. The provider can add detail, but medication teaching is within the nurse’s role, and deferring leaves the misconception uncorrected."
       ],
       "rationale": "Medication may address diagnosed symptoms such as depression or anxiety, but it is not a universal remedy for self-concept or relationships. Teach the actual purpose, monitor response, and support the coordinated plan.",
       "takeaway": "Explain medication as one part of symptom-focused coordinated care.",
@@ -605,7 +613,8 @@ window.NURSE_DATA.push({
       "focus": "Pharmacology",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m29-u6-015",
@@ -613,17 +622,17 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "A client is learning device care but becomes tearful and says, “I cannot face looking at it yet.” No immediate care emergency is present. What should the nurse do first?",
       "options": [
-        "Demonstrate everything before returning to the expressed feelings.",
-        "Transfer teaching to family without discussing client preferences.",
+        "Continue the demonstration while offering reassurance.",
+        "Ask a family member to learn the device care for now.",
         "Explore distress and agree on a manageable next step.",
-        "Keep the original independence goal and unchanged pace."
+        "Postpone all teaching until the client says they are ready."
       ],
       "answer": 2,
       "optionRationales": [
-        "Incorrect. This may overwhelm the learner and bypass the expressed readiness concern.",
-        "Incorrect. The client should remain involved and support preferences assessed.",
-        "Correct. This supports gradual participation while maintaining care and safety.",
-        "Incorrect. The current assessment calls for adaptation rather than an unchanged demand."
+        "Incorrect. Reassurance is kind and the skill is needed, but continuing as planned skips assessing the client’s distress and may overwhelm learning.",
+        "Incorrect. A support person may help, but shifting teaching without the client’s input bypasses their preferences and their own adaptation.",
+        "Correct. Exploring what the distress means and agreeing on a small next step respects body-image adaptation while keeping necessary learning moving.",
+        "Incorrect. Respecting readiness is reasonable, but stopping all teaching without a plan delays needed self-care skills; a manageable step keeps progress going."
       ],
       "rationale": "Body-image adaptation and skill learning may progress at different rates. Assess the meaning of the distress, preserve necessary care, and agree on a feasible next step with support. Immediate danger is absent, so coercive speed is not justified.",
       "takeaway": "Support gradual participation according to assessed readiness.",
@@ -638,7 +647,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m29-u6-016",
@@ -646,19 +656,19 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "A 4-year-old scheduled for a blood draw keeps asking, “What is that for?” about the tourniquet and bandages. The procedure must occur today. Which action should the nurse take first to support the child’s developmental needs?",
       "options": [
-        "Ask the child whether the blood draw should happen today or tomorrow.",
+        "Give a short, honest explanation right before the draw begins.",
         "Let the child touch the supplies and “practice” on a stuffed animal.",
-        "Give the child a detailed explanation of possible complications.",
-        "Complete the procedure quickly before the child asks more questions."
+        "Let the child choose which arm to use for the blood draw.",
+        "Have a parent hold and comfort the child during the draw."
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. Offering a choice about a necessary procedure that cannot be honored is misleading and undermines trust.",
-        "Correct. Hands-on play and answered questions support initiative while the necessary care still happens.",
-        "Incorrect. Detailed risk information is beyond a preschooler’s understanding and may increase fear.",
-        "Incorrect. Rushing to avoid questions discourages the curiosity that preschool initiative depends on."
+        "Incorrect. Brief, honest explanations given close to the procedure fit preschoolers, but words alone answer the child’s questions less well than hands-on play with the actual supplies.",
+        "Correct. Preschoolers learn through hands-on play and questions. Handling safe supplies and rehearsing on a toy answers the child’s questions concretely and builds initiative before the procedure.",
+        "Incorrect. A limited choice supports control, but it does not answer the child’s questions about the equipment; play rehearsal addresses the curiosity directly.",
+        "Incorrect. Parental comfort reduces fear during the draw, but it does not meet the child’s present need to explore and understand the supplies."
       ],
-      "rationale": "Preschool children develop initiative through exploration, play, and questions. Letting the child handle safe equipment and rehearse on a toy gives a developmentally appropriate explanation and a sense of participation. The procedure itself is not optional, so the nurse should not offer a choice about whether it occurs. Explanations should be concrete and brief rather than detailed lists of risks.",
+      "rationale": "Preschool children develop initiative through exploration, play, and questions. Letting the child handle safe equipment and rehearse on a toy gives a developmentally appropriate explanation and a sense of participation. Limited choices and parental comfort also help, but they do not answer the child’s questions the way play does. The procedure itself is not optional, and explanations should be concrete and brief, given with enough time for the child to explore.",
       "takeaway": "For preschoolers, use play and simple explanation to support initiative within necessary care.",
       "hintContent": "Match the intervention to initiative: exploration, play, and questions.",
       "hintStrategy": "Identify the immediate need and the action that addresses it before longer-term steps.",
@@ -670,7 +680,8 @@ window.NURSE_DATA.push({
       "focus": "Lifespan & Diversity",
       "difficulty": 2,
       "clientNeed": "Health Promotion and Maintenance",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m29-u6-017",
@@ -678,19 +689,19 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "A 15-year-old with a new insulin pump has stopped going to swim practice and says, “Everyone is going to stare at this thing.” Which response should the nurse make first?",
       "options": [
-        "“The pump is medically necessary, so try not to worry about what others think.”",
+        "“Lots of teens with diabetes wear pumps and still swim.”",
         "“Let me review again how the pump keeps your blood glucose controlled.”",
-        "“Your parents can decide what to tell your teammates about the pump.”",
+        "“Would you like to meet another teen who uses a pump?”",
         "“What worries you most about how your teammates might react?”"
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. This dismisses a legitimate peer-related concern and closes the conversation.",
-        "Incorrect. The adolescent’s concern is peer reaction, not a lack of information about the device’s purpose.",
-        "Incorrect. Shifting the decision to parents bypasses the adolescent’s developing identity and independence.",
-        "Correct. An open question explores the adolescent’s specific concern before problem-solving together."
+        "Incorrect. This is true and meant to reassure, but it skips over the teen’s specific fear and can feel dismissive.",
+        "Incorrect. Teaching about the pump is useful, but the teen is voicing a peer and self-image concern, not a knowledge gap.",
+        "Incorrect. Peer support can help adolescents, but offering it before learning what the teen fears is intervening before assessing.",
+        "Correct. Adolescents are forming identity and care deeply about peers. Exploring the specific fear first lets the nurse and teen plan together, such as disclosure choices or managing the device during swimming."
       ],
-      "rationale": "Adolescents are working on identity, and appearance, peer belonging, and privacy may matter greatly. Withdrawing from a valued activity because of peer reactions is a self-concept concern, not a knowledge deficit about the device. The nurse first explores what the adolescent fears, then problem-solves collaboratively, such as options for disclosure or managing the device around swimming per the diabetes plan. Dismissing the concern as vanity or redirecting it to parents weakens engagement.",
+      "rationale": "Adolescents are working on identity, and appearance, peer belonging, and privacy may matter greatly. Withdrawing from a valued activity because of peer reactions is a self-concept concern, not a knowledge deficit about the device. The nurse first explores what the adolescent fears, then problem-solves collaboratively, such as options for disclosure, peer support, or managing the device around swimming per the diabetes plan. General reassurance or jumping to solutions before understanding the fear weakens engagement.",
       "takeaway": "With adolescents, explore the peer and identity concern directly before teaching or problem-solving.",
       "hintContent": "Ask whether the stated problem is missing information or the meaning of being seen with a device.",
       "hintStrategy": "Identify the immediate need and the action that addresses it before longer-term steps.",
@@ -702,7 +713,8 @@ window.NURSE_DATA.push({
       "focus": "Lifespan & Diversity",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m29-u6-018",
@@ -711,18 +723,18 @@ window.NURSE_DATA.push({
       "stem": "A former competitive runner recovering from a knee reconstruction says, “In my head I am still the athlete I want to be, but now I am just someone who limps around with a cane.” Which interpretation best guides the nurse’s assessment?",
       "options": [
         "The client’s public self has replaced the client’s personal identity.",
-        "The client’s ideal self is unrealistic and should be lowered right away.",
+        "The client is in denial about how serious the injury really is.",
         "A gap between the client’s real and ideal self may be causing distress.",
-        "The statement establishes that the client has a body-image disorder."
+        "The client is showing body-image distress about using a cane."
       ],
       "answer": 2,
       "optionRationales": [
-        "Incorrect. The statement describes how the client sees themselves now versus who they want to be, not how they present to others.",
-        "Incorrect. Telling the client to abandon a valued ideal dismisses the loss instead of exploring it.",
-        "Correct. The client contrasts present perceived self with a desired self, which can create distress worth exploring.",
-        "Incorrect. One statement does not establish a disorder; it invites assessment of meaning and function."
+        "Incorrect. Others’ views may matter to an athlete, but the client is contrasting how they see themselves with who they want to be, not public versus personal identity.",
+        "Incorrect. Denial is common after injury, but this client openly acknowledges the limp and cane, so the statement does not suggest denial.",
+        "Correct. The client contrasts who they want to be (the athlete) with how they now see themselves, describing a real-ideal self gap that can cause distress and threaten identity.",
+        "Incorrect. The cane may affect body image, but the client’s distress is about identity as an athlete, which the real-ideal self gap explains more fully."
       ],
-      "rationale": "The real self is how the person believes they are, and the ideal self is who they want to be. This client describes a large gap between the two, which can produce distress and threaten identity. The nurse acknowledges the loss and explores what remains meaningful and what adaptation might matter now. These concepts describe perceptions, not an objective measure of worth, and a single statement does not support a diagnosis.",
+      "rationale": "The real self is how the person believes they are, and the ideal self is who they want to be. This client describes a large gap between the two, which can produce distress and threaten identity. The nurse acknowledges the loss and explores what remains meaningful and what adaptation might matter now. These concepts describe perceptions, not an objective measure of worth, and the concern is broader than appearance alone.",
       "takeaway": "A large real–ideal self gap signals distress to explore, not a label to assign.",
       "hintContent": "Real self is “how I am now”; ideal self is “who I want to be”; public self is “how others see me.”",
       "hintStrategy": "Use the specific cues in the scenario to compare all options; choose the one that best meets the stated goal.",
@@ -734,7 +746,8 @@ window.NURSE_DATA.push({
       "focus": "Assessment Findings",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m29-u6-019",
@@ -743,16 +756,16 @@ window.NURSE_DATA.push({
       "stem": "A nurse who highly values independence feels frustrated that an older adult recovering from pneumonia lets an adult daughter help with bathing and make many daily decisions. The client is medically able to do more and says this arrangement is normal in the family. What should the nurse do first?",
       "options": [
         "Examine own values about independence, then ask about the client’s preferences.",
-        "Document that the client is refusing to participate in the self-care goals of the plan.",
-        "Ask the daughter to step out during care so the client will build more independence.",
-        "Explain to the client that full independence is required for a healthy recovery."
+        "Encourage the client to try bathing with standby help to build strength.",
+        "Teach the daughter ways to promote the client’s independence at home.",
+        "Ask the client which self-care tasks the client would like to do alone."
       ],
       "answer": 0,
       "optionRationales": [
-        "Correct. Self-awareness keeps the nurse’s values from being imposed, and asking preferences centers the client.",
-        "Incorrect. Labeling a culturally consistent preference as refusal reflects the nurse’s bias rather than an assessed problem.",
-        "Incorrect. Removing a chosen support person imposes the nurse’s values and may damage trust.",
-        "Incorrect. Recovery goals should reflect the client’s priorities, not a single definition of independence."
+        "Correct. The nurse first recognizes that their own value on independence is shaping the reaction, then asks what the client wants. This prevents imposing the nurse’s values and builds goals around the client’s chosen family roles.",
+        "Incorrect. Building strength supports recovery, but pushing independent bathing reflects the nurse’s values before learning what the client wants.",
+        "Incorrect. Family teaching can be useful, but redirecting the daughter assumes the arrangement is a problem the client has not identified.",
+        "Incorrect. Asking about preferences is a good step, but this question still frames the goal as doing tasks alone, reflecting the nurse’s value on independence that should be examined first."
       ],
       "rationale": "Nurses bring their own beliefs about independence and family into care, and these can distort interpretation. A client’s values may differ from the nurse’s without being unhealthy. The first step is to notice that reaction and then ask what the client wants, including which tasks the client hopes to keep doing. Goals can then support safe recovery and the client’s chosen family roles.",
       "takeaway": "Check your own values before labeling a client’s different preference as a problem.",
@@ -766,7 +779,8 @@ window.NURSE_DATA.push({
       "focus": "Lifespan & Diversity",
       "difficulty": 3,
       "clientNeed": "Psychosocial Integrity",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m29-u6-020",
@@ -774,19 +788,19 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "An 82-year-old client receiving palliative care says, “Lately I keep thinking back over my life. Some of it I am proud of, and some of it I regret.” The client denies hopelessness or thoughts of self-harm. Which response best supports this developmental stage?",
       "options": [
-        "“Let us focus on how you are feeling today instead of dwelling on the past.”",
-        "“Everyone has some regrets in life, so try not to think about them too much.”",
-        "“I can bring you a puzzle book or some music to keep your mind busy.”",
+        "“It sounds like you have lived a full and meaningful life.”",
+        "“Would you like me to ask the chaplain to visit with you?”",
+        "“Have you shared these thoughts with anyone in your family?”",
         "“Tell me about the parts you are proud of and the parts you regret.”"
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. Redirecting away from the past blocks the life review that supports integrity.",
-        "Incorrect. Minimizing regret is false reassurance and closes the conversation.",
-        "Incorrect. Distraction avoids the meaningful reflection the client is initiating.",
-        "Correct. Inviting the client’s story supports life review and the search for integrity and meaning."
+        "Incorrect. This is warm, but it offers a conclusion for the client and passes over the regrets the client raised.",
+        "Incorrect. Spiritual care may help in palliative care, but referring the client elsewhere first misses the chance to support the life review now.",
+        "Incorrect. Family support matters, but this question shifts focus away from the client’s reflection instead of inviting it.",
+        "Correct. Older adulthood involves life review and integrity versus despair. Inviting the client to share both pride and regret supports reflection directly, rather than concluding, referring, or redirecting."
       ],
-      "rationale": "Older adulthood involves life review and the tension between integrity and despair. Inviting the client to share both proud moments and regrets supports reflection and acknowledges the person’s contributions. Redirecting, minimizing, or distracting can leave the client alone with unresolved feelings. If hopelessness or self-harm cues emerged, direct safety assessment would take priority.",
+      "rationale": "Older adulthood involves life review and the tension between integrity and despair. Inviting the client to share both proud moments and regrets supports reflection and acknowledges the person’s contributions. Offering a conclusion, referring right away, or shifting the focus to others can leave the client alone with unresolved feelings. If hopelessness or self-harm cues emerged, direct safety assessment would take priority.",
       "takeaway": "Support integrity by inviting life review rather than redirecting it.",
       "hintContent": "Which response lets the client continue the reflection they started?",
       "hintStrategy": "Use the specific cues in the scenario to compare all options; choose the one that best meets the stated goal.",
@@ -798,7 +812,8 @@ window.NURSE_DATA.push({
       "focus": "Lifespan & Diversity",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m29-u6-021",
@@ -886,17 +901,17 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "A 7-month-old is admitted for several days of IV antibiotics, and the parents cannot stay overnight. Which nursing action is the priority to support the infant’s psychosocial development?",
       "options": [
-        "Allow the infant to cry for longer periods to learn self-soothing.",
-        "Rotate many different staff so the infant becomes used to strangers.",
+        "Place a familiar blanket or toy from home in the infant’s crib.",
+        "Encourage the parents to call the unit for updates each day.",
         "Assign consistent caregivers and respond promptly to the infant’s cries.",
-        "Limit holding to feeding times to prevent the infant from becoming overstimulated."
+        "Cluster care so the infant has longer periods of uninterrupted rest."
       ],
       "answer": 2,
       "optionRationales": [
-        "Incorrect. Delayed responses to distress work against the development of trust.",
-        "Incorrect. Frequent caregiver changes reduce the predictability that supports trust.",
-        "Correct. Consistent, responsive care supports the infant’s development of trust.",
-        "Incorrect. Restricting comfort reduces the responsive contact infants need."
+        "Incorrect. Comfort objects can soothe, but they do not replace consistent, responsive caregivers, which are central to building trust.",
+        "Incorrect. Keeping parents informed is helpful, but it supports the parents more than it meets the infant’s direct need for responsive care.",
+        "Correct. Infancy centers on trust versus mistrust. When parents cannot stay, consistent caregivers who respond promptly to cries give the predictability the infant needs; comfort objects and parent updates are helpful additions.",
+        "Incorrect. Clustering care supports rest, a physical need, but it does not address the infant’s psychosocial need for consistent, responsive caregivers."
       ],
       "rationale": "Infancy centers on trust versus mistrust, which is supported by consistent, responsive care. When parents cannot be present, assigning consistent caregivers and comforting the infant promptly provide predictability. Keeping parents informed and encouraging familiar routines or comfort objects can also help. Developmental frameworks describe needs; one hospitalization does not determine a permanent outcome, but responsive care still matters.",
       "takeaway": "Infants build trust through consistent, responsive caregiving.",
@@ -910,7 +925,8 @@ window.NURSE_DATA.push({
       "focus": "Lifespan & Diversity",
       "difficulty": 2,
       "clientNeed": "Health Promotion and Maintenance",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m29-u6-024",
@@ -920,15 +936,15 @@ window.NURSE_DATA.push({
       "options": [
         "States, “I feel too full after every meal.”",
         "Serum phosphorus of 1.8 mg/dL.",
-        "Asks to choose meals with the dietitian.",
+        "Weight up 0.5 kg (1.1 lb) since admission.",
         "Reports feeling cold in the room."
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. Early fullness is common as intake increases and should be noted, but it is not immediately dangerous.",
+        "Incorrect. Early fullness is common as intake increases and is worth noting, but it is uncomfortable rather than dangerous.",
         "Correct. Low phosphorus soon after nutrition restarts suggests refeeding syndrome, which can cause cardiac and respiratory complications.",
-        "Incorrect. Participating in meal planning is a positive sign of engagement.",
-        "Incorrect. Cold intolerance is common with low body weight and is not the most urgent finding."
+        "Incorrect. Weight is monitored closely during refeeding, but a small gain over 2 days is expected and is not an immediate threat.",
+        "Incorrect. Cold intolerance is common with low body weight and needs comfort measures, but it does not signal acute danger the way low phosphorus does."
       ],
       "rationale": "When nutrition is restarted after severe restriction, refeeding syndrome can develop, marked by drops in phosphorus, potassium, and magnesium. A phosphorus of 1.8 mg/dL is below the usual reference range of about 2.5–4.5 mg/dL and can lead to dysrhythmias, weakness, and respiratory compromise. The nurse should promptly report the value and follow the monitoring and escalation plan. Electrolyte replacement and changes to the feeding plan are interprofessional decisions, not something the nurse designs alone.",
       "takeaway": "Watch phosphorus, potassium, and magnesium closely in the first days of refeeding.",
@@ -942,7 +958,8 @@ window.NURSE_DATA.push({
       "focus": "Prioritization",
       "difficulty": 3,
       "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m29-u6-025",
@@ -972,7 +989,8 @@ window.NURSE_DATA.push({
       "focus": "Assessment Findings",
       "difficulty": 2,
       "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m29-u6-026",
@@ -1002,7 +1020,8 @@ window.NURSE_DATA.push({
       "focus": "Pathophysiology",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m29-u6-027",
@@ -1066,7 +1085,8 @@ window.NURSE_DATA.push({
       "focus": "Prioritization",
       "difficulty": 3,
       "clientNeed": "Psychosocial Integrity",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m29-u6-029",
@@ -1077,16 +1097,16 @@ window.NURSE_DATA.push({
         "Persistent nonfood eating needs assessment for hazards such as lead exposure.",
         "Mouthing objects is expected at this age, so reassurance is the main need.",
         "The behavior shows the child is not receiving enough calories at meals.",
-        "The behavior is a discipline problem best handled by stricter limits at home."
+        "Removing access to paint chips and soil is the main need at this point."
       ],
       "answer": 0,
       "optionRationales": [
-        "Correct. Persistent nonfood ingestion beyond developmental expectation suggests pica and needs evaluation of associated hazards.",
-        "Incorrect. Repeated, persistent ingestion of paint and soil goes beyond expected exploration and carries risk.",
-        "Incorrect. Pica is not explained simply by low calorie intake, so this conclusion is premature.",
-        "Incorrect. Framing the behavior as defiance overlooks a possible health condition and exposure risk."
+        "Correct. Repeatedly eating paint chips and soil for months is pica, not ordinary mouthing, and can expose the child to lead and other hazards. The history needs reporting so exposure and causes can be evaluated.",
+        "Incorrect. Some mouthing is normal in young children, but repeatedly eating paint and soil for 2 months is beyond expected behavior and carries real hazards.",
+        "Incorrect. Nutritional deficits such as iron deficiency can be linked to pica, but assuming low calories skips assessment for lead exposure and other causes.",
+        "Incorrect. Removing access is a reasonable safety step, but the child may already be exposed to lead, so assessment is still needed."
       ],
-      "rationale": "Pica is the persistent eating of nonfood substances beyond what is developmentally and culturally expected. Repeatedly eating peeling paint chips over months is not ordinary mouthing and can expose the child to lead and other hazards. The nurse should report the history so exposure and associated causes can be evaluated. Reassurance or discipline alone would miss a potentially serious health risk.",
+      "rationale": "Pica is the persistent eating of nonfood substances beyond what is developmentally and culturally expected. Repeatedly eating peeling paint chips over months is not ordinary mouthing and can expose the child to lead and other hazards. The nurse should report the history so exposure and associated causes can be evaluated. Reassurance or simply removing access would miss a potentially serious health risk that may already exist.",
       "takeaway": "Persistent nonfood eating needs assessment for associated hazards such as lead exposure.",
       "hintContent": "Compare the behavior with what is developmentally expected and consider what was eaten.",
       "hintStrategy": "Use the specific cues in the scenario to compare all options; choose the one that best meets the stated goal.",
@@ -1098,7 +1118,8 @@ window.NURSE_DATA.push({
       "focus": "Assessment Findings",
       "difficulty": 2,
       "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m29-u6-030",
@@ -1209,7 +1230,8 @@ window.NURSE_DATA.push({
       "focus": "Delegation & Safety",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m29-u6-033",
@@ -1217,19 +1239,19 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "A client stands at the nurses’ station shouting about wanting to go outside to smoke, and other clients are watching. The client has made no threats and has no weapon. Which response should the nurse make first?",
       "options": [
-        "“Stop yelling right now, or you will lose your phone privileges.”",
-        "“Fine, I will let you go this once, but do not tell anyone.”",
-        "“If you keep acting this way, I will have to call security to the unit.”",
+        "“Smoking is not allowed on the unit. Please return to your room.”",
+        "“Other clients are getting upset. Please lower your voice right now.”",
+        "“I can ask the provider about a nicotine patch to help with cravings.”",
         "“I want to help. Let us talk in the quiet room or here once voices lower.”"
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. A threat escalates conflict and makes the limit punitive.",
-        "Incorrect. Bargaining and secret exceptions undermine consistent team expectations.",
-        "Incorrect. Threatening security when no immediate danger exists escalates rather than de-escalates.",
-        "Correct. A calm limit that acknowledges the concern and offers choices supports safety and trust."
+        "Incorrect. Stating the rule is a clear limit, but it ignores the client’s concern and offers no choice, which can escalate frustration.",
+        "Incorrect. Asking for a lower voice sets a limit, but focusing on other clients can feel shaming and does not acknowledge the client’s need.",
+        "Incorrect. Nicotine replacement may help later, but jumping to a solution before calming the situation is mistimed and does not set a limit.",
+        "Correct. A therapeutic limit calmly acknowledges the concern, states the expectation, and offers choices. Moving to a quieter space protects the client’s dignity and other clients’ comfort."
       ],
-      "rationale": "Therapeutic limits state the expectation calmly, acknowledge the person’s concern, and offer available choices. Threats, arguments, and bargaining make limits feel punitive or inconsistent and can escalate behavior. A private, quieter space also protects the client’s dignity and other clients’ comfort. If danger develops, the nurse obtains help and follows the response plan rather than managing it alone.",
+      "rationale": "Therapeutic limits state the expectation calmly, acknowledge the person’s concern, and offer available choices. Rules stated without acknowledgment, or limits that focus on others, can feel punitive and escalate behavior, while solutions offered before de-escalation are mistimed. A private, quieter space also protects the client’s dignity and other clients’ comfort. If danger develops, the nurse obtains help and follows the response plan rather than managing it alone.",
       "takeaway": "Set limits calmly with a stated expectation and real choices, without threats or bargaining.",
       "hintContent": "Look for the response that keeps both the limit and the relationship.",
       "hintStrategy": "Identify the immediate need and the action that addresses it before longer-term steps.",
@@ -1241,7 +1263,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m29-u6-034",
@@ -1251,15 +1274,15 @@ window.NURSE_DATA.push({
       "options": [
         "Assess the chest pain and vital signs while calmly stating the expectation.",
         "Delay the assessment until the client stops shouting to avoid reinforcing the behavior.",
-        "Document the outburst as attention-seeking behavior and notify the charge nurse.",
-        "Tell the client that the pain will be addressed once the client apologizes."
+        "Notify the provider of the chest pain before going to assess the client.",
+        "Give the prescribed PRN pain medication, then reassess the chest pain."
       ],
       "answer": 0,
       "optionRationales": [
-        "Correct. New chest pain requires immediate assessment, and a calm limit can be set at the same time.",
-        "Incorrect. Withholding assessment of possible cardiac pain is unsafe and punitive.",
-        "Incorrect. A label assumes motive and does nothing for a potentially serious symptom.",
-        "Incorrect. Essential care must never be used as a reward for behavior."
+        "Correct. New chest pain rated 8/10 could signal a serious physiologic problem, so the nurse assesses right away while calmly stating the behavioral expectation. Limits never require withholding essential care.",
+        "Incorrect. Avoiding reinforcement of behavior is a real goal, but delaying assessment of new chest pain risks missing a life-threatening problem.",
+        "Incorrect. The provider will likely need to know, but the nurse should first gather pain and vital-sign data to report.",
+        "Incorrect. Pain relief matters, but treating new chest pain before assessing it may mask a cardiac problem and skips needed data."
       ],
       "rationale": "Setting limits never requires withholding essential assessment or treatment. New chest pain could signal a serious physiologic problem, so the nurse assesses immediately while calmly stating the behavioral expectation. A behavioral label must not obscure pain, medical instability, or medication effects. After the situation is safe, the team can coordinate a consistent plan for the behavior.",
       "takeaway": "Limits and essential care happen together; never withhold assessment to manage behavior.",
@@ -1273,7 +1296,8 @@ window.NURSE_DATA.push({
       "focus": "Prioritization",
       "difficulty": 3,
       "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m29-u6-035",
@@ -1284,14 +1308,14 @@ window.NURSE_DATA.push({
         "“Self-esteem has improved significantly since admission, based on nursing judgment.”",
         "“Client named two personal strengths and emptied the pouch with coaching.”",
         "“Client appears happier and more cheerful today than on the prior shift.”",
-        "“Client stated, ‘I feel better,’ indicating that all self-concept goals are met.”"
+        "“Client stated, ‘I feel better about how I look with the pouch now.’”"
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. A conclusion without observable data does not show how progress was measured.",
-        "Correct. Specific behaviors and participation provide measurable evidence of progress.",
-        "Incorrect. A general impression of mood is subjective and nonspecific.",
-        "Incorrect. One positive statement matters but does not show that every goal is met."
+        "Incorrect. Nursing judgment matters, but this is a conclusion without the observable evidence behind it.",
+        "Correct. Naming strengths and performing pouch care with coaching are specific, observable behaviors showing both self-perception and engagement in care, the strongest evidence of self-concept progress.",
+        "Incorrect. Mood observations are useful, but “appears happier” is subjective and does not show specific self-concept behaviors.",
+        "Incorrect. The client’s own words are meaningful evidence, but a single statement is stronger when paired with observable behavior and participation in care."
       ],
       "rationale": "Progress in self-concept is evaluated through the client’s experience together with specific behavior, participation, coping, safety, and function. Naming strengths and performing a chosen care task with coaching are observable outcomes. Broad conclusions such as “self-esteem improved” do not show the evidence behind them. A client saying they feel better is meaningful, but it should be considered alongside function and safety.",
       "takeaway": "Evaluate self-concept with specific, observable participation and function.",
@@ -1305,7 +1329,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m29-u6-036",
@@ -1314,16 +1339,16 @@ window.NURSE_DATA.push({
       "stem": "A client’s treatment plan includes dialectical behavior therapy (DBT) with a licensed therapist. In the evening, the client tells the nurse, “I am so upset after that phone call that I cannot calm down.” The client denies thoughts of harming self or others. Which nursing action best fits the plan?",
       "options": [
         "Hold a full DBT session tonight to speed up the client’s progress.",
-        "Suggest the client set therapy skills aside now that medication has started.",
+        "Offer a prescribed PRN anxiolytic to help the client calm down.",
         "Coach the client to use a distress-tolerance skill practiced in therapy.",
-        "Replace the DBT skills with a relaxation method the nurse prefers."
+        "Encourage the client to discuss the phone call at the next therapy session."
       ],
       "answer": 2,
       "optionRationales": [
-        "Incorrect. Delivering a full specialist protocol is outside the nurse’s role and the treatment plan.",
-        "Incorrect. Medication targets symptoms and does not replace skills-based therapy.",
-        "Correct. Nurses reinforce skills within the treatment plan, such as distress tolerance.",
-        "Incorrect. Substituting a different method disrupts the coordinated plan and its consistency."
+        "Incorrect. Supporting DBT is appropriate, but delivering a full session is outside the nurse’s role; trained therapists provide the therapy.",
+        "Incorrect. A PRN may be appropriate if distress continues, but the least restrictive step is to coach a coping skill the client already has.",
+        "Correct. Nurses support the plan by coaching skills learned in therapy. Distress tolerance fits acute upset in a client without safety concerns and is less restrictive than medication.",
+        "Incorrect. Bringing the event to therapy is useful, but the client needs help calming down now, not only later."
       ],
       "rationale": "DBT includes skills such as mindfulness, emotion regulation, and distress tolerance. Nurses support the treatment plan by reinforcing skills the client has learned, while trained clinicians deliver the full therapy. A brief supportive coaching moment should not be presented as a specialist session. Because the client denies thoughts of harm, coaching is appropriate, but the nurse continues to monitor safety.",
       "takeaway": "Reinforce the client’s therapy skills within the plan rather than replacing or expanding the therapy.",
@@ -1337,7 +1362,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m29-u6-037",

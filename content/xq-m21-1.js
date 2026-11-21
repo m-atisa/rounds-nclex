@@ -72,7 +72,8 @@ window.NURSE_DATA.push({
         "Incorrect. Body image is a valid concern, but psychosocial needs come after physiologic threats."
       ],
       "rationale": "Intact skin keeps body fluids in, keeps germs out, and holds in heat. When a large area of epidermis and dermis is lost, all three functions fail at once. This client's heart rate is climbing while blood pressure and urine output fall, which is the classic picture of fluid volume loss, a circulation problem that outranks everything else listed. The temperature drop is tempting because heat loss is also a skin-function failure, but it is mild and not yet dangerous, while low urine output with tachycardia signals that perfusion is already affected.",
-      "takeaway": "Large skin loss threatens fluid, infection, and heat; signs of fluid loss (↑ HR, ↓ BP, ↓ urine) come first."
+      "takeaway": "Large skin loss threatens fluid, infection, and heat; signs of fluid loss (↑ HR, ↓ BP, ↓ urine) come first.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-002",
@@ -89,20 +90,21 @@ window.NURSE_DATA.push({
       "stem": "During a home visit, the nurse inspects the feet of a 61-year-old client with type 2 diabetes and peripheral neuropathy. On the right heel there is a 2-cm open blister with redness and warmth extending 3 cm around it. The client says, \"I didn't even know that was there.\" Which action should the nurse take first?",
       "options": [
         "Teach the client to inspect both feet every day using a mirror",
-        "Advise the client to keep the heel uncovered so it can air dry",
-        "Recommend soaking the foot in warm water twice a day",
+        "Outline the redness with a pen to track spread later",
+        "Advise the client to keep weight off the right heel",
         "Notify the provider about the open, reddened area"
       ],
       "answer": 3,
       "priority": true,
       "optionRationales": [
         "Incorrect. Daily inspection is essential teaching, but the open, inflamed area needs to be reported first.",
-        "Incorrect. An open wound should be protected, not left exposed to pressure and germs.",
-        "Incorrect. Soaking softens skin and raises the risk of burns and infection in a foot the client cannot feel.",
+        "Incorrect. Marking the borders of redness is a useful way to monitor spread, but these signs of infection already need the provider now, and watching delays treatment.",
+        "Incorrect. Offloading pressure helps the heel heal, but it does not treat the likely infection, so it is incomplete without notifying the provider.",
         "Correct. An open lesion with spreading redness and warmth in a client who cannot feel the foot may already be infected and can worsen quickly, so the provider needs to know now."
       ],
       "rationale": "Neuropathy removes the pain warning that normally makes a person notice and protect an injury. Because of that, a small blister can become a serious infection before the client notices anything. Redness and warmth spreading around an open area suggest infection, which is a red-flag finding that must be reported promptly. Teaching daily foot inspection is the most tempting answer because it is correct long-term care, but the existing wound is the acute problem and comes first.",
-      "takeaway": "A new open area on a foot the client cannot feel is reported right away; teaching comes after the acute problem is handled."
+      "takeaway": "A new open area on a foot the client cannot feel is reported right away; teaching comes after the acute problem is handled.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-003",
@@ -121,20 +123,21 @@ window.NURSE_DATA.push({
       "stem": "A nurse in the birthing center is helping a mother give her 2-hour-old newborn a first sponge bath. The newborn's axillary temperature before the bath was 36.6 °C (97.9 °F). Which action is most important as soon as the bath is finished?",
       "options": [
         "Dry the newborn and place the newborn skin-to-skin under a blanket",
-        "Recheck the temperature 1 hour after the bath",
-        "Apply a fragranced baby lotion to the newborn's arms and legs",
-        "Leave the newborn uncovered in the bassinet so the skin can air dry"
+        "Recheck the newborn's axillary temperature 1 hour after the bath",
+        "Place a knit cap on the newborn's head to limit heat loss",
+        "Swaddle the newborn in a warm blanket and place in the bassinet"
       ],
       "answer": 0,
       "priority": true,
       "optionRationales": [
         "Correct. Thin newborn skin with little fat loses heat quickly, especially when wet, so drying and warming right away protects body temperature.",
-        "Incorrect. Rechecking is reasonable later, but waiting an hour lets heat loss continue when it could be prevented now.",
-        "Incorrect. Newborn skin absorbs products easily, and lotion does nothing to prevent the immediate heat loss.",
-        "Incorrect. Air drying uses evaporation, which pulls heat from the body and can cause rapid cooling."
+        "Incorrect. Monitoring temperature is appropriate, but heat loss from wet skin is predictable, so the nurse should prevent it now rather than wait to measure it.",
+        "Incorrect. A cap reduces heat loss from the large head, but the body is still wet and losing heat by evaporation, so this is only part of the needed care.",
+        "Incorrect. Swaddling adds warmth, but it skips thorough drying first and is less effective than skin-to-skin contact for rewarming a newborn."
       ],
-      "rationale": "Infants have thinner skin and less subcutaneous fat than adults, so they lose heat quickly, and wet skin loses heat even faster through evaporation. The priority after a bath is to stop that heat loss by drying the newborn completely and warming them with skin-to-skin contact and a blanket. Rechecking the temperature is tempting because assessment often comes first, but the risk here is predictable and the protective action should not wait. Lotions add a product-absorption risk without helping temperature.",
-      "takeaway": "Newborn skin is thin and loses heat fast; dry immediately and warm skin-to-skin after a bath."
+      "rationale": "Infants have thinner skin and less subcutaneous fat than adults, so they lose heat quickly, and wet skin loses heat even faster through evaporation. The priority after a bath is to stop that heat loss by drying the newborn completely and warming them with skin-to-skin contact and a blanket. Rechecking the temperature is tempting because assessment often comes first, but the risk here is predictable and the protective action should not wait. A cap or swaddling helps, but each does only part of the job: the wet body must be dried, and skin-to-skin contact rewarms best.",
+      "takeaway": "Newborn skin is thin and loses heat fast; dry immediately and warm skin-to-skin after a bath.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-004",
@@ -155,7 +158,7 @@ window.NURSE_DATA.push({
         "A 78-year-old who walks in the hall four times a day and has no chronic illnesses",
         "A 42-year-old with a sutured forearm laceration who is up and about independently",
         "A 66-year-old with diabetes on bed rest after a hip fracture with a catheter",
-        "A 50-year-old with well-controlled hypertension who is ambulatory and eating well"
+        "A 50-year-old with heart failure and ankle edema who walks independently"
       ],
       "answer": 2,
       "priority": true,
@@ -163,10 +166,11 @@ window.NURSE_DATA.push({
         "Incorrect. Older age is one risk factor, but this client is mobile and otherwise healthy.",
         "Incorrect. Trauma is a risk factor, but the wound is closed and the client is mobile with no other risks.",
         "Correct. This client has several risk factors at once: chronic illness, limited mobility, and invasive devices that open or stress the skin barrier.",
-        "Incorrect. This client has no listed risk factors for skin breakdown."
+        "Incorrect. Edema stretches and weakens the skin, so it is a real risk factor, but this client walks independently and has fewer risks than a client on bed rest."
       ],
       "rationale": "Groups at highest risk for impaired tissue integrity include older adults, clients with limited mobility, clients with chronic illness such as diabetes, clients with trauma, and clients with invasive procedures or devices. The more risk factors a client has, the higher the risk. The client with diabetes on bed rest with a urinary catheter combines chronic illness, immobility, and invasive devices. The 78-year-old is tempting because age is a well-known risk, but a single factor in a mobile, healthy client is less concerning than several factors stacked together.",
-      "takeaway": "Count risk factors: chronic illness + immobility + invasive devices outweighs age alone."
+      "takeaway": "Count risk factors: chronic illness + immobility + invasive devices outweighs age alone.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-005",
@@ -219,7 +223,7 @@ window.NURSE_DATA.push({
         "\"I'll bring warm socks and an extra blanket to help you stay warm.\"",
         "\"I'll get the heating pad and set it on the lowest setting for you.\"",
         "\"I'll set a timer so the heating pad shuts off after 2 hours.\"",
-        "\"Feeling cold is normal at your age, so try to get used to it.\""
+        "\"I'll fill a hot water bottle and wrap it in a towel for your feet.\""
       ],
       "answer": 0,
       "priority": true,
@@ -227,10 +231,11 @@ window.NURSE_DATA.push({
         "Correct. Socks and blankets add insulation the resident has lost without creating a burn risk to skin with reduced sensation.",
         "Incorrect. Even a low setting can burn thin skin that the resident cannot feel, especially during sleep.",
         "Incorrect. A timer limits the time but not the risk; a burn can happen well within 2 hours on numb, thin skin.",
-        "Incorrect. Coldness is expected with less subcutaneous fat, but dismissing the request ignores a real comfort need."
+        "Incorrect. Wrapping the bottle in a towel sounds cautious, but it is still a direct heat source on feet that cannot sense a burn."
       ],
       "rationale": "Subcutaneous fat insulates the body, so older adults who have lost it feel cold easily. This resident also has reduced sensation, so a heat source on the feet could burn the skin before the resident notices. The safe solution replaces the lost insulation with socks, blankets, and warm clothing. The low-setting option is tempting because it sounds cautious, but the core problem is that the resident cannot feel heat damage, so any direct heat source is unsafe.",
-      "takeaway": "Replace lost insulation with layers, not heat sources, when sensation is decreased."
+      "takeaway": "Replace lost insulation with layers, not heat sources, when sensation is decreased.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-007",
@@ -298,7 +303,8 @@ window.NURSE_DATA.push({
         "Correct. A draining open area with fever in a foot the client cannot feel suggests a spreading infection that needs prompt evaluation."
       ],
       "rationale": "The client with neuropathy has lost the sensation function of the skin, so an injury can progress unnoticed, and this one already shows purulent drainage and fever, signs that the infection may be spreading beyond the skin. That makes it the only acute, unstable finding. Low vitamin D can seem important because it has a lab value attached, but it is chronic and stable. The steroid bruises and dry shins are expected findings that need routine care.",
-      "takeaway": "Acute infection signs in a client who cannot feel the injury outrank chronic, expected skin changes."
+      "takeaway": "Acute infection signs in a client who cannot feel the injury outrank chronic, expected skin changes.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-008",
@@ -328,7 +334,8 @@ window.NURSE_DATA.push({
         "Incorrect. Softening the skin does not reduce burn risk and can make the skin more prone to breakdown."
       ],
       "rationale": "Neuropathy removes the skin's ability to sense temperature and pain, so the client cannot tell whether water is hot enough to burn. Waiting until the feet \"feel warm\" is especially dangerous because the feet may never feel warm before they are burned. The most important teaching replaces the lost sensation with a reliable check: a bath thermometer or the elbow. Limiting soak time is tempting because it sounds protective, but a burn can happen in seconds when the client cannot feel heat.",
-      "takeaway": "When sensation is lost, teach the client to check temperature with a thermometer or the elbow, never the numb area."
+      "takeaway": "When sensation is lost, teach the client to check temperature with a thermometer or the elbow, never the numb area.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-009",
@@ -348,19 +355,20 @@ window.NURSE_DATA.push({
       "options": [
         "Pad bony prominences and use a pressure-redistributing surface",
         "Apply moisturizing cream to all bony areas before positioning",
-        "Lower the room temperature to reduce the client's sweating",
-        "Secure the client to the table with tape across the thighs"
+        "Inspect the skin over bony areas as soon as surgery ends",
+        "Cover the client with a forced-air warming blanket during surgery"
       ],
       "answer": 0,
       "priority": true,
       "optionRationales": [
         "Correct. With little subcutaneous fat to cushion bone, padding and a pressure-redistributing surface protect the skin during a long time in one position.",
         "Incorrect. Moisturizer helps dryness but does not cushion bone or relieve pressure.",
-        "Incorrect. Older adults lose heat easily, and a cold room increases the risk of hypothermia.",
-        "Incorrect. Tape on fragile older skin can tear it when removed, and it does nothing to cushion bony areas."
+        "Incorrect. Postoperative skin inspection is important, but it only finds damage after it happens; the question asks how to protect the skin during the procedure.",
+        "Incorrect. Preventing hypothermia matters for a frail older adult, but warming does not relieve pressure on bony prominences, which is the main skin threat."
       ],
       "rationale": "Subcutaneous tissue cushions bones and organs against pressure. A very thin older adult has lost much of that padding, so the bony prominences press directly against the operating table, and 4 hours without moving greatly increases the risk of pressure damage. Padding bony areas and using a pressure-redistributing surface replace the missing cushion. Moisturizing is tempting because it is a familiar skin-care step, but it does not address pressure, which is the main threat here.",
-      "takeaway": "Little subcutaneous fat means little cushion; pad bony prominences when a client cannot move."
+      "takeaway": "Little subcutaneous fat means little cushion; pad bony prominences when a client cannot move.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-010",
@@ -390,7 +398,8 @@ window.NURSE_DATA.push({
         "Incorrect. This is more restrictive than needed; the hazard is the position of the hot liquid, not hot drinks in general."
       ],
       "rationale": "Nerve endings in the dermis warn the body about heat and pain. After a stroke with left-sided sensory loss, a hot spill on the left arm or thigh would not be felt, so a burn could happen without the client reacting. The fix is to keep hot items on the side with intact sensation. Removing hot drinks entirely seems safer, but the least restrictive action that removes the hazard is the better choice and respects the client's preferences.",
-      "takeaway": "Place hot items on the side that can feel; protect the numb side from injuries the client cannot sense."
+      "takeaway": "Place hot items on the side that can feel; protect the numb side from injuries the client cannot sense.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-011",
@@ -408,21 +417,22 @@ window.NURSE_DATA.push({
       "hintStrategy": "When several options address real problems, choose the one that prevents physical harm over the one that improves comfort.",
       "stem": "During a summer heat wave, a home health nurse visits an 88-year-old client who lives alone in an apartment without air conditioning. The client's skin is warm and dry, and the client says, \"I don't sweat much anymore.\" Which instruction is most important?",
       "options": [
-        "\"Take a hot shower in the evening to help your body relax.\"",
+        "\"Run a fan in your apartment during the hottest part of the day.\"",
         "\"Spend the hottest hours in a cool place and drink fluids often.\"",
         "\"Use a heavier moisturizer because the heat dries the skin.\"",
-        "\"Wear several layers so the sun cannot reach your skin.\""
+        "\"Wear loose, light-colored clothing while you are indoors.\""
       ],
       "answer": 1,
       "priority": true,
       "optionRationales": [
-        "Incorrect. A hot shower adds heat to a body that already struggles to cool itself.",
+        "Incorrect. A fan feels helpful, but in extreme heat it does little to cool an older adult who sweats poorly, and it does not address fluids.",
         "Correct. With fewer working sweat glands, the client cannot cool off well, so avoiding heat and staying hydrated prevent dangerous overheating.",
         "Incorrect. Dry skin is a comfort issue; overheating is the safety threat.",
-        "Incorrect. Layers trap heat. Light, loose clothing helps heat leave the body."
+        "Incorrect. Light, loose clothing is sound advice, but it is only a small part of heat safety; getting to a cool place and drinking fluids prevents overheating."
       ],
       "rationale": "The skin cools the body by widening blood vessels to release heat and by sweating, which cools as it evaporates. Older adults have fewer and less active sweat glands, so they cannot cool themselves as well and can overheat during hot weather. The most important teaching is to get to a cool place during the hottest hours and keep up fluid intake. The moisturizer option is tempting because dry skin is common in older adults, but it does not address the safety risk of overheating.",
-      "takeaway": "Fewer sweat glands means poor cooling; teach older adults to seek cool places and drink fluids in hot weather."
+      "takeaway": "Fewer sweat glands means poor cooling; teach older adults to seek cool places and drink fluids in hot weather.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-012",
@@ -472,19 +482,20 @@ window.NURSE_DATA.push({
       "options": [
         "\"Your skin is producing extra melanin to protect you from the sun.\"",
         "\"The blood vessels in your skin are widening to release heat.\"",
-        "\"Your skin may be having an allergic reaction to your sunscreen.\"",
-        "\"The oil glands in your skin are overactive because of the heat.\""
+        "\"Your sweat glands are releasing sweat to cool your body down.\"",
+        "\"You likely have a mild sunburn from running in the afternoon sun.\""
       ],
       "answer": 1,
       "priority": false,
       "optionRationales": [
         "Incorrect. Melanin causes darkening over days, not sudden redness during exercise.",
         "Correct. Dilated dermal vessels bring warm blood to the surface to release heat, which causes flushing.",
-        "Incorrect. Nothing in the stem suggests an allergy, and flushing with sweating fits normal cooling.",
-        "Incorrect. Oil glands keep the skin soft; they do not cause redness or help with cooling."
+        "Incorrect. Sweating is also happening and does cool the body, but sweat explains the dampness, not the redness the client asked about.",
+        "Incorrect. Sun exposure can burn the skin, but sunburn redness develops over hours; sudden flushing with sweating during exercise reflects vasodilation."
       ],
       "rationale": "The skin regulates temperature in two main ways. When the body is hot, blood vessels in the dermis dilate and bring warm blood close to the surface so heat can escape, which makes the skin look flushed. At the same time, sweat glands release sweat that cools the body as it evaporates. The melanin option is tempting because the client was in the sun, but melanin production darkens skin slowly and does not cause sudden redness.",
-      "takeaway": "Flushed, sweaty skin when hot is normal cooling: dermal vessels dilate and sweat evaporates."
+      "takeaway": "Flushed, sweaty skin when hot is normal cooling: dermal vessels dilate and sweat evaporates.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-014",
@@ -502,21 +513,22 @@ window.NURSE_DATA.push({
       "hintStrategy": "Eliminate options that are factually wrong about the skin, then choose the response that protects the infant.",
       "stem": "The parent of a 3-week-old infant tells the clinic nurse, \"My baby has dry patches on the legs, so I plan to rub my own medicated adult skin cream all over both legs tonight.\" Which response by the nurse is best?",
       "options": [
-        "\"That should be fine as long as you wash it all off first thing in the morning.\"",
-        "\"Babies' skin is thicker than adults', so the cream will not soak in.\"",
+        "\"Dry patches are common in newborns and usually clear on their own.\"",
+        "\"Apply it only to the dry patches instead of over both whole legs.\"",
         "\"Use only half as much, since your baby's skin is so much smaller than yours.\"",
         "\"Please check with the provider first; thin infant skin absorbs creams easily.\""
       ],
       "answer": 3,
       "priority": false,
       "optionRationales": [
-        "Incorrect. The concern is absorption while the cream is on the skin, which washing later does not prevent.",
-        "Incorrect. Infant skin is thinner than adult skin, not thicker.",
+        "Incorrect. This is true and reassuring, but it does not address the real safety risk of putting a medicated adult cream on infant skin.",
+        "Incorrect. Limiting the area does reduce absorption, but the infant would still receive an unprescribed medicated product through thin skin.",
         "Incorrect. Reducing the amount does not make an unprescribed medicated product safe for thin infant skin.",
         "Correct. Infant skin is thinner and absorbs topical products more readily, so a medicated adult cream could have stronger effects than intended."
       ],
       "rationale": "Infant skin is thinner and provides less protection than adult skin. One consequence is that infants absorb substances applied to the skin more easily, so a medicated adult product spread over a large area can reach the bloodstream in higher amounts than intended. The safest response is to have the parent check with the provider before using it. Using a smaller amount sounds like a reasonable compromise, but it still exposes the infant to a medicated product that has not been prescribed.",
-      "takeaway": "Infants absorb topical products more easily; check with the provider before using adult or medicated products."
+      "takeaway": "Infants absorb topical products more easily; check with the provider before using adult or medicated products.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-015",
@@ -546,7 +558,8 @@ window.NURSE_DATA.push({
         "Incorrect. Overall health is an internal factor. Diabetes can be managed, but it is not an external factor."
       ],
       "rationale": "Tissue integrity is affected by internal factors that come from inside the client (genetics, age, and overall health) and external factors that come from outside (activity, environment, and injury). Daily bare-handed contact with a harsh solvent is an environmental exposure that directly damages the skin barrier, and wearing gloves can change it quickly. Diabetes is tempting because it can be managed, but it is an internal health factor, and the question asks for an external one.",
-      "takeaway": "Internal factors = genetics, age, health; external factors = activity, environment, injury, and they are often the easiest to change."
+      "takeaway": "Internal factors = genetics, age, health; external factors = activity, environment, injury, and they are often the easiest to change.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-016",
@@ -576,7 +589,8 @@ window.NURSE_DATA.push({
         "Incorrect. This reflects circulation, not the integrity of the skin or mucous membranes."
       ],
       "rationale": "Tissue integrity means intact skin, mucous membranes, cornea, and subcutaneous tissue. Impaired tissue integrity is actual damage, such as an open area, wound, or pressure injury. An open area on the lip under a breathing tube holder is a break in the mucous membrane and counts as impaired tissue integrity. Dry, flaky skin is tempting because it looks unhealthy, but the skin is still intact, so it is a risk factor rather than actual impairment.",
-      "takeaway": "Tissue integrity includes mucous membranes and the cornea; impaired means an actual break or damage, not just a risk."
+      "takeaway": "Tissue integrity includes mucous membranes and the cornea; impaired means an actual break or damage, not just a risk.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-017",
@@ -595,20 +609,21 @@ window.NURSE_DATA.push({
       "stem": "A 29-year-old client with deeply pigmented skin is planning a beach vacation and says, \"I have dark skin, so I don't need sunscreen.\" Which response by the nurse is best?",
       "options": [
         "\"You only need sunscreen if you start to see redness on your skin.\"",
-        "\"You're right, because melanin blocks all of the sun's harmful rays.\"",
+        "\"Melanin protects you, so a lower-SPF sunscreen should be enough.\"",
         "\"Melanin gives some UV protection, but no skin tone is fully protected.\"",
-        "\"Darker skin is actually more sensitive to UV damage than lighter skin.\""
+        "\"Hats and shade are enough sun protection for darker skin tones.\""
       ],
       "answer": 2,
       "priority": false,
       "optionRationales": [
         "Incorrect. Redness is harder to see in darker skin, and damage can occur before any color change appears.",
-        "Incorrect. Melanin blocks some UV light, not all of it.",
+        "Incorrect. Melanin does give some protection, but broad-spectrum SPF 30 or higher is recommended for every skin tone during heavy sun exposure.",
         "Correct. Melanin absorbs some UV light, but people of every skin tone can be damaged by the sun and need protection.",
-        "Incorrect. Darker skin has more natural UV protection; the problem is that the protection is incomplete."
+        "Incorrect. Hats and shade are good protection, but they are not enough alone at the beach; sunscreen is still needed because melanin protection is incomplete."
       ],
       "rationale": "Melanin is the pigment that gives skin its color and works like a built-in sunscreen by absorbing ultraviolet light. People with more melanin have more natural UV protection, but no skin tone is fully protected, so everyone needs sunscreen, hats, and protective clothing. The \"wait for redness\" option is tempting because it sounds practical, but redness is harder to see on darker skin and damage begins before any visible change.",
-      "takeaway": "Melanin protects partly, not completely; every skin tone needs sun protection."
+      "takeaway": "Melanin protects partly, not completely; every skin tone needs sun protection.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-018",
@@ -638,7 +653,8 @@ window.NURSE_DATA.push({
         "Incorrect. Scrubbing is for infection prevention; other methods such as a tourniquet help the vein fill."
       ],
       "rationale": "Intact skin is the body's first line of defense: it keeps microorganisms out and fluids in. Invasive procedures such as IV insertion, surgery, and catheter placement create openings in that barrier, which is why clients with them are at higher risk for impaired tissue integrity and infection. The antiseptic scrub reduces the germs on the skin before the barrier is broken. The vein option is tempting because scrubbing might make the area redder, but the purpose of the antiseptic is infection prevention.",
-      "takeaway": "Any invasive procedure breaks the skin barrier; site preparation protects against infection."
+      "takeaway": "Any invasive procedure breaks the skin barrier; site preparation protects against infection.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-019",
@@ -670,7 +686,8 @@ window.NURSE_DATA.push({
         "Correct. Warm hands and no shivering are direct evidence that the resident is no longer losing too much heat."
       ],
       "rationale": "Subcutaneous fat insulates the body, so older adults who have lost it feel cold and lose heat easily. The goal of adding blankets and warm clothing is to replace that missing insulation so the resident is warm and comfortable. The best evidence is a change in the original cues: the hands are now warm and the shivering has stopped. Sleeping under the blanket is tempting because it suggests comfort, but it does not directly measure whether the problem resolved.",
-      "takeaway": "Evaluate an intervention by checking whether the original cues (shivering, cool skin) have resolved."
+      "takeaway": "Evaluate an intervention by checking whether the original cues (shivering, cool skin) have resolved.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-020",
@@ -688,19 +705,20 @@ window.NURSE_DATA.push({
       "options": [
         "\"My darker skin should help my body make more vitamin D from the sun.\"",
         "\"Little sun, my age, and my skin tone all lower my vitamin D.\"",
-        "\"Since my skin is covered, my body makes vitamin D from the food I eat instead.\"",
-        "\"I should not worry, because low vitamin D only affects how my skin looks.\""
+        "\"My low vitamin D is only because my clothes block the sun.\"",
+        "\"My skin tone is the main reason my vitamin D level is low.\""
       ],
       "answer": 1,
       "priority": false,
       "optionRationales": [
         "Incorrect. More melanin blocks more UV light, so darker skin makes less vitamin D from the same sun exposure.",
         "Correct. Limited sun exposure, older age, and darker skin each reduce vitamin D made in the skin.",
-        "Incorrect. Food can supply vitamin D, but the skin is not making it from food; covered skin simply makes less.",
-        "Incorrect. Low vitamin D weakens bones; it is not a cosmetic problem."
+        "Incorrect. Covering clothing is one real cause, but saying it is the only cause misses the effects of darker skin and older age.",
+        "Incorrect. Darker skin does reduce vitamin D production, but this statement leaves out limited sun exposure and age, so understanding is incomplete."
       ],
       "rationale": "UV light striking the skin starts vitamin D production. Clients who get little sun (homebound, in long-term care, or wearing covering clothing), who have darker skin (more melanin blocks more UV light), or who are older (aging skin makes less) are at higher risk for low vitamin D. This client has all three risks, and the correct statement names them. The first option is tempting because melanin is linked to the sun, but its effect is to reduce vitamin D production, not increase it.",
-      "takeaway": "Less sun + darker skin + older age = less vitamin D made in the skin."
+      "takeaway": "Less sun + darker skin + older age = less vitamin D made in the skin.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-021",
@@ -720,19 +738,20 @@ window.NURSE_DATA.push({
       "options": [
         "The painless area is deeper because its dermal nerve endings are destroyed.",
         "The painless area is the least serious because the client is comfortable there.",
-        "The painful area is deeper because pain means the injury reached the fat layer.",
-        "Both areas are the same depth, and the client is simply less sensitive in the center."
+        "The painful area is deeper because blisters show that the dermis is damaged.",
+        "Both areas are partial-thickness burns because they came from the same spill."
       ],
       "answer": 0,
       "priority": false,
       "optionRationales": [
         "Correct. Pain nerve endings live in the dermis, so loss of pain in an injured area suggests the dermis has been destroyed.",
         "Incorrect. Lack of pain here signals destroyed nerve endings, which means a deeper injury.",
-        "Incorrect. Pain means nerve endings are present and still working, which is typical of a more superficial injury.",
-        "Incorrect. The different appearance and sensation point to different depths of injury."
+        "Incorrect. Blisters do mean the injury reached into the dermis, but working pain nerves show the dermis is only partly damaged, so this area is shallower.",
+        "Incorrect. One spill can cause different depths depending on contact time and amount, and the painless, leathery area fits a full-thickness injury."
       ],
       "rationale": "The dermis contains the nerve endings that sense pain, touch, and temperature. A painful, blistered area means those nerve endings are still present and working. A white, leathery area that is painless suggests the injury went all the way through the dermis and destroyed the nerve endings, which makes it the deeper and more serious injury. The idea that a painless area is less serious is tempting because comfort usually means less harm, but here the absence of pain is a warning sign.",
-      "takeaway": "In an injury, absent pain can mean destroyed nerve endings and a deeper wound, not a milder one."
+      "takeaway": "In an injury, absent pain can mean destroyed nerve endings and a deeper wound, not a milder one.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-022",
@@ -1096,7 +1115,8 @@ window.NURSE_DATA.push({
         "Incorrect. A keloid is a cosmetic and comfort concern that can be scheduled for routine follow-up."
       ],
       "rationale": "Wheals (hives) on their own are a skin finding, but wheals with a voice change, wheezing, or throat tightness mean the allergic reaction is involving the airway, which is an emergency. This client also has a clear trigger. The psoriasis flare is tempting because it is active and bothersome, but it is a chronic condition that does not threaten breathing. The stable papule and the keloid can wait for routine evaluation.",
-      "takeaway": "Wheals plus any voice change, wheeze, or throat tightness is an airway emergency, not a skin problem."
+      "takeaway": "Wheals plus any voice change, wheeze, or throat tightness is an airway emergency, not a skin problem.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-032",
@@ -1114,7 +1134,7 @@ window.NURSE_DATA.push({
       "hintStrategy": "When an AP reports a finding, the nurse verifies by assessing; choose the option where the nurse does the assessment.",
       "stem": "An 80-year-old client with very dark skin has been in bed for 2 days after a stroke. While turning the client, the assistive personnel (AP) reports, \"The heels look fine. They're the same color as the rest of the feet.\" Which action should the nurse take?",
       "options": [
-        "Document that the heels are intact, based on the AP's report",
+        "Inspect both heels with a bright penlight for color changes",
         "Palpate both heels for warmth, swelling, and firmness",
         "Ask the AP to recheck the heels in better lighting",
         "Tell the AP to apply lotion to both heels and to report any redness"
@@ -1122,13 +1142,14 @@ window.NURSE_DATA.push({
       "answer": 1,
       "priority": true,
       "optionRationales": [
-        "Incorrect. The AP's observation is useful, but the nurse must assess, and color alone can miss early damage in dark skin.",
+        "Incorrect. Good lighting helps the nurse inspect, but color changes are hard to see in very dark skin, so palpation for warmth, swelling, and firmness is needed.",
         "Correct. In darker skin, early pressure damage may not change color, so the nurse must feel for warmth, edema, and induration.",
         "Incorrect. Better lighting helps, but assessing for pressure damage is the nurse's responsibility, and palpation is needed.",
         "Incorrect. Redness may never be visible on very dark skin, so waiting for it can delay detection."
       ],
       "rationale": "In lighter skin, the first sign of pressure damage is often redness that does not fade. In darker skin, that redness may be invisible, so the nurse must look for areas that are darker, taut, or shiny and palpate for warmth (or coolness), edema, and induration, comparing with nearby skin. The AP can report what they see, but assessment is the nurse's job. Asking the AP to look again in better light is tempting because lighting matters, but it delegates assessment and still relies only on color.",
-      "takeaway": "In darker skin, \"same color\" does not rule out pressure damage; the nurse palpates for warmth, edema, and induration."
+      "takeaway": "In darker skin, \"same color\" does not rule out pressure damage; the nurse palpates for warmth, edema, and induration.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-033",
@@ -1219,7 +1240,8 @@ window.NURSE_DATA.push({
         "Correct. Ashen gray is how pallor appears in darker skin, and with a fast pulse and low blood pressure it suggests shock from blood loss."
       ],
       "rationale": "In very dark skin, pallor may look ashen gray rather than pale, so the nurse confirms it in the conjunctivae, lips, mucous membranes, and nail beds. Ashen, cool, clammy skin together with tachycardia and hypotension in a client who is bleeding suggests hypovolemic shock and needs immediate reporting. Pale conjunctivae are tempting because they confirm anemia, but by themselves they describe the hemoglobin level, while the skin plus vital signs show that perfusion is failing.",
-      "takeaway": "Ashen gray skin in a dark-skinned client with ↑ HR and ↓ BP = pallor with shock; report immediately."
+      "takeaway": "Ashen gray skin in a dark-skinned client with ↑ HR and ↓ BP = pallor with shock; report immediately.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-034",
@@ -1251,7 +1273,8 @@ window.NURSE_DATA.push({
         "Incorrect. Long-standing small dark facial bumps fit dermatosis papulosa nigra, which is harmless."
       ],
       "rationale": "Clients should know their normal skin and report new or changing spots. A mole that has grown, changed color, and started to bleed is a classic warning sign of skin cancer, and malignant melanoma is the most serious neoplastic skin disorder. Melasma is tempting because it is a visible facial change that clients often worry about, but it is a benign pigment change triggered by sun and hormones. Freckles and long-standing small dark bumps are also benign.",
-      "takeaway": "A new or changing mole, especially one that bleeds, needs prompt evaluation; stable, benign pigment changes can wait."
+      "takeaway": "A new or changing mole, especially one that bleeds, needs prompt evaluation; stable, benign pigment changes can wait.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-035",
@@ -1267,21 +1290,22 @@ window.NURSE_DATA.push({
       "hintStrategy": "When nothing in the stem is an emergency, choose the assessment option over intervention options.",
       "stem": "A 38-year-old client tells the clinic nurse about a rash on both forearms that started yesterday and itches. Which action should the nurse take first?",
       "options": [
-        "Tell the client the rash is probably an allergy to laundry soap",
+        "Advise the client to use cool compresses and avoid scratching",
         "Apply an over-the-counter hydrocortisone cream to the rash",
-        "Gently squeeze one lesion to see whether it contains fluid",
+        "Palpate the lesions to check their texture and temperature",
         "Ask about possible triggers, then inspect the rash"
       ],
       "answer": 3,
       "priority": true,
       "optionRationales": [
-        "Incorrect. The nurse describes and reports findings; naming a cause before assessing is diagnosing.",
+        "Incorrect. Cool compresses and avoiding scratching are reasonable comfort measures, but they are treatment, and the nurse needs to assess the rash first.",
         "Incorrect. Treatment comes after assessment and a provider's evaluation.",
-        "Incorrect. Lesions should not be squeezed or popped; this can spread infection and damage skin.",
+        "Incorrect. Palpation is part of the skin assessment, but it comes after the history and inspection, so this is the right action in the wrong order.",
         "Correct. A history of possible triggers plus inspection is the first step of a focused skin assessment."
       ],
-      "rationale": "A focused skin assessment starts with a history (onset, itching, spread, new products, foods, medications, jewelry, sun exposure, sick contacts, and home remedies) followed by inspection and palpation. Collecting these data comes before any treatment or explanation. Applying hydrocortisone is tempting because it would help the itch, but treating before assessing could mask the findings and skips the provider's evaluation. The nurse describes findings rather than diagnosing them and never squeezes lesions.",
-      "takeaway": "Assess before acting: history of triggers plus inspection comes before treatment or explanations."
+      "rationale": "A focused skin assessment starts with a history (onset, itching, spread, new products, foods, medications, jewelry, sun exposure, sick contacts, and home remedies) followed by inspection and palpation. Collecting these data comes before any treatment. Applying hydrocortisone or recommending cool compresses is tempting because either could ease the itch, but treating before assessing can mask the findings and skips the provider's evaluation. Palpation is part of the exam, but it follows the history and inspection.",
+      "takeaway": "Assess before acting: history of triggers plus inspection comes before treatment or explanations.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-036",
@@ -1298,7 +1322,7 @@ window.NURSE_DATA.push({
       "stem": "A 7-year-old with deeply pigmented skin is in the emergency department with an asthma attack. The child is using accessory muscles, and SpO₂ has dropped from 92% to 85%. The nurse inspects the inside of the cheeks and finds them dull gray. Which action should the nurse take first?",
       "options": [
         "Apply oxygen and notify the provider of the low oxygen saturation",
-        "Document the buccal mucosa as an expected variation in darker skin",
+        "Count the respiratory rate and auscultate both lungs for wheezing",
         "Reassess the child's skin color on the arms in natural light",
         "Ask the parent whether the child's mouth usually looks this color"
       ],
@@ -1306,12 +1330,13 @@ window.NURSE_DATA.push({
       "priority": true,
       "optionRationales": [
         "Correct. Gray mucosa with falling SpO₂ indicates central cyanosis, an oxygenation emergency that needs action now.",
-        "Incorrect. Gray buccal mucosa is not a normal variation; with a falling SpO₂ it signals central cyanosis.",
+        "Incorrect. Respiratory assessment is important, but the falling SpO₂ and gray mucosa already show hypoxemia, so more assessment would delay oxygen.",
         "Incorrect. Cyanosis is hard to see on dark skin of the arms; the mucosa already shows it, and the delay is unsafe.",
         "Incorrect. Collecting history can wait; the oxygenation problem is happening now."
       ],
       "rationale": "In darker skin, cyanosis often looks gray or ashen rather than blue, and it is best seen in low-pigment areas such as the nail beds, lips, and buccal mucosa. Gray buccal mucosa with a falling oxygen saturation and accessory muscle use means central cyanosis, an airway and breathing emergency. The nurse acts on the oxygenation problem immediately and notifies the provider. Checking the arms in natural light is tempting because good lighting is part of skin assessment, but cyanosis is hard to see there and the child needs oxygen now.",
-      "takeaway": "Gray lips or buccal mucosa with a falling SpO₂ = central cyanosis; treat the oxygenation problem first."
+      "takeaway": "Gray lips or buccal mucosa with a falling SpO₂ = central cyanosis; treat the oxygenation problem first.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-037",
@@ -1379,7 +1404,8 @@ window.NURSE_DATA.push({
         "Incorrect. Razor bumps (pseudofolliculitis) are common with curly hair and are not urgent."
       ],
       "rationale": "Early pressure damage in dark skin may not look red. Instead, look for an area that is darker (purplish, bluish, or deeper brown) than the surrounding skin, taut or shiny, and warm, swollen, or firm when palpated. Resident B has all of these over a bony area, which needs follow-up now. Resident C is tempting because the mark is darker than the surrounding skin, but it is in a healed area with no warmth or firmness, which fits expected post-healing discoloration.",
-      "takeaway": "Darker, warm, firm, taut skin over a bony area in a dark-skinned client is early pressure damage until proven otherwise."
+      "takeaway": "Darker, warm, firm, taut skin over a bony area in a dark-skinned client is early pressure damage until proven otherwise.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-038",
@@ -1409,7 +1435,8 @@ window.NURSE_DATA.push({
         "Incorrect. Warmth can accompany hives but does not indicate an airway threat."
       ],
       "rationale": "Wheals are raised, itchy, swollen areas that come and go, and on their own they are a skin finding. When they appear with hoarseness, wheezing, or throat tightness, the allergic reaction is involving the airway and becomes an emergency that needs immediate action following the emergency protocol. Itching is tempting because the client is uncomfortable and asking for help, but comfort comes after confirming the airway is safe.",
-      "takeaway": "Hives are a skin finding; hives with hoarseness or throat tightness are an airway emergency."
+      "takeaway": "Hives are a skin finding; hives with hoarseness or throat tightness are an airway emergency.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-039",
@@ -1426,20 +1453,21 @@ window.NURSE_DATA.push({
       "stem": "Four hours after a cardiac catheterization through the right femoral artery, a 66-year-old client's skin is assessed. Which finding should the nurse report to the provider immediately?",
       "options": [
         "Right foot cool and pale compared with the warm, pink left foot",
+        "Small, flat bruise at the right groin site that has not grown",
         "Dry, flaky skin on both heels that the client says is long-standing",
-        "A small, flat, brown freckle on the right shin noted on admission",
-        "A faded yellow-green bruise on the left forearm from an old IV site"
+        "Red area over the sacrum that blanches when gently pressed"
       ],
       "answer": 0,
       "priority": true,
       "optionRationales": [
-        "Correct. A one-sided change in temperature and color suggests reduced blood flow to that limb, which needs immediate attention.",
-        "Incorrect. Bilateral, long-standing dry skin needs moisturizing, not urgent reporting.",
-        "Incorrect. A stable, documented macule is not a new or urgent finding.",
-        "Incorrect. A healing bruise with intact skin is expected and not urgent."
+        "Correct. A one-sided change in temperature and color after a femoral procedure suggests reduced blood flow to that limb, an emergency that outranks the expected or minor skin findings.",
+        "Incorrect. Checking the puncture site is important, but a small bruise that is not growing is expected after catheterization and does not threaten the limb.",
+        "Incorrect. Dry heels are a real skin problem worth treating, but they are bilateral and long-standing, so they are not urgent.",
+        "Incorrect. Blanchable redness signals pressure and calls for repositioning, but it is an early, reversible finding that is lower priority than a threatened limb."
       ],
       "rationale": "Skin assessment includes color and temperature, checked with the back of the hand, always comparing both sides of the body. A change on only one side is easier to spot when the other side is available for comparison. A foot that is cool and pale compared with the other foot after a procedure through that leg's artery suggests blood flow to the limb is reduced, which is an emergency. The dry heels are tempting because they are a real skin problem, but they are bilateral, long-standing, and not a threat to the limb.",
-      "takeaway": "Compare both sides: a new one-sided change in skin temperature or color can signal a circulation emergency."
+      "takeaway": "Compare both sides: a new one-sided change in skin temperature or color can signal a circulation emergency.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-040",
@@ -1457,19 +1485,20 @@ window.NURSE_DATA.push({
       "options": [
         "Dry, flaky skin on both lower legs that the client says is normal for winter",
         "An itchy wheal at the site of a mosquito bite with no other symptoms",
-        "Dark marks on the cheeks where acne healed several months ago",
+        "A small bruise at an abdominal heparin injection site",
         "A new yellow tint of the sclera, hard palate, and palms"
       ],
       "answer": 3,
       "priority": true,
       "optionRationales": [
-        "Incorrect. Seasonal dry skin needs moisturizer and is not urgent.",
-        "Incorrect. A local wheal from an insect bite without airway symptoms is not urgent.",
-        "Incorrect. Discoloration after healing is common, especially in darker skin, and is not urgent.",
-        "Correct. New yellowing confirmed in low-pigment areas suggests jaundice, which points to a liver problem."
+        "Incorrect. Dry skin deserves moisturizing, but it is chronic and expected for this client, so it does not need prompt reporting.",
+        "Incorrect. Hives can signal allergy, but a single wheal at a bite site with no airway symptoms is a local reaction.",
+        "Incorrect. Bruising should be watched in a client on heparin, but a small bruise at an injection site is an expected local finding.",
+        "Correct. New yellowing in the sclera, hard palate, and palms suggests jaundice, a possible liver problem, perhaps from the new medications, which outranks the local skin findings."
       ],
       "rationale": "The skin can reflect disease elsewhere in the body. Jaundice is yellowing caused by a buildup of bilirubin, often from liver disease, and it is confirmed by checking the sclera, hard palate, palms, and soles. A new yellow tint in these areas in a client who started several new medications needs prompt reporting so the cause can be found. The wheal is tempting because hives can signal an allergic emergency, but a single wheal at a bite site with no airway symptoms is a local reaction.",
-      "takeaway": "New yellowing of the sclera, palate, or palms is jaundice, a sign of a problem beyond the skin; report it."
+      "takeaway": "New yellowing of the sclera, palate, or palms is jaundice, a sign of a problem beyond the skin; report it.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-041",
@@ -1488,18 +1517,19 @@ window.NURSE_DATA.push({
         "\"Left posterior heel: 2.5-cm pustule with clear fluid, no drainage.\"",
         "\"Left posterior heel: 2.5-cm bulla, clear fluid, intact, no drainage.\"",
         "\"Left posterior heel: 2.5-cm vesicle, clear fluid, intact, no drainage.\"",
-        "\"Left heel: large blister from friction, looks fine, no treatment needed.\""
+        "\"Left heel: large bulla with clear fluid, intact, no drainage.\""
       ],
       "answer": 1,
       "priority": false,
       "optionRationales": [
-        "Incorrect. A pustule contains pus, not clear fluid.",
-        "Correct. A clear-fluid blister larger than 1 cm is a bulla, and the entry gives location, size, contents, and drainage.",
-        "Incorrect. A vesicle is smaller than 1 cm; this lesion is larger.",
-        "Incorrect. \"Large\" and \"looks fine\" are not measurable, and deciding on treatment is not part of describing a lesion."
+        "Incorrect. The location, size, and drainage are well documented, but a pustule contains pus, and this fluid is clear.",
+        "Correct. A clear-fluid blister larger than 1 cm is a bulla, and the entry gives exact location, size, contents, and drainage.",
+        "Incorrect. The entry is detailed and measurable, but a vesicle is smaller than 1 cm, and this lesion is 2.5 cm.",
+        "Incorrect. Bulla is the right term, but \"large\" is not measurable and \"left heel\" is less precise than the posterior heel, so the entry is incomplete."
       ],
       "rationale": "Primary lesions are named by asking whether they are flat or raised, solid or fluid-filled, and larger or smaller than 1 cm. A raised lesion with clear fluid is a vesicle if it is under 1 cm and a bulla if it is over 1 cm; a lesion with pus is a pustule. Good documentation also gives location, size in cm or mm, contents, and drainage in measurable terms. The vesicle option is tempting because many students think of any blister as a vesicle, but the 1-cm cutoff is what separates the two.",
-      "takeaway": "Clear fluid under 1 cm = vesicle; over 1 cm = bulla; pus = pustule."
+      "takeaway": "Clear fluid under 1 cm = vesicle; over 1 cm = bulla; pus = pustule.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-042",
@@ -1531,7 +1561,8 @@ window.NURSE_DATA.push({
         "Incorrect. A crust is dried serum, blood, or pus on top of the skin, not a moist open area."
       ],
       "rationale": "Secondary lesions develop from primary lesions or trauma. An erosion is loss of the epidermis only: it is moist, does not bleed, and heals without a scar, and a ruptured blister is the classic example. An ulcer is tempting because both are open areas, but an ulcer goes deeper into the dermis or below, may bleed, and may scar. Fissures are linear cracks, and crusts are dried material on the surface.",
-      "takeaway": "Erosion = epidermis only, moist, no bleeding, no scar; ulcer = deeper, may bleed, may scar."
+      "takeaway": "Erosion = epidermis only, moist, no bleeding, no scar; ulcer = deeper, may bleed, may scar.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-043",
@@ -1549,21 +1580,22 @@ window.NURSE_DATA.push({
       "hintStrategy": "In communication questions, rule out false reassurance and dismissive responses; choose the honest, client-centered one.",
       "stem": "A 34-year-old client who has had psoriasis since adolescence says, \"I've tried every cream. When are they going to find something that cures this for good?\" Which response by the nurse is best?",
       "options": [
-        "\"Most people outgrow psoriasis by the time they reach middle age.\"",
-        "\"If you use your cream every day, the psoriasis should be cured within a year.\"",
+        "\"Psoriasis is lifelong, so it is best to accept it and move on.\"",
+        "\"Ask your provider about the newer injectable psoriasis medicines.\"",
         "\"Let's aim for long quiet periods. Which flares bother you most?\"",
-        "\"You should stop worrying about a cure, because stress makes psoriasis worse.\""
+        "\"Stress can trigger flares, so let's work on ways to help you relax.\""
       ],
       "answer": 2,
       "priority": false,
       "optionRationales": [
-        "Incorrect. Psoriasis is a chronic, often lifelong condition; this gives false hope.",
-        "Incorrect. No treatment cures psoriasis; this sets an unrealistic expectation.",
-        "Correct. Chronic skin disorders are controlled, not cured, so the realistic goal is remission.",
-        "Incorrect. This dismisses the client's feelings and does not address the question."
+        "Incorrect. It is true that psoriasis is chronic, but telling the client to simply accept it dismisses the frustration and offers no plan for control.",
+        "Incorrect. Newer medicines may help, but referring the client to the provider sidesteps the question and may raise hopes of a cure.",
+        "Correct. Chronic skin disorders are controlled, not cured, so the realistic goal is remission, and the follow-up question keeps the client engaged in planning.",
+        "Incorrect. Stress is a real trigger, so this is helpful advice, but it does not answer the client's question about a cure or set a realistic goal."
       ],
-      "rationale": "Skin disorders can be classified as acute (short-term, situational, usually resolve) or chronic (long-term or lifelong, genetic or unknown cause). For chronic disorders such as psoriasis, the treatment goal is remission, a period when symptoms are quiet, not cure. The best response is honest and keeps the client engaged in planning around that goal. The \"stop worrying\" response is tempting because it mentions a real trigger, but it dismisses the client's frustration and closes the conversation.",
-      "takeaway": "Chronic skin disorders aim for remission, not cure; respond honestly and keep the client engaged."
+      "rationale": "Skin disorders can be classified as acute (short-term, situational, usually resolve) or chronic (long-term or lifelong, genetic or unknown cause). For chronic disorders such as psoriasis, the treatment goal is remission, a period when symptoms are quiet, not cure. The best response is honest and keeps the client engaged in planning around that goal. The stress-management response is tempting because it mentions a real trigger, but it changes the subject instead of answering the client's question about a cure.",
+      "takeaway": "Chronic skin disorders aim for remission, not cure; respond honestly and keep the client engaged.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-044",
@@ -1595,7 +1627,8 @@ window.NURSE_DATA.push({
         "Incorrect. A patch test looks for allergies, not infection."
       ],
       "rationale": "A ring-shaped red, scaly patch with a clearer center is the classic look of tinea corporis (ringworm), a fungal infection. A KOH prep, in which a skin scraping is mixed with potassium hydroxide and viewed under a microscope, shows the fungus. The Tzanck test is tempting because it is also a scraping, but it is used for herpes-family viral blisters. Patch tests check for allergy, and biopsies are used when cancer is a concern.",
-      "takeaway": "KOH prep = fungus; Tzanck = herpes-family viruses; patch test = allergy; biopsy = benign vs cancer."
+      "takeaway": "KOH prep = fungus; Tzanck = herpes-family viruses; patch test = allergy; biopsy = benign vs cancer.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-045",
@@ -1613,21 +1646,22 @@ window.NURSE_DATA.push({
       "hintStrategy": "Choose the question that best explains the most specific detail in the stem.",
       "stem": "A 41-year-old client has an itchy, red, slightly scaly rash that forms a band exactly around the left wrist. The rest of the skin is clear. Which question should the nurse ask next?",
       "options": [
-        "\"Have you been around anyone with chickenpox lately?\"",
+        "\"Have you started any new medicines in the last few weeks?\"",
         "\"Have you been spending more time in the sun lately?\"",
-        "\"Have you noticed any dry skin or hair loss recently?\"",
+        "\"Do you have a history of eczema or other allergies?\"",
         "\"Have you started wearing a new watch or bracelet?\""
       ],
       "answer": 3,
       "priority": false,
       "optionRationales": [
-        "Incorrect. Chickenpox appears in crops across the body, not in a single band.",
-        "Incorrect. Sun exposure would affect all exposed areas, not just a band around one wrist.",
-        "Incorrect. These are clues to hypothyroidism and do not explain a rash in one band-shaped area.",
-        "Correct. A rash shaped exactly like a watch band suggests a reaction to something touching that spot."
+        "Incorrect. New medicines are part of a skin history, but a drug rash is usually widespread, not limited to one band on the wrist.",
+        "Incorrect. Sun exposure is part of a skin history, but a sun reaction would involve all exposed skin, not just one band.",
+        "Incorrect. An allergy history is useful background, but it does not target what touched the skin in this exact spot.",
+        "Correct. A rash shaped exactly like a watch band suggests contact dermatitis from something touching that spot, so this question targets the most likely cause."
       ],
       "rationale": "The distribution and shape of a rash are powerful clues. A rash in the exact shape of a watch band points to something that touched the skin in that spot, such as metal or a new strap, which fits contact dermatitis. That is why the skin history includes questions about new jewelry, soaps, lotions, and products. The sun question is tempting because sun exposure is part of a skin history, but a sun reaction would involve all exposed skin, not just one band.",
-      "takeaway": "Use the shape and distribution of a rash to guide the history; a band-shaped rash points to something worn there."
+      "takeaway": "Use the shape and distribution of a rash to guide the history; a band-shaped rash points to something worn there.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-046",
@@ -1643,21 +1677,22 @@ window.NURSE_DATA.push({
       "hintStrategy": "Eliminate alarming and unsafe responses; pick the one that is accurate and gives a practical next step.",
       "stem": "A 31-year-old client with medium-brown skin who is 24 weeks pregnant points to dark brown patches on both cheeks and asks, \"Is something wrong with me?\" Which response by the nurse is best?",
       "options": [
-        "\"These patches are a sign of liver problems, so we should check your bilirubin.\"",
+        "\"This is common in pregnancy and nothing to worry about at all.\"",
         "\"This may be melasma, which is common in pregnancy; sun protection helps.\"",
-        "\"Patches like these usually mean skin cancer, so you will need a biopsy.\"",
+        "\"Let's measure the patches and show them to your provider today.\"",
         "\"Bleaching cream will fade these quickly and safely during pregnancy.\""
       ],
       "answer": 1,
       "priority": false,
       "optionRationales": [
-        "Incorrect. Liver problems cause yellowing (jaundice), not dark brown patches on the face.",
-        "Correct. Melasma is a benign pigment change triggered by sun and hormones, and sun protection limits darkening.",
-        "Incorrect. Symmetric dark patches on the cheeks during pregnancy fit melasma, not cancer.",
-        "Incorrect. Skin-bleaching creams can irritate the skin and interact with medications; they should not be recommended."
+        "Incorrect. The reassurance is accurate, but it does not name the condition or teach sun protection, so the client misses a way to limit darkening.",
+        "Correct. Melasma is a benign pigment change triggered by sun and hormones; this response reassures accurately and teaches sun protection to limit darkening.",
+        "Incorrect. Measuring and reporting skin changes is sound practice, but for a classic benign pattern it adds worry and does not answer the client's question.",
+        "Incorrect. It offers a fast fix, but bleaching products can irritate the skin and are not a safe recommendation during pregnancy."
       ],
       "rationale": "Melasma is dark brown patches on the face triggered by sun exposure and hormones, such as during pregnancy, and it is more common in darker skin. It is benign, and sun protection helps prevent further darkening. The nurse reassures with accurate information and avoids alarming or unsafe advice. The bleaching cream option is tempting because it offers a fast fix, but these products can irritate the skin and interact with medications, and they are not a safe recommendation.",
-      "takeaway": "Melasma = benign facial darkening from sun and hormones; teach sun protection."
+      "takeaway": "Melasma = benign facial darkening from sun and hormones; teach sun protection.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-047",
@@ -1675,21 +1710,22 @@ window.NURSE_DATA.push({
       "hintStrategy": "When a staff member draws a conclusion from one cue, check whether that cue is reliable in this client.",
       "stem": "A 9-year-old with dark brown skin has an itchy rash in the creases of both elbows. A nursing student says, \"It can't be very inflamed, because it isn't red at all. It looks grayish-purple.\" Which response by the nurse is best?",
       "options": [
-        "\"You're right; without redness, the rash is probably not active.\"",
-        "\"Rashes cannot be assessed accurately in children with dark skin.\"",
+        "\"Let's look at it again in natural light before we decide.\"",
+        "\"On dark skin, itching is the best clue, so rate the itch instead.\"",
         "\"A grayish-purple color means the rash is caused by poor circulation.\"",
         "\"On darker skin, eczema often looks purple, gray, or brown, not red.\""
       ],
       "answer": 3,
       "priority": false,
       "optionRationales": [
-        "Incorrect. This reinforces the error; inflammation may not look red on darker skin.",
-        "Incorrect. They can be assessed well by using good light, palpation, and knowing how findings appear.",
-        "Incorrect. The color reflects how inflammation shows on darker skin, not a circulation problem.",
-        "Correct. Inflammatory rashes such as eczema often appear purple, gray, or dark brown in darker skin."
+        "Incorrect. Good lighting does improve skin assessment, but it does not correct the student's belief that inflammation must look red.",
+        "Incorrect. Itching matters, but inflammation on darker skin can still be seen and felt as color, warmth, swelling, and texture changes.",
+        "Incorrect. Purple and gray can signal poor blood flow, but in a rash in the elbow creases, the color reflects inflammation on darker skin.",
+        "Correct. Inflammatory rashes such as eczema often look purple, gray, or brown on darker skin, so this directly corrects the student's misconception."
       ],
       "rationale": "Many color changes taught as \"red\" or \"pink\" look different on darker skin. Eczema and psoriasis may appear purple, gray, or dark brown rather than red, so the absence of redness does not mean the absence of inflammation. The nurse should also palpate for warmth, swelling, and texture. The circulation option is tempting because purple and gray are colors students link to poor blood flow, but in a rash in the elbow creases, the color reflects inflammation on darker skin.",
-      "takeaway": "Inflammation may look purple, gray, or dark brown on darker skin; do not rely on redness."
+      "takeaway": "Inflammation may look purple, gray, or dark brown on darker skin; do not rely on redness.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-048",
@@ -1719,7 +1755,8 @@ window.NURSE_DATA.push({
         "Incorrect. A macule is flat and cannot be felt."
       ],
       "rationale": "Primary lesions are named by whether they are flat or raised, solid or fluid-filled, and by size. A raised, solid lesion smaller than 1 cm is a papule; a raised, solid, firm lesion that is deeper and larger is a nodule, such as a lipoma. A papule is the most tempting distractor because both are raised and solid, but this lump is 2.5 cm and deeper. Bullae contain fluid, and macules are flat.",
-      "takeaway": "Raised and solid: under 1 cm and superficial = papule; larger, deeper, firm = nodule."
+      "takeaway": "Raised and solid: under 1 cm and superficial = papule; larger, deeper, firm = nodule.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-049",
@@ -1735,21 +1772,22 @@ window.NURSE_DATA.push({
       "hintStrategy": "In communication items, prefer open-ended, neutral wording over leading, \"why,\" or yes/no questions.",
       "stem": "A 39-year-old client of West African descent has uneven, irritated patches on the face. The nurse is completing a skin history. Which question is the most appropriate way to ask about products the client uses?",
       "options": [
-        "\"You aren't using any of those dangerous skin-lightening creams, are you?\"",
-        "\"Why would you put anything on your face that could cause this irritation?\"",
+        "\"Do you ever use skin-lightening or bleaching creams on your face?\"",
+        "\"What soaps, cleansers, and lotions do you usually use on your face?\"",
         "\"What creams, makeup, or skin-lightening products do you use on your face?\"",
-        "\"Do you use any products on your skin at all? Just answer yes or no.\""
+        "\"Have you started using any new creams or makeup on your face this month?\""
       ],
       "answer": 2,
       "priority": false,
       "optionRationales": [
-        "Incorrect. This is judgmental and suggests the expected answer, which discourages honesty.",
-        "Incorrect. \"Why\" questions sound accusing and can make the client defensive.",
-        "Correct. An open, neutral question invites the client to list all products, including bleaching creams, without feeling judged.",
-        "Incorrect. A closed question gathers little useful detail about specific products."
+        "Incorrect. Asking about lightening creams is relevant, but a closed question that names only that product can feel singling out and invites a yes or no.",
+        "Incorrect. This open question is a good start, but it leaves out makeup and lightening products, which are the likeliest irritants here.",
+        "Correct. An open, neutral question that names makeup and lightening products among others invites the client to share everything without feeling judged.",
+        "Incorrect. Asking about new products is useful, but it is closed and misses products used for a long time that may cause irritation."
       ],
-      "rationale": "Makeup and skin-bleaching creams can irritate the skin or interact with medications, so the nurse should ask about them respectfully as part of the skin history. An open-ended, nonjudgmental question that names skin-lightening products as one of several options makes it easy for the client to share. The first option is tempting because it does mention lightening creams directly, but its wording is judgmental and leads the client toward denying use.",
-      "takeaway": "Ask about skin-bleaching and other products with open, nonjudgmental questions."
+      "rationale": "Makeup and skin-bleaching creams can irritate the skin or interact with medications, so the nurse should ask about them respectfully as part of the skin history. An open-ended, nonjudgmental question that names skin-lightening products as one of several options makes it easy for the client to share. The question asking only about lightening creams is tempting because it is direct, but it is closed and can make the client feel singled out, which may lead to denial of use.",
+      "takeaway": "Ask about skin-bleaching and other products with open, nonjudgmental questions.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-050",
@@ -2106,7 +2144,8 @@ window.NURSE_DATA.push({
         "Incorrect. This nurse is not immune and is at risk of infection."
       ],
       "rationale": "Disseminated shingles, or shingles in an immunocompromised client, spreads like chickenpox and requires airborne and contact precautions until all lesions are crusted. Only staff with documented immunity to varicella should be assigned, and a pregnant nurse should not be assigned because varicella can harm a pregnancy. RN A is the most tempting choice because she had chickenpox, but pregnancy is an exclusion. RN B has documented vaccine immunity and no exclusion.",
-      "takeaway": "For chickenpox or disseminated shingles, assign only staff with documented immunity who are not pregnant."
+      "takeaway": "For chickenpox or disseminated shingles, assign only staff with documented immunity who are not pregnant.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-059",
@@ -2171,7 +2210,8 @@ window.NURSE_DATA.push({
         "Incorrect. Lesions in different stages are expected with chickenpox."
       ],
       "rationale": "Aspirin given to a child during chickenpox or another viral illness is linked to Reye syndrome, a rare but serious illness that can damage the brain and liver. Excessive sleepiness, confusion, and vomiting in this setting need urgent evaluation. The scratching is tempting because it is a real complication risk that the parent is worried about, but it threatens the skin, while these neurologic signs threaten the child's life.",
-      "takeaway": "Child with a viral illness + aspirin + vomiting, sleepiness, or confusion = possible Reye syndrome; report urgently."
+      "takeaway": "Child with a viral illness + aspirin + vomiting, sleepiness, or confusion = possible Reye syndrome; report urgently.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-060",
@@ -2187,7 +2227,7 @@ window.NURSE_DATA.push({
       "hintStrategy": "When harm may already have occurred, choose the action that gets the affected person evaluated soonest.",
       "stem": "A nurse who is 18 weeks pregnant and has never had chickenpox tells the charge nurse she changed the dressing over a client's draining shingles lesions earlier in the shift before the diagnosis was known. Which action should the charge nurse take first?",
       "options": [
-        "Reassure the nurse that shingles cannot spread to other people",
+        "Have the nurse wear an N95 respirator for the rest of the shift",
         "Ask the nurse to monitor herself for a rash over the next 3 weeks",
         "Reassign the nurse and complete an incident report at the end of the shift",
         "Refer the nurse to employee health to report the exposure now"
@@ -2195,13 +2235,14 @@ window.NURSE_DATA.push({
       "answer": 3,
       "priority": true,
       "optionRationales": [
-        "Incorrect. Fluid from shingles blisters can cause chickenpox in someone who is not immune.",
-        "Incorrect. Self-monitoring alone delays the evaluation that a pregnant, non-immune nurse needs.",
-        "Incorrect. Reassignment is reasonable, but delaying the report to the end of the shift delays care.",
-        "Correct. A pregnant, non-immune staff member exposed to shingles fluid must be reported promptly so she can be evaluated."
+        "Incorrect. An N95 protects against airborne spread going forward, but the exposure has already happened and needs prompt evaluation.",
+        "Incorrect. Watching for a rash is part of follow-up, but waiting for symptoms misses the window for preventive treatment.",
+        "Incorrect. Reassigning removes further exposure, but the exposure has already happened and the report should not wait until the end of the shift.",
+        "Correct. A pregnant, non-immune staff member exposed to shingles fluid must be reported to employee health now so she can be evaluated and treated promptly."
       ],
       "rationale": "The varicella-zoster virus causes both chickenpox and shingles. Fluid from shingles blisters can give chickenpox to someone who is not immune, and varicella can harm a pregnancy. A pregnant or non-immune staff member exposed to chickenpox or shingles fluid should be reported to employee health right away so she can be evaluated promptly. Reassigning the nurse is tempting because it removes her from further exposure, but the exposure has already happened and the report should not wait.",
-      "takeaway": "Non-immune or pregnant staff exposed to chickenpox or shingles fluid → report to employee health right away."
+      "takeaway": "Non-immune or pregnant staff exposed to chickenpox or shingles fluid → report to employee health right away.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-061",
@@ -2219,19 +2260,20 @@ window.NURSE_DATA.push({
       "options": [
         "A private room with the door closed and a sign for droplet precautions",
         "A private negative-pressure airborne infection isolation room",
-        "A semiprivate room near the nurses' station for close monitoring",
-        "A semiprivate room with a 5-year-old admitted for asthma"
+        "A private room with the door closed and contact precautions",
+        "A private room near the nurses' station with N95 use by staff"
       ],
       "answer": 1,
       "priority": true,
       "optionRationales": [
-        "Incorrect. Chickenpox spreads through the air, so droplet precautions and a standard room are not enough.",
+        "Incorrect. A private room does isolate the child, but droplet precautions do not protect against an airborne virus.",
         "Correct. Chickenpox requires airborne plus contact precautions in a negative-pressure room until all lesions are crusted.",
-        "Incorrect. Being near the station does not prevent airborne spread, and the room is shared.",
-        "Incorrect. Sharing a room would expose another child to an airborne infection."
+        "Incorrect. Contact precautions are needed for blister fluid, but without airborne precautions the virus can still spread through the air.",
+        "Incorrect. N95 use is part of airborne precautions, but without negative pressure the virus can escape the room into the hallway."
       ],
       "rationale": "Chickenpox is highly contagious and spreads through the air and by touching blister fluid. The child needs airborne and contact precautions in an airborne infection isolation (negative-pressure) room until all lesions are crusted. A private room with droplet precautions is tempting because it does isolate the child, but droplet precautions do not protect against an airborne virus that can travel beyond the room on air currents.",
-      "takeaway": "Chickenpox = airborne + contact precautions in a negative-pressure room until every lesion is crusted."
+      "takeaway": "Chickenpox = airborne + contact precautions in a negative-pressure room until every lesion is crusted.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-062",
@@ -2248,20 +2290,21 @@ window.NURSE_DATA.push({
       "stem": "A 3-year-old with active chickenpox is in airborne and contact isolation. The nurse is about to ask an assistive personnel (AP) to give the child a cool bath. The AP says, \"I'm not sure whether I ever had chickenpox.\" Which action should the nurse take?",
       "options": [
         "Assign the bath to a staff member with documented varicella immunity",
-        "Ask the AP to complete the bath quickly to limit exposure time",
+        "Send the AP to employee health for a titer before the bath",
         "Have the AP wear an N95 respirator, gown, and gloves for the bath",
-        "Tell the AP to give the bath only after the lesions crust over"
+        "Assign the bath to an AP who has no other clients that shift"
       ],
       "answer": 0,
       "priority": true,
       "optionRationales": [
-        "Correct. Only staff with documented immunity should care for a client with active chickenpox.",
-        "Incorrect. Even brief contact can transmit varicella to a non-immune person.",
-        "Incorrect. Protective equipment does not replace immunity; only immune staff should be assigned.",
-        "Incorrect. This delays a comfort measure the child needs now when an immune staff member can do it."
+        "Correct. Only staff with documented immunity should care for a client with active chickenpox, and reassigning lets the bath happen now.",
+        "Incorrect. A titer would clarify the AP's immunity, but results take time and the bath should not wait.",
+        "Incorrect. Airborne precautions do call for an N95, but PPE is an added layer for immune staff, not a substitute for immunity.",
+        "Incorrect. Limiting the AP's other contacts reduces spread, but it does not protect a possibly non-immune AP from infection."
       ],
       "rationale": "Clients with chickenpox should be cared for only by staff with documented immunity, either from having had chickenpox or from vaccination. An AP who is unsure of their history should not be assigned, regardless of the protective equipment worn. The N95 option is tempting because airborne precautions do call for an N95 respirator, but PPE is an added layer for immune staff, not a substitute for immunity.",
-      "takeaway": "PPE does not replace immunity: only staff with documented varicella immunity care for a client with chickenpox."
+      "takeaway": "PPE does not replace immunity: only staff with documented varicella immunity care for a client with chickenpox.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-063",
@@ -2310,18 +2353,19 @@ window.NURSE_DATA.push({
         "The family of a classmate who had chickenpox 3 years ago",
         "The family of a classmate who is receiving chemotherapy for leukemia",
         "The family of a classmate who received two doses of varicella vaccine",
-        "The family of a classmate with a mild rash from a new laundry detergent"
+        "The family of a classmate who has had only one dose of varicella vaccine"
       ],
       "answer": 1,
       "priority": true,
       "optionRationales": [
-        "Incorrect. A child who already had chickenpox is immune and at low risk.",
-        "Correct. An immunocompromised child exposed to varicella is at high risk for severe infection and needs prompt provider follow-up.",
-        "Incorrect. A fully vaccinated child has documented immunity.",
-        "Incorrect. A contact rash is unrelated to chickenpox exposure."
+        "Incorrect. This family should be informed of the exposure, but prior infection gives lasting immunity, so the risk is low.",
+        "Correct. An immunocompromised child exposed to varicella is at highest risk for severe infection and needs prompt provider follow-up.",
+        "Incorrect. This family should be informed, but two documented doses give strong immunity, so the risk is low.",
+        "Incorrect. One dose gives partial protection, so this family should be contacted, but a healthy child is at far lower risk than a child on chemotherapy."
       ],
-      "rationale": "Chickenpox is highly contagious, and clients with weakened immune systems, such as children receiving chemotherapy, are at greatest risk for severe illness after exposure. That family needs to be contacted first so the child's provider can act quickly. Children with documented immunity from prior infection or vaccination are at low risk. The contact rash is tempting because it is a skin problem in a classmate, but it is unrelated to the varicella exposure.",
-      "takeaway": "After a chickenpox exposure, immunocompromised contacts are the priority for notification."
+      "rationale": "Chickenpox is highly contagious, and clients with weakened immune systems, such as children receiving chemotherapy, are at greatest risk for severe illness after exposure. That family needs to be contacted first so the child's provider can act quickly. Children with documented immunity from prior infection or two vaccine doses are at low risk. The one-dose option is tempting because that child is only partly protected, but a healthy child with partial immunity is at far lower risk than an immunocompromised child.",
+      "takeaway": "After a chickenpox exposure, immunocompromised contacts are the priority for notification.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-065",
@@ -2387,7 +2431,8 @@ window.NURSE_DATA.push({
         "Correct. Spreading redness with fever and a fast heart rate suggests the wound infection is spreading beyond the skin."
       ],
       "rationale": "Skin infections are usually managed in routine visits, but fever with rapidly spreading redness means the infection may be moving beyond the skin and becoming systemic. Child 4 has spreading red streaks, a high fever, and tachycardia, making this the only unstable presentation. Impetigo is tempting because it is a bacterial infection and contagious, but this child is afebrile and active, so the infection is localized.",
-      "takeaway": "Skin infection + fever + spreading redness or tachycardia = possible systemic spread; see first."
+      "takeaway": "Skin infection + fever + spreading redness or tachycardia = possible systemic spread; see first.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-066",
@@ -2417,7 +2462,8 @@ window.NURSE_DATA.push({
         "Incorrect. Identifying contacts matters, but protecting others from ongoing spread is the first step."
       ],
       "rationale": "Scabies is caused by mites that burrow into the skin and spread by prolonged skin-to-skin contact, and sometimes through bedding and clothing. Outbreaks are common in long-term care facilities, and staff can catch it. The first step is contact precautions (gown and gloves) to stop spread, followed by treating the resident and close contacts at the same time, laundering linens, and teaching. Bagging the bedding is tempting because it also limits spread, but direct skin contact is the main route, so contact precautions come first.",
-      "takeaway": "Scabies: start contact precautions first, then treat all contacts together and launder linens."
+      "takeaway": "Scabies: start contact precautions first, then treat all contacts together and launder linens.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-067",
@@ -2479,7 +2525,8 @@ window.NURSE_DATA.push({
         "Correct. Fever with rapidly spreading redness suggests the infection is moving beyond the skin and needs prompt treatment."
       ],
       "rationale": "Signs of wound infection include redness, swelling, warmth, drainage (especially pus), and necrotic tissue. When fever and tachycardia accompany rapidly spreading redness, the infection may be spreading beyond the skin, and the provider needs to be notified promptly. Marking the border is tempting because it is a good way to track spread, but combined with an 8-hour wait it delays treatment of an infection that is already causing systemic signs.",
-      "takeaway": "Infected wound + fever + spreading redness → notify the provider promptly."
+      "takeaway": "Infected wound + fever + spreading redness → notify the provider promptly.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-068",
@@ -2509,7 +2556,8 @@ window.NURSE_DATA.push({
         "Incorrect. Testing may help confirm the diagnosis, but precautions should not wait for results."
       ],
       "rationale": "Herpes zoster is the reactivated chickenpox virus. In a healthy client with localized shingles, standard precautions with the lesions covered are enough. In an immunocompromised client, or when lesions spread beyond one area (disseminated), the virus spreads like chickenpox, so airborne and contact precautions are needed until all lesions are crusted. Covering the lesions is tempting because it is the correct approach for localized shingles in a healthy client, but this client is immunosuppressed and has lesions in several areas.",
-      "takeaway": "Shingles in an immunocompromised client or with spread lesions = airborne + contact, like chickenpox."
+      "takeaway": "Shingles in an immunocompromised client or with spread lesions = airborne + contact, like chickenpox.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-069",
@@ -2539,7 +2587,8 @@ window.NURSE_DATA.push({
         "Incorrect. Protective isolation is for clients with very weak immune systems, not for a client with shingles."
       ],
       "rationale": "Herpes zoster is the chickenpox virus reactivating from a nerve. A healthy client with localized shingles needs standard precautions with the lesions covered, because the blister fluid can give chickenpox to someone who is not immune. Disseminated shingles, or shingles in an immunocompromised client, requires airborne and contact precautions like chickenpox. Airborne and contact precautions are tempting because shingles is the same virus as chickenpox, but they are reserved for disseminated disease or immunocompromised clients.",
-      "takeaway": "Localized shingles in a healthy client = standard precautions with lesions covered."
+      "takeaway": "Localized shingles in a healthy client = standard precautions with lesions covered.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-070",
@@ -2569,7 +2618,8 @@ window.NURSE_DATA.push({
         "Incorrect. Precautions do not need to last for the entire treatment course."
       ],
       "rationale": "Impetigo is a contagious bacterial infection that spreads by direct contact. In the hospital, contact precautions (gown and gloves) continue until the child has had 24 hours of effective antibiotic treatment; the same 24-hour rule guides return to school or child care. Because treatment started at 1400 yesterday, precautions can stop at 1400 today, not at 0900. Stopping now is tempting because treatment began \"yesterday,\" but only 19 hours have passed. Waiting until all crusts fall off is also tempting because visible lesions seem contagious, but 24 hours of effective therapy is the rule.",
-      "takeaway": "Impetigo: contact precautions and school exclusion until 24 hours of effective antibiotic treatment."
+      "takeaway": "Impetigo: contact precautions and school exclusion until 24 hours of effective antibiotic treatment.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-071",
@@ -2615,21 +2665,22 @@ window.NURSE_DATA.push({
       "hintStrategy": "Choose the response that gives accurate information over options that start unprescribed treatment.",
       "stem": "Two weeks after the whole family was treated for scabies with a prescribed cream applied from the neck to the toes, a 36-year-old parent calls the clinic and says, \"I'm still itching. The treatment must not have worked.\" Which response by the nurse is best?",
       "options": [
-        "\"The itching means you have a new infestation from your bedding.\"",
+        "\"Wash all bedding, towels, and clothing in hot water again to kill any mites left behind.\"",
         "\"Apply the cream again tonight to your whole body, and repeat it every night until the itching stops.\"",
-        "\"Only the family member who still itches needs another treatment.\"",
+        "\"Ask your provider whether an antihistamine or cool compresses could help the itching tonight.\"",
         "\"Itching can last 2 to 4 weeks after successful treatment, so it doesn't mean the treatment failed.\""
       ],
       "answer": 3,
       "priority": false,
       "optionRationales": [
-        "Incorrect. Ongoing itching is expected after treatment and is not proof of reinfestation.",
-        "Incorrect. Repeated, unprescribed applications are not appropriate and can irritate the skin.",
-        "Incorrect. Persistent itching alone does not indicate reinfestation, and retreating one person would not follow the plan.",
-        "Correct. Itching often continues for weeks after the mites are killed and does not by itself mean treatment failed."
+        "Incorrect. Hot-water laundering is part of scabies care, but repeating it suggests the treatment failed and does not address the client's worry.",
+        "Incorrect. The client wants relief, but repeated nightly use is not prescribed and can harm the skin.",
+        "Incorrect. Symptom relief is reasonable, but it does not correct the client's belief that the treatment failed.",
+        "Correct. Itching often continues for weeks after the mites are killed, so explaining this answers the client's concern directly."
       ],
       "rationale": "Scabies is caused by mites that burrow into the skin, and the itching is partly a reaction to the mites and their waste. After successful treatment, itching can continue for 2 to 4 weeks, so persistent itching does not necessarily mean the treatment failed. The nurse should explain this and encourage the client to report new burrows or worsening symptoms. Reapplying the cream nightly is tempting because the client wants relief, but it is not prescribed and can harm the skin.",
-      "takeaway": "Itching can last 2–4 weeks after successful scabies treatment; it does not always mean failure."
+      "takeaway": "Itching can last 2–4 weeks after successful scabies treatment; it does not always mean failure.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-073",
@@ -2647,21 +2698,22 @@ window.NURSE_DATA.push({
       "hintStrategy": "When a client's question contains a misconception, look for the response that corrects it clearly and accurately.",
       "stem": "The parent of a 7-year-old with a round, red, scaly patch on the arm that has a clearer center says, \"The doctor called it ringworm. How do we get rid of the worm?\" Which response by the nurse is best?",
       "options": [
-        "\"The worm lives under the skin, so your child will need a medicine taken by mouth.\"",
+        "\"Wash your hands after touching the patch so it does not spread to you.\"",
         "\"There is no worm. Ringworm is a fungal infection, named for its ring shape.\"",
         "\"Ringworm is a bacterial infection, so your child will need an antibiotic.\"",
-        "\"Ringworm is caused by a virus and will go away on its own in a few days.\""
+        "\"Ringworm spreads by touch, so your child should not share towels or hats.\""
       ],
       "answer": 1,
       "priority": false,
       "optionRationales": [
-        "Incorrect. No worm is involved, so this is inaccurate.",
-        "Correct. Tinea corporis is caused by a fungus; the name comes from the ring-shaped lesion.",
-        "Incorrect. Ringworm is fungal, not bacterial.",
-        "Incorrect. Ringworm is fungal and needs treatment with an antifungal."
+        "Incorrect. Hand washing is correct teaching, but it does not correct the parent's belief that a worm causes the rash.",
+        "Correct. Tinea corporis is caused by a fungus and the name comes from the ring shape, which corrects the misconception before treatment teaching.",
+        "Incorrect. Many skin infections in children are bacterial, but tinea is fungal, so an antibiotic will not treat it.",
+        "Incorrect. Not sharing items is correct teaching, but it does not answer the parent's question about the worm."
       ],
       "rationale": "Ringworm (tinea corporis) is a fungal infection that causes a round, red, scaly patch that spreads outward with a clearer center. There is no worm; the ring shape gives it its name. Treatment is with an antifungal, finishing the full course, and not sharing towels, clothing, or hats. The bacterial option is tempting because many skin infections in children are bacterial, but tinea is caused by fungi.",
-      "takeaway": "Ringworm is a fungus (tinea corporis), not a worm; treat with an antifungal and finish the course."
+      "takeaway": "Ringworm is a fungus (tinea corporis), not a worm; treat with an antifungal and finish the course.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-074",
@@ -2678,20 +2730,21 @@ window.NURSE_DATA.push({
       "stem": "A 14-year-old has several rough, raised warts on the fingers and often bites and picks at them. The parent says, \"They're just warts. They're only a cosmetic problem.\" Which response by the nurse is best?",
       "options": [
         "\"Warts are HPV; picking spreads them, and some HPV types raise cancer risk.\"",
-        "\"Warts come from touching frogs, so your child should avoid them.\"",
-        "\"Warts are caused by bacteria and will clear up with an antibiotic ointment.\"",
+        "\"Covering the warts with a bandage will help hide them from friends.\"",
+        "\"Many warts go away on their own within a year or two without care.\"",
         "\"You're right; warts are harmless and don't need any special care at all.\""
       ],
       "answer": 0,
       "priority": false,
       "optionRationales": [
-        "Correct. Picking and biting spread HPV, and certain HPV types are linked to cancers.",
-        "Incorrect. Warts are caused by HPV, not by frogs.",
-        "Incorrect. Warts are caused by a virus, not bacteria.",
-        "Incorrect. This misses that picking spreads warts and that HPV can raise cancer risk."
+        "Correct. Picking and biting spread HPV, and certain HPV types are linked to cancers, which corrects the idea that warts are only cosmetic.",
+        "Incorrect. Covering warts can reduce spread, but framing it as hiding them reinforces the cosmetic view and skips the teaching about picking.",
+        "Incorrect. Many warts do clear on their own, but this ignores the picking and the risk of spread.",
+        "Incorrect. Warts usually cause no symptoms, but agreeing misses the teaching about spread and cancer risk."
       ],
       "rationale": "Warts are small, rough, raised bumps (papules) caused by human papillomavirus (HPV). They spread by touch, including picking, biting, or scratching them, which can spread them to other fingers, the mouth, or other people. Because certain types of HPV increase the risk of some cancers, HPV is more than a cosmetic problem. Agreeing that warts are harmless is tempting because they usually cause no symptoms, but it misses the teaching about spread and cancer risk.",
-      "takeaway": "Warts are HPV: picking spreads them, and some HPV types raise cancer risk."
+      "takeaway": "Warts are HPV: picking spreads them, and some HPV types raise cancer risk.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-075",
@@ -2737,21 +2790,22 @@ window.NURSE_DATA.push({
       "hintStrategy": "Eliminate options with inaccurate science before weighing the remaining ones.",
       "stem": "A 74-year-old client with localized shingles on the side of the chest is being cared for at home. The client asks, \"My 10-month-old grandson visits on Sundays. He hasn't had his chickenpox shot yet. Can he still come?\" Which response by the nurse is best?",
       "options": [
-        "\"He can visit normally, because shingles cannot be passed to other people.\"",
+        "\"He can visit again once you finish your course of antiviral pills.\"",
         "\"He should avoid close contact for now; your blister fluid can give him chickenpox.\"",
         "\"He can visit, but he might catch shingles from you if he touches the rash on your chest.\"",
-        "\"He can visit as long as you are taking acetaminophen for the pain.\""
+        "\"He should get his chickenpox shot before he comes to visit you again.\""
       ],
       "answer": 1,
       "priority": false,
       "optionRationales": [
-        "Incorrect. The virus in shingles blisters can cause chickenpox in a non-immune person.",
-        "Correct. Shingles blister fluid can cause chickenpox in someone who is not immune, such as an unvaccinated infant.",
-        "Incorrect. A non-immune person exposed to shingles fluid develops chickenpox, not shingles.",
-        "Incorrect. Pain medicine does not reduce the risk of spreading the virus."
+        "Incorrect. Antivirals shorten the illness, but the lesions stay contagious until all are crusted, not until the pills are done.",
+        "Correct. Shingles blister fluid can cause chickenpox in someone who is not immune, so the unvaccinated infant should avoid close contact until all lesions crust.",
+        "Incorrect. This recognizes that the rash is contagious, but a non-immune person develops chickenpox, not shingles, and visiting is not safe yet.",
+        "Incorrect. Vaccination is the right long-term protection, but the varicella vaccine is not given before 12 months of age."
       ],
       "rationale": "Herpes zoster (shingles) is the chickenpox virus reactivating from a nerve. The fluid in shingles blisters contains the virus and can give chickenpox (not shingles) to anyone who is not immune, such as an infant who has not been vaccinated. Keeping the lesions covered and avoiding close contact with non-immune people until all lesions are crusted protects the grandchild. The option saying he might \"catch shingles\" is tempting because it recognizes that the rash is contagious, but a non-immune person develops chickenpox first.",
-      "takeaway": "Shingles blister fluid can give chickenpox to a non-immune person; keep lesions covered and avoid close contact until crusted."
+      "takeaway": "Shingles blister fluid can give chickenpox to a non-immune person; keep lesions covered and avoid close contact until crusted.",
+      "bestAnswer": true
     },
     {
       "id": "m21-x1-077",

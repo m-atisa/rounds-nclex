@@ -11,18 +11,18 @@ window.NURSE_DATA.push({
       "stem": "During a scheduled memory screen in an outpatient clinic, a 72-year-old client suddenly cannot find common words and the right side of his mouth droops. His wife says he spoke normally in the car 20 minutes ago. Which action should the nurse take first?",
       "options": [
         "Stop the screen, check vital signs and neuro status, and activate emergency help.",
-        "Finish the remaining screen items so the provider receives a complete score.",
+        "Check his blood glucose first, then decide whether he needs emergency care.",
         "Ask the wife whether he has had word-finding pauses at home before today.",
-        "Document mild anomia and schedule a follow-up visit to repeat the screen."
+        "Stop the screen and arrange an urgent same-day visit with his provider."
       ],
       "answer": 0,
       "optionRationales": [
-        "Correct. New word-finding trouble with one-sided facial weakness is an emergency that needs immediate assessment and escalation.",
-        "Incorrect. Completing a screen delays care for a possible stroke; the screen can wait.",
-        "Incorrect. Baseline history is useful later, but the sudden focal signs need action now.",
-        "Incorrect. Labeling this as anomia and rescheduling misses an acute neurologic emergency."
+        "Correct. New word-finding trouble with one-sided facial weakness is a possible stroke, so the nurse assesses and activates emergency help at once rather than delaying for other steps.",
+        "Incorrect. Low glucose can mimic stroke and glucose is checked during stroke care, but making emergency activation wait on it delays time-sensitive treatment.",
+        "Incorrect. A history of word-finding pauses is useful background, but the onset is already known to be sudden, and asking now delays emergency care.",
+        "Incorrect. Stopping the screen and involving the provider is reasonable, but an office visit is the wrong level of care for possible stroke; emergency help is needed now."
       ],
-      "rationale": "A sudden change in thinking paired with a focal sign such as facial droop is never normal aging or a routine screening finding. The nurse stops the memory screen, assesses airway, breathing, vital signs, and a focused neuro exam, and activates emergency help without delay. The tempting choice is to finish the screen because the score seems useful, but no score is worth a delay in stroke care. Baseline questions and documentation come after the client is safe and help is on the way.",
+      "rationale": "A sudden change in thinking paired with a focal sign such as facial droop is never normal aging or a routine screening finding. The nurse stops the memory screen, assesses airway, breathing, vital signs, and a focused neuro exam, and activates emergency help without delay. Checking glucose first is tempting because low glucose can mimic stroke, but it is done alongside emergency activation, not instead of it. An urgent office visit is too slow, and baseline questions come after the client is safe and help is on the way.",
       "takeaway": "New word-finding trouble with one-sided weakness means stop testing and escalate immediately.",
       "hintContent": "Compare how fast this change appeared with what a memory screen is designed to measure.",
       "hintStrategy": "When a stem shows a sudden change with a physical sign, pick the action that assesses and escalates over any routine task.",
@@ -32,7 +32,8 @@ window.NURSE_DATA.push({
       "focus": "Prioritization",
       "difficulty": 3,
       "clientNeed": "Physiological Integrity: Physiological Adaptation",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-002",
@@ -64,7 +65,8 @@ window.NURSE_DATA.push({
       "focus": "Delegation & Safety",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-003",
@@ -73,16 +75,16 @@ window.NURSE_DATA.push({
       "stem": "A nurse begins an admission cognitive screen for a 66-year-old client the day after spinal surgery. The client is alert, vital signs are at baseline, and the client answers slowly while grimacing and rates back pain 8 on a 0–10 scale. Which action is best?",
       "options": [
         "Pause the screen, treat the pain as ordered, and repeat the screen later.",
-        "Report a possible cognitive disorder to the provider based on slow answers.",
-        "Ask the client to try harder to focus so the screen can be finished today.",
+        "Finish the screen first, then give the pain medication as ordered.",
+        "Reposition the client for comfort and continue the screen right away.",
         "Continue the screen and record the slow answers as a baseline finding."
       ],
       "answer": 0,
       "optionRationales": [
-        "Correct. Pain can block attention and memory, so the nurse relieves it and then reassesses for a valid result.",
-        "Incorrect. Slow answers during severe pain do not indicate a cognitive disorder; the barrier must be removed first.",
-        "Incorrect. Urging effort ignores a treatable barrier and adds stress that can worsen performance.",
-        "Incorrect. A score obtained during severe pain is unreliable and could falsely label the client as impaired."
+        "Correct. Pain can block attention and memory, so the nurse relieves it first and then reassesses for a valid result.",
+        "Incorrect. Treating the pain is right, but doing it after the screen leaves the client in pain during testing and produces an unreliable score.",
+        "Incorrect. Repositioning is a helpful comfort step, but it does not adequately treat pain rated 8, so the screen would still be unreliable.",
+        "Incorrect. Finishing the task seems efficient, but severe pain lowers performance and would chart a falsely low baseline."
       ],
       "rationale": "Pain, fatigue, anxiety, and medication effects can temporarily block attention and memory. This client is alert with stable vital signs, so there is no sign of an acute emergency, but severe pain makes any score unreliable. The best action is to treat the pain and reassess. Recording the result as baseline is tempting because it finishes the task, but it would chart a falsely low score that could follow the client through the stay.",
       "takeaway": "Remove barriers like pain before you interpret a cognitive screen.",
@@ -94,7 +96,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 2,
       "clientNeed": "Physiological Integrity: Basic Care and Comfort",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-004",
@@ -103,18 +106,18 @@ window.NURSE_DATA.push({
       "stem": "A 70-year-old client admitted for cellulitis walked steadily to the bathroom yesterday. Today the client staggers with a wide-based gait, sways when standing, and cannot touch the nurse’s finger and then their own nose. Which action is the priority?",
       "options": [
         "Keep the client in bed and complete a focused neuro assessment.",
-        "Request a physical therapy referral for gait training before discharge.",
-        "Provide a walker and encourage the client to keep walking in the hallway.",
-        "Document the unsteady gait as expected weakness from bed rest."
+        "Provide a walker and assist the client on every trip to the bathroom.",
+        "Request a physical therapy evaluation for the new gait problem.",
+        "Apply a bed alarm and recheck the gait at the next routine assessment."
       ],
       "answer": 0,
       "optionRationales": [
-        "Correct. New ataxia is a change in neurologic status that raises fall risk and needs focused assessment and reporting.",
-        "Incorrect. Therapy may help later, but new incoordination must first be assessed as a possible acute change.",
-        "Incorrect. Encouraging ambulation with new ataxia increases fall risk before the cause is known.",
-        "Incorrect. Bed rest does not explain new incoordination; calling it expected misses a neurologic change."
+        "Correct. New ataxia is a change in neurologic status that raises fall risk and needs focused assessment and reporting now.",
+        "Incorrect. Assisting with a walker reduces fall risk, but it treats the symptom without finding out why a new coordination problem appeared.",
+        "Incorrect. Physical therapy may help later, but a sudden change needs nursing assessment and reporting before rehabilitation is planned.",
+        "Incorrect. A bed alarm is a reasonable safety measure, but waiting for the next routine check delays assessment of an acute neurologic change."
       ],
-      "rationale": "Ataxia is poor coordination and balance, and a new onset means something has changed in the nervous system or body. The nurse protects the client from falling and completes a focused neuro assessment so the change can be reported with clear data. Physical therapy seems helpful, but it treats the symptom before anyone knows why it appeared. Calling it deconditioning after one day is a trap that blames the obvious and misses a possible acute cause.",
+      "rationale": "Ataxia is poor coordination and balance, and a new onset means something has changed in the nervous system or body. The nurse protects the client from falling and completes a focused neuro assessment so the change can be reported with clear data. A walker with assistance or a physical therapy evaluation seems helpful, but each treats the symptom before anyone knows why it appeared. A bed alarm with a later recheck is safe-looking but delays finding a possible acute cause.",
       "takeaway": "New ataxia means protect from falls and assess neuro status before rehab planning.",
       "hintContent": "The client walked steadily yesterday; ask what a sudden change in coordination could signal.",
       "hintStrategy": "Choose safety plus assessment over long-term planning when a finding is new.",
@@ -124,7 +127,8 @@ window.NURSE_DATA.push({
       "focus": "Prioritization",
       "difficulty": 3,
       "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-005",
@@ -187,7 +191,8 @@ window.NURSE_DATA.push({
             }
           }
         ]
-      }
+      },
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-006",
@@ -198,14 +203,14 @@ window.NURSE_DATA.push({
         "“Dress him yourself on busy mornings so he is ready on time.”",
         "“Lay his clothes out in order and give him time to dress himself.”",
         "“Let him dress alone without setup so he practices on his own.”",
-        "“Have him skip dressing and stay in his gown until he is faster.”"
+        "“Help with his buttons and shoes so he finishes dressing faster.”"
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. Taking over a task he can do removes function and independence he still has.",
-        "Correct. This gives the least help that keeps him safe and supports his remaining strengths.",
-        "Incorrect. Removing setup ignores the support he needs to complete the task successfully.",
-        "Incorrect. Withholding the activity reduces dignity and function rather than supporting it."
+        "Incorrect. Saving time is a real concern, but taking over the whole task removes a skill he still has and can speed his loss of independence.",
+        "Correct. Setup plus time gives the least help that keeps him safe and supports his remaining strengths.",
+        "Incorrect. Encouraging practice supports independence, but he succeeds only with setup, so removing it sets him up to fail.",
+        "Incorrect. Partial help seems a fair compromise, but he can manage these steps when clothes are set out, so it gives more help than he needs."
       ],
       "rationale": "Care for clients with cognitive changes should give the least help that keeps the client safe while preserving choices and skills. This resident succeeds when clothes are set up in order, so the plan is setup plus time, not takeover. The AP’s idea is tempting because it saves time, but doing the whole task removes a skill he still has and can speed decline in independence. Removing setup goes too far the other way and sets him up to fail.",
       "takeaway": "Match help to real function: support the step that is hard and let the client do the rest.",
@@ -217,7 +222,8 @@ window.NURSE_DATA.push({
       "focus": "Delegation & Safety",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-007",
@@ -227,15 +233,15 @@ window.NURSE_DATA.push({
       "options": [
         "Pause the screen and acknowledge her distress before going on.",
         "Finish the remaining items quickly so the score is complete today.",
-        "Repeat the missed items until she gives the correct answers.",
+        "End the screen now and reschedule it for a later visit.",
         "Tell her the score will not matter and has no effect on her care."
       ],
       "answer": 0,
       "optionRationales": [
         "Correct. Anxiety can lower performance, so the nurse addresses distress first and then continues when results will be valid.",
-        "Incorrect. Rushing a distressed client produces an unreliable score and ignores her feelings.",
-        "Incorrect. Repeating the same questions increases distress and can make results worse.",
-        "Incorrect. This is false reassurance; screen results do guide further assessment."
+        "Incorrect. A complete score seems useful, but results gathered under distress are not valid and pushing on ignores her feelings.",
+        "Incorrect. Stopping the test is reasonable, but ending it without acknowledging her distress leaves her feelings unaddressed and may not be needed.",
+        "Incorrect. It sounds comforting, but it is false reassurance that dismisses her feelings and closes off communication."
       ],
       "rationale": "Anxiety and distress can block memory and attention, and repeated questioning can upset a client and worsen results. The nurse pauses, acknowledges the feeling, and returns to the screen when the client is calmer. Pushing through to finish is tempting because a complete score seems necessary, but a score earned under distress is not a fair picture of her thinking. Telling her the score does not matter is false reassurance that closes off communication.",
       "takeaway": "Address anxiety before you continue a screen, or the result will not reflect real ability.",
@@ -247,7 +253,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-008",
@@ -256,16 +263,16 @@ window.NURSE_DATA.push({
       "stem": "A client with expressive aphasia after a stroke follows directions accurately but speaks only a few words. The client points toward the door, shakes the bed rail, and becomes red-faced when the nurse cannot understand. Which action should the nurse take first?",
       "options": [
         "Ask the client to keep trying to say the words more slowly.",
-        "Leave and return later when the client is calmer and more patient.",
-        "Ask a family member to guess what the client probably wants.",
+        "Hand the client a pen and paper to write down the request.",
+        "Ask a family member to interpret what the client wants.",
         "Offer a picture board and ask simple yes-or-no questions."
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. Pressing for speech the client cannot produce increases frustration.",
-        "Incorrect. Leaving abandons an unmet need and may leave a safety need unaddressed.",
-        "Incorrect. Guessing through others removes the client’s own voice when comprehension is intact.",
-        "Correct. Comprehension is intact, so another way to communicate lets the client state the need directly."
+        "Incorrect. Encouragement seems supportive, but it targets the very skill that is impaired and increases frustration.",
+        "Incorrect. Writing is a reasonable alternative, but expressive aphasia often impairs writing as well, so it is less reliable than pointing or yes-or-no answers.",
+        "Incorrect. Family can help with usual needs, but they may guess wrong; the client can communicate directly with the right tool.",
+        "Correct. Comprehension is intact, so a picture board and yes-or-no questions let the client state the need directly without relying on impaired speech or writing."
       ],
       "rationale": "This client understands but cannot produce words, so the nurse gives a way to communicate that does not depend on speech. A picture board and yes-or-no questions let the client express needs such as toileting or pain. Asking the client to keep trying seems encouraging, but it targets the very skill that is impaired and increases frustration. Speech and understanding are separate skills, so the plan must fit the one that is affected.",
       "takeaway": "When comprehension is intact but speech is not, give an alternate way to communicate.",
@@ -277,7 +284,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-009",
@@ -286,18 +294,18 @@ window.NURSE_DATA.push({
       "stem": "A 58-year-old client with type 2 diabetes who receives insulin was chatting at breakfast. Before lunch, the nurse finds the client sweaty and shaky, unable to follow a two-step direction. Which action should the nurse take first?",
       "options": [
         "Check the client’s capillary blood glucose at the bedside.",
-        "Call the client’s spouse to ask about any history of confusion.",
+        "Check the client’s pupils and hand grips for new weakness.",
         "Complete a brief memory screen to measure the new change.",
-        "Reorient the client and recheck mental status in one hour."
+        "Notify the provider that the client has new confusion."
       ],
       "answer": 0,
       "optionRationales": [
         "Correct. Sweating, shakiness, and sudden confusion in a client on insulin suggest low glucose, which must be checked right away.",
-        "Incorrect. History can wait; this sudden change has a likely, treatable physical cause.",
-        "Incorrect. A screen does not identify or treat the likely physical cause.",
-        "Incorrect. Waiting an hour could allow a dangerous low glucose to worsen."
+        "Incorrect. A neuro check looks for stroke, which can also cause sudden confusion, but sweating and shakiness in a client on insulin point first to low glucose, which can mimic stroke.",
+        "Incorrect. A memory screen measures the change, but it does nothing to find or fix the cause.",
+        "Incorrect. The provider will need to know, but a quick glucose check gives the data needed and allows treatment without delay."
       ],
-      "rationale": "Sudden confusion is often the first sign that something is wrong in body chemistry. In a client on insulin, sweating, shakiness, and new confusion point strongly to hypoglycemia, which can be confirmed quickly and treated. A memory screen is tempting because it measures cognition, but it does nothing to find or fix the cause. Reorienting and waiting could let a dangerous low glucose progress.",
+      "rationale": "Sudden confusion is often the first sign that something is wrong in body chemistry. In a client on insulin, sweating, shakiness, and new confusion point strongly to hypoglycemia, which can be confirmed quickly and treated. A memory screen is tempting because it measures cognition, but it does nothing to find or fix the cause. A neuro check or a call to the provider is reasonable, but the glucose check targets the most likely cause and leads straight to treatment.",
       "takeaway": "Sudden confusion is a body problem until proven otherwise, so check the likely physical cause first.",
       "hintContent": "Link the sweating and shakiness to the client’s medication.",
       "hintStrategy": "When a quick bedside check can confirm a dangerous cause, do it before any cognitive testing.",
@@ -309,7 +317,8 @@ window.NURSE_DATA.push({
       "focus": "Prioritization",
       "difficulty": 3,
       "clientNeed": "Physiological Integrity: Physiological Adaptation",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-010",
@@ -318,16 +327,16 @@ window.NURSE_DATA.push({
       "stem": "A 75-year-old client whose primary language is Vietnamese scores low on a cognitive screen given in English. Her 12-year-old grandson helped translate some items. Her son says she manages her home and finances without help. Which action by the nurse is most appropriate?",
       "options": [
         "Record the score and report probable dementia to the provider.",
-        "Repeat the English questions more slowly and in a louder voice.",
+        "Ask the son to describe her daily function at home in more detail.",
         "Have the grandson translate the whole screen on the next attempt.",
         "Arrange a qualified medical interpreter before interpreting the score."
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. The score was obtained with a language barrier and cannot be interpreted as a cognitive deficit.",
-        "Incorrect. Volume and pace do not fix a language mismatch.",
-        "Incorrect. A child is not a qualified interpreter and may change the meaning of test items.",
-        "Correct. Language proficiency strongly affects screening results, so communication access must be fixed first."
+        "Incorrect. A number looks objective, but this score was obtained in her second language and would label a language barrier as disease.",
+        "Incorrect. Functional history is valuable, but it does not fix the invalid score; access to her own language is still needed.",
+        "Incorrect. Family translation is convenient, but an untrained child cannot give accurate, unbiased interpretation of test items.",
+        "Correct. Language proficiency strongly affects screening results, so a qualified interpreter is needed before the score means anything."
       ],
       "rationale": "A cognitive screen measures thinking only when the client can understand the test language. This client has a strong functional baseline, and the low score was obtained in her second language with an untrained child translating. A qualified medical interpreter and the official tool are needed before the result means anything. Reporting probable dementia is the tempting error because the number looks objective, but it labels a language barrier as a disease.",
       "takeaway": "Before you interpret a cognitive score, make sure the client could understand the test language.",
@@ -339,7 +348,8 @@ window.NURSE_DATA.push({
       "focus": "Lifespan & Diversity",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-011",
@@ -349,17 +359,17 @@ window.NURSE_DATA.push({
       "options": [
         "Remote long-term memory is impaired, while recent memory is intact.",
         "Recent memory is impaired, while remote long-term memory is preserved.",
-        "The detailed story proves his memory is intact for new teaching.",
+        "Attention is impaired, so the new teaching never registered.",
         "Sensory memory failed because he could not hear the instructions."
       ],
       "answer": 1,
       "optionRationales": [
         "Incorrect. The pattern is the opposite: remote memories are clear and recent learning is lost.",
         "Correct. Memory layers can fail separately, and this client keeps old memories but cannot store new teaching.",
-        "Incorrect. Clear remote memories do not show that new information is being stored.",
+        "Incorrect. Poor attention can block new learning, but he is alert, not in pain, and tells a long story in organized detail, so a storage problem in recent memory fits better.",
         "Incorrect. His hearing aids were in place, so a hearing barrier does not explain the loss."
       ],
-      "rationale": "Memory has layers that can fail separately. Long-term declarative memory can hold decades-old events while short-term and working memory fail to store new teaching. The tempting error is to trust the vivid wedding story as proof that memory is fine, which could send him home unable to use his inhaler. The nurse assesses memory in context by checking whether the client can recall and use teaching after a short break.",
+      "rationale": "Memory has layers that can fail separately. Long-term declarative memory can hold decades-old events while short-term and working memory fail to store new teaching. The tempting error is to trust the vivid wedding story as proof that memory is fine, or to blame attention, which is unlikely in an alert, comfortable client who tells an organized story. The nurse assesses memory in context by checking whether the client can recall and use teaching after a short break.",
       "takeaway": "Clear old memories do not prove a client can learn and keep new information.",
       "hintContent": "Look at how long ago each piece of information was learned.",
       "hintStrategy": "Match each finding to a specific memory layer rather than judging memory as all good or all bad.",
@@ -369,7 +379,8 @@ window.NURSE_DATA.push({
       "focus": "Assessment Findings",
       "difficulty": 2,
       "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-012",
@@ -399,7 +410,8 @@ window.NURSE_DATA.push({
       "focus": "Pathophysiology",
       "difficulty": 2,
       "clientNeed": "Physiological Integrity: Physiological Adaptation",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-013",
@@ -429,7 +441,8 @@ window.NURSE_DATA.push({
       "focus": "Client Teaching",
       "difficulty": 3,
       "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-014",
@@ -470,14 +483,14 @@ window.NURSE_DATA.push({
         "Missing hearing access likely explained the first low result.",
         "Her cognition is fluctuating and she needs urgent evaluation for delirium.",
         "The second score proves she needs no further assessment of function.",
-        "The first result is the more accurate one because it was done on admission."
+        "Both scores are unreliable, so the screen should be repeated again."
       ],
       "answer": 0,
       "optionRationales": [
         "Correct. Improvement once hearing access and setting were fixed points to sensory access as the cause of the first errors.",
-        "Incorrect. She is consistent with good function once barriers are removed; nothing suggests a new acute change.",
-        "Incorrect. A normal screen still does not prove safety for every task; functional observation continues.",
-        "Incorrect. The first result was compromised by noise and missing hearing aids, so it is less valid."
+        "Incorrect. Fluctuation raises concern for delirium, but here the change tracks with fixing hearing and noise, not shifting attention or alertness.",
+        "Incorrect. A normal screen is reassuring, but a screen does not prove function, and ongoing assessment is still part of care.",
+        "Incorrect. Caution about scores is reasonable, but the second screen was done under proper conditions and matches her clear explanation of medicines."
       ],
       "rationale": "Hearing loss can look like memory loss because the client cannot respond to what she cannot hear. When the same tool, given with working hearing aids in a quiet room, shows normal performance, the earlier result most likely reflected access rather than thinking. Delirium is tempting because the scores differ, but fluctuation in delirium involves changing attention and alertness, not improvement that tracks with fixing hearing. The nurse documents both conditions so the earlier score is not misread.",
       "takeaway": "When fixing hearing or setting fixes the score, the problem was access, not cognition.",
@@ -489,7 +502,8 @@ window.NURSE_DATA.push({
       "focus": "Assessment Findings",
       "difficulty": 2,
       "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-016",
@@ -519,7 +533,8 @@ window.NURSE_DATA.push({
       "focus": "Assessment Findings",
       "difficulty": 3,
       "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-017",
@@ -530,14 +545,14 @@ window.NURSE_DATA.push({
         "Ask the parent to answer every question to save the child stress.",
         "Talk with the child using age-fitting tasks; ask the parent about history.",
         "Use an adult screening tool and compare the score with adult norms.",
-        "Send the parent out so the child answers without any distraction."
+        "Have the parent fill out a symptom checklist in the waiting room."
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. Speaking only to the parent misses direct observation of the child’s own skills.",
+        "Incorrect. Letting the parent answer is faster and comforting, but it replaces direct observation of the child with secondhand report.",
         "Correct. Children need age-appropriate tasks and direct engagement, with caregivers adding developmental history.",
-        "Incorrect. Adult tools and norms do not fit a child’s developmental stage.",
-        "Incorrect. Excluding the caregiver loses the developmental history the nurse needs."
+        "Incorrect. A standard tool gives a score, but adult tools and norms do not fit a 6-year-old’s development.",
+        "Incorrect. Parent checklists add useful history, but they cannot replace the nurse observing the child’s attention and language directly."
       ],
       "rationale": "Attention and language in children depend on age, so the nurse uses age-fitting tasks and asks caregivers about developmental history. Speaking directly to the child lets the nurse observe real skills rather than secondhand reports. Letting the parent answer is tempting because it is faster and comforting, but it replaces observation with opinion. Caregivers are included, not substituted for the child.",
       "takeaway": "With children, engage the child directly and use caregivers for developmental history.",
@@ -549,7 +564,8 @@ window.NURSE_DATA.push({
       "focus": "Lifespan & Diversity",
       "difficulty": 2,
       "clientNeed": "Health Promotion and Maintenance",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-018",
@@ -836,7 +852,8 @@ window.NURSE_DATA.push({
       "focus": "Prioritization",
       "difficulty": 3,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-026",
@@ -845,18 +862,18 @@ window.NURSE_DATA.push({
       "stem": "Parents bring their 16-year-old to an urgent care clinic because his grades have dropped sharply over two weeks. He is alert and oriented. When his parents step out, he says quietly, “It doesn’t matter anyway. I won’t be around much longer.” Which action should the nurse take first?",
       "options": [
         "Ask him directly whether he is thinking about killing himself.",
-        "Ask the parents for his school records and recent report cards.",
-        "Reassure him that grade drops are common during adolescence.",
+        "Bring the parents back in and tell them what he just said.",
+        "Ask him an open question about what is going on at school.",
         "Arrange a urine drug screen before continuing the conversation."
       ],
       "answer": 0,
       "optionRationales": [
-        "Correct. A possible self-harm statement requires a direct, prompt safety assessment.",
-        "Incorrect. School data does not address the immediate safety concern.",
-        "Incorrect. This dismisses a warning statement and closes communication.",
-        "Incorrect. Substance use matters, but the self-harm statement must be assessed first."
+        "Correct. A possible self-harm statement requires a direct, prompt safety assessment before any other step.",
+        "Incorrect. Parents will need to be involved, but the nurse first needs to know the level of risk and should keep him talking now.",
+        "Incorrect. An open question is therapeutic, but it steers away from his statement and delays asking directly about suicide.",
+        "Incorrect. Substances can affect teens’ thinking, but testing delays addressing a possible risk of self-harm."
       ],
-      "rationale": "A sudden drop in function in a teen, combined with a statement suggesting he may not be alive, requires an immediate, direct safety assessment. Asking directly about suicidal thoughts does not plant the idea; it opens the door to help. A drug screen is tempting because substances can affect teens’ thinking, but it delays addressing a possible risk of self-harm. School records and reassurance can come later or not at all.",
+      "rationale": "A sudden drop in function in a teen, combined with a statement suggesting he may not be alive, requires an immediate, direct safety assessment. Asking directly about suicidal thoughts does not plant the idea; it opens the door to help. A drug screen is tempting because substances can affect teens’ thinking, but it delays addressing a possible risk of self-harm. Asking about school or bringing the parents in can come after the nurse knows his level of risk.",
       "takeaway": "Any self-harm statement calls for a direct question about suicide before other assessment.",
       "hintContent": "Listen closely to what the teen says after his parents leave.",
       "hintStrategy": "In psychosocial priority items, safety from self-harm comes before data gathering.",
@@ -866,7 +883,8 @@ window.NURSE_DATA.push({
       "focus": "Prioritization",
       "difficulty": 3,
       "clientNeed": "Psychosocial Integrity",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-027",
@@ -877,14 +895,14 @@ window.NURSE_DATA.push({
         "Assess the daughter’s stress, sleep, and supports, and discuss respite options.",
         "Tell the daughter that all caregivers feel this way and it will pass.",
         "Recommend that the daughter move her mother to a facility this week.",
-        "Teach the daughter to correct her mother each time she repeats a question."
+        "Teach the daughter ways to redirect her mother’s repeated questions."
       ],
       "answer": 0,
       "optionRationales": [
         "Correct. Caregiver ability and stress are part of the assessment and directly affect the client’s safety.",
-        "Incorrect. This minimizes her strain and offers no assessment or help.",
-        "Incorrect. A major decision should follow assessment and discussion of options, not replace them.",
-        "Incorrect. Repeated correction increases distress and does not reduce the caregiver’s strain."
+        "Incorrect. Normalizing feelings can comfort, but saying it will pass is false reassurance and misses the risk of caregiver strain.",
+        "Incorrect. Placement may be an option someday, but recommending it now skips assessment and the family’s own choices.",
+        "Incorrect. Redirection is a useful skill, but teaching does not address her exhaustion; her stress and supports need assessment first."
       ],
       "rationale": "Dementia care includes the caregiver, whose stress, sleep, and support affect the client’s safety. This daughter shows exhaustion and a loss of patience, which are warning signs for caregiver strain and possible mistreatment. The nurse assesses her needs and discusses respite and other resources. Recommending placement right away is tempting because it seems decisive, but it skips assessment and the family’s own choices.",
       "takeaway": "Assess caregiver stress and support as part of caring for a client with dementia.",
@@ -896,7 +914,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 3,
       "clientNeed": "Psychosocial Integrity",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-028",
@@ -926,7 +945,8 @@ window.NURSE_DATA.push({
       "focus": "Pathophysiology",
       "difficulty": 3,
       "clientNeed": "Physiological Integrity: Physiological Adaptation",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-029",
@@ -956,7 +976,8 @@ window.NURSE_DATA.push({
       "focus": "Lifespan & Diversity",
       "difficulty": 3,
       "clientNeed": "Physiological Integrity: Physiological Adaptation",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-030",
@@ -966,15 +987,15 @@ window.NURSE_DATA.push({
       "options": [
         "Request a psychiatric consult for new-onset schizophrenia.",
         "Explain calmly that there are no bugs crawling on the wall.",
-        "Dim the lights and leave him to rest alone in a quiet room.",
+        "Dim the lights and reduce noise and activity in the room.",
         "Assess vital signs and withdrawal signs and notify the provider."
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. A single new psychotic symptom with physical signs suggests a medical cause, not a new psychiatric diagnosis.",
-        "Incorrect. Arguing about a perception does not address the physical danger.",
-        "Incorrect. Leaving an unstable client alone is unsafe and dim light can worsen misperceptions.",
-        "Correct. Hallucinations with tremor, sweating, and tachycardia suggest withdrawal, which is a medical emergency."
+        "Incorrect. Hallucinations sound psychiatric, but a consult delays recognizing and treating a likely physical cause.",
+        "Incorrect. Calm reality orientation is appropriate, but it does nothing for the tachycardia, tremor, and sweating that suggest withdrawal.",
+        "Incorrect. A calm, quiet room helps with delirium, but it is a comfort step that does not address a possibly life-threatening withdrawal.",
+        "Correct. Hallucinations with tremor, sweating, and tachycardia suggest withdrawal, which is a medical emergency needing assessment and prompt treatment."
       ],
       "rationale": "One psychotic symptom does not prove schizophrenia. Delirium, illness, drugs, withdrawal, and medicines can all cause hallucinations, especially when attention is impaired. The timing, tremor, sweating, and fast pulse point toward alcohol or substance withdrawal, which can become life-threatening. A psychiatric consult is tempting because hallucinations sound psychiatric, but it delays recognizing and treating a physical cause.",
       "takeaway": "New hallucinations with abnormal vital signs need a medical workup, not a psychiatric label.",
@@ -988,7 +1009,8 @@ window.NURSE_DATA.push({
       "focus": "Prioritization",
       "difficulty": 3,
       "clientNeed": "Physiological Integrity: Physiological Adaptation",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-031",
@@ -1047,7 +1069,8 @@ window.NURSE_DATA.push({
             }
           }
         ]
-      }
+      },
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-032",
@@ -1077,7 +1100,8 @@ window.NURSE_DATA.push({
       "focus": "Prioritization",
       "difficulty": 3,
       "clientNeed": "Psychosocial Integrity",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-033",
@@ -1109,7 +1133,8 @@ window.NURSE_DATA.push({
       "focus": "Client Teaching",
       "difficulty": 2,
       "clientNeed": "Health Promotion and Maintenance",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-034",
@@ -1117,19 +1142,19 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "A client with a psychotic disorder pushes away the lunch tray and says, “The staff are putting poison in my food.” The client is alert and has eaten nothing since yesterday. Which response by the nurse is best?",
       "options": [
-        "“No one here would ever poison you. That simply is not true.”",
+        "“Your meals are prepared safely in our kitchen every day.”",
         "“You seem frightened about the food. Tell me what worries you.”",
-        "“I will taste each item first so you know it is safe to eat.”",
-        "“If you do not eat, the provider will have to order a feeding tube.”"
+        "“I will tell your provider you have not eaten since yesterday.”",
+        "“Let’s choose a food you like from the menu instead.”"
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. Arguing with a fixed false belief tends to increase distress and mistrust.",
-        "Correct. Naming the feeling and inviting discussion assesses distress without arguing or agreeing.",
-        "Incorrect. Acting as though the poisoning belief is plausible reinforces the delusion.",
-        "Incorrect. A threat increases fear and damages trust."
+        "Incorrect. Stating reality calmly is better than arguing, but it skips the client’s fear and tends to close the conversation the nurse needs.",
+        "Correct. Naming the feeling and inviting the client to talk builds trust without arguing with or supporting the delusion, and lets the nurse assess distress and intake.",
+        "Incorrect. Poor intake does need to be reported, but this response turns away from the frightened client instead of addressing the fear behind the refusal.",
+        "Incorrect. Encouraging intake is a reasonable goal, but changing the food ignores the fear driving the refusal, so the client is unlikely to eat it either."
       ],
-      "rationale": "A delusion is a fixed false belief that stays despite clear evidence against it. Arguing does not change the belief and often increases fear, while pretending to share it reinforces it. The nurse names the feeling, stays calm, and explores the client’s worry so distress and safety, including intake, can be assessed. Directly denying the belief is tempting because it feels honest, but it shuts down the conversation the nurse needs.",
+      "rationale": "A delusion is a fixed false belief that stays despite clear evidence against it. Arguing does not change the belief and often increases fear, while pretending to share it reinforces it. The nurse names the feeling, stays calm, and explores the client’s worry so distress and safety, including intake, can be assessed. Stating that the food is safe or offering a different meal is tempting because it seems helpful, but it skips the fear the nurse needs to address first.",
       "takeaway": "With delusions, respond to the feeling and avoid arguing or agreeing.",
       "hintContent": "Identify the emotion beneath the client’s statement.",
       "hintStrategy": "Therapeutic responses acknowledge feelings and invite more information.",
@@ -1139,7 +1164,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-035",
@@ -1147,19 +1173,19 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "A 34-year-old client with dyslexia is being discharged with instructions for daily wound care. He says, “Reading has always been hard for me, but I learn fast when someone shows me.” Which teaching plan is best?",
       "options": [
-        "Give a detailed written handout and ask him to read it at home.",
-        "Ask his spouse to sign the teaching record and do all wound care.",
+        "Read the written handout aloud with him, then answer his questions.",
+        "Teach his spouse the steps so she can help with his wound care at home.",
         "Demonstrate the steps, add pictures, and have him show the steps back.",
-        "Speak more slowly and loudly while reading the handout to him once."
+        "Show him a video of the steps and give him a copy to watch at home."
       ],
       "answer": 2,
       "optionRationales": [
-        "Incorrect. A reading-based plan relies on the skill he has trouble with.",
-        "Incorrect. He can learn the task; shifting care to his spouse ignores his ability and choice.",
-        "Correct. Visual cues, demonstration, and return demonstration fit his learning style and confirm learning.",
-        "Incorrect. He does not have a hearing problem, and one reading does not confirm learning."
+        "Incorrect. Reading aloud removes the reading barrier, but he says he learns by being shown, and there is no check that he can do the care.",
+        "Incorrect. Including family can help, but he is capable of learning, and teaching his spouse instead does not confirm that he can do his own care.",
+        "Correct. Demonstration and pictures match how he learns, and return demonstration confirms he can actually perform the wound care himself.",
+        "Incorrect. A video fits a visual learner, but without a return demonstration the nurse cannot confirm he can perform the steps correctly."
       ],
-      "rationale": "A learning disability is a specific problem with processing information, not low overall intelligence. The right response is a different teaching method, not a lower expectation. Demonstration, pictures, and return demonstration fit how this client learns and confirm he can do the task. Handing the task to his spouse is tempting because it feels safe, but it takes away the client’s independence and is not needed.",
+      "rationale": "A learning disability is a specific problem with processing information, not low overall intelligence. The right response is a different teaching method, not a lower expectation. Demonstration, pictures, and return demonstration fit how this client learns and confirm he can do the task. Teaching his spouse instead is tempting because it feels safe, but it does not confirm the client can do his own care and takes away his independence.",
       "takeaway": "A learning difference needs a different teaching method, not a lower expectation.",
       "hintContent": "Use the client’s own description of how he learns best.",
       "hintStrategy": "Choose the plan that adapts the method and verifies performance.",
@@ -1169,7 +1195,8 @@ window.NURSE_DATA.push({
       "focus": "Client Teaching",
       "difficulty": 2,
       "clientNeed": "Health Promotion and Maintenance",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-036",
@@ -1199,7 +1226,8 @@ window.NURSE_DATA.push({
       "focus": "Assessment Findings",
       "difficulty": 2,
       "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-037",
@@ -1259,7 +1287,8 @@ window.NURSE_DATA.push({
       "focus": "Lifespan & Diversity",
       "difficulty": 2,
       "clientNeed": "Health Promotion and Maintenance",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-039",
@@ -1268,18 +1297,18 @@ window.NURSE_DATA.push({
       "stem": "A resident with dementia tells staff he had breakfast with the town mayor this morning, although he ate in the dining room as usual. An assistive personnel (AP) says, “He lies all the time to get attention.” Which response by the RN is best?",
       "options": [
         "“He is filling memory gaps, not lying; respond to his mood instead.”",
-        "“Correct him each time so he learns what really happened.”",
-        "“Ignore what he tells you, because his stories are not reliable.”",
-        "“Record each false story so the provider can adjust his medicines.”"
+        "“Gently remind him that he ate breakfast in the dining room.”",
+        "“Check with his family whether anyone visited him this morning.”",
+        "“Redirect him to an activity whenever he starts a story.”"
       ],
       "answer": 0,
       "optionRationales": [
-        "Correct. Confabulation is not intentional lying; responding to the feeling protects dignity.",
-        "Incorrect. Repeated correction raises distress and does not restore memory.",
-        "Incorrect. Ignoring him could miss real needs, such as pain or a safety concern.",
-        "Incorrect. Confabulation is not treated by routinely adjusting medicines."
+        "Correct. This corrects the AP’s belief that he is lying, explains confabulation, and shows how to respond to the feeling behind the story while protecting his dignity.",
+        "Incorrect. A gentle reminder is kinder than confronting him, but repeated correction often causes distress and does not fix the AP’s belief that he is lying.",
+        "Incorrect. Checking important facts with reliable sources is reasonable, but it does not address the AP’s misunderstanding or how to respond to him now.",
+        "Incorrect. Redirection is a useful dementia strategy, but it leaves the AP thinking he lies for attention and does not respond to his mood."
       ],
-      "rationale": "Confabulation is filling memory gaps with untrue stories, usually without any intent to deceive. Staff should respond to the need or mood underneath, protect dignity, and check important facts with reliable sources. Correcting him each time is tempting because it seems truthful, but repeated confrontation raises distress without fixing memory. Ignoring everything he says is also unsafe because real complaints may be missed.",
+      "rationale": "Confabulation is filling memory gaps with untrue stories, usually without any intent to deceive. Staff should respond to the need or mood underneath, protect dignity, and check important facts with reliable sources. Gently reminding him of the facts is tempting because it seems truthful, but repeated correction raises distress without fixing memory. Simply redirecting him also falls short if the AP still believes he is lying.",
       "takeaway": "Confabulation is not lying; respond to the feeling and verify important facts.",
       "hintContent": "Consider whether the resident means to deceive anyone.",
       "hintStrategy": "In staff-guidance items, choose the response that corrects the misunderstanding and protects the client.",
@@ -1289,7 +1318,8 @@ window.NURSE_DATA.push({
       "focus": "Delegation & Safety",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-040",
@@ -1297,19 +1327,19 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "A 15-year-old is seen at a school-based clinic for headaches and trouble concentrating over the past month. Her mother is in the room and answers most of the questions. Which approach by the nurse is best?",
       "options": [
-        "Interview only the mother, since she knows the teen’s history best.",
+        "Ask the teen to answer for herself while her mother listens.",
         "Ask the mother to stay so the teen feels safe answering questions.",
-        "Explain that the symptoms are normal stress during adolescence.",
+        "Check her vision and blood pressure before asking more questions.",
         "Talk with the teen alone for part of the visit after explaining privacy."
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. The teen’s own report on mood, substances, and safety is essential.",
-        "Incorrect. Teens may not disclose substance use, mood, or safety concerns with a parent present.",
-        "Incorrect. Dismissing new symptoms misses possible injury, substance, or mood causes.",
-        "Correct. Private time with clear limits supports honest disclosure about safety, substances, and mood."
+        "Incorrect. Directing questions to the teen is a good start, but with her mother present she may not disclose mood, substance use, or safety concerns.",
+        "Incorrect. A parent can be supportive, but her presence often keeps a teen from sharing the sensitive information that may explain these symptoms.",
+        "Incorrect. Vision and blood pressure are reasonable checks for headaches, but they do not fix the barrier to a full, honest history.",
+        "Correct. Explaining privacy and its limits, then speaking with the teen alone, gives her a safe chance to disclose mood, substance, injury, or safety concerns."
       ],
-      "rationale": "Teens need privacy within the rules and a nonjudgmental approach so they can talk about safety, substance use, injury, and mood. Explaining the limits of confidentiality before speaking alone builds trust while protecting safety. Keeping the mother in the room is tempting because she offers support, but it often prevents the teen from disclosing the very information that explains her symptoms. New concentration trouble should not be dismissed as normal teen stress.",
+      "rationale": "Teens need privacy within the rules and a nonjudgmental approach so they can talk about safety, substance use, injury, and mood. Explaining the limits of confidentiality before speaking alone builds trust while protecting safety. Keeping the mother in the room is tempting because she offers support, but it often prevents the teen from disclosing the very information that explains her symptoms. Physical checks are reasonable for headaches, but they do not replace a private, complete history.",
       "takeaway": "Interview adolescents privately for part of the visit, with confidentiality limits explained.",
       "hintContent": "Consider what a teen may not say in front of a parent.",
       "hintStrategy": "For lifespan items, choose the approach that fits the client’s developmental stage.",
@@ -1319,7 +1349,8 @@ window.NURSE_DATA.push({
       "focus": "Lifespan & Diversity",
       "difficulty": 2,
       "clientNeed": "Health Promotion and Maintenance",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-041",
@@ -1327,19 +1358,19 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "A 30-year-old client with asthma and no psychiatric history is brought in by her roommate for new suspicious statements over three days. The roommate says she started a high dose of oral prednisone last week. The client is alert. Which interpretation should guide the nurse’s next step?",
       "options": [
-        "The findings confirm a new diagnosis of schizophrenia in this client.",
+        "The findings suggest a first episode of a primary psychotic disorder.",
         "The new medicine may be causing the symptoms and should be reported.",
-        "The roommate is probably exaggerating ordinary everyday stress.",
-        "The prednisone should be stopped by the client right away."
+        "A urine drug screen will most likely explain the new symptoms.",
+        "The prednisone dose should be tapered down starting today."
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. One cluster of new symptoms does not establish schizophrenia, especially with a drug trigger.",
-        "Correct. Medicines, including high-dose corticosteroids, can cause psychotic symptoms and need prompt review.",
-        "Incorrect. Dismissing a clear new change misses a possible drug effect.",
-        "Incorrect. Abruptly stopping a corticosteroid can be dangerous; changes are directed by the prescriber."
+        "Incorrect. A primary psychotic disorder is possible, but the sudden onset right after starting high-dose prednisone points first to a medicine cause.",
+        "Correct. High-dose corticosteroids can cause psychotic and mood changes, and the timing fits; the nurse reports it so the prescriber can evaluate and adjust therapy.",
+        "Incorrect. Substances can cause psychosis and may be screened, but nothing suggests use, while the new high-dose steroid clearly matches the timing.",
+        "Incorrect. A taper may be the eventual plan, but changing the dose is the prescriber’s decision; the nurse reports the findings first."
       ],
-      "rationale": "Delirium, illness, substances, withdrawal, medicines, and mood disorders can all produce psychotic signs, so one new symptom cluster does not prove schizophrenia. High-dose corticosteroids are a known cause of mood and psychotic changes. The nurse reports the timing to the prescriber, who decides how to adjust therapy. Telling the client to stop the drug herself is tempting because it removes the trigger, but abrupt corticosteroid withdrawal can be dangerous.",
+      "rationale": "Delirium, illness, substances, withdrawal, medicines, and mood disorders can all produce psychotic signs, so one new symptom cluster does not prove a primary psychotic disorder. High-dose corticosteroids are a known cause of mood and psychotic changes. The nurse reports the timing to the prescriber, who decides how to adjust therapy. Starting a taper is tempting because it removes the trigger, but dose changes are the prescriber’s decision, and abrupt corticosteroid withdrawal can be dangerous.",
       "takeaway": "New psychotic symptoms after a medicine change call for prescriber review of the drug.",
       "hintContent": "Link the timing of the new symptoms to the new prescription.",
       "hintStrategy": "Look for a reversible cause before accepting a new psychiatric label.",
@@ -1349,7 +1380,8 @@ window.NURSE_DATA.push({
       "focus": "Pharmacology",
       "difficulty": 3,
       "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-042",
@@ -1639,7 +1671,8 @@ window.NURSE_DATA.push({
       "focus": "Prioritization",
       "difficulty": 3,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-050",
@@ -1669,7 +1702,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 3,
       "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-051",
@@ -1677,17 +1711,17 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "In the post-anesthesia care unit, a 5-year-old who had a tonsillectomy is thrashing, crying inconsolably, and does not seem to recognize his mother. She says, “He’s just being bratty.” Which action should the nurse take first?",
       "options": [
-        "Ask the mother to hold him firmly in her lap until he calms down.",
+        "Ask the mother to hold him and speak softly until he settles.",
         "Protect him from injury and assess his airway, oxygen, and pain.",
-        "Tell the mother this behavior is normal and will pass soon.",
-        "Set firm limits and explain that crying slows his recovery."
+        "Explain to the mother that this is common after anesthesia.",
+        "Give the ordered PRN pain medicine to help him settle."
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. Holding him does not address possible airway, oxygen, or pain problems.",
-        "Correct. Children may have delirium after anesthesia, and safety plus physical assessment come first.",
-        "Incorrect. Reassurance without assessment could miss hypoxia, bleeding, or pain.",
-        "Incorrect. Treating an altered mental state as defiance is inappropriate."
+        "Incorrect. A parent’s calm presence can help emergence agitation, but airway, oxygenation, and injury risk must be assessed first after a tonsillectomy.",
+        "Correct. Not recognizing his mother signals altered awareness; protecting him and checking airway, oxygen, and pain rules out dangerous causes first.",
+        "Incorrect. Emergence agitation is common, but reassuring the mother before assessing could miss hypoxia, bleeding, or pain.",
+        "Incorrect. Pain may be part of the cause, but giving medicine before assessing airway and oxygenation could mask or worsen a breathing problem."
       ],
       "rationale": "Children may act very differently during severe illness or after anesthesia, and this should not be called defiance. Not recognizing a parent and inconsolable thrashing suggest a change in awareness that requires protection from injury and assessment of airway, oxygenation, and pain. After a tonsillectomy, airway and bleeding are especially important. Reassuring the mother is tempting because emergence behavior is common, but the nurse must assess before assuming it is benign.",
       "takeaway": "In children, treat a new change in awareness after anesthesia as a physical concern, not misbehavior.",
@@ -1699,7 +1733,8 @@ window.NURSE_DATA.push({
       "focus": "Lifespan & Diversity",
       "difficulty": 3,
       "clientNeed": "Physiological Integrity: Physiological Adaptation",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-052",
@@ -1729,7 +1764,8 @@ window.NURSE_DATA.push({
       "focus": "Prioritization",
       "difficulty": 3,
       "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-053",
@@ -1759,7 +1795,8 @@ window.NURSE_DATA.push({
       "focus": "Prioritization",
       "difficulty": 3,
       "clientNeed": "Physiological Integrity: Physiological Adaptation",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-054",
@@ -1767,19 +1804,19 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "A client who is 32 weeks pregnant calls the clinic nurse line. Her husband reports that she has a bad headache and, over the past few hours, has been confused about where she is. He says, “I think it’s just pregnancy brain.” Which action by the nurse is best?",
       "options": [
-        "Tell him to let her rest and call back if she is not better tomorrow.",
+        "Have him check her blood pressure at home and call back with the reading.",
         "Have her seen emergently for blood pressure and mental status checks.",
         "Recommend acetaminophen for the headache and recheck in 1 hour.",
-        "Reassure him that mild forgetfulness is common in late pregnancy."
+        "Schedule a clinic visit for later today to check on her and the baby."
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. Waiting delays evaluation of a possibly life-threatening problem.",
-        "Correct. New confusion during pregnancy can signal serious illness and needs urgent evaluation.",
-        "Incorrect. Treating the headache alone ignores the new confusion.",
-        "Incorrect. Mild forgetfulness is different from new disorientation, which is not expected."
+        "Incorrect. Blood pressure is the right concern, but home checks delay care when headache and new confusion already suggest a possible hypertensive emergency.",
+        "Correct. Headache with new disorientation at 32 weeks may signal severe preeclampsia; she needs emergent evaluation of blood pressure and mental status.",
+        "Incorrect. Acetaminophen may ease a headache, but new confusion is a warning sign, and waiting an hour delays urgent assessment.",
+        "Incorrect. She does need to be seen, but a visit later today is too slow when confusion could precede a seizure or stroke."
       ],
-      "rationale": "New confusion during pregnancy or after birth can signal serious illness, such as a hypertensive disorder, and needs urgent assessment of vital signs and mental status with prompt provider notification. A headache together with new disorientation is especially concerning. Reassuring the husband is tempting because mild forgetfulness can occur in pregnancy, but disorientation to place over hours is a different and dangerous finding. Waiting until tomorrow could allow a seizure or stroke.",
+      "rationale": "New confusion during pregnancy or after birth can signal serious illness, such as a hypertensive disorder, and needs urgent assessment of vital signs and mental status with prompt provider notification. A headache together with new disorientation is especially concerning. A home blood pressure check or a later visit is tempting because it seems reasonable, but disorientation to place over hours is a dangerous finding. Any delay could allow a seizure or stroke.",
       "takeaway": "New confusion in pregnancy is urgent until proven otherwise.",
       "hintContent": "Distinguish mild forgetfulness from new disorientation.",
       "hintStrategy": "When a family member offers a benign explanation, ask whether the finding is new and serious.",
@@ -1789,7 +1826,8 @@ window.NURSE_DATA.push({
       "focus": "Lifespan & Diversity",
       "difficulty": 3,
       "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-055",
@@ -1819,7 +1857,8 @@ window.NURSE_DATA.push({
       "focus": "Delegation & Safety",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-056",
@@ -1827,19 +1866,19 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "At 1900, a day-shift nurse prepares the handoff for a client with suspected delirium. Which information is most important to include?",
       "options": [
-        "The client prefers decaffeinated tea with breakfast each morning.",
-        "The client’s son visited this afternoon and will return tomorrow.",
-        "The client watched television for about an hour after lunch today.",
+        "Wears glasses and a left hearing aid; both are kept at the bedside table.",
+        "Was confused earlier this afternoon but seems more settled and calm now.",
+        "Son visited after lunch and helped calm the client during the afternoon.",
         "Clear at 0900, drowsy and inattentive at 1500, and urine culture pending."
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. A preference is minor compared with the acute change in status.",
-        "Incorrect. Visitor plans are helpful but not the key safety information.",
-        "Incorrect. This activity does not describe attention or the change in status.",
-        "Correct. Fluctuation in mental status and pending results tell the next nurse what is new and what to follow."
+        "Incorrect. Sensory aids help prevent delirium and are worth passing on, but they do not show the next nurse the change in mental status to watch for.",
+        "Incorrect. This mentions the change, but it is vague, gives no times or behaviors, and leaves out the pending workup.",
+        "Incorrect. Family presence supports orientation, but this does not tell the next nurse the timing of the decline or what results are pending.",
+        "Correct. Specific times, observed behaviors, and the pending culture let the night nurse track a fluctuating course and follow up on a possible cause."
       ],
-      "rationale": "Delirium comes and goes, so the next nurse may see a client who seems clear and miss the earlier change. Handoff should include specific times, observed behaviors, and pending workup so the trend can be followed. Visitor plans and preferences are tempting because they support person-centered care, but they do not protect the client from a missed decline. Concrete, time-stamped findings are the most important part of the report.",
+      "rationale": "Delirium comes and goes, so the next nurse may see a client who seems clear and miss the earlier change. Handoff should include specific times, observed behaviors, and pending workup so the trend can be followed. Sensory aids and family visits are tempting because they support delirium prevention, but they do not protect the client from a missed decline. A vague note that the client was confused is not enough; concrete, time-stamped findings are the most important part of the report.",
       "takeaway": "Hand off delirium with time-stamped changes and pending results.",
       "hintContent": "Ask what the next nurse needs to recognize a fluctuating problem.",
       "hintStrategy": "In handoff items, choose the information that affects safety and follow-up.",
@@ -1849,7 +1888,8 @@ window.NURSE_DATA.push({
       "focus": "Delegation & Safety",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-057",
@@ -1858,16 +1898,16 @@ window.NURSE_DATA.push({
       "stem": "A night-shift nurse in long-term care is told that a resident with dementia “always sundowns.” Tonight she is more confused than usual, is warm to the touch, and dozes off in the middle of sentences. Which action should the nurse take first?",
       "options": [
         "Document the behavior as her usual evening sundowning pattern.",
-        "Turn on the television to distract her until she settles down.",
+        "Reorient her calmly and stay with her until she settles.",
         "Assess vital signs and look for an acute cause of the change.",
         "Give her the usual evening snack and help her back to bed."
       ],
       "answer": 2,
       "optionRationales": [
-        "Incorrect. Sundowning describes timing only and does not explain new fever and drowsiness.",
-        "Incorrect. Distraction ignores signs of a possible acute illness.",
-        "Correct. Fever and new drowsiness suggest delirium from an acute cause that needs assessment.",
-        "Incorrect. Routine comfort measures do not address a new physical change."
+        "Incorrect. Sundowning is common in dementia, but warmth and dozing mid-sentence are new findings that go beyond her usual pattern.",
+        "Incorrect. Calm reorientation is supportive, but it does not look for the acute cause, such as infection, suggested by her new findings.",
+        "Correct. Warmth and reduced alertness are new and suggest delirium; vital signs and a search for an acute cause come before routine comfort measures.",
+        "Incorrect. A familiar routine can ease evening confusion, but settling her in bed delays checking the new warmth and drowsiness that may signal infection."
       ],
       "rationale": "Sundowning only describes worsening confusion in the evening; it does not explain why. This resident has new findings that go beyond her usual pattern: warmth and drifting off mid-sentence. These suggest delirium from an acute cause such as infection, so the nurse assesses vital signs and looks for the cause. Charting the usual pattern is tempting because staff expect evening confusion, but it misses a new, possibly serious change.",
       "takeaway": "Sundowning is a timing word, not an explanation; new physical signs need assessment.",
@@ -1881,7 +1921,8 @@ window.NURSE_DATA.push({
       "focus": "Prioritization",
       "difficulty": 3,
       "clientNeed": "Physiological Integrity: Physiological Adaptation",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-058",
@@ -1942,7 +1983,8 @@ window.NURSE_DATA.push({
             }
           }
         ]
-      }
+      },
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-059",
@@ -1951,16 +1993,16 @@ window.NURSE_DATA.push({
       "stem": "At 1400, a nurse finds a postoperative client drowsy and unable to stay with a simple question. At 1600, the client is alert and the nurse’s CAM screen is negative. Which action is most appropriate?",
       "options": [
         "Conclude delirium has been ruled out and stop further screening.",
-        "Chart that the 1400 finding was an error in the nurse’s assessment.",
+        "Document both findings and repeat the CAM at the next routine check.",
         "Report the 1400 change and reassess attention through the shift.",
-        "Wait until the client is drowsy again before notifying anyone."
+        "Ask the family whether the client is usually drowsy in the afternoon."
       ],
       "answer": 2,
       "optionRationales": [
-        "Incorrect. A single negative screen does not erase a decline the nurse already observed.",
-        "Incorrect. The earlier observation was real data and should not be dismissed.",
-        "Correct. Delirium fluctuates, so the observed change is reported and reassessment continues.",
-        "Incorrect. Waiting for another episode delays evaluation of an already observed change."
+        "Incorrect. A negative screen is reassuring, but delirium fluctuates, and one normal check does not cancel the decline seen at 1400.",
+        "Incorrect. Documenting is needed, but waiting for routine screening without reporting misses that fluctuation itself is a key sign of delirium.",
+        "Correct. Fluctuation is a core feature of delirium, so the nurse reports the earlier change and keeps checking attention over the shift.",
+        "Incorrect. Baseline information is useful, but the change at 1400 was observed directly and should be reported now rather than explained away."
       ],
       "rationale": "Delirium comes and goes, so a short interaction can miss it. A negative screen does not erase a decline the nurse observed earlier, and fluctuation itself is a key feature. The nurse reports the earlier change and continues to reassess attention over time. Concluding that delirium is ruled out is tempting because the screen was negative, but that ignores the most important clue: the change at 1400.",
       "takeaway": "A negative screen does not erase an observed change; fluctuation is a feature of delirium.",
@@ -1972,7 +2014,8 @@ window.NURSE_DATA.push({
       "focus": "Assessment Findings",
       "difficulty": 3,
       "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-060",
@@ -1980,19 +2023,19 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "The daughter of an 83-year-old client with new delirium says, “She always gets confused when she has a bladder infection. Can’t you just start her antibiotics?” Which response by the nurse is best?",
       "options": [
-        "“Yes, confusion in older adults almost always means a bladder infection.”",
-        "“Antibiotics are not needed because infections rarely cause confusion.”",
-        "“The provider will decide later; please do not worry about the cause.”",
+        "“Her history makes infection likely, so I will ask about antibiotics.”",
+        "“A urine culture is needed before any antibiotics can be started.”",
+        "“I understand your worry; the provider will decide on treatment.”",
         "“Infection is possible, but the team will also look for other causes.”"
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. Confusion alone does not prove a urinary infection.",
-        "Incorrect. Infection is a common cause of delirium, so this is inaccurate.",
-        "Incorrect. This dismisses her concern and offers no explanation.",
-        "Correct. Delirium often has several causes, so the team checks more than one before treating."
+        "Incorrect. Her history is useful information, but assuming infection could stop the search for other causes such as low oxygen, medicines, or retention.",
+        "Incorrect. A culture is often part of the workup, but this answer still focuses only on infection and does not address other possible causes.",
+        "Incorrect. Acknowledging her worry is supportive, but deferring to the provider without explaining the need to look for other causes shuts down the conversation.",
+        "Correct. This validates her experience while explaining that confusion can have several causes, so the team evaluates all of them before treating."
       ],
-      "rationale": "New confusion can come from infection, low oxygen, dehydration, medicines, retention, pain, and other triggers, often several at once. Confusion alone does not prove a urinary infection, and treating an assumed cause could miss the real problem. The nurse validates the daughter’s experience while explaining that the team looks for all possible triggers. Agreeing that confusion means infection is tempting because her history supports it, but it would stop the search too early.",
+      "rationale": "New confusion can come from infection, low oxygen, dehydration, medicines, retention, pain, and other triggers, often several at once. Confusion alone does not prove a urinary infection, and treating an assumed cause could miss the real problem. The nurse validates the daughter’s experience while explaining that the team looks for all possible triggers. Pursuing antibiotics or a culture alone is tempting because her history supports infection, but it would narrow the search too early.",
       "takeaway": "New confusion does not prove infection; look for several possible causes.",
       "hintContent": "Consider how many different triggers can cause delirium.",
       "hintStrategy": "Choose a response that respects the family’s input while keeping the assessment open.",
@@ -2002,7 +2045,8 @@ window.NURSE_DATA.push({
       "focus": "Client Teaching",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-061",
@@ -2032,7 +2076,8 @@ window.NURSE_DATA.push({
       "focus": "Pathophysiology",
       "difficulty": 2,
       "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-062",
@@ -2092,7 +2137,8 @@ window.NURSE_DATA.push({
       "focus": "Assessment Findings",
       "difficulty": 2,
       "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-064",
@@ -2122,7 +2168,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 2,
       "clientNeed": "Physiological Integrity: Basic Care and Comfort",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-065",
@@ -2130,19 +2177,19 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "A client with hyperactive delirium who remained severely distressed despite nondrug measures received short-term haloperidol as ordered. Which finding should the nurse report to the prescriber promptly?",
       "options": [
-        "Follows a one-step request and eats lunch after set-up.",
-        "Sleeps through the night and wakes at the usual time.",
-        "Speaks in a calmer voice when family members visit.",
+        "Reports a dry mouth and mild thirst after the dose.",
+        "Naps after lunch but wakes easily and answers questions.",
+        "Blood pressure is 118/70, down from 132/80 before the dose.",
         "Develops new muscle stiffness and a shuffling gait."
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. Improved attention and function are positive responses.",
-        "Incorrect. A restored sleep-wake pattern is a desired outcome.",
-        "Incorrect. Reduced distress without oversedation is a desired effect.",
-        "Correct. New rigidity and shuffling suggest an extrapyramidal effect that requires prompt reporting."
+        "Incorrect. Dry mouth is a known side effect worth noting, but it is mild and managed with fluids and mouth care rather than prompt reporting.",
+        "Incorrect. Sedation should be monitored, but a nap with easy waking and appropriate answers is not oversedation.",
+        "Incorrect. Blood pressure should be monitored after haloperidol, but this small drop stays in a normal range and needs no urgent action.",
+        "Correct. New stiffness and a shuffling gait suggest extrapyramidal effects, which raise fall risk and need prompt reporting to the prescriber."
       ],
-      "rationale": "Haloperidol and similar drugs require monitoring for sedation, heart and nerve side effects, falls, and response. New muscle stiffness and a shuffling gait suggest extrapyramidal effects, which raise fall risk and need prompt reporting. A calmer voice might look like a concern if the nurse worries about sedation, but calm with preserved interaction is the intended effect. Recovery is judged by attention and function, and the other options show progress.",
+      "rationale": "Haloperidol and similar drugs require monitoring for sedation, heart and nerve side effects, falls, and response. New muscle stiffness and a shuffling gait suggest extrapyramidal effects, which raise fall risk and need prompt reporting. A mild drop in blood pressure or a nap might look concerning, but both stay within safe limits when the client wakes easily and pressure is normal. Dry mouth is a minor effect managed with mouth care.",
       "takeaway": "Monitor antipsychotics for nerve side effects such as rigidity and report them promptly.",
       "hintContent": "Separate desired effects from new adverse movement findings.",
       "hintStrategy": "In medication evaluation items, find the finding that signals harm rather than benefit.",
@@ -2152,7 +2199,8 @@ window.NURSE_DATA.push({
       "focus": "Pharmacology",
       "difficulty": 3,
       "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m23-x1-066",

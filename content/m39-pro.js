@@ -308,7 +308,8 @@ window.NURSE_DATA.push({
       "cjmm": "Generate Solutions",
       "focus": "Delegation & Safety",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-pro-002",
@@ -338,7 +339,8 @@ window.NURSE_DATA.push({
       "cjmm": "Prioritize Hypotheses",
       "focus": "Prioritization",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-pro-003",
@@ -406,7 +408,8 @@ window.NURSE_DATA.push({
       "cjmm": "Generate Solutions",
       "focus": "Nursing Interventions",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-pro-005",
@@ -483,19 +486,19 @@ window.NURSE_DATA.push({
       "priority": true,
       "stem": "A client who had hip arthroplasty yesterday was dizzy when standing this morning. The client asks the nurse to turn off the bed alarm, saying, “It’s humiliating, and I can get to the bathroom by myself.” Which response by the nurse is most appropriate?",
       "options": [
-        "“I’ll turn it off, because you have the right to make all of the decisions about your care.”",
-        "“Hospital policy requires the alarm to stay on, so I am not able to change that for you.”",
-        "“If you fall, the hospital will be held responsible, so the alarm will need to stay on.”",
+        "“I understand. I’ll keep it on, but I promise to answer it quickly when it sounds.”",
+        "“The alarm is there for your safety, because hip surgery raises your risk of falling.”",
+        "“Let me ask your surgeon whether you can be cleared to walk to the bathroom alone.”",
         "“You were dizzy this morning, so I worry you could fall. Let’s find a plan that feels better.”"
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. Agreeing to a request that jeopardizes safety violates the duty to do no harm; autonomy requires informed discussion first.",
-        "Incorrect. Citing policy without exploring the concern is dismissive and does not address dignity or the risk.",
-        "Incorrect. Focusing on liability rather than the client’s well-being is nontherapeutic and judgmental.",
+        "Incorrect. Acknowledging the feeling and responding promptly is supportive, but it overrides the client’s concern without explaining the dizziness risk or working together on a plan.",
+        "Incorrect. The statement is true, but it gives a general reason rather than the client’s specific risk and does not address the humiliation or invite collaboration.",
+        "Incorrect. Involving the surgeon may come later, but the nurse can address this safety concern now; deferring leaves the request unanswered and the client may try to walk alone.",
         "Correct. The nurse explains the specific risk nonjudgmentally and invites collaboration on a safe alternative that respects dignity."
       ],
-      "rationale": "Patient-focused care respects preferences to the greatest degree possible, but the nurse must never agree to a request that could jeopardize the client’s well-being. The correct approach is to carefully and nonjudgmentally inform the client of the risk and work toward a plan that honors the underlying wish, such as scheduled toileting and frequent rounding with the alarm on. The autonomy option is tempting, but autonomy depends on informed choice and does not require the nurse to remove a safety measure. Policy- or liability-based answers close the conversation without addressing the client’s concern.",
+      "rationale": "Patient-focused care respects preferences to the greatest degree possible, but the nurse must never agree to a request that could jeopardize the client’s well-being. The correct approach is to carefully and nonjudgmentally inform the client of the specific risk and work toward a plan that honors the underlying wish, such as scheduled toileting and frequent rounding with the alarm on. Promising a quick response is supportive but does not explain the risk or involve the client in the plan. A general safety explanation or a referral to the surgeon leaves the client’s concern unaddressed.",
       "takeaway": "Respect preferences, but explain risks nonjudgmentally and seek a safe alternative rather than agreeing to harm.",
       "hintContent": "Which response both names the safety risk and respects the client’s dignity?",
       "hintStrategy": "In therapeutic communication items, eliminate responses that end the conversation, cite rules, or shift focus away from the client.",
@@ -504,7 +507,8 @@ window.NURSE_DATA.push({
       "cjmm": "Take Action",
       "focus": "Nursing Interventions",
       "difficulty": 3,
-      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+      "bestAnswer": true
     },
     {
       "id": "m39-pro-008",
@@ -514,16 +518,16 @@ window.NURSE_DATA.push({
       "stem": "A client recovering from a stroke is being transferred from the hospital to an inpatient rehabilitation facility this afternoon. The written transfer packet, medication list, and discharge summary are complete. Which action by the nurse is most important to prevent an information gap during this transition?",
       "options": [
         "Call the receiving nurse to give a structured verbal report and answer questions",
-        "Place the printed transfer packet in a sealed envelope that travels with the client",
-        "Ask the client’s spouse to explain the medication changes to the rehabilitation staff",
-        "Fax the most recent nursing notes to the rehabilitation facility’s main office line"
+        "Send the printed transfer packet with the client in a sealed envelope",
+        "Review the medication changes with the client and spouse before transfer",
+        "Fax the latest nursing notes and MAR to the rehabilitation nursing unit"
       ],
       "answer": 0,
       "optionRationales": [
         "Correct. Complete documentation plus a direct verbal report, with a chance for questions, is the safeguard against handoff gaps.",
-        "Incorrect. The packet is already complete; written documents alone do not allow clarification and are easily overlooked.",
-        "Incorrect. Communicating clinical information is the nurse’s responsibility, not the family’s.",
-        "Incorrect. Sending more paperwork to a general office does not ensure the receiving nurse gets or understands key information."
+        "Incorrect. Sending the packet with the client is good practice, but the documents are already complete and paperwork alone allows no questions or clarification.",
+        "Incorrect. Teaching the client and spouse about medication changes is appropriate, but it does not replace nurse-to-nurse communication with the receiving facility.",
+        "Incorrect. Sharing recent notes adds information, but it is still one-way paperwork and the receiving nurse cannot ask questions or confirm understanding."
       ],
       "rationale": "Information gaps during facility transfers and shift changes can become life-threatening. Prevention requires two things: complete documentation of all care, which is already done, and verbal communication with the receiving nurse whenever possible. A structured format such as SBAR, followed by questions and read-back, closes the gap. Sending more paperwork is the most tempting distractor, but it repeats what is already complete and still offers no two-way communication.",
       "takeaway": "Safe handoffs need complete documentation plus a structured verbal report to the receiving nurse.",
@@ -536,7 +540,8 @@ window.NURSE_DATA.push({
       "cjmm": "Take Action",
       "focus": "Delegation & Safety",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-pro-009",
@@ -606,7 +611,8 @@ window.NURSE_DATA.push({
       "cjmm": "Take Action",
       "focus": "Client Teaching",
       "difficulty": 1,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-pro-011",
@@ -636,7 +642,8 @@ window.NURSE_DATA.push({
       "cjmm": "Generate Solutions",
       "focus": "Nursing Interventions",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-pro-012",
@@ -702,7 +709,8 @@ window.NURSE_DATA.push({
       "cjmm": "Prioritize Hypotheses",
       "focus": "Delegation & Safety",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-pro-013",
@@ -747,18 +755,18 @@ window.NURSE_DATA.push({
       "stem": "A client with Parkinson disease tires quickly. The nurse learns that physical therapy and a speech-language pathologist’s swallowing evaluation are both scheduled for 1000. Which action by the nurse best demonstrates care coordination?",
       "options": [
         "Let both therapists work with the client together at 1000 to save time",
-        "Cancel the swallowing evaluation and reschedule it for after discharge",
-        "Ask the client to choose one therapist and postpone the other session",
+        "Ask the provider to decide which therapy session is more important",
+        "Plan a rest period for the client right after both 1000 sessions end",
         "Contact both departments to stagger the sessions with rest time between"
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. Combining sessions would exhaust a client who fatigues and could make the swallowing evaluation inaccurate.",
-        "Incorrect. Delaying the swallowing evaluation risks unsafe oral intake and does not coordinate care.",
-        "Incorrect. Shifting the scheduling problem to the client does not coordinate care and may delay a needed service.",
+        "Incorrect. Combining sessions seems efficient, but a client who tires quickly may perform poorly, giving less accurate results from both evaluations.",
+        "Incorrect. Collaborating with the provider is reasonable for clinical decisions, but scheduling is a nursing coordination task and both sessions are needed.",
+        "Incorrect. Rest is important for this client, but resting after the sessions does not fix the conflict or prevent fatigue during the evaluations.",
         "Correct. Staggering sessions prevents professionals from waiting and lets the client rest between evaluations."
       ],
-      "rationale": "Care coordination and time management are collaborative efforts to eliminate duplication and waiting. Scheduling PT and the swallowing evaluation at different times means neither professional wastes time and a client prone to fatigue can rest in between, producing better performance and more accurate results. Combining sessions seems efficient but ignores the client’s fatigue. Postponing the swallowing evaluation creates a safety risk.",
+      "rationale": "Care coordination and time management are collaborative efforts to eliminate duplication and waiting. Scheduling PT and the swallowing evaluation at different times means neither professional wastes time and a client prone to fatigue can rest in between, producing better performance and more accurate results. Combining sessions seems efficient but ignores the client’s fatigue. Planning rest only after both sessions is incomplete, and asking the provider to choose one session hands off a coordination task the nurse can resolve.",
       "takeaway": "Care coordination sequences services to avoid waiting, duplication, and client exhaustion.",
       "hintContent": "Which option meets both therapists’ needs and the client’s need for rest?",
       "hintStrategy": "Choose the option in which the nurse actively coordinates rather than cancels, combines, or shifts the problem to the client.",
@@ -767,7 +775,8 @@ window.NURSE_DATA.push({
       "cjmm": "Take Action",
       "focus": "Nursing Interventions",
       "difficulty": 1,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-pro-015",
@@ -797,7 +806,8 @@ window.NURSE_DATA.push({
       "cjmm": "Prioritize Hypotheses",
       "focus": "Prioritization",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-pro-016",
@@ -827,7 +837,8 @@ window.NURSE_DATA.push({
       "cjmm": "Recognize Cues",
       "focus": "Assessment Findings",
       "difficulty": 2,
-      "clientNeed": "Physiological Integrity: Reduction of Risk Potential"
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+      "bestAnswer": true
     },
     {
       "id": "m39-pro-017",
@@ -838,17 +849,17 @@ window.NURSE_DATA.push({
       "options": [
         "Analyze the variance trend and refer the anesthesia protocol for team review",
         "Extend the ambulation time frame on the pathway for all future colectomy clients",
-        "Tell bedside nurses to stop documenting this variance because it is now expected",
+        "Notify the anesthesia provider each time a client’s emergence is delayed",
         "Adjust each affected client’s pathway individually without further analysis"
       ],
       "answer": 0,
       "optionRationales": [
         "Correct. A group-level pattern points to a possible system problem; analyzing the trend and reviewing the anesthesia protocol addresses the cause.",
-        "Incorrect. Changing the expected outcome hides the problem instead of investigating why it is occurring.",
-        "Incorrect. Stopping documentation removes the data the quality management system needs.",
-        "Incorrect. Individual adjustment is appropriate for one client but ignores a pattern affecting many clients."
+        "Incorrect. Revising the pathway may eventually be needed, but changing it before the cause is found lowers expectations and hides a possible system problem.",
+        "Incorrect. Reporting each delay is reasonable communication, but it handles cases one at a time and does not analyze the shared cause across clients.",
+        "Incorrect. Individualizing a pathway is part of the role, but it treats each delay separately and does not prevent the next one."
       ],
-      "rationale": "Case managers document variances, individualize pathways, and analyze group-level trends. When many clients on the same pathway show the same delay, the cause is likely systemic, such as an anesthesia protocol, so the case manager investigates with the team and the quality management system. Individual adjustment is tempting because it solves each client’s delay, but it does not prevent the next one. Lowering expectations or stopping documentation conceals the problem.",
+      "rationale": "Case managers document variances, individualize pathways, and analyze group-level trends. When many clients on the same pathway show the same delay, the cause is likely systemic, such as an anesthesia protocol, so the case manager investigates with the team and the quality management system. Individual adjustment and case-by-case reports to anesthesia are tempting because they address each client’s delay, but they do not prevent the next one. Extending the time frame before analysis lowers expectations and conceals the problem.",
       "takeaway": "Group variance trends signal system problems that need analysis, not just individual fixes.",
       "hintContent": "What does it suggest when the same variance appears across many clients?",
       "hintStrategy": "Distinguish actions that treat one client from actions that fix the process causing the pattern.",
@@ -857,7 +868,8 @@ window.NURSE_DATA.push({
       "cjmm": "Evaluate Outcomes",
       "focus": "Nursing Interventions",
       "difficulty": 3,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-pro-018",
@@ -866,14 +878,14 @@ window.NURSE_DATA.push({
       "stem": "A case manager is reviewing a draft critical pathway for clients with hip osteoarthritis undergoing elective total hip arthroplasty (see exhibit). Before the pathway is approved for use, which revision is most important so that nurses can recognize when a client has a variance?",
       "options": [
         "Replace the time frames with “as tolerated” so the pathway fits every client",
-        "Remove the pharmacy and nutrition columns so it covers nursing care only",
+        "Add a variance log where nurses record delays and their causes",
         "Add each client’s planned discharge destination to the pathway document",
         "Add the expected client outcome for each time frame"
       ],
       "answer": 3,
       "optionRationales": [
         "Incorrect. Time frames are one of the four required components; removing them leaves nothing to measure progress against, so delays could not be identified.",
-        "Incorrect. Pathways are interprofessional; anticipated interventions across disciplines, including pharmacology and nutrition, are a standard component.",
+        "Incorrect. Recording variances is useful, but nurses cannot recognize a variance to record until the pathway states the expected outcome for each time frame.",
         "Incorrect. Discharge destination is an individual planning detail the case manager handles for each client; it does not let staff measure progress against the pathway.",
         "Correct. Expected outcomes are the fourth standard component and the benchmark against which a variance is identified; without them, nurses cannot tell whether a client is on track."
       ],
@@ -926,7 +938,8 @@ window.NURSE_DATA.push({
             }
           }
         ]
-      }
+      },
+      "bestAnswer": true
     },
     {
       "id": "m39-pro-019",
@@ -936,15 +949,15 @@ window.NURSE_DATA.push({
       "stem": "A case manager is reviewing four clients who are scheduled for discharge home tomorrow. Which finding requires the case manager to revise a discharge plan immediately?",
       "options": [
         "A client asks whether the home health nurse can visit in the afternoon",
-        "Physical therapy reports a client met today’s walking goal on schedule",
-        "A client’s vital signs and pain scores have remained at baseline today",
+        "A client reports pain of 4/10 after a first walk with physical therapy",
+        "A client asks for teaching on a new medication before going home",
         "A client’s daughter states she can no longer provide care at home"
       ],
       "answer": 3,
       "optionRationales": [
         "Incorrect. A scheduling preference can be accommodated without revising the overall plan.",
-        "Incorrect. Meeting a pathway goal on time confirms the plan is working.",
-        "Incorrect. Stable vital signs and pain at baseline support the current plan.",
+        "Incorrect. The pain needs follow-up, but moderate pain after activity is expected and can be managed without changing the discharge plan.",
+        "Incorrect. Medication teaching is needed, but it is a routine part of the existing discharge plan, not a reason to revise it.",
         "Correct. A change in discharge or transfer plans, such as loss of the caregiver, is an automatic red flag requiring immediate revision."
       ],
       "rationale": "The case manager monitors progress toward mutually determined goals, and two changes automatically require plan revision: a change in clinical condition and a change in discharge or transfer plans. Loss of the caregiver means the home discharge may no longer be safe, so placement, home services, or the discharge date must be reconsidered now. The scheduling request is tempting because it involves home health, but it is a minor adjustment, not a change in the plan’s foundation.",
@@ -956,7 +969,8 @@ window.NURSE_DATA.push({
       "cjmm": "Recognize Cues",
       "focus": "Assessment Findings",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-pro-020",
@@ -1044,18 +1058,18 @@ window.NURSE_DATA.push({
       "stem": "A client with metastatic pancreatic cancer tells the case manager, “I don’t want to die in the hospital. I want to be at home with my dog and my own things.” Which response by the case manager is most appropriate?",
       "options": [
         "“Let’s talk about what you would need at home, including whether hospice could help.”",
-        "“Most people feel safer in the hospital near the end, so let’s plan for you to stay here.”",
-        "“Your family will decide where you go, so let’s wait until they are here to discuss it.”",
-        "“Hospice is only for the last few hours of life, so it is too early to plan for that now.”"
+        "“I can hear how important being at home is to you. That is a very common wish.”",
+        "“Let’s set up a meeting with your family to talk about where you will be cared for.”",
+        "“I’ll ask your oncologist to write a referral for home hospice care this afternoon.”"
       ],
       "answer": 0,
       "optionRationales": [
         "Correct. The response honors the client’s goal and opens an honest conversation about the services, such as hospice, that make dying at home possible.",
-        "Incorrect. The response dismisses the client’s stated wish and substitutes the case manager’s assumption.",
-        "Incorrect. A competent client makes decisions about end-of-life care; deferring to family undermines autonomy.",
-        "Incorrect. Hospice can support clients for months when prognosis is limited; the statement is inaccurate and delays planning."
+        "Incorrect. Acknowledging the wish is supportive, but it stops there and does not begin planning for the care the client would need at home.",
+        "Incorrect. Including family is valuable, but the competent client is the decision maker, and the client’s own needs and goals should be explored first.",
+        "Incorrect. Hospice may be appropriate, but arranging a referral before exploring the client’s needs and preferences skips assessment and shared planning."
       ],
-      "rationale": "For older adults and clients at end of life, the case manager promotes death with dignity, supports dying at home if desired, and initiates honest conversations about hospice, palliative care, advance directives, and power of attorney. Exploring what the client would need at home respects autonomy and starts practical planning. Deferring to family is tempting because families are important, but a competent client is the decision maker. The hospice statement is factually wrong.",
+      "rationale": "For older adults and clients at end of life, the case manager promotes death with dignity, supports dying at home if desired, and initiates honest conversations about hospice, palliative care, advance directives, and power of attorney. Exploring what the client would need at home respects autonomy and starts practical planning. A family meeting is tempting because families are important, but a competent client is the decision maker. Simply acknowledging the wish is supportive but incomplete, and requesting a hospice referral before assessing the client’s needs skips shared planning.",
       "takeaway": "Honor end-of-life goals by exploring hospice and home supports with the client.",
       "hintContent": "Which response keeps the client’s own goal at the center?",
       "hintStrategy": "For best-response items, choose the option that acknowledges the client’s wish and moves toward a concrete plan.",
@@ -1064,7 +1078,8 @@ window.NURSE_DATA.push({
       "cjmm": "Generate Solutions",
       "focus": "Lifespan & Diversity",
       "difficulty": 2,
-      "clientNeed": "Psychosocial Integrity"
+      "clientNeed": "Psychosocial Integrity",
+      "bestAnswer": true
     },
     {
       "id": "m39-pro-023",
@@ -1094,7 +1109,8 @@ window.NURSE_DATA.push({
       "cjmm": "Prioritize Hypotheses",
       "focus": "Lifespan & Diversity",
       "difficulty": 3,
-      "clientNeed": "Psychosocial Integrity"
+      "clientNeed": "Psychosocial Integrity",
+      "bestAnswer": true
     },
     {
       "id": "m39-pro-024",
@@ -1200,14 +1216,14 @@ window.NURSE_DATA.push({
       "options": [
         "Teach the spouse safe transfer techniques before discharge tomorrow",
         "Arrange for a home health aide to visit the client once a week",
-        "Proceed with discharge, because the pneumonia is resolving on antibiotics",
+        "Document the change in transfer ability in the nursing notes",
         "Report the functional decline to the case manager and provider"
       ],
       "answer": 3,
       "optionRationales": [
         "Incorrect. Teaching an older spouse to perform a two-person transfer alone may be unsafe and assumes home is still the right destination.",
         "Incorrect. A weekly aide does not meet the need for daily transfer assistance and is chosen before the team reassesses.",
-        "Incorrect. Resolution of the infection does not make discharge safe when function has declined.",
+        "Incorrect. Documentation is required, but recording the decline without reporting it leaves the unsafe discharge plan in place.",
         "Correct. Functional decline is a high-risk trigger and a change in condition that requires the team to reassess and revise the discharge plan."
       ],
       "rationale": "Functional decline during hospitalization is a high-risk trigger for case management, and a change in clinical condition is an automatic signal to revise the plan. The client may now need home health with more support or a rehabilitation facility rather than discharge home with an older spouse. Teaching the spouse is tempting because it seems proactive, but it commits to a discharge destination before the team has reassessed whether home is safe.",
@@ -1221,7 +1237,8 @@ window.NURSE_DATA.push({
       "cjmm": "Analyze Cues",
       "focus": "Prioritization",
       "difficulty": 3,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-pro-028",
@@ -1269,16 +1286,16 @@ window.NURSE_DATA.push({
       "stem": "During a home visit, a case manager coordinating care for a 9-year-old with spastic cerebral palsy finds the child thin and lying in a soiled bed with a new sacral pressure injury. There is no food in the home, and the parent says, “I’ve been too busy to deal with any of it.” Which action by the case manager is most appropriate?",
       "options": [
         "Gather more evidence over the next two visits before making any report",
-        "Ask the parent to sign an agreement to improve care before reporting",
+        "Notify the child’s primary care provider of these findings today",
         "Report the suspected neglect to child protective services right away",
-        "Confirm the concern with the child’s teacher before taking any action"
+        "Refer the family to a food bank and in-home respite care services"
       ],
       "answer": 2,
       "optionRationales": [
         "Incorrect. The nurse reports suspicion; waiting for more evidence delays protection of a child at risk.",
-        "Incorrect. A private agreement does not replace the legal duty to report and leaves the child at risk.",
+        "Incorrect. The provider should know about the pressure injury and weight loss, but informing the provider does not fulfill the nurse’s own duty to report suspected neglect.",
         "Correct. Reasonable suspicion of neglect must be reported promptly to child protective services; the nurse does not need proof.",
-        "Incorrect. Investigating or confirming with others is the agency’s role, and it delays the report."
+        "Incorrect. Community resources may help the family, but they do not protect the child now, and the duty to report suspected neglect still applies."
       ],
       "rationale": "Nurses are mandated reporters of suspected child abuse and neglect; the obligation is triggered by reasonable suspicion, not proof. Signs of neglect here include poor nutrition, an unsafe home without food, poor hygiene, and a preventable pressure injury in a dependent child. Gathering more evidence is the most tempting distractor because it feels fair to the parent, but investigation is the agency’s job and delay leaves the child unprotected. The case manager should also ensure the child’s immediate medical needs are addressed. In North Carolina, a universal-reporting state, any person who suspects a juvenile is neglected must report to the county department of social services.",
       "takeaway": "Report suspected child neglect promptly to the designated agency; do not investigate or wait for proof.",
@@ -1289,7 +1306,8 @@ window.NURSE_DATA.push({
       "cjmm": "Take Action",
       "focus": "Lifespan & Diversity",
       "difficulty": 2,
-      "clientNeed": "Psychosocial Integrity"
+      "clientNeed": "Psychosocial Integrity",
+      "bestAnswer": true
     },
     {
       "id": "m39-pro-030",
@@ -1419,7 +1437,8 @@ window.NURSE_DATA.push({
       "cjmm": "Analyze Cues",
       "focus": "Delegation & Safety",
       "difficulty": 3,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-pro-034",
@@ -1428,19 +1447,19 @@ window.NURSE_DATA.push({
       "priority": true,
       "stem": "A client being discharged from the emergency department with cellulitis says, “I don’t have insurance, so I probably won’t fill the antibiotic prescription.” Which action should the nurse take first?",
       "options": [
-        "Advise the client to take leftover antibiotics from a family member",
-        "Tell the client the infection may resolve on its own without treatment",
+        "Teach the risks of untreated cellulitis, such as a spreading infection",
+        "Give the client a list of local pharmacies that offer low-cost generics",
         "Document that the client has declined the prescribed treatment",
         "Explore the cost concern and involve the provider and social work"
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. Using someone else’s leftover antibiotics is unsafe; the drug, dose, and duration may be wrong.",
-        "Incorrect. This is inaccurate and unsafe; untreated cellulitis can progress to serious infection.",
+        "Incorrect. Teaching the risks is important, but the client’s barrier is cost, not a lack of understanding, so teaching alone does not solve the problem.",
+        "Incorrect. A low-cost option may help, but offering it before exploring the concern and involving the provider and social work is incomplete and may not be enough.",
         "Incorrect. The client has not refused treatment; a cost barrier has been identified that the nurse can address.",
         "Correct. Assessing the barrier and involving the provider (for a lower-cost equivalent) and social work (for assistance) addresses the problem."
       ],
-      "rationale": "When cost is the barrier, the nurse first assesses the concern, then communicates with the prescriber and mobilizes resources such as social work, assistance programs, or a lower-cost generic. Advocacy means empowering clients and speaking up for equitable access to care. Documenting a refusal is the most tempting distractor because it seems neutral, but the client has expressed a solvable problem, not an informed refusal. The nurse never advises unsafe substitutes or stopping therapy.",
+      "rationale": "When cost is the barrier, the nurse first assesses the concern, then communicates with the prescriber and mobilizes resources such as social work, assistance programs, or a lower-cost generic. Advocacy means empowering clients and speaking up for equitable access to care. Documenting a refusal is the most tempting distractor because it seems neutral, but the client has expressed a solvable problem, not an informed refusal. Teaching the risks or handing out a pharmacy list helps only partly, because neither explores the concern nor involves the team.",
       "takeaway": "For cost barriers: assess, communicate with the prescriber, and refer; never advise skipping or substituting therapy.",
       "hintContent": "Has the client refused, or has the client identified a barrier?",
       "hintStrategy": "For “first” items about adherence barriers, choose the option that assesses the barrier before acting on it.",
@@ -1451,7 +1470,8 @@ window.NURSE_DATA.push({
       "cjmm": "Take Action",
       "focus": "Nursing Interventions",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-pro-035",
@@ -1481,7 +1501,8 @@ window.NURSE_DATA.push({
       "cjmm": "Analyze Cues",
       "focus": "Lifespan & Diversity",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-pro-036",
@@ -1573,19 +1594,19 @@ window.NURSE_DATA.push({
       "priority": false,
       "stem": "A rural client with heart failure has missed three follow-up visits because the nearest cardiology clinic is 80 miles away. Which plan best reflects a strategy that contains cost and also improves access?",
       "options": [
-        "Admit the client to the hospital whenever symptoms begin to worsen",
+        "Arrange transportation assistance for the client’s cardiology visits",
         "Enroll the client in telehealth visits with daily remote weight monitoring",
-        "Tell the client to call 911 at the first sign of weight gain or swelling",
-        "Discharge the client from the clinic for repeatedly missed appointments"
+        "Teach the client to call the clinic for a weight gain over 2 lb in a day",
+        "Refer the client to a home health agency for weekly nurse visits"
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. Relying on admissions is the most expensive approach and misses the chance for early intervention.",
+        "Incorrect. Transportation help improves access, but the client still travels 80 miles and problems are found only at scheduled visits, so early detection is limited.",
         "Correct. Telehealth with remote monitoring is a cost-containment strategy that improves access and allows early intervention.",
-        "Incorrect. Emergency services for early, manageable symptoms are costly and unnecessary.",
-        "Incorrect. Discharging the client abandons a high-risk client and increases the risk of readmission."
+        "Incorrect. This is sound self-management teaching, but it does not solve the missed follow-up visits or give the team regular data.",
+        "Incorrect. Home visits improve access, but weekly in-person visits cost more than telehealth and miss daily changes in weight."
       ],
-      "rationale": "Expanding telehealth is a key cost-containment and access strategy. Remote weight and symptom monitoring lets the team detect fluid retention early and adjust treatment before an exacerbation requires emergency care or admission. Hospital admission and emergency services are far more expensive and treat problems late. Discharging a client because of access barriers fails the duty to advocate for equitable access.",
+      "rationale": "Expanding telehealth is a key cost-containment and access strategy. Remote weight and symptom monitoring lets the team detect fluid retention early and adjust treatment before an exacerbation requires emergency care or admission. Transportation help and weekly home visits improve access, but they cost more or detect changes later. Teaching the client when to call is good self-management but does not fix the missed follow-up care.",
       "takeaway": "Telehealth contains cost and improves access for rural and chronically ill clients.",
       "hintContent": "Which option removes the distance barrier while keeping the client monitored?",
       "hintStrategy": "Prefer options that prevent problems early over options that respond after the client deteriorates.",
@@ -1596,7 +1617,8 @@ window.NURSE_DATA.push({
       "cjmm": "Generate Solutions",
       "focus": "Nursing Interventions",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-pro-038",
@@ -1628,7 +1650,8 @@ window.NURSE_DATA.push({
       "cjmm": "Take Action",
       "focus": "Client Teaching",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-pro-039",
@@ -1637,19 +1660,19 @@ window.NURSE_DATA.push({
       "priority": true,
       "stem": "The nurse manager of a step-down unit with high client acuity proposes replacing two RN positions with UAP to meet the budget. Which response by the charge nurse is most appropriate?",
       "options": [
-        "“That should work, because UAP can take over assessments of stable clients.”",
-        "“We should accept the change and ask RNs to skip their breaks to cover gaps.”",
+        "“Let’s try it for a month and then track falls and medication errors.”",
+        "“I’ll share the staff’s concerns about workload at the next meeting.”",
         "“RN staffing is linked to mortality and cost; let’s match skill mix to acuity.”",
-        "“We could replace the RNs with LPNs, who can then do initial assessments.”"
+        "“Could we hire LPNs instead, with the remaining RNs doing all assessments?”"
       ],
       "answer": 2,
       "optionRationales": [
-        "Incorrect. Assessment is an RN function and cannot be transferred to UAP regardless of stability.",
-        "Incorrect. Skipping breaks increases fatigue and error risk and does not address the staffing mismatch.",
+        "Incorrect. Tracking outcomes is sound practice, but a trial exposes high-acuity clients to known risks of reduced RN staffing before harm is measured.",
+        "Incorrect. Voicing staff concerns is a form of advocacy, but it centers on workload rather than client outcomes and offers no evidence-based alternative.",
         "Correct. Evidence shows nurse numbers and qualifications affect morbidity, mortality, and cost; skill mix should match acuity.",
-        "Incorrect. Initial assessment is outside LPN scope; substituting LPNs does not preserve RN-level assessment."
+        "Incorrect. LPNs bring more skill than UAP, but fewer RNs on a high-acuity unit still means fewer nurses to assess, recognize deterioration, and rescue."
       ],
-      "rationale": "Both the number of nurses and their academic and clinical qualifications directly affect client morbidity, mortality, and healthcare costs. On a high-acuity unit, cutting RN hours increases missed assessments, falls, medication errors, and failure to rescue, which raise length of stay and unreimbursed costs. The charge nurse should advocate for a skill mix matched to acuity and target the real cost drivers, such as preventable complications. Substituting LPNs is tempting as a compromise, but initial assessment remains an RN function.",
+      "rationale": "Both the number of nurses and their academic and clinical qualifications directly affect client morbidity, mortality, and healthcare costs. On a high-acuity unit, cutting RN hours increases missed assessments, falls, medication errors, and failure to rescue, which raise length of stay and unreimbursed costs. The charge nurse should advocate for a skill mix matched to acuity and target the real cost drivers, such as preventable complications. Substituting LPNs is tempting as a compromise, but fewer RNs still means fewer nurses able to assess and rescue unstable clients.",
       "takeaway": "Skill mix must match acuity; cutting RN hours on high-acuity units increases harm and cost.",
       "hintContent": "What does the evidence say about RN staffing and client outcomes?",
       "hintStrategy": "Eliminate any option that assigns RN-only work to others, then choose the evidence-based advocacy response.",
@@ -1660,7 +1683,8 @@ window.NURSE_DATA.push({
       "cjmm": "Prioritize Hypotheses",
       "focus": "Delegation & Safety",
       "difficulty": 3,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-pro-040",
@@ -1762,7 +1786,8 @@ window.NURSE_DATA.push({
       "cjmm": "Analyze Cues",
       "focus": "Client Teaching",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-pro-043",
@@ -1772,18 +1797,18 @@ window.NURSE_DATA.push({
       "stem": "A client with a spinal cord injury who has Medicaid is told that a request for a power wheelchair was denied. The client says, “I guess I’ll just stay in bed.” Which action by the nurse best demonstrates advocacy?",
       "options": [
         "Work with the case manager and provider to document need and appeal",
-        "Explain that Medicaid decisions are final and suggest a manual chair",
-        "Encourage the client to buy the wheelchair out of pocket if possible",
+        "Give the client the appeal forms and explain how to file them alone",
+        "Explore the client’s feelings about the denial and loss of mobility",
         "Document the client’s statement and continue the current care plan"
       ],
       "answer": 0,
       "optionRationales": [
         "Correct. Supporting an appeal with documentation of medical necessity protects the client’s access to needed equipment.",
-        "Incorrect. Coverage denials can usually be appealed, and a manual chair may not meet the client’s functional needs.",
-        "Incorrect. Shifting the cost to the client ignores the coverage the client may be entitled to.",
+        "Incorrect. Informing the client of the right to appeal is helpful, but without documentation of medical necessity from the team the appeal is less likely to succeed.",
+        "Incorrect. Exploring feelings is supportive and may be needed, but it does not address the barrier to the equipment the client needs.",
         "Incorrect. Documentation alone does not address the barrier or the risks of immobility."
       ],
-      "rationale": "Advocacy means protecting client rights and speaking up for equitable access to care when resource decisions are made. Partnering with the case manager and provider to document medical necessity and file an appeal empowers the client and addresses the barrier. Staying in bed would expose the client to pressure injuries, VTE, and deconditioning, which are costly and harmful. Accepting the denial or shifting the cost to the client fails to advocate.",
+      "rationale": "Advocacy means protecting client rights and speaking up for equitable access to care when resource decisions are made. Partnering with the case manager and provider to document medical necessity and file an appeal empowers the client and addresses the barrier. Staying in bed would expose the client to pressure injuries, VTE, and deconditioning, which are costly and harmful. Handing over forms alone, offering only emotional support, or simply documenting the statement falls short of advocacy.",
       "takeaway": "Advocacy includes helping clients challenge coverage denials for medically necessary care.",
       "hintContent": "Which option actively helps the client obtain the needed equipment?",
       "hintStrategy": "In advocacy items, choose the option in which the nurse acts on the client’s behalf rather than accepting the barrier.",
@@ -1794,7 +1819,8 @@ window.NURSE_DATA.push({
       "cjmm": "Take Action",
       "focus": "Nursing Interventions",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     }
   ]
 });

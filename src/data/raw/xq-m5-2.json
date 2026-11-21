@@ -56,21 +56,22 @@
    "stem": "A 63-year-old client had a sigmoid colostomy created yesterday for colon cancer. The nurse reviews the ostomy flow sheet in the exhibit at 1600. Which action should the nurse take first?",
    "options": [
     "Cut the pouch opening larger to relieve pressure on the stoma",
-    "Document the finding as expected early postoperative swelling",
+    "Document the dusky, dry stoma findings on the flow sheet",
     "Notify the surgeon of the change in stoma color and surface",
-    "Recheck the stoma when the pouch is changed tomorrow"
+    "Reassess the stoma in 1 hour to confirm the color trend"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Resizing the pouch does not restore blood flow, and the trend shows a perfusion problem that needs the surgeon now.",
-    "Incorrect. Swelling is expected after surgery, but a dusky, dry surface is a sign of poor perfusion, not edema.",
+    "Incorrect. A pouch opening that is too tight can harm a swollen stoma, but resizing it does not restore blood flow, and the trend shows a perfusion problem that needs the surgeon now.",
+    "Incorrect. Documentation is required, but recording the finding does not get the stoma evaluated; the surgeon must be notified first.",
     "Correct. A stoma that changes from beefy red and moist to dusky purple and dry is losing its blood supply, and the tissue can die without prompt surgical evaluation.",
-    "Incorrect. Waiting a day could allow the stoma tissue to become necrotic, so this change needs action now."
+    "Incorrect. Rechecking is reasonable when one finding is unclear, but three entries already show a worsening trend, and waiting delays care for tissue that may be dying."
    ],
-   "rationale": "A healthy stoma is moist and pink to beefy red because it has a rich blood supply. The flow sheet shows a trend from beefy red to dark red to dusky purple with a dry, dull surface, which means perfusion is getting worse. A pale, dusky, purple, or black stoma must be reported to the surgeon immediately because the tissue can die. The tempting choice is to call it postoperative swelling, but swelling changes size, not color, and it does not make the stoma dry.",
+   "rationale": "A healthy stoma is moist and pink to beefy red because it has a rich blood supply. The flow sheet shows a trend from beefy red to dark red to dusky purple with a dry, dull surface, which means perfusion is getting worse. A pale, dusky, purple, or black stoma must be reported to the surgeon immediately because the tissue can die. Resizing the pouch, documenting, or rechecking later are all reasonable nursing actions, but none of them gets the stoma evaluated, and the trend is already clear.",
    "takeaway": "A stoma that turns dusky, purple, or black is a perfusion emergency; report it to the surgeon immediately.",
    "hintContent": "Compare the 1600 findings with what a healthy stoma should look like, and think about what stoma color reflects.",
-   "hintStrategy": "When an exhibit shows a trend over time, ask whether it is getting better or worse; a worsening perfusion trend calls for prompt notification."
+   "hintStrategy": "When an exhibit shows a trend over time, ask whether it is getting better or worse; a worsening perfusion trend calls for prompt notification.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-002",
@@ -88,21 +89,22 @@
    "stem": "The nurse is caring for a client on day 3 after creation of an ileostomy for ulcerative colitis. Which assessment finding requires the nurse's priority follow-up?",
    "options": [
     "Heart rate of 118/min and dizziness when standing",
-    "Liquid, greenish-brown output that drains from the stoma often",
+    "Red, irritated skin where the pouch barrier sits",
     "Small spot of bleeding when the stoma is cleaned",
-    "Stoma that is moist, red, and mildly swollen"
+    "Client turns away and will not look at the stoma"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Ileostomy output is liquid and frequent, so the client is at high risk for fluid and electrolyte loss; a fast heart rate and dizziness on standing suggest dehydration.",
-    "Incorrect. Liquid, frequent output is expected from an ileostomy because stool leaves before the colon can absorb water.",
-    "Incorrect. A stoma has a rich blood supply and may bleed slightly when touched or cleaned, which is expected.",
-    "Incorrect. A healthy new stoma is moist and red, and swelling is expected for several weeks after surgery."
+    "Correct. Ileostomy output is liquid and frequent, so the client is at high risk for fluid and electrolyte loss; a fast heart rate and dizziness on standing suggest dehydration, a circulation problem that comes first.",
+    "Incorrect. Irritated peristomal skin needs follow-up because ileostomy stool is enzyme-rich, but it is a local skin problem and ranks below signs of low fluid volume.",
+    "Incorrect. Reporting bleeding from a stoma is a reasonable instinct, but a stoma has a rich blood supply and a small spot of bleeding when it is cleaned is expected.",
+    "Incorrect. Refusing to look at the stoma is a body-image concern that needs support, but psychosocial needs come after a physiologic problem."
    ],
-   "rationale": "An ileostomy drains stool from the small intestine before the colon can absorb water, so the output is liquid, frequent, and enzyme-rich. That makes dehydration and electrolyte loss the major physiologic risk, which is why intake and output are monitored closely. Tachycardia and dizziness on standing are cues that fluid volume is low and need follow-up now. The other findings are all expected for a new ileostomy; a student who sees blood or swelling may be tempted to choose them, but slight bleeding and edema are normal for a stoma.",
+   "rationale": "An ileostomy drains stool from the small intestine before the colon can absorb water, so the output is liquid, frequent, and enzyme-rich. That makes dehydration and electrolyte loss the major physiologic risk, which is why intake and output are monitored closely. Tachycardia and dizziness on standing are cues that fluid volume is low and need follow-up now. Irritated skin and body-image distress also need attention, but they rank below a circulation problem, and slight bleeding when a stoma is cleaned is expected.",
    "takeaway": "With an ileostomy, liquid output is expected, but signs of fluid volume loss such as tachycardia and orthostatic dizziness need priority follow-up.",
    "hintContent": "Sort each finding into expected or unexpected for a stoma from the small intestine, then think about what liquid output does to fluid balance.",
-   "hintStrategy": "In a \"priority follow-up\" item, cross off every finding that is expected for the condition; the one left is usually a sign of a physiologic complication."
+   "hintStrategy": "In a \"priority follow-up\" item, cross off every finding that is expected for the condition; the one left is usually a sign of a physiologic complication.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-003",
@@ -117,22 +119,23 @@
    "focus": "Delegation & Safety",
    "stem": "A client returned to the unit 30 minutes ago after an esophagogastroduodenoscopy (EGD) with throat numbing and sedation. The client is awake and says, \"My throat is so dry. Can I please have some water?\" Which action should the nurse take first?",
    "options": [
-    "Give a few small sips of cool water",
+    "Review the provider's post-procedure diet order",
     "Offer ice chips to soothe the throat",
-    "Raise the head of the bed and give juice",
+    "Raise the head of the bed before giving fluids",
     "Check that the gag reflex has returned"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Even small sips can be aspirated if the gag reflex has not returned.",
-    "Incorrect. Ice chips melt into water and carry the same aspiration risk as fluids.",
-    "Incorrect. Raising the head of the bed helps, but it does not make oral intake safe without a gag reflex.",
+    "Incorrect. Following the diet order is appropriate, but the order does not show whether this client can swallow safely right now; only a gag reflex check does.",
+    "Incorrect. Ice chips seem harmless, but they melt into water and carry the same aspiration risk as fluids.",
+    "Incorrect. Raising the head of the bed lowers aspiration risk, but it does not make oral intake safe if the gag reflex has not returned.",
     "Correct. The throat was numbed for the scope, so the nurse must confirm the gag reflex has returned before giving anything by mouth to prevent aspiration."
    ],
    "rationale": "During an EGD the throat is numbed so the scope can pass through the mouth into the esophagus, stomach, and duodenum. Until that numbing wears off, the client may not protect the airway when swallowing. The nurse gives nothing by mouth until the gag reflex returns, which prevents aspiration. Ice chips seem harmless, which makes them tempting, but they turn into water in the mouth and pose the same risk.",
    "takeaway": "After an EGD, nothing by mouth, including ice chips, until the gag reflex returns.",
    "hintContent": "Think about what was done to the throat to allow the scope to pass, and what that means for swallowing.",
-   "hintStrategy": "When a client asks for something after a procedure, look for the option that confirms safety (assessment) before the option that meets the request."
+   "hintStrategy": "When a client asks for something after a procedure, look for the option that confirms safety (assessment) before the option that meets the request.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-004",
@@ -162,7 +165,8 @@
    "rationale": "Prioritization means finding the client whose findings point to an unstable or life-threatening problem. After colonoscopy, especially when tissue is removed, severe pain, distension, fever, or a rigid abdomen point to perforation and must be reported immediately. White stool after barium, a slow-to-return gag reflex in an NPO client, and liquid stool during bowel prep are all expected. The EGD client may look tempting because airway safety matters, but the client is already protected by staying NPO.",
    "takeaway": "After colonoscopy, a rigid abdomen, fever, or severe pain signals possible perforation and outranks expected procedure effects.",
    "hintContent": "For each client, ask whether the finding is an expected effect of the procedure or a sign of a complication.",
-   "hintStrategy": "In a four-client prioritization item, eliminate the expected findings first; the client with an unexpected, dangerous finding goes first."
+   "hintStrategy": "In a four-client prioritization item, eliminate the expected findings first; the client with an unexpected, dangerous finding goes first.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-005",
@@ -194,7 +198,8 @@
    "rationale": "Black, tarry stool (melena) usually means bleeding high in the GI tract, although iron supplements can also turn stool black. The nurse should never assume the cause is the iron, especially when other cues are present. Here the heart rate has risen and the blood pressure has dropped since yesterday, and the client feels lightheaded, which together suggest blood loss. The tempting answer is to reassure the client about iron, but that ignores the change in vital signs.",
    "takeaway": "Black stool in a client on iron still needs investigation, and with tachycardia or hypotension it must be reported promptly as possible GI bleeding.",
    "hintContent": "Look beyond the stool color: what do the changes in heart rate and blood pressure add?",
-   "hintStrategy": "When an option offers a harmless explanation, check whether all of the cues fit it; if some do not, choose the action that addresses the dangerous possibility."
+   "hintStrategy": "When an option offers a harmless explanation, check whether all of the cues fit it; if some do not, choose the action that addresses the dangerous possibility.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-006",
@@ -210,21 +215,22 @@
    "stem": "The nurse is assisting a provider with a digital rectal exam on a client with suspected fecal impaction. During the exam, the client says, \"I feel faint,\" and the heart rate on the monitor drops from 78/min to 46/min. Which action should the nurse take first?",
    "options": [
     "Ask the provider to stop the exam, then assess the client",
+    "Check the client's blood pressure and level of consciousness",
     "Encourage the client to take slow, deep breaths",
-    "Raise the head of the bed to a high-Fowler position to aid breathing",
-    "Offer a glass of water to ease the dizziness"
+    "Prepare atropine in case the heart rate keeps dropping"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Stimulating the rectum can trigger a vagal response that slows the heart rate, so the stimulation must stop and the client must be assessed.",
-    "Incorrect. Breathing exercises do not remove the vagal stimulus that is slowing the heart.",
-    "Incorrect. Sitting a faint client upright can worsen low blood flow to the brain and lead to syncope.",
-    "Incorrect. Giving fluids by mouth to a client who feels faint is unsafe and does not address the cause."
+    "Correct. Stimulating the rectum can trigger a vagal response that slows the heart rate, so the stimulation must stop first, and then the client is assessed.",
+    "Incorrect. These assessments are needed, but checking them while the exam continues lets the vagal stimulus keep slowing the heart; stop the cause first.",
+    "Incorrect. Slow breathing may calm the client, but it does not remove the vagal stimulus that is slowing the heart.",
+    "Incorrect. Atropine may be needed if bradycardia persists, but stopping the stimulation often resolves it and must come first."
    ],
-   "rationale": "Rectal stimulation during a digital rectal exam or removal of impacted stool can stimulate the vagus nerve. Vagal stimulation slows the heart rate and can cause dizziness or fainting. The first step is to remove the cause by stopping the exam, then assess the pulse, blood pressure, and level of consciousness. Raising the head of the bed is tempting because it seems to help breathing, but a client who feels faint needs blood flow to the brain, not an upright position.",
+   "rationale": "Rectal stimulation during a digital rectal exam or removal of impacted stool can stimulate the vagus nerve. Vagal stimulation slows the heart rate and can cause dizziness or fainting. The first step is to remove the cause by stopping the exam, then assess the pulse, blood pressure, and level of consciousness. Checking vital signs or preparing atropine is tempting because the heart rate is low, but those steps come after the stimulus that is causing the problem has been stopped.",
    "takeaway": "Bradycardia and faintness during rectal stimulation signal a vagal response; stop the stimulation first.",
    "hintContent": "Think about which nerve is stimulated during a rectal exam and what it does to the heart.",
-   "hintStrategy": "When a procedure causes an adverse response, the first action is usually to stop the procedure that triggered it."
+   "hintStrategy": "When a procedure causes an adverse response, the first action is usually to stop the procedure that triggered it.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-007",
@@ -256,7 +262,8 @@
    "rationale": "In a barium enema, contrast is placed into the colon through the rectum so x-rays can outline the bowel. If barium stays in the colon, it can harden and cause constipation or even impaction. The key aftercare is fluids and a laxative as ordered, and the client should report not passing the barium. Clients often worry about white stool, and a half-prepared student may choose to report it, but white or chalky stool is the expected sign that barium is leaving the body.",
    "takeaway": "After barium, push fluids and give the ordered laxative; white stool for a day or two is expected.",
    "hintContent": "Consider what barium can do if it stays in the colon.",
-   "hintStrategy": "For discharge teaching after a procedure, choose the instruction that prevents the most likely complication of that specific procedure."
+   "hintStrategy": "For discharge teaching after a procedure, choose the instruction that prevents the most likely complication of that specific procedure.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-008",
@@ -327,7 +334,8 @@
    "rationale": "Ileostomy output is liquid and frequent, so these clients are at high risk for dehydration and electrolyte loss. The exhibit shows output increasing while oral intake drops, urine output falls below expected, the heart rate climbs, and the membranes become dry. Together these cues point to fluid volume deficit, which needs to be reported and treated. Skin damage is a real ileostomy concern and is tempting, but it is only a risk here, while fluid loss is already happening.",
    "takeaway": "High ileostomy output with falling intake and urine output is a fluid volume emergency in the making; it outranks skin and body-image concerns.",
    "hintContent": "Compare day 3 with day 4 for intake, output, heart rate, and membranes, and decide which body system the changes point to.",
-   "hintStrategy": "When several problems are possible, choose the one that is actually supported by the data and is physiologic before one that is only a risk or psychosocial."
+   "hintStrategy": "When several problems are possible, choose the one that is actually supported by the data and is physiologic before one that is only a risk or psychosocial.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-009",
@@ -357,7 +365,8 @@
    "rationale": "Stool color gives clues about what is happening in the GI tract. Clay-colored or white stool means bile is not reaching the bowel, and it can also be seen for a day or two after barium, which this client has not had. Black, tarry stool suggests bleeding high in the tract, and red stool suggests bleeding low in the tract or near the anus. Students often link any abnormal color to bleeding, but pale stool is the one change that points to bile rather than blood.",
    "takeaway": "Clay-colored stool means bile is not reaching the bowel, unless the client recently had barium.",
    "hintContent": "Recall which substance normally gives stool its brown color.",
-   "hintStrategy": "When a stem rules out a common harmless cause (like recent barium), it is pointing you toward the pathologic explanation."
+   "hintStrategy": "When a stem rules out a common harmless cause (like recent barium), it is pointing you toward the pathologic explanation.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-010",
@@ -387,7 +396,8 @@
    "rationale": "For the abdomen, the order is inspection, auscultation, percussion, and palpation, because pressing on the belly can change peristalsis. Normal bowel sounds are irregular, so short silences are common. To call bowel sounds absent, the nurse must listen for several minutes, and in each of the four quadrants. Documenting absent sounds is the tempting choice because the client just had surgery, but documenting after 30 seconds in one spot would be an inaccurate assessment.",
    "takeaway": "Listen in all four quadrants for several minutes before documenting absent bowel sounds, and auscultate before you palpate.",
    "hintContent": "Think about how long and in how many places the nurse must listen before deciding sounds are absent.",
-   "hintStrategy": "When an option documents a conclusion, check whether the assessment behind it is complete; finish the assessment first."
+   "hintStrategy": "When an option documents a conclusion, check whether the assessment behind it is complete; finish the assessment first.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-011",
@@ -419,7 +429,8 @@
    "rationale": "Delegation depends on the task and the stability of the client. This client is stable and the colostomy is well established, so emptying the pouch and measuring output is routine care AP can do, with instructions to report anything unusual. Assessing the stoma, evaluating the skin, and teaching all require nursing judgment and stay with the nurse. Inspecting the stoma may seem like simple observation, but judging whether its color is normal is an assessment.",
    "takeaway": "AP can empty and measure an established ostomy pouch for a stable client; stoma assessment, skin evaluation, and teaching stay with the nurse.",
    "hintContent": "Separate the tasks into routine care versus tasks that need assessment, teaching, or evaluation.",
-   "hintStrategy": "For delegation items, eliminate any option containing assess, evaluate, inspect for changes, or teach."
+   "hintStrategy": "For delegation items, eliminate any option containing assess, evaluate, inspect for changes, or teach.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-012",
@@ -464,22 +475,23 @@
    "focus": "Pathophysiology",
    "stem": "A nursing student caring for a client with a new ascending colostomy says, \"The pouch has liquid stool in it. I think I should report that the output is abnormal.\" Which response by the nurse is best?",
    "options": [
-    "\"Report it, because colostomy output should be formed within the first day.\"",
-    "\"That output means the pouch opening is cut too large for the stoma.\"",
+    "\"Measure the output first, then we'll decide if it needs reporting.\"",
+    "\"That's expected now, but it should become formed within a week.\"",
     "\"That's expected. Little water is absorbed before the ascending colon.\"",
-    "\"Report it, because liquid output from a colostomy suggests an infection.\""
+    "\"Check the barrier seal, because liquid stool can cause leaks.\""
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Only stomas far along the colon, such as a sigmoid colostomy, produce formed stool.",
-    "Incorrect. Pouch fit affects leaking and skin damage, not the consistency of the stool.",
+    "Incorrect. Measuring output is good practice, but it delays correcting the student's misunderstanding; liquid output from this stoma is expected regardless of the amount.",
+    "Incorrect. Output from a new stoma can change as the bowel recovers, but an ascending colostomy stays liquid to semi-liquid because the colon has little chance to absorb water.",
     "Correct. An ascending colostomy is early in the colon, so little water has been absorbed and liquid to semi-liquid output is expected.",
-    "Incorrect. Liquid output from an ascending colostomy is expected and is not a sign of infection."
+    "Incorrect. Liquid output can loosen a barrier, so checking the seal is useful, but it does not answer whether the output is abnormal."
    ],
    "rationale": "The colon absorbs water as stool moves along it. The farther along the bowel the stoma is, the more formed the stool will be. An ascending colostomy is near the start of the colon, so its output is liquid to semi-liquid, much like an ileostomy, while a sigmoid colostomy produces formed stool. The student is assuming that all colostomies produce formed stool, which is the misconception this item targets.",
    "takeaway": "Predict ostomy output from location: ileostomy and ascending colostomy are liquid; sigmoid colostomy is formed.",
    "hintContent": "Picture where the ascending colon sits along the path of stool and how much water has been removed by that point.",
-   "hintStrategy": "When a student or colleague worries about a finding, first decide whether it is expected for that client before deciding whether to report it."
+   "hintStrategy": "When a student or colleague worries about a finding, first decide whether it is expected for that client before deciding whether to report it.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-014",
@@ -511,7 +523,8 @@
    "rationale": "A bowel history includes the use of elimination aids such as laxatives, enemas, and routines. Daily laxative use can weaken the bowel's natural reflexes and lead to dependence, so the statement is a cue to explore, not a passing comment. Asking how long and what happens without it tells the nurse whether the bowel now relies on the laxative. Advising the client to stop right away is tempting, but the nurse assesses first, and changes are planned with the provider.",
    "takeaway": "Treat routine laxative use as an assessment cue: ask how long and what happens without it.",
    "hintContent": "Consider what long-term laxative use does to the bowel's natural reflexes.",
-   "hintStrategy": "In a best-response item during assessment, choose the open question that gathers more data over advice or reassurance."
+   "hintStrategy": "In a best-response item during assessment, choose the open question that gathers more data over advice or reassurance.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-015",
@@ -528,20 +541,21 @@
    "options": [
     "The bowel is ready because the stool has become liquid",
     "The preparation has failed, so the colonoscopy should be canceled for today",
-    "The client is dehydrated, so the preparation should stop",
+    "The prep is not working, so a tap-water enema should be added",
     "The prep is not complete yet and should continue as ordered"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Liquid stool alone is not the goal; the output must be clear so the colon can be seen.",
-    "Incorrect. The prep is still in progress, and one check in the evening does not mean it has failed.",
-    "Incorrect. Nothing in the stem suggests dehydration, and stopping the prep would leave the colon unprepared.",
+    "Incorrect. Liquid stool shows the prep is working, but liquid is not the goal; the output must be clear so the colon lining can be seen.",
+    "Incorrect. A poor prep can lead to rescheduling, but the prep is still in progress, and one evening check does not mean it has failed.",
+    "Incorrect. Enemas are sometimes ordered when a prep falls short, but the prep is still working as expected and an enema needs a provider's order.",
     "Correct. The prep continues until the output is clear liquid; brown liquid with particles means the colon is not yet clean."
    ],
    "rationale": "Before a colonoscopy, the client follows clear liquids and a laxative prep until the output is clear liquid. A clean colon lets the provider see the lining, take tissue samples, and remove polyps. Brown liquid with bits of stool shows the prep is working but is not finished. The tempting choice is to call the bowel ready because the stool is liquid, but liquid is not the same as clear.",
    "takeaway": "Colonoscopy prep is complete when the output is clear liquid, not merely liquid.",
    "hintContent": "Recall the end point the bowel prep is aiming for.",
-   "hintStrategy": "In evaluation items, compare the finding with the exact goal of the intervention."
+   "hintStrategy": "In evaluation items, compare the finding with the exact goal of the intervention.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-016",
@@ -800,7 +814,8 @@
    "rationale": "Fluid and fiber are the first-line tools for constipation, and they work together because fiber holds water in the stool. The usual goal is about 2,000 mL or more of fluid per day, but the nurse must check for restrictions first, as in heart failure. Here the best plan is to increase fiber gradually and spread the permitted fluid evenly through the day, and the nurse can collaborate with the provider if constipation continues. The tempting answer applies the standard fluid goal without noticing the restriction, which could worsen heart failure.",
    "takeaway": "Always check for a fluid restriction before pushing fluids, and increase fiber gradually.",
    "hintContent": "Look for a detail in the stem that changes the usual fluid recommendation.",
-   "hintStrategy": "When a standard intervention conflicts with a provider order or a coexisting condition, the order and the client's safety win."
+   "hintStrategy": "When a standard intervention conflicts with a provider order or a coexisting condition, the order and the client's safety win.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-023",
@@ -855,19 +870,20 @@
     "Hold oxycodone until the client has a bowel movement",
     "Ask the provider about adding a stimulant laxative",
     "Double the docusate dose for the rest of the day",
-    "Encourage the client to stay in bed and rest the bowel"
+    "Encourage extra fluids and high-fiber foods at meals"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Withholding pain medication without an order leaves pain untreated and limits the walking that helps the bowel.",
+    "Incorrect. Opioids do slow the bowel, but withholding pain medication without an order leaves pain untreated and limits the walking that helps the bowel.",
     "Correct. For opioid-induced constipation, a softener alone is usually not enough, and a stimulant such as senna is usually added; there are no signs of obstruction.",
     "Incorrect. The nurse cannot change a dose without a prescription, and more softener does not stimulate peristalsis.",
-    "Incorrect. Immobility slows peristalsis, so bed rest would worsen constipation."
+    "Incorrect. Fluids and fiber support bowel health, but they act slowly and are not enough for opioid-induced constipation after 3 days without stool."
    ],
    "rationale": "Opioids slow the bowel, and stool softeners such as docusate only let water mix into stool so it passes without straining. For opioid-induced constipation, a softener alone is usually not enough, so a stimulant laxative such as senna is usually added. Laxatives are held when obstruction is suspected, but this client is passing flatus, has no vomiting, and has a soft, nontender abdomen. Holding the opioid may seem logical, but it is not the nurse's decision alone and would leave pain uncontrolled.",
    "takeaway": "For opioid-induced constipation, a softener alone is usually not enough; collaborate to add a stimulant laxative when there are no signs of obstruction.",
    "hintContent": "Compare what a stool softener does with what an opioid does to peristalsis.",
-   "hintStrategy": "Before choosing a laxative-related action, scan the data for obstruction cues; if none are present, choose the option that matches the cause."
+   "hintStrategy": "Before choosing a laxative-related action, scan the data for obstruction cues; if none are present, choose the option that matches the cause.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-024",
@@ -882,22 +898,23 @@
    "focus": "Pharmacology",
    "stem": "A 41-year-old client is admitted with fever of 38.7°C (101.7°F), cramping, and frequent loose stools with streaks of blood that started a day after eating undercooked chicken. The client has a PRN prescription for loperamide and asks for a dose. Which action should the nurse take first?",
    "options": [
-    "Give the loperamide and reassess in 1 hour",
+    "Start contact precautions, then give the loperamide",
     "Restrict oral intake to rest the bowel",
     "Give the loperamide with an oral rehydration drink",
     "Consult the provider before giving the loperamide"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Giving the antidiarrheal without consulting the provider risks keeping the infection in the bowel.",
-    "Incorrect. Restricting intake worsens fluid loss in a client with diarrhea; fluids should be replaced.",
+    "Incorrect. Contact precautions are appropriate for suspected infectious diarrhea, but they do not make the antidiarrheal safe to give.",
+    "Incorrect. Bowel rest is sometimes used for GI illness, but restricting intake worsens fluid loss in a client with fever and diarrhea; fluids should be replaced.",
     "Incorrect. Fluid replacement is appropriate, but it does not make the antidiarrheal safe to give.",
     "Correct. An infectious cause is suspected, and slowing the bowel can hold the germ or its toxin inside, so the nurse checks with the provider first."
    ],
    "rationale": "Antidiarrheal agents such as loperamide slow intestinal movement so more water is absorbed. When an infectious cause is suspected, slowing the bowel can hold the germ or its toxin inside, so the nurse checks with the provider before giving it. Fever, blood in the stool, and a history of undercooked food all point to infection. Combining the drug with fluids is tempting because fluid replacement is correct, but the medication itself is the problem.",
    "takeaway": "Check with the provider before giving an antidiarrheal when diarrhea may be infectious, such as with fever or blood.",
    "hintContent": "Consider what slowing the bowel would do if bacteria or their toxins are causing the diarrhea.",
-   "hintStrategy": "When a PRN medication is requested, check whether new cues make it unsafe before giving it."
+   "hintStrategy": "When a PRN medication is requested, check whether new cues make it unsafe before giving it.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-025",
@@ -917,19 +934,20 @@
     "Re-measure the stoma and cut the barrier to fit closely",
     "Apply barrier cream and put the same pouch back on",
     "Notify the surgeon that the stoma may be infected and needs review",
-    "Tape the edges of the pouch to stop further leaking"
+    "Consult the wound and ostomy nurse about the skin"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. The oversized opening lets enzyme-rich stool touch the skin, so the barrier must be refitted to cover the skin closely around the stoma.",
-    "Incorrect. Reusing a pouch with an oversized opening keeps exposing the skin to stool.",
-    "Incorrect. The stoma itself is not described as abnormal; the skin damage is explained by the poor fit.",
-    "Incorrect. Tape does not stop stool from reaching the skin inside an oversized opening."
+    "Incorrect. Barrier cream helps protect skin, but reusing a pouch with an oversized opening keeps exposing the skin to stool.",
+    "Incorrect. The surgeon should be told about stoma problems, but the stoma itself is not described as abnormal, and the skin damage is explained by the poor fit.",
+    "Incorrect. The wound and ostomy nurse is a good follow-up resource, but the nurse can fix the poor fit now, and waiting leaves the skin exposed to stool."
    ],
    "rationale": "Ileostomy output is liquid and full of digestive enzymes that damage skin quickly. The barrier opening should be cut only slightly larger than the stoma so the skin is covered but the stoma is not squeezed. After surgery, the stoma shrinks as swelling goes down, so it must be measured often and the opening resized. Barrier cream helps protect skin, which makes it tempting, but the cause of the damage is the poor fit, and that must be fixed first; the wound and ostomy nurse can follow up.",
    "takeaway": "Peristomal skin damage with leaking usually means a poor barrier fit; re-measure and cut the opening to fit closely.",
    "hintContent": "Ask what is allowing stool to touch the skin in the first place.",
-   "hintStrategy": "Choose the action that fixes the cause of the problem over one that only treats its effect."
+   "hintStrategy": "Choose the action that fixes the cause of the problem over one that only treats its effect.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-026",
@@ -946,22 +964,23 @@
    "focus": "Nursing Interventions",
    "stem": "An 87-year-old client in long-term care has had six loose stools since morning and is incontinent. The perineal skin is red but intact. Which nursing action is most important?",
    "options": [
-    "Apply an adult brief and check and change the client every 8 hours",
-    "Scrub the skin firmly with soap to remove all stool",
+    "Apply an adult brief and check the client every 2 hours",
+    "Report the red skin to the provider for a medicated cream",
     "Clean gently after each stool, pat dry, and apply a barrier cream",
-    "Limit oral fluids to reduce the number of stools"
+    "Cleanse with a no-rinse cleanser at the end of each shift"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Leaving stool on the skin for hours speeds skin breakdown.",
-    "Incorrect. Firm scrubbing further damages fragile, irritated skin.",
+    "Incorrect. Regular checks are helpful, but a brief traps moisture, and stool can sit on the skin for up to 2 hours between checks.",
+    "Incorrect. The provider may need to know if skin breaks down, but red, intact skin is managed first with independent nursing hygiene measures.",
     "Correct. Gentle cleansing after every stool, patting dry, and a moisture barrier protect red skin from breaking down.",
-    "Incorrect. Diarrhea removes fluid and electrolytes, so limiting fluids risks dehydration."
+    "Incorrect. A no-rinse cleanser is gentle on skin, but cleaning once a shift leaves liquid stool on the skin for hours."
    ],
-   "rationale": "Personal hygiene is an independent nursing intervention that protects skin and prevents infection. Stool, especially liquid stool, damages skin quickly, so the perineal area is cleansed gently after every stool and patted dry. A moisture barrier cream is applied when skin is often exposed to stool. Limiting fluids might seem to reduce stool, but diarrhea already removes fluid and electrolytes, so fluids must be replaced, not restricted.",
+   "rationale": "Personal hygiene is an independent nursing intervention that protects skin and prevents infection. Stool, especially liquid stool, damages skin quickly, so the perineal area is cleansed gently after every stool and patted dry. A moisture barrier cream is applied when skin is often exposed to stool. Briefs, scheduled checks, and gentle cleansers all have a place, but cleaning on a schedule rather than after each stool leaves stool on the skin, and red but intact skin does not need a provider before the nurse acts.",
    "takeaway": "With frequent stools, clean gently after every stool, pat dry, and protect the skin with a moisture barrier.",
    "hintContent": "Think about what keeps red skin from becoming broken skin.",
-   "hintStrategy": "When skin is already red, choose the action that removes the irritant promptly and protects the skin."
+   "hintStrategy": "When skin is already red, choose the action that removes the irritant promptly and protects the skin.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-027",
@@ -991,7 +1010,8 @@
    "rationale": "Inflammation is one of the concepts linked to bowel elimination, and inflamed bowel tissue, as in diverticulitis, can obstruct or perforate. A rigid abdomen with a high fever in that setting suggests perforation, an emergency that needs immediate assessment and provider notification. The other clients have real needs, but they are stable or psychosocial. The tearful ostomy client may tug at the nurse's attention, but emotional support follows physiologic stability.",
    "takeaway": "In diverticulitis, a rigid abdomen with fever suggests perforation and takes priority over stable or psychosocial needs.",
    "hintContent": "Identify the client whose findings suggest a complication that can quickly become life-threatening.",
-   "hintStrategy": "Use the acute-versus-chronic and physiologic-before-psychosocial rules to rank multiple clients."
+   "hintStrategy": "Use the acute-versus-chronic and physiologic-before-psychosocial rules to rank multiple clients.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-028",
@@ -1006,22 +1026,23 @@
    "focus": "Client Teaching",
    "stem": "A home health nurse visits a family whose 35-year-old member is recovering from infectious diarrhea. Two young children live in the home. Which instruction is most important for preventing spread to others?",
    "options": [
-    "\"Give an antidiarrheal to anyone else in the home who starts to have loose stools.\"",
-    "\"Limit the ill person's fluids so there are fewer bathroom trips.\"",
+    "\"Clean the toilet, sink, and door handles with a disinfectant once a day.\"",
+    "\"Keep the ill person's towels, cups, and dishes separate from everyone else's.\"",
     "\"Everyone should wash hands after using the toilet and before handling food.\"",
-    "\"Wipe back to front so stool stays away from the genital area.\""
+    "\"Wipe from front to back after each bowel movement to keep the area clean.\""
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Antidiarrheals can hold an infectious germ inside the bowel and should not be given without provider advice.",
-    "Incorrect. Limiting fluids risks dehydration and does nothing to prevent spread.",
+    "Incorrect. Cleaning shared surfaces helps, but germs on hands spread between daily cleanings, so hand hygiene is the most important step.",
+    "Incorrect. Separating towels and dishes reduces some spread, but it does not stop germs carried on hands to food and mouths.",
     "Correct. Hand hygiene after toileting and before food preparation breaks the stool-to-mouth spread of infectious diarrhea.",
-    "Incorrect. Wiping should be front to back to keep stool bacteria away from the urethra."
+    "Incorrect. Wiping front to back is correct hygiene, but it protects the ill person from urinary infection rather than preventing spread to others."
    ],
-   "rationale": "Poor hygiene is a modifiable risk factor because germs spread from stool to mouth and cause infectious diarrhea. Hand hygiene after toileting, and before preparing or eating food, is the key step in preventing spread to others, especially young children. Wiping front to back protects the person from urinary infection, and the option that reverses it is a trap for readers who skim. Fluids should be replaced, not restricted, during diarrhea.",
+   "rationale": "Poor hygiene is a modifiable risk factor because germs spread from stool to mouth and cause infectious diarrhea. Hand hygiene after toileting, and before preparing or eating food, is the key step in preventing spread to others, especially young children. Cleaning surfaces and keeping towels separate also help, but hands are the main route of spread. Wiping front to back protects the person from urinary infection, not the household from diarrhea.",
    "takeaway": "Hand hygiene after toileting and before handling food is the key to preventing the spread of infectious diarrhea.",
    "hintContent": "Focus on how infectious diarrhea passes from one person to another.",
-   "hintStrategy": "Match the instruction to the goal named in the stem; here the goal is protecting others in the home."
+   "hintStrategy": "Match the instruction to the goal named in the stem; here the goal is protecting others in the home.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-029",
@@ -1038,22 +1059,23 @@
    "focus": "Assessment Findings",
    "stem": "An 82-year-old resident with moderate dementia has become restless and agitated over the past 2 days and keeps pulling at her brief. Her last recorded bowel movement was 5 days ago. Which action should the nurse take first?",
    "options": [
-    "Give the PRN antianxiety medication for agitation",
+    "Give the PRN antianxiety medication for the new agitation",
     "Assess the abdomen and review the bowel elimination record",
-    "Ask the family to visit to calm the resident",
-    "Apply mitts to the resident's hands so she stops pulling at the brief"
+    "Ask the family to visit so they can help calm the resident",
+    "Change the brief and check the perineal skin for irritation"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Sedating the resident without assessing for a physical cause could hide constipation or impaction.",
+    "Incorrect. New agitation may need treatment, but sedating the resident before assessing for a physical cause could hide constipation or impaction.",
     "Correct. A client with dementia may not recognize or report the urge to defecate, so new agitation with no stool for 5 days calls for a bowel assessment first.",
     "Incorrect. Family support may help, but it does not identify a possible physical cause of the behavior.",
-    "Incorrect. Restraining the hands addresses the behavior, not the cause, and is not a first-line action."
+    "Incorrect. A wet brief or sore skin can cause pulling, so checking is reasonable, but it does not address 5 days without a bowel movement."
    ],
    "rationale": "Cognition is one of the concepts linked to bowel elimination: a client with dementia may not recognize the urge or be able to tell anyone about discomfort. New restlessness, agitation, and pulling at a brief in a client with no bowel movement for 5 days are cues of constipation or impaction. The nurse assesses the abdomen and reviews the bowel record before treating the behavior. A PRN sedative is tempting because the resident is agitated, but it could mask a treatable physical problem.",
    "takeaway": "New agitation in a client with dementia can be a sign of constipation; assess for a physical cause before giving a sedative.",
    "hintContent": "Consider how a client with dementia might show bowel discomfort when they cannot describe it.",
-   "hintStrategy": "When a behavior changes suddenly, assess for a physical cause before choosing a medication or restraint."
+   "hintStrategy": "When a behavior changes suddenly, assess for a physical cause before choosing a medication or restraint.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-030",
@@ -1072,20 +1094,21 @@
    "options": [
     "About 30 minutes after breakfast, with a warm drink",
     "First thing on waking in the morning, before any food or fluid",
-    "At bedtime, using a bedpan to save staff time",
-    "Whenever the client asks for the PRN laxative"
+    "About 30 minutes after the evening meal each day",
+    "At a different time each day, whenever the urge occurs"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. Eating triggers the gastrocolic reflex, and a warm drink with breakfast adds to it, so the period after breakfast takes advantage of the body's own push.",
     "Incorrect. Before eating, the gastrocolic reflex has not been triggered, so the urge is weaker.",
-    "Incorrect. Bedtime does not match the reflex, and a bedpan is used only if there is no other option because sitting upright works better.",
-    "Incorrect. Bowel training relies on a consistent daily time, not on laxative requests."
+    "Incorrect. Any meal triggers the gastrocolic reflex, but it is usually strongest after breakfast, which makes the morning the better routine time.",
+    "Incorrect. Responding to the urge is good practice, but bowel training relies on a consistent daily time to build a routine."
    ],
    "rationale": "Bowel training sets a regular, predictable time for defecation. It works because the bowel responds to routine and to the gastrocolic reflex, the wave of colon activity triggered by eating. The best time is shortly after a meal, often breakfast, with a warm drink, with the client upright on a toilet or commode, given privacy and time. First thing on waking may sound natural, but without food in the stomach the reflex has not yet been triggered.",
    "takeaway": "Schedule bowel training shortly after a meal, usually breakfast, to use the gastrocolic reflex.",
    "hintContent": "Recall which reflex is triggered by food entering the stomach.",
-   "hintStrategy": "When choosing a time for a routine, match it to the physiologic trigger the routine depends on."
+   "hintStrategy": "When choosing a time for a routine, match it to the physiologic trigger the routine depends on.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-031",
@@ -1115,7 +1138,8 @@
    "rationale": "Bowel training uses a consistent time after a meal, an upright position, privacy, and enough time. Helping a stable resident onto the commode at the scheduled time is routine care that AP can do and report on. Teaching, assessment, and evaluation all require nursing knowledge and judgment and cannot be delegated. Evaluating the routine may seem like simple record-keeping, but deciding whether a plan is effective is a nursing judgment.",
    "takeaway": "AP can carry out the toileting schedule; the nurse teaches, assesses, and evaluates the bowel program.",
    "hintContent": "Sort the options by whether they require teaching, assessment, or evaluation.",
-   "hintStrategy": "In delegation items, the delegable task is usually the routine, repeated, hands-on care for a stable client."
+   "hintStrategy": "In delegation items, the delegable task is usually the routine, repeated, hands-on care for a stable client.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-032",
@@ -1164,20 +1188,21 @@
    "options": [
     "\"You aren't having any trouble with your bladder or bowels these days, are you?\"",
     "\"Are your bowels and your bladder working the way you think they should be?\"",
-    "\"Do you need me to order you some incontinence pads today?\"",
+    "\"How many times a week do you usually have a bowel movement?\"",
     "\"Many people leak urine or stool. Do you ever leak before reaching the toilet?\""
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. This leading question invites a \"no\" answer.",
-    "Incorrect. This vague question lets the client answer without describing any symptoms.",
-    "Incorrect. This assumes a problem and offers a product instead of screening for symptoms.",
+    "Incorrect. It names both bladder and bowels, which is specific, but the leading wording invites an embarrassed client to simply say no.",
+    "Incorrect. This open question seems polite and respectful, but it is vague and lets the client answer without describing any symptoms.",
+    "Incorrect. Asking about frequency is a useful, specific question, but it screens only one bowel problem and does not ease the embarrassment that keeps clients from reporting leaking.",
     "Correct. This direct, normalizing question names specific symptoms and makes it easier for an embarrassed client to answer honestly."
    ],
    "rationale": "There are no standard screening procedures for elimination problems, so nurses use verbal screening during checkups, especially for older adults. Elimination problems require more direct questioning than other problems, because clients are often embarrassed or believe leaking or constipation is a normal part of aging. A normalizing statement followed by a specific question gets more honest answers. The vague question seems polite and open, but it lets the client answer without describing anything.",
    "takeaway": "Screen for elimination problems with direct, normalizing questions that name specific symptoms.",
    "hintContent": "Think about why clients may not volunteer bowel or bladder problems.",
-   "hintStrategy": "For communication items, reject leading and vague questions and choose the one most likely to bring out accurate information."
+   "hintStrategy": "For communication items, reject leading and vague questions and choose the one most likely to bring out accurate information.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-034",
@@ -1194,20 +1219,21 @@
    "options": [
     "The medication has worked, so the dose can be continued as it was ordered",
     "The medication may be causing constipation and should be reported",
-    "The client needs a stimulant laxative given with the next dose",
-    "The bloating is expected and needs no further assessment"
+    "The client may be dehydrated from the diarrhea and needs more fluids",
+    "The lack of stool is likely from eating less during the illness"
    ],
    "answer": 1,
    "optionRationales": [
     "Incorrect. Stopping diarrhea was the goal, but continuing the drug after stool has stopped can lead to constipation.",
     "Correct. Antidiarrheals slow the bowel, and constipation is a known effect, so the finding is reported and the drug is likely held.",
-    "Incorrect. Giving a laxative alongside an antidiarrheal works against the plan and is not ordered.",
-    "Incorrect. New bloating with no stool needs assessment rather than being dismissed."
+    "Incorrect. Replacing fluids is part of care during diarrhea, but dehydration does not explain new bloating with no stool while on an antidiarrheal.",
+    "Incorrect. Low intake can reduce stool, but it does not explain new bloating and overlooks the drug's known constipating effect."
    ],
    "rationale": "Antidiarrheal agents such as loperamide slow intestinal movement so more water is absorbed. The nurse watches for constipation as a side effect and keeps replacing fluids while the drug is in use. Thirty-six hours without stool plus bloating suggests the drug has gone too far, so the nurse assesses the abdomen and reports the finding. Thinking the drug simply worked is tempting, but the goal is a return to normal stool, not no stool at all.",
    "takeaway": "Watch clients taking antidiarrheals for constipation, and report it when stool stops and bloating begins.",
    "hintContent": "Recall the main side effect to monitor with a drug that slows the bowel.",
-   "hintStrategy": "In evaluation items, decide whether the result shows the intended effect or an overshoot into a side effect."
+   "hintStrategy": "In evaluation items, decide whether the result shows the intended effect or an overshoot into a side effect.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-035",
@@ -1239,7 +1265,8 @@
    "rationale": "Many clients grieve the change an ostomy brings to their body, and supporting body image is part of ostomy care. A client who turns away and voices fear of rejection needs the nurse to listen first. An open, empathetic response helps the client express feelings and lets the nurse learn what support is needed, including the wound and ostomy nurse. Jumping into pouch teaching is tempting because self-care is the long-term goal, but learning is unlikely while the client is this upset.",
    "takeaway": "When a client grieves a new ostomy, acknowledge the feeling and invite them to talk before teaching.",
    "hintContent": "Notice the client's emotional state and readiness to learn.",
-   "hintStrategy": "In therapeutic communication items, choose the response that acknowledges feelings and opens discussion; reject reassurance and premature teaching."
+   "hintStrategy": "In therapeutic communication items, choose the response that acknowledges feelings and opens discussion; reject reassurance and premature teaching.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-036",
@@ -1271,7 +1298,8 @@
    "rationale": "Stool softeners such as docusate let water mix into stool so it is soft and passes without straining. They suit clients who should not strain, including those with hemorrhoids, after surgery or childbirth, or while taking opioids. They prevent hard stool rather than cause a quick bowel movement. A client who needs results within the hour may tempt a student who thinks softeners act fast, but that is the job of other agents ordered by the provider.",
    "takeaway": "Stool softeners prevent straining over time; they are not for quick results, diarrhea, or suspected obstruction.",
    "hintContent": "Recall how a stool softener works and how quickly it acts.",
-   "hintStrategy": "Match the drug's mechanism to the client's problem, and eliminate any client for whom the drug is contraindicated."
+   "hintStrategy": "Match the drug's mechanism to the client's problem, and eliminate any client for whom the drug is contraindicated.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-037",
@@ -1576,7 +1604,8 @@
    "rationale": "A newborn's first stools are meconium: thick, sticky, and greenish-black. Most newborns pass meconium within the first 24 hours, and a newborn with no stool by about 48 hours should be reported because it can signal a blockage. Baby D is 49 hours old with no stool and a slightly rounded abdomen. Baby B's loose stools might worry a new nurse, but mustard-yellow, seedy, loose stool is normal for a breastfed infant.",
    "takeaway": "Report a newborn who has not passed meconium by about 48 hours.",
    "hintContent": "Recall when most newborns pass their first stool and when the lack of a stool becomes a concern.",
-   "hintStrategy": "In exhibit-based newborn items, compare each baby against the expected norm for age and feeding type."
+   "hintStrategy": "In exhibit-based newborn items, compare each baby against the expected norm for age and feeding type.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-044",
@@ -1593,20 +1622,21 @@
    "options": [
     "Notify the provider of the findings immediately",
     "Offer small sips of an oral rehydration drink",
-    "Give the glycerin suppository the parent brought",
-    "Reassure the parent that this is likely colic"
+    "Save the stool in a container for testing",
+    "Ask the parent when the symptoms first started"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. These are classic signs of intussusception, a mechanical obstruction that is an emergency and needs prompt diagnosis and treatment.",
-    "Incorrect. Oral fluids are unsafe with a possible obstruction and vomiting, and they delay emergency care.",
-    "Incorrect. Anything that pushes the bowel is unsafe with a suspected obstruction.",
-    "Incorrect. Colic does not cause currant-jelly stool, vomiting, and lethargy between bouts."
+    "Incorrect. Fluid replacement matters after vomiting, but oral fluids are unsafe with a possible obstruction and delay emergency care.",
+    "Incorrect. Saving the stool is useful for the provider, but it is not the first action when the cues already point to an emergency.",
+    "Incorrect. Onset time is useful history, but the cues already point to an emergency, and more questions delay care."
    ],
    "rationale": "Intussusception is the most common cause of intestinal obstruction in children under 3. One section of intestine telescopes into the next, blocking stool and squeezing the blood supply, so the bowel can die and perforate without treatment. Classic signs are sudden, crampy pain in waves with the knees drawn up, calm or sleepy periods between, vomiting, and currant-jelly stool. Oral rehydration is tempting because the child has vomited, but nothing should be given by mouth when an obstruction is suspected.",
    "takeaway": "Episodic screaming with knees to chest, vomiting, and currant-jelly stool in a young child suggests intussusception; notify the provider immediately.",
    "hintContent": "Put together the pattern of pain, the vomiting, and the stool appearance in a child under 3.",
-   "hintStrategy": "When cues point to an emergency, the first action is to get the provider involved rather than treat a single symptom."
+   "hintStrategy": "When cues point to an emergency, the first action is to get the provider involved rather than treat a single symptom.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-045",
@@ -1621,22 +1651,23 @@
    "focus": "Nursing Interventions",
    "stem": "A client who had a cesarean birth 1 day ago reports sharp, crampy gas pain and a bloated abdomen. Vital signs are stable, and bowel sounds are hypoactive. Which nursing action is most helpful?",
    "options": [
-    "Encourage carbonated drinks to help bring up gas",
-    "Keep the client flat in bed to rest the abdomen",
+    "Give the prescribed opioid to relieve the gas pain",
+    "Turn the client onto the left side in bed",
     "Encourage early, frequent walking in the hallway",
-    "Ask the provider to prescribe a stool softener only"
+    "Ask the provider to prescribe a stool softener"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Carbonated drinks add gas to the GI tract and can worsen bloating.",
-    "Incorrect. Immobility further slows peristalsis and worsens gas pain.",
+    "Incorrect. Pain relief is appropriate after surgery, but opioids slow peristalsis and can make gas pain worse.",
+    "Incorrect. Lying on the left side can help gas move, but staying in bed keeps peristalsis slow, so it helps less than walking.",
     "Correct. Abdominal surgery and anesthesia slow peristalsis, and early, frequent walking is what helps gas pain most after a cesarean birth.",
-    "Incorrect. A stool softener keeps stool soft but does not move gas or restore peristalsis."
+    "Incorrect. A stool softener is common after birth and keeps stool soft, but it does not move gas or restore peristalsis."
    ],
    "rationale": "Bowels are sluggish after giving birth, and after a cesarean birth, abdominal surgery and anesthesia slow peristalsis further. Gas builds up and causes painful bloating. Early and frequent walking stimulates peristalsis and helps the most. A stool softener is tempting because it is commonly given postpartum, but it addresses hard stool, not trapped gas.",
    "takeaway": "After a cesarean birth, early and frequent walking is the best relief for gas pain.",
    "hintContent": "Think about why gas builds up after abdominal surgery and what restores bowel movement.",
-   "hintStrategy": "Choose the intervention that treats the cause (slowed peristalsis) over one that treats a different problem."
+   "hintStrategy": "Choose the intervention that treats the cause (slowed peristalsis) over one that treats a different problem.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-046",
@@ -1704,7 +1735,8 @@
    "rationale": "Constipation is common in older adults, but the nurse must separate routine constipation from acute danger. Abdominal distension, vomiting, and no flatus after 6 days without stool are signs of a possible obstruction or impaction that need immediate assessment and provider notification. Thinner stools for 6 weeks are a warning sign that must be referred, which makes Mrs. W tempting, but it is not an emergency this morning. Mr. H and Mr. T are stable.",
    "takeaway": "In older adults, distension, vomiting, and no flatus outrank chronic or slowly developing bowel changes.",
    "hintContent": "Look for the resident whose bowel may be blocked right now.",
-   "hintStrategy": "Rank by acuity: an acute, possibly life-threatening problem comes before an important finding that needs a referral."
+   "hintStrategy": "Rank by acuity: an acute, possibly life-threatening problem comes before an important finding that needs a referral.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-047",
@@ -1719,22 +1751,23 @@
    "focus": "Assessment Findings",
    "stem": "The parent of an exclusively breastfed 4-month-old calls the clinic. Which report requires the nurse to arrange for the infant to be seen today?",
    "options": [
-    "Loose, mustard-yellow, seedy stools after most feedings",
-    "A stool every 2 days that is soft and yellow",
-    "A faint odor to the stool and small curd-like specks in the diaper",
+    "Hard, pellet-like stools two or three times over the past week",
+    "Spitting up after most feedings while still gaining weight well",
+    "A red diaper rash that started once the stools became looser",
     "Watery stools 10 times a day, fewer wet diapers, and a sunken soft spot"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Loose, mustard-yellow, seedy stools after feedings are normal for a breastfed infant.",
-    "Incorrect. Stool frequency varies in infants, and soft yellow stool every 2 days can be normal.",
-    "Incorrect. A faint odor and small curds (seeds) are normal for a breastfed infant.",
-    "Correct. Very watery stools much more often than usual, plus fewer wet diapers and a sunken fontanel, are signs of diarrhea with dehydration."
+    "Incorrect. Hard stools are unusual in a breastfed infant and are worth discussing, but they are not dangerous and do not need a same-day visit.",
+    "Incorrect. Spitting up deserves follow-up, but an infant who is gaining weight is thriving, so this is not urgent.",
+    "Incorrect. Diaper rash needs home care teaching, but it is a skin problem, not a threat to fluid balance.",
+    "Correct. Frequent watery stools with fewer wet diapers and a sunken fontanel signal dehydration, which develops quickly in infants and needs evaluation today, unlike the other, nonurgent concerns."
    ],
-   "rationale": "Breastfed infant stools are normally mustard yellow, seedy, soft, and liquid with a faint odor, and frequency varies widely. Parents need to know what is worrying: very watery stools much more often than usual, blood in the stool, or signs of dehydration such as fewer wet diapers, a dry mouth, or a sunken fontanel. Infants dehydrate quickly, so this infant needs to be seen today. Stool every 2 days may sound like constipation, but soft stool at that frequency can be normal.",
+   "rationale": "Breastfed infant stools are normally mustard yellow, seedy, soft, and liquid with a faint odor, and frequency varies widely. Parents need to know what is worrying: very watery stools much more often than usual, blood in the stool, or signs of dehydration such as fewer wet diapers, a dry mouth, or a sunken fontanel. Infants dehydrate quickly, so this infant needs to be seen today. Hard stools, spitting up, and diaper rash all deserve teaching or follow-up, but none threatens the infant's fluid balance today.",
    "takeaway": "Loose seedy stool is normal for a breastfed infant; watery stools far more often than usual with fewer wet diapers or a sunken fontanel are not.",
    "hintContent": "Separate normal breastfed stool features from signs of fluid loss in an infant.",
-   "hintStrategy": "When most options describe normal variation, choose the one with signs of a physiologic complication."
+   "hintStrategy": "When most options describe normal variation, choose the one with signs of a physiologic complication.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-048",
@@ -1751,22 +1784,23 @@
    "focus": "Client Teaching",
    "stem": "A 77-year-old client takes a stimulant laxative every night \"to stay regular\" and says it is not working as well as it used to. Which action by the nurse is most appropriate?",
    "options": [
-    "Suggest taking two laxative tablets each night instead of just one",
-    "Recommend adding an enema on any day without a bowel movement",
+    "Suggest a stool softener in place of the stimulant laxative",
+    "Teach the client to drink more water throughout each day",
     "Teach fluid, fiber, and activity, and report the laxative use",
-    "Explain that a daily bowel movement is needed for good health"
+    "Encourage a short walk after each meal to help move the bowel"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Increasing the dose deepens the dependence that is causing the problem.",
-    "Incorrect. Adding enemas is another elimination aid that can worsen dependence.",
-    "Correct. Routine laxative use inhibits the bowel's natural reflexes; teaching natural measures and reporting the use to the provider addresses the cause.",
-    "Incorrect. A daily bowel movement is not required, and this belief drives laxative overuse."
+    "Incorrect. A softener is gentler, but it keeps the client relying on a drug, and the nurse should not change medications without the provider.",
+    "Incorrect. More fluid helps, but it is only one part of the plan and leaves the laxative dependence unaddressed.",
+    "Correct. Fluid, fiber, and activity restore natural bowel function, and reporting the laxative use lets the provider help taper it; the other options address only part of the problem.",
+    "Incorrect. Activity after meals uses the gastrocolic reflex, but alone it is incomplete and does not address the laxative dependence."
    ],
-   "rationale": "Laxative use inhibits natural reflexes and may cause constipation rather than relieve it. The bowel comes to depend on the laxative, the client takes more, and the cycle continues. The nurse educates about fluids, fiber, activity, and responding to the gastrocolic reflex after meals, and reports the laxative use so the provider can help taper it. Many older adults believe they must have a bowel movement every day, which is why the \"daily is needed\" option is tempting, but normal frequency varies.",
+   "rationale": "Laxative use inhibits natural reflexes and may cause constipation rather than relieve it. The bowel comes to depend on the laxative, the client takes more, and the cycle continues. The nurse educates about fluids, fiber, activity, and responding to the gastrocolic reflex after meals, and reports the laxative use so the provider can help taper it. Teaching only water or only walking is tempting because each is correct, but each is incomplete, and swapping to a softener keeps the client dependent on a drug.",
    "takeaway": "Laxative overuse in older adults can cause constipation; teach natural measures and report the use instead of increasing the dose.",
    "hintContent": "Think about what long-term laxative use does to the bowel's own reflexes.",
-   "hintStrategy": "Avoid options that do more of the thing causing the problem; choose the one that addresses the cause."
+   "hintStrategy": "Avoid options that do more of the thing causing the problem; choose the one that addresses the cause.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-049",
@@ -1783,22 +1817,23 @@
    "focus": "Delegation & Safety",
    "stem": "Right after breakfast, an 83-year-old resident with constipation turns on the call light and tells the assistive personnel (AP), \"I need to go now.\" The AP tells the nurse, \"I'll take her after I finish passing breakfast trays.\" Which response by the nurse is best?",
    "options": [
-    "\"That's fine, as long as she gets to the toilet within the next hour.\"",
+    "\"Ask another AP to help her as soon as someone is free.\"",
     "\"Please help her to the toilet now, and I'll finish the trays.\"",
-    "\"Offer her a bedpan so you can keep passing trays.\"",
-    "\"Tell her to hold it a few minutes so the trays stay warm.\""
+    "\"Offer her a bedpan in bed so you can keep passing the trays.\"",
+    "\"Note her urge on the bowel chart, then help her after trays.\""
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Delaying lets the urge pass and the stool dry out, worsening constipation.",
-    "Correct. The urge after breakfast comes from the gastrocolic reflex, and answering it promptly helps prevent constipation.",
-    "Incorrect. A bedpan is used only when there is no other option because sitting upright makes defecation easier.",
-    "Incorrect. Telling the resident to hold it ignores the urge and worsens constipation."
+    "Incorrect. Getting help is reasonable, but waiting for someone to be free delays the response, and the urge may pass.",
+    "Correct. The urge after breakfast must be answered right away with the resident upright on a toilet; the nurse removes the barrier by covering the trays instead of delaying or using a bedpan.",
+    "Incorrect. A bedpan meets the need quickly, but the upright position on a toilet is far more effective for a constipated older adult.",
+    "Incorrect. Tracking bowel patterns is good practice, but documenting first delays toileting and lets the gastrocolic urge fade."
    ],
    "rationale": "Responding to the gastrocolic reflex is important for older adults with constipation. The urge to defecate after a meal, especially breakfast, should be answered quickly, with the resident upright on a toilet or commode, so the urge is not lost. Ignoring or delaying the urge lets stool dry out and weakens the urge over time. The bedpan option sounds efficient and still meets the need, which makes it tempting, but the upright position is far more effective.",
    "takeaway": "Answer the urge to defecate promptly, especially after breakfast; a delayed urge may be lost.",
    "hintContent": "Consider what triggered the urge and what happens to it if the resident waits.",
-   "hintStrategy": "In delegation items, the nurse can redirect work so the time-sensitive client need is met first."
+   "hintStrategy": "In delegation items, the nurse can redirect work so the time-sensitive client need is met first.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-050",
@@ -1816,21 +1851,22 @@
    "stem": "A 15-year-old soccer player reports hard stools every 4 days. He eats fast food most days, drinks mainly sports drinks, and says he \"doesn't have time\" to use the bathroom at school. Which teaching is the priority?",
    "options": [
     "Add fruit, vegetables, whole grains, and water, and don't ignore the urge",
-    "Take a stimulant laxative every night until his stools become regular again",
-    "Cut back on soccer practice so the bowel can rest",
-    "Expect a bowel movement every day once his diet improves"
+    "Drink water instead of sports drinks during practice and games",
+    "Take a daily fiber supplement with a full glass of water each morning",
+    "Set aside time to use the toilet at home after breakfast each day"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. This targets the actual causes: a low-fiber diet, too little water, and holding stool.",
-    "Incorrect. Routine laxative use weakens the bowel's natural reflexes and is not first-line.",
-    "Incorrect. Activity stimulates peristalsis, so cutting back would make constipation worse.",
-    "Incorrect. Normal frequency varies, so a daily bowel movement is not a required goal."
+    "Correct. Fiber, fluid, and responding to the urge address all of this teen's causes: a low-fiber diet, poor fluid intake, and holding stool at school.",
+    "Incorrect. Better fluid choices help soften stool, but this addresses only one of his several causes.",
+    "Incorrect. A supplement adds fiber, but it does not fix his diet, fluids, or the habit of holding stool.",
+    "Incorrect. A routine after breakfast uses the gastrocolic reflex, but it does not address his diet or holding stool during the school day."
    ],
-   "rationale": "By school age and adolescence, bowel habits are similar to adults', and the same risk factors appear. Diets high in fast food and low in fruits, vegetables, and water, plus holding stool because of busy days or embarrassment, cause constipation. Teaching fiber, fluids, activity, and not ignoring the urge addresses all of this teen's causes. A laxative may seem like the quickest fix, but it treats the symptom and risks dependence.",
+   "rationale": "By school age and adolescence, bowel habits are similar to adults', and the same risk factors appear. Diets high in fast food and low in fruits, vegetables, and water, plus holding stool because of busy days or embarrassment, cause constipation. Teaching fiber, fluids, activity, and not ignoring the urge addresses all of this teen's causes. Switching drinks, adding a supplement, or toileting after breakfast are each helpful, but each fixes only one part of the problem.",
    "takeaway": "For constipation in children and teens, teach fiber, water, activity, and not ignoring the urge.",
    "hintContent": "Identify the specific habits in the stem that are causing hard stools.",
-   "hintStrategy": "Priority teaching should target the causes named in the stem with first-line, nonmedication measures."
+   "hintStrategy": "Priority teaching should target the causes named in the stem with first-line, nonmedication measures.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-051",
@@ -1845,22 +1881,23 @@
    "focus": "Client Teaching",
    "stem": "The parent of a 30-month-old says, \"She still has accidents, so I make her sit in her room when it happens. Shouldn't she be trained by now?\" Which response by the nurse is best?",
    "options": [
-    "\"She should have been trained by age 2, so she may need to see a specialist soon.\"",
-    "\"Keep up the time-outs so she learns that accidents have consequences.\"",
+    "\"Let's set up a routine of sitting her on the potty after meals and at bedtime.\"",
+    "\"Try a sticker chart along with the time in her room so she learns both ways.\"",
     "\"Training is usually done by 3 to 4 years. Praise works better than punishment.\"",
-    "\"Stop training for now and try again once she starts school.\""
+    "\"Every child trains at her own pace, so try not to compare her with other kids.\""
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Only some bowel control is expected at 1.5 to 2 years; training is not expected to be complete by then.",
-    "Incorrect. Punishment and pressure can lead a child to hold stool, which causes constipation.",
-    "Correct. Successful toilet training is expected by 36 to 48 months, and praising success while never punishing accidents prevents stool holding.",
-    "Incorrect. Waiting until school age is not necessary when the child is showing progress and readiness."
+    "Incorrect. A routine helps toilet training, but this response leaves the punishment in place and does not correct the parent's expectation.",
+    "Incorrect. Adding praise is good, but continuing the time-outs keeps the punishment, which can lead to stool holding.",
+    "Correct. This corrects the expectation with normal development and replaces punishment with praise, addressing both of the parent's problems.",
+    "Incorrect. This is supportive, but it does not give the expected age range or address the harmful punishment."
    ],
-   "rationale": "Some bowel control develops between 18 and 24 months, and successful toilet training is expected by 36 to 48 months. At 30 months, this child is still on track. Parents should use a routine, praise success, and never punish accidents, because pressure and punishment can lead a child to hold stool and become constipated. The parent's expectation of training by 2 is common, which is why the specialist referral is tempting, but it is not supported by normal development.",
+   "rationale": "Some bowel control develops between 18 and 24 months, and successful toilet training is expected by 36 to 48 months. At 30 months, this child is still on track. Parents should use a routine, praise success, and never punish accidents, because pressure and punishment can lead a child to hold stool and become constipated. A potty routine, a sticker chart, or general reassurance each helps a little, but only the best response both corrects the parent's expectation and stops the punishment.",
    "takeaway": "Toilet training is usually complete by 36 to 48 months; praise success and never punish accidents.",
    "hintContent": "Recall the expected age range for toilet training and what punishment can do to a child's bowel habits.",
-   "hintStrategy": "In parent-teaching items, choose the response that corrects a misconception and gives a safe, developmentally appropriate approach."
+   "hintStrategy": "In parent-teaching items, choose the response that corrects a misconception and gives a safe, developmentally appropriate approach.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-052",
@@ -1878,21 +1915,22 @@
    "stem": "A client who is 26 weeks pregnant reports hard stools and bloating and asks, \"Should I stop my prenatal vitamins? I read the iron can do this.\" Which response by the nurse is best?",
    "options": [
     "\"Keep taking them, and let's add fluid, fiber, and walking.\"",
-    "\"Yes, stop them for a few weeks until your bowels are regular.\"",
-    "\"Switch to a nightly stimulant laxative so you can keep the vitamins.\"",
-    "\"Constipation is normal in pregnancy, so there's nothing to do about it.\""
+    "\"Keep taking them, and swallow each one with a full glass of water.\"",
+    "\"Ask your provider about a stool softener so you can keep taking them.\"",
+    "\"Constipation is common in pregnancy, and it often eases after birth.\""
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. The client should not stop prescribed prenatal vitamins on her own; fluid, fiber, and activity are the first-line measures for constipation.",
-    "Incorrect. Prenatal vitamins should not be stopped without the provider, and the iron is only one cause.",
-    "Incorrect. Routine laxative use is not first-line and inhibits natural reflexes.",
-    "Incorrect. Constipation is common in pregnancy, but it can be managed, and dismissing it ignores the client's concern."
+    "Correct. The prescribed supplement continues, and fluid, fiber, and activity are the first-line way to relieve constipation; the other responses are incomplete or skip nondrug measures.",
+    "Incorrect. Continuing the vitamins is right, and water helps, but one glass per dose is too little to relieve constipation.",
+    "Incorrect. A softener may be used later, but nondrug measures come first, and this skips them.",
+    "Incorrect. This is true, but it offers no help for the client's current discomfort."
    ],
-   "rationale": "In pregnancy, elevated progesterone relaxes the smooth muscle of the GI tract, slowing gastric emptying and peristalsis, and the growing uterus presses on the intestines. Iron in prenatal vitamins can add to constipation. The answer is not to stop a prescribed supplement but to use fluid, fiber, and activity, and to discuss ongoing problems with the provider. Telling the client constipation is \"normal\" is partly true, which makes it tempting, but it offers no help.",
+   "rationale": "In pregnancy, elevated progesterone relaxes the smooth muscle of the GI tract, slowing gastric emptying and peristalsis, and the growing uterus presses on the intestines. Iron in prenatal vitamins can add to constipation. The answer is not to stop a prescribed supplement but to use fluid, fiber, and activity, and to discuss ongoing problems with the provider. Telling the client constipation is common is true, which makes it tempting, but it offers no help, and a stool softener skips the nondrug measures that come first.",
    "takeaway": "Manage pregnancy constipation with fluid, fiber, and activity; do not stop prescribed prenatal vitamins without the provider.",
    "hintContent": "Think about all the reasons a pregnant client becomes constipated, not just the iron.",
-   "hintStrategy": "Avoid options that stop a prescribed medication on the nurse's or client's own decision."
+   "hintStrategy": "Avoid options that stop a prescribed medication on the nurse's or client's own decision.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-053",
@@ -1907,22 +1945,23 @@
    "focus": "Lifespan & Diversity",
    "stem": "The parent of a 9-year-old says he has had hard, painful stools for a month since starting a new school, where he refuses to use the bathroom. Which explanation by the nurse best describes the likely cause?",
    "options": [
-    "School-age children normally have fewer bowel movements",
-    "Stress at school is causing a mechanical blockage of the bowel",
-    "Hard stool at this age usually means a problem with the bowel wall",
+    "Starting a new school can bring stress that slows the bowel",
+    "School lunches are often low in fiber, which hardens the stool",
+    "Children often drink less water during a busy school day",
     "Holding stool lets it dry out and harden, causing constipation"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. By school age, bowel habits are similar to adults'; hard, painful stool is not expected.",
-    "Incorrect. Stress may cause him to avoid the bathroom, but it does not cause a mechanical blockage.",
-    "Incorrect. The history points to stool holding, a behavior, not a structural problem.",
-    "Correct. Holding stool lets the colon absorb more water so stool dries and hardens, which leads to constipation."
+    "Incorrect. A new school can be stressful, but the stress matters here because it leads him to hold stool, which is the direct cause.",
+    "Incorrect. Low fiber can contribute to constipation, but nothing in the report points to a diet change.",
+    "Incorrect. Low fluid intake can harden stool, but the key detail is that he refuses to use the school bathroom.",
+    "Correct. His refusal to use the school bathroom means he holds stool, which dries out and hardens; the other options are possible contributors the report does not point to."
    ],
-   "rationale": "By school age, bowel habits are similar to adults', and frequency, quantity, and consistency vary from child to child. Busy days, embarrassment about school bathrooms, or being \"too busy\" can lead children to hold stool. Held stool dries out and hardens, which causes painful constipation and makes the child want to hold even more. The stress option is tempting because the problem started with a new school, but the stress leads to holding, which is the real cause.",
+   "rationale": "By school age, bowel habits are similar to adults', and frequency, quantity, and consistency vary from child to child. Busy days, embarrassment about school bathrooms, or being \"too busy\" can lead children to hold stool. Held stool dries out and hardens, which causes painful constipation and makes the child want to hold even more. The stress, diet, and fluid options are tempting because each can contribute, but the report points to holding stool as the real cause.",
    "takeaway": "Children who hold stool, often to avoid school bathrooms, become constipated; teach them not to ignore the urge.",
    "hintContent": "Connect the timing of the problem with the boy's bathroom behavior.",
-   "hintStrategy": "Look for the explanation that links the behavior in the stem to the physiologic result."
+   "hintStrategy": "Look for the explanation that links the behavior in the stem to the physiologic result.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-054",
@@ -1952,7 +1991,8 @@
    "rationale": "Infant stool depends on what the baby is fed. Breastfed stools are mustard yellow and seedy, while formula-fed stools range from tan to yellow to green and are less seedy and more pasty. Both are soft, with a faint odor until solids begin. A well-fed infant with plenty of wet diapers and green, pasty stool is normal, even though parents often worry about the green color.",
    "takeaway": "Formula-fed infant stools normally range from tan to yellow to green and are often pasty.",
    "hintContent": "Recall the normal stool color range for formula-fed infants.",
-   "hintStrategy": "When an infant is feeding well and well hydrated, a stool difference between feeding types is usually normal variation."
+   "hintStrategy": "When an infant is feeding well and well hydrated, a stool difference between feeding types is usually normal variation.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-055",
@@ -1997,22 +2037,23 @@
    "focus": "Pathophysiology",
    "stem": "A client at 30 weeks of gestation asks, \"Why am I so constipated now when I never was before?\" Which explanation by the nurse is most accurate?",
    "options": [
-    "\"Your body absorbs less water from your bowel while you are pregnant.\"",
-    "\"Pregnancy hormones speed up the bowel and then cause spasms.\"",
-    "\"Your bowel is weaker because you are less active than before.\"",
+    "\"Iron in your prenatal vitamin can make your stools harder.\"",
+    "\"Pregnancy hormones slow down how fast your bowel moves stool.\"",
+    "\"You may be moving around less, which slows down your bowel.\"",
     "\"Hormones slow your bowel, and the growing uterus presses on it.\""
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Slower movement gives the colon more time to absorb water, so it absorbs more, not less.",
-    "Incorrect. Progesterone slows the bowel; it does not speed it up.",
-    "Incorrect. Activity can matter, but this does not explain the main, predictable cause of pregnancy constipation.",
-    "Correct. Elevated progesterone relaxes GI smooth muscle, slowing gastric emptying and peristalsis, and the enlarging uterus presses on the intestines."
+    "Incorrect. Iron can add to constipation, but it does not explain why pregnancy itself causes it.",
+    "Incorrect. This is true, but incomplete, because it leaves out the pressure of the growing uterus on the bowel.",
+    "Incorrect. Inactivity can contribute, but it is not the main reason constipation develops in pregnancy.",
+    "Correct. Progesterone relaxes GI smooth muscle and slows peristalsis, and the enlarging uterus presses on the intestines; this is the most complete explanation."
    ],
-   "rationale": "Elevated progesterone during pregnancy relaxes smooth muscle throughout the body, including the GI tract. This delays gastric emptying and decreases peristalsis, so stool moves more slowly and the colon absorbs more water, leading to bloating and constipation. As the uterus enlarges, it presses on the intestines and aggravates the symptoms. The idea that less water is absorbed is backward, which makes it a good trap for a student who half remembers the mechanism.",
+   "rationale": "Elevated progesterone during pregnancy relaxes smooth muscle throughout the body, including the GI tract. This delays gastric emptying and decreases peristalsis, so stool moves more slowly and the colon absorbs more water, leading to bloating and constipation. As the uterus enlarges, it presses on the intestines and aggravates the symptoms. Iron and inactivity can add to the problem, and the hormone effect alone is only half the story, which makes these options tempting for a student who knows part of the mechanism.",
    "takeaway": "In pregnancy, progesterone slows the bowel and the enlarging uterus presses on it, causing constipation.",
    "hintContent": "Recall the hormone that rises in pregnancy and what it does to smooth muscle.",
-   "hintStrategy": "For pathophysiology items, trace the mechanism step by step and reject options that reverse it."
+   "hintStrategy": "For pathophysiology items, trace the mechanism step by step and reject options that reverse it.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-057",
@@ -2031,20 +2072,21 @@
    "options": [
     "\"These accidents aren't normal aging. Her provider should evaluate them.\"",
     "\"Yes, it's common at her age. Adult briefs will help keep her dry.\"",
-    "\"It's probably from her diet, so cutting back on fiber should help.\"",
-    "\"She may be embarrassed, so it's best not to bring it up with her.\""
+    "\"Taking her to the toilet after meals may help cut down on accidents.\"",
+    "\"More fiber and fluid in her diet may help her bowels become regular.\""
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Like urinary incontinence, bowel incontinence is not a normal part of aging and usually signals another problem that can often be treated.",
-    "Incorrect. This accepts the problem as normal and offers only containment, without looking for a cause.",
-    "Incorrect. Guessing at a cause and cutting fiber is not supported and could cause constipation.",
-    "Incorrect. Avoiding the subject prevents evaluation and treatment."
+    "Correct. New bowel incontinence is not normal aging and often has a treatable cause, so the nurse corrects the belief and refers for evaluation before choosing treatment.",
+    "Incorrect. Briefs are practical, but this accepts the incontinence as normal and manages the symptom without finding the cause.",
+    "Incorrect. Toileting after meals is a useful strategy, but treating before the cause is evaluated could miss impaction or a neurologic change.",
+    "Incorrect. Fiber and fluid often help bowel control, but starting treatment without evaluation could miss a serious cause."
    ],
    "rationale": "Bowel incontinence is not a normal part of aging. It usually signals another problem, such as impaction, a neurologic change, or medication effects, that can often be treated. Families often accept it as \"just getting older,\" so the nurse gently corrects that belief and refers the client for evaluation. Offering briefs feels helpful and practical, which makes it tempting, but it manages the symptom without addressing why the incontinence started.",
    "takeaway": "Fecal incontinence is never a normal part of aging; refer for evaluation rather than just supplying briefs.",
    "hintContent": "Recall whether bowel incontinence is considered part of normal aging.",
-   "hintStrategy": "When a family member normalizes a new symptom in an older adult, the best response corrects the belief and moves toward evaluation."
+   "hintStrategy": "When a family member normalizes a new symptom in an older adult, the best response corrects the belief and moves toward evaluation.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-058",
@@ -2318,21 +2360,22 @@
    "stem": "Assistive personnel (AP) report that a 78-year-old man admitted with pneumonia \"keeps wetting himself. I've changed his pad four times since 0700, but it's only ever a little bit.\" He has a history of benign prostatic hyperplasia (BPH). Which action should the nurse take first?",
    "options": [
     "Ask the AP to apply an external condom catheter to keep him dry",
-    "Limit his oral fluids until the leaking slows",
+    "Check his perineal skin for redness from the wet pads",
     "Assess for bladder distension with a bladder scan",
     "Have the AP offer him a urinal every 2 hours"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. An external catheter collects the leak but misses a bladder that may not be emptying.",
-    "Incorrect. Limiting fluids does not treat retention and concentrates urine, irritating the bladder.",
-    "Correct. Frequent small leaks in a man with BPH suggest overflow incontinence from retention, so the nurse assesses the bladder first.",
-    "Incorrect. Scheduled urinal offers do not address a bladder that cannot empty because of an obstruction."
+    "Incorrect. A condom catheter keeps him dry, but it hides the retention that is likely causing the dribbling.",
+    "Incorrect. Skin checks matter with frequent wetness, but skin breakdown is a lower priority than possible urinary retention.",
+    "Correct. Frequent small leaks in a man with BPH suggest overflow from retention, so the nurse first checks for a full bladder; the other actions manage wetness or skin without finding the cause.",
+    "Incorrect. Scheduled toileting is helpful for some incontinence, but it does not address a bladder that cannot empty."
    ],
    "rationale": "Overflow incontinence happens when an outlet obstruction, such as an enlarged prostate, or a weak detrusor keeps the bladder from emptying. The bladder overfills, pressure rises, and urine dribbles out in small amounts. Overflow incontinence is really retention in disguise: the client is wet, but the bladder is full. The nurse assesses with a bladder scan and notifies the provider rather than only managing the wetness; the condom catheter is tempting because it keeps him dry, but it hides the real problem.",
    "takeaway": "Frequent small dribbles in a client with BPH suggest overflow from retention; assess the bladder before managing the wetness.",
    "hintContent": "Think about what the pattern of frequent, small amounts of urine suggests in a man with an enlarged prostate.",
-   "hintStrategy": "When AP report a symptom, the nurse's first step is usually to assess the client before choosing an intervention."
+   "hintStrategy": "When AP report a symptom, the nurse's first step is usually to assess the client before choosing an intervention.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-066",
@@ -2364,7 +2407,8 @@
    "rationale": "Urinary incontinence is a symptom, never a normal part of aging, so the nurse looks for its cause. A UTI irritates the bladder wall, causing urgency and frequency, and is listed as a risk factor for incontinence. In an older adult, new incontinence with burning, fever, or acute confusion should be reported rather than assumed to be aging. Behavior therapies such as scheduled toileting are tempting because they are first-line for chronic incontinence, but they do not fit a sudden change with signs of infection.",
    "takeaway": "New, sudden incontinence with fever, burning, or confusion in an older adult signals an acute cause such as UTI; report it.",
    "hintContent": "Notice how quickly this change happened and what other new findings came with it.",
-   "hintStrategy": "Distinguish acute from chronic: a sudden change with new symptoms needs evaluation before long-term management."
+   "hintStrategy": "Distinguish acute from chronic: a sudden change with new symptoms needs evaluation before long-term management.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-067",
@@ -2396,7 +2440,8 @@
    "rationale": "Prioritization means finding the client with an acute, potentially dangerous problem. BPH can squeeze the urethra and block urine flow, and an outlet obstruction can progress from overflow dribbling to complete retention. A man who has not voided in 12 hours and has abdominal pain needs to be seen right away for bladder decompression. The other clients have chronic, stable incontinence; the nocturia caller may seem pressing because of the sleep disruption, but it is not dangerous.",
    "takeaway": "In a client with BPH, inability to void with abdominal pain is acute retention and outranks chronic incontinence concerns.",
    "hintContent": "Look for the client whose bladder may not be emptying at all.",
-   "hintStrategy": "Among several incontinence calls, the acute, painful problem with a physical risk comes first."
+   "hintStrategy": "Among several incontinence calls, the acute, painful problem with a physical risk comes first.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-068",
@@ -2413,22 +2458,23 @@
    "focus": "Nursing Interventions",
    "stem": "A home health nurse visits a 74-year-old man with left-sided weakness after a stroke. He is continent when his wife helps him, but he is wet most mornings because he cannot reach the bathroom at night. Which intervention should the nurse recommend first?",
    "options": [
-    "Restrict his fluids to 250 mL after 1600",
+    "Limit his fluids in the 2 hours before bedtime",
     "Place a bedside commode and a night-light by his bed",
-    "Request an indwelling catheter for nighttime use",
+    "Suggest absorbent briefs to keep his bed dry at night",
     "Teach bladder training to lengthen his voiding interval"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Fluids are tapered in the evening, but severe restriction concentrates urine and does not fix his access problem.",
-    "Correct. This is functional incontinence, so the fix is better access to toileting, which also reduces his fall risk at night.",
-    "Incorrect. A catheter is not first-line for functional incontinence and adds infection risk.",
-    "Incorrect. His bladder works; the problem is reaching the toilet, not an overactive bladder."
+    "Incorrect. Limiting evening fluids can reduce night voiding, but it does not solve his inability to reach the bathroom.",
+    "Correct. His bladder works, and the problem is access, so a nearby commode and lighting address the cause; the other options reduce or contain urine without fixing access.",
+    "Incorrect. Briefs protect the bed, but they contain the problem rather than helping him stay continent.",
+    "Incorrect. Bladder training targets urge incontinence, not a mobility barrier that keeps him from the toilet."
    ],
    "rationale": "Functional incontinence means the urinary system works, but the client cannot respond to the need in time because of dementia, disability, or impaired mobility. This client is continent with help, so the problem is access, not the bladder. Therapy focuses on the environment: a bedside commode, a clear path, night-lights, assistive devices, and nonrestrictive clothing. Bladder training is tempting because it is a familiar first-line therapy, but it targets urge incontinence, not a mobility barrier.",
    "takeaway": "Functional incontinence is fixed by improving access: commode, clear lit path, assistive devices, and easy clothing.",
    "hintContent": "Ask whether his bladder or his ability to get to the toilet is the problem.",
-   "hintStrategy": "Match the intervention to the type of incontinence; for functional incontinence, change the environment."
+   "hintStrategy": "Match the intervention to the type of incontinence; for functional incontinence, change the environment.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-069",
@@ -2482,20 +2528,21 @@
    "options": [
     "Ask the provider if the diuretic can be given in the morning",
     "Apply an adult brief at bedtime to protect the bedding",
-    "Limit the client's total daily fluid intake to 1,000 mL",
+    "Wake the client to void at midnight and again at 0400",
     "Ask the provider to order a urinalysis for infection"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. A diuretic given at 2000 fills the bladder overnight, and the sedative dulls the sensation of fullness; moving the diuretic to the morning addresses the cause.",
-    "Incorrect. A brief contains the problem but leaves the medication-related cause in place.",
-    "Incorrect. Restricting fluids concentrates urine, irritates the bladder, and is not recommended for incontinence.",
-    "Incorrect. There are no signs of infection, and the pattern matches the medication timing."
+    "Correct. Giving furosemide at 2000 fills the bladder overnight while the sedated client cannot wake; moving it to morning fixes the cause, while the other options manage wetness or look for an unlikely cause.",
+    "Incorrect. A brief protects the bedding, but it manages the symptom without addressing the medication timing.",
+    "Incorrect. Night toileting may reduce accidents, but it disrupts sleep and leaves the evening diuretic in place.",
+    "Incorrect. UTI is a common cause, but this client has no signs of infection, and the medication timing explains the pattern."
    ],
    "rationale": "Diuretics and sedatives are both listed risk factors for incontinence. A diuretic increases urine volume, and a sedative dulls the sensation of a full bladder and slows the client's response. Here the furosemide is scheduled at 2000 and the temazepam at 2200, so the bladder fills overnight while the client is too drowsy to wake, and incontinence occurs only at night. A urinalysis is tempting because UTI is a common cause, but this client has no signs of infection, and the nurse can address the timing with the provider.",
    "takeaway": "Nighttime incontinence in a client taking an evening diuretic and a sedative points to medication timing; collaborate to move the diuretic to the morning.",
    "hintContent": "Compare the medication times with the times the client was found wet.",
-   "hintStrategy": "In MAR exhibits, look for a timing pattern that links a drug to the problem, then choose the action that fixes the cause."
+   "hintStrategy": "In MAR exhibits, look for a timing pattern that links a drug to the problem, then choose the action that fixes the cause.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-070",
@@ -2511,21 +2558,22 @@
    "stem": "A 77-year-old woman tells the clinic nurse, \"I wear pads all the time now and I've stopped going to church, but leaking is just part of getting old. My mother had it too.\" Which response by the nurse is best?",
    "options": [
     "\"Many women your age have this, so pads are a good way to manage the leaking.\"",
-    "\"It does run in families, so there may not be much we can do.\"",
+    "\"Kegel exercises can strengthen the muscles that help stop the leaking.\"",
     "\"Leaking is common, but it isn't a normal part of aging. Treatments can help.\"",
-    "\"You could drink less during the day so you leak less at church.\""
+    "\"Cutting back on coffee and tea during the day may help reduce the leaking.\""
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. This accepts incontinence as normal and offers only containment.",
-    "Incorrect. This reinforces a false belief and discourages evaluation.",
-    "Correct. This corrects the belief that incontinence is normal aging and opens the door to evaluation and treatment.",
-    "Incorrect. Limiting fluids concentrates urine, irritates the bladder, and can worsen leaking."
+    "Incorrect. Pads are practical, but this accepts the leaking as normal and does nothing to address the cause or her isolation.",
+    "Incorrect. Kegels help some types of incontinence, but recommending them before evaluation skips correcting her belief and identifying the type.",
+    "Correct. This corrects the belief that leaking is normal aging and opens the door to evaluation and treatment, which the other responses skip.",
+    "Incorrect. Limiting caffeine can reduce urgency, but this offers a fix before correcting her belief or evaluating the cause."
    ],
    "rationale": "Urinary incontinence is a symptom of impaired bladder control, not a normal consequence of aging. It is common in older adults, but common does not mean normal, and treatments exist. It also has a psychosocial impact: clients feel shame, avoid social events, and can become isolated. The best response gently corrects the belief and leads to evaluation, rather than simply supplying more pads; the pad option sounds supportive and practical, which is why it tempts.",
    "takeaway": "Incontinence is common but never a normal part of aging; correct the belief and refer for evaluation.",
    "hintContent": "Consider whether incontinence is a normal part of aging and how it is affecting her life.",
-   "hintStrategy": "When a client normalizes a symptom, the best response gently corrects the belief and moves toward help."
+   "hintStrategy": "When a client normalizes a symptom, the best response gently corrects the belief and moves toward help.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-071",
@@ -2555,7 +2603,8 @@
    "rationale": "The key to telling the types apart is asking what triggers the leak and whether the client feels it coming. Urge incontinence comes from an overactive detrusor, so the client feels a strong, sudden urge and cannot hold it. Reflex incontinence, seen with MS or spinal cord injury, causes urination without the urge, a sudden loss with no warning. The diagnosis of MS makes reflex incontinence tempting, but the client's report of feeling the urge points to urge incontinence.",
    "takeaway": "Urge incontinence: the client feels the urge but cannot hold it. Reflex incontinence: no urge at all.",
    "hintContent": "Focus on whether the client feels the need to void before the leak.",
-   "hintStrategy": "When a diagnosis suggests one answer, check whether the symptoms actually match it; base the choice on the client's description."
+   "hintStrategy": "When a diagnosis suggests one answer, check whether the symptoms actually match it; base the choice on the client's description.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-072",
@@ -2570,22 +2619,23 @@
    "focus": "Client Teaching",
    "stem": "After hearing she has stress incontinence, a 39-year-old client says, \"That can't be right. I'm not stressed at all.\" Which response by the nurse is best?",
    "options": [
-    "\"Even mild stress you don't notice can make your bladder leak.\"",
-    "\"Stress hormones weaken the bladder, so relaxation exercises will help.\"",
-    "\"The name means your bladder is overactive and squeezes too often.\"",
+    "\"Stress incontinence is very common and can be treated with exercises.\"",
+    "\"Kegel exercises can strengthen the muscles that are causing the leaks.\"",
+    "\"Your provider can explain the results to you in more detail.\"",
     "\"Here, 'stress' means physical strain, like coughing or lifting.\""
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Stress incontinence has nothing to do with emotional stress.",
-    "Incorrect. This links the condition to emotions and points the client toward the wrong therapy.",
-    "Incorrect. An overactive detrusor describes urge incontinence, not stress incontinence.",
-    "Correct. Stress incontinence refers to physical strain that raises abdominal pressure, such as sneezing, coughing, or lifting."
+    "Incorrect. This is true and reassuring, but it does not correct her misunderstanding of the word stress.",
+    "Incorrect. Kegels are first-line teaching, but this skips the client's confusion about her diagnosis.",
+    "Incorrect. The provider can add detail, but the nurse can and should clarify this simple point now.",
+    "Correct. This directly corrects the misunderstanding: stress means physical pressure that pushes urine past a weak urethra, not emotional stress."
    ],
-   "rationale": "Stress incontinence has nothing to do with emotional stress. The pelvic muscles have relaxed and the urethra is weak, so urethral resistance is decreased. Anything that raises abdominal and bladder pressure, such as sneezing, coughing, lifting, pregnancy, or obesity, pushes urine past the weak seal. The idea of hidden emotional stress is tempting because the name sounds emotional, but the condition is mechanical, and Kegels are first-line teaching.",
+   "rationale": "Stress incontinence has nothing to do with emotional stress. The pelvic muscles have relaxed and the urethra is weak, so urethral resistance is decreased. Anything that raises abdominal and bladder pressure, such as sneezing, coughing, lifting, pregnancy, or obesity, pushes urine past the weak seal. Reassurance, Kegel teaching, and referral to the provider are all reasonable, but only the best response answers the client's actual confusion about the word stress, and Kegels follow once she understands.",
    "takeaway": "\"Stress\" incontinence means physical strain (cough, sneeze, lift), not emotional stress.",
    "hintContent": "Think about what kind of \"stress\" pushes urine past a weak urethra.",
-   "hintStrategy": "Watch for terms whose medical meaning differs from everyday meaning; the best response clarifies the term."
+   "hintStrategy": "Watch for terms whose medical meaning differs from everyday meaning; the best response clarifies the term.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-073",
@@ -2602,22 +2652,23 @@
    "focus": "Assessment Findings",
    "stem": "A 58-year-old client reports, \"I leak a little when I cough or pick up my grandson, and some days I also get a sudden urge and can't make it to the bathroom.\" Which conclusion by the nurse is most accurate?",
    "options": [
-    "The client has reflex incontinence from damage to the bladder nerves",
+    "The client has stress incontinence from weak pelvic floor muscles",
     "The client has features of both stress and urge incontinence",
-    "The client has overflow incontinence from retention",
-    "The client has functional incontinence from limited access"
+    "The client has urge incontinence from an overactive bladder muscle",
+    "The client has overflow incontinence from a bladder that won't empty"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Reflex incontinence causes loss without any urge, and the client reports feeling the urge.",
-    "Correct. Leaking with coughing and lifting is stress incontinence, and leaking with a sudden urge is urge incontinence; together they describe mixed incontinence.",
-    "Incorrect. Overflow incontinence causes dribbling from an overfull bladder, not leaks tied to coughing.",
-    "Incorrect. Functional incontinence involves a barrier to reaching the toilet, which is not described."
+    "Incorrect. Leaking with coughing or lifting does point to stress incontinence, but this ignores her sudden urges.",
+    "Correct. She describes two distinct triggers, physical strain and a sudden urge, which together indicate mixed incontinence.",
+    "Incorrect. Sudden urges do point to urge incontinence, but this ignores her leaking with coughing and lifting.",
+    "Incorrect. Overflow causes frequent dribbling from a full bladder, and nothing in her report suggests retention."
    ],
-   "rationale": "Some clients have both stress and urge incontinence, which is called mixed incontinence, so the nurse asks about both triggers. Leaks with coughing or lifting point to a weak urethra and decreased urethral resistance. Leaks with a sudden, strong urge point to an overactive detrusor. Students often force a single type onto a client, which makes the other options tempting, but this client describes two distinct triggers.",
+   "rationale": "Some clients have both stress and urge incontinence, which is called mixed incontinence, so the nurse asks about both triggers. Leaks with coughing or lifting point to a weak urethra and decreased urethral resistance. Leaks with a sudden, strong urge point to an overactive detrusor. Students often force a single type onto a client, which makes the stress-only and urge-only options tempting, but each captures only half of what this client describes.",
    "takeaway": "Ask about every trigger: leaks with strain plus leaks with urgency mean mixed incontinence.",
    "hintContent": "Identify each trigger the client describes and match each to a type.",
-   "hintStrategy": "When a client describes two different patterns, consider that both may be present rather than choosing just one."
+   "hintStrategy": "When a client describes two different patterns, consider that both may be present rather than choosing just one.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-074",
@@ -2973,7 +3024,8 @@
    "rationale": "BPH smooth-muscle relaxers relax the smooth muscle of the bladder neck and prostate, and they can drop the blood pressure, especially after the first dose. Mr. G is dizzy, nearly fell, and has a low blood pressure, so he is at immediate risk of injury and needs prompt follow-up. Anticholinergics such as oxybutynin cause dry mouth and constipation, which need monitoring but are not dangerous here. Mrs. D may look urgent because constipation is a known oxybutynin problem, but she had a bowel movement yesterday.",
    "takeaway": "Low blood pressure with dizziness or a near-fall after a BPH smooth-muscle relaxer is a safety priority.",
    "hintContent": "Identify which medication effect creates an immediate risk of injury.",
-   "hintStrategy": "When comparing side effects, prioritize the one that threatens safety now over expected or manageable effects."
+   "hintStrategy": "When comparing side effects, prioritize the one that threatens safety now over expected or manageable effects.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-082",
@@ -2991,21 +3043,22 @@
    "stem": "While transferring a client with a neurogenic bladder and an indwelling catheter from the bed to a wheelchair, assistive personnel (AP) hang the drainage bag on the armrest at chest height. Which action should the nurse take first?",
    "options": [
     "Move the bag below the level of the client's bladder",
-    "Clamp the catheter tubing until the transfer is done",
+    "Remind the AP to keep the tubing free of any kinks",
     "Tell the AP to empty the bag before the next transfer",
-    "Document the event and assess for infection tomorrow"
+    "Check the client's urine for cloudiness or odor"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Keeping the bag below the bladder prevents urine from flowing back into the bladder, which reduces infection risk.",
-    "Incorrect. Clamping the tubing is not a substitute for proper bag position and can block drainage.",
-    "Incorrect. Emptying the bag later does not correct the backflow happening now.",
-    "Incorrect. The position problem must be corrected immediately, not just documented."
+    "Correct. A bag above the bladder lets urine flow back and raises infection risk, so lowering it fixes the problem right away; the other actions are good care but do not correct the position.",
+    "Incorrect. Kink-free tubing is part of catheter care, but it does not fix the backflow from a raised bag.",
+    "Incorrect. An emptier bag reduces backflow, but the bag is still above the bladder right now.",
+    "Incorrect. Monitoring for infection is reasonable later, but assessing first leaves the backflow going."
    ],
-   "rationale": "Catheterization is used for overflow incontinence from retention or a neurogenic bladder, and every indwelling catheter carries infection risk. Basic catheter care means keeping the drainage bag below the level of the bladder so urine cannot flow back, keeping the tubing free of kinks, securing the catheter, and cleaning around the insertion site daily. A bag at chest height lets urine flow backward into the bladder. Clamping the tubing may seem like a quick fix, but it blocks drainage and is not the correct position-based solution.",
+   "rationale": "Catheterization is used for overflow incontinence from retention or a neurogenic bladder, and every indwelling catheter carries infection risk. Basic catheter care means keeping the drainage bag below the level of the bladder so urine cannot flow back, keeping the tubing free of kinks, securing the catheter, and cleaning around the insertion site daily. A bag at chest height lets urine flow backward into the bladder. Checking the tubing or the urine is good care, but the first step is to lower the bag and stop the backflow.",
    "takeaway": "Keep the catheter drainage bag below the level of the bladder at all times to prevent backflow.",
    "hintContent": "Think about which direction urine flows when the bag is higher than the bladder.",
-   "hintStrategy": "When an unsafe practice is happening now, the first action is to correct it immediately, then follow up with teaching."
+   "hintStrategy": "When an unsafe practice is happening now, the first action is to correct it immediately, then follow up with teaching.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-083",
@@ -3023,21 +3076,22 @@
    "stem": "The daughter of an 88-year-old long-term care resident with urge and functional incontinence asks the nurse to \"put in a catheter so Mom stays dry.\" Which response by the nurse is best?",
    "options": [
     "\"I'll ask the provider for a catheter today so she stays dry.\"",
-    "\"A catheter would be best, since her incontinence won't improve at her age.\"",
+    "\"Let's use absorbent briefs and check them every 2 hours instead.\"",
     "\"Catheters raise infection risk, so we'll try scheduled toileting first.\"",
-    "\"We can use a catheter at night only, since that's when she leaks most.\""
+    "\"An external catheter is safer, so I'll ask the provider about one.\""
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Requesting a catheter for convenience exposes the resident to infection without a clear benefit.",
-    "Incorrect. Incontinence is not a normal part of aging, and it often improves with treatment.",
-    "Correct. A catheter is never the first answer just to keep a client dry, because it is a source of infection; behavior therapies are tried first.",
-    "Incorrect. Even part-time catheter use carries infection risk and does not address the cause."
+    "Incorrect. This respects the family's wish, but it exposes the resident to catheter infection without a medical reason.",
+    "Incorrect. Briefs avoid infection risk, but they only contain the urine and skip behavior therapy that can restore continence.",
+    "Correct. Behavior therapy is the first step for urge and functional incontinence, and it avoids the infection risk of a catheter; the other options manage wetness with containment or devices first.",
+    "Incorrect. An external device carries less risk, but devices come after behavior therapies such as scheduled toileting."
    ],
    "rationale": "Treatment for incontinence is a ladder: lifestyle changes and behavior therapies first, then devices and medications, then surgery. A catheter is a source of infection, so it is used only when the benefit clearly outweighs the risk, such as overflow from retention or a neurogenic bladder. For a resident with urge and functional incontinence, scheduled toileting and environmental changes come first. Agreeing to the request may feel respectful of the family, but it places the resident at risk without a medical reason.",
    "takeaway": "A catheter is never the first answer just to keep a client dry; start with behavior therapies.",
    "hintContent": "Consider the main risk of a catheter and where it fits on the treatment ladder.",
-   "hintStrategy": "When a family requests an intervention, weigh it against the client's safety and the evidence-based first step."
+   "hintStrategy": "When a family requests an intervention, weigh it against the client's safety and the evidence-based first step.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-084",
@@ -3069,7 +3123,8 @@
    "rationale": "Anticholinergics such as oxybutynin relax the overactive detrusor and reduce urgency and frequency, so they are used for urge incontinence. Cholinergics such as bethanechol do the opposite: they promote urination and are used for retention. A client with urge incontinence who receives bethanechol could have more contractions and more leaking. Because the names and the bladder link are similar, students often mix the two classes, which is why giving the drug and monitoring for anticholinergic effects is tempting.",
    "takeaway": "Anticholinergics calm the bladder for urge incontinence; cholinergics such as bethanechol promote voiding for retention.",
    "hintContent": "Recall whether bethanechol increases or decreases bladder contractions.",
-   "hintStrategy": "When a drug does not match the diagnosis, the safest action is to clarify the order before giving it."
+   "hintStrategy": "When a drug does not match the diagnosis, the safest action is to clarify the order before giving it.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-085",
@@ -3101,7 +3156,8 @@
    "rationale": "Secondary enuresis means bed-wetting returns after at least 6 months of nighttime control, so the nurse looks for a trigger such as stress, illness, UTI, or constipation. Most enuresis is not caused by a medical disorder, but secondary enuresis with excessive thirst, frequent urination, burning, or signs of distress should not be dismissed. This child's thirst, frequency, and weight loss suggest a possible condition such as diabetes, so she needs prompt evaluation. A bed-wetting alarm is the most effective enuresis treatment, which makes it tempting, but it should not delay the workup.",
    "takeaway": "Secondary enuresis with thirst, frequency, or weight loss needs prompt evaluation, not just reassurance or an alarm.",
    "hintContent": "Notice the symptoms that come along with the bed-wetting.",
-   "hintStrategy": "When a common, benign condition comes with red-flag symptoms, choose the option that leads to evaluation."
+   "hintStrategy": "When a common, benign condition comes with red-flag symptoms, choose the option that leads to evaluation.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-086",
@@ -3161,7 +3217,8 @@
    "rationale": "Scheduled toileting means taking the client to the toilet at regular, fixed intervals, such as every 2 hours, whether or not the client feels the urge. It works well for clients who cannot reliably sense or report the need, such as those with dementia and functional incontinence. Bladder training, which lengthens intervals and suppresses urges, requires a client who can remember and cooperate. Waiting for the resident to ask sounds respectful of her autonomy, which makes it tempting, but she may not be able to recognize the need.",
    "takeaway": "Scheduled toileting uses fixed intervals regardless of urge and fits clients with dementia.",
    "hintContent": "Recall the defining feature of scheduled toileting compared with bladder training.",
-   "hintStrategy": "Match the behavior therapy to the client's cognition, and make sure the delegated task matches the therapy."
+   "hintStrategy": "Match the behavior therapy to the client's cognition, and make sure the delegated task matches the therapy.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-088",
@@ -3178,22 +3235,23 @@
    "focus": "Client Teaching",
    "stem": "A 38-year-old client with multiple sclerosis and overflow incontinence from a bladder that does not empty asks, \"Why can't I just keep a catheter in all the time instead of doing this in-and-out thing?\" Which response by the nurse is best?",
    "options": [
-    "\"An indwelling catheter would drain too slowly to keep your bladder empty.\"",
-    "\"Indwelling catheters are only used for people who are on bed rest.\"",
+    "\"Self-catheterizing lets you stay independent in managing your own care.\"",
+    "\"An indwelling catheter can irritate and injure your urethra over time.\"",
     "\"Nothing stays in, so intermittent catheterization has a lower infection risk.\"",
     "\"Intermittent catheterization will train your bladder to empty again by itself.\""
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. An indwelling catheter drains continuously; slow drainage is not the reason.",
-    "Incorrect. Indwelling catheters are not limited to clients on bed rest.",
-    "Correct. Intermittent catheterization drains the bladder on a schedule and then removes the catheter, so it carries a lower infection risk than a catheter left in place.",
-    "Incorrect. Intermittent catheterization drains the bladder; it is not presented as a way to retrain it."
+    "Incorrect. Independence is a real benefit, but it is not the main reason intermittent catheterization is preferred.",
+    "Incorrect. Long-term catheters can injure the urethra, but infection is the more common and serious risk.",
+    "Correct. Infection is the major risk of any catheter that stays in, so intermittent catheterization is preferred; the other benefits are real but secondary.",
+    "Incorrect. This sounds hopeful, but the purpose is complete, safe emptying, not retraining the bladder."
    ],
    "rationale": "Catheterization is used for overflow incontinence from retention or a neurogenic bladder, where the real problem is a bladder that does not empty. Intermittent catheterization drains the bladder on a schedule and then removes the catheter, and many clients learn to do it themselves. Because nothing stays in, it carries a lower infection risk than an indwelling or suprapubic catheter. The idea that it retrains the bladder is tempting because it sounds hopeful, but its purpose is complete, safe emptying.",
    "takeaway": "Intermittent catheterization empties the bladder with a lower infection risk than an indwelling catheter.",
    "hintContent": "Compare what stays in the body with each type of catheter.",
-   "hintStrategy": "When a client asks why, choose the response that states the true main benefit in plain language."
+   "hintStrategy": "When a client asks why, choose the response that states the true main benefit in plain language.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-089",
@@ -3223,7 +3281,8 @@
    "rationale": "Bladder training gradually lengthens the time between voids, working toward every 3 to 4 hours, to reduce frequency and urgency. When an urge comes before the scheduled time, the client inhibits it, for example with quick Kegel squeezes, slow breathing, and staying still until it passes. A bladder diary tracks progress. Voiding at the first urge is tempting because it avoids a leak in the moment, but it keeps the bladder trained to empty at small volumes.",
    "takeaway": "In bladder training, ride out early urges with quick Kegels, slow breathing, and stillness, then void at the scheduled time.",
    "hintContent": "Recall what the client does with an urge that arrives before the scheduled void.",
-   "hintStrategy": "Choose the option that keeps the therapy on track rather than one that gives short-term relief."
+   "hintStrategy": "Choose the option that keeps the therapy on track rather than one that gives short-term relief.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-090",
@@ -3240,20 +3299,21 @@
    "options": [
     "\"He has secondary enuresis, so we should look for a stressful event.\"",
     "\"Bed-wetting at his age usually means a medical problem with the bladder.\"",
-    "\"Waking him and scolding him after accidents will help him stay dry.\"",
+    "\"Waking him to void once or twice a night will help him stay dry.\"",
     "\"Bed-wetting isn't a concern until after age 7, and most kids outgrow it.\""
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. He has never been dry at night, which is primary, not secondary, enuresis.",
-    "Incorrect. Most often, incontinence in children is not caused by a medical disorder.",
-    "Incorrect. Punishment harms the child's well-being and does not improve enuresis.",
-    "Correct. This is primary enuresis, nighttime wetting is not considered a problem until after age 7, and most children outgrow it as they mature."
+    "Incorrect. Looking for stressors fits secondary enuresis, but this child has never been dry at night, so he has primary enuresis.",
+    "Incorrect. Medical causes are uncommon, and this healthy child with no urinary symptoms does not need a bladder workup.",
+    "Incorrect. Waking him may mean fewer wet beds, but it disrupts sleep, does not teach bladder control, and ignores that his bed-wetting is still expected at this age.",
+    "Correct. Nighttime wetting is not considered a problem until after age 7, and most children outgrow it; this addresses the parents' concern better than habit advice or a workup."
    ],
    "rationale": "Most children gain urinary control between 2 and 5 years, with daytime control before nighttime control. Nighttime bed-wetting is not considered a problem until after age 7, and most children outgrow it. Primary enuresis means the child has never had nighttime control, while secondary enuresis means control returned and was lost after at least 6 months. Calling this secondary enuresis is tempting for students who mix up the terms, but this child has never been dry.",
    "takeaway": "Nighttime wetting is not a problem until after age 7; primary means never dry, secondary means dry for 6+ months, then lost.",
    "hintContent": "Check the child's age against the age at which bed-wetting becomes a concern, and decide whether it is primary or secondary.",
-   "hintStrategy": "For pediatric items, compare the child's age with the developmental norm before choosing any treatment."
+   "hintStrategy": "For pediatric items, compare the child's age with the developmental norm before choosing any treatment.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x2-091",

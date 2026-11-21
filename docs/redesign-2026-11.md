@@ -123,5 +123,16 @@ Verified with full desktop and mobile re-captures, in light and dark mode.
 - The 40 low-overlap parts were reviewed by hand: each is honestly marked as added detail on a slide that names the topic.
 
 **Questions**
-- Unchanged; they're already simple.
+- Unchanged in this pass; they're already simple.
 - Median stem is 35 words, 90% are under 50 words, and no answer option is over 30 words.
+
+## 4. Second pass (November 20, 2026, evening)
+
+Feedback: the lesson column still felt squished; unit names were inconsistent; units should be cards with new ones highlighted; key terms should be cards; the font should be easier to read; more questions should have all-plausible choices.
+
+- **Font:** Atkinson Hyperlegible Next for all text (designed by the Braille Institute for low-vision legibility: distinct letter shapes, open forms). Source Serif 4 stays for headings.
+- **Lesson width:** the reading column grew from 42rem to 60rem (about 960px), body text to 18px, with more space between parts. The outline rail stays on the right.
+- **Unit names:** one "X & Y" pattern everywhere (sidebar, cards, headers): Ethics & Law, Leadership & Quality, Health & Communication, Physiology & Body Systems. The course's own unit and module numbers are kept in the small line above each name.
+- **Cards:** Home shows units as cards (two columns); Learn and unit pages show modules as cards; module pages show lessons as numbered cards. New units and modules have a light green tint and a **New** label.
+- **Key terms:** shown as vocabulary cards (term and plain definition), first 9 with "Show all".
+- **Best-answer questions:** 3,179 single-answer items were reviewed in 112 batches. A writer agent either confirmed that all distractors were already plausible (1,135), rewrote throwaway distractors so each is partly right but less right than the key (1,707), or kept the item as it was where that would create two defensible answers (337). An independent reviewer agent then checked every item for one defensible best answer, clinical accuracy and simplicity, and fixed 285. Stems, keys and answer positions were not changed. When a student misses one of these items, the feedback says that every choice was partly right and points to the per-choice rationales.

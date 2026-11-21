@@ -70,7 +70,8 @@
    "cjmm": "Take Action",
    "focus": "Prioritization",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-mr-002",
@@ -81,17 +82,17 @@
    "options": [
     "Report possible lack of supervision to child protective services.",
     "Assess his airway, breathing, heart rate, and level of consciousness.",
-    "Ask the mother why the pills were within the child’s reach.",
+    "Call poison control for advice on treating this ingestion.",
     "Call the grandmother to find out how many pills are missing."
    ],
    "answer": 1,
    "optionRationales": [
     "Incorrect. A repeat ingestion may need a report, but the child’s physical stability comes first.",
     "Correct. A drowsy, pale toddler after a blood pressure drug ingestion may be unstable; airway and circulation come first.",
-    "Incorrect. This sounds accusatory and does nothing for a child who may be deteriorating.",
+    "Incorrect. Poison control gives useful treatment advice, but a drowsy, pale toddler needs his airway, breathing, and circulation checked before the call.",
     "Incorrect. A pill count helps the poison center and provider, but it comes after the child is assessed."
    ],
-   "rationale": "Poisonings are on the list of events that may need a report, and a second ingestion in a year raises a fair question about supervision. Still, a drowsy, pale toddler who swallowed a blood pressure drug may soon have bradycardia, hypotension, or airway problems. Assessing airway, breathing, circulation, and mental status is the first step, because a report cannot help a child who is crashing. The report to child protective services is the tempting answer, but it is made once the child is safe, per policy. Questions for the family should be open and nonjudgmental.",
+   "rationale": "Poisonings are on the list of events that may need a report, and a second ingestion in a year raises a fair question about supervision. Still, a drowsy, pale toddler who swallowed a blood pressure drug may soon have bradycardia, hypotension, or airway problems. Assessing airway, breathing, circulation, and mental status is the first step, because a report cannot help a child who is crashing. The report to child protective services is the tempting answer, but it is made once the child is safe, per policy. Calling poison control and getting a pill count are useful next steps once the child has been assessed, and questions for the family should be open and nonjudgmental.",
    "takeaway": "In a poisoning, assess and stabilize the child first; then decide on and make any required report.",
    "hintContent": "Which drug class did he swallow, and what can it do to heart rate and blood pressure?",
    "hintStrategy": "If the client has a possible physical threat, an ABC answer beats a reporting or interviewing answer.",
@@ -100,7 +101,8 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Physiological Adaptation"
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "bestAnswer": true
   },
   {
    "id": "m49-mr-003",
@@ -110,14 +112,14 @@
    "stem": "A 4-year-old who has never been vaccinated is brought to a busy pediatric clinic with a high fever, cough, red watery eyes, and a blotchy red rash that started at the hairline. The nurse suspects measles. Several infants are in the waiting room. Which action should the nurse take first?",
    "options": [
     "Call the local health department to report a suspected measles case.",
-    "Ask the parent why the child never received the MMR vaccine.",
+    "Check the child’s temperature, breathing, and oxygen level.",
     "Mask the child and move the family into an airborne-isolation room.",
     "Document the rash pattern and the parent’s vaccine history."
    ],
    "answer": 2,
    "optionRationales": [
     "Incorrect. Measles must be reported promptly, but stopping exposure in the waiting room comes first.",
-    "Incorrect. Vaccine history matters later and should be asked without judgment, not while others are being exposed.",
+    "Incorrect. Assessing vital signs is reasonable, but nothing suggests respiratory distress, and every minute in the open clinic exposes the infants to an airborne virus.",
     "Correct. Measles spreads through the air, so isolating the child first protects the infants and others in the clinic.",
     "Incorrect. Documentation is needed but does nothing to stop airborne spread right now."
    ],
@@ -130,7 +132,8 @@
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "bestAnswer": true
   },
   {
    "id": "m49-mr-004",
@@ -140,18 +143,18 @@
    "stem": "At 0715 on a medical unit, a nurse notices that a coworker who just received report smells strongly of alcohol and has slurred speech. The coworker is drawing up insulin for a client. Which action should the nurse take first?",
    "options": [
     "File a complaint with the Board of Nursing before the shift ends.",
-    "Take the coworker aside and ask how much she drank last night.",
+    "Double-check the insulin dose before the coworker gives it.",
     "Write down the behaviors and times for the incident report.",
     "Tell the charge nurse now so the coworker is removed from client care."
    ],
    "answer": 3,
    "optionRationales": [
     "Incorrect. A Board report may follow per policy, but it does not stop the insulin dose being drawn up now.",
-    "Incorrect. Confronting or investigating alone is unsafe and delays protecting the client.",
+    "Incorrect. A dose check protects this one injection, but it leaves an impaired nurse caring for every client on her assignment.",
     "Incorrect. Objective notes are needed, but documentation comes after client danger is removed.",
     "Correct. Removing an impaired nurse from care protects clients right away and starts the reporting process."
    ],
-   "rationale": "Impaired practice is a Nurse Practice Act violation, and reports of it go to the Board of Nursing. The immediate problem, though, is a client about to receive insulin from a nurse who may be intoxicated. Telling the charge nurse at once gets the coworker off the floor and lets someone safe give the insulin. Filing with the Board is the tempting choice because it is the correct final destination, but it does nothing for the client this morning. Confronting the coworker alone is never the right first move.",
+   "rationale": "Impaired practice is a Nurse Practice Act violation, and reports of it go to the Board of Nursing. The immediate problem, though, is a client about to receive insulin from a nurse who may be intoxicated. Telling the charge nurse at once gets the coworker off the floor and lets someone safe give the insulin. Filing with the Board is the tempting choice because it is the correct final destination, but it does nothing for the client this morning. Double-checking the dose protects one injection but leaves the coworker caring for every other client.",
    "takeaway": "When a nurse appears impaired on duty, first get them out of client care through the charge nurse; the Board report follows policy.",
    "hintContent": "Who is in danger in the next few minutes, and what stops that danger fastest?",
    "hintStrategy": "For unsafe-coworker items, choose protecting clients now over reporting, confronting, or documenting.",
@@ -160,7 +163,8 @@
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-mr-005",
@@ -190,7 +194,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Prioritization",
    "difficulty": 2,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m49-mr-006",
@@ -201,15 +206,15 @@
    "options": [
     "Report the suspected abuse directly to the county department of social services.",
     "Accept the decision, since the supervisor is now responsible for reporting.",
-    "Document the concern in the chart and follow up at the next clinic visit.",
-    "Ask the parent to bring in the space heater so the shape can be compared."
+    "Chart the burn size, shape, and location and the parent’s explanation.",
+    "Ask the provider to delay discharge so the burns can be reassessed."
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. The duty to report suspected child abuse is personal; it is not cancelled by a supervisor’s decision.",
     "Incorrect. Telling a supervisor does not satisfy the nurse’s duty when the report never reaches the agency.",
-    "Incorrect. Waiting sends the child home to possible ongoing abuse without any report.",
-    "Incorrect. Comparing evidence is investigating; the nurse reports suspicion and lets DSS investigate."
+    "Incorrect. Objective charting is needed, but a chart note alone never reaches the agency, and the child goes home within the hour.",
+    "Incorrect. Keeping the child longer is protective for now, but the burns are already suspicious, and no report has been made to the agency."
    ],
    "rationale": "Reports usually travel through the facility chain, but telling a supervisor does not always satisfy the duty. When the chain stops, the nurse must make sure the report reaches the agency. Small round burns on the buttocks do not fit a story of backing into a heater, and that mismatch is reasonable cause to suspect abuse. North Carolina is a universal reporting state, so any person with cause to suspect child maltreatment must report to the county department of social services, and knowingly failing to report is a crime. Deferring to the supervisor is the tempting choice, but it leaves the child unprotected and the nurse still legally responsible.",
    "takeaway": "If the chain of command will not report suspected child abuse, the nurse reports directly to the agency.",
@@ -220,7 +225,8 @@
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-mr-007",
@@ -285,7 +291,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Prioritization",
    "difficulty": 2,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m49-mr-008",
@@ -315,7 +322,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m49-mr-009",
@@ -325,18 +333,18 @@
    "stem": "An 84-year-old man is brought to the emergency department by his son for weakness. The client is thin and has dry mucous membranes. Each time the nurse asks the client a question, the son answers for him and says he “does everything” for his father. The son declines to step out. Which action should the nurse take first?",
    "options": [
     "Report suspected elder abuse to adult protective services right away.",
-    "Ask the son directly whether he has been withholding food or water.",
+    "Ask the son to describe his father’s usual meals and fluid intake.",
     "Arrange to talk with the client alone, such as during a procedure.",
-    "Chart that the son appears to be neglecting the client."
+    "Chart the client’s weight, mucous membranes, and the son’s behavior."
    ],
    "answer": 2,
    "optionRationales": [
     "Incorrect. The cues raise concern, but the nurse first needs the client’s own account to describe the situation.",
-    "Incorrect. Confronting a possible abuser can raise the client’s risk and is not the nurse’s role.",
+    "Incorrect. Intake history matters, but asking the possible abuser gives only his version; the nurse needs the client’s own account.",
     "Correct. A private interview lets the nurse gather the client’s own account before deciding what to report.",
-    "Incorrect. Charting a conclusion is not objective documentation and does not gather data."
+    "Incorrect. Objective charting is good, but it records what is known without gathering the client’s own account of his care."
    ],
-   "rationale": "A caregiver who answers every question and will not leave is a red flag for abuse or neglect, and so are weight loss and dehydration. The cues are not yet clear, though, so the next step is assessment: speak with the client alone, using open questions. Many agencies separate the client by taking him for an X-ray or a private exam. Reporting right away is tempting, but the report will be stronger and more accurate with the client’s own words, and it can follow within minutes if concern is confirmed. Never confront the caregiver or chart conclusions.",
+   "rationale": "A caregiver who answers every question and will not leave is a red flag for abuse or neglect, and so are weight loss and dehydration. The cues are not yet clear, though, so the next step is assessment: speak with the client alone, using open questions. Many agencies separate the client by taking him for an X-ray or a private exam. Reporting right away is tempting, but the report will be stronger and more accurate with the client’s own words, and it can follow within minutes if concern is confirmed. Asking the son for history only gives his version, and charting findings does not add the client’s voice.",
    "takeaway": "When abuse cues are present but unclear, interview the client alone first, then report if suspicion holds.",
    "hintContent": "Whose story has the nurse not heard yet?",
    "hintStrategy": "Assess before you act unless there is an emergency; an interview alone is the assessment step in suspected abuse.",
@@ -345,7 +353,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Assessment Findings",
    "difficulty": 3,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m49-mr-010",
@@ -407,15 +416,15 @@
    "options": [
     "Assess the client’s pain and notify the provider that it is not controlled.",
     "Report RN K. to the Board of Nursing for suspected drug diversion.",
-    "Call RN K. at home to ask about each of the doses she gave overnight.",
-    "Check RN K.’s locker for hidden vials before the next shift begins."
+    "Give the next prescribed dose now and have a witness for any waste.",
+    "Ask pharmacy to audit the overnight hydromorphone transactions."
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. The client is in pain now, so assessing and getting relief comes before any report about the coworker.",
     "Incorrect. The pattern needs reporting through policy, but the client’s uncontrolled pain is the first need.",
-    "Incorrect. Confronting a coworker alone is not appropriate and does nothing for the client.",
-    "Incorrect. Searching is investigating, which is the agency’s role, and may violate policy."
+    "Incorrect. A witnessed dose may help, but the nurse must first assess the pain, and the provider needs to know the regimen has failed.",
+    "Incorrect. An audit is a fair later step in a diversion review, but it does nothing for the client in pain right now."
    ],
    "rationale": "The exhibit shows a classic diversion pattern: unwitnessed wastes and no pain relief after each documented dose. Diversion is a Nurse Practice Act violation and must be reported to the supervisor and, per policy, the Board of Nursing. The first priority, however, is the client, who is in pain right now and may not have received his medication. The nurse assesses his pain and tells the provider it is not controlled, then reports the pattern with facts and dates to the charge nurse or supervisor. Reporting to the Board is tempting, but the client’s need comes first.",
    "takeaway": "In suspected diversion, care for the affected client first, then report facts through the supervisor and Board process.",
@@ -426,7 +435,8 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Pharmacology",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-mr-011",
@@ -456,7 +466,8 @@
    "cjmm": "Take Action",
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m49-mr-012",
@@ -467,14 +478,14 @@
    "options": [
     "Report suspected abuse to child protective services right away.",
     "Ask the mother how the child got the marks on his back.",
-    "Have the assistant photograph the marks with her phone.",
+    "Ask the assistant to describe the size and location of the marks.",
     "Examine the child’s back and document what the marks look like."
    ],
    "answer": 3,
    "optionRationales": [
     "Incorrect. A report will likely follow, but the RN first assesses what the assistant described; this takes minutes.",
     "Incorrect. Questioning the caregiver in an accusatory way can put the child at risk.",
-    "Incorrect. Assessment cannot be delegated, and a personal phone photo breaches privacy.",
+    "Incorrect. More detail from the assistant is helpful, but assessment belongs to the RN, who must see the marks before reporting.",
     "Correct. The RN assesses the marks personally so the report contains accurate, objective findings."
    ],
    "rationale": "Small round lesions can be cigarette burns, but they can also be impetigo, insect bites, or cupping marks, so the RN must see them. Assessment belongs to the RN and cannot be delegated to the assistant. Examining and measuring the marks takes only minutes and gives the report accurate, objective facts. Reporting right away is tempting because suspicion is enough, but the RN has not yet seen anything and the child is not in immediate danger in the hospital. If the marks look like burns, the RN reports promptly without waiting for proof.",
@@ -486,7 +497,8 @@
    "cjmm": "Recognize Cues",
    "focus": "Delegation & Safety",
    "difficulty": 3,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m49-mr-013",
@@ -516,7 +528,8 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-mr-014",
@@ -526,18 +539,18 @@
    "stem": "A nurse has just reported suspected abuse of a 10-month-old with several rib fractures to the county department of social services. The infant’s father learns of the report, becomes angry, and starts carrying the infant toward the exit. Which action should the nurse take first?",
    "options": [
     "Notify security and the charge nurse according to facility policy.",
-    "Stand in front of the door to block the father from leaving.",
-    "Explain to the father who made the report and why it was made.",
+    "Call the county agency to request emergency protective custody.",
+    "Calmly ask the father to wait so the provider can talk with him.",
     "Let the father leave and update the agency by phone afterward."
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. Trained staff and the agency can act to keep the infant safe without putting the nurse or infant at risk.",
-    "Incorrect. Physically blocking an angry parent can injure the nurse or infant and is not the nurse’s role.",
-    "Incorrect. The reporter’s identity is kept from the suspected abuser, and this may escalate the anger.",
+    "Incorrect. Protective custody may be needed, but the agency cannot act in the next minute; security can respond while the father is still in the building.",
+    "Incorrect. A calm request is a reasonable first try, but it relies on an angry father’s cooperation and does not bring help to protect the infant.",
     "Incorrect. Letting a possibly abused infant leave without alerting anyone abandons the child’s safety."
    ],
-   "rationale": "After a report is made, the nurse still has to keep the child as safe as possible. Facility policy typically calls for security and the charge nurse, who can involve law enforcement or the agency for protective custody if needed. The nurse should not physically restrain or block a parent, which can harm the nurse or the infant. Explaining who reported is tempting as a way to calm the father, but the reporter’s identity is protected and the explanation may make him angrier. Letting the infant go without alerting anyone fails the child.",
+   "rationale": "After a report is made, the nurse still has to keep the child as safe as possible. Facility policy typically calls for security and the charge nurse, who can respond at once and involve law enforcement or the agency for protective custody if needed. Calling the agency directly is reasonable but too slow while the father is walking out. Calmly asking him to wait is worth trying, but it depends on his cooperation and brings no help. The nurse should never physically block a parent, and the reporter’s identity is protected. Letting the infant go without alerting anyone fails the child.",
    "takeaway": "When a parent tries to remove a child after an abuse report, notify security and the charge nurse per policy rather than confront or block.",
    "hintContent": "Who in the facility is trained and authorized to handle an angry parent leaving with a child?",
    "hintStrategy": "Pick the option that protects the client and staff through the proper system, not one the nurse handles alone by force.",
@@ -546,7 +559,8 @@
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "bestAnswer": true
   },
   {
    "id": "m49-mr-015",
@@ -576,7 +590,8 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-mr-016",
@@ -606,7 +621,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Lifespan & Diversity",
    "difficulty": 3,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m49-mr-017",
@@ -618,14 +634,14 @@
     "“I promise this stays between us, so you can trust me with anything.”",
     "“I can’t keep this secret. I need to tell people whose job is to keep you safe.”",
     "“Let’s wait until you feel ready, and we can talk again at your next visit.”",
-    "“Why didn’t you tell your mother about this before today, when it started?”"
+    "“Thank you for telling me. You were very brave to share this with me.”"
    ],
    "answer": 1,
    "optionRationales": [
     "Incorrect. The nurse cannot keep this promise; breaking it later destroys trust.",
     "Correct. It is honest about the duty to report while keeping the focus on her safety.",
     "Incorrect. Waiting leaves her in danger and ignores the legal duty to report now.",
-    "Incorrect. A “why” question sounds blaming and may make her stop talking."
+    "Incorrect. Praising her courage is supportive, but it avoids her request and leaves her believing the nurse may keep the secret."
    ],
    "rationale": "Mandatory reporting overrides confidentiality, so a nurse must never promise to keep abuse a secret. The best response is honest, kind, and centered on the teen’s safety, and it explains that others will help protect her. Promising secrecy is tempting because it seems to build trust, but the nurse would have to break that promise, which harms trust far more. Delaying the report leaves the teen exposed to more abuse. After responding, the nurse reports to child protective services and documents her exact words.",
    "takeaway": "Never promise secrecy about abuse; be honest that you must report so the client can be kept safe.",
@@ -636,7 +652,8 @@
    "cjmm": "Take Action",
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m49-mr-018",
@@ -676,14 +693,14 @@
    "stem": "A clinic nurse plans to report suspected physical abuse of a 79-year-old client to adult protective services. A coworker warns, “If you share her chart without her written permission, that’s a HIPAA violation.” Which response by the nurse is correct?",
    "options": [
     "“You’re right. I’ll get her signed authorization before I report.”",
-    "“HIPAA doesn’t apply to clients over 65, so I can share her whole chart.”",
+    "“HIPAA allows the report, so I can send her full chart to the agency.”",
     "“HIPAA allows disclosures required by law; I’ll share only what is needed.”",
     "“I’ll report without giving her name, so no protected information is shared.”"
    ],
    "answer": 2,
    "optionRationales": [
     "Incorrect. Written authorization is not needed for a disclosure the law requires.",
-    "Incorrect. HIPAA protects clients of every age, and sharing the whole chart exceeds what the report needs.",
+    "Incorrect. The report is permitted, but sending the full chart breaks the minimum necessary rule; only what the agency needs is shared.",
     "Correct. Required abuse reports are permitted, and the nurse limits the details to what the agency needs.",
     "Incorrect. An anonymous client report cannot be investigated and does not protect her."
    ],
@@ -696,7 +713,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-mr-020",
@@ -706,18 +724,18 @@
    "stem": "A 19-year-old walks into urgent care with a 4-cm cut on his forearm. He says, “I fell on some glass,” but the wound edges are clean and straight, and his friend mentions “that fight.” Bleeding is controlled. After the wound is cleaned, which action by the nurse is most appropriate?",
    "options": [
     "Accept his account, since a stab wound is reportable only if he admits it.",
-    "Tell him the wound pattern shows that he is not telling the truth.",
-    "Chart that the client was stabbed during a fight and is being dishonest.",
+    "Call the police now, since the wound looks like a stab wound to the nurse.",
+    "Chart that the wound appears to be a knife wound from a recent fight.",
     "Chart his exact words and the wound findings, and follow injury-report policy."
    ],
    "answer": 3,
    "optionRationales": [
     "Incorrect. Reporting rules depend on the injury and state law, not on the client’s admission.",
-    "Incorrect. Confronting the client is not the nurse’s role and harms the relationship.",
-    "Incorrect. This charts conclusions and opinions rather than objective findings.",
+    "Incorrect. A report may be required, but facility policy decides who reports and when, and the nurse first needs objective documentation.",
+    "Incorrect. Charting the wound is right, but “knife wound from a fight” is an interpretation, not the measured findings and quoted words.",
     "Correct. Objective charting and the facility policy decide whether and how the injury is reported."
    ],
-   "rationale": "Stab wounds and injuries from violence are on the reportable list, but the rules vary by state, and not every listed injury is automatically reportable. The nurse’s job is to give care, chart objectively, and follow the facility’s policy, which tells staff who decides and who calls. Charting the client’s exact words and the wound’s size, location, and appearance creates a record that may matter in court. Accepting his story is tempting, but reporting rules do not depend on a confession. Calling him a liar, in person or in the chart, is never appropriate.",
+   "rationale": "Stab wounds and injuries from violence are on the reportable list, but the rules vary by state, and not every listed injury is automatically reportable. The nurse’s job is to give care, chart objectively, and follow the facility’s policy, which tells staff who decides and who calls. Charting the client’s exact words and the wound’s size, location, and appearance creates a record that may matter in court. Accepting his story is tempting, but reporting rules do not depend on a confession. Calling police on the nurse’s own judgment skips policy, and charting “knife wound from a fight” records a conclusion instead of findings.",
    "takeaway": "For a possible violent injury, give care, chart exact words and objective findings, and follow the facility’s reportable-injury policy.",
    "hintContent": "Does the client’s explanation decide whether an injury is reportable?",
    "hintStrategy": "Choose objective, policy-based actions; avoid options that judge, accuse, or accept a story at face value.",
@@ -726,7 +744,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Nursing Interventions",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-mr-021",
@@ -735,14 +754,14 @@
    "priority": false,
    "stem": "Near the end of a night shift, an experienced nurse asks a newly licensed nurse to co-sign the waste of 0.5 mg of hydromorphone. The new nurse did not see it wasted. The coworker says, “I already squirted it in the sink. Just sign; it’s fine.” Which action by the new nurse is best?",
    "options": [
-    "Sign the waste, since an experienced nurse vouched for the amount.",
+    "Ask the coworker to show the empty syringe, and then sign the waste.",
     "Refuse to sign and report the request to the charge nurse or supervisor.",
     "Sign the waste but add a note that it was not directly observed.",
     "Refuse to sign but keep the request private to protect the coworker."
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Signing for an unwitnessed waste is falsifying a record.",
+    "Incorrect. Seeing an empty syringe seems like proof, but it does not show how much was wasted or where, so signing still falsifies the record.",
     "Correct. The new nurse protects the record and reports a possible diversion concern through the chain.",
     "Incorrect. A signature still claims a witness; a note does not fix a false co-signature.",
     "Incorrect. Refusing is right, but staying silent hides a possible violation that puts clients at risk."
@@ -756,7 +775,8 @@
    "cjmm": "Take Action",
    "focus": "Pharmacology",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-mr-022",
@@ -802,17 +822,17 @@
    "options": [
     "Report possible neglect to adult protective services and arrange more support.",
     "Teach the husband turning and incontinence care, and recheck in 1 week.",
-    "Ask a neighbor to help the husband until the next scheduled visit.",
-    "Reassure the husband that he is doing his best and no report is needed."
+    "Arrange aide visits and a hospital bed through the home health agency.",
+    "Notify the provider about the new pressure injury and the weight loss."
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. Her needs are not being met, so a report is required, and support can help the overwhelmed husband.",
     "Incorrect. Teaching cannot fix a caregiver who physically cannot lift her, and it does not replace a report.",
-    "Incorrect. An informal helper is not a safe plan and leaves her unprotected.",
-    "Incorrect. Neglect is reportable even when the caregiver means well."
+    "Incorrect. More help at home is needed, but these signs of neglect require a report to adult protective services, not support alone.",
+    "Incorrect. The provider should know, but notifying the provider treats the wound and weight loss without addressing the neglect that caused them."
    ],
-   "rationale": "Neglect means a caregiver is not providing needed food, hygiene, medicine, or safety, and it is reportable whether or not the caregiver intends harm. This client has a new pressure injury, weight loss, missed medications, and soiled linens, and her husband cannot physically care for her. Reporting to adult protective services, along with arranging more home support, protects her and also helps him. Teaching the husband is the tempting choice because he is willing, but teaching cannot replace a report or give an 88-year-old the strength to lift her. A report is not a punishment; it brings services.",
+   "rationale": "Neglect means a caregiver is not providing needed food, hygiene, medicine, or safety, and it is reportable whether or not the caregiver intends harm. This client has a new pressure injury, weight loss, missed medications, and soiled linens, and her husband cannot physically care for her. Reporting to adult protective services, along with arranging more home support, protects her and also helps him. Teaching the husband is the tempting choice because he is willing, but teaching cannot give an 88-year-old the strength to lift her. Adding services or calling the provider helps, but neither replaces the report. A report is not a punishment; it brings services.",
    "takeaway": "Caregiver neglect is reportable even when unintentional; report and arrange support rather than relying on teaching.",
    "hintContent": "Does neglect require that the caregiver mean to cause harm?",
    "hintStrategy": "Teaching is wrong when the stem shows harm already happening and a caregiver who cannot do the task.",
@@ -821,7 +841,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Lifespan & Diversity",
    "difficulty": 3,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m49-mr-023",
@@ -832,15 +853,15 @@
    "options": [
     "Call the police, because injuries from violence must always be reported.",
     "Assess her immediate safety, help with a safety plan, and offer resources.",
-    "Invite the partner in so the couple can talk about what happened.",
-    "Tell her the nurse cannot help unless she agrees to press charges."
+    "Give her a hotline number and respect her wish not to report the abuse.",
+    "Encourage her to call the police herself before she leaves the hospital."
    ],
    "answer": 1,
    "optionRationales": [
     "Incorrect. Not every injury from violence is automatically reportable; a competent adult’s wishes guide this case.",
     "Correct. This respects a competent adult’s choice while addressing her safety.",
-    "Incorrect. Involving the abuser can raise her risk and breaks her confidence.",
-    "Incorrect. Care and support do not depend on pressing charges."
+    "Incorrect. Respecting her choice and giving resources are right, but it skips assessing whether she is safe to go home today.",
+    "Incorrect. Encouraging her own report is supportive, but she said she is not ready, and it does not assess her safety or plan."
    ],
    "rationale": "Mandatory reporting laws mainly protect people who cannot protect themselves, such as children and vulnerable adults. A competent adult injured by a partner is different: in most states, the nurse does not report against her wishes unless a specific law requires it, such as for a gunshot wound. The nurse assesses her immediate safety, helps her plan, offers domestic violence resources, and documents objectively. Calling the police is tempting because injuries from violence are on the reportable list, but that list varies by state and situation, and this case involves a minor injury without a weapon. Respecting her choice keeps the door open for her to seek help.",
    "takeaway": "For a competent adult experiencing partner violence, support her safety and choices unless a specific law requires a report.",
@@ -851,7 +872,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Nursing Interventions",
    "difficulty": 3,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m49-mr-024",
@@ -892,19 +914,19 @@
    "priority": false,
    "stem": "A nurse is documenting findings on a 72-year-old woman admitted from home who may be a victim of abuse. Which entry is most appropriate?",
    "options": [
-    "“Client is being abused by her daughter, who seems hostile to staff.”",
-    "“Bruises on both arms, probably from rough handling at home.”",
-    "“Multiple old and new bruises consistent with elder abuse noted.”",
+    "“Bruises noted on the left upper arm. Client says her daughter hurts her sometimes.”",
+    "“Bruises on both upper arms, probably from rough handling by family at home.”",
+    "“Multiple old and new bruises on both arms consistent with elder abuse noted.”",
     "“Three oval purple bruises, 2 cm each, inner left upper arm. States, ‘She squeezes me.’”"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. This states a conclusion and an opinion rather than observed facts.",
+    "Incorrect. This is factual and quotes the client in part, but it lacks size, color, and exact location, and paraphrases instead of using her exact words.",
     "Incorrect. “Probably” is a guess, and the description lacks size, color, and location.",
     "Incorrect. “Consistent with elder abuse” is an interpretation, not an objective finding.",
     "Correct. It describes size, color, and location objectively and quotes the client’s exact words."
    ],
-   "rationale": "Documentation in suspected abuse may be used by investigators and in court, so it must read like a camera: what the nurse saw and heard, not what the nurse thinks it means. Good entries give the size, color, shape, and exact location of injuries and quote the client’s words. The tempting wrong answer says the bruises are “consistent with elder abuse,” which sounds professional but is still an interpretation. Labels like “abused” or “hostile” are conclusions that could be challenged. Objective charting supports the report and protects the nurse.",
+   "rationale": "Documentation in suspected abuse may be used by investigators and in court, so it must read like a camera: what the nurse saw and heard, not what the nurse thinks it means. Good entries give the size, color, shape, and exact location of injuries and quote the client’s words. The tempting wrong answer says the bruises are “consistent with elder abuse,” which sounds professional but is still an interpretation. A vague entry that paraphrases the client is factual but too incomplete to help an investigator. Objective charting supports the report and protects the nurse.",
    "takeaway": "Chart suspected abuse objectively: measurements, colors, locations, and the client’s exact words, never conclusions.",
    "hintContent": "Which entry could another nurse verify just by looking and listening?",
    "hintStrategy": "In documentation items, pick the entry with measurable details and direct quotes; reject labels and guesses.",
@@ -913,7 +935,8 @@
    "cjmm": "Take Action",
    "focus": "Assessment Findings",
    "difficulty": 2,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m49-mr-026",
@@ -955,14 +978,14 @@
     "“You’re right. I’ll talk to her privately and give her a chance to stop.”",
     "“I’ll wait until pharmacy proves it before I say anything to anyone.”",
     "“Clients are at risk, and many boards offer treatment instead of discipline.”",
-    "“The Board only punishes nurses, so she will just have to face that.”"
+    "“I have to report it, even if it means she loses her nursing license.”"
    ],
    "answer": 2,
    "optionRationales": [
     "Incorrect. Handling it privately leaves clients at risk and the violation unreported.",
     "Incorrect. The nurse reports facts and patterns; proof is the investigators’ job.",
     "Correct. Reporting protects clients, and alternative-to-discipline programs can get the nurse help.",
-    "Incorrect. The Board protects the public and often offers monitored treatment programs."
+    "Incorrect. The duty to report is stated correctly, but it accepts the false belief that she will lose her license and misses the chance to explain treatment options."
    ],
    "rationale": "Drug diversion is a Nurse Practice Act violation, and reports of impaired or unsafe practice go to the Board of Nursing through facility policy. The Board’s purpose is to protect the public, and many boards, including North Carolina’s, offer alternative-to-discipline programs that combine treatment and monitoring for nurses with substance use disorders. Reporting can therefore be the step that gets the colleague help. Talking to her privately is tempting because it feels kind, but it leaves clients without pain relief and puts the reporting nurse’s own license at risk. The nurse reports facts, not proof.",
    "takeaway": "Report suspected diversion; Board alternative-to-discipline programs can protect clients and help the nurse recover.",
@@ -975,7 +998,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Client Teaching",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-mr-028",
@@ -985,15 +1009,15 @@
    "stem": "A client being treated for a gunshot wound to the shoulder grabs the nurse’s arm and says, “Please don’t call the cops. I’ll get in trouble.” Which response by the nurse is best?",
    "options": [
     "“I won’t call anyone. What you tell me stays between the two of us.”",
-    "“If you tell me who shot you, I won’t need to report the wound.”",
-    "“If you don’t want police involved, you’ll need to leave the hospital.”",
+    "“I can see you’re scared. Let’s focus on caring for your shoulder.”",
+    "“The doctor decides about reporting, so please ask the doctor about it.”",
     "“The law requires us to report gunshot wounds. We’ll keep caring for you.”"
    ],
    "answer": 3,
    "optionRationales": [
     "Incorrect. The nurse cannot promise this; gunshot wounds are generally required to be reported.",
-    "Incorrect. Reporting does not depend on the client’s information, and this is a false bargain.",
-    "Incorrect. Threatening to withhold care is unethical and unsafe.",
+    "Incorrect. Acknowledging fear is supportive, but it dodges his question; honesty about the required report keeps trust.",
+    "Incorrect. The provider can discuss it, but the nurse can answer honestly now, and deflecting leaves the client uncertain and anxious.",
     "Correct. It is honest about the legal duty and reassures the client that care continues."
    ],
    "rationale": "Most states require hospitals to report gunshot wounds to law enforcement, and gunshot wounds head the list of reportable injuries. The nurse must be honest and should never promise secrecy that the law does not allow. Explaining the requirement calmly and reassuring the client that care will continue keeps trust and safety in place. Promising not to call is tempting because it calms the client, but it is a promise the nurse cannot keep. The report itself is made per facility policy.",
@@ -1005,7 +1029,8 @@
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "difficulty": 2,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m49-mr-029",
@@ -1016,17 +1041,17 @@
    "options": [
     "Take the concern up the chain of command and follow policy for a Board report.",
     "Accept the manager’s plan, because the manager now owns the problem.",
-    "Confront the coworker and tell her she must start treatment right away.",
-    "Warn the other nurses about the coworker in the staff group chat."
+    "Document what was found, with the times, in a factual incident report.",
+    "Ask the manager to have the coworker drug tested before her next shift."
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. Impairment and possible diversion are Board matters, so the nurse goes up the chain when a manager stops the report.",
     "Incorrect. Telling a manager does not satisfy every reporting duty, especially for Board-level violations.",
-    "Incorrect. Confronting a possibly impaired nurse alone is unsafe and does not reach the Board.",
-    "Incorrect. This spreads private information and may be defamation; it is not a report."
+    "Incorrect. A factual report is needed, but documentation stays inside the facility and does not get the matter to the Board.",
+    "Incorrect. Testing may be part of the facility process, but it still leaves the Board report undone after the manager declined."
    ],
-   "rationale": "Impairment and drug diversion are Nurse Practice Act violations that must be reported to the Board of Nursing, not handled only by the employer. In North Carolina, conduct problems like these go to the Board, which may offer an alternative-to-discipline program. When a manager declines to report, the nurse follows the chain of command to the next level, such as the director of nursing, and follows facility policy so the Board report is made. Accepting the manager’s plan is tempting because reporting usually travels through the chain, but notifying a supervisor is not enough when the chain stops. Gossip and confrontation are never substitutes for a report.",
+   "rationale": "Impairment and drug diversion are Nurse Practice Act violations that must be reported to the Board of Nursing, not handled only by the employer. In North Carolina, conduct problems like these go to the Board, which may offer an alternative-to-discipline program. When a manager declines to report, the nurse follows the chain of command to the next level, such as the director of nursing, and follows facility policy so the Board report is made. Accepting the manager’s plan is tempting because reporting usually travels through the chain, but notifying a supervisor is not enough when the chain stops. Documentation and drug testing help but are not substitutes for a report.",
    "takeaway": "If a manager won’t report a Nurse Practice Act violation, go up the chain of command so the Board report is made.",
    "hintContent": "Who protects the public from an impaired nurse: the employer alone or the Board?",
    "hintStrategy": "When a supervisor blocks a required report, the answer moves up the chain; it never drops the issue or goes around it informally.",
@@ -1037,7 +1062,8 @@
    "cjmm": "Evaluate Outcomes",
    "focus": "Delegation & Safety",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-mr-030",

@@ -287,7 +287,8 @@
    "cjmm": "Take Action",
    "focus": "Prioritization",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Physiological Adaptation"
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "bestAnswer": true
   },
   {
    "id": "m45-pro-002",
@@ -327,18 +328,18 @@
    "stem": "The charge nurse is reviewing care on a medical unit. Which action by a staff nurse best demonstrates evidence-based practice?",
    "options": [
     "Following the fall-prevention routine the most experienced nurse on the unit has always used",
-    "Applying a fall-prevention method described in a recent social media post by a nurse influencer",
+    "Applying the unit’s fall-prevention bundle exactly as written for every client on the unit",
     "Placing bed alarms for every client on the unit because one client fell the previous week",
     "Using the unit’s fall-prevention bundle, tailored to the client’s gait and preferred toileting times"
    ],
    "answer": 3,
    "optionRationales": [
     "Incorrect. Experience is valuable, but a routine based on habit rather than current evidence is tradition, not EBP.",
-    "Incorrect. A social media post is not appraised evidence; it may be inaccurate and is not a substitute for research or guidelines.",
+    "Incorrect. The bundle is current evidence, but applying it the same way to every client leaves out the nurse’s assessment and the client’s preferences, so it is only one part of EBP.",
     "Incorrect. One event is a case, not evidence; applying an intervention to all clients without assessment ignores clinical judgment and preference.",
     "Correct. This integrates current evidence (the bundle), clinical expertise (gait assessment), and client preference (toileting times)."
    ],
-   "rationale": "EBP is demonstrated when a nurse combines the best available evidence with individualized assessment and the client’s preferences. The fall bundle is evidence-based; adapting it to gait findings shows clinical expertise; scheduling toileting at preferred times honors the client. The experienced nurse’s routine is tempting because experience is one leg of EBP, but without current evidence it is tradition. Social media and single events are not appraised evidence.",
+   "rationale": "EBP is demonstrated when a nurse combines the best available evidence with individualized assessment and the client’s preferences. The fall bundle is evidence-based; adapting it to gait findings shows clinical expertise; scheduling toileting at preferred times honors the client. The experienced nurse’s routine is tempting because experience is one leg of EBP, but without current evidence it is tradition. Using the bundle exactly as written for everyone is evidence without individualization, and reacting to a single fall is not appraised evidence.",
    "takeaway": "The best EBP answer includes evidence, assessment-based judgment, and client preference together.",
    "hintContent": "Which option uses all three legs of the EBP stool?",
    "hintStrategy": "Check each option for the three components; the option that contains only one or two is a distractor.",
@@ -347,7 +348,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "bestAnswer": true
   },
   {
    "id": "m45-pro-004",
@@ -358,17 +360,17 @@
    "options": [
     "“Thank you for telling me. I’ll let your provider know, and we can talk about treatment options that fit your beliefs.”",
     "“The research on transfusion is very strong, so I’d like you to reconsider before your blood count drops even further.”",
-    "“Would it help if I asked your family to come in and talk with you about whether to accept it?”",
-    "“If you refuse the transfusion, the team will not be able to keep treating your anemia at all.”"
+    "“Would it help if I asked your family to come in and talk with you about whether to accept the blood?”",
+    "“I respect your choice. I will document in your medical record that you have declined the blood transfusion.”"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. This respects autonomy, communicates the refusal to the provider, and opens discussion of acceptable evidence-based alternatives.",
     "Incorrect. Pressuring the client with evidence disregards the client-preference component of EBP and the right to refuse.",
     "Incorrect. Involving family to change a capable adult’s decision is coercive and does not honor the client’s stated choice.",
-    "Incorrect. This is false and threatening; other treatments and blood-conservation strategies remain available."
+    "Incorrect. Respecting and documenting the refusal is appropriate, but it is incomplete: the provider must be notified and acceptable alternatives explored so the anemia is still treated."
    ],
-   "rationale": "Client preferences, including religious beliefs, are one of the three components of EBP, and a capable adult has the right to refuse treatment. The nurse’s role is to acknowledge the decision, notify the provider, ensure the client is informed, and help identify alternatives the client will accept, such as blood-conservation strategies. Restating the strength of the evidence is tempting because it sounds like advocacy, but it pressures the client and disregards autonomy. Threatening withdrawal of care is false and unethical.",
+   "rationale": "Client preferences, including religious beliefs, are one of the three components of EBP, and a capable adult has the right to refuse treatment. The nurse’s role is to acknowledge the decision, notify the provider, ensure the client is informed, and help identify alternatives the client will accept, such as blood-conservation strategies. Restating the strength of the evidence is tempting because it sounds like advocacy, but it pressures the client and disregards autonomy. Simply documenting the refusal is respectful but incomplete, because the provider must know and alternatives must be explored.",
    "takeaway": "Honoring an informed refusal is part of EBP: acknowledge, inform the provider, and offer acceptable alternatives.",
    "hintContent": "Whose values are the third leg of EBP, and does a capable adult have to accept recommended care?",
    "hintStrategy": "For therapeutic-response items, choose the option that acknowledges the client’s feelings or decision and moves toward a collaborative next step.",
@@ -377,7 +379,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m45-pro-005",
@@ -427,18 +430,18 @@
    "stem": "A nurse continues to use a wound-irrigation technique that the facility retired 2 years ago after evidence showed it delays healing. The client’s wound deteriorates and the client files a lawsuit. Which factor will be most important in determining whether the nurse was negligent?",
    "options": [
     "Whether the technique was common on the unit in the past",
-    "Whether the nurse intended to help the client heal",
+    "Whether the nurse documented each irrigation completely",
     "Whether the nurse’s care met the current standard of care",
-    "Whether the client signed a general consent on admission"
+    "Whether the client was told the risks of the irrigation"
    ],
    "answer": 2,
    "optionRationales": [
     "Incorrect. Past popularity does not define today’s standard; the retired technique no longer reflects accepted practice.",
-    "Incorrect. Good intentions do not excuse deviation from the standard of care that causes harm.",
+    "Incorrect. Complete documentation is important evidence in a lawsuit, but accurately charting a substandard technique does not make the care meet the standard.",
     "Correct. Negligence and malpractice are judged against what a reasonably prudent nurse would do under current standards, which reflect current evidence.",
-    "Incorrect. General consent does not authorize substandard care or shield the nurse from negligence."
+    "Incorrect. Telling the client the risks matters for consent, but disclosure does not make an outdated technique acceptable; negligence is judged against the current standard of care."
    ],
-   "rationale": "Professional standards of care are built from clinical knowledge, expert opinion, and research. When evidence changes and the standard changes, continuing a retired practice is a deviation from the standard, and deviation that causes harm can constitute malpractice. The past popularity of a technique is tempting because nurses learned it, but standards are judged by current accepted practice. Intent and general consent do not determine whether care met the standard.",
+   "rationale": "Professional standards of care are built from clinical knowledge, expert opinion, and research. When evidence changes and the standard changes, continuing a retired practice is a deviation from the standard, and deviation that causes harm can constitute malpractice. The past popularity of a technique is tempting because nurses learned it, but standards are judged by current accepted practice. Thorough documentation and telling the client the risks do not make an outdated technique meet the standard.",
    "takeaway": "The standard of care evolves with the evidence; continuing a retired practice can be malpractice.",
    "hintContent": "Malpractice is measured against what yardstick?",
    "hintStrategy": "For legal items, look for the reasonably prudent nurse standard rather than intentions, habits, or paperwork.",
@@ -447,7 +450,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m45-pro-007",
@@ -509,7 +513,8 @@
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m45-pro-009",
@@ -613,7 +618,8 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Reduction of Risk Potential"
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "bestAnswer": true
   },
   {
    "id": "m45-pro-011",
@@ -624,17 +630,17 @@
    "options": [
     "Ask the case manager and provider about a covered dressing with comparable evidence",
     "Teach the client to use plain dry gauze instead and document the teaching",
-    "Explain that healing depends on the hospital dressing, so the client should buy it",
-    "Delay the discharge until the client can make arrangements to pay for the dressing"
+    "Send the client home with a few days’ supply of the hospital dressing to use",
+    "Teach the client how to change the dressing and report signs of infection"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. This advocates for high-value care that the client can actually obtain while keeping the plan evidence based.",
     "Incorrect. Substituting a dressing without the provider or evidence review may compromise healing and exceeds an independent nursing change.",
-    "Incorrect. This ignores the client’s resources and is unlikely to result in adherence.",
-    "Incorrect. Delaying a medically ready discharge for cost reasons is not appropriate and adds cost and risk."
+    "Incorrect. A short supply helps right after discharge, but it only delays the problem; the wound needs a dressing the client can keep getting.",
+    "Incorrect. Dressing-change and infection teaching are needed before discharge, but they do not solve the cost barrier that will keep the client from getting the dressing."
    ],
-   "rationale": "Cost containment is part of evidence-based care: nurses consider availability and reimbursement while advocating for high-value interventions. An evidence-based dressing the client cannot obtain will not heal the wound, so the best action is to work with the case manager and provider to find an effective, covered option. Teaching gauze alone is tempting because it seems practical, but changing the plan independently may compromise healing and bypasses the provider. Delaying discharge or insisting the client pay ignores the client’s resources.",
+   "rationale": "Cost containment is part of evidence-based care: nurses consider availability and reimbursement while advocating for high-value interventions. An evidence-based dressing the client cannot obtain will not heal the wound, so the best action is to work with the case manager and provider to find an effective, covered option. Teaching gauze alone is tempting because it seems practical, but changing the plan independently may compromise healing and bypasses the provider. A few days’ supply or dressing teaching is helpful but does not solve the cost barrier.",
    "takeaway": "High-value EBP considers cost and access; collaborate to find an effective option the client can actually use.",
    "hintContent": "What is the use of evidence the client can’t afford to follow?",
    "hintStrategy": "Prefer collaborative, advocacy-based actions over independent plan changes or responses that dismiss the client’s barrier.",
@@ -643,7 +649,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Nursing Interventions",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m45-pro-012",
@@ -724,19 +731,19 @@
    "priority": false,
    "stem": "A client scheduled for elective spinal surgery tells the nurse, “I’d like another surgeon to look at my scans first, but I don’t want to offend my doctor.” Which response by the nurse is most appropriate?",
    "options": [
-    "“Your surgeon is very experienced, so a second opinion is probably not necessary for this surgery.”",
-    "“You should not worry; surgeons are used to clients asking for second opinions.”",
+    "“Let’s write down your questions so you can talk them over with your surgeon before deciding.”",
+    "“Many clients feel that way, and most surgeons expect clients to ask for second opinions.”",
     "“Asking for a second opinion is your right. I can help you arrange it and get copies of your scans.”",
-    "“Why do you feel you need another opinion when your surgery has already been scheduled for you?”"
+    "“You can call your surgeon’s office and ask them to send copies of your scans to another surgeon.”"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. This discourages the client from exercising a right and relies on the surgeon’s reputation.",
-    "Incorrect. This offers false reassurance and does not help the client act on the decision.",
+    "Incorrect. Helping the client prepare questions is supportive, but it steers back to the current surgeon and does not address the stated wish for a second opinion.",
+    "Incorrect. Normalizing the concern is supportive, but it does not affirm the client’s right or offer help to act on the request.",
     "Correct. This affirms the client’s right to a second opinion and offers practical help (records, scheduling) without dismissing the concern.",
-    "Incorrect. A ‘why’ question can sound judgmental and puts the client on the defensive."
+    "Incorrect. Getting the scans is a practical step, but this leaves the client to act alone and does not affirm the right the client is worried about using."
    ],
-   "rationale": "Client autonomy includes the right to agree to treatment, refuse treatment, seek a second opinion, and establish advance directives. These preferences are the third component of EBP. The best response affirms the right and helps the client act on it, for example by arranging copies of the imaging. Telling the client not to worry is tempting because it sounds supportive, but it is false reassurance and does not meet the client’s need; discouraging the opinion or asking ‘why’ undermines autonomy and is nontherapeutic.",
+   "rationale": "Client autonomy includes the right to agree to treatment, refuse treatment, seek a second opinion, and establish advance directives. These preferences are the third component of EBP. The best response affirms the right and helps the client act on it, for example by arranging copies of the imaging. Normalizing the worry is tempting because it sounds supportive, but it offers no help; preparing questions for the current surgeon or telling the client to get the scans alone is helpful but incomplete.",
    "takeaway": "Support autonomy: a client’s right to a second opinion is part of client preference in EBP.",
    "hintContent": "Which rights does an autonomous client have regarding treatment decisions?",
    "hintStrategy": "Avoid responses that give false reassurance, ask ‘why,’ or defend the provider; choose the one that validates and assists.",
@@ -745,7 +752,8 @@
    "cjmm": "Take Action",
    "focus": "Lifespan & Diversity",
    "difficulty": 1,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m45-pro-015",
@@ -756,17 +764,17 @@
    "options": [
     "Start using the method in the review for her own clients beginning on the next shift",
     "Continue following the policy and keep the review on file for future reference",
-    "Tell clients that the unit is using an unreliable method for tube checks",
+    "Ask the unit educator to teach staff the new method at the next in-service",
     "Share the review with the nurse manager or unit practice council for policy review"
    ],
    "answer": 3,
    "optionRationales": [
     "Incorrect. Departing from policy independently bypasses approval and may introduce other safety risks.",
     "Incorrect. Doing nothing ignores the nurse’s accountability to advocate for current best practice.",
-    "Incorrect. Alarming clients without a plan does not change practice and undermines trust.",
+    "Incorrect. Education will be needed, but teaching a method that is not yet approved puts practice change ahead of policy review; the evidence must go to leadership first.",
     "Correct. Organizational change requires review and approval through the proper channel; the nurse is accountable for raising the evidence."
    ],
-   "rationale": "Accountability means nurses are responsible for providing the best, most current care, and professional behavior requires using EBP. When evidence conflicts with policy, the individual nurse brings the evidence to leadership or the practice council so it can be reviewed, piloted, and incorporated into policy. Acting independently is tempting because the evidence is strong, but changing a unit-wide practice without approval bypasses safety checks. Remaining silent ignores accountability, and telling clients creates fear without solving the problem.",
+   "rationale": "Accountability means nurses are responsible for providing the best, most current care, and professional behavior requires using EBP. When evidence conflicts with policy, the individual nurse brings the evidence to leadership or the practice council so it can be reviewed, piloted, and incorporated into policy. Acting independently is tempting because the evidence is strong, but changing a unit-wide practice without approval bypasses safety checks. Remaining silent ignores accountability, and teaching staff the new method before the policy is reviewed puts education ahead of approval.",
    "takeaway": "When evidence conflicts with policy, bring it through the proper channel rather than acting alone or staying silent.",
    "hintContent": "Who has the authority to change a unit policy?",
    "hintStrategy": "For change-of-practice items, choose the option that uses the chain of command or the formal policy process.",
@@ -777,7 +785,8 @@
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m45-pro-016",
@@ -788,17 +797,17 @@
    "options": [
     "Complete the scheduled study assessment and then tell the research team",
     "Ask the client to wait until the investigator can visit and explain the study again",
-    "Remind the client that the study could benefit future clients with pain",
+    "Notify the research team that the client wants to withdraw from the study",
     "Tell the client he may withdraw at any time without any change in his usual care"
    ],
    "answer": 3,
    "optionRationales": [
     "Incorrect. Performing a study procedure after the client has asked to withdraw disregards his request.",
     "Incorrect. Delaying the withdrawal to allow re-explanation pressures the client to stay.",
-    "Incorrect. Appealing to benefit for others while he is trying to withdraw is subtle coercion.",
+    "Incorrect. The research team must be told, but the client is anxious and waiting for an answer; the nurse first affirms his right to withdraw without penalty, then notifies the team.",
     "Correct. Affirming the right to withdraw and the absence of penalty is the immediate priority; the research team is then notified."
    ],
-   "rationale": "Respect for persons guarantees voluntary participation and the right to withdraw at any time without penalty or loss of usual care, even after consent is signed. The nurse first affirms that right and addresses the client’s fear, then notifies the research team and provider and documents. Completing the scheduled assessment is tempting because it seems efficient, but it overrides the client’s stated wish. Asking him to wait for re-explanation or appealing to future benefit pressures him to remain.",
+   "rationale": "Respect for persons guarantees voluntary participation and the right to withdraw at any time without penalty or loss of usual care, even after consent is signed. The nurse first affirms that right and addresses the client’s fear, then notifies the research team and provider and documents. Completing the scheduled assessment is tempting because it seems efficient, but it overrides the client’s stated wish. Asking him to wait for re-explanation pressures him to remain, and notifying the research team is needed but comes after the nurse answers his fear.",
    "takeaway": "A participant may withdraw at any time; honor the request first, then notify the research team.",
    "hintContent": "Does signing consent remove a participant’s right to leave a study?",
    "hintStrategy": "When a client voices a right, the first action protects that right; logistics and notifications follow.",
@@ -807,7 +816,8 @@
    "cjmm": "Take Action",
    "focus": "Prioritization",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m45-pro-017",
@@ -839,7 +849,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m45-pro-018",
@@ -937,7 +948,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m45-pro-021",
@@ -987,14 +999,14 @@
     "Witness the signature because the investigator already reviewed the form",
     "Explain the study’s procedures and risks in detail so the client can sign",
     "Hold the signing and ask the investigator to return and explain the study",
-    "Ask the client’s spouse to help the client decide whether to sign"
+    "Tell the client that joining is voluntary even if the doctor wants it"
    ],
    "answer": 2,
    "optionRationales": [
     "Incorrect. A signature without understanding is not informed consent, regardless of who reviewed the form.",
     "Incorrect. Explaining the protocol and obtaining consent is the investigator’s responsibility.",
     "Correct. The client does not understand the study and may feel pressured; the investigator must clarify before consent is valid.",
-    "Incorrect. A capable adult makes their own decision; involving the spouse does not fix the lack of information."
+    "Incorrect. Reminding the client that participation is voluntary is accurate, but it does not stop an uninformed signature; the investigator still needs to explain the study."
    ],
    "rationale": "Research informed consent requires full disclosure of purpose, procedures, length, expectations, benefits, and risks, and it must be voluntary. The client’s statement shows both a lack of understanding and possible pressure from the provider. The nurse’s role is to verify understanding and advocate, so the nurse holds the signing and notifies the investigator. Explaining the study in detail is tempting because the nurse wants to help, but obtaining consent and explaining the protocol belong to the investigator.",
    "takeaway": "If a client cannot explain the study or feels pressured, stop and return the consent process to the investigator.",
@@ -1005,7 +1017,8 @@
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m45-pro-023",
@@ -1084,17 +1097,17 @@
    "options": [
     "Give the scheduled study dose and report the pregnancy at the next study visit",
     "Hold the study dose and notify the investigator and the provider now",
-    "Keep the information confidential because the client shared it privately",
-    "Advise the client to stop taking all of her diabetes medications today"
+    "Document the client’s report of a positive pregnancy test",
+    "Have the client repeat the pregnancy test before the next dose"
    ],
    "answer": 1,
    "optionRationales": [
     "Incorrect. Continuing an excluded exposure could harm the fetus; reporting must be immediate.",
     "Correct. Pregnancy is an exclusion criterion that signals possible fetal risk; the dose is held pending direction.",
-    "Incorrect. The research team and provider need this information to protect the client and fetus.",
-    "Incorrect. Stopping all diabetes treatment could cause hyperglycemia; only the provider should change the regimen."
+    "Incorrect. The report should be documented, but documentation alone does not stop the exposure; the dose must be held and the team notified now.",
+    "Incorrect. Confirmation may be ordered later, but a positive home test is enough to hold the dose; retesting first delays notification and risks fetal exposure."
    ],
-   "rationale": "Exclusion criteria protect participants’ physical safety and the study’s validity. A new pregnancy in a trial that excludes pregnancy means the fetus could be exposed to an untested drug, so the nurse holds the study dose and promptly notifies the investigator and provider. Keeping the information private is tempting because of confidentiality, but sharing it with the care and research team is necessary for safety and is a permitted disclosure. Telling the client to stop all diabetes medications creates a new risk.",
+   "rationale": "Exclusion criteria protect participants’ physical safety and the study’s validity. A new pregnancy in a trial that excludes pregnancy means the fetus could be exposed to an untested drug, so the nurse holds the study dose and promptly notifies the investigator and provider. Repeating the test is tempting because it seems like assessing before acting, but a positive home test is enough to hold the dose, and documenting the report alone does not protect the fetus.",
    "takeaway": "When a participant develops an exclusion condition, hold the study intervention and notify the investigator and provider promptly.",
    "hintContent": "Why do studies exclude pregnancy?",
    "hintStrategy": "For priority items, pick the action that prevents harm now and routes the decision to the person with authority.",
@@ -1103,7 +1116,8 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Lifespan & Diversity",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "bestAnswer": true
   },
   {
    "id": "m45-pro-026",
@@ -1114,14 +1128,14 @@
    "options": [
     "Secure the data sheets out of public view",
     "Call the IRB chair to report a protocol violation",
-    "Leave the sheets where they are for the research assistant to collect",
+    "Ask the research assistant to come back and collect the sheets",
     "Shred the sheets so no one else can see them"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. Stopping ongoing exposure of protected health information is the first step; reporting follows.",
     "Incorrect. Reporting is necessary, but the information remains exposed while the nurse makes the call.",
-    "Incorrect. Leaving them in place allows continued disclosure of sensitive information.",
+    "Incorrect. The research assistant needs to know, but the sheets stay exposed until the assistant arrives; the nurse secures them first.",
     "Incorrect. Destroying research records may eliminate needed data; the sheets should be secured and returned through proper channels."
    ],
    "rationale": "The HIPAA Privacy Rule protects health information in research, and nursing research ethics require strict confidentiality. When protected information is exposed, the first action is to stop the exposure by securing the documents. The nurse then reports the breach through the facility’s privacy process and notifies the research team, which can involve the IRB. Calling the IRB first is tempting because it is a formal report, but it leaves the data exposed during the call.",
@@ -1133,7 +1147,8 @@
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m45-pro-027",
@@ -1351,7 +1366,8 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Assessment Findings",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m45-pro-034",
@@ -1398,19 +1414,19 @@
    "priority": false,
    "stem": "A large study finds that a new pain protocol lowers average pain scores from 5.2 to 4.8 on a 0–10 scale (p < 0.01). The protocol requires an extra 20 minutes of nursing time per client each shift. Which conclusion by the nurse is most accurate?",
    "options": [
-    "The result is not valid because the p value is lower than the usual 0.05 cutoff",
+    "The result is clinically meaningful because the study sample was large",
     "The result is statistically significant but may not be clinically significant",
     "The protocol should be adopted because the p value is very small",
     "The study is unreliable because the effect on the clients’ pain scores was so small"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. A low p value indicates the result is unlikely to be due to chance; it does not address validity.",
+    "Incorrect. A large sample makes the finding more trustworthy, but it can make a tiny difference statistically significant; it does not make a 0.4-point change meaningful to clients.",
     "Correct. A 0.4-point change is unlikely to matter to clients, especially given the added nursing time.",
     "Incorrect. A small p value alone does not show that a difference is meaningful enough to change practice.",
     "Incorrect. Reliability refers to consistency of results, not the size of the effect."
    ],
-   "rationale": "Clinical significance asks whether a difference is meaningful enough to change nursing practice, while statistical significance only indicates that the result is unlikely to be chance. A 0.4-point change on a 0–10 pain scale is small, and the protocol carries a substantial time cost, so it may not justify a change. Adopting it because of the p value is tempting, but statistical significance alone does not establish usefulness. Validity is whether the study measured what it intended, and reliability is consistency.",
+   "rationale": "Clinical significance asks whether a difference is meaningful enough to change nursing practice, while statistical significance only indicates that the result is unlikely to be chance. A 0.4-point change on a 0–10 pain scale is small, and the protocol carries a substantial time cost, so it may not justify a change. Adopting it because of the p value is tempting, but statistical significance alone does not establish usefulness. A large sample is tempting as proof of importance, but large samples can make tiny differences statistically significant, and reliability refers to consistency, not effect size.",
    "takeaway": "Statistical significance does not equal clinical significance; ask whether the difference is meaningful for clients.",
    "hintContent": "Would a client notice a 0.4-point change in pain?",
    "hintStrategy": "Separate ‘is it real?’ (statistics) from ‘does it matter?’ (clinical significance) when appraising results.",
@@ -1419,7 +1435,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Assessment Findings",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m45-pro-036",
@@ -1430,17 +1447,17 @@
    "options": [
     "Start using the dressing on clients at highest risk for pressure injury",
     "Ask the wound-care physician whether the dressing sounds effective",
-    "Order a supply of the dressing so it is ready when the policy changes",
+    "Share the brochure with the unit practice council for review",
     "Locate the original studies in nursing databases and appraise them"
    ],
    "answer": 3,
    "optionRationales": [
     "Incorrect. Applying a product before appraising the evidence skips Steps 2 and 3 and bypasses policy.",
     "Incorrect. Expert opinion ranks near the bottom of the evidence hierarchy and does not replace retrieving and appraising the actual studies.",
-    "Incorrect. Purchasing before evidence review and approval assumes the outcome.",
+    "Incorrect. The practice council is the right group for a practice change, but a brochure is not evidence; the primary studies must be found and appraised first.",
     "Correct. A brochure is a secondary, potentially biased source; the next step is to retrieve and appraise primary research."
    ],
-   "rationale": "In Step 2, the nurse retrieves the evidence, preferably primary sources, which are original articles written by the investigators. A marketing brochure is a secondary source with potential bias, so the nurse searches databases such as CINAHL and PubMed for the original studies and then appraises them. Asking the physician is tempting because it seeks expert input, but expert opinion ranks near the bottom of the hierarchy. Using or ordering the product before appraisal and approval skips steps.",
+   "rationale": "In Step 2, the nurse retrieves the evidence, preferably primary sources, which are original articles written by the investigators. A marketing brochure is a secondary source with potential bias, so the nurse searches databases such as CINAHL and PubMed for the original studies and then appraises them. Asking the physician is tempting because it seeks expert input, but expert opinion ranks near the bottom of the hierarchy. Using the product, or taking the brochure to the practice council before the primary studies are found and appraised, skips steps.",
    "takeaway": "Before acting on a summary or advertisement, retrieve and appraise the primary research.",
    "hintContent": "Is a brochure a primary or secondary source?",
    "hintStrategy": "For ‘next step’ items, identify where the team is in the four-step process and choose the immediate next step.",
@@ -1451,7 +1468,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "bestAnswer": true
   },
   {
    "id": "m45-pro-037",
@@ -1461,16 +1479,16 @@
    "stem": "A client with lung cancer asks whether a particular herbal tea will help her fatigue. The Oncology Nursing Society PEP resource rates this intervention yellow. Which response by the nurse is most accurate?",
    "options": [
     "“There isn’t enough evidence yet to know if it helps or harms; let’s ask your provider.”",
-    "“It has strong evidence for fatigue, so you can start drinking it as often as you like.”",
+    "“Some clients say it helps, so it should be fine to try it if you enjoy the taste.”",
     "“Strong evidence shows that it is harmful, so you need to stop using it right away.”",
-    "“A yellow rating means it is approved, but only for short-term use during treatment.”"
+    "“Exercise and activity pacing have the best evidence for fatigue; let’s start with those.”"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. Yellow means insufficient evidence to determine effectiveness or harm; involving the provider supports a safe, shared decision.",
-    "Incorrect. Strong evidence of effectiveness describes a green rating, not yellow.",
+    "Incorrect. Respecting the client’s interest is supportive, but this implies the tea is safe and skips the provider check for interactions when evidence is lacking.",
     "Incorrect. Strong evidence of harm or ineffectiveness describes a red rating.",
-    "Incorrect. Yellow does not indicate approval or duration; it indicates insufficient evidence."
+    "Incorrect. Exercise does have strong evidence for cancer fatigue, but this does not answer the client’s question about the tea or explain what a yellow rating means."
    ],
    "rationale": "The ONS Putting Evidence into Practice stoplight system rates interventions green (strong evidence that it is likely effective), yellow (not enough evidence to determine effectiveness or harm), or red (strong evidence it is likely ineffective or possibly harmful). For a yellow-rated intervention, the nurse explains the uncertainty honestly, respects the client’s interest, and involves the provider, including a check for interactions. Telling the client to stop immediately is tempting because caution seems safe, but that response applies to red-rated interventions.",
    "takeaway": "PEP stoplight: green = recommended, yellow = insufficient evidence, red = ineffective or harmful.",
@@ -1483,7 +1501,8 @@
    "cjmm": "Take Action",
    "focus": "Client Teaching",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Reduction of Risk Potential"
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "bestAnswer": true
   },
   {
    "id": "m45-pro-038",
@@ -1515,7 +1534,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m45-pro-039",
@@ -1650,7 +1670,8 @@
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m45-pro-043",
@@ -1682,7 +1703,8 @@
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m45-pro-044",
@@ -1714,7 +1736,8 @@
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
    "difficulty": 1,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m45-pro-045",
@@ -1759,18 +1782,18 @@
    "stem": "During a pilot of a new evidence-based early-mobility protocol, the protocol calls for a client to walk in the hallway at 0900. When the client stands, she reports lightheadedness; her blood pressure is 82/50 mm Hg, down from 124/76 while lying down. What should the nurse do first?",
    "options": [
     "Help the client sit or lie back down and reassess her vital signs",
-    "Continue the walk with a gait belt so the protocol is followed",
+    "Notify the provider about the drop in her blood pressure",
     "Record the event as a protocol variance for the pilot audit",
     "Page the quality improvement specialist leading the pilot"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. Orthostatic hypotension with symptoms makes ambulation unsafe; protect the client and reassess first.",
-    "Incorrect. Following the protocol despite unsafe findings ignores clinical judgment and risks a fall.",
+    "Incorrect. The provider should be notified, but the client is lightheaded and at risk of falling; she must be returned to a safe position first.",
     "Incorrect. Documentation is needed, but only after the client is safe and assessed.",
     "Incorrect. The QI specialist is not the priority; client safety and provider notification come first."
    ],
-   "rationale": "Evidence-based protocols are applied through the nurse’s clinical expertise; evidence never overrides an individual client’s unsafe condition. A symptomatic drop in blood pressure on standing indicates orthostatic hypotension and a high fall risk, so the nurse first returns the client to a safe position and reassesses, then notifies the provider as indicated. Continuing with a gait belt is tempting because it seems to honor both the protocol and safety, but a gait belt does not prevent syncope. Variance documentation and pilot communication follow after the client is stable.",
+   "rationale": "Evidence-based protocols are applied through the nurse’s clinical expertise; evidence never overrides an individual client’s unsafe condition. A symptomatic drop in blood pressure on standing indicates orthostatic hypotension and a high fall risk, so the nurse first returns the client to a safe position and reassesses, then notifies the provider as indicated. Notifying the provider is tempting because the drop is significant, but the client could faint while the nurse is on the phone. Variance documentation and pilot communication follow after the client is stable.",
    "takeaway": "Apply protocols through clinical judgment: an unsafe assessment finding overrides the scheduled protocol step.",
    "hintContent": "What do symptoms plus a 40-point drop in systolic pressure on standing suggest?",
    "hintStrategy": "When a stem pairs a protocol with an abnormal finding, choose the safety action for the client before any process or documentation step.",
@@ -1781,7 +1804,8 @@
    "cjmm": "Take Action",
    "focus": "Prioritization",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "bestAnswer": true
   }
  ]
 }

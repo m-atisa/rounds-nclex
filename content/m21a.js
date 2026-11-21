@@ -865,21 +865,22 @@ window.NURSE_DATA.push({
    "hintStrategy": "Use two clues from the stem: the wound bleeds, and no fat is visible. Eliminate any option that contradicts either clue.",
    "stem": "A client fell from a bicycle and has a scraped knee that is oozing small drops of blood and is painful to touch. No fat or deeper tissue is visible in the wound bed. Which statement by the nurse best describes this wound and how it will heal?",
    "options": [
-    "It is limited to the epidermis, which has capillaries, so it will heal with a flat scar.",
+    "It is limited to the epidermis, so it will heal quickly without a scar.",
     "It is full thickness because it bleeds, so it will fill in with connective tissue and scar.",
     "It reaches the dermis and is partial thickness, so it should regrow the same tissue.",
-    "It extends into the subcutaneous fat, so it will need surgical closure to heal."
+    "It reaches the dermis and is partial thickness, so it will heal with a scar."
    ],
    "answer": 2,
    "priority": false,
    "optionRationales": [
-    "Incorrect. The epidermis is avascular. A wound confined to it would not bleed, and an epidermal wound heals without a scar.",
-    "Incorrect. Bleeding means the dermis has been reached, not that all layers are lost. No fat or deeper tissue is visible, so it is not full thickness.",
-    "Correct. Bleeding and pain mean the injury reached the dermis, where vessels and nerve endings live. Skin cells left in the follicles and glands of the dermis let a partial-thickness wound heal by regeneration.",
-    "Incorrect. No fat is visible, so the wound has not reached the subcutaneous tissue, and a scrape like this does not need surgical closure."
+    "Incorrect. Healing without a scar is a reasonable prediction, but the epidermis has no blood vessels, so a wound that bleeds and hurts has reached the dermis.",
+    "Incorrect. Bleeding shows the dermis was reached, not that every layer is gone; no fat or deeper tissue is visible, so the wound is not full thickness.",
+    "Correct. Bleeding and pain place the injury in the dermis, making it partial thickness. Living cells in the remaining hair follicles and glands let the same tissue regrow with little or no scar.",
+    "Incorrect. Partial thickness is the right depth, but because living skin cells remain in the dermis, the wound heals by regeneration with little or no scar."
    ],
    "rationale": "The epidermis has no blood vessels and few pain endings, so bleeding plus pain places the injury in the dermis. A wound through the epidermis into part of the dermis is partial thickness. Because hair follicles and glands in the remaining dermis still hold living skin cells, it heals by regeneration with little or no scar. Full-thickness wounds lose all skin layers and must fill in with connective tissue (scar).",
-   "takeaway": "Bleeds and hurts = dermis reached; partial thickness = regeneration, little or no scar."
+   "takeaway": "Bleeds and hurts = dermis reached; partial thickness = regeneration, little or no scar.",
+   "bestAnswer": true
   },
   {
    "id": "m21a-002",
@@ -911,7 +912,8 @@ window.NURSE_DATA.push({
     "Incorrect. Development is a valid long-term concern, but it is not as urgent as fluid loss and infection."
    ],
    "rationale": "Losing the epidermis and dermis removes the skin's protective barrier, so fluid escapes and microorganisms enter. A young child has more skin surface compared with body weight, so the same injury causes proportionally greater fluid and heat loss. Physiological threats such as fluid volume and infection come before psychosocial, developmental, or long-term concerns.",
-   "takeaway": "Large skin loss threatens fluid, infection, and heat, and children lose fluid faster because of their larger body surface area."
+   "takeaway": "Large skin loss threatens fluid, infection, and heat, and children lose fluid faster because of their larger body surface area.",
+   "bestAnswer": true
   },
   {
    "id": "m21a-003",
@@ -983,7 +985,8 @@ window.NURSE_DATA.push({
     "Correct. Low oxygen causes cyanosis. In dark skin it looks gray or ashen, and the lips and buccal mucosa have little melanin, so central cyanosis is easiest to see there."
    ],
    "rationale": "Low oxygen saturation produces cyanosis. Melanin can mask color changes, and in darker skin cyanosis often looks gray or ashen rather than blue, so the nurse inspects low-pigment areas: the lips, buccal mucosa, and nail beds. The mucous membranes of the mouth are the best place to judge central cyanosis. The sclera, hard palate, palms, and soles are also low-pigment sites, but they are used to confirm jaundice, not cyanosis.",
-   "takeaway": "Dark skin: cyanosis → lips, buccal mucosa, nail beds; jaundice → sclera, hard palate, palms, soles."
+   "takeaway": "Dark skin: cyanosis → lips, buccal mucosa, nail beds; jaundice → sclera, hard palate, palms, soles.",
+   "bestAnswer": true
   },
   {
    "id": "m21a-005",
@@ -1055,7 +1058,8 @@ window.NURSE_DATA.push({
     "Incorrect. Keloids are more common in darker skin and are not an acute problem."
    ],
    "rationale": "In dark skin, pallor looks ashen gray and is best seen in the lips, mucosa, conjunctivae, and nail beds. After surgery, ashen mucosa plus cool, clammy skin, tachycardia, low BP, and restlessness are the classic signs of shock from blood loss. The nurse stays with the client and notifies the provider immediately. The other findings are chronic or expected in darker skin.",
-   "takeaway": "Ashen gray lips and mucosa in dark skin plus ↑ HR, ↓ BP, and clammy skin = possible shock."
+   "takeaway": "Ashen gray lips and mucosa in dark skin plus ↑ HR, ↓ BP, and clammy skin = possible shock.",
+   "bestAnswer": true
   },
   {
    "id": "m21a-007",
@@ -1087,7 +1091,8 @@ window.NURSE_DATA.push({
     "Incorrect. The lesions are named correctly, but chickenpox is airborne, and the child stays on precautions until all lesions are crusted, not until the fever resolves."
    ],
    "rationale": "Lesion vocabulary, disease pattern, and infection control work together. A raised lesion filled with clear fluid and smaller than 1 cm is a vesicle. Chickenpox comes in crops, so macules, papules, vesicles, and crusts appear at the same time. Varicella spreads by the airborne route and by contact with blister fluid, so the child needs airborne plus contact precautions (a negative-pressure room) until all lesions are crusted.",
-   "takeaway": "Clear fluid < 1 cm = vesicle; lesions in different stages = chickenpox → airborne + contact precautions until all are crusted."
+   "takeaway": "Clear fluid < 1 cm = vesicle; lesions in different stages = chickenpox → airborne + contact precautions until all are crusted.",
+   "bestAnswer": true
   },
   {
    "id": "m21a-008",
@@ -1159,7 +1164,8 @@ window.NURSE_DATA.push({
     "Incorrect. A Wood lamp helps detect some fungal infections and pigment changes, not a body-wide metabolic problem."
    ],
    "rationale": "The skin can reflect systemic disease. The slide example is dry skin plus hair loss pointing to hypothyroidism, and the other findings (cold intolerance, weight gain, constipation, bradycardia) confirm a slowed metabolism. Skin-specific tests such as KOH, patch testing, and Wood lamp answer questions about fungus, allergy, and pigment, so they do not fit this pattern.",
-   "takeaway": "Dry skin + hair loss + other body-wide signs = think systemic (hypothyroidism), not a skin test."
+   "takeaway": "Dry skin + hair loss + other body-wide signs = think systemic (hypothyroidism), not a skin test.",
+   "bestAnswer": true
   },
   {
    "id": "m21a-010",
@@ -1191,7 +1197,8 @@ window.NURSE_DATA.push({
     "Correct. Honey-colored crusts are the secondary lesion of impetigo. Gently washing them off and patting the skin dry lets the antibiotic ointment reach the infection."
    ],
    "rationale": "Vesicles that rupture and leave honey-colored crusts around the nose and mouth are the hallmark of impetigo, a contagious bacterial infection. Care includes gently washing off crusts, patting dry, and applying the prescribed ointment; using separate towels; keeping nails short; and staying home until 24 hours of effective treatment.",
-   "takeaway": "Impetigo: wash off the honey crusts, apply ointment, no sharing, home until 24 hours of treatment."
+   "takeaway": "Impetigo: wash off the honey crusts, apply ointment, no sharing, home until 24 hours of treatment.",
+   "bestAnswer": true
   },
   {
    "id": "m21a-011",
@@ -1264,7 +1271,8 @@ window.NURSE_DATA.push({
     "Incorrect. A Wood lamp helps detect some fungal infections and pigment changes."
    ],
    "rationale": "The lesions are vesicles (clear fluid, under 1 cm) in a painful cluster on the lip that recur with stress, the typical pattern of herpes simplex (cold sores). A Tzanck test examines cells scraped from the base of a fresh vesicle for changes caused by herpes-family viruses. Matching the lesion pattern to the likely organism, and the organism to the test, is the key skill.",
-   "takeaway": "Painful clustered vesicles on the lip → herpes → Tzanck test."
+   "takeaway": "Painful clustered vesicles on the lip → herpes → Tzanck test.",
+   "bestAnswer": true
   },
   {
    "id": "m21a-013",
@@ -1296,7 +1304,8 @@ window.NURSE_DATA.push({
     "Incorrect. A nonimmune staff member is at high risk of catching varicella."
    ],
    "rationale": "Crops of lesions in different stages (macules, papules, vesicles, crusts) at the same time are the hallmark of varicella. It is highly contagious by airborne and contact routes until all lesions crust, so the child needs airborne plus contact precautions, and only staff with documented immunity (past infection or vaccination) should be assigned. Pregnant, immunocompromised, and nonimmune staff should not be.",
-   "takeaway": "Chickenpox: airborne + contact precautions and immune staff only, never pregnant or nonimmune staff."
+   "takeaway": "Chickenpox: airborne + contact precautions and immune staff only, never pregnant or nonimmune staff.",
+   "bestAnswer": true
   },
   {
    "id": "m21a-014",
@@ -1329,7 +1338,8 @@ window.NURSE_DATA.push({
     "Incorrect. Patting dry is correct, but it comes near the end of the bath."
    ],
    "rationale": "Older adults have thinner skin, fewer oil glands, and decreased sensation, so hot water can both dry the skin and burn a client who cannot feel it. The nurse checks for lukewarm water first, then washes gently with a mild cleanser, rinses, pats dry, and moisturizes while the skin is slightly damp. Per the slides, older adults bathe every other day.",
-   "takeaway": "Older skin: check lukewarm water first, then mild cleanser, pat dry, and moisturize."
+   "takeaway": "Older skin: check lukewarm water first, then mild cleanser, pat dry, and moisturize.",
+   "bestAnswer": true
   },
   {
    "id": "m21a-015",
@@ -1400,7 +1410,8 @@ window.NURSE_DATA.push({
     "Incorrect. A nasal carrier culture is used for repeated staph infections such as boils."
    ],
    "rationale": "Ringworm (tinea corporis) is a fungal infection that forms a round, scaly patch spreading outward with a clearer center. It spreads by skin contact and shared items, which fits a wrestling team. A KOH prep dissolves skin cells so fungus can be seen under a microscope, confirming the cause.",
-   "takeaway": "Scaly ring with a clear center → tinea → KOH prep."
+   "takeaway": "Scaly ring with a clear center → tinea → KOH prep.",
+   "bestAnswer": true
   },
   {
    "id": "m21a-017",
@@ -1432,7 +1443,8 @@ window.NURSE_DATA.push({
     "Incorrect. Atopic dermatitis appears in skin creases and is not shaped like an object, and a biopsy is used to tell benign from cancerous lesions."
    ],
    "rationale": "Allergic contact dermatitis is an immune reaction that requires prior sensitization and appears where the allergen touched the skin, often shaped like the item (watch band, ring, glove edge). Years of wearing the watch allowed sensitization. The patch test is the test for contact (delayed) allergy.",
-   "takeaway": "Rash shaped like the object = allergic contact dermatitis; confirm with a patch test."
+   "takeaway": "Rash shaped like the object = allergic contact dermatitis; confirm with a patch test.",
+   "bestAnswer": true
   },
   {
    "id": "m21a-018",
@@ -1494,19 +1506,20 @@ window.NURSE_DATA.push({
    "options": [
     "Let the skin air-dry fully after the bath so the moisturizer absorbs better",
     "Wash with an antibacterial soap to keep scratched areas from getting infected",
-    "Give a long, warm soak with a gentle bubble bath to soften the dry patches",
+    "Trim the child’s nails short so scratching does less damage",
     "Pat the skin dry and apply a fragrance-free moisturizer within minutes"
    ],
    "answer": 3,
    "priority": true,
    "optionRationales": [
-    "Incorrect. As the skin air-dries, water evaporates through the weak barrier. Moisturizer works best on skin that is still slightly damp.",
-    "Incorrect. Antibacterial and harsh soaps strip oils and dry eczema-prone skin. A mild, fragrance-free cleanser is used.",
-    "Incorrect. Long soaks and bubble baths dry and irritate eczema-prone skin. Baths should be short and lukewarm with a mild, fragrance-free cleanser.",
-    "Correct. Eczema is caused by a weak skin barrier that loses water. Patting dry and sealing in moisture within minutes, while the skin is still damp, rebuilds the barrier and helps break the itch–scratch cycle."
+    "Incorrect. Waiting for moisturizer to absorb sounds logical, but letting skin air-dry lets water evaporate from the weak barrier and worsens dryness.",
+    "Incorrect. Preventing infection of scratched skin is a valid goal, but antibacterial soaps are harsh and drying; a mild, fragrance-free cleanser is preferred.",
+    "Incorrect. Short nails are helpful eczema teaching, but they do not answer the parent’s question about bath time or protect the skin barrier after bathing.",
+    "Correct. Patting dry and applying a thick, fragrance-free moisturizer within minutes traps water in the skin, which is the most important bath-time step for a weak eczema barrier."
    ],
    "rationale": "In eczema, the epidermal barrier is weak, so water leaks out and irritants get in, causing dry, itchy skin and the itch–scratch cycle. In older children it typically appears in the antecubital and popliteal creases. The key teaching is a short lukewarm bath with a mild cleanser, patting dry, and applying a thick, fragrance-free moisturizer within minutes to lock in water.",
-   "takeaway": "Eczema: short lukewarm bath, pat dry, moisturize right away."
+   "takeaway": "Eczema: short lukewarm bath, pat dry, moisturize right away.",
+   "bestAnswer": true
   },
   {
    "id": "m21a-020",
@@ -1525,21 +1538,22 @@ window.NURSE_DATA.push({
    "hintStrategy": "Look for the response that is both honest and accurate. Eliminate promises of a cure.",
    "stem": "A 34-year-old client newly diagnosed with plaque psoriasis on the elbows and knees asks, “How long will it take for this to be cured?” Which response by the nurse is most accurate?",
    "options": [
-    "“It should clear for good once you finish a 2-week course of antibiotics.”",
+    "“It usually clears for good after a course of steroid cream.”",
     "“It is long-term, but prescription treatment can keep it in remission.”",
-    "“It will go away on its own within a few months, so treatment is optional.”",
-    "“Once the scales are scrubbed off, the plaques should not return.”"
+    "“It is lifelong, and treatment will not change how your skin looks.”",
+    "“It is triggered by stress, so it clears once stress is managed.”"
    ],
    "answer": 1,
    "priority": false,
    "optionRationales": [
-    "Incorrect. Psoriasis is an immune-related disorder, not an infection, so antibiotics do not cure it.",
-    "Correct. Psoriasis is a chronic disorder. The treatment goal is remission, and it is managed with prescription topical or oral medicines.",
-    "Incorrect. Psoriasis is chronic and does not resolve on its own.",
-    "Incorrect. Scrubbing injures the skin and can trigger a flare. The plaques come from rapid skin-cell buildup."
+    "Incorrect. Topical steroids are a real psoriasis treatment, but psoriasis is chronic, so treatment controls flares rather than curing the disease.",
+    "Correct. Psoriasis is chronic, so the goal is remission, not cure. This answer is honest about the long course and hopeful that prescription treatment can control it.",
+    "Incorrect. It is correct that psoriasis is lifelong, but treatment can clear plaques and keep the disease in remission, so this response is inaccurate and discouraging.",
+    "Incorrect. Stress can trigger flares, but managing stress alone does not cure psoriasis; it is a chronic immune disorder that needs ongoing treatment."
    ],
    "rationale": "Psoriasis is a chronic, immune-related disorder in which skin cells build up in days instead of weeks, forming silvery plaques. Chronic skin disorders are classified by their long course, and their goal is remission, not cure. Unlike minor acne or lice, psoriasis is treated with prescription medicines. The nurse's answer should be honest and hopeful.",
-   "takeaway": "Chronic skin disorder (psoriasis) = remission, not cure; prescription treatment."
+   "takeaway": "Chronic skin disorder (psoriasis) = remission, not cure; prescription treatment.",
+   "bestAnswer": true
   },
   {
    "id": "m21a-021",
@@ -1610,7 +1624,8 @@ window.NURSE_DATA.push({
     "Incorrect. A mole of any size that is changing (E, evolving) needs evaluation. Size is only one warning sign."
    ],
    "rationale": "Melanin gives some UV protection, but no skin tone is immune to skin cancer, and in darker skin it is often found later and in low-sun areas such as the palms, soles, and nails. A complete monthly self-exam covers sun-exposed areas (face, neck, ears, scalp, arms, legs) plus the trunk, chest, and feet, including the soles and nails, and any changing mole is reported whatever its size.",
-   "takeaway": "Every skin tone needs self-exams, and dark skin needs extra attention to the palms, soles, and nails."
+   "takeaway": "Every skin tone needs self-exams, and dark skin needs extra attention to the palms, soles, and nails.",
+   "bestAnswer": true
   },
   {
    "id": "m21a-023",
@@ -1666,21 +1681,22 @@ window.NURSE_DATA.push({
    "hintStrategy": "Look for the instruction that prevents a complication. Watch for common home-care myths and for warning signs presented as normal.",
    "stem": "A 68-year-old retired farmer had a skin biopsy this morning of a pearly bump with tiny visible vessels on the forearm that has bled on and off. The site is covered with a small bandage. Which discharge instruction is most important for the nurse to include?",
    "options": [
-    "“Remove the bandage tonight and leave the site open to air so it can dry out.”",
-    "“Clean the site with hydrogen peroxide each day until it has fully healed.”",
+    "“Your biopsy results should be ready from the provider in about a week.”",
+    "“Apply sunscreen to your arms and face whenever you go outdoors.”",
     "“Keep the site clean and covered, and report redness or drainage.”",
-    "“Some redness and thick yellow drainage this week are a normal part of healing.”"
+    "“Avoid soaking the site in a bath, tub, or pool until it has healed.”"
    ],
    "answer": 2,
    "priority": true,
    "optionRationales": [
-    "Incorrect. The biopsy site is a small open wound. It is kept clean and covered to keep germs out, not left open to dry.",
-    "Incorrect. Hydrogen peroxide is a common home remedy that can damage healing tissue and slow healing.",
-    "Correct. The biopsy leaves a small open wound. Keeping it clean and covered, and reporting signs of infection or bleeding that won't stop, prevents complications.",
-    "Incorrect. Spreading redness and thick yellow (purulent) drainage are signs of infection that should be reported, not expected."
+    "Incorrect. Telling the client when to expect results is helpful, but it does not protect the open biopsy wound from infection, which is the immediate concern.",
+    "Incorrect. Sun protection is important long-term teaching for a likely skin cancer, but the fresh biopsy wound and signs of infection are the priority today.",
+    "Correct. A biopsy leaves an open wound, so keeping it clean and covered and reporting redness or drainage addresses the immediate infection risk.",
+    "Incorrect. Avoiding soaking is reasonable wound care, but it is incomplete; it does not cover keeping the site clean and covered or reporting signs of infection."
    ],
    "rationale": "A pearly, bleeding bump on sun-exposed skin suggests basal cell carcinoma, and a biopsy tells benign from cancerous tissue. The biopsy leaves an intentional open wound, so the priority teaching is to keep it clean and covered and report signs of infection (redness, swelling, drainage) or bleeding that won't stop. Sun protection continues regardless of the result.",
-   "takeaway": "After a biopsy: keep it clean and covered, report infection or bleeding, and keep using sunscreen."
+   "takeaway": "After a biopsy: keep it clean and covered, report infection or bleeding, and keep using sunscreen.",
+   "bestAnswer": true
   },
   {
    "id": "m21a-025",
@@ -1698,21 +1714,22 @@ window.NURSE_DATA.push({
    "hintStrategy": "Choose the option that is accurate about the rash's course and offers a helpful comfort measure.",
    "stem": "A client at 28 weeks' gestation has an itchy, dry, eczema-like rash on the arms, legs, and trunk. The provider diagnoses atopic eruption of pregnancy (AEP). The client asks whether the rash will be permanent. Which response by the nurse is best?",
    "options": [
-    "“This rash is a skin infection that could spread to your baby at birth.”",
+    "“It clears after delivery, so treatment is not needed until then.”",
     "“It usually clears after delivery, and moisturizers can ease the itch.”",
-    "“The rash is permanent, but the itching will stop after the baby is born.”",
-    "“This rash is the same as stretch marks and will fade to lighter lines.”"
+    "“It is a common pregnancy rash; your provider can tell you more.”",
+    "“It may come back in future pregnancies, so watch for it then.”"
    ],
    "answer": 1,
    "priority": false,
    "optionRationales": [
-    "Incorrect. AEP is an inflammatory, eczema-like rash, not an infection.",
-    "Correct. AEP is an eczema-like rash that resolves postpartum. As with eczema, moisturizers and prescribed treatment ease the itching until then.",
-    "Incorrect. The rash is not permanent. It resolves after delivery.",
-    "Incorrect. Stretch marks are a separate pregnancy change caused by stretching skin."
+    "Incorrect. It is true the rash clears after delivery, but the itch and dry skin should be treated now with moisturizers and prescribed topical care.",
+    "Correct. Atopic eruption of pregnancy resolves after delivery, and eczema-style barrier care with moisturizers eases the itch. This answers the question and offers comfort.",
+    "Incorrect. The rash is common, but deferring to the provider avoids a question the nurse can answer and offers no comfort measures.",
+    "Incorrect. The rash can recur in a later pregnancy, but this does not answer whether the current rash is permanent or how to ease the itch."
    ],
    "rationale": "Atopic eruption of pregnancy is an itchy, dry, eczema-like (inflammatory) rash that resolves after delivery. Because it behaves like eczema, the same barrier care applies: moisturize and use prescribed topical treatment for comfort. Other expected pregnancy skin changes include hyperpigmentation, stretch marks, and pruritus.",
-   "takeaway": "AEP: eczema-like, itchy, treated for comfort, and resolves postpartum."
+   "takeaway": "AEP: eczema-like, itchy, treated for comfort, and resolves postpartum.",
+   "bestAnswer": true
   },
   {
    "id": "m21a-026",
@@ -1742,7 +1759,8 @@ window.NURSE_DATA.push({
     "Incorrect. A clean wound does not enter the GI, GU, or respiratory tract."
    ],
    "rationale": "Wound classes by contamination rise from clean to clean-contaminated to contaminated to dirty/infected, and infection risk rises with each step. Controlled entry into a prepared bowel would be clean-contaminated, but spillage of intestinal contents makes the wound contaminated. Dirty/infected is reserved for wounds where pus, dead tissue, or a clinical infection is already present. The nurse monitors this wound closely for signs of infection.",
-   "takeaway": "Controlled GI entry = clean-contaminated; spillage = contaminated; pus or dead tissue already present = dirty/infected."
+   "takeaway": "Controlled GI entry = clean-contaminated; spillage = contaminated; pus or dead tissue already present = dirty/infected.",
+   "bestAnswer": true
   },
   {
    "id": "m21a-027",
@@ -1772,7 +1790,8 @@ window.NURSE_DATA.push({
     "Correct. A fresh accidental wound, such as a bite, is contaminated, a higher infection risk than Client A's clean-contaminated wound."
    ],
    "rationale": "Controlled entry into the GI tract without spillage is clean-contaminated (low risk). An open, fresh, accidental wound such as a dog bite is contaminated (higher risk). Higher contamination class means higher infection risk, so Client B needs closer monitoring.",
-   "takeaway": "Fresh accidental wound = contaminated, a higher risk than controlled tract entry."
+   "takeaway": "Fresh accidental wound = contaminated, a higher risk than controlled tract entry.",
+   "bestAnswer": true
   },
   {
    "id": "m21a-028",
@@ -1802,7 +1821,8 @@ window.NURSE_DATA.push({
     "Incorrect. Covering alone without pressure does not control steady bleeding and comes after cleaning."
    ],
    "rationale": "For an untreated wound, bleeding threatens life now, while infection develops over hours to days. The order is gloves, firm direct pressure and elevation, then clean with saline, cover, and apply ice for pain and swelling, while watching for shock.",
-   "takeaway": "Bleeding wound: pressure and elevation first, then clean and cover."
+   "takeaway": "Bleeding wound: pressure and elevation first, then clean and cover.",
+   "bestAnswer": true
   },
   {
    "id": "m21a-029",
@@ -1820,21 +1840,22 @@ window.NURSE_DATA.push({
    "hintStrategy": "Eliminate options that misclassify the wound (intentional or closed) before comparing the rest.",
    "stem": "A client asks why a scraped knee from a bike fall healed without a scar, but a deep cut from broken glass left one. Which explanation by the nurse is most accurate?",
    "options": [
-    "“The scrape was intentional and controlled, so it healed faster than the cut.”",
+    "“The scrape had a better blood supply, so it healed more quickly.”",
     "“The scrape left skin cells in the dermis, so the same tissue grew back.”",
-    "“The cut was a closed wound, so the tissue under it could not regenerate.”",
-    "“Scars form only when a wound becomes infected while it is healing.”"
+    "“The cut’s edges were farther apart, so it took longer to close.”",
+    "“The cut was more likely to become infected, so it left a scar.”"
    ],
    "answer": 1,
    "priority": false,
    "optionRationales": [
-    "Incorrect. A bike-fall scrape is an unintentional wound.",
-    "Correct. A partial-thickness scrape leaves hair follicles and glands in the dermis with living skin cells that regrow the same tissue (regeneration). A full-thickness cut loses them and heals with connective tissue (scar).",
-    "Incorrect. A cut breaks the skin, so it is an open wound.",
-    "Incorrect. Full-thickness wounds scar even without infection because they fill with connective tissue."
+    "Incorrect. Blood supply does affect healing speed, but healing faster does not explain why one wound scarred; scarring depends on whether living skin cells remained.",
+    "Correct. A partial-thickness scrape leaves hair follicles and glands with living skin cells in the dermis, so skin regenerates. A deep cut removes all layers and fills in with collagen scar.",
+    "Incorrect. Wide wound edges do slow closure, but this describes healing time, not why the cut formed scar while the scrape regrew normal skin.",
+    "Incorrect. Infection can worsen scarring, but scars form after full-thickness wounds even without infection because the lost tissue is replaced by connective tissue."
    ],
    "rationale": "The dermis contains hair follicles and glands lined with living skin cells. A partial-thickness wound leaves these in place, so skin regrows the same way with little scarring (regeneration). A full-thickness wound removes all skin layers, so the body fills it with collagen-rich connective tissue, which becomes a scar.",
-   "takeaway": "Partial thickness keeps the dermal skin cells = regeneration; full thickness = scar."
+   "takeaway": "Partial thickness keeps the dermal skin cells = regeneration; full thickness = scar.",
+   "bestAnswer": true
   },
   {
    "id": "m21a-030",
@@ -1967,7 +1988,8 @@ window.NURSE_DATA.push({
     "Incorrect. Applying the cream is a later step."
    ],
    "rationale": "Topical medication steps: verify the order and identify the client, perform hand hygiene and put on gloves, gently clean and dry the skin, apply a thin layer in the direction of hair growth (no occlusion unless ordered), then remove gloves, perform hand hygiene, and document.",
-   "takeaway": "Every medication, even a cream, starts with verifying the order and the client."
+   "takeaway": "Every medication, even a cream, starts with verifying the order and the client.",
+   "bestAnswer": true
   },
   {
    "id": "m21a-034",
@@ -2000,7 +2022,8 @@ window.NURSE_DATA.push({
     "Correct. Vesicles and crusts are not normal newborn findings, and poor feeding is a warning sign. This could be a serious infection and needs prompt follow-up."
    ],
    "rationale": "Milia, erythema toxicum, and vernix are expected newborn findings. Vesicles (clear fluid-filled lesions) that progress to crusts are not normal in a newborn and suggest infection. A rash with poor feeding, fever, or lethargy in a newborn is reported promptly.",
-   "takeaway": "Newborn blisters or crusts, especially with poor feeding, are never normal."
+   "takeaway": "Newborn blisters or crusts, especially with poor feeding, are never normal.",
+   "bestAnswer": true
   },
   {
    "id": "m21a-035",

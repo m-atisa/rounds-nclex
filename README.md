@@ -10,10 +10,10 @@ The **21 modules** are grouped into three units. Grouping is defined in `UNITS` 
 
 | Unit | Modules | Route |
 | --- | --- | --- |
-| **Unit 7** — Ethics, Legalities in Nursing *(new, highlighted)* | 42 Accountability (42.A Competence) · 44 Ethics (44.A Morality, 44.B Ethical Dilemmas, 44.C Patient Rights) · 49 Legal Issues (49.A Nurse Practice Acts, 49.B Advance Directives, 49.C HIPAA, 49.D Mandatory Reporting) | `#/learn/unit-7` |
-| **Professional Nursing Concepts** *(highlighted)* | 37 Collaboration · 39 Managing Care · 43 Advocacy · 45 Evidence-Based Practice · 46 Healthcare Systems · 47 Health Policy · 50 Quality Improvement | `#/learn/professional` |
-| **Unit 6** — Health, Wellness, Illness, Communication, Teaching & Learning | 7 · 23 · 29 · 38 · 41 | `#/learn/unit-6` |
-| **Physiological Concepts** | 5 Elimination · 6 Fluids & Electrolytes · 10 Inflammation · 15 Oxygenation · 16 Perfusion · 21 Tissue Integrity | `#/learn/core` |
+| **Ethics & Law** (Unit 7) *(new, highlighted)* | 42 Accountability (42.A Competence) · 44 Ethics (44.A Morality, 44.B Ethical Dilemmas, 44.C Patient Rights) · 49 Legal Issues (49.A Nurse Practice Acts, 49.B Advance Directives, 49.C HIPAA, 49.D Mandatory Reporting) | `#/learn/unit-7` |
+| **Leadership & Quality** (Professional Nursing Concepts) *(new, highlighted)* | 37 Collaboration · 39 Managing Care · 43 Advocacy · 45 Evidence-Based Practice · 46 Healthcare Systems · 47 Health Policy · 50 Quality Improvement | `#/learn/professional` |
+| **Health & Communication** (Unit 6) | 7 · 23 · 29 · 38 · 41 | `#/learn/unit-6` |
+| **Physiology & Body Systems** (Physiological Concepts) | 5 Elimination · 6 Fluids & Electrolytes · 10 Inflammation · 15 Oxygenation · 16 Perfusion · 21 Tissue Integrity | `#/learn/core` |
 
 Module 6 is Fluids & Electrolytes. **Unit 6** is a separate course grouping.
 
@@ -22,7 +22,8 @@ Module 6 is Fluids & Electrolytes. **Unit 6** is a separate course grouping.
 - **Exam**: timed, with no hints, flag-and-review, and an optional confidence rating. The report breaks down performance and flags answers that were right but shaky.
 - **Questions**: about 4,600 items in three formats (priority, single best answer, select all that apply). The searchable bank opens with ⌘K. Every item cites its source (for example `Module 49 · Legal Issues · … · pp. 2759–2763`).
 - **Flashcards**: spaced re-queueing of missed cards.
-- **New content highlight**: new modules carry a subtle orange **New** badge and tint on cards, sidebar, practice filters, and unit pages. The `isNew` flag on a unit controls this.
+- **New content highlight**: cards for new units and modules have a light green tint and a small **New** label, also shown in the sidebar. The `isNew` flag on a unit controls this.
+- **Best-answer questions**: about 89% of single-answer questions are written so every choice is plausible and partly right, and the key is the *most* right. Each wrong choice's rationale says what is reasonable about it and why it is not the best. These items carry `bestAnswer: true`; `npm test` requires at least 70% per module.
 - Zoom control and light/dark theme. Progress is stored locally in the browser.
 
 ## Project layout

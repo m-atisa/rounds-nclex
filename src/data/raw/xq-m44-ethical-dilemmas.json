@@ -33,7 +33,8 @@
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-ed-002",
@@ -42,19 +43,19 @@
    "stem": "An 82-year-old client with decision-making capacity is 2 days post-op after a hip fracture repair. She has a high fall risk score but insists on walking to the bathroom alone at night, saying, “I won’t live like a prisoner.” The nurse feels torn about how to respond. Which ethical principles are in conflict?",
    "options": [
     "Autonomy and beneficence",
-    "Justice and veracity",
-    "Fidelity and veracity",
-    "Justice and fidelity"
+    "Autonomy and justice",
+    "Beneficence and veracity",
+    "Autonomy and fidelity"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Her right to decide for herself (autonomy) conflicts with the nurse’s duty to promote her good and safety (beneficence).",
-    "Incorrect. Justice is fair treatment and veracity is truth-telling; neither is at stake in her request to walk alone.",
-    "Incorrect. Fidelity is keeping promises; no promise or truth-telling issue appears in this situation.",
-    "Incorrect. No question of fair distribution of care or of a broken promise is present here."
+    "Correct. Her right to decide for herself (autonomy) conflicts with the nurse’s duty to promote her good and safety (beneficence). Both halves of the pair are present.",
+    "Incorrect. Autonomy is part of the conflict, but justice is fair distribution of care, and nothing here involves fairness.",
+    "Incorrect. Beneficence is part of the conflict, but veracity is truth-telling, and no one is being dishonest.",
+    "Incorrect. Autonomy is part of the conflict, but fidelity is keeping promises, and no promise is at stake."
    ],
    "priority": false,
-   "rationale": "Most ethical dilemmas pit two principles against each other, and the most common pair is autonomy versus beneficence. A capable client has the right to make choices about her own body, even risky ones, while the nurse has a duty to promote her well-being and safety. Naming the conflict helps the nurse respond well, such as by teaching about risk, offering a bedside commode or call-light plan, and honoring her informed choice. Justice and veracity are tempting only because they are familiar principle names; nothing in the stem involves fairness or honesty.",
+   "rationale": "Most ethical dilemmas pit two principles against each other, and the most common pair is autonomy versus beneficence. A capable client has the right to make choices about her own body, even risky ones, while the nurse has a duty to promote her well-being and safety. Naming the conflict helps the nurse respond well, such as by teaching about risk, offering a bedside commode or call-light plan, and honoring her informed choice. Pairs that contain only one of these principles are tempting because they are half right, but justice, veracity, and fidelity are not in tension here.",
    "takeaway": "A capable client’s risky choice versus the nurse’s wish to keep the client safe is the classic autonomy-versus-beneficence dilemma.",
    "hintContent": "Look at what the client wants and what the nurse wants for her. Which principle describes each side?",
    "hintStrategy": "Match each side of the conflict to one principle; reject pairs where neither principle appears in the stem.",
@@ -65,7 +66,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-ed-003",
@@ -113,17 +115,17 @@
    "type": "mcq",
    "stem": "A 66-year-old client has been on a ventilator in the ICU for 5 days after a massive hemorrhagic stroke. The neurologist says meaningful recovery is not expected. The client’s spouse and two adult children disagree about whether to continue the ventilator, and no advance directive is in the chart. What should the nurse do first?",
    "options": [
-    "Tell the family the ventilator must continue until the client can decide",
-    "Advise the family that removing the ventilator is the kindest choice",
+    "Ask the spouse, as legal next of kin, to make the final decision",
+    "Offer a chaplain visit to help the family cope with the decision",
     "Refer the decision to the ethics committee to settle the disagreement",
     "Ask the family whether the client ever shared wishes about life support"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Recovery is not expected, so waiting for the client to decide is unrealistic and misleads the family.",
-    "Incorrect. This imposes the nurse’s view before learning what the client would have wanted.",
+    "Incorrect. The spouse is usually first in line as surrogate, but any surrogate should decide based on the client’s wishes, which have not yet been explored.",
+    "Incorrect. Spiritual support is helpful, but it does not move the decision forward or bring the client’s own wishes into it.",
     "Incorrect. An ethics consult may help later, but the nurse first gathers the client’s known wishes.",
-    "Correct. Assessing what the client valued and said lets the family decide based on the client’s wishes rather than their own."
+    "Correct. Assessing what the client valued and said lets the family decide based on the client’s wishes rather than their own, before a surrogate is chosen or a consult is called."
    ],
    "priority": true,
    "rationale": "Life-prolonging technology, such as ventilators, creates choices earlier nurses never faced. When a client cannot speak and has no advance directive, surrogates should decide using what the client would have wanted (substituted judgment). The first nursing step is assessment: ask what the client said or valued about life support. An ethics consult is tempting because the family disagrees, but it is a next step if conflict continues after the client’s wishes are explored.",
@@ -137,7 +139,8 @@
    "cjmm": "Recognize Cues",
    "focus": "Prioritization",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-ed-005",
@@ -145,17 +148,17 @@
    "type": "mcq",
    "stem": "While helping a nurse turn a 41-year-old client with a large necrotic wound, a nursing assistant takes a photo of the wound with a personal phone. The assistant says, “My friends won’t believe this. I’ll cover the face.” Which action should the nurse take first?",
    "options": [
-    "Remind the assistant to share the photo only in a private group",
+    "Teach the assistant the facility policy on photos of clients",
     "Have the assistant delete the photo now, then report it per policy",
-    "Ask the client whether the photo may be shared if the face is hidden",
+    "Report the photo to the privacy officer as soon as possible",
     "Tell the nurse manager about the photo at the end of the shift"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Any sharing of a client’s image without consent is a privacy breach, even in a “private” group.",
-    "Correct. Stopping the breach right away protects the client; reporting follows facility policy.",
-    "Incorrect. The photo was taken for entertainment, not care; seeking consent afterward does not make it acceptable.",
-    "Incorrect. Waiting allows the image to be shared; the breach must be stopped now."
+    "Incorrect. Teaching about the policy is needed, but the photo still exists on the phone and could be shared, so the breach is not stopped.",
+    "Correct. Deleting the photo stops the breach right away; reporting per policy follows. Teaching and reporting alone leave the image on the phone.",
+    "Incorrect. Reporting is required, but it comes after stopping the breach; until the photo is deleted, it could be sent at any moment.",
+    "Incorrect. Telling the manager is appropriate, but waiting until the end of the shift lets the image be shared in the meantime."
    ],
    "priority": true,
    "rationale": "Phones, photos, texting, and social media spread information fast and create new privacy concerns. Clients should never be photographed or posted about with personal devices, and hiding a face does not remove identifying details or make the act acceptable. The nurse first stops the breach by having the photo deleted, then reports it according to policy. Waiting until the end of the shift is tempting because it avoids conflict, but the image could be shared in the meantime.",
@@ -169,7 +172,8 @@
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-ed-006",
@@ -218,14 +222,14 @@
     "“Embryos are not legally persons, so discarding them is not killing.”",
     "“This is a hard question. What do your own beliefs tell you about it?”",
     "“If I were you, I would donate them to another couple who needs them.”",
-    "“Your church’s view is outdated, so science should guide your choice.”"
+    "“Many people struggle with this. Would you like to see the chaplain?”"
    ],
    "answer": 1,
    "optionRationales": [
     "Incorrect. This answers a moral question with a legal fact and imposes a view on a contested issue.",
-    "Correct. The nurse stays neutral and helps the client explore her own values about when life begins.",
+    "Correct. The nurse stays neutral and helps the client explore her own values about when life begins, which is the question she is asking.",
     "Incorrect. Sharing the nurse’s personal choice steers the client away from her own values.",
-    "Incorrect. This is judgmental and dismisses the client’s faith and culture."
+    "Incorrect. Offering the chaplain is a helpful resource, but making it the whole response deflects before the nurse helps her explore her own beliefs."
    ],
    "priority": false,
    "rationale": "Social change has fueled debate on the definition of life, including when it begins, as with embryos. In these debates there is no single answer the nurse can supply. The nurse gives care without judgment, keeps personal opinions out, and helps the client clarify her own values, offering resources such as a chaplain or counselor. The legal-fact response is tempting because it sounds accurate, but it shuts down the moral question the client is actually asking.",
@@ -239,7 +243,8 @@
    "cjmm": "Take Action",
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m44-ed-008",
@@ -249,15 +254,15 @@
    "options": [
     "“You’re right. I’ll ask the provider to tell him how good that life can be.”",
     "“He may be depressed, so his decision should wait until he is treated.”",
-    "“Since you will care for him at home, your view should carry more weight.”",
+    "“He has capacity, so his decision is final and the team will respect it.”",
     "“Quality of life is his to define. What worries you most about his choice?”"
    ],
    "answer": 3,
    "optionRationales": [
     "Incorrect. This sides with the daughter and pressures a capable client to change his decision.",
     "Incorrect. He has decision-making capacity; assuming depression undermines his autonomy without evidence.",
-    "Incorrect. The nurse’s primary commitment is to the client; a caregiver role does not outrank his choice.",
-    "Correct. It affirms that the client’s own view of quality of life counts most and opens the daughter’s fears."
+    "Incorrect. This is accurate, since a capable client’s choice stands, but it shuts the daughter out and ignores the fear behind her request.",
+    "Correct. It affirms that the client’s own view of quality of life counts most and opens a conversation about the daughter’s fears."
    ],
    "priority": false,
    "rationale": "Quality-of-life debates ask who decides whether a life with severe illness is worth extending. The answer is the client: his own view of quality counts most, especially when he has capacity. The nurse supports his decision while acknowledging the daughter’s grief and fear, which often drive requests like hers. Asking the provider to persuade him seems helpful, but it lets family pressure override a capable client’s autonomy.",
@@ -271,7 +276,8 @@
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "difficulty": 2,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m44-ed-009",
@@ -321,14 +327,14 @@
    "options": [
     "Explain the policy calmly and ask the provider about other nausea treatment",
     "Allow him to take the gummies, since his medical card makes it legal",
-    "Call security to remove the gummies and document illegal drug use",
+    "Store the gummies per policy and document his cannabis use in the chart",
     "Let him keep the gummies but chart that he was told not to use them"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. The nurse follows facility policy without judgment and advocates for relief of his symptom.",
+    "Correct. The nurse follows facility policy without judgment and advocates for relief of his nausea, which is the real need.",
     "Incorrect. State permission does not override facility policy during inpatient care.",
-    "Incorrect. This is punitive and judgmental; he is using cannabis for a medical symptom.",
+    "Incorrect. Storing the product and documenting use follow policy, but this does nothing about the nausea he is trying to treat.",
     "Incorrect. Leaving the product at the bedside invites use that the policy forbids."
    ],
    "priority": true,
@@ -341,7 +347,8 @@
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-ed-011",
@@ -350,16 +357,16 @@
    "stem": "A 72-year-old client with decision-making capacity and metastatic pancreatic cancer tells the nurse he wants to stop treatment and go home with hospice. Later, his daughter pulls the nurse aside and says, “Don’t you dare talk to him about hospice. We want everything done.” Which action by the nurse is the priority?",
    "options": [
     "Avoid mentioning hospice until the daughter agrees with the plan",
-    "Tell the daughter that her opinion has no bearing on his care",
+    "Refer the daughter to the social worker to talk about her fears",
     "Support his choice, listen to her fears, and offer a family meeting",
-    "Ask the provider to persuade him to continue treatment for now"
+    "Tell the provider that the family disagrees with the hospice plan"
    ],
    "answer": 2,
    "optionRationales": [
     "Incorrect. This lets the family silence a capable client’s own decision.",
-    "Incorrect. This is dismissive and damages the relationship the client will need.",
-    "Correct. The client’s wishes come first, while the daughter’s fear is heard and the family is brought together.",
-    "Incorrect. Pressuring a capable client to change his decision violates his autonomy."
+    "Incorrect. A social work referral can help the daughter, but it hands off her fears and does not affirm the client’s own decision.",
+    "Correct. The client’s wishes come first, while the nurse hears the daughter’s fear and brings the family together. The other choices handle only part of this.",
+    "Incorrect. Keeping the provider informed is reasonable, but it does not advocate for the client or address the daughter’s fear."
    ],
    "priority": true,
    "rationale": "Conflicting loyalties pull the nurse between the client, the family, colleagues, and the employer. ANA Code Provision 2 sets the order: the nurse’s primary commitment is to the client. Putting the client first does not mean ignoring the family; the nurse listens to the daughter’s fear and arranges a family meeting. Avoiding the topic is tempting because it keeps the peace, but it abandons the client’s stated wish.",
@@ -373,7 +380,8 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-ed-012",
@@ -384,14 +392,14 @@
     "Hold the dose and notify the charge nurse or nursing supervisor",
     "Give a smaller dose that the nurse judges to be a safe amount",
     "Give the dose as written and document the surgeon’s response",
-    "Ask another nurse to give the dose so the client gets relief"
+    "Hold the dose and recheck sedation and respirations in 1 hour"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. The dose is unsafe for this client; the nurse holds it and moves up the chain of command.",
+    "Correct. The dose is unsafe for this client; the nurse holds it and moves up the chain of command so a safe order can be obtained.",
     "Incorrect. Changing a prescribed dose is outside nursing scope; it must be clarified, not altered.",
     "Incorrect. Documentation does not protect the client from an overdose the nurse knows is unsafe.",
-    "Incorrect. Passing an unsafe order to a colleague still exposes the client to harm."
+    "Incorrect. Holding the dose and monitoring are appropriate, but the unsafe order stays active and his pain is left untreated without using the chain of command."
    ],
    "priority": true,
    "exhibit": {
@@ -453,7 +461,8 @@
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-ed-013",
@@ -524,7 +533,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Client Teaching",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "bestAnswer": true
   },
   {
    "id": "m44-ed-015",
@@ -573,14 +583,14 @@
     "“Your sister has a right to know, so the provider will need to tell her soon.”",
     "“Your result stays private. When you’re ready, the counselor can help you tell her.”",
     "“That’s fine. Genetic results only matter for the person who was tested.”",
-    "“I’ll respect that, but I will have to note her risk in her own chart.”"
+    "“I’ll respect your choice, though I hope you will tell her before too long.”"
    ],
    "answer": 1,
    "optionRationales": [
     "Incorrect. Results are shared only with the client’s consent; the provider may not tell the sister.",
-    "Correct. The nurse keeps the result private, gently notes the family relevance, and offers support for future sharing.",
+    "Correct. The nurse keeps the result private, gently notes the family relevance, and offers concrete help for sharing when she is ready.",
     "Incorrect. Genetic results can affect blood relatives; this is inaccurate teaching.",
-    "Incorrect. Entering the client’s result in the sister’s record is a confidentiality breach."
+    "Incorrect. This respects her privacy, but it adds gentle pressure and offers no support, such as the genetic counselor, for when she is ready."
    ],
    "priority": false,
    "rationale": "Genetic testing reveals risks that may affect the client and her blood relatives, which creates a dilemma between privacy and a relative’s possible benefit. The result belongs to the client, so the nurse keeps it private. The nurse may urge, but not force, sharing with at-risk relatives and can offer the genetic counselor’s help. Saying the sister has a right to know is tempting because she could benefit, but disclosure without consent is a breach.",
@@ -594,7 +604,8 @@
    "cjmm": "Take Action",
    "focus": "Client Teaching",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-ed-017",
@@ -654,7 +665,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Lifespan & Diversity",
    "difficulty": 3,
-   "clientNeed": "Health Promotion and Maintenance"
+   "clientNeed": "Health Promotion and Maintenance",
+   "bestAnswer": true
   },
   {
    "id": "m44-ed-019",
@@ -756,7 +768,8 @@
    "cjmm": "Take Action",
    "focus": "Prioritization",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-ed-021",
@@ -765,15 +778,15 @@
    "stem": "A 34-year-old client was declared brain dead this morning after a cardiac arrest. His wife says, “The monitor shows his heart beating, and he’s warm. The machine is keeping him alive, right?” Which response by the nurse is best?",
    "options": [
     "“Yes, the ventilator is keeping him alive until your family decides what to do next.”",
-    "“He is in a very deep coma, and there is still a small chance that he could wake up.”",
+    "“I’m so sorry. Would you like me to call the chaplain to sit with you now?”",
     "“I’m so sorry. His whole brain has stopped working for good, which means he has died.”",
     "“That is hard for me to say. You should ask the doctor about that on rounds later.”"
    ],
    "answer": 2,
    "optionRationales": [
     "Incorrect. This mixed message suggests he is alive and makes grieving and decisions harder.",
-    "Incorrect. Brain death is permanent; offering hope of waking is false and harmful.",
-    "Correct. It gently and clearly teaches that brain death is legal death, without mixed messages.",
+    "Incorrect. Offering the chaplain is kind and fits after the news, but it leaves her mistaken belief that he is alive uncorrected.",
+    "Correct. It gently and clearly teaches that brain death is legal death, without mixed messages; support such as the chaplain can follow.",
     "Incorrect. Deflecting leaves her confused; the nurse can explain what brain death means."
    ],
    "priority": false,
@@ -788,7 +801,8 @@
    "cjmm": "Take Action",
    "focus": "Client Teaching",
    "difficulty": 2,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m44-ed-022",
@@ -857,7 +871,8 @@
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "difficulty": 3,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m44-ed-024",
@@ -1008,7 +1023,8 @@
    "cjmm": "Take Action",
    "focus": "Client Teaching",
    "difficulty": 3,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m44-ed-028",
@@ -1018,15 +1034,15 @@
    "options": [
     "Plan a full code and ask the provider to discuss code status with her agent",
     "Agree, since a slow code spares her pain and is reasonable at her age",
-    "Write “slow code” in the care plan so the whole team responds the same way",
-    "Tell the agent that the provider has decided resuscitation is not appropriate"
+    "Plan a full code and document what the provider said about a slow code",
+    "Ask the agent directly today whether she would agree to a DNR order"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Until the agent agrees to a DNR, a full code is required; the provider should revisit goals with the agent.",
+    "Correct. Until the agent agrees to a DNR, a full code is required, and the provider should revisit goals of care with the agent.",
     "Incorrect. A slow code is never acceptable; it deceives the family and gives neither real CPR nor honest comfort care.",
-    "Incorrect. Documenting a slow code makes a deceptive practice official.",
-    "Incorrect. The decision belongs to the agent, and the nurse should not announce a decision that was never made."
+    "Incorrect. A full code is correct and documenting is reasonable, but the goals-of-care conversation the client needs is never started.",
+    "Incorrect. The question may be right, but the provider leads the code-status discussion about prognosis and the benefits of CPR."
    ],
    "priority": true,
    "rationale": "End-of-life issues are the dilemmas nurses meet most often. A fake or “slow” code is never acceptable because it deceives the family and violates the client’s code status. If the team believes CPR would not help, the honest path is for the provider to discuss goals of care with the health care agent, who may then choose a DNR order. Agreeing with the provider is tempting because the concern about harm is real, but the remedy is an honest conversation, not a sham resuscitation.",
@@ -1040,7 +1056,8 @@
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-ed-029",
@@ -1049,16 +1066,16 @@
    "stem": "A nurse in a North Carolina emergency department is caring for a 3-year-old with a spiral fracture of the femur. Review the exhibit. Which action is most appropriate?",
    "options": [
     "Wait for the skeletal survey results to confirm abuse before reporting",
-    "Ask the parents to explain the injury again until their stories match",
-    "Tell the parents the nurse believes one of them hurt the child",
+    "Notify the provider so that the provider can make the report",
+    "Document the parents’ differing stories in their exact words",
     "Report the suspected abuse to the county department of social services"
    ],
    "answer": 3,
    "optionRationales": [
     "Incorrect. The law requires a report based on suspicion; waiting for proof delays protection.",
-    "Incorrect. Investigating is not the nurse’s role and may put the child at more risk.",
-    "Incorrect. Accusing the parents is not the nurse’s role and could escalate risk to the child.",
-    "Correct. Suspicion is enough; the nurse must report to the county DSS (child protective services) without waiting for proof."
+    "Incorrect. Telling the provider is reasonable, but in North Carolina every person who suspects abuse must report, so the nurse cannot hand it off.",
+    "Incorrect. Exact quotes are good documentation, but documenting alone does not protect the child; a report is required.",
+    "Correct. Suspicion is enough; the nurse reports to the county DSS (child protective services) directly, without waiting for proof or relying on others."
    ],
    "priority": true,
    "exhibit": {
@@ -1097,7 +1114,8 @@
    "cjmm": "Take Action",
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m44-ed-030",
@@ -1107,14 +1125,14 @@
    "options": [
     "Support the parents’ choice and plan comfort care as they have asked",
     "Notify the provider and report the refusal as possible medical neglect",
-    "Tell the parents they will lose custody if they do not sign the consent",
+    "Ask the ethics committee to review the parents’ refusal of the surgery",
     "Ask the parents to take a week to think and revisit the decision later"
    ],
    "answer": 1,
    "optionRationales": [
     "Incorrect. This accepts withholding beneficial treatment because of disability, which the law treats as neglect.",
     "Correct. Withholding medically indicated treatment from a disabled infant is medical neglect; the nurse reports the suspicion and involves the provider.",
-    "Incorrect. Threats are coercive and are not the nurse’s role.",
+    "Incorrect. An ethics review can help families, but this is not a true dilemma; withholding care for disability is neglect, and the law requires a report.",
     "Incorrect. The infant cannot be fed, so a week of delay could be fatal."
    ],
    "priority": true,
@@ -1127,7 +1145,8 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Lifespan & Diversity",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-ed-031",
@@ -1159,7 +1178,8 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-ed-032",
@@ -1167,17 +1187,17 @@
    "type": "mcq",
    "stem": "A 6-year-old boy was declared brain dead after a drowning. His mother asks the nurse, “Could his organs help another child? Who decides that?” Which response by the nurse is best?",
    "options": [
-    "“Children cannot be organ donors, but his corneas might still be used.”",
+    "“Let’s focus on being with your son now. We can talk about that later.”",
     "“The hospital decides, based on whether his organs are healthy enough.”",
     "“You and his father decide. A donation coordinator can meet with you both.”",
-    "“It depends only on what your son himself chose before he passed away.”"
+    "“A donation coordinator will come talk with you. They handle questions like that.”"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Children can be organ donors; this is inaccurate.",
+    "Incorrect. Supporting her time with her son matters, but she asked a direct question, and putting it off withholds information she needs.",
     "Incorrect. The hospital does not decide; the parents give or decline consent.",
-    "Correct. Parents decide about donating a child’s organs after death, and the OPO coordinator guides the process.",
-    "Incorrect. A young child cannot record a donation choice; his parents decide."
+    "Correct. It answers her question honestly, since parents decide about a child’s donation, and connects her with the coordinator who guides the process.",
+    "Incorrect. The coordinator is the right resource, but this does not answer who decides, which the nurse can state plainly."
    ],
    "priority": false,
    "rationale": "For infants and children, parents make decisions about donating a child’s organs after death. The Organ Procurement and Transplantation Network (OPTN) sets national organ policies, including rules for pediatric donors and recipients. The organ procurement organization’s trained coordinator talks with the family, so the nurse answers honestly and connects the mother with that coordinator. The hospital-decides option sounds official, but medical suitability is assessed only after the family decides.",
@@ -1189,7 +1209,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m44-ed-033",
@@ -1199,14 +1220,14 @@
    "options": [
     "“You can consent to this test yourself. It stays private unless you’re unsafe.”",
     "“I need a parent’s signature before we can test anyone under age 18.”",
-    "“We’ll do the test, but we must mail a copy of the results to your parents.”",
+    "“Let’s call your parents together so they can support you through this.”",
     "“Everything you tell me today will stay a secret no matter what happens.”"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. Minors may consent to STI care in North Carolina and most states; the nurse explains the limits of confidentiality.",
     "Incorrect. Minors may consent to STI testing and treatment without a parent.",
-    "Incorrect. Sharing results with parents without her consent breaches her confidentiality.",
+    "Incorrect. Family support can help teens, but she can consent alone and has asked for privacy, so calling her parents is not required and may keep her from care.",
     "Incorrect. Confidentiality has limits, such as abuse or danger, so this promise may not be kept."
    ],
    "priority": false,
@@ -1221,7 +1242,8 @@
    "cjmm": "Take Action",
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
-   "clientNeed": "Health Promotion and Maintenance"
+   "clientNeed": "Health Promotion and Maintenance",
+   "bestAnswer": true
   },
   {
    "id": "m44-ed-034",
@@ -1291,7 +1313,8 @@
    "cjmm": "Recognize Cues",
    "focus": "Prioritization",
    "difficulty": 2,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m44-ed-036",
@@ -1300,16 +1323,16 @@
    "stem": "A 30-year-old client at 38 weeks of gestation has a fetus in breech position. The provider recommends a planned cesarean birth because a vaginal breech birth carries more risk for the baby. The client, who has decision-making capacity, says, “No surgery. I want to give birth the way I planned.” What should the nurse do first?",
    "options": [
     "Tell the provider that a court order may be needed to protect the fetus",
-    "Explain that the baby’s safety means she must agree to the surgery",
-    "Document the refusal and tell her the decision cannot be changed later",
+    "Request an ethics consult to review her refusal of surgery",
+    "Document her refusal and notify the charge nurse of it",
     "Explore her fears and confirm the provider explained the risks"
    ],
    "answer": 3,
    "optionRationales": [
     "Incorrect. A capable pregnant client may refuse treatment; forced treatment is discouraged.",
-    "Incorrect. This is coercive and denies her right to decide about her own body.",
-    "Incorrect. Documentation follows exploration, and she may change her mind at any time.",
-    "Correct. The nurse assesses her reasons and confirms the refusal is informed before anything else."
+    "Incorrect. An ethics consult may help if conflict continues, but the nurse first learns her reasons and confirms her refusal is informed.",
+    "Incorrect. Documentation and reporting are needed, but they follow exploring her fears and confirming she understands the risks.",
+    "Correct. The nurse assesses her reasons and confirms the refusal is informed before documenting or involving others."
    ],
    "priority": true,
    "rationale": "In pregnancy, the nurse balances maternal and fetal interests and cares for both. National obstetric guidance holds that a capable pregnant client may refuse treatment, even when the fetus could benefit, and forced treatment is discouraged. When a pregnant client refuses care, the nurse first explores her fears, makes sure the provider explained the risks, and documents, involving the ethics committee if needed. Seeking a court order is tempting because it seems to protect the baby, but it overrides the autonomy of a capable adult.",
@@ -1323,7 +1346,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-ed-037",
@@ -1334,14 +1358,14 @@
     "Start emergency care and prepare her for surgery right away",
     "Ask the charge nurse to find another nurse before giving care",
     "Explain the objection to the client and then call the provider",
-    "Give comfort care only until a willing nurse can take over"
+    "Notify the provider and recheck vital signs in 15 minutes"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. The client is in hemorrhagic shock; the nurse must give emergency care and not abandon her.",
     "Incorrect. Delaying care for an unstable client while seeking a replacement is abandonment.",
     "Incorrect. The client’s life is at risk; stating personal objections first delays treatment.",
-    "Incorrect. Comfort care alone will not treat hemorrhagic shock and leaves her at risk of death."
+    "Incorrect. Notifying the provider is needed, but she is already in shock, so waiting to recheck delays the emergency care she needs now."
    ],
    "priority": true,
    "rationale": "Pregnancy raises legal and ethical issues when the mother’s life is at risk, as with a ruptured ectopic pregnancy, where saving her ends a pregnancy that cannot survive. A nurse may ask ahead of time not to assist with terminations for moral reasons, but must still give emergency care and never abandon a client. This client shows hypotension and tachycardia from blood loss, so stabilization and surgical preparation cannot wait. Asking for another nurse first is tempting because it honors the objection, but no one else is available and the delay could be fatal.",
@@ -1355,7 +1379,8 @@
    "cjmm": "Take Action",
    "focus": "Prioritization",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-ed-038",
@@ -1366,14 +1391,14 @@
     "“Don’t worry. Nothing you tell me here will ever be shared with anyone outside this room.”",
     "“I’m glad you told me. Let’s talk about treatment, and I’ll be honest about any reporting.”",
     "“Using drugs while pregnant counts as child abuse, so I have to call the police right now.”",
-    "“You should have thought about the police before you used drugs while you were pregnant.”"
+    "“I’m not sure about the rules, but a social worker here can answer that for you.”"
    ],
    "answer": 1,
    "optionRationales": [
     "Incorrect. The nurse cannot promise this, since some laws and policies may require reports.",
     "Correct. It rewards honesty, focuses on treatment, and avoids false promises about reporting rules.",
     "Incorrect. This is punitive, often inaccurate, and drives clients away from prenatal care.",
-    "Incorrect. This is judgmental and damages the trust needed for treatment."
+    "Incorrect. A social worker is a helpful resource, but this passes off her question and misses the chance to support her and focus on treatment."
    ],
    "priority": false,
    "rationale": "Fetal protection laws treat some harm to a fetus as a crime or a child-protection issue, and they vary by state. Fear of punishment can keep pregnant clients from prenatal care, which harms both mother and fetus. The nurse responds without judgment, focuses on getting treatment, and is honest that some situations may require reporting under state law and facility policy. Promising complete secrecy is tempting because it calms the client, but it may be a promise the nurse cannot keep.",
@@ -1387,7 +1412,8 @@
    "cjmm": "Take Action",
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m44-ed-039",
@@ -1419,7 +1445,8 @@
    "cjmm": "Evaluate Outcomes",
    "focus": "Client Teaching",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-ed-040",
@@ -1429,14 +1456,14 @@
    "options": [
     "Ask the provider to assess the client’s capacity for this decision",
     "Have the daughter sign the consent because the client has dementia",
-    "Prepare the client for surgery and tell her that her daughter agreed",
+    "Document the refusal and cancel the surgery as she has asked",
     "Ask the court to declare the client incompetent before the surgery"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. Capacity is decision-specific; her statement shows understanding, so a formal capacity assessment comes first.",
     "Incorrect. A dementia diagnosis alone does not remove capacity or make the daughter the decision-maker.",
-    "Incorrect. Operating over a possibly capable client’s refusal is battery.",
+    "Incorrect. Honoring a capable client’s refusal is right, but the daughter disputes capacity, so the provider must assess capacity before the refusal is accepted.",
     "Incorrect. Competency hearings are a legal step, not a first nursing action, and capacity has not been assessed."
    ],
    "priority": true,
@@ -1482,7 +1509,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Lifespan & Diversity",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-ed-041",

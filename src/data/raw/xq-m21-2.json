@@ -20,7 +20,7 @@
     "Apply cool compresses to the wheals to relieve the itching and swelling",
     "Document a latex allergy in the health record and on the allergy band",
     "Stay with the client, assess the airway, and call the rapid response team",
-    "Request a patch test to confirm which allergen caused the reaction"
+    "Give a prescribed oral antihistamine and recheck the skin in 30 minutes"
    ],
    "answer": 2,
    "priority": true,
@@ -28,10 +28,11 @@
     "Incorrect. Cool compresses ease itching but do nothing for an airway that may be closing.",
     "Incorrect. The allergy must be documented, but only after the airway emergency is managed.",
     "Correct. Wheals within minutes plus throat tightness and hoarseness signal an immediate allergic reaction involving the airway, a possible anaphylaxis emergency that needs help now.",
-    "Incorrect. A patch test identifies delayed contact allergies and has no role during an acute airway reaction."
+    "Incorrect. An antihistamine may be part of treatment, but an oral dose acts slowly, does not protect a closing airway, and waiting 30 minutes delays emergency help."
    ],
    "rationale": "Hives or wheals that appear within minutes of latex contact are an immediate allergy, not the delayed allergic contact dermatitis that appears 1 to 3 days later. Throat tightness and hoarseness mean the airway is involved, so this can progress to anaphylaxis. The nurse stays with the client, assesses airway and breathing, and gets emergency help right away. Documenting the latex allergy is the tempting answer because it is a real safety step, but it never comes before a threatened airway.",
-   "takeaway": "Hives plus throat tightness or hoarseness after an allergen is an airway emergency: get help before comfort or documentation."
+   "takeaway": "Hives plus throat tightness or hoarseness after an allergen is an airway emergency: get help before comfort or documentation.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-002",
@@ -99,7 +100,8 @@
     "Incorrect. New spots a few days into poison ivy are common from oil left on skin or items or slower-reacting areas; the client is stable."
    ],
    "rationale": "Scratching breaks the weak eczema barrier, and broken skin can become infected. Warmth, swelling, increasing pain, drainage, and fever are signs of a secondary infection, which is an unexpected and potentially spreading problem. New poison ivy spots are the most tempting distractor, but they are expected in the first days and come from leftover oil, not from spread through blister fluid. Expected effects and routine questions can wait until the client with signs of infection has been called.",
-   "takeaway": "Expected findings can wait; signs of infection in scratched skin (warmth, swelling, drainage, fever) get the first call."
+   "takeaway": "Expected findings can wait; signs of infection in scratched skin (warmth, swelling, drainage, fever) get the first call.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-003",
@@ -117,21 +119,22 @@
    "hintStrategy": "Watch for absolute words such as \"always\" and \"within minutes\"; they often signal a wrong answer.",
    "stem": "An 83-year-old resident began using a new scented body lotion 6 days ago. Today the nurse notes faint pink, mildly itchy skin only where the lotion was applied. The resident's daughter says, “It can't be the lotion. She would have reacted right away.” Which response by the nurse is most accurate?",
    "options": [
-    "“A reaction this mild is almost always from dry skin, so she can keep using the lotion.”",
+    "“Older adults have drier skin, so mild pink itching like this is most likely just dryness.”",
     "“Allergic reactions to skin products appear within minutes, so something else is the cause.”",
-    "“Older adults have the strongest irritant reactions of any age group, so this is unusual.”",
+    "“Older adults have thinner skin that absorbs more, so their reactions are usually stronger.”",
     "“Older adults react more slowly and less intensely, so a reaction can appear late and look mild.”"
    ],
    "answer": 3,
    "priority": false,
    "optionRationales": [
-    "Incorrect. The redness is limited to where the lotion touched, which points to the lotion; continuing it risks a worse reaction.",
+    "Incorrect. Older adults do have drier skin, but the redness is limited to where the lotion was applied, which points to the lotion rather than dryness.",
     "Incorrect. Allergic contact dermatitis is a delayed reaction that usually appears 1 to 3 days or more after exposure.",
-    "Incorrect. Infants, not older adults, have the strongest irritant response.",
+    "Incorrect. Aging skin is thinner, but older adults have slower, weaker immune skin responses, so reactions are usually milder, not stronger. Infants have the strongest irritant response.",
     "Correct. Older adults have slower, less intense skin reactions, so a reaction to a product can appear days later and look mild, and it is easy to miss."
    ],
    "rationale": "Age changes how the skin reacts: infants have the strongest irritant response, adults have most allergic contact dermatitis, and older adults have slower, less intense reactions. A faint rash limited to the lotion site that appears days after starting the product fits a muted, delayed reaction in an older adult. The tempting answer is that allergic reactions happen right away, but only immediate hives behave that way; contact dermatitis is delayed. The nurse should report the finding and stop the product per the plan of care rather than dismiss it as dry skin.",
-   "takeaway": "Older adults react to irritants and allergens more slowly and less intensely, so a mild, late rash can still be a product reaction."
+   "takeaway": "Older adults react to irritants and allergens more slowly and less intensely, so a mild, late rash can still be a product reaction.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-004",
@@ -270,7 +273,8 @@
     "Incorrect. A herald patch followed by smaller oval patches suggests pityriasis rosea."
    ],
    "rationale": "Psoriasis speeds up skin-cell turnover so cells pile up into thick, well-defined plaques, usually on the elbows, knees, scalp, and lower back. Textbook pictures show red plaques with silvery scale, but in darker skin the plaques may look violet or dark brown with gray scale. The eczema option is tempting because eczema also looks darker in dark skin, but it appears as dry, itchy patches in the skin creases and typically starts in childhood. Knowing how conditions look across skin tones prevents missed diagnoses.",
-   "takeaway": "Psoriasis in darker skin may look violet or dark brown with gray scale, on the elbows, knees, scalp, and lower back."
+   "takeaway": "Psoriasis in darker skin may look violet or dark brown with gray scale, on the elbows, knees, scalp, and lower back.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-008",
@@ -286,21 +290,22 @@
    "hintStrategy": "In therapeutic communication items, choose the response that reflects feelings and is open-ended; eliminate advice, facts that skip feelings, and false reassurance.",
    "stem": "A 27-year-old client with plaque psoriasis on the arms and legs tells the nurse, “I stopped going to the pool with my friends. People stare at my skin like it's contagious.” Which response by the nurse is most therapeutic?",
    "options": [
-    "“You shouldn't let other people's opinions stop you from doing the things you enjoy.”",
+    "“Many people with psoriasis feel self-conscious. A support group could really help you.”",
     "“Psoriasis is not contagious, so you can simply explain that to people who stare.”",
-    "“Your plaques are not very noticeable, so most people probably aren't looking.”",
+    "“It's normal to feel that way. A light swim shirt might help you feel more comfortable.”",
     "“That sounds painful. How has your skin been affecting the way you feel about yourself?”"
    ],
    "answer": 3,
    "priority": false,
    "optionRationales": [
-    "Incorrect. Telling the client what they should feel is judgmental and closes the conversation.",
+    "Incorrect. A support group may help later, but generalizing and referring right away moves past what this client is feeling now.",
     "Incorrect. The fact is true, but it skips the client's feelings and puts the burden of explaining on the client.",
-    "Incorrect. False reassurance dismisses what the client is experiencing.",
+    "Incorrect. Validating is supportive, but jumping to a solution before exploring the feeling closes the conversation too early.",
     "Correct. It acknowledges the feeling and uses an open-ended question to explore the effect on self-image."
    ],
-   "rationale": "Psoriasis plaques are visible and can hurt self-esteem, so the nurse should ask how the client feels about their skin. A therapeutic response acknowledges the emotion and invites the client to say more. The most tempting wrong answer is the accurate statement that psoriasis is not contagious; teaching can come later, but leading with facts dismisses the feeling the client just shared. Advice and false reassurance also block communication.",
-   "takeaway": "When a client shares feelings about a visible skin condition, acknowledge and explore the feeling before teaching facts."
+   "rationale": "Psoriasis plaques are visible and can hurt self-esteem, so the nurse should ask how the client feels about their skin. A therapeutic response acknowledges the emotion and invites the client to say more. The most tempting wrong answer is the accurate statement that psoriasis is not contagious; teaching can come later, but leading with facts dismisses the feeling the client just shared. Suggesting a support group or a swim shirt is supportive, but offering solutions before exploring the feeling closes the conversation too early.",
+   "takeaway": "When a client shares feelings about a visible skin condition, acknowledge and explore the feeling before teaching facts.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-009",
@@ -367,7 +372,8 @@
     "Incorrect. Psoriasis is immune-related, not a fungal infection."
    ],
    "rationale": "Normally new skin cells take about a month to reach the surface and shed. In psoriasis, an immune-related process speeds this to a few days, so cells pile up into thick, well-defined plaques with scale. The weak-barrier explanation is tempting because eczema is also chronic and itchy, but that mechanism describes eczema, not psoriasis. Understanding the mechanism helps the client accept that treatment controls the disease rather than cures it.",
-   "takeaway": "Psoriasis = immune-driven, too-fast skin-cell turnover (days instead of a month) that piles up into scaly plaques."
+   "takeaway": "Psoriasis = immune-driven, too-fast skin-cell turnover (days instead of a month) that piles up into scaly plaques.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-011",
@@ -426,20 +432,21 @@
    "stem": "A 19-year-old with blackheads and whiteheads asks the nurse how salicylic acid differs from the benzoyl peroxide a friend uses. Which response by the nurse is accurate?",
    "options": [
     "“Salicylic acid kills bacteria in the follicle, while benzoyl peroxide only dries out the oil glands.”",
-    "“Salicylic acid is a steroid that thins the skin, and benzoyl peroxide is an antibiotic you swallow.”",
+    "“Salicylic acid exfoliates dead skin cells; benzoyl peroxide mainly shrinks the oil glands.”",
     "“Salicylic acid exfoliates and calms inflammation; benzoyl peroxide kills bacteria and unplugs ducts.”",
-    "“They both work the same way, so the main differences are just the strength and the price.”"
+    "“Both kill acne bacteria in the follicle, but only salicylic acid also removes dead skin.”"
    ],
    "answer": 2,
    "priority": false,
    "optionRationales": [
     "Incorrect. The actions are reversed; benzoyl peroxide is the one that kills bacteria.",
-    "Incorrect. Neither is a steroid or an oral antibiotic; both are topical OTC acne products.",
+    "Incorrect. The salicylic acid half is right, but benzoyl peroxide kills bacteria and unplugs oil ducts rather than shrinking the glands.",
     "Correct. Salicylic acid removes dead skin cells and reduces inflammation; benzoyl peroxide kills bacteria and unplugs oil ducts.",
-    "Incorrect. The two products work by different mechanisms."
+    "Incorrect. Salicylic acid does remove dead skin, but it does not kill bacteria; benzoyl peroxide is the product that kills acne bacteria."
    ],
    "rationale": "Acne forms when sebum and dead skin cells plug a follicle and bacteria grow inside it. Benzoyl peroxide, the first-line OTC product, kills the bacteria and unplugs the oil ducts. Salicylic acid exfoliates, removing the dead cells that help form the plug, and reduces inflammation. The reversed option is tempting because both products target the plugged follicle, so the student must know which one acts on bacteria.",
-   "takeaway": "Benzoyl peroxide kills bacteria and unplugs ducts; salicylic acid exfoliates and reduces inflammation."
+   "takeaway": "Benzoyl peroxide kills bacteria and unplugs ducts; salicylic acid exfoliates and reduces inflammation.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-013",
@@ -458,20 +465,21 @@
    "stem": "The school nurse explains to a 13-year-old how acne forms. Which statement by the student shows correct understanding?",
    "options": [
     "“I get pimples because I don't wash enough, so I need to scrub my face several times a day.”",
-    "“Acne spreads from person to person, so I shouldn't sit near my friend who has it.”",
-    "“Pimples come from an allergy to foods, so I need a patch test to find the cause.”",
+    "“Germs on my skin cause pimples, so I'll need an antibiotic to make them go away.”",
+    "“Hormones make my skin oilier, so cutting greasy foods from my diet will clear it.”",
     "“Hormones make my skin oilier, and oil and dead skin clog my pores so germs can grow there.”"
    ],
    "answer": 3,
    "priority": false,
    "optionRationales": [
     "Incorrect. Acne is not caused by dirt, and scrubbing worsens inflammation.",
-    "Incorrect. Acne is not contagious.",
-    "Incorrect. Acne is not a food allergy, and a patch test detects contact allergies.",
+    "Incorrect. Skin bacteria do play a role, but they grow only after oil and dead cells plug the follicle, and many cases are treated without antibiotics.",
+    "Incorrect. The hormone part is right, but oil on the skin comes from the glands, not greasy foods, so diet changes alone will not clear acne.",
     "Correct. Puberty hormones increase sebum, and sebum plus dead cells plug the follicle where skin bacteria grow and cause inflammation."
    ],
    "rationale": "At puberty, hormones make the oil glands produce more sebum. Sebum and dead skin cells plug the hair follicle, forming a comedone, and bacteria that normally live on the skin grow inside and cause red papules and pustules. The belief that acne comes from poor washing is the most tempting misconception and leads teens to scrub, which increases irritation and scarring. Correct understanding supports gentle care and adherence to treatment.",
-   "takeaway": "Acne = hormones → more sebum → sebum plus dead cells plug the follicle → bacteria and inflammation."
+   "takeaway": "Acne = hormones → more sebum → sebum plus dead cells plug the follicle → bacteria and inflammation.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-014",
@@ -490,7 +498,7 @@
     "Apply over-the-counter hydrocortisone cream to both hands now",
     "Watch the skin for 2 to 3 days and call back if a rash appears",
     "Wash the hands and forearms with soap and cool water right away",
-    "Soak the hands in hot water to open the pores and draw out the oil"
+    "Wash the clothing and gloves that touched the vines in hot water"
    ],
    "answer": 2,
    "priority": true,
@@ -498,10 +506,11 @@
     "Incorrect. Hydrocortisone treats inflammation after a rash appears; it does not remove the oil.",
     "Incorrect. Waiting leaves the oil on the skin, where it can cause a rash and spread to other items.",
     "Correct. Washing with soap and cool water as soon as possible removes the plant oil before it causes a reaction.",
-    "Incorrect. Hot water is not recommended and does not draw out the oil; cool water and soap are used."
+    "Incorrect. Washing clothing and gear is an important step to prevent re-exposure, but removing the oil from the skin comes first."
    ],
    "rationale": "Poison ivy contains an oil that causes allergic contact dermatitis, with a rash that usually appears 1 to 3 days after contact. The first priority after exposure is to remove the oil by washing the skin with soap and cool water as soon as possible, and then to wash clothing, gloves, and tools. Applying a steroid cream is tempting because it is a familiar treatment, but it treats symptoms that have not started and leaves the cause on the skin. Removing the trigger always comes before treating the reaction.",
-   "takeaway": "After poison ivy contact, wash the skin with soap and cool water right away, then wash clothes, gloves, and tools."
+   "takeaway": "After poison ivy contact, wash the skin with soap and cool water right away, then wash clothes, gloves, and tools.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-015",
@@ -571,7 +580,8 @@
     "Incorrect. Removing tissue to check for cancer describes a biopsy."
    ],
    "rationale": "Allergic contact dermatitis is a delayed immune reaction, so the patch test is designed to detect delayed responses: possible allergens are taped to the skin and the sites are checked over several days. A hairstylist is exposed to dyes, perfumes, and chemicals that are common allergens. The skin scraping option is tempting because it is also a skin test, but it looks for fungus rather than allergy. Knowing what each test detects helps clients prepare and return for the readings.",
-   "takeaway": "Patch test = possible allergens taped to the skin and read over several days to confirm allergic contact dermatitis."
+   "takeaway": "Patch test = possible allergens taped to the skin and read over several days to confirm allergic contact dermatitis.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-017",
@@ -591,19 +601,20 @@
    "options": [
     "Tell the parent to stop the sister's cream and ask the child's provider for a prescribed treatment",
     "Tell the parent to keep using the cream but only once a day to lower the total steroid dose",
-    "Tell the parent to cover the cream with plastic wrap at night so less of it is needed overall",
-    "Tell the parent to continue the cream until the rash clears and then taper it over a week"
+    "Tell the parent to stop it on his face but keep using it on his body until the flare clears",
+    "Tell the parent to stop the cream and use a thick fragrance-free moisturizer after each bath"
    ],
    "answer": 0,
    "priority": true,
    "optionRationales": [
     "Correct. Clients should use only steroids prescribed for them, in the strength and for the time ordered, and the child needs a provider-directed plan.",
     "Incorrect. Reducing the frequency still exposes the child's face and thin skin to a strong steroid that was not prescribed for him.",
-    "Incorrect. Covering a steroid increases absorption and is done only when prescribed.",
-    "Incorrect. Continuing an unprescribed high-potency steroid on a child's face raises the risk of skin thinning."
+    "Incorrect. Stopping it on the face is reasonable because facial skin absorbs more, but the body would still get a strong steroid that was never prescribed for the child.",
+    "Incorrect. Stopping the cream and moisturizing are both right, but the child's active flare still needs a provider-directed treatment plan."
    ],
    "rationale": "Topical corticosteroids reduce inflammation, but long-term or high-potency use thins the skin and can cause visible vessels, easy bruising, stretch marks, and lighter patches. Young children and facial skin are especially vulnerable because they absorb more. The safe rule is to use only steroids prescribed for that client, for the time ordered, and never someone else's medicine. Lowering the dose is tempting because it sounds like harm reduction, but it still continues an unsafe, unprescribed drug.",
-   "takeaway": "Never use someone else's steroid cream; use only the prescribed product, strength, and duration."
+   "takeaway": "Never use someone else's steroid cream; use only the prescribed product, strength, and duration.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-018",
@@ -619,21 +630,22 @@
    "hintStrategy": "In evaluation items, pick the finding that matches the goal of the treatment; eliminate new problems and adverse effects.",
    "stem": "A 52-year-old client with allergic contact dermatitis from a nickel belt buckle has avoided the buckle and used a prescribed topical corticosteroid and cool compresses for 5 days. Which finding best indicates that treatment is effective?",
    "options": [
-    "The rash now has yellow crusts and the skin around it feels warm",
+    "The redness is lighter, but two new vesicles formed near the waistband",
     "The skin under the cream looks thinner and shinier than before",
     "The client reports less itching, and no new vesicles have formed",
-    "The redness has spread from the waistband down to the lower abdomen"
+    "The rash looks unchanged, but the compresses ease the itching briefly"
    ],
    "answer": 2,
    "priority": false,
    "optionRationales": [
-    "Incorrect. Yellow crusts and warmth suggest a secondary infection.",
+    "Incorrect. Lighter redness is a good sign, but new vesicles mean the reaction is still active or the trigger has not been fully removed.",
     "Incorrect. Thin, shiny skin is an adverse effect of topical steroids.",
     "Correct. Less itching and no new lesions are the expected outcomes of removing the allergen and reducing inflammation.",
-    "Incorrect. Spreading redness means the reaction is worsening."
+    "Incorrect. Brief relief from compresses is helpful, but an unchanged rash after 5 days does not show that the treatment is working."
    ],
-   "rationale": "Care for contact dermatitis is to identify and remove the trigger, soothe the skin, use prescribed medicines, and evaluate the response. Effective treatment shows less itching and redness, no new lesions, and no signs of infection from scratching. Thinner, shinier skin may look \"smoother,\" which is why it can be mistaken for improvement, but it is a sign of steroid skin thinning. Spreading redness or crusting means the plan needs to change.",
-   "takeaway": "Dermatitis is improving when itching and redness decrease, no new lesions form, and there are no signs of infection."
+   "rationale": "Care for contact dermatitis is to identify and remove the trigger, soothe the skin, use prescribed medicines, and evaluate the response. Effective treatment shows less itching and redness, no new lesions, and no signs of infection from scratching. Thinner, shinier skin may look \"smoother,\" which is why it can be mistaken for improvement, but it is a sign of steroid skin thinning. New vesicles or a rash that looks unchanged after several days mean the plan needs to change.",
+   "takeaway": "Dermatitis is improving when itching and redness decrease, no new lesions form, and there are no signs of infection.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-019",
@@ -651,19 +663,20 @@
    "options": [
     "Document a latex allergy in the record and use latex-free gloves",
     "Ask the provider to order a patch test before any gloves are used",
-    "Use latex gloves but place gauze between the gloves and the skin",
-    "Give a prescribed antihistamine before each time gloves are used"
+    "Use latex-free gloves now and tell the next nurse during handoff report",
+    "Tell the client to report any itching the next time gloves are used"
    ],
    "answer": 0,
    "priority": true,
    "optionRationales": [
     "Correct. The history suggests a latex allergy, so it must be documented to alert all staff, and latex-free (for example, nitrile) gloves should be used.",
     "Incorrect. Care cannot wait for testing; the safe step is to avoid latex now.",
-    "Incorrect. Gauze does not reliably block contact with latex, and the allergen should be avoided.",
-    "Incorrect. Premedicating does not replace avoiding a known allergen."
+    "Incorrect. Latex-free gloves are right, but a verbal handoff reaches only one nurse; documenting the allergy alerts every caregiver and department.",
+    "Incorrect. Watching for symptoms is reasonable, but it waits for a reaction instead of preventing exposure to a suspected allergen."
    ],
    "rationale": "A rash where gloved hands touched the skin, appearing after exposure, suggests a latex allergy. The nurse documents the allergy so every caregiver avoids latex and switches to latex-free gloves and supplies. A patch test may later confirm the allergen, which makes it tempting, but safety now comes from avoiding the suspected trigger. Repeated exposure in a sensitized person can cause worse reactions, including immediate hives and airway involvement.",
-   "takeaway": "Suspected latex allergy: document it and switch to latex-free supplies immediately; do not wait for testing."
+   "takeaway": "Suspected latex allergy: document it and switch to latex-free supplies immediately; do not wait for testing.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-020",
@@ -681,7 +694,7 @@
    "hintStrategy": "When a client wants to stop a treatment, check whether the complaint is an expected effect; if so, reassure and support adherence.",
    "stem": "A 15-year-old who started benzoyl peroxide gel 4 days ago tells the nurse, “My face is a little dry and pink, and my pimples aren't any better. I'm going to quit using it.” Which response by the nurse is most appropriate?",
    "options": [
-    "“Dryness and pinkness mean you're allergic to it, so stop it and switch to a stronger soap.”",
+    "“That pinkness means your skin is irritated, so stop it for a few days and then restart it.”",
     "“Put on a thicker layer twice as often for the next few days so it can start working faster.”",
     "“Stop using it every day, and just put a dab on each new pimple whenever one shows up.”",
     "“Some dryness is expected, and acne takes several weeks to improve. A light moisturizer can help.”"
@@ -689,13 +702,14 @@
    "answer": 3,
    "priority": true,
    "optionRationales": [
-    "Incorrect. Mild dryness and pinkness are expected effects, not an allergy, and harsh soap would worsen irritation.",
+    "Incorrect. Pausing can help severe irritation, but mild dryness and pinkness are expected early effects, and stopping delays the weeks of steady use acne needs.",
     "Incorrect. Thicker, more frequent applications increase irritation without speeding results.",
     "Incorrect. The gel should cover the whole affected area regularly, not single spots.",
     "Correct. Mild dryness and redness are expected early, improvement takes weeks, and a non-comedogenic moisturizer eases dryness."
    ],
    "rationale": "Benzoyl peroxide commonly causes dryness, redness, or peeling when started, and acne takes several weeks to improve. Teens often stop early because they expect fast results, so the nurse reassures, explains the time frame, and suggests a non-comedogenic moisturizer. Using more product is tempting for a frustrated teen, but thick or frequent layers only increase irritation. Spot treatment misses lesions that are forming under the skin.",
-   "takeaway": "Early dryness with benzoyl peroxide is expected; keep using a thin layer for several weeks and add a non-comedogenic moisturizer."
+   "takeaway": "Early dryness with benzoyl peroxide is expected; keep using a thin layer for several weeks and add a non-comedogenic moisturizer.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-021",
@@ -725,7 +739,8 @@
     "Incorrect. Atopic history relates to eczema, which appears in skin creases rather than in one round patch."
    ],
    "rationale": "The first step in contact dermatitis care is to identify the trigger. A rash shaped like an object and located where that object touches the skin, such as a jeans snap or belt buckle below the navel, strongly suggests allergic contact dermatitis to metal. Asking about household contacts is tempting because it is a common rash question, but it fits infectious rashes, not a single patch shaped like an item. The answer to the snap question directs the plan: avoid the item and confirm with a patch test if needed.",
-   "takeaway": "A rash in the exact spot an object touches (snap, buckle, watch, ring) points to allergic contact dermatitis; ask about that object first."
+   "takeaway": "A rash in the exact spot an object touches (snap, buckle, watch, ring) points to allergic contact dermatitis; ask about that object first.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-022",
@@ -745,19 +760,20 @@
    "options": [
     "Reassure the client that shiny skin means the psoriasis plaques are clearing",
     "Report the findings to the provider and review how long the cream was prescribed",
-    "Teach the client to cover the cream with plastic wrap to improve its absorption",
-    "Advise the client to apply a thicker layer less often to protect the skin"
+    "Teach the client to apply the cream only to plaques, never to the skin around them",
+    "Document the skin changes and recheck the forearms at the next visit"
    ],
    "answer": 1,
    "priority": true,
    "optionRationales": [
     "Incorrect. Shiny, thin skin is steroid-induced thinning, not improvement.",
     "Correct. Thin, shiny skin with visible vessels and bruising are adverse effects of long-term topical steroid use, so the provider must reassess the plan.",
-    "Incorrect. Covering a steroid increases absorption and would worsen the thinning.",
-    "Incorrect. Changing the amount on the client's own does not address overuse; the provider needs to adjust therapy."
+    "Incorrect. Applying steroid only to plaques is correct teaching, but it does not address 5 months of overuse or the adverse effects the provider must reassess.",
+    "Incorrect. Documentation is needed, but waiting until the next visit lets the steroid damage continue; the provider needs to know now."
    ],
    "rationale": "Long-term topical corticosteroid use thins the skin, producing thin, shiny skin, visible small blood vessels, easy bruising, stretch marks, and lighter patches. This client used a high-potency product far longer than prescribed. The nurse reports the adverse effects and reinforces using the steroid only as prescribed and for the time ordered. Reassurance is the tempting wrong answer because the skin may look smoother, but that appearance is damage, not healing.",
-   "takeaway": "Thin, shiny skin with visible vessels and bruising after months of topical steroids is an adverse effect to report."
+   "takeaway": "Thin, shiny skin with visible vessels and bruising after months of topical steroids is an adverse effect to report.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-023",
@@ -777,7 +793,7 @@
    "options": [
     "Explain that benzoyl peroxide usually improves acne within weeks",
     "Encourage the teen to join a club or team to rebuild confidence",
-    "Schedule a follow-up visit in 1 month to recheck the acne",
+    "Refer the teen to a school counselor to talk about feeling left out",
     "Ask the teen directly whether they are having thoughts of suicide"
    ],
    "answer": 3,
@@ -785,11 +801,12 @@
    "optionRationales": [
     "Incorrect. Teaching about acne treatment ignores a possible safety risk.",
     "Incorrect. Encouraging activities skips assessment of the statement the teen just made.",
-    "Incorrect. Waiting a month could leave a teen at risk without help.",
+    "Incorrect. Counseling support is helpful, but referring first hands off a possible safety risk without assessing whether the teen is suicidal.",
     "Correct. The statement may signal suicidal thinking, and asking directly is the first step in assessing the teen's safety."
    ],
    "rationale": "Visible skin conditions can seriously affect a teen's self-esteem, leading to embarrassment and withdrawal from friends and school. A statement such as \"everyone would be better off if I disappeared\" is a possible warning sign of suicidal thinking, and safety comes before the skin condition. Asking directly about suicide does not plant the idea; it opens the door to help. Teaching about acne treatment is tempting because the visit is about acne, but it ignores the most urgent problem.",
-   "takeaway": "A teen's hopeless statement outranks the skin problem: ask directly about suicidal thoughts first."
+   "takeaway": "A teen's hopeless statement outranks the skin problem: ask directly about suicidal thoughts first.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-024",
@@ -807,19 +824,20 @@
    "options": [
     "“Scrubbing can injure the skin and trigger new plaques, so moisturize instead.”",
     "“Scrub only once a week so that the scale has time to build back up.”",
-    "“Use hot water while you scrub so the scales come off more easily.”",
-    "“Cover the scrubbed areas with a bandage so others will not catch it.”"
+    "“Use a fragrance-free soap so your skin is less irritated while you scrub.”",
+    "“Try to keep your stress low, since stress is a common trigger for new plaques.”"
    ],
    "answer": 0,
    "priority": true,
    "optionRationales": [
     "Correct. Skin injury can trigger psoriasis flares, and moisturizing softens the skin without damaging it.",
     "Incorrect. Scrubbing less often still injures the skin each time.",
-    "Incorrect. Hot water dries the skin, and scrubbing still causes injury.",
-    "Incorrect. Psoriasis is not contagious, so covering it to protect others is not needed."
+    "Incorrect. Fragrance-free products are gentler, but the scrubbing itself is the injury that can trigger new plaques.",
+    "Incorrect. Stress is a true flare trigger, but this teaching does not address the scrubbing injury the client just described."
    ],
    "rationale": "Psoriasis is a chronic immune-related disorder, and skin injury is one of the known flare triggers, along with stress, infections, and some medications. Scrubbing plaques with a stiff brush injures the skin and can cause new plaques to form. Teaching focuses on moisturizing, avoiding scratching or injuring the skin, managing stress, and keeping follow-up appointments. Reducing how often the client scrubs is tempting as a compromise, but any scrubbing is still injury.",
-   "takeaway": "In psoriasis, avoid injuring the skin (scrubbing, scratching) because injury triggers new plaques; moisturize instead."
+   "takeaway": "In psoriasis, avoid injuring the skin (scrubbing, scratching) because injury triggers new plaques; moisturize instead.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-025",
@@ -989,20 +1007,21 @@
    "stem": "A full-term newborn has just been born and placed skin-to-skin on the parent's chest. The newborn's skin is wet, and a white, cheesy coating fills the skin folds of the groin and underarms. Which action should the nurse take first?",
    "options": [
     "Scrub the cheesy coating out of the skin folds with a soft washcloth",
-    "Apply a thin layer of baby lotion to the newborn's hands and feet",
+    "Place a knit cap on the newborn's head to prevent heat loss from the scalp",
     "Gently dry the newborn and cover the newborn and parent with a warm, dry blanket",
-    "Give the newborn a full bath to remove the coating before feeding"
+    "Take the newborn's axillary temperature to check for early heat loss"
    ],
    "answer": 2,
    "priority": true,
    "optionRationales": [
     "Incorrect. The coating is vernix, which protects and moisturizes the skin and is absorbed on its own; scrubbing damages the skin.",
-    "Incorrect. Newborn skin absorbs products easily, so lotions are used sparingly and only as directed.",
+    "Incorrect. A cap helps prevent heat loss, but the wet body loses heat by evaporation, so drying and covering come first.",
     "Correct. Newborn skin is thin, so the newborn loses heat quickly; drying and covering prevents heat loss.",
-    "Incorrect. Bathing a wet newborn right after birth increases heat loss, and vernix should be left in place."
+    "Incorrect. Temperature checks are needed, but a wet newborn is already losing heat, so the nurse acts to prevent heat loss before measuring it."
    ],
    "rationale": "Newborn skin is thin, which has two effects: the newborn loses heat quickly and absorbs substances easily. The first priority for a wet newborn is preventing heat loss by drying and covering. The white, cheesy coating is vernix caseosa, which protects the skin and is absorbed on its own, so it should not be scrubbed or bathed off. Removing the vernix is tempting because it looks like something to clean, but it serves a protective purpose.",
-   "takeaway": "Wet newborn: dry and cover first to prevent heat loss, and leave the protective vernix in place."
+   "takeaway": "Wet newborn: dry and cover first to prevent heat loss, and leave the protective vernix in place.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-029",
@@ -1019,20 +1038,21 @@
    "stem": "The parent of a 3-day-old points to tiny white bumps on the newborn's nose and chin and asks whether they should be squeezed. Which response by the nurse is best?",
    "options": [
     "“These are whiteheads, so wash them twice a day with an acne cleanser to clear them.”",
-    "“These are a sign of a skin infection. I'll ask the provider about an antibiotic cream.”",
-    "“These are small blisters that should be opened gently and cleaned to prevent scars.”",
+    "“These look like erythema toxicum, a harmless newborn rash that fades within a week.”",
+    "“These are milia from blocked oil glands. I'll ask the provider about a cream for them.”",
     "“These are milia from blocked oil glands. Don't squeeze them; they fade in a few weeks.”"
    ],
    "answer": 3,
    "priority": false,
    "optionRationales": [
     "Incorrect. Acne cleansers are not used on newborn skin, which absorbs products easily.",
-    "Incorrect. Milia are an expected finding, not an infection.",
-    "Incorrect. Milia are not blisters, and opening them could injure the skin and cause infection.",
+    "Incorrect. Erythema toxicum is also harmless, but it is red blotches with yellow-white centers, not tiny white bumps on the nose and chin.",
+    "Incorrect. The identification is right, but milia need no treatment, and newborn skin absorbs creams easily.",
     "Correct. Milia are tiny white bumps from blocked oil glands; they are harmless, should not be squeezed, and go away on their own."
    ],
    "rationale": "Milia are tiny white bumps on a newborn's nose, chin, and cheeks caused by blocked oil glands. They are an expected finding that disappears within a few weeks without treatment, and squeezing them can injure the skin. Calling them whiteheads is tempting because they look like adult acne, but newborn skin absorbs products easily and does not need acne treatment. The nurse's role is to recognize the normal finding and reassure the parent.",
-   "takeaway": "Milia are harmless newborn white bumps: do not squeeze; they fade in a few weeks."
+   "takeaway": "Milia are harmless newborn white bumps: do not squeeze; they fade in a few weeks.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-030",
@@ -1051,20 +1071,21 @@
    "stem": "During the admission assessment of a 1-day-old with dark brown skin, the nurse notes several flat, blue-gray patches over the lower back and buttocks. Which action is most important for the nurse to take?",
    "options": [
     "Report the patches to the provider as possible bruising from a difficult birth",
-    "Ask the parents whether the newborn has been dropped or handled roughly",
+    "Reassure the parents that these birthmarks are harmless and need no follow-up",
     "Document the size, color, and location of the patches in the newborn's record",
-    "Apply cool compresses to the patches to reduce the discoloration"
+    "Ask the parents whether other family members had similar birthmarks as babies"
    ],
    "answer": 2,
    "priority": true,
    "optionRationales": [
     "Incorrect. Flat blue-gray patches in this location are a common birthmark in darker-skinned infants, not bruising.",
-    "Incorrect. Suggesting abuse for an expected birthmark is inaccurate and harms trust with the family.",
+    "Incorrect. Reassurance is accurate, but without documentation the patches could later be mistaken for bruises.",
     "Correct. Blue-gray patches over the lower back and buttocks are expected birthmarks, and documenting them at birth keeps them from being mistaken later for bruises.",
-    "Incorrect. Birthmarks are not inflamed and do not respond to cool compresses."
+    "Incorrect. Family history is reasonable to ask, but it does not create the record that protects the family from a later false concern about abuse."
    ],
    "rationale": "Flat blue-gray patches over the lower back and buttocks are common birthmarks, especially in darker-skinned infants. They are expected and harmless, but because they look like bruises, the nurse documents their size, color, and location at birth. That record protects the family from a later false concern about abuse. Reporting them as bruising is the tempting answer for a student who is alert to injury, but these patches are present from birth and are flat and uniform.",
-   "takeaway": "Blue-gray patches over the lower back and buttocks are expected birthmarks: document size and location at birth so they are not later mistaken for bruises."
+   "takeaway": "Blue-gray patches over the lower back and buttocks are expected birthmarks: document size and location at birth so they are not later mistaken for bruises.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-031",
@@ -1082,21 +1103,22 @@
    "hintStrategy": "Match the timeline in the stem to the classic pattern of each childhood rash.",
    "stem": "A parent calls about a 14-month-old who had a fever up to 39.8 °C (103.6 °F) for 4 days. Today the fever is gone, the child is drinking well and playing, and a pink rash has appeared on the trunk. The parent asks whether the rash means the child is getting worse. Which response by the nurse is most accurate?",
    "options": [
-    "“A rash after a fever is the slapped-cheek pattern of fifth disease, which needs antibiotics.”",
+    "“This sounds like fifth disease, a mild viral illness that will fade without treatment.”",
     "“A pink trunk rash that appears as a high fever breaks is typical of roseola, a viral illness.”",
     "“A rash after days of fever means a bacterial infection, so go to the emergency department.”",
-    "“This is the herald patch of pityriasis rosea, and it will spread to the face by tomorrow.”"
+    "“A rash with a fever can mean measles, so keep the child away from others until seen.”"
    ],
    "answer": 1,
    "priority": false,
    "optionRationales": [
-    "Incorrect. Fifth disease starts with bright red cheeks, and it is viral, so antibiotics do not help.",
+    "Incorrect. The reassurance is fitting, but fifth disease starts with bright red cheeks in a mildly ill child, not a trunk rash after days of high fever.",
     "Correct. Roseola causes several days of high fever followed by a pink rash on the trunk as the fever breaks, most often in infants and toddlers.",
     "Incorrect. A child who is afebrile, drinking well, and playful with this classic pattern does not need emergency care.",
-    "Incorrect. Pityriasis rosea starts with one larger oval herald patch, not a rash after high fever, and it stays mainly on the trunk."
+    "Incorrect. Isolation is right for suspected measles, but measles rash starts on the face while fever continues; this rash appeared as the fever broke."
    ],
    "rationale": "Roseola is a viral illness of young children: 3 to 5 days of high fever, then a pink rash on the trunk appears as the fever breaks. A rash appearing as the child improves is part of the expected course, not a sign of worsening. The nurse reassures the parent and reinforces fluids and fever monitoring. The emergency-department option is tempting because rash plus fever can be serious, but red flags would be poor feeding, lethargy, or a rash with ongoing fever, which this child does not have.",
-   "takeaway": "High fever for several days, then a pink trunk rash as the fever breaks = roseola."
+   "takeaway": "High fever for several days, then a pink trunk rash as the fever breaks = roseola.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-032",
@@ -1157,7 +1179,8 @@
     "Incorrect. A herald patch followed by smaller oval patches describes pityriasis rosea, which is harmless."
    ],
    "rationale": "Many childhood rashes are expected and harmless, so the nurse must pick out the one that is not. A rash in a newborn or young child that comes with fever, poor feeding, or lethargy must be reported promptly, and a 3-week-old with all three is the most at risk. Erythema toxicum, fifth disease, and pityriasis rosea are all benign patterns in children who are feeding or playing normally. The 2-day-old is tempting because it is the youngest, but its findings are the classic picture of a normal newborn rash.",
-   "takeaway": "A rash is not the problem; a rash with fever, poor feeding, or lethargy in an infant is the red flag."
+   "takeaway": "A rash is not the problem; a rash with fever, poor feeding, or lethargy in an infant is the red flag.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-033",
@@ -1173,21 +1196,22 @@
    "hintStrategy": "When a diagnosis is benign and self-limiting, the correct teaching usually reassures and avoids unnecessary treatment.",
    "stem": "A 17-year-old reports a single 4-cm oval pink patch on the chest that appeared 10 days ago, followed by many smaller oval patches across the trunk. The teen feels well. The provider diagnoses pityriasis rosea. Which teaching by the nurse is appropriate?",
    "options": [
-    "“You will need to use an antifungal cream for at least 6 months to clear it.”",
-    "“This rash signals a serious infection that needs IV antibiotics right away.”",
+    "“Apply an antifungal cream to the patches twice a day until they clear.”",
+    "“Stay home from school until the patches fade so others do not catch it.”",
     "“This rash is harmless and usually fades on its own over several weeks.”",
-    "“The first patch should be biopsied because it may be an early skin cancer.”"
+    "“Call the clinic if the patches have not faded within the next week.”"
    ],
    "answer": 2,
    "priority": false,
    "optionRationales": [
-    "Incorrect. Pityriasis rosea is not a fungal infection and does not require months of antifungal treatment.",
-    "Incorrect. The teen feels well, and this rash is not a serious infection.",
+    "Incorrect. A single oval patch can look like ringworm, but the herald patch followed by many small patches identifies pityriasis rosea, which is not fungal.",
+    "Incorrect. Staying home sounds cautious, but pityriasis rosea is harmless and a teen who feels well does not need to miss school.",
     "Correct. Pityriasis rosea is a harmless rash that fades on its own over several weeks.",
-    "Incorrect. A herald patch is part of pityriasis rosea, not a cancer warning sign."
+    "Incorrect. Follow-up teaching is reasonable, but the rash normally lasts several weeks, so a one-week deadline would cause needless worry."
    ],
    "rationale": "Pityriasis rosea begins with one larger oval \"herald patch,\" followed by many smaller oval patches on the trunk. It is harmless and fades on its own over several weeks, so teaching focuses on reassurance. The antifungal option is tempting because a single oval patch can resemble ringworm, but the pattern of a herald patch followed by many small patches identifies pityriasis rosea. Knowing which rashes are self-limiting prevents unnecessary worry and treatment.",
-   "takeaway": "Herald patch, then smaller oval patches on the trunk = pityriasis rosea, a harmless rash that fades in several weeks."
+   "takeaway": "Herald patch, then smaller oval patches on the trunk = pityriasis rosea, a harmless rash that fades in several weeks.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-034",
@@ -1257,7 +1281,8 @@
     "Incorrect. Sibling exposure matters for infection control but is not the priority physical assessment."
    ],
    "rationale": "Compared with their body weight, children have more skin surface, so they lose fluid and heat faster than adults, especially with fever, burns, or large rashes. This child has fever, widespread lesions, and poor intake, which together create a high risk of dehydration. Assessing urine output, mucous membranes, and intake addresses the most immediate physiological threat. Counting vesicles is tempting because the rash is the most visible problem, but the hidden fluid loss is more dangerous.",
-   "takeaway": "Larger body surface area means children dehydrate faster with fever or widespread rashes; assess hydration first."
+   "takeaway": "Larger body surface area means children dehydrate faster with fever or widespread rashes; assess hydration first.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-036",
@@ -1314,21 +1339,22 @@
    "hintStrategy": "When the findings are normal, the best answer is usually the teaching that prevents them from getting worse.",
    "stem": "A client at 24 weeks' gestation who works as a mail carrier notices a dark line down the middle of her abdomen, darker nipples, and new brown patches on her cheeks and forehead. Which instruction is most important for the nurse to give?",
    "options": [
-    "Apply an over-the-counter skin-bleaching cream to the patches until they fade",
+    "Expect the patches to fade after delivery, so no special care is needed now",
     "Report the dark line on the abdomen to the provider as soon as possible",
-    "Scrub the facial patches daily with an exfoliating cleanser to lighten them",
+    "Apply a fragrance-free moisturizer to the facial patches twice a day",
     "Use sunscreen and a wide-brimmed hat to keep the facial patches from darkening"
    ],
    "answer": 3,
    "priority": true,
    "optionRationales": [
-    "Incorrect. Strong bleaching creams can irritate the skin and are not a safe first choice.",
+    "Incorrect. Melasma often fades after delivery, but sun exposure makes it darker now, especially for a client who works outdoors.",
     "Incorrect. A dark line down the middle of the abdomen is an expected change of pregnancy.",
-    "Incorrect. Scrubbing irritates the skin and does not prevent darkening.",
+    "Incorrect. Gentle moisturizing is safe, but it does not prevent the sun from darkening the patches.",
     "Correct. Facial hyperpigmentation (melasma) is common in pregnancy, and sun protection helps keep the patches from getting darker."
    ],
    "rationale": "Pregnancy hormones commonly cause hyperpigmentation: a dark line down the abdomen, darker nipples, and darker patches on the face (melasma). These are expected changes, and sun exposure makes the facial patches darker, which matters for a client who works outdoors. Sun protection is the key teaching. Reporting the abdominal line is tempting for a cautious student, but it is a normal pregnancy finding.",
-   "takeaway": "Pregnancy hyperpigmentation is expected; sun protection keeps facial patches from darkening."
+   "takeaway": "Pregnancy hyperpigmentation is expected; sun protection keeps facial patches from darkening.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-038",
@@ -1386,21 +1412,22 @@
    "hintStrategy": "Check that each option applies to the right age group; true facts about a different age are still wrong.",
    "stem": "A 14-year-old wrestler has new acne on his back and a fungal rash between his toes. His parent asks why these problems started this year. Which explanation by the nurse is most accurate?",
    "options": [
-    "“Teens have thinner skin than younger children, so germs pass through it more easily.”",
+    "“Sweaty gear and close skin contact on the wrestling mat can spread fungus to the feet.”",
     "“Puberty hormones increase oil and sweat, which makes acne and fungal infections more common.”",
-    "“Skin starts to age in the teen years, so it loses moisture and cracks more easily.”",
-    "“Teens have a larger body surface area than adults, so they lose more fluid in sweat.”"
+    "“Stress from school and sports can trigger acne flares in many teens your son's age.”",
+    "“Showering right after every practice is the best way to prevent both of these problems.”"
    ],
    "answer": 1,
    "priority": false,
    "optionRationales": [
-    "Incorrect. Adolescent skin is not thinner than a young child's skin.",
-    "Correct. At puberty, hormones increase sebum and sweating, which is why acne, fungal infections, and warts are common in adolescents.",
-    "Incorrect. Intrinsic skin aging begins around age 20, not in early adolescence.",
-    "Incorrect. Younger children, not teens, have a larger body surface area for their weight."
+    "Incorrect. Shared gear and skin contact do spread fungal infections, but this explains only the toe rash, not the new acne or why problems began at this age.",
+    "Correct. At puberty, hormones increase sebum and sweating, which explains both the acne and the fungal rash and why they began at this age.",
+    "Incorrect. Stress can worsen acne, but it is a secondary trigger and does not explain the fungal rash or the underlying hormonal change of puberty.",
+    "Incorrect. Showering after practice is good prevention teaching, but it does not answer the parent's question about why these problems started this year."
    ],
-   "rationale": "At puberty, hormones increase sebum (oil) production and sweating. Extra oil helps plug follicles and cause acne, and sweat and moisture let fungi grow, so adolescents commonly have acne, dermatitis, psoriasis, fungal infections, and warts. A wrestler also has skin-to-skin contact and sweaty gear, which adds to the risk. The body surface area option is tempting because it is a real lifespan concept, but it applies to younger children.",
-   "takeaway": "Puberty hormones increase oil and sweat, so acne and fungal infections become common in adolescents."
+   "rationale": "At puberty, hormones increase sebum (oil) production and sweating. Extra oil helps plug follicles and cause acne, and sweat and moisture let fungi grow, so adolescents commonly have acne, dermatitis, psoriasis, fungal infections, and warts. A wrestler also has skin-to-skin contact and sweaty gear, which adds to the risk. The shared-gear option is tempting because it is true, but it explains only the fungal rash, while puberty hormones explain both problems and their timing.",
+   "takeaway": "Puberty hormones increase oil and sweat, so acne and fungal infections become common in adolescents.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-040",
@@ -1448,21 +1475,22 @@
    "hintStrategy": "For aging questions, check the direction of each change (increase or decrease); reversed directions are common distractors.",
    "stem": "An 87-year-old resident often asks for an extra blanket and says, “I'm always cold, even when everyone else is warm.” Which explanation by the nurse is most accurate?",
    "options": [
-    "“Older skin makes more oil, and the extra oil makes the skin feel cool.”",
-    "“Older adults have more pigment cells, which pull heat away from the body.”",
-    "“Older skin gets thicker, and the thick layer blocks warmth from the blood.”",
+    "“With age, the skin makes less oil, so it often becomes dry, flaky, and itchy.”",
+    "“Older skin has fewer sweat glands, so you may overheat easily in hot weather.”",
+    "“With age, the skin becomes thinner, so it tears and bruises much more easily.”",
     "“With age, the fat layer under the skin thins, so the body holds heat less well.”"
    ],
    "answer": 3,
    "priority": false,
    "optionRationales": [
-    "Incorrect. Older adults have fewer oil glands, which is why their skin is dry.",
-    "Incorrect. Older adults have fewer melanocytes, and pigment cells do not regulate heat.",
-    "Incorrect. Aging skin becomes thinner, not thicker.",
+    "Incorrect. Reduced oil production is a real aging change, but it causes dry skin, not a constant feeling of cold.",
+    "Incorrect. Fewer sweat glands is a true aging change that raises heat risk, but it does not explain why the resident always feels cold.",
+    "Incorrect. Thinner skin is a true aging change, but it explains tears and bruising rather than poor heat retention.",
     "Correct. Loss of subcutaneous fat reduces insulation, and aging skin regulates temperature less well."
    ],
-   "rationale": "Subcutaneous fat insulates the body, and it decreases with age. Combined with reduced temperature regulation, this makes older adults feel cold and puts them at risk for low body temperature. The changes in the other options are all reversed: older skin has fewer oil glands, fewer melanocytes, and thinner layers. Students who remember that \"something changes\" with aging but not the direction will be drawn to these distractors.",
-   "takeaway": "Older adults feel cold because subcutaneous fat (insulation) decreases and temperature regulation declines."
+   "rationale": "Subcutaneous fat insulates the body, and it decreases with age. Combined with reduced temperature regulation, this makes older adults feel cold and puts them at risk for low body temperature. The other options describe real aging changes (less oil, fewer sweat glands, thinner skin), but each explains a different problem. Students who recognize a true aging fact may pick it without checking whether it answers the question asked.",
+   "takeaway": "Older adults feel cold because subcutaneous fat (insulation) decreases and temperature regulation declines.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-042",
@@ -1479,20 +1507,21 @@
    "stem": "A 79-year-old who lives alone tells the home health nurse, “My legs ache at night, so I sleep with a heating pad set on high under my calves.” Which response by the nurse is most important?",
    "options": [
     "“Aging skin senses heat less, so you could be burned without feeling it.”",
-    "“Heat improves circulation, so keep using it as long as it feels comfortable.”",
+    "“A warm bath before bed may help ease the aching in your legs at night.”",
     "“Use the pad on high only for the first few hours, then turn it off.”",
-    "“Put lotion on your calves before using the pad so your skin stays moist.”"
+    "“Mention the night leg aches to your provider at your next checkup visit.”"
    ],
    "answer": 0,
    "priority": true,
    "optionRationales": [
     "Correct. Older adults have decreased sensation and thin skin, so a heating pad can burn the skin before the client feels pain.",
-    "Incorrect. Comfort is not a safe guide when the client cannot fully sense heat.",
-    "Incorrect. Even a few hours on high can burn thin skin with reduced sensation.",
-    "Incorrect. Lotion does not protect the skin from a burn."
+    "Incorrect. A warm bath is a reasonable comfort measure, but it does not address the immediate burn risk of the heating pad the client is using now.",
+    "Incorrect. Limiting the time sounds like a safe compromise, but it still relies on heat sensation the client may not have, so a burn can occur within hours.",
+    "Incorrect. Night leg aches do deserve evaluation, but this is not urgent, and the burn risk from tonight's heating pad use must be addressed first."
    ],
    "rationale": "Aging reduces sensation, so older adults may not feel pressure, heat, or injury, and their thin skin is injured more easily and heals more slowly. A heating pad on high for hours under the calves is a real burn risk. The nurse should explain the risk and help the client find a safer way to manage the leg aches. Limiting the time is tempting as a compromise, but it still relies on sensation the client may not have.",
-   "takeaway": "Decreased sensation in older adults means heat can burn before they feel it; avoid heating pads on high."
+   "takeaway": "Decreased sensation in older adults means heat can burn before they feel it; avoid heating pads on high.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-043",
@@ -1513,18 +1542,19 @@
     "Ask the parent to explain why the bruises do not match the story of the fall",
     "Apply cool compresses and teach the parent how to make the couch area safer",
     "Document the findings objectively and report them according to facility policy",
-    "Reassure the parent that bruising is common in active preschool children"
+    "Ask the provider to order clotting studies to explain the easy bruising"
    ],
    "answer": 2,
    "priority": true,
    "optionRationales": [
-    "Incorrect. Confronting the parent can increase risk to the child; the nurse reports concerns through the proper channels.",
-    "Incorrect. Treating the bruises as accidental ignores the warning signs.",
+    "Incorrect. The story does not fit, but confronting the parent can put the child at greater risk; the nurse documents and reports without needing proof.",
+    "Incorrect. Comfort and safety teaching are reasonable for an accidental injury, but this pattern suggests abuse and must be reported, not treated as a fall.",
     "Correct. Bruises in different stages of healing in protected areas that do not match the history are possible signs of abuse and must be documented objectively and reported.",
-    "Incorrect. Bruises from normal play occur on exposed areas such as shins, not on the buttocks, inner arms, and trunk."
+    "Incorrect. A bleeding disorder may be ruled out during the workup, but bruises in protected areas at different stages require a report now; lab tests do not replace it."
    ],
-   "rationale": "Bruises in different stages of healing (purple, green, yellow), in protected areas such as the inner arms, trunk, and buttocks, or that do not match the story are possible signs of abuse at any age. Nurses are mandated reporters, so the nurse documents objectively and reports according to policy without needing proof. Confronting the parent is tempting because the story does not fit, but it can put the child at greater risk. Reassurance would miss a child who needs protection.",
-   "takeaway": "Bruises in different stages, in protected areas, or that do not match the story: document objectively and report per policy."
+   "rationale": "Bruises in different stages of healing (purple, green, yellow), in protected areas such as the inner arms, trunk, and buttocks, or that do not match the story are possible signs of abuse at any age. Nurses are mandated reporters, so the nurse documents objectively and reports according to policy without needing proof. Confronting the parent is tempting because the story does not fit, but it can put the child at greater risk. Testing for a bleeding disorder may be part of the workup, but it does not replace the nurse's duty to report.",
+   "takeaway": "Bruises in different stages, in protected areas, or that do not match the story: document objectively and report per policy.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-044",
@@ -1689,7 +1719,8 @@
     "Correct. Albumin below 3.5 g/dL signals poor nutrition, which delays healing, and it matches the resident's 25% meal intake."
    ],
    "rationale": "Older adults heal more slowly, but poor nutrition makes healing much slower. An albumin below 3.5 g/dL, together with eating about 25% of meals, signals inadequate protein for building new tissue. The nurse reports the finding and supports protein, calories, vitamins A and C, and fluids. Senile purpura is tempting because it is a visible skin finding on the same arm, but it is an expected aging change, and the normal hemoglobin, WBC, and glucose are distractors.",
-   "takeaway": "Albumin below 3.5 g/dL with poor intake explains slow healing in an older adult; report it and improve nutrition."
+   "takeaway": "Albumin below 3.5 g/dL with poor intake explains slow healing in an older adult; report it and improve nutrition.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-046",
@@ -1708,20 +1739,21 @@
    "stem": "A 9-month-old has a diaper rash that the parent has treated with frequent changes and a barrier cream for 5 days without improvement. The nurse notes beefy red skin deep in the skin folds with small red satellite spots around the edges. Which action should the nurse take?",
    "options": [
     "Tell the parent to keep using the barrier cream and frequent changes",
-    "Teach the parent to scrub the folds with scented wipes at each change",
+    "Teach the parent to leave the diaper area open to air several times a day",
     "Report the findings to the provider because an antifungal may be needed",
-    "Advise the parent to leave each diaper on longer to reduce friction"
+    "Teach the parent to rinse with warm water instead of using baby wipes"
    ],
    "answer": 2,
    "priority": true,
    "optionRationales": [
-    "Incorrect. Barrier cream and frequent changes treat irritant diaper dermatitis, and this rash has not improved with them.",
-    "Incorrect. Scrubbing and fragrance further irritate the skin.",
+    "Incorrect. Barrier cream and frequent changes are correct for ordinary diaper rash, but 5 days without improvement and satellite spots point to yeast.",
+    "Incorrect. Air exposure helps keep the skin dry and is good diaper care, but it will not clear a yeast infection that needs an antifungal.",
     "Correct. Beefy red skin in the folds with satellite spots suggests a yeast (Candida) diaper rash, which needs an antifungal.",
-    "Incorrect. Leaving diapers on longer keeps urine and stool on the skin and worsens any diaper rash."
+    "Incorrect. Gentle rinsing reduces irritation and is good teaching, but it does not treat the Candida infection this pattern suggests."
    ],
    "rationale": "Irritant diaper dermatitis from urine and stool causes red, shiny skin where the diaper touches, while the deep skin folds are usually spared. A rash that is beefy red in the skin folds with small satellite spots suggests a yeast (Candida) infection, which needs an antifungal and should be reported. Continuing the barrier cream is tempting because it is the correct care for ordinary diaper rash, but this pattern and the lack of improvement point to a different cause. Recognizing the pattern directs the right treatment.",
-   "takeaway": "Diaper rash in the folds with satellite spots = suspect yeast; report for an antifungal."
+   "takeaway": "Diaper rash in the folds with satellite spots = suspect yeast; report for an antifungal.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-047",
@@ -1810,20 +1842,21 @@
    "stem": "The parent of a 3-week-old notices small red and white bumps on the infant's cheeks and says, “I'll put a little of my teenager's benzoyl peroxide gel on them.” Which response by the nurse is best?",
    "options": [
     "“Newborn acne fades on its own, and baby skin absorbs products easily, so skip the gel.”",
-    "“That gel is fine for babies if you use only a thin layer once a day on the bumps.”",
-    "“Gently squeeze the bumps after a warm bath, then dab a little gel on each one.”",
-    "“These bumps look infected, so the baby needs a prescription antibiotic cream instead.”"
+    "“Wash the bumps twice a day with a mild baby soap, which will help clear them up.”",
+    "“Ask the baby's provider which acne cream is safe to use on a newborn's skin.”",
+    "“Those are milia, tiny blocked oil glands, and they will fade in a few weeks.”"
    ],
    "answer": 0,
    "priority": false,
    "optionRationales": [
     "Correct. Neonatal acne comes from the parent's hormones, resolves with gentle washing, and newborn skin absorbs products easily.",
-    "Incorrect. Acne products are not used on newborn skin, which absorbs substances more easily.",
-    "Incorrect. Squeezing injures the skin, and the gel should not be used.",
-    "Incorrect. Neonatal acne is an expected finding, not an infection."
+    "Incorrect. Gentle washing is appropriate care, but this response does not address the parent's plan to use benzoyl peroxide, which is the safety concern.",
+    "Incorrect. Checking with the provider sounds cautious, but neonatal acne needs no cream, and this response leaves the door open to an unneeded medicated product.",
+    "Incorrect. Milia also fade on their own, but they are tiny white bumps; red and white bumps at 3 weeks are neonatal acne, and this does not address the gel."
    ],
-   "rationale": "Neonatal acne appears as small red or white bumps on a newborn's face and comes from the parent's hormones. It needs only gentle washing and goes away on its own. Newborn skin is thin and absorbs products easily, so adult or teen acne medicines should not be used. Using a thin layer once a day is tempting because it sounds cautious, but any amount of an unneeded medicated product adds risk without benefit.",
-   "takeaway": "Neonatal acne resolves on its own; thin newborn skin absorbs products, so no acne medicines."
+   "rationale": "Neonatal acne appears as small red or white bumps on a newborn's face and comes from the parent's hormones. It needs only gentle washing and goes away on its own. Newborn skin is thin and absorbs products easily, so adult or teen acne medicines should not be used. Advising gentle washing or asking the provider about a cream are tempting because they sound careful, but the priority is to stop the unneeded medicated product.",
+   "takeaway": "Neonatal acne resolves on its own; thin newborn skin absorbs products, so no acne medicines.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-050",
@@ -1855,7 +1888,8 @@
     "Incorrect. Unchanged age spots are usually harmless."
    ],
    "rationale": "Older adults have many expected skin changes, including senile purpura, dry skin, and age spots. Signs of infection in a skin tear, such as spreading redness, warmth, swelling, and pus, are not expected and need prompt assessment, especially because older adults heal slowly and may show subtle signs of infection. The new purple patches are tempting because \"new\" sounds urgent, but flat purple patches on the hands are typical senile purpura. The nurse sees the resident with the possible infection first.",
-   "takeaway": "Among older adults, expected changes can wait; a skin tear with redness, warmth, and drainage is seen first."
+   "takeaway": "Among older adults, expected changes can wait; a skin tear with redness, warmth, and drainage is seen first.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-051",
@@ -1963,7 +1997,8 @@
     "Incorrect. Razor bumps (pseudofolliculitis) are a common, benign problem from shaving."
    ],
    "rationale": "The ABCDE rule flags moles that may be melanoma, and E (evolving) matters most: a mole that changes, or starts to itch, crust, or bleed, needs evaluation even if it is smaller than 6 mm. Stable, evenly colored spots and common benign conditions of darker skin do not need urgent referral. The small size of the shin mole makes it tempting to dismiss, because many students remember only the \"larger than a pencil eraser\" rule. Change outranks size.",
-   "takeaway": "A mole that is changing, itching, crusting, or bleeding needs evaluation no matter how small it is."
+   "takeaway": "A mole that is changing, itching, crusting, or bleeding needs evaluation no matter how small it is.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-054",
@@ -2017,21 +2052,22 @@
    "hintStrategy": "Watch for options that swap the key facts of two similar conditions.",
    "stem": "A 66-year-old client has a pearly, waxy bump with tiny visible blood vessels on the side of the nose. The provider suspects basal cell carcinoma. The client asks, “Is this the kind of cancer that spreads all over?” Which response by the nurse is most accurate?",
    "options": [
-    "“Basal cell cancer is the most serious type and often spreads early to the organs.”",
-    "“This is a precancerous patch that will go away if you stay out of the sun.”",
-    "“This type always spreads to the lymph nodes, so you will need scans right away.”",
+    "“The biopsy will tell us the type, so it is too early to say anything about that.”",
+    "“Basal cell is the most common skin cancer, and many people are treated for it.”",
+    "“Any skin cancer can spread, so you will likely need a full-body scan quite soon.”",
     "“Basal cell cancer grows slowly and rarely spreads, but it still needs to be treated.”"
    ],
    "answer": 3,
    "priority": false,
    "optionRationales": [
-    "Incorrect. Melanoma, not basal cell carcinoma, is the most serious type and can spread early.",
-    "Incorrect. A rough, scaly precancerous patch is an actinic keratosis; this pearly bump is suspected cancer.",
-    "Incorrect. Basal cell carcinoma rarely spreads, so \"always\" is inaccurate.",
+    "Incorrect. The biopsy does confirm the type, but the provider already suspects basal cell carcinoma, and the nurse can give accurate information instead of avoiding the question.",
+    "Incorrect. This is true and may reassure, but it does not answer the client's question about whether the cancer spreads.",
+    "Incorrect. Basal cell carcinoma can spread in rare cases, but scans are not routine for it, and this response is alarming and inaccurate.",
     "Correct. Basal cell carcinoma is the most common skin cancer; it grows slowly and rarely spreads, but it still requires treatment."
    ],
    "rationale": "The three skin cancers are named for the cells they start in. Basal cell carcinoma starts in the deepest layer of the epidermis, often looks like a pearly or waxy bump with tiny visible vessels, is the most common type, grows slowly, and rarely spreads. Melanoma is the most serious type and can spread early. Confusing \"most common\" with \"most serious\" is the classic error, so the nurse gives an honest answer that is accurate without being alarming.",
-   "takeaway": "Basal cell = most common, slow-growing, rarely spreads; melanoma = most serious."
+   "takeaway": "Basal cell = most common, slow-growing, rarely spreads; melanoma = most serious.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-056",
@@ -2063,7 +2099,8 @@
     "Incorrect. Melanoma usually appears as a changing, multicolored mole or dark spot, not a scaly crusted sore."
    ],
    "rationale": "Squamous cell carcinoma starts in the flat cells of the epidermis and appears as a rough, scaly, crusted bump or sore that may bleed, often on the face, lips, ears, and hands. It can spread and often develops from actinic keratoses, the rough pink patches caused by years of sun damage. Decades on the water gave this client heavy UV exposure. Melanoma is tempting because it is the cancer students remember best, but its appearance is a changing pigmented lesion rather than a scaly sore.",
-   "takeaway": "A rough, scaly, crusted sore that bleeds or will not heal on sun-exposed skin suggests squamous cell carcinoma."
+   "takeaway": "A rough, scaly, crusted sore that bleeds or will not heal on sun-exposed skin suggests squamous cell carcinoma.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-057",
@@ -2129,7 +2166,8 @@
     "Incorrect. Squamous cell carcinoma can spread, but this lesion was removed with clear margins."
    ],
    "rationale": "Of the three skin cancers, malignant melanoma is the most serious because it starts in the melanocytes and can spread early to lymph nodes and other organs, so it needs the fastest follow-up. Basal cell carcinoma is the most common but rarely spreads. Squamous cell carcinoma can spread, which makes it the most tempting distractor, but this lesion was removed with clear margins. Actinic keratosis is precancerous and is managed on a routine schedule.",
-   "takeaway": "Melanoma is the most serious skin cancer and gets the fastest follow-up."
+   "takeaway": "Melanoma is the most serious skin cancer and gets the fastest follow-up.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-058",
@@ -2145,21 +2183,22 @@
    "hintStrategy": "Eliminate options that make an unsafe practice \"safer\"; choose the one that corrects the misconception.",
    "stem": "A 17-year-old tells the school nurse, “I'm going to a tanning salon twice a week before spring break so I'll have a base tan and won't burn at the beach.” Which response by the nurse is most appropriate?",
    "options": [
-    "“That works if you keep each session under 10 minutes and wear the goggles.”",
-    "“A base tan protects most of your body, but you will still need SPF 15 on your face.”",
-    "“Tanning beds are safer than the sun, so building a base tan is a reasonable plan.”",
+    "“If you do go, be sure to wear the goggles every time to protect your eyes.”",
+    "“Even with a base tan, wear SPF 30 sunscreen whenever you are at the beach.”",
+    "“Many states limit tanning bed use by teens because of the skin cancer risks.”",
     "“A tan is a sign of skin damage, so a base tan won't protect you from skin cancer.”"
    ],
    "answer": 3,
    "priority": true,
    "optionRationales": [
-    "Incorrect. Shorter sessions still expose the skin to damaging UV radiation.",
-    "Incorrect. A base tan is not protective, and SPF 30 or higher is recommended.",
-    "Incorrect. Tanning beds give off UV radiation that damages skin and raises cancer risk.",
+    "Incorrect. Goggles are a true safety measure, but this accepts the plan and does not correct the belief that a base tan protects the skin.",
+    "Incorrect. Sunscreen at the beach is correct teaching, but it is incomplete because it does not correct the base-tan misconception or discourage tanning beds.",
+    "Incorrect. This is true, but it does not explain why a base tan fails to protect, which is the misconception the teen needs corrected.",
     "Correct. A tan means DNA damage has already happened, and tanning beds add UV exposure rather than protection."
    ],
-   "rationale": "UV radiation from the sun or tanning beds damages the DNA of skin cells, and the damage adds up over years. A tan is the skin's response to damage that has already occurred, so a \"base tan\" is not protection. The nurse teaches no tanning beds and real sun protection: broad-spectrum SPF 30 or higher, reapplication, shade, and clothing. Limiting session length is tempting because it sounds like a compromise, but any tanning-bed use adds UV damage.",
-   "takeaway": "There is no safe tan: tanning beds and base tans add UV damage rather than protection."
+   "rationale": "UV radiation from the sun or tanning beds damages the DNA of skin cells, and the damage adds up over years. A tan is the skin's response to damage that has already occurred, so a \"base tan\" is not protection. The nurse teaches no tanning beds and real sun protection: broad-spectrum SPF 30 or higher, reapplication, shade, and clothing. Advising goggles or beach sunscreen is tempting because each is true, but neither corrects the belief that drives the risky plan.",
+   "takeaway": "There is no safe tan: tanning beds and base tans add UV damage rather than protection.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-059",
@@ -2177,19 +2216,20 @@
    "options": [
     "Recommend a prompt provider evaluation of the streak for possible melanoma",
     "Reassure the client that dark streaks under the nails are normal in dark skin",
-    "Suggest soaking the foot nightly and rechecking the streak in 6 months",
-    "Explain that people with dark skin rarely develop skin cancer on the feet"
+    "Measure the streak's width today and recheck it at the next routine visit",
+    "Explain that a bruise from a stubbed toe can take months to grow out"
    ],
    "answer": 0,
    "priority": true,
    "optionRationales": [
     "Correct. In darker skin, melanoma is more often found under the nails and on the palms and soles, and a widening streak is evolving.",
-    "Incorrect. A streak that is changing is not a normal finding, regardless of skin tone.",
-    "Incorrect. Waiting 6 months delays the diagnosis of a possible melanoma.",
-    "Incorrect. In darker skin, melanoma is more often found in low-sun areas such as the feet and nails."
+    "Incorrect. Even, stable nail streaks are common in darker skin, but a streak that is widening is evolving and is not normal.",
+    "Incorrect. Measuring the streak is useful assessment, but it is already known to be widening, and waiting for a routine visit delays diagnosis.",
+    "Incorrect. A stubbed toe can bruise the nail bed and take months to grow out, but a bruise does not widen over time, so this falsely reassures and delays evaluation."
    ],
    "rationale": "In darker skin, melanoma is more often found on the palms, soles, and under the nails, and it is often diagnosed later. A dark streak under a nail that is getting wider is evolving, the most important ABCDE warning sign, and needs prompt evaluation. Accepting the client's explanation of trauma is tempting, but an injury would not cause a streak to widen over months. All clients are at risk regardless of skin tone.",
-   "takeaway": "A changing dark streak under a nail needs evaluation for melanoma, especially in clients with darker skin."
+   "takeaway": "A changing dark streak under a nail needs evaluation for melanoma, especially in clients with darker skin.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-060",
@@ -2207,21 +2247,22 @@
    "hintStrategy": "Link the condition's name to the structure it affects, then pick the explanation that follows from it.",
    "stem": "A 9-year-old with albinism will attend an outdoor summer day camp. The parent asks why the child burns so much faster than the child's siblings. Which explanation by the nurse is most accurate?",
    "options": [
-    "“Your child's skin is thicker than usual, so it traps heat and burns more easily.”",
-    "“Your child's skin makes extra oil, and the oil magnifies the sun's rays.”",
+    "“Children's skin is thinner than adult skin, so it is easily damaged.”",
+    "“Albinism is inherited, so it runs in families and is present from birth.”",
     "“Your child's skin makes little or no melanin, the pigment that absorbs UV light.”",
-    "“Your child's immune system attacks the skin whenever it is exposed to light.”"
+    "“Albinism also affects the eyes, so your child is sensitive to bright light.”"
    ],
    "answer": 2,
    "priority": false,
    "optionRationales": [
-    "Incorrect. Albinism does not thicken the skin, and burning is caused by UV, not trapped heat.",
-    "Incorrect. Albinism does not increase oil production.",
+    "Incorrect. Children's skin is more delicate, but the siblings are children too, so this does not explain why this child burns faster.",
+    "Incorrect. Albinism is inherited, but this describes the cause of the condition, not why the skin burns so quickly.",
     "Correct. Albinism is an inherited condition with little or no melanin, so the skin has almost no natural UV protection.",
-    "Incorrect. Albinism is a pigment disorder, not an immune reaction to light."
+    "Incorrect. Light sensitivity of the eyes is true in albinism, but the parent asked about sunburn, which comes from missing melanin in the skin."
    ],
-   "rationale": "Melanin is the pigment that absorbs UV radiation and protects skin cells from damage. In albinism, an inherited condition, the skin makes little or no melanin, so it has almost no natural UV protection and a very high risk of burns and skin cancer. The child needs strict sun protection: shade, clothing, a hat, sunglasses, and broad-spectrum sunscreen reapplied often. The immune option is tempting because some skin conditions are immune-related, but albinism is about missing pigment.",
-   "takeaway": "Albinism = little or no melanin = almost no natural UV protection; teach strict sun protection."
+   "rationale": "Melanin is the pigment that absorbs UV radiation and protects skin cells from damage. In albinism, an inherited condition, the skin makes little or no melanin, so it has almost no natural UV protection and a very high risk of burns and skin cancer. The child needs strict sun protection: shade, clothing, a hat, sunglasses, and broad-spectrum sunscreen reapplied often. The other statements about albinism and children's skin are true, but only missing melanin explains the fast burning.",
+   "takeaway": "Albinism = little or no melanin = almost no natural UV protection; teach strict sun protection.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-061",
@@ -2237,21 +2278,22 @@
    "hintStrategy": "Look for the option that is complete in both frequency and coverage.",
    "stem": "A 45-year-old client has more than 50 moles and a sister who was treated for melanoma. Which skin cancer screening plan should the nurse recommend?",
    "options": [
-    "A self-exam of sun-exposed skin once a year on the client's birthday",
-    "A provider skin exam every 5 years as long as no new moles appear",
-    "Self-exams of only the moles that are larger than a pencil eraser",
+    "Monthly full-body self-exams, with no provider exam needed",
+    "A yearly full-skin exam by a provider, with no self-exams",
+    "Monthly self-exams of only moles larger than a pencil eraser",
     "Monthly self-exams plus a yearly full-skin exam by a provider"
    ],
    "answer": 3,
    "priority": false,
    "optionRationales": [
-    "Incorrect. Yearly self-exams of only sun-exposed skin are too infrequent and miss areas such as the trunk and feet.",
-    "Incorrect. A 5-year interval is too long for a high-risk client, and changing moles matter as much as new ones.",
-    "Incorrect. Small moles can still be melanoma if they are changing.",
+    "Incorrect. Monthly whole-body self-exams are important, but a high-risk client also needs a yearly expert exam that can catch subtle changes.",
+    "Incorrect. A yearly provider exam is appropriate, but changes between visits can be missed without monthly self-exams.",
+    "Incorrect. Monthly self-exams are right, but evolving moles of any size need attention, and this client also needs a yearly provider exam.",
     "Correct. A client with many moles and a family history of melanoma benefits from monthly self-exams and a yearly professional exam."
    ],
-   "rationale": "Many moles and a family history of melanoma both raise risk, so this client needs regular screening. Monthly self-exams help the client learn what normal skin looks like and notice changes early, and a yearly full-skin exam by a provider adds an expert look and possible biopsy. Checking only large moles is tempting because of the 6-mm rule, but evolving moles of any size need attention. Self-exams must include the trunk, chest, and feet, not just sun-exposed areas.",
-   "takeaway": "High-risk clients: monthly self-exams plus a yearly professional skin exam."
+   "rationale": "Many moles and a family history of melanoma both raise risk, so this client needs regular screening. Monthly self-exams help the client learn what normal skin looks like and notice changes early, and a yearly full-skin exam by a provider adds an expert look and possible biopsy. Either one alone is incomplete for a high-risk client. Checking only large moles is tempting because of the 6-mm rule, but evolving moles of any size need attention, and self-exams should cover the whole body.",
+   "takeaway": "High-risk clients: monthly self-exams plus a yearly professional skin exam.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-062",
@@ -2268,20 +2310,21 @@
    "stem": "While bathing a 68-year-old client admitted for pneumonia, the nurse notices a 9-mm mole on the client's back with an irregular border and areas of black and red. The client says he has never seen it because he cannot see his back. Which action should the nurse take?",
    "options": [
     "Wait until the pneumonia resolves, then recheck the mole at discharge",
-    "Tell the client to watch the mole and mention it at his next checkup",
+    "Recommend that he see a dermatologist after he is discharged",
     "Document the mole's features and notify the provider for evaluation",
-    "Cover the mole with a dressing to protect it from rubbing in bed"
+    "Measure the mole and describe its features in the nursing notes"
    ],
    "answer": 2,
    "priority": true,
    "optionRationales": [
-    "Incorrect. Delaying the report postpones evaluation of a possible melanoma.",
-    "Incorrect. The client cannot see his back, so he cannot monitor it, and the findings need evaluation now.",
+    "Incorrect. Treating the pneumonia is the admission focus, but reporting the mole does not interfere with that care, and waiting delays evaluation.",
+    "Incorrect. A dermatology referral is reasonable, but this mole meets several ABCDE criteria and should be reported to the provider during this admission.",
     "Correct. The mole meets several ABCDE criteria (border, color, diameter), so it should be documented and reported for evaluation.",
-    "Incorrect. A dressing hides the mole but does nothing to get it evaluated."
+    "Incorrect. Measuring and documenting are needed, but this is incomplete because the provider must also be notified to evaluate the mole."
    ],
    "rationale": "A skin assessment during routine care is a chance to find skin cancer early. This mole shows an irregular Border, varied Color, and a Diameter over 6 mm, so it meets several ABCDE criteria and needs provider evaluation and possible biopsy. Melanoma can spread early, so the finding should be reported during this admission even though the client came in for another reason. Waiting until the pneumonia resolves is tempting because the acute illness feels like the focus, but documenting and reporting do not interfere with that care.",
-   "takeaway": "A mole meeting ABCDE criteria is documented and reported when found, even if the client was admitted for something else."
+   "takeaway": "A mole meeting ABCDE criteria is documented and reported when found, even if the client was admitted for something else.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-063",
@@ -2311,7 +2354,8 @@
     "Incorrect. One mild sunburn and a few small moles add some risk, but less than the first student."
    ],
    "rationale": "Lighter skin has less melanin, so it is more easily damaged by UV light. Tanning-bed use and blistering sunburns in childhood add to that risk because UV damage to skin cells builds up over time. Every client is at risk regardless of skin tone, but when time is limited, the nurse focuses teaching on the client with the most risk factors. The olive-skinned student is tempting because of the moles, but that student has fewer and milder risk factors.",
-   "takeaway": "Light skin, tanning beds, and blistering sunburns stack up; the client with the most risk factors gets priority teaching."
+   "takeaway": "Light skin, tanning beds, and blistering sunburns stack up; the client with the most risk factors gets priority teaching.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-064",
@@ -2341,7 +2385,8 @@
     "Incorrect. Documentation follows the RN's own assessment."
    ],
    "rationale": "A mole that bleeds is a possible evolving lesion and needs evaluation. UAPs can report what they observe, but assessment belongs to the RN, so the RN first assesses the mole personally using the ABCDE features. That assessment provides the information the provider needs. Notifying the provider immediately is tempting because the finding is concerning, but the call is more useful once the RN has assessed the lesion.",
-   "takeaway": "When a UAP reports an abnormal finding, the RN assesses it personally before notifying the provider."
+   "takeaway": "When a UAP reports an abnormal finding, the RN assesses it personally before notifying the provider.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-065",
@@ -2358,20 +2403,21 @@
    "stem": "A 22-year-old with fair skin and red hair is starting a summer job as a landscaper. Which instruction about sun protection is most appropriate?",
    "options": [
     "Apply SPF 50 once in the morning, since a higher SPF lasts through the whole day",
-    "Build up a light tan in the first few weeks so that the skin will burn less later",
+    "Wear a wide-brimmed hat and long sleeves instead of using sunscreen at work",
     "Apply broad-spectrum SPF 30 or higher before work and reapply about every 2 hours",
-    "Skip sunscreen on cloudy days, since clouds block most of the sun's UV rays"
+    "Apply broad-spectrum SPF 30 or higher each morning before starting work"
    ],
    "answer": 2,
    "priority": true,
    "optionRationales": [
-    "Incorrect. A higher SPF does not last longer; sunscreen must be reapplied about every 2 hours.",
-    "Incorrect. A tan is a sign of DNA damage and does not protect against skin cancer.",
+    "Incorrect. A higher SPF does block more UVB, but no sunscreen lasts all day; sweat and time wear it off, so reapplication is needed.",
+    "Incorrect. Hats and sleeves are important protection, but they leave the face, neck, and hands exposed, so sunscreen is still needed.",
     "Correct. Broad-spectrum SPF 30 or higher, reapplied about every 2 hours and after sweating, is the standard recommendation.",
-    "Incorrect. UV passes through clouds, so sunscreen is needed on cloudy days."
+    "Incorrect. This product and timing are correct, but it is incomplete because sunscreen must be reapplied about every 2 hours during outdoor work."
    ],
-   "rationale": "Sun protection is the most important way to prevent skin cancer, and this client has light skin and long hours of outdoor work. Sunscreen should be broad-spectrum (UVA and UVB), SPF 30 or higher, and reapplied about every 2 hours and after sweating or towel drying, along with a wide-brimmed hat, long sleeves, and shade when possible. The SPF 50 option is tempting because a higher number sounds stronger, but no sunscreen lasts all day. Base tans and skipping cloudy days are common myths.",
-   "takeaway": "Broad-spectrum SPF 30+, reapplied about every 2 hours and after sweating, every day including cloudy days."
+   "rationale": "Sun protection is the most important way to prevent skin cancer, and this client has light skin and long hours of outdoor work. Sunscreen should be broad-spectrum (UVA and UVB), SPF 30 or higher, and reapplied about every 2 hours and after sweating or towel drying, along with a wide-brimmed hat, long sleeves, and shade when possible. The SPF 50 option is tempting because a higher number sounds stronger, but no sunscreen lasts all day. Clothing helps but does not replace sunscreen on exposed skin.",
+   "takeaway": "Broad-spectrum SPF 30+, reapplied about every 2 hours and after sweating, every day including cloudy days.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-066",
@@ -2403,7 +2449,8 @@
     "Incorrect. The client's anxiety deserves a response, but it is not a physical threat."
    ],
    "rationale": "After a skin biopsy, the client keeps the site clean and covered and reports redness, swelling, drainage, or bleeding that will not stop. Bleeding that soaks through the bandage twice despite pressure is the one report that signals an active physical problem. Mild soreness and a small amount of pink drainage are expected. The anxious client is tempting because waiting for a possible cancer result is stressful, but a physical complication comes first.",
-   "takeaway": "After a skin biopsy, bleeding that will not stop with pressure needs immediate follow-up; mild soreness and scant drainage are expected."
+   "takeaway": "After a skin biopsy, bleeding that will not stop with pressure needs immediate follow-up; mild soreness and scant drainage are expected.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-067",
@@ -2421,21 +2468,22 @@
    "hintStrategy": "Any option claiming a skin tone cannot be damaged by the sun is wrong.",
    "stem": "A 29-year-old client with dark brown skin and melasma on both cheeks says, “I don't need sunscreen. People with my skin color don't get sun damage.” Which response by the nurse is best?",
    "options": [
-    "“You're right that your skin tone protects you, so sunscreen is optional for you.”",
-    "“You need sunscreen only if you have had a blistering sunburn in the past.”",
-    "“Sunscreen helps mainly at the beach or pool, not during everyday activities.”",
+    "“Your skin does have more natural protection, so a wide hat may be enough.”",
+    "“Many people believe that. What have you heard about sunscreen and dark skin?”",
+    "“A tinted moisturizer with sunscreen can help even out your melasma patches.”",
     "“Darker skin can still be damaged by UV, and sun makes melasma patches darker.”"
    ],
    "answer": 3,
    "priority": false,
    "optionRationales": [
-    "Incorrect. All skin tones are at risk, and skin cancer in darker skin is often found later.",
-    "Incorrect. Sun damage builds up without a blistering burn.",
-    "Incorrect. Everyday exposure adds up and darkens melasma.",
+    "Incorrect. Darker skin does have more melanin, but it is not immune to UV damage, and a hat alone does not protect all exposed skin.",
+    "Incorrect. Exploring the client's beliefs is a reasonable start, but this misconception affects health, so the nurse should give accurate information.",
+    "Incorrect. Sunscreen does help melasma, but this response does not correct the belief that darker skin is not damaged by the sun.",
     "Correct. Darker skin has more melanin but is not immune to UV damage or skin cancer, and sun exposure worsens melasma."
    ],
-   "rationale": "Darker skin has more melanin, which absorbs UV, but it is not immune to sun damage or skin cancer, and skin cancer in darker skin is often found later. Melasma, the dark facial patches more common in darker skin, gets darker with sun exposure, which gives this client a personal reason to use protection. Agreeing with the client is tempting because darker skin does have more natural protection, but \"less risk\" is not \"no risk.\" Sun protection is for every skin tone.",
-   "takeaway": "Sun protection is for every skin tone; in darker skin, it also keeps melasma from darkening."
+   "rationale": "Darker skin has more melanin, which absorbs UV, but it is not immune to sun damage or skin cancer, and skin cancer in darker skin is often found later. Melasma, the dark facial patches more common in darker skin, gets darker with sun exposure, which gives this client a personal reason to use protection. Partly agreeing with the client is tempting because darker skin does have more natural protection, but \"less risk\" is not \"no risk.\" Sun protection is for every skin tone.",
+   "takeaway": "Sun protection is for every skin tone; in darker skin, it also keeps melasma from darkening.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-068",
@@ -2451,21 +2499,22 @@
    "hintStrategy": "Eliminate options that put a time limit on risk; cumulative-damage questions reward the \"adds up\" answer.",
    "stem": "A 61-year-old client says, “I had a lot of bad sunburns as a lifeguard when I was a teenager, but I haven't burned in 30 years, so that damage is behind me.” Which response by the nurse is most accurate?",
    "options": [
-    "“Skin fully repairs sun damage within a few years, so your risk is now the same as anyone's.”",
+    "“Protecting your skin now still matters, because new sun exposure adds to your risk.”",
     "“Sun damage to skin cells adds up over the years, so skin cancer can appear decades later.”",
-    "“Only sunburns after age 40 raise skin cancer risk, so your teen burns do not matter.”",
-    "“Skin cancer shows up within a year or two of a bad burn, so your risk is now low.”"
+    "“Most skin cancers can be cured when they are found and treated early enough.”",
+    "“A yearly skin exam by a provider will catch any problems from that old sun damage.”"
    ],
    "answer": 1,
    "priority": false,
    "optionRationales": [
-    "Incorrect. UV damage to skin-cell DNA accumulates rather than fully reversing.",
+    "Incorrect. Ongoing sun protection is correct teaching, but this does not correct the belief that the old damage is behind him.",
     "Correct. Each burn or tan adds DNA damage, and skin cancer often appears decades after the exposure.",
-    "Incorrect. Childhood and teen sunburns raise skin cancer risk.",
-    "Incorrect. Skin cancer often appears many years after the damage occurs."
+    "Incorrect. Early detection does improve outcomes, but this does not answer whether his past burns still affect his risk.",
+    "Incorrect. A yearly exam is appropriate, but it does not explain that old damage persists and overpromises what one exam can catch."
    ],
-   "rationale": "UV radiation damages the DNA of skin cells, and that damage builds up over years. Skin cancer often shows up decades after the burns and tans that caused it, which is why it appears most on sun-exposed skin in older adults. This client's history of repeated teenage burns raises risk now, so monthly self-exams, a yearly professional exam, and ongoing sun protection are appropriate. Believing that skin \"heals\" from old burns is the tempting misconception.",
-   "takeaway": "UV damage accumulates; skin cancer can appear decades after the sunburns that caused it."
+   "rationale": "UV radiation damages the DNA of skin cells, and that damage builds up over years. Skin cancer often shows up decades after the burns and tans that caused it, which is why it appears most on sun-exposed skin in older adults. This client's history of repeated teenage burns raises risk now, so monthly self-exams, a yearly professional exam, and ongoing sun protection are appropriate. Statements about sun protection or screening are true, but only the cumulative-damage explanation corrects his belief.",
+   "takeaway": "UV damage accumulates; skin cancer can appear decades after the sunburns that caused it.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-069",
@@ -2481,21 +2530,22 @@
    "hintStrategy": "Beware of \"only\" and \"skips\" in answer choices; risk factors usually add together.",
    "stem": "A 34-year-old client says, “My father was just diagnosed with melanoma. Does that change anything for me?” Which response by the nurse is most accurate?",
    "options": [
-    "“Melanoma is caused only by sun exposure, so family history does not affect you.”",
+    "“Sun exposure is the main cause of melanoma, so focus on wearing sunscreen daily.”",
     "“A parent with melanoma raises your own risk, so regular skin checks matter more.”",
-    "“Your risk is higher only if you have the same skin tone as your father.”",
-    "“Melanoma skips a generation, so your children are at risk but you are not.”"
+    "“Watch for any new or changing moles and report them to your provider promptly.”",
+    "“Your risk may be higher, so ask your provider about genetic testing for melanoma.”"
    ],
    "answer": 1,
    "priority": false,
    "optionRationales": [
-    "Incorrect. UV exposure is the main cause, but genetics and family history also raise risk.",
+    "Incorrect. UV is the main cause of skin cancer and sunscreen matters, but this ignores that family history also raises the client's risk.",
     "Correct. A family history of melanoma raises a client's own risk, so monthly self-exams, a yearly professional exam, and sun protection are important.",
-    "Incorrect. Family history raises risk regardless of skin tone.",
-    "Incorrect. Melanoma risk does not skip a generation; a parent's history affects the client directly."
+    "Incorrect. Watching for changing moles is good teaching, but it does not answer whether the father's diagnosis changes the client's risk.",
+    "Incorrect. Risk is higher, but genetic testing is not routine for most families; regular skin checks and sun protection are the standard response."
    ],
-   "rationale": "Genetics and family history are risk factors that cannot be changed, and a parent with melanoma raises a client's own risk. Knowing this identifies the client as someone who needs extra teaching: monthly self-exams, a yearly professional skin exam, and strict sun protection. The \"sun only\" answer is tempting because UV is the main cause of skin cancer, but risk factors combine. The nurse uses the news as a teaching moment.",
-   "takeaway": "A parent with melanoma raises the client's risk: teach self-exams, yearly professional exams, and sun protection."
+   "rationale": "Genetics and family history are risk factors that cannot be changed, and a parent with melanoma raises a client's own risk. Knowing this identifies the client as someone who needs extra teaching: monthly self-exams, a yearly professional skin exam, and strict sun protection. Focusing only on sunscreen is tempting because UV is the main cause of skin cancer, but risk factors combine. The nurse uses the news as a teaching moment.",
+   "takeaway": "A parent with melanoma raises the client's risk: teach self-exams, yearly professional exams, and sun protection.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-070",
@@ -2513,21 +2563,22 @@
    "hintStrategy": "The best answer meets every requirement; one missing element makes an option wrong.",
    "stem": "The parent of a 7-year-old who will attend an outdoor swim camp asks the nurse which sunscreen to buy and how to use it. Which recommendation is best?",
    "options": [
-    "Water-resistant SPF 15, applied once before camp because it lasts all day",
-    "SPF 50 that is not broad-spectrum, applied once each morning before camp",
-    "Broad-spectrum SPF 30 applied only to the face, since a swim shirt covers the rest",
+    "Broad-spectrum, water-resistant SPF 30, applied once each morning before camp",
+    "Broad-spectrum SPF 50, reapplied every 2 hours, with no need for water resistance",
+    "Broad-spectrum, water-resistant SPF 30, reapplied only after the child swims",
     "Broad-spectrum, water-resistant SPF 30, reapplied every 2 hours and after swimming"
    ],
    "answer": 3,
    "priority": false,
    "optionRationales": [
-    "Incorrect. SPF 15 is too low, and water-resistant sunscreen still needs reapplying.",
-    "Incorrect. Sunscreen should block both UVA and UVB, and one application is not enough.",
-    "Incorrect. The arms, legs, ears, and neck are also exposed and need protection.",
+    "Incorrect. The product is correct, but water-resistant does not mean all day; one morning application wears off during swimming and sweating.",
+    "Incorrect. Broad-spectrum and reapplication are right, but a child at swim camp needs a water-resistant product that stays on in the water.",
+    "Incorrect. Reapplying after swimming is right, but sunscreen also needs reapplication about every 2 hours even when the child stays dry.",
     "Correct. Broad-spectrum (UVA and UVB), water-resistant SPF 30 or higher, reapplied about every 2 hours and after swimming, is the recommendation."
    ],
-   "rationale": "Effective sunscreen is broad-spectrum (blocking UVA and UVB), SPF 30 or higher, and water-resistant for swimming or sweating. Water-resistant does not mean all day: it must be reapplied about every 2 hours and after swimming, sweating, or towel drying. The SPF 50 option is tempting because the number is higher, but without broad-spectrum coverage and reapplication it does not protect well. A swim shirt helps, but all exposed skin still needs sunscreen.",
-   "takeaway": "Swimming: broad-spectrum, water-resistant SPF 30+, reapplied about every 2 hours and after swimming or toweling."
+   "rationale": "Effective sunscreen is broad-spectrum (blocking UVA and UVB), SPF 30 or higher, and water-resistant for swimming or sweating. Water-resistant does not mean all day: it must be reapplied about every 2 hours and after swimming, sweating, or towel drying. A higher SPF is tempting, but without water resistance it washes off at a swim camp. A swim shirt helps, but all exposed skin still needs sunscreen.",
+   "takeaway": "Swimming: broad-spectrum, water-resistant SPF 30+, reapplied about every 2 hours and after swimming or toweling.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x2-071",

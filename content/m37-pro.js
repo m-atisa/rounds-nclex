@@ -333,7 +333,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m37-pro-002",
@@ -343,17 +344,17 @@ window.NURSE_DATA.push({
       "options": [
         "Request a consult with the registered dietitian for medical nutrition therapy.",
         "Ask the nutritionist to design the client’s renal and diabetic meal plan.",
-        "Give the client a general healthy-eating handout from the wellness coach.",
-        "Advise the client to follow the hospital diet and adjust it after discharge."
+        "Ask the provider to order a renal diabetic diet for the hospital stay.",
+        "Review a renal diet handout with the client and list high-potassium foods."
       ],
       "answer": 0,
       "optionRationales": [
-        "Correct. Disease-specific diets for kidney disease and diabetes are medical nutrition therapy, which is the scope of the registered dietitian.",
+        "Correct. Disease-specific diets for kidney disease and diabetes are medical nutrition therapy, which is the scope of the registered dietitian. The dietitian can individualize all three restrictions into one plan.",
         "Incorrect. A nutritionist teaches general healthy eating and does not provide medical nutrition therapy for acute or chronic disease.",
-        "Incorrect. General healthy-eating advice can conflict with renal restrictions (for example, high-potassium fruits and vegetables).",
-        "Incorrect. This defers a clearly identified learning need and gives the client no plan for managing restrictions at home."
+        "Incorrect. A diet order controls hospital meals, but it does not give the client an individualized plan or teaching for meals at home.",
+        "Incorrect. Reinforcing potassium limits is a reasonable nursing action, but it is incomplete; it skips phosphorus and carbohydrates and does not replace medical nutrition therapy by the dietitian."
       ],
-      "rationale": "The registered dietitian (RD/RDN) is credentialed to provide medical nutrition therapy to prevent and manage acute and chronic conditions such as kidney disease and diabetes. A nutritionist may know a great deal about food but teaches general healthy diets and does not treat disease. The nutritionist option is the trap because the title sounds equivalent; the clue is the disease-specific restrictions. Generic healthy-eating materials may even be harmful for a client who must limit potassium.",
+      "rationale": "The registered dietitian (RD/RDN) is credentialed to provide medical nutrition therapy to prevent and manage acute and chronic conditions such as kidney disease and diabetes. A nutritionist may know a great deal about food but teaches general healthy diets and does not treat disease. The nutritionist option is the trap because the title sounds equivalent; the clue is the disease-specific restrictions. A diet order or a renal handout helps, but neither builds an individualized plan that balances potassium, phosphorus, and carbohydrate limits.",
       "takeaway": "Disease-specific diet planning = registered dietitian, not a nutritionist.",
       "hintContent": "Consider whose credential covers nutrition therapy for a chronic disease rather than general wellness.",
       "hintStrategy": "When two options name similar-sounding roles, find the scope difference that the stem’s details make decisive.",
@@ -363,7 +364,8 @@ window.NURSE_DATA.push({
       "focus": "Client Teaching",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m37-pro-003",
@@ -430,7 +432,8 @@ window.NURSE_DATA.push({
       "focus": "Delegation & Safety",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m37-pro-005",
@@ -472,17 +475,17 @@ window.NURSE_DATA.push({
       "options": [
         "“Your provider wants 30 minutes of exercise daily, so try to make the time.”",
         "“Let’s look at your weekly schedule together and set a goal that feels realistic.”",
-        "“I’ll ask your provider whether a medicine change could replace exercise.”",
-        "“Many people feel that way, but exercise is not optional with your diagnosis.”"
+        "“Brisk walking counts as exercise, so you can do it near home without a gym.”",
+        "“I’ll find a low-cost exercise program near your work that you can try this week.”"
       ],
       "answer": 1,
       "optionRationales": [
         "Incorrect. This relays a directive and places responsibility on the client without exploring barriers or involving the client in goal setting.",
         "Correct. Working with the client to set a mutually agreed-on, realistic goal reflects the nurse’s collaborative role with clients.",
-        "Incorrect. This bypasses the client’s participation and reframes lifestyle change as unnecessary.",
-        "Incorrect. This dismisses the client’s concern and uses pressure instead of partnership."
+        "Incorrect. This is accurate teaching that addresses the gym barrier, but the nurse supplies the answer instead of setting a goal with the client.",
+        "Incorrect. Finding resources is helpful, but the nurse decides for the client; the client’s schedule and preferences are not explored, so the goal may not fit his life."
       ],
-      "rationale": "Box 37.2 describes the nurse as a collaborator who encourages active client involvement and autonomy, treats the client as an equal team member, and helps set mutually agreed-on goals. Reviewing the client’s schedule together respects his reality and produces a goal he is more likely to follow, which improves adherence. Relaying the provider’s directive sounds supportive but is status-based and one-way. Dismissing the barrier or seeking a medication substitute removes the client from the decision.",
+      "rationale": "Box 37.2 describes the nurse as a collaborator who encourages active client involvement and autonomy, treats the client as an equal team member, and helps set mutually agreed-on goals. Reviewing the client’s schedule together respects his reality and produces a goal he is more likely to follow, which improves adherence. Relaying the provider’s directive sounds supportive but is status-based and one-way. Teaching that walking counts or finding a program for him is helpful, but the nurse still makes the plan instead of building it with the client.",
       "takeaway": "Collaborating with clients means mutually agreed-on goals that fit their lives.",
       "hintContent": "Which option makes the client a partner in deciding what he will do?",
       "hintStrategy": "In communication items, prefer responses that explore and involve over responses that tell, insist, or bypass.",
@@ -492,7 +495,8 @@ window.NURSE_DATA.push({
       "focus": "Client Teaching",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m37-pro-007",
@@ -543,14 +547,14 @@ window.NURSE_DATA.push({
         "Implement the orders, because nurses in the previous state could accept PA orders.",
         "Hold all of the orders until the supervising physician cosigns each one.",
         "Verify the state nurse practice act and agency policy on PA orders.",
-        "Ask the charge nurse to carry out the orders until the nurse is certain."
+        "Call the PA to confirm each order before implementing any of them."
       ],
       "answer": 2,
       "optionRationales": [
         "Incorrect. Authority to implement orders does not transfer from one state to another; the nurse must verify this state’s nurse practice act and this agency’s policy.",
         "Incorrect. Holding every order may delay needed care and adds a requirement that may not exist in this state.",
         "Correct. Nurses must check their state nurse practice act and agency policy before following orders written by a PA; the charge nurse or policy can provide a quick answer.",
-        "Incorrect. Shifting the work to another nurse does not resolve the question and delays the nurse’s own accountability."
+        "Incorrect. Clarifying orders with the prescriber is a sound habit, but it confirms what was ordered, not whether this state and agency allow the nurse to implement PA orders."
       ],
       "rationale": "Physician assistants diagnose and treat under physician direction, but the rules for nurses carrying out their orders are set by state law and agency policy. The nurse is accountable for knowing that the order source is legitimate before acting, so verification is the correct step—and it can be done quickly through policy or the charge nurse so care is not delayed. Implementing on assumption is the most tempting distractor, but what the nurse’s previous state allowed does not settle what this state and agency permit. Holding everything for cosignature imposes a rule that may not apply and could delay care.",
       "takeaway": "Before implementing PA orders in a new setting, verify the state nurse practice act and agency policy.",
@@ -562,7 +566,8 @@ window.NURSE_DATA.push({
       "focus": "Delegation & Safety",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m37-pro-009",
@@ -592,7 +597,8 @@ window.NURSE_DATA.push({
       "focus": "Lifespan & Diversity",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m37-pro-010",
@@ -622,7 +628,8 @@ window.NURSE_DATA.push({
       "focus": "Prioritization",
       "difficulty": 3,
       "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m37-pro-011",
@@ -728,7 +735,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 1,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m37-pro-014",
@@ -736,15 +744,15 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "A client who had a total knee replacement insists on going home to his two-story house, where the only bathroom is upstairs. His spouse supports his decision but is worried about falls. Which action by the nurse is the best next step?",
       "options": [
-        "Explain to the client that a rehabilitation facility is the safest place for him.",
-        "Ask the surgeon to delay discharge until the client agrees to a rehabilitation stay.",
+        "Ask the case manager to order a bedside commode for the first-floor room.",
+        "Document the client’s decision and the spouse’s concern about falls at home.",
         "Arrange a meeting with the client, spouse, physical therapist, and case manager.",
         "Teach the spouse to help the client climb stairs safely before he leaves today."
       ],
       "answer": 2,
       "optionRationales": [
-        "Incorrect. This overrides the client’s goal before the team has assessed whether home can be made safe.",
-        "Incorrect. Using discharge as leverage is coercive and does not respect autonomy.",
+        "Incorrect. A bedside commode may be part of the plan, but ordering it alone skips the PT safety assessment and the client’s and spouse’s input.",
+        "Incorrect. Documenting the choice and the concern is required, but it does not address the fall risk or build a safe plan for home.",
         "Correct. An interprofessional meeting that includes the client and spouse lets PT assess stair safety and the case manager arrange home health and equipment while honoring the client’s wishes.",
         "Incorrect. Stair training is part of PT’s plan and should follow a team assessment; teaching alone does not solve the bathroom access and equipment issues."
       ],
@@ -760,7 +768,8 @@ window.NURSE_DATA.push({
       "focus": "Prioritization",
       "difficulty": 3,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m37-pro-015",
@@ -821,7 +830,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m37-pro-016",
@@ -851,7 +861,8 @@ window.NURSE_DATA.push({
       "focus": "Delegation & Safety",
       "difficulty": 1,
       "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m37-pro-017",
@@ -862,14 +873,14 @@ window.NURSE_DATA.push({
         "“Got it—potassium chloride IV. I’ll hang it when pharmacy sends it up.”",
         "“I’ll document this as a phone order so you can sign it tomorrow.”",
         "“Potassium chloride 10 mEq in 100 mL IV over 1 hour—is that correct?”",
-        "“Okay. Is there anything else you would like me to do for the client?”"
+        "“Potassium chloride, 10 mEq IV. I’ll check his latest potassium level.”"
       ],
       "answer": 2,
       "optionRationales": [
         "Incorrect. Acknowledging only the drug and route omits the dose and rate—the details most likely to be misheard.",
-        "Incorrect. Documentation is required, but it does not verify that the order was heard correctly.",
+        "Incorrect. Documenting the telephone order for later signature is required, but it does not verify that the order was heard correctly.",
         "Correct. Repeating the full order and asking for confirmation is checkback, closing the communication loop.",
-        "Incorrect. This ends the call without verifying a high-alert medication order."
+        "Incorrect. Checking the potassium level is good practice, but this partial read-back omits the volume and rate and never asks the provider to confirm."
       ],
       "rationale": "Checkback is closed-loop communication: the receiver repeats the critical information and the sender confirms it. IV potassium is a high-alert medication, and dose and rate errors can be fatal, so the nurse repeats the entire order and waits for confirmation before acting. A partial read-back is the tempting distractor because it sounds like verification, but it skips the exact elements that most need checking.",
       "takeaway": "Read back the complete verbal or telephone order and get the sender’s confirmation before acting.",
@@ -881,7 +892,8 @@ window.NURSE_DATA.push({
       "focus": "Pharmacology",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m37-pro-018",
@@ -891,15 +903,15 @@ window.NURSE_DATA.push({
       "options": [
         "Hand the scalpel to the surgeon and complete an incident report afterward.",
         "Stop the procedure and immediately notify the perioperative charge nurse.",
-        "Document the surgeon’s response in the record and continue with the case.",
-        "Report the surgeon to the state medical board after the procedure ends."
+        "Review the consent and history to confirm which knee is correct.",
+        "State the concern to the surgeon a third time before the incision."
       ],
       "answer": 1,
       "optionRationales": [
         "Incorrect. Proceeding allows a possible wrong-site surgery; reporting afterward does not protect the client.",
         "Correct. After two challenges go unaddressed, the nurse takes stronger action—stopping the procedure and escalating up the chain of command.",
-        "Incorrect. Documentation without action leaves the client at risk.",
-        "Incorrect. External reporting is not the immediate next step and does nothing to prevent the error now."
+        "Incorrect. Verifying the records is reasonable, but the discrepancy is already known and the surgeon is about to cut; the procedure must be stopped first.",
+        "Incorrect. Voicing the concern was right, but it has already been stated twice; the Two-Challenge Rule now calls for stronger action and escalation."
       ],
       "rationale": "The Two-Challenge Rule gives every team member the right and duty to voice a safety concern at least twice. If the concern is still not addressed, the member takes additional action and goes up the chain of command. Here the next step is to stop the procedure (any team member may call a stop for a site discrepancy) and immediately involve the perioperative charge nurse or supervisor. An incident report afterward is the tempting choice because it is a recognized safety tool, but it does not prevent harm that is about to occur.",
       "takeaway": "After two unaddressed challenges, stop the unsafe action and escalate up the chain of command.",
@@ -913,7 +925,8 @@ window.NURSE_DATA.push({
       "focus": "Delegation & Safety",
       "difficulty": 3,
       "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m37-pro-019",
@@ -961,17 +974,17 @@ window.NURSE_DATA.push({
       "options": [
         "“Mr. Hale is worried therapy will hurt. What ideas do we have to help him?”",
         "“You need to get him to therapy today, or his discharge will be delayed.”",
-        "“I told therapy he’d go at 1000, so make sure he is ready on time.”",
-        "“Therapy is the PT’s responsibility, so the PT can handle his refusal.”"
+        "“Let’s all remind Mr. Hale how therapy will help him get home sooner.”",
+        "“PT, please share your plan, and nursing will reinforce it with him.”"
       ],
       "answer": 0,
       "optionRationales": [
-        "Correct. It centers the client’s concern, uses “we,” and invites input from the team.",
+        "Correct. It centers the client’s concern, uses “we,” and invites input from the team. It starts with what the client is worried about.",
         "Incorrect. This is a status-based “you” command that discourages input.",
-        "Incorrect. A decision made alone and passed down is one-way, status-based communication.",
-        "Incorrect. This rejects shared responsibility for a team goal."
+        "Incorrect. This uses “we” language, but it focuses on persuading the client rather than exploring his concern and asking the team for ideas.",
+        "Incorrect. Inviting the PT to share is collaborative, but it leaves out the client’s concern and the rest of the team’s ideas."
       ],
-      "rationale": "Team-centered communication flattens hierarchy, shows appreciation, and focuses on “we” and on the client’s concerns (“Mr. X is concerned about… What are your thoughts?”). It invites everyone to contribute solutions, which surfaces ideas such as timing pain medication before therapy. Status-based communication—one-sided commands like “You need to…”—discourages people from speaking up and increases error risk. Assigning the problem solely to PT ignores that team goals come before individual roles.",
+      "rationale": "Team-centered communication flattens hierarchy, shows appreciation, and focuses on “we” and on the client’s concerns (“Mr. X is concerned about… What are your thoughts?”). It invites everyone to contribute solutions, which surfaces ideas such as timing pain medication before therapy. Status-based communication—one-sided commands like “You need to…”—discourages people from speaking up and increases error risk. Reminding the client of benefits or asking only the PT for a plan sounds cooperative but skips the client’s actual concern.",
       "takeaway": "Team-centered statements start with the client’s concern and invite “our” solutions.",
       "hintContent": "Listen for “we,” the client’s concern, and a question that invites input.",
       "hintStrategy": "In communication items, eliminate commands and blame; choose the option that invites participation.",
@@ -983,7 +996,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m37-pro-021",
@@ -1074,7 +1088,8 @@ window.NURSE_DATA.push({
       "focus": "Prioritization",
       "difficulty": 3,
       "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m37-pro-023",
@@ -1146,7 +1161,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m37-pro-025",
@@ -1156,15 +1172,15 @@ window.NURSE_DATA.push({
       "options": [
         "“This is a safety issue. I need you to evaluate him before he leaves.”",
         "“I’ll discharge him as ordered and document that I disagreed with it.”",
-        "“Could we talk about his discharge plan later this afternoon instead?”",
-        "“The other nurses also think sending him home is a bad idea today.”"
+        "“I’m still concerned his heart rate is too high to send him home.”",
+        "“His heart rate has stayed 124 to 130 for 4 hours, not just once.”"
       ],
       "answer": 0,
       "optionRationales": [
         "Correct. This completes the CUS script with its final step—naming a Safety issue—and makes a specific request, signaling that the team must stop and reassess before discharge.",
         "Incorrect. Documenting disagreement while carrying out a plan the nurse believes is unsafe does not protect the client.",
-        "Incorrect. Postponing the conversation avoids the concern while the discharge proceeds.",
-        "Incorrect. Invoking others’ opinions is not a structured, data-based escalation and is likely to increase conflict."
+        "Incorrect. Restating concern is honest, but it repeats the first CUS step that has already been dismissed instead of escalating.",
+        "Incorrect. These facts strengthen the case, but restating data does not name the safety issue or request a specific action."
       ],
       "rationale": "CUS is a TeamSTEPPS escalation script with three escalating steps: “I am Concerned… I am Uncomfortable… This is a Safety issue.” The nurse has already used the first two steps, and the client is still being discharged with persistent tachycardia, so the next step is to state plainly that this is a safety issue and request a specific action. The standardized words signal to any team member, regardless of hierarchy, that the concern must be acknowledged. Documenting disagreement is the tempting option because it feels protective, but it leaves the client at risk. If the safety statement is still dismissed, the nurse follows the Two-Challenge Rule and goes up the chain of command.",
       "takeaway": "CUS escalates in order—Concerned, Uncomfortable, then “This is a Safety issue” with a specific request.",
@@ -1178,7 +1194,8 @@ window.NURSE_DATA.push({
       "focus": "Delegation & Safety",
       "difficulty": 3,
       "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m37-pro-026",
@@ -1265,14 +1282,14 @@ window.NURSE_DATA.push({
         "Page the provider right away and report the new heart rate.",
         "Complete a focused assessment and gather current data.",
         "Document the heart rate and recheck it again in 1 hour.",
-        "Ask the charge nurse to call the provider in the nurse’s place."
+        "Check the chart for the client’s most recent pain medicine dose."
       ],
       "answer": 1,
       "optionRationales": [
         "Incorrect. Calling with a single number leaves the provider without the data needed to decide and weakens the SBAR.",
         "Correct. Assessing the client (vital signs, pain, dressing, drains, output) provides the Situation, Background, and Assessment data for an effective call.",
         "Incorrect. Waiting an hour delays recognition of a possible complication such as bleeding or sepsis.",
-        "Incorrect. The nurse who knows the client should assess and call; delegating the call adds delay and loses information."
+        "Incorrect. Reviewing recent medications is useful background, but it is incomplete; the nurse must assess the client directly for bleeding, sepsis, or other causes."
       ],
       "rationale": "Before calling a provider, the nurse assesses the client and gathers current data so the SBAR call is complete and actionable. A new tachycardia with a sense that something is wrong could signal bleeding, sepsis, or another complication, and the provider will need vital signs, assessment findings, and recent labs to decide. Paging immediately is the tempting distractor because the change is concerning, but an incomplete report often leads to a dismissive answer. This is not an arrest situation, so a rapid focused assessment comes first.",
       "takeaway": "Assess the client and gather the data before you call.",
@@ -1284,7 +1301,8 @@ window.NURSE_DATA.push({
       "focus": "Prioritization",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m37-pro-029",
@@ -1314,7 +1332,8 @@ window.NURSE_DATA.push({
       "focus": "Assessment Findings",
       "difficulty": 1,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m37-pro-030",
@@ -1361,18 +1380,18 @@ window.NURSE_DATA.push({
       "stem": "A nurse and a respiratory therapist begin a heated disagreement in the hallway outside a client’s room about who should teach the client to use an incentive spirometer. The client and a visitor can hear them. Which action by the nurse is most appropriate first?",
       "options": [
         "Suggest that they continue the discussion in the staff conference room.",
-        "Ask the client which professional the client would prefer to teach him.",
-        "Tell the respiratory therapist the behavior will be reported to the manager.",
-        "Keep explaining the nursing role until the therapist agrees with the plan."
+        "Apologize to the client and visitor for the disagreement they overheard.",
+        "Ask the charge nurse to decide which discipline will teach the client.",
+        "Lower her voice and calmly finish explaining the nursing role to the RT."
       ],
       "answer": 0,
       "optionRationales": [
         "Correct. Moving the discussion to a private place away from client care areas protects privacy and lowers tension before problem solving.",
-        "Incorrect. Involving the client in a staff dispute is inappropriate and does not address the public conflict.",
-        "Incorrect. A threat is destructive criticism and escalates the conflict.",
-        "Incorrect. Persisting to win is competing on a nonsafety issue and keeps the argument public."
+        "Incorrect. Acknowledging the client is courteous, but the argument is still happening in the client’s hearing and the conflict is not addressed.",
+        "Incorrect. Escalating may help later, but the two professionals should first try to resolve a role question directly and privately.",
+        "Incorrect. A calm tone helps, but the discussion stays in a client care area where the client and visitor can still hear."
       ],
-      "rationale": "A staff-level prevention and management strategy is to discuss conflicts in a private place, away from client care areas, while maintaining a calm, respectful demeanor. Once in private, both can share perspectives and agree on roles—for example, the RT teaching technique and the nurse reinforcing it. Threatening to report is tempting because the behavior is unprofessional, but threats are destructive and escalate conflict. Asking the client to choose drags the client into a staff dispute.",
+      "rationale": "A staff-level prevention and management strategy is to discuss conflicts in a private place, away from client care areas, while maintaining a calm, respectful demeanor. Once in private, both can share perspectives and agree on roles—for example, the RT teaching technique and the nurse reinforcing it. Lowering voices or apologizing to the client is tempting, but the dispute continues within earshot. Going to the charge nurse skips the step of trying to resolve the issue directly with the colleague.",
       "takeaway": "First move a heated staff conflict out of client areas into a private space.",
       "hintContent": "What is the immediate problem created by where this argument is happening?",
       "hintStrategy": "For conflict-in-progress items, secure privacy and calm before problem solving.",
@@ -1384,7 +1403,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m37-pro-032",
@@ -1453,7 +1473,8 @@ window.NURSE_DATA.push({
       "focus": "Delegation & Safety",
       "difficulty": 3,
       "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m37-pro-034",
@@ -1485,7 +1506,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m37-pro-035",
@@ -1494,18 +1516,18 @@ window.NURSE_DATA.push({
       "stem": "In which situation is the accommodating style the most appropriate choice for the nurse?",
       "options": [
         "A coworker who must take a call about her sick child asks to swap break times, and the nurse has no preference.",
-        "A provider asks the nurse to skip a client’s fall-risk precautions because the client dislikes the bed alarm.",
+        "Two nurses each want the same holiday off, and both care equally about having that particular day.",
         "A colleague wants to change a unit protocol in a way the nurse believes conflicts with current evidence.",
-        "A family member insists that the nurse give the client’s next opioid dose early, before it is due."
+        "During a code, the charge nurse must quickly settle a disagreement between two nurses with no time to discuss it."
       ],
       "answer": 0,
       "optionRationales": [
         "Correct. Accommodating works best when one person is much less invested in the issue than the other.",
-        "Incorrect. Accommodating here would compromise client safety.",
+        "Incorrect. When both people are equally invested and a fair split is possible, compromising (such as alternating holidays) fits better than one person giving in.",
         "Incorrect. A disagreement about evidence-based practice deserves collaboration, not self-sacrifice.",
-        "Incorrect. Giving an opioid early to satisfy a family member is unsafe and outside the order."
+        "Incorrect. In an emergency with no time to talk, a quick directive (competing) decision protects the client; accommodating would waste critical time."
       ],
-      "rationale": "Accommodating means satisfying others’ concerns while setting aside one’s own. It works best when one party is much less invested than the other—as with a break swap the nurse does not care about while a coworker urgently needs it. Accommodating is never appropriate when it sacrifices client safety (fall precautions, opioid timing) or evidence-based care. The protocol option is tempting because keeping peace with a colleague seems kind, but the issue matters to client outcomes and calls for collaborating.",
+      "rationale": "Accommodating means satisfying others’ concerns while setting aside one’s own. It works best when one party is much less invested than the other—as with a break swap the nurse does not care about while a coworker urgently needs it. When both parties care equally, compromising fits better; in an emergency, a quick directive decision is needed. The protocol option is tempting because keeping peace with a colleague seems kind, but the issue matters to client outcomes and calls for collaborating.",
       "takeaway": "Accommodate when you care much less than the other person—and never at the expense of safety.",
       "hintContent": "Look for the situation in which the nurse has the least at stake.",
       "hintStrategy": "Eliminate any option in which yielding would risk client safety; then apply the style’s best-use rule.",
@@ -1515,7 +1537,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m37-pro-036",
@@ -1525,17 +1548,17 @@ window.NURSE_DATA.push({
       "options": [
         "“Please lower your voice; other clients are trying to rest right now.”",
         "“You’re worried about your father’s pain. Let’s go check on him together.”",
-        "“His medication was ordered late, so the delay is not the nurses’ fault.”",
-        "“I’ll get the charge nurse so you can file a formal complaint about this.”"
+        "“I understand you’re upset. Please have a seat while I check on him.”",
+        "“Let me look up when his last dose was given and what is ordered.”"
       ],
       "answer": 1,
       "optionRationales": [
         "Incorrect. Correcting his behavior first ignores the fear behind it and is likely to escalate him.",
         "Correct. Acknowledging the emotion and going to assess the father addresses both the son’s fear and the client’s pain, and involves the son.",
-        "Incorrect. Defending staff and assigning blame escalates conflict and does not address the client’s pain.",
-        "Incorrect. Redirecting to a complaint process avoids the immediate concern and the client’s need."
+        "Incorrect. Going to check on him is right, but “I understand” is a stock phrase, and sending the son to sit removes his sense of control instead of involving him.",
+        "Incorrect. Checking the record is needed, but it ignores the son’s emotion and delays going to the bedside to assess the father’s pain."
       ],
-      "rationale": "Family anger often reflects fear and loss of control. The best initial response acknowledges the feeling, moves toward the client to assess and treat the pain, and involves the family—restoring some control and de-escalating tension. Asking him to lower his voice is the tempting distractor because the noise affects other clients, but leading with a correction communicates that the nurse cares more about the noise than his father. Blame and complaint referral avoid the real issue.",
+      "rationale": "Family anger often reflects fear and loss of control. The best initial response acknowledges the feeling, moves toward the client to assess and treat the pain, and involves the family—restoring some control and de-escalating tension. Asking him to lower his voice is the tempting distractor because the noise affects other clients, but leading with a correction communicates that the nurse cares more about the noise than his father. Sending the son to wait or starting with the chart leaves him out and delays the bedside assessment.",
       "takeaway": "With an angry family, acknowledge the emotion, address the client’s need, and involve them.",
       "hintContent": "Which response meets the son’s emotional need and the client’s physical need at once?",
       "hintStrategy": "In therapeutic communication items, choose the response that reflects feelings and moves toward the client’s need.",
@@ -1545,7 +1568,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m37-pro-037",
@@ -1590,19 +1614,19 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "A nurse manager notices growing tension among staff, who complain that “the same people always get the hardest assignments.” Which action by the manager is most likely to prevent further conflict?",
       "options": [
-        "State that assignments are the charge nurse’s decision and are not open to debate.",
+        "Meet privately with each nurse who complained to hear their concerns in detail.",
         "Set transparent criteria for distributing workload and invite staff feedback on them.",
         "Rotate the charge nurse role each week so that no one person makes all assignments.",
-        "Remind staff that complaining in the break room violates the professional code."
+        "Publicly thank staff who accept the heaviest assignments at each staff meeting."
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. Shutting down discussion is status-based and drives conflict underground.",
+        "Incorrect. Listening is a good start, but private meetings do not change how assignments are made, so the perceived unfairness continues.",
         "Correct. Allocating workloads fairly and inviting feedback without fear of punishment are leadership strategies for preventing conflict.",
         "Incorrect. Rotating who decides does not fix the fairness of how assignments are made.",
-        "Incorrect. A punitive reminder ignores the underlying cause and increases covert conflict."
+        "Incorrect. Acknowledging hard work is a leadership strategy, but praise does not make the workload any fairer and may reinforce the imbalance."
       ],
-      "rationale": "Nursing leaders prevent conflict by allocating resources and workloads fairly, defining role expectations clearly, encouraging staff to raise concerns without fear of punitive action, and acknowledging accomplishments. Transparent workload criteria address the cause staff named and invite their input. Rotating charge nurses is tempting because it seems to share power, but without fair criteria the same perception of unfairness persists. Silencing or reprimanding staff pushes the conflict into covert forms.",
+      "rationale": "Nursing leaders prevent conflict by allocating resources and workloads fairly, defining role expectations clearly, encouraging staff to raise concerns without fear of punitive action, and acknowledging accomplishments. Transparent workload criteria address the cause staff named and invite their input. Rotating charge nurses is tempting because it seems to share power, but without fair criteria the same perception of unfairness persists. Listening privately or praising hard workers helps morale but leaves the unfair system in place.",
       "takeaway": "Leaders prevent conflict with fair, transparent workloads and nonpunitive feedback.",
       "hintContent": "Which option fixes the actual cause the staff described?",
       "hintStrategy": "For prevention items, choose the option that targets the root cause rather than the symptom.",
@@ -1612,7 +1636,8 @@ window.NURSE_DATA.push({
       "focus": "Delegation & Safety",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m37-pro-039",
@@ -1672,7 +1697,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m37-pro-041",
@@ -1717,15 +1743,15 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "A new graduate nurse tells the charge nurse that her preceptor repeatedly criticizes her in front of clients and yesterday left a client’s fluid restriction out of report, which nearly caused an error. Which response by the charge nurse is most appropriate?",
       "options": [
-        "“Every new nurse goes through this; it will get better with experience.”",
-        "“Bring it up at the next staff meeting so the whole team knows about it.”",
+        "“Let’s complete a safety report about the missed fluid restriction.”",
+        "“I’ll talk with your preceptor today about how she gives report.”",
         "“I can quietly find you a new preceptor so no one else needs to be involved.”",
         "“Let’s document these incidents and report them to the nurse manager.”"
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. Normalizing bullying allows it to continue and ignores the safety risk.",
-        "Incorrect. Public confrontation escalates conflict and is not the appropriate channel.",
+        "Incorrect. A safety report for the near miss is appropriate, but it addresses only one event and not the pattern of bullying behavior.",
+        "Incorrect. Addressing the preceptor is reasonable, but an informal talk without documentation or the manager is unlikely to stop a repeated pattern that affects safety.",
         "Incorrect. Quietly reassigning avoids the behavior and leaves the near miss and the preceptor’s conduct unaddressed.",
         "Correct. Documenting specific incidents and reporting through the chain of command per policy addresses the bullying and the safety risk."
       ],
@@ -1741,7 +1767,8 @@ window.NURSE_DATA.push({
       "focus": "Delegation & Safety",
       "difficulty": 3,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     }
   ]
 });

@@ -33,7 +33,8 @@
    "rationale": "After birth, swelling and bruising around the urethra put the client at risk for overdistention and incomplete emptying. A full bladder lifts the uterus and pushes it to the side, which can later keep it from contracting well. The first step is the least invasive one: help her to the toilet, give privacy and time, and use running water or warm water over the perineum. Fundal massage is tempting because a displaced uterus suggests a uterine problem, but this fundus is firm and the cause is the bladder. If she still cannot void, the nurse scans the bladder and catheterizes per protocol.",
    "takeaway": "A firm postpartum fundus that sits high and off to one side signals a full bladder, so help the client void before anything more invasive.",
    "hintContent": "Think about which nearby organ can push the uterus up and to the side when it fills.",
-   "hintStrategy": "When the data point to a cause the nurse can fix, choose the least invasive action that treats that cause before escalating."
+   "hintStrategy": "When the data point to a cause the nurse can fix, choose the least invasive action that treats that cause before escalating.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x3-002",
@@ -149,7 +150,8 @@
    "rationale": "A healthy bladder leaves very little urine behind, often under about 50 mL, so a 90 mL void with a 480 mL residual means she is retaining most of her urine. Facility protocols set the threshold for action, and this one directs a one-time straight catheterization for a residual over 300 mL. A firm, dull bladder supports the scan result. Rescanning is tempting because it seems cautious, but that step belongs to the 150 to 300 mL range. Decompressing promptly relieves discomfort and lowers the risk of bladder injury and infection.",
    "takeaway": "Compare a measured post-void residual with the facility threshold and act on it; a large residual means the bladder needs decompression.",
    "hintContent": "Match the residual volume, not the voided volume, to the correct row of the protocol.",
-   "hintStrategy": "In exhibit items, find the exact data value and the rule it triggers before reading the options."
+   "hintStrategy": "In exhibit items, find the exact data value and the rule it triggers before reading the options.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x3-004",
@@ -204,20 +206,21 @@
    "options": [
     "Palpating and percussing his bladder after he voids",
     "Measuring and recording the volume of each void",
-    "Deciding whether he needs a straight catheterization",
+    "Inserting a straight catheter to check his residual",
     "Teaching him how to perform the Credé maneuver"
    ],
    "answer": 1,
    "optionRationales": [
     "Incorrect. Palpating and percussing the bladder is assessment, which is the nurse's responsibility and cannot be delegated.",
     "Correct. Measuring and recording output is a routine, standardized task within the role of assistive personnel, and the nurse then interprets the numbers.",
-    "Incorrect. Deciding on catheterization requires nursing judgment about assessment data and the protocol.",
+    "Incorrect. Checking the residual is part of his monitoring, but straight catheterization is a sterile, invasive procedure that stays with licensed nurses.",
     "Incorrect. Teaching requires nursing knowledge and evaluation of learning, so it stays with the nurse."
    ],
-   "rationale": "Assistive personnel can perform routine, predictable tasks with clear steps, such as measuring and recording intake and output. Assessment, teaching, evaluation, and clinical decisions remain with the nurse. In a client with chronic retention, the nurse uses the recorded volumes along with a bladder assessment to judge whether he empties fully. Palpating the bladder can look like a simple hands-on task, but it is a physical assessment that requires interpretation. The nurse delegates the data collection and keeps the judgment.",
+   "rationale": "Assistive personnel can perform routine, predictable tasks with clear steps, such as measuring and recording intake and output. Assessment, teaching, evaluation, clinical decisions, and sterile procedures such as straight catheterization remain with licensed nurses. In a client with chronic retention, the nurse uses the recorded volumes along with a bladder assessment to judge whether he empties fully. Palpating the bladder can look like a simple hands-on task, but it is a physical assessment that requires interpretation. The nurse delegates the data collection and keeps the judgment.",
    "takeaway": "Delegate measuring and recording output; keep bladder assessment, teaching, and decisions about catheterization with the RN.",
    "hintContent": "Ask which task produces data without requiring anyone to interpret it.",
-   "hintStrategy": "In delegation items, eliminate anything that involves assessing, teaching, evaluating, or deciding."
+   "hintStrategy": "In delegation items, eliminate anything that involves assessing, teaching, evaluating, or deciding.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x3-006",
@@ -318,7 +321,8 @@
    "rationale": "Not every client who leaks urine has a bladder that empties. When an enlarged prostate blocks the outlet, the bladder fills until pressure forces out small amounts, so the client dribbles constantly while still holding a large volume. A firm, rounded mass above the pubic bone is a distended bladder, and a bladder scan confirms the volume before the nurse notifies the provider about decompression. A brief is the most tempting choice because it addresses what the aide reported, but it hides the retention. Treating the cause protects the bladder, kidneys, and skin.",
    "takeaway": "A client who dribbles constantly and has a palpable bladder has retention with overflow until proven otherwise; confirm with a bladder scan.",
    "hintContent": "Consider whether a bladder you can feel above the pubis is empty or full.",
-   "hintStrategy": "When the reported problem and the assessment finding seem to conflict, trust the assessment and find the underlying cause."
+   "hintStrategy": "When the reported problem and the assessment finding seem to conflict, trust the assessment and find the underlying cause.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x3-009",
@@ -406,22 +410,23 @@
    "focus": "Lifespan & Diversity",
    "stem": "The parent of a 5-year-old boy says he strains to urinate, has a weak stream, and has had three urinary tract infections this year. The parent adds, \"His father was the same way as a kid, and he grew out of it.\" Which response by the nurse is best?",
    "options": [
-    "\"Many boys strain at this age, so watching him for another year or so is reasonable.\"",
-    "\"Infections are common in young boys and aren't related to how he voids.\"",
+    "\"Keep a voiding diary for a month, then we can decide on next steps.\"",
+    "\"Having him void every 2 to 3 hours can help prevent more infections.\"",
     "\"These signs can mean his urinary tract is narrowed, so he needs to be evaluated.\"",
-    "\"Have him drink less in the evening so his bladder doesn't get as full.\""
+    "\"Finishing every course of antibiotics will help prevent repeat infections.\""
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Waiting a year leaves a possible obstruction untreated and allows more infections and scarring.",
-    "Incorrect. Repeated infections in a boy are not expected, and urine left in the bladder is a major cause of them.",
-    "Correct. Straining, a weak stream, and repeated infections suggest an outlet problem such as a congenital narrowing, which needs evaluation.",
-    "Incorrect. Limiting fluids does not fix a narrowed outlet and concentrated urine can make infections more likely."
+    "Incorrect. A voiding diary is useful data, but a month of tracking delays evaluation of a child who already has a weak stream, straining, and repeated infections.",
+    "Incorrect. Timed voiding is sound bladder teaching, but it does not address a possible structural narrowing that is causing the retention and infections.",
+    "Correct. Straining, a weak stream, and recurrent infections together suggest an outlet narrowing, which needs evaluation. This response validates the concern and explains why waiting is not safe.",
+    "Incorrect. Completing antibiotics is true and important, but it treats each infection without finding why urine is retained and infections keep coming back."
    ],
-   "rationale": "In children, physical or congenital deformities of the urinary tract can narrow the outlet and cause retention, infection, and scarring. A child who strains, has a weak stream, and keeps getting urinary tract infections needs evaluation. Retained urine is a breeding ground for bacteria, so the infections and the voiding pattern are linked. Reassuring the parent with a watch-and-wait plan is tempting because it respects the family history, but it delays care for a possible structural problem. The nurse validates the concern and explains why evaluation matters.",
+   "rationale": "In children, physical or congenital deformities of the urinary tract can narrow the outlet and cause retention, infection, and scarring. A child who strains, has a weak stream, and keeps getting urinary tract infections needs evaluation. Retained urine is a breeding ground for bacteria, so the infections and the voiding pattern are linked. Tracking his voiding for another month is tempting because it seems careful and respects the family history, but it delays care for a possible structural problem. Timed voiding and finishing antibiotics are helpful but do not find the cause. The nurse validates the concern and explains why evaluation matters.",
    "takeaway": "A child who strains to void, has a weak stream, and has recurrent UTIs needs evaluation for a urinary tract abnormality.",
    "hintContent": "Connect the weak stream and the repeated infections to what happens when urine stays in the bladder.",
-   "hintStrategy": "When a parent minimizes a pattern of abnormal findings, choose the response that gently corrects the belief and moves toward evaluation."
+   "hintStrategy": "When a parent minimizes a pattern of abnormal findings, choose the response that gently corrects the belief and moves toward evaluation.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x3-012",
@@ -451,7 +456,8 @@
    "rationale": "Many over-the-counter sleep aids contain an antihistamine such as diphenhydramine, which weakens detrusor contraction. In a man with an enlarged prostate, this can cause acute retention: a sudden, painful inability to void despite a full bladder. Acute retention is a medical emergency because the bladder can overstretch and pressure can back up toward the kidneys. Stopping the sleep aid is tempting because it removes the cause, but the immediate need is decompression. He needs to be seen now, not tomorrow.",
    "takeaway": "Ten hours without voiding plus severe lower abdominal pain is acute retention, an emergency that needs same-day decompression.",
    "hintContent": "Decide whether this is chronic incomplete emptying or a sudden, painful inability to void.",
-   "hintStrategy": "In telephone triage, an emergency outranks home remedies and plans to recheck later."
+   "hintStrategy": "In telephone triage, an emergency outranks home remedies and plans to recheck later.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x3-013",
@@ -483,7 +489,8 @@
    "rationale": "A 24-hour urine test measures everything the kidneys make over exactly 24 hours. The client voids and discards the first specimen at the start time, then every void is saved and kept cold until a final void at the same clock time the next day. If any void is thrown away, the total is wrong and the collection usually has to be restarted. Estimating the lost volume is tempting because it seems to save the client a day, but it produces a result the provider cannot trust. The nurse also reinforces the procedure with the assistive personnel.",
    "takeaway": "If any void is discarded during a 24-hour urine collection, notify the lab and restart the collection.",
    "hintContent": "Consider what the test result depends on and whether any option can recover the lost urine.",
-   "hintStrategy": "When a procedure error invalidates a test, choose the action that produces an accurate result, not one that patches the error."
+   "hintStrategy": "When a procedure error invalidates a test, choose the action that produces an accurate result, not one that patches the error.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x3-014",
@@ -556,22 +563,23 @@
     ]
    },
    "options": [
-    "Give the prescribed PRN lorazepam for agitation",
+    "Ask the provider to evaluate him for new delirium",
     "Palpate and percuss the lower abdomen for distention",
-    "Reorient him and dim the lights in the room",
-    "Apply soft wrist restraints to protect the surgical incision"
+    "Reorient him and dim the lights to promote sleep",
+    "Give the PRN lorazepam ordered for agitation"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Sedating a client whose restlessness has a likely physical cause masks the problem and adds fall risk.",
-    "Correct. He has received over 1 L of fluid with almost no output, and restlessness with an urge to go points to a full bladder that must be assessed.",
-    "Incorrect. Reorientation helps confusion, but it delays assessment of a likely full bladder in a post-op client.",
-    "Incorrect. Restraints are a last resort and do nothing to find or fix the reason he is restless."
+    "Incorrect. New confusion in an older post-op client may need provider evaluation, but the nurse should first check for an obvious treatable cause such as a full bladder.",
+    "Correct. He has had over 1 L of fluid and only 100 mL of urine since catheter removal. Checking for a firm, dull bladder looks for the likely physical cause of his restlessness.",
+    "Incorrect. Reorienting is a helpful delirium measure, but it does not address the likely cause, and he may be restless because his bladder is full.",
+    "Incorrect. A sedative may calm him and lower his fall risk, but benzodiazepines worsen confusion in older adults and would mask a full bladder."
    ],
-   "rationale": "A restless, confused post-op client may simply need to void. Anesthesia and recent catheter removal are risk factors for retention, and this client has received over 1 L of fluid while voiding only 100 mL in 10 hours. His oxygen saturation and vital signs do not suggest hypoxia or shock, so the bladder is the most likely cause. Reorienting him is tempting because new restlessness in an older adult suggests delirium, but the nurse first looks for a treatable physical cause. Palpating for a firm, dull bladder and confirming with a scan comes before sedation or restraints.",
+   "rationale": "A restless, confused post-op client may simply need to void. Anesthesia and recent catheter removal are risk factors for retention, and this client has received over 1 L of fluid while voiding only 100 mL in 10 hours. His oxygen saturation and vital signs do not suggest hypoxia or shock, so the bladder is the most likely cause. Reorienting him or calling about delirium is tempting because new restlessness in an older adult suggests delirium, but the nurse first looks for a treatable physical cause. Palpating for a firm, dull bladder and confirming with a scan comes before sedation or a delirium workup, while he is kept safe in a low bed.",
    "takeaway": "In a restless post-op client with high intake and little output, assess the bladder before treating the behavior.",
    "hintContent": "Compare the fluid in with the urine out over the past 10 hours.",
-   "hintStrategy": "When behavior changes, assess for a physical cause before choosing sedation, restraints, or reorientation."
+   "hintStrategy": "When behavior changes, assess for a physical cause before choosing sedation, restraints, or reorientation.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x3-015",
@@ -625,21 +633,22 @@
    "stem": "A 61-year-old woman with chronic urinary retention reports a weak stream and frequent small voids. A pelvic exam shows a large cystocele that kinks the bladder outlet. Her urinalysis is normal. Which treatment does the nurse anticipate will address the cause of her retention?",
    "options": [
     "Surgical repair of the cystocele",
-    "An antibiotic for a bladder infection",
+    "Intermittent self-catheterization",
     "Bethanechol to strengthen bladder contractions",
     "The Credé maneuver with each void"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. The sagging bladder is kinking the outflow, so correcting the cystocele removes the mechanical cause of retention.",
-    "Incorrect. Her urinalysis is normal, so there is no infection to treat, and antibiotics would not fix a structural cause.",
-    "Incorrect. Bethanechol is used when there is no blockage; a stronger squeeze cannot overcome a kinked outlet.",
-    "Incorrect. Pressing on the bladder is not used when the outlet is blocked because urine can be forced back toward the kidneys."
+    "Correct. The cystocele kinks the bladder outlet, so repairing it corrects the mechanical cause of her retention rather than only managing the symptoms.",
+    "Incorrect. Self-catheterization empties the bladder and may be used to manage retention, but it works around the kinked outlet instead of fixing it.",
+    "Incorrect. Bethanechol helps a weak detrusor empty through an open outlet. Her outlet is kinked, and a mechanical blockage is a reason to avoid it.",
+    "Incorrect. Credé pressure helps a weak bladder empty, but it is not used against a blocked outlet and does not correct the cystocele."
    ],
-   "rationale": "Management of retention starts with relieving pressure and then treating the cause. A cystocele is a bladder that sags into the vaginal wall and can kink the outflow, so repairing it corrects the mechanical problem. Bethanechol is tempting because it promotes voiding, but it works only when the outlet is open and the problem is a weak detrusor. Antibiotics treat infection, which her normal urinalysis rules out. Matching the treatment to the mechanism is the key step.",
+   "rationale": "Management of retention starts with relieving pressure and then treating the cause. A cystocele is a bladder that sags into the vaginal wall and can kink the outflow, so repairing it corrects the mechanical problem. Bethanechol is tempting because it promotes voiding, but it works only when the outlet is open and the problem is a weak detrusor. Self-catheterization and the Credé maneuver can help empty the bladder, but they manage the symptom without fixing the kink. Matching the treatment to the mechanism is the key step.",
    "takeaway": "Treat retention by its cause: repair a cystocele that kinks the outlet, and save bethanechol for a weak bladder with an open outlet.",
    "hintContent": "Identify whether the cause is the bladder muscle, an infection, or the shape of the outlet.",
-   "hintStrategy": "When asked which treatment addresses the cause, match the treatment to the mechanism named in the stem."
+   "hintStrategy": "When asked which treatment addresses the cause, match the treatment to the mechanism named in the stem.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x3-017",
@@ -671,7 +680,8 @@
    "rationale": "Catheters are a major cause of urinary tract infection in clients with retention. Fever, cloudy or foul urine, and flank pain suggest a catheter-associated infection that may have spread to the kidney, so the nurse reports it promptly so treatment can start. Increasing fluids is tempting because it is a correct preventive measure, but it does not replace treatment once infection signs appear. Irrigating or changing the bag can seem like a nursing fix, but neither addresses an infection in the bladder or kidney.",
    "takeaway": "A client with a catheter who has fever, cloudy foul urine, or flank pain needs prompt reporting for a suspected catheter-associated infection.",
    "hintContent": "Flank pain moves the concern from the bag and bladder up to the kidney.",
-   "hintStrategy": "When signs of a spreading infection appear, choose prompt reporting over measures that only prevent infection."
+   "hintStrategy": "When signs of a spreading infection appear, choose prompt reporting over measures that only prevent infection.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x3-018",
@@ -718,22 +728,23 @@
    "focus": "Pharmacology",
    "stem": "A 57-year-old client recovering from spinal fusion takes oxycodone every 4 hours and docusate twice daily. He has not had a bowel movement in 4 days but is passing flatus and has active bowel sounds. Which change to his bowel regimen should the nurse anticipate?",
    "options": [
-    "Stopping the docusate and waiting for a bowel movement",
+    "Adding a bulk-forming fiber such as psyllium",
     "Doubling the dose of the stool softener alone",
     "Adding a stimulant laxative such as senna",
-    "Adding loperamide to prevent loose stools"
+    "Scheduling a tap water enema every morning"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Stopping the bowel regimen while he still takes opioids would let stool dry out further.",
-    "Incorrect. A softener lets water into the stool but does not overcome the slowed movement caused by opioids.",
-    "Correct. Opioids slow peristalsis, and a softener alone usually is not enough, so a stimulant laxative is commonly added.",
-    "Incorrect. Loperamide is an antidiarrheal that slows the bowel and would make his constipation worse."
+    "Incorrect. Fiber helps simple constipation, but in a client on opioids with limited mobility it can form a hard mass because it does not overcome slowed peristalsis.",
+    "Incorrect. Building on his current regimen seems logical, but a softener only adds water to stool and does not speed the slowed movement opioids cause.",
+    "Correct. Opioids slow peristalsis, so a stimulant laxative such as senna is added to the softener. Flatus and active bowel sounds suggest no obstruction, so it is safe to give.",
+    "Incorrect. An enema can relieve constipation, but daily enemas are not a first-line regimen and can cause dependence and fluid and electrolyte problems."
    ],
-   "rationale": "Opioids slow peristalsis, which gives the colon more time to absorb water and leaves stool hard and dry. Stool softeners are often paired with opioids, but a softener alone usually is not enough for opioid-induced constipation, so a stimulant laxative such as senna is typically added. His flatus and active bowel sounds suggest no obstruction, so a laxative is not contraindicated. Doubling the softener is tempting because it builds on what he already takes, but it does not address slowed movement. An antidiarrheal would worsen the problem.",
+   "rationale": "Opioids slow peristalsis, which gives the colon more time to absorb water and leaves stool hard and dry. Stool softeners are often paired with opioids, but a softener alone usually is not enough for opioid-induced constipation, so a stimulant laxative such as senna is typically added. His flatus and active bowel sounds suggest no obstruction, so a laxative is not contraindicated. Doubling the softener is tempting because it builds on what he already takes, but it does not address slowed movement. Bulk fiber can harden in a slow, immobile gut, and daily enemas are not a routine regimen.",
    "takeaway": "For opioid-induced constipation, expect a stimulant laxative such as senna in addition to a stool softener.",
    "hintContent": "Consider what opioids do to bowel movement versus what a softener does to the stool.",
-   "hintStrategy": "Match the drug to the mechanism of the problem, and confirm there is no contraindication in the stem."
+   "hintStrategy": "Match the drug to the mechanism of the problem, and confirm there is no contraindication in the stem.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x3-020",
@@ -763,7 +774,8 @@
    "rationale": "Untreated impaction raises pressure inside the colon, which can cause ulceration, reduced blood flow, and perforation. A rigid abdomen with fever in a client with impaction suggests perforation, a surgical emergency that must be assessed and reported immediately. The opioid-treated client is tempting because 3 days without a bowel movement sounds urgent, but there are no signs of a complication. The pregnant client and the child have real but stable needs. Acute, unstable problems come before chronic or expected ones.",
    "takeaway": "A client with impaction who develops a rigid abdomen or fever may have perforated and must be seen first.",
    "hintContent": "Look for the client whose findings point to a complication rather than the problem itself.",
-   "hintStrategy": "In which-client-first items, choose the unstable client with signs of a life-threatening complication."
+   "hintStrategy": "In which-client-first items, choose the unstable client with signs of a life-threatening complication.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x3-021",
@@ -833,7 +845,8 @@
    "rationale": "Before treating constipation, the nurse assesses: when the last bowel movement was, what the stool was like, the usual pattern, bowel sounds, and whether the abdomen is distended or tender. This tells the nurse whether the client has simple constipation, an impaction, or signs of obstruction, which would make a laxative dangerous. Giving the laxative is tempting because there is an order and the client is asking, but assessment comes first. Fiber and privacy are good measures that come after the nurse understands the problem.",
    "takeaway": "Assess the bowel history and abdomen before giving a PRN laxative, because laxatives are contraindicated with obstruction.",
    "hintContent": "Think about what could make a laxative unsafe for this client.",
-   "hintStrategy": "When there is no emergency, choose the assessment option before the intervention options."
+   "hintStrategy": "When there is no emergency, choose the assessment option before the intervention options.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x3-023",
@@ -863,7 +876,8 @@
    "rationale": "Assistive personnel can help with routine, predictable care such as assisting to the toilet, providing privacy, and ambulating. Toileting after breakfast takes advantage of the gastrocolic reflex, the natural urge that follows eating. Assessment, teaching, and procedures with serious risks stay with licensed staff. Manual disimpaction may look like basic hygiene care, but it can trigger bradycardia and fainting and needs nursing monitoring. The nurse delegates the routine part of the bowel plan and keeps the judgment.",
    "takeaway": "Delegate scheduled toileting and privacy to assistive personnel; keep assessment, teaching, and disimpaction with the nurse.",
    "hintContent": "Pick the task that is routine, predictable, and carries no need for interpretation.",
-   "hintStrategy": "Eliminate options that involve assessing, teaching, or a procedure with a risk that must be monitored."
+   "hintStrategy": "Eliminate options that involve assessing, teaching, or a procedure with a risk that must be monitored.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x3-024",
@@ -913,22 +927,23 @@
     ]
    },
    "options": [
-    "His daily walking is the main cause of the bloating",
+    "He should cut back on fiber until the bloating eases",
     "He needs a daily stimulant laxative to keep stool moving",
     "His fluid intake is too low for the fiber he eats",
     "He has not yet reached the daily fiber goal for men"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Activity stimulates peristalsis and helps constipation; it does not cause bloating.",
-    "Incorrect. Laxatives are avoided for simple constipation because they interfere with normal bowel reflexes.",
-    "Correct. He meets the fiber goal but drinks little, and fiber without water pulls moisture from the stool and can worsen constipation.",
-    "Incorrect. He is eating 38 to 40 grams a day, which meets the 38-gram goal for men every day."
+    "Incorrect. Fiber can cause bloating, so cutting back seems logical, but he is at the goal for men. The problem is that he lacks the fluid the fiber needs.",
+    "Incorrect. A laxative may move stool, but it skips the clear cause in the diary and adds the risk of dependence when a diet change can fix the problem.",
+    "Correct. Fiber softens stool by holding water. His fiber meets the goal every day while fluids fall to 600 mL, so the fiber has no water to hold and stool hardens.",
+    "Incorrect. The goal for men is 38 grams a day, and his diary shows 38 to 40 grams every day, so he has already met it."
    ],
    "rationale": "Fiber softens stool by holding water in it. When fiber intake rises but fluid stays low, the fiber has no water to hold, so stool can become harder and the client feels bloated. This diary shows the fiber goal of 38 grams for men met every day while fluids fall to 600 mL. Concluding that he needs more fiber is tempting because constipation persists, but he is already at goal. The fix is more fluid, not more fiber or a laxative.",
    "takeaway": "When fiber goes up and constipation gets worse, check fluid intake first; fiber without water hardens stool.",
    "hintContent": "Compare each column of the diary with the teaching goals.",
-   "hintStrategy": "In exhibit items, check which goal is met and which is not before choosing an explanation."
+   "hintStrategy": "In exhibit items, check which goal is met and which is not before choosing an explanation.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x3-025",
@@ -948,19 +963,20 @@
     "\"Changes in stool color and texture are expected with formula.\"",
     "\"Thicker stools at this age mean he should see the provider today.\"",
     "\"Switching back to breast milk will bring his stools back to normal.\"",
-    "\"These stools suggest constipation, so add extra water to each bottle.\""
+    "\"These firmer stools are a sign of early constipation, so track them.\""
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Stool appearance often changes when breast milk is replaced by formula, and soft stools passed easily are not constipation.",
-    "Incorrect. A change in color or texture alone, with normal frequency and no straining, does not need an urgent visit.",
-    "Incorrect. His stools are normal for formula feeding, so changing his feeding is not needed.",
-    "Incorrect. He has soft stools several times a day without straining, which is not constipation, and diluting formula is unsafe."
+    "Correct. Formula often makes stools thicker and darker. He has soft stools 2 to 3 times a day, feeds well, and does not strain, so his pattern is normal.",
+    "Incorrect. Prompt follow-up fits an infant with hard stools, straining, or poor feeding, but this infant has none of these, so a same-day visit is not needed.",
+    "Incorrect. Breast milk does make looser stools, but there is no problem to correct, and the mother can be reassured without changing how she feeds him.",
+    "Incorrect. Watching stool patterns is reasonable, but calling this constipation is wrong. His stools are soft, frequent, and passed without straining."
    ],
    "rationale": "Infants normally have several bowel movements a day, and stool appearance often changes when breast milk is changed to formula. A change in color or consistency alone is not constipation. This infant passes soft stools 2 to 3 times a day without straining and feeds well, so his pattern is normal. Calling it constipation is tempting because formula-fed stools look firmer, but frequency, ease of passage, and comfort matter more than appearance. The nurse reassures the mother and reviews what would need a call.",
    "takeaway": "In infants, a change in stool color or texture after switching to formula is expected and is not constipation by itself.",
    "hintContent": "Judge constipation by frequency, effort, and comfort, not color.",
-   "hintStrategy": "When a parent worries about a normal developmental finding, choose the response that accurately reassures."
+   "hintStrategy": "When a parent worries about a normal developmental finding, choose the response that accurately reassures.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x3-026",
@@ -977,22 +993,23 @@
    "focus": "Client Teaching",
    "stem": "A client at 20 weeks' gestation says, \"My prenatal vitamin makes me so constipated that I stopped taking it.\" Which response by the nurse is best?",
    "options": [
-    "\"Taking a stimulant laxative each day will let you keep using the vitamin.\"",
-    "\"Once you stop the vitamin, your constipation should go away on its own.\"",
+    "\"Taking a stimulant laxative each day will let you keep using the vitamin as prescribed.\"",
+    "\"Let's ask your provider today about switching you to a prenatal vitamin with less iron.\"",
     "\"Iron can harden stool. Let's try fiber, fluids, and activity, and I'll tell your provider.\"",
-    "\"Stopping is fine for now, since you can get most of those nutrients from the food you eat.\""
+    "\"Stopping is fine for now, since you can get most of those nutrients from the healthy food you eat.\""
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Daily laxative use makes the bowel dependent and is not the first approach to constipation.",
-    "Incorrect. Progesterone and the growing uterus also slow the bowel, so stopping the vitamin would not end the problem.",
-    "Correct. This explains the cause, offers safe measures, and involves the provider instead of leaving her without the vitamin.",
-    "Incorrect. Prenatal vitamins provide nutrients that are hard to meet through diet in pregnancy, so the nurse should not endorse stopping."
+    "Incorrect. This keeps her on the vitamin, but a daily stimulant laxative creates dependence and skips the diet and activity measures that should come first.",
+    "Incorrect. Involving the provider is appropriate, but this response is incomplete: it does not explain the cause or teach fiber, fluids, and activity she can start now.",
+    "Correct. This explains why iron causes constipation, teaches first-line fiber, fluids, and activity, and involves the provider, so she can keep taking the vitamin.",
+    "Incorrect. This respects her choice, but prenatal vitamins supply iron and folic acid that diet alone may not meet, so she needs accurate information first."
    ],
-   "rationale": "Constipation in pregnancy has several causes: progesterone relaxes smooth muscle and slows the gut, the growing uterus displaces the intestine, and iron in prenatal vitamins hardens stool. The best response explains this, teaches fiber, fluids, and activity, and brings in the provider, who may adjust the regimen. Agreeing that she can stop is tempting because it respects her choice, but she needs accurate information first. A daily stimulant laxative creates dependence, and stopping the vitamin would not remove the other causes.",
+   "rationale": "Constipation in pregnancy has several causes: progesterone relaxes smooth muscle and slows the gut, the growing uterus displaces the intestine, and iron in prenatal vitamins hardens stool. The best response explains this, teaches fiber, fluids, and activity, and brings in the provider, who may adjust the regimen. Agreeing that she can stop is tempting because it respects her choice, but she needs accurate information first. Asking about a lower-iron vitamin is reasonable but leaves out teaching she can use now, and a daily stimulant laxative creates dependence.",
    "takeaway": "For constipation from prenatal iron, teach fiber, fluids, and activity and involve the provider rather than endorsing stopping the vitamin.",
    "hintContent": "Remember that pregnancy constipation has more than one cause.",
-   "hintStrategy": "Choose the response that gives accurate information, offers safe self-care, and keeps the provider informed."
+   "hintStrategy": "Choose the response that gives accurate information, offers safe self-care, and keeps the provider informed.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x3-027",
@@ -1062,7 +1079,8 @@
    "rationale": "Normal bowel patterns vary from person to person, so constipation is judged as a change from the client's usual pattern. A change in bowel habits that has lasted weeks should be referred to the primary care provider so the cause can be found. Self-treating with a laxative or waiting months could delay the diagnosis of a serious problem. Recommending fiber is tempting because it is safe and correct for simple constipation, but this is a new and persistent change. The nurse can still teach healthy habits while urging him to be seen.",
    "takeaway": "A new change in bowel habits that lasts for weeks needs referral to the primary care provider, not self-treatment.",
    "hintContent": "Focus on the word change and how long it has lasted.",
-   "hintStrategy": "When findings could signal a problem needing diagnosis, choose referral over self-care or reassurance."
+   "hintStrategy": "When findings could signal a problem needing diagnosis, choose referral over self-care or reassurance.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x3-029",
@@ -1092,7 +1110,8 @@
    "rationale": "Clients with dementia often cannot say they are constipated, so they show it through behavior. Diminished appetite, abdominal discomfort, feeling ill, and no stool for 5 days are manifestations of constipation and possible impaction in an older adult. The nurse first assesses the abdomen, bowel sounds, and the bowel record before choosing treatment. Giving the antipsychotic is tempting because agitation is the most visible problem, but it treats the symptom and hides the cause. Older adults are at high risk because of medications, less activity, and low fluid intake.",
    "takeaway": "In an older adult who cannot report symptoms, new agitation and poor appetite with no stool for days call for a bowel assessment first.",
    "hintContent": "Link her behavior to what her bowel record shows.",
-   "hintStrategy": "Look for a physical cause of new behavior before choosing an option that treats the behavior itself."
+   "hintStrategy": "Look for a physical cause of new behavior before choosing an option that treats the behavior itself.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x3-030",
@@ -1199,7 +1218,8 @@
    "rationale": "Fecal incontinence is a sign of another problem, and one cause is interference with the nerves that carry sensation from the rectum and control the sphincter. New incontinence together with new back pain and leg weakness or numbness suggests spinal cord compression, which in a client with cancer in the bone must be reported immediately. Treatment delays can mean permanent paralysis and loss of bowel and bladder control. Pelvic floor exercises are tempting because they are a standard fecal incontinence intervention, but they address muscle weakness, not a compressed spinal cord. The new neurologic signs change the priority.",
    "takeaway": "New fecal incontinence with new back pain or leg weakness suggests spinal cord compression and needs immediate evaluation.",
    "hintContent": "Look at the other new symptoms that appeared at the same time as the incontinence.",
-   "hintStrategy": "When a common symptom appears with new neurologic findings, treat it as an emergency until proven otherwise."
+   "hintStrategy": "When a common symptom appears with new neurologic findings, treat it as an emergency until proven otherwise.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x3-033",
@@ -1229,7 +1249,8 @@
    "rationale": "Applying sugar draws fluid out of swollen prolapsed tissue by osmosis so the provider can reduce it. That order assumes healthy, pink tissue that is simply edematous. A prolapse that turns dark red, purple, or black, or is severely painful, may have lost its blood supply and needs urgent provider notification. Following the sugar order is tempting because it is already prescribed, but the new findings mean the order no longer fits the situation. The nurse reports first and then supports comfort as directed.",
    "takeaway": "A rectal prolapse that turns dark red, purple, or black or becomes severely painful needs urgent provider notification.",
    "hintContent": "Ask what a dark purple color says about blood flow to the tissue.",
-   "hintStrategy": "When a client's condition changes, an existing routine order may no longer apply; report the change first."
+   "hintStrategy": "When a client's condition changes, an existing routine order may no longer apply; report the change first.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x3-034",
@@ -1259,7 +1280,8 @@
    "rationale": "A prolapsed rectum often becomes edematous, which makes it hard to push back in. Granulated sugar sprinkled on the tissue draws water out by osmosis, so the expected result is a smaller, softer, less tense prolapse that the provider can then gently reduce. Believing the sugar numbs or lubricates the tissue is tempting because both would seem to make reduction easier, but neither is its mechanism. Tissue that turns darker red, purple, or black is a warning sign of lost blood flow, not a treatment effect, and must be reported urgently. Surgical repair is the long-term fix for recurrent prolapse.",
    "takeaway": "Sugar on a swollen rectal prolapse shrinks the tissue by osmosis, so less swelling shows it worked; darkening tissue must be reported.",
    "hintContent": "Think about what sugar does to water in tissue it touches.",
-   "hintStrategy": "To evaluate a treatment, pick the finding that matches the result its mechanism is meant to produce."
+   "hintStrategy": "To evaluate a treatment, pick the finding that matches the result its mechanism is meant to produce.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x3-035",
@@ -1276,20 +1298,21 @@
    "options": [
     "Check her brief every 4 hours and change it when soiled",
     "Take her to the toilet 20 to 30 minutes after each meal",
-    "Ask the provider about a daily antidiarrheal medication",
+    "Keep a commode at her bedside and remind her to use it",
     "Teach her to do Kegel exercises several times a day"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Checking every 4 hours manages accidents after they happen and leaves stool on her skin for hours.",
-    "Correct. Her cause is cognitive, so scheduled toileting after meals uses the gastrocolic reflex to catch her natural pattern.",
-    "Incorrect. Her stool is formed, so an antidiarrheal would only cause constipation.",
-    "Incorrect. Her sphincter tone is normal, and advanced dementia limits her ability to learn and perform the exercises."
+    "Incorrect. Prompt brief changes protect her skin, but this approach is reactive and does nothing to help her pass stool in the toilet.",
+    "Correct. Her sphincter is normal and she stools after meals. Toileting her 20 to 30 minutes after meals uses the gastrocolic reflex and her own pattern.",
+    "Incorrect. Easy access to a commode helps many clients, but it depends on her noticing the urge and acting on it, which her dementia prevents.",
+    "Incorrect. Kegel exercises are a standard fecal incontinence measure, but they treat sphincter weakness, and her sphincter is normal and she cannot learn them."
    ],
    "rationale": "Bowel control requires sensation, a sphincter strong enough to hold, and the awareness to respond to the urge. This resident's sphincter is normal, so her incontinence has a cognitive cause: she does not recognize or act on the urge. Scheduled toileting 20 to 30 minutes after meals uses the gastrocolic reflex and her own pattern of stooling after meals. Kegel exercises are tempting because they are a standard fecal incontinence intervention, but they target sphincter weakness and require the ability to learn. Frequent brief checks are reactive and do not restore continence.",
    "takeaway": "For fecal incontinence from a cognitive cause, use scheduled toileting after meals rather than sphincter exercises.",
    "hintContent": "Identify which part of bowel control this resident has lost.",
-   "hintStrategy": "Choose the intervention that targets the cause named in the stem, not a general intervention for the symptom."
+   "hintStrategy": "Choose the intervention that targets the cause named in the stem, not a general intervention for the symptom.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x3-036",
@@ -1359,7 +1382,8 @@
    "rationale": "Clients rarely announce that they have fecal incontinence, so the nurse watches for cues such as frequent bathroom requests, fecal odor, soiled clothing, and anxiety. Elimination problems require more direct questioning than other health topics because clients are embarrassed. A statement that normalizes the problem and then asks a specific question gives permission to answer honestly. The open-ended invitation is tempting because therapeutic communication often favors open questions, but it is too vague to help a reluctant client. Questions that point out odor or sound accusatory increase shame.",
    "takeaway": "Ask about bowel control directly but kindly, normalizing the problem so the client feels safe to answer.",
    "hintContent": "Think about how embarrassment affects what a client will share.",
-   "hintStrategy": "In communication items, choose the response that is both specific and respectful."
+   "hintStrategy": "In communication items, choose the response that is both specific and respectful.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x3-038",
@@ -1487,7 +1511,8 @@
    "rationale": "A measurable goal names who, what, and how much or when, so evaluation is a direct comparison of the data with the target. This client's skin was intact at every check, which fully meets that goal. The stool goal is tempting because she had three stools, but the goal specifies soft, formed stools, and only two qualified. The other two goals were partly met, which is not the same as met. When goals are not met, the nurse explores why before changing the plan.",
    "takeaway": "A goal is met only when the data match every part of the measurable target.",
    "hintContent": "Compare each data entry with the exact number and quality the goal requires.",
-   "hintStrategy": "In evaluation items, partly met is not met; check each detail in the goal."
+   "hintStrategy": "In evaluation items, partly met is not met; check each detail in the goal.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x3-041",
@@ -1505,21 +1530,22 @@
    "stem": "A 77-year-old woman's goal of \"soft, formed stool three times a week\" was not met. When the nurse explores why, she says her dentures hurt, so she stopped eating raw vegetables and her high-fiber cereal. Which action by the nurse is best?",
    "options": [
     "Refer her for a denture check and suggest softer high-fiber foods",
-    "Encourage her to keep eating the high-fiber cereal and raw vegetables",
-    "Change the goal to one soft, formed stool each week",
-    "Ask the provider to add a daily stimulant laxative"
+    "Review the high-fiber teaching with her and give her a food list",
+    "Change the goal to one soft, formed stool each week for now",
+    "Ask the provider to add a daily stimulant laxative to her plan"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. The obstacle is painful dentures, so fixing the fit and offering softer fiber sources addresses the real reason the goal was missed.",
-    "Incorrect. Telling her to keep eating foods that hurt ignores the problem she just described.",
-    "Incorrect. Lowering the goal does not help her and ignores a barrier that can be fixed.",
-    "Incorrect. A laxative adds medication without fixing the obstacle, and long-term use weakens normal bowel reflexes."
+    "Correct. Painful dentures are the obstacle. A denture check removes it, and softer high-fiber foods let her meet the goal while it is fixed.",
+    "Incorrect. Reteaching is a common step when a goal is not met, but she already knows what to eat. The problem is that she cannot chew it.",
+    "Incorrect. Goals may be revised when unrealistic, but this one is reachable once the denture problem is solved, so lowering it accepts a fixable problem.",
+    "Incorrect. A laxative may produce stools, but it ignores the cause she named and can create dependence."
    ],
    "rationale": "When a goal is not met, the nurse explores the reasons before modifying the plan, asking about diet, fluids, activity, obstacles, and whether she received enough education and support. Here the obstacle is poor dentition, which keeps her from chewing raw produce and fiber-rich cereal. The best plan removes the obstacle with a dental referral and offers softer high-fiber foods. Adding a laxative is tempting because it seems to fix the missed goal quickly, but it ignores the cause and creates dependence. Lowering the goal accepts a problem that can be solved.",
    "takeaway": "When a bowel goal is not met, fix the obstacle you find rather than simply adding medication or lowering the goal.",
    "hintContent": "Identify the specific barrier she described and choose the option that removes it.",
-   "hintStrategy": "In evaluation items, the best revision targets the reason the goal failed."
+   "hintStrategy": "In evaluation items, the best revision targets the reason the goal failed.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x3-042",
@@ -1586,7 +1612,8 @@
    "rationale": "For a client with severe incontinence that nothing else controls, a colostomy can restore predictability and dignity by replacing constant accidents with a pouch he can manage. The decision belongs to the client, and his first need is to be heard. A response that reflects his feeling and asks about his specific worries supports his autonomy and gives the nurse information for teaching. Referring him back to the surgeon is tempting because it respects his choice, but it shuts down the conversation. Telling him what to think or offering false reassurance blocks communication.",
    "takeaway": "When a client reacts emotionally to a proposed colostomy, reflect the feeling and explore the concern before teaching.",
    "hintContent": "Identify the feeling behind his question.",
-   "hintStrategy": "In therapeutic communication items, choose the response that acknowledges feelings and invites the client to say more."
+   "hintStrategy": "In therapeutic communication items, choose the response that acknowledges feelings and invites the client to say more.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x3-044",
@@ -1688,7 +1715,8 @@
    "rationale": "Infectious diarrhea can produce large volumes of liquid stool that overwhelm a normal sphincter, causing incontinence. The greater danger is fluid loss: low blood pressure, a fast heart rate, and dry mucous membranes show fluid volume deficit that threatens circulation. Following ABCs, circulation comes before skin integrity and emotional needs. The stool count is tempting because it is the cause of the other problems, but the vital signs show the consequence that needs immediate action. Skin care and support for her embarrassment follow once she is stable.",
    "takeaway": "In a client with diarrhea and incontinence, signs of fluid volume deficit take priority over skin and psychosocial needs.",
    "hintContent": "Apply ABCs to the data in the exhibit.",
-   "hintStrategy": "When a stem lists a cause and its effects, act on the effect that threatens life."
+   "hintStrategy": "When a stem lists a cause and its effects, act on the effect that threatens life.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x3-046",
@@ -1705,20 +1733,21 @@
    "options": [
     "\"Bowel accidents aren't a normal part of aging, so let's look for the cause.\"",
     "\"You're right that it's common at her age, and briefs are a good answer.\"",
-    "\"She may be doing this for attention, so try not to react when it happens.\"",
-    "\"Diapers cause skin breakdown, so you should stop using them right now.\""
+    "\"A regular toileting schedule after meals may help her stay dry and clean.\"",
+    "\"Change her brief right after each accident to protect her skin from damage.\""
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Fecal incontinence is a sign of another problem, not normal aging, so it deserves assessment.",
-    "Incorrect. Agreeing reinforces a misconception and may delay finding a treatable cause.",
-    "Incorrect. Assuming the behavior is for attention is unfounded and dismisses a physical problem.",
-    "Incorrect. Protective products can help when used with good skin care; stopping them does not address the cause."
+    "Correct. Fecal incontinence is not a normal change of aging but a sign of another disorder, so the nurse kindly corrects the belief and starts an assessment.",
+    "Incorrect. Incontinence is common in older adults, but common does not mean normal, and agreeing delays finding a treatable cause.",
+    "Incorrect. Scheduled toileting can help, but it jumps to treatment and leaves the daughter's belief uncorrected and the cause unassessed.",
+    "Incorrect. Prompt brief changes are good skin care, but this response accepts the accidents as normal and does not look for why they started."
    ],
    "rationale": "Advanced age is a risk factor for fecal incontinence, but it is not a normal change of aging. Fecal incontinence is a manifestation of another disorder, such as nerve damage, sphincter injury, impaction, infection, or cognitive change, so new accidents call for assessment. Agreeing with the daughter is tempting because incontinence is common in older adults, but common does not mean normal. The nurse corrects the belief kindly and starts looking for the cause. Protective products can be used, but they are not a substitute for assessment.",
    "takeaway": "Fecal incontinence is common in older adults but is never a normal part of aging; look for the cause.",
    "hintContent": "Separate how common a problem is from whether it is expected.",
-   "hintStrategy": "When a family member normalizes a new symptom, choose the response that gently corrects the misconception."
+   "hintStrategy": "When a family member normalizes a new symptom, choose the response that gently corrects the misconception.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x3-047",
@@ -1786,7 +1815,8 @@
    "rationale": "Stool contains enzymes and bacteria that quickly break down skin, so red, weeping, open skin in an incontinent client is impaired skin integrity that is getting worse and can become infected. Using Maslow's hierarchy, actual physiological problems come before psychosocial ones. Low self-esteem is tempting because her statement is emotionally striking, and it is a real nursing problem. It is addressed after the immediate physical threat, ideally alongside it with respectful, dignified care.",
    "takeaway": "When an incontinent client has open skin and emotional distress, address impaired skin integrity first, then the psychosocial needs.",
    "hintContent": "Apply Maslow's hierarchy to the problems listed.",
-   "hintStrategy": "Choose an actual physiological problem over psychosocial problems unless the psychosocial problem threatens safety."
+   "hintStrategy": "Choose an actual physiological problem over psychosocial problems unless the psychosocial problem threatens safety.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x3-049",

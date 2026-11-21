@@ -116,7 +116,8 @@
    "focus": "Pathophysiology",
    "hintContent": "Recall when each postoperative wound complication is most likely to occur and what purulent drainage and a rising WBC indicate.",
    "hintStrategy": "Rule out each option using a specific cue in the stem (edge status, hemoglobin, day after surgery). The option that explains every abnormal cue is the priority.",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21f-004",
@@ -172,17 +173,17 @@
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
    "stem": "After an incisional infection, the surgeon opened a client's lower abdominal incision, and the wound is now healing by secondary intention. The wound bed is 60% beefy red, moist, bumpy tissue and 40% soft, stringy yellow tissue. Drainage is a small amount of serous fluid. Moist saline dressings are prescribed. Which action is most important when the nurse performs the dressing change?",
    "options": [
-    "Scrub the red tissue firmly with dry gauze to remove as many bacteria as possible from the base",
+    "Cleanse the whole bed firmly with saline until all the yellow tissue is gone",
     "Gently cleanse away the yellow slough with saline and keep the red tissue moist",
-    "Leave the wound uncovered between changes so the yellow tissue can dry into a protective scab",
-    "Pack dry gauze tightly against the base so it lifts the yellow tissue off when removed later"
+    "Swab a wound culture from the yellow tissue before cleansing the wound",
+    "Cover the wound with dry gauze so it absorbs drainage and protects the base"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Beefy red tissue is healthy granulation; it is fragile and bleeds easily, so scrubbing damages it (red = protect).",
-    "Correct. RYB: yellow slough is cleansed away, and red granulation is protected and kept moist so the wound can fill in from the bottom.",
-    "Incorrect. Drying the wound damages granulation and does not remove slough; open secondary-intention wounds heal best moist and covered.",
-    "Incorrect. Dry gauze pulled off the wound is nonselective and would tear away the healthy granulation along with the slough."
+    "Incorrect. Removing slough with saline is right, but firm cleansing injures the fragile red granulation tissue; slough is removed gently and gradually while new tissue is protected.",
+    "Correct. The RYB guide says cleanse yellow slough and protect red granulation. Gentle saline cleansing removes nonviable tissue without injuring the new tissue, and keeping the base moist supports healing.",
+    "Incorrect. Cultures matter in recently infected wounds, but there are no current signs of infection, and a culture is taken after cleansing from viable tissue, not from slough.",
+    "Incorrect. Covering the wound and managing drainage are reasonable, but dry gauze dries and sticks to granulation tissue, tearing it at removal; moist saline dressings are prescribed."
    ],
    "rationale": "This item connects the RYB color guide with how secondary-intention wounds heal. An open wound fills in with granulation tissue (proliferative phase) that is beefy red, moist, and fragile — RYB says protect it. The yellow slough is nonviable tissue that feeds bacteria and blocks healing — RYB says cleanse it. Because this wound was recently infected, removing slough while protecting new tissue supports both infection control and healing.",
    "takeaway": "Mixed red–yellow wound: cleanse the yellow, protect and keep moist the red.",
@@ -190,7 +191,8 @@
    "focus": "Nursing Interventions",
    "hintContent": "Recall the RYB goals for red and yellow tissue and what healthy granulation tissue in a secondary-intention wound needs.",
    "hintStrategy": "Identify the two tissue colors in the stem, then pick the only option that treats each color according to its RYB goal without harming the other.",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21f-006",
@@ -223,7 +225,8 @@
    "focus": "Assessment Findings",
    "hintContent": "Recall what a secondary-intention wound should look like in the proliferative phase and which measured wound features signal deterioration.",
    "hintStrategy": "Compare each finding with its previous value or with the expected picture. Three findings move toward healing; look for the one moving the wrong way.",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21f-007",
@@ -317,16 +320,16 @@
    "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. The nurse interprets the drainage, the trend in vital signs, and the laboratory values together. Which action should the nurse take first?",
    "options": [
     "Notify the surgeon immediately of suspected hemorrhage",
-    "Remove the saturated dressing to find the bleeding source",
-    "Place the client in high Fowler's position to ease restlessness",
-    "Give the prescribed PRN morphine to relieve the restlessness"
+    "Reinforce the dressing and recheck vital signs in 15 minutes",
+    "Recheck the hemoglobin and hematocrit before calling",
+    "Outline the drainage on the dressing to track its spread"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Recurrent sanguineous drainage, a distending abdomen, tachycardia, falling BP, low urine output, and a 3.5-g/dL hemoglobin drop within hours of surgery mean hemorrhage; the client likely needs a return to surgery.",
-    "Incorrect. Removing the dressing loses the pressure it provides and delays definitive treatment; reinforce and keep pressure instead.",
-    "Incorrect. High Fowler's can worsen hypotension; restlessness here is a sign of poor perfusion, not positioning discomfort.",
-    "Incorrect. Restlessness is an early sign of blood loss; an opioid could mask it and further lower the blood pressure."
+    "Correct. Recurrent bright red drainage, a firm distended abdomen, rising HR, falling BP, low urine output, and a dropping hemoglobin show active bleeding with early shock. Only the surgeon can stop the bleeding, so the call cannot wait.",
+    "Incorrect. Reinforcing and frequent vital signs are reasonable, but the dressing was already reinforced once and the shock trend is clear; waiting 15 minutes delays definitive treatment.",
+    "Incorrect. Trending labs is reasonable, but a 3.5 g/dL hemoglobin drop is already documented with worsening vital signs; more data delays treatment of hemorrhage.",
+    "Incorrect. Marking drainage helps track bleeding, but the cues already confirm active hemorrhage with shock; monitoring does not replace notifying the surgeon now."
    ],
    "rationale": "Recognizing hemorrhage requires linking three kinds of cues: exudate type (bright red, sanguineous drainage that recurs after reinforcement), timing (within the first 48 hours, the highest-risk period), and laboratory and hemodynamic data (hemoglobin and hematocrit falling, HR rising, BP falling, urine output dropping). Together these indicate active bleeding with early shock, which needs the surgeon now.",
    "takeaway": "Bright red drainage + falling hemoglobin + tachycardia and hypotension in the first 48 hours = hemorrhage; call the surgeon now.",
@@ -334,7 +337,8 @@
    "focus": "Prioritization",
    "hintContent": "Recall when postoperative hemorrhage is most likely, what sanguineous drainage means, and how blood loss changes hemoglobin, HR, BP, and urine output.",
    "hintStrategy": "Decide what the combined data mean before choosing. Then ask which option gets definitive treatment fastest without masking or worsening the problem.",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21f-008",
@@ -415,16 +419,16 @@
    "stem": "Refer to the Nurses’ Notes, Vital Signs, and Laboratory Results. The nurse stays with the client and calls for help. Which action should the nurse take first?",
    "options": [
     "Apply adhesive closure strips to pull the separated edges together",
-    "Ask the client to cough so the full extent of the separation shows",
+    "Notify the surgeon about the separated incision",
     "Position the client in low Fowler's with the knees flexed",
-    "Apply a warm compress to the abdomen to relax the muscles"
+    "Keep the client NPO in case surgery is needed"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. The nurse does not try to close a dehisced wound; strips will not hold and delay surgical evaluation.",
-    "Incorrect. Coughing raises intra-abdominal pressure and could turn dehiscence into evisceration.",
-    "Correct. Low Fowler's with knees bent relaxes the abdominal muscles and reduces tension on the separated incision; next, cover with sterile saline-moistened dressings and notify the surgeon.",
-    "Incorrect. The wound needs a sterile, saline-moistened covering, not heat; a warm compress is not sterile and does not reduce tension."
+    "Incorrect. Supporting the wound edges seems helpful, but closing a dehisced wound is the surgeon’s decision; strips can trap contamination and will not hold against abdominal tension.",
+    "Incorrect. The surgeon must be notified, but help is already being called; the first hands-on action is to reduce tension on the wound so the separation does not progress to evisceration.",
+    "Correct. Low Fowler’s with knees flexed relaxes the abdominal muscles and reduces tension on the incision right away. The nurse then covers the wound with sterile saline-moistened dressings and notifies the surgeon.",
+    "Incorrect. NPO status is appropriate because surgical repair is likely, but it does not protect the wound now; reducing tension on the incision comes first."
    ],
    "rationale": "The 'giving-way' sensation with straining, a gush of pink (serosanguineous) drainage, and separated edges without visible organs identify dehiscence. Steroids and low albumin are factors that impair collagen formation, which explains why the incision failed near the end of the first week. The first action reduces tension on the wound — low Fowler's with knees flexed — followed by sterile saline-moistened dressings and notifying the surgeon while watching for evisceration.",
    "takeaway": "Dehiscence: stay, low Fowler's with knees bent, sterile saline-moist dressing, notify the surgeon.",
@@ -432,7 +436,8 @@
    "focus": "Prioritization",
    "hintContent": "Recall the signs of dehiscence, which medications and lab values weaken an incision, and how position changes abdominal wall tension.",
    "hintStrategy": "Identify the complication first, then choose the action that immediately lowers the risk of it getting worse. Eliminate anything that increases abdominal pressure or tries to fix the wound yourself.",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21f-009",
@@ -526,25 +531,26 @@
    "clientNeed": "Health Promotion and Maintenance",
    "stem": "A 24-year-old client had an infected pilonidal cyst excised. The surgeon left the wound open with packing and plans for it to heal without closure. The client asks, “Why didn't they just stitch it closed? Now it will take forever.” Which response by the nurse is best?",
    "options": [
-    "“Open wounds heal faster and leave less scarring than stitched ones because air dries them.”",
+    "“The surgeon chose this for a reason, so ask about it at your follow-up visit.”",
     "“It will fill in from the bottom with new tissue, so infection is not trapped under the skin.”",
-    "“Stitches are avoided because an infected wound is unable to form any new granulation tissue.”",
-    "“The surgeon will stitch it in 3 to 5 days once the swelling goes down, as is done for all cysts.”"
+    "“Yes, open wounds heal more slowly, but the packing helps keep the wound clean.”",
+    "“Some wounds are left open for a few days and then stitched closed at a later time.”"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Secondary intention takes longer and leaves more scarring than primary intention; air-drying also harms new tissue.",
-    "Correct. Secondary intention lets the wound granulate from the base upward while drainage escapes, lowering the chance of trapping infection.",
-    "Incorrect. Infected wounds can still granulate once the infection is controlled; that is not why stitches are avoided.",
-    "Incorrect. That describes tertiary (delayed primary) intention, which is not the surgeon's plan here."
+    "Incorrect. Referring questions to the surgeon is sometimes appropriate, but explaining how wounds heal is within nursing teaching; deferring leaves the client’s question and worry unanswered.",
+    "Correct. This explains secondary intention and its purpose: the wound fills with granulation from the bottom up, so bacteria are not sealed beneath closed skin. It answers why the wound was left open.",
+    "Incorrect. Slower healing is an honest trade-off, but this does not explain why the wound was left open; the key point is that closing an infected wound traps bacteria.",
+    "Incorrect. This describes tertiary intention, which is true for some wounds, but it is not this client’s plan and does not explain why stitching was avoided."
    ],
-   "rationale": "The item links types of healing with infection risk. An infected wound closed over the top can trap bacteria, so the surgeon lets it heal by secondary intention: it fills in with granulation from the bottom up. The trade-offs the nurse should be honest about are slower healing and more scarring — not faster healing. Tertiary intention (open 3–5 days, then closed) is a different plan.",
+   "rationale": "The item links types of healing with infection risk. An infected wound closed over the top can trap bacteria, so the surgeon lets it heal by secondary intention: it fills in with granulation from the bottom up. The nurse is honest about the trade-offs (slower healing and more scarring) but also explains why the wound was left open. Tertiary intention (open 3–5 days, then closed) is a different plan.",
    "takeaway": "Infected wounds are often left open to heal by secondary intention — slower and more scarring, but infection is not sealed in.",
    "cjmm": "Take Action",
    "focus": "Client Teaching",
    "hintContent": "Recall how primary, secondary, and tertiary intention differ in closure, healing time, scarring, and infection risk.",
    "hintStrategy": "Identify which type of healing the surgeon's plan describes, then choose the statement that is both accurate and addresses the client's concern.",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m21f-013",
@@ -617,7 +623,8 @@
    "focus": "Pathophysiology",
    "hintContent": "Recall what produces the healing ridge, when it is normally felt, and why obesity affects incision strength.",
    "hintStrategy": "Ask what the missing finding tells you about the phase of healing, then link it to the complication most likely at this point after surgery.",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m21f-015",
@@ -650,7 +657,8 @@
    "focus": "Nursing Interventions",
    "hintContent": "Recall what the tissue described in the stem is called, which healing phase it belongs to, and the RYB goal for red tissue.",
    "hintStrategy": "Name the tissue first. Then eliminate any option that would dry, scrub, or pull off healthy tissue.",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m21f-016",
@@ -664,17 +672,17 @@
    "clientNeed": "Health Promotion and Maintenance",
    "stem": "A 19-year-old client of African descent had a thick, raised, shiny scar form on the earlobe after a piercing; the scar now extends well beyond the original piercing site. The client is scheduled for a laparoscopic cholecystectomy and asks about scarring. Which response by the nurse is most appropriate?",
    "options": [
-    "“That is a hypertrophic scar, which stays inside the wound edges and will flatten on its own.”",
-    "“That type of scar forms only on earlobes, so your abdominal incisions will not be affected.”",
+    "“Small laparoscopic incisions usually heal with only faint, minor scarring.”",
+    "“Keep the incisions out of the sun for a year to help the scars fade.”",
     "“Tell your surgeon about this scar, because you may be prone to forming keloids.”",
-    "“That scar formed because the piercing was infected, so a sterile incision will not do this.”"
+    "“Silicone gel sheets used after surgery can help keep new scars flatter.”"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. A hypertrophic scar stays within the original wound borders; this scar extends beyond them.",
-    "Incorrect. Keloids can form after any skin injury, including surgical incisions.",
-    "Correct. A scar that grows beyond the wound edge is a keloid — excess collagen in the maturation phase — and a history of keloids should be reported before surgery.",
-    "Incorrect. Keloids result from overproduction of collagen, not infection; they can form after clean incisions."
+    "Incorrect. Laparoscopic incisions are small, but a client who forms keloids can form one after any incision; this reassurance misses the actual risk.",
+    "Incorrect. Sun protection is sound scar teaching, but it does not address this client’s keloid tendency or make sure the surgeon can plan for it.",
+    "Correct. A raised scar extending beyond the original wound is a keloid, which is more common in darker skin. Keloid-prone clients can form them after any incision, so the surgeon needs to know to plan prevention.",
+    "Incorrect. Silicone sheeting can help prevent raised scars, but the nurse should first make sure the surgeon knows about the keloid history so a full prevention plan is made."
    ],
    "rationale": "Recognizing the lesion (a keloid — a raised scar extending beyond the original wound, more common in darker skin) and linking it to the maturation phase (collagen reorganizes; sometimes too much is produced) guides the teaching. Because keloid-prone clients can form them after any incision, the nurse encourages the client to tell the surgeon so prevention can be planned.",
    "takeaway": "Scar beyond the wound edges = keloid; tell the surgeon before any new incision.",
@@ -682,7 +690,8 @@
    "focus": "Lifespan & Diversity",
    "hintContent": "Recall how a keloid differs from a hypertrophic scar, which phase of healing produces scar overgrowth, and which clients are more prone to it.",
    "hintStrategy": "Identify the scar type from the description, then choose the response that is accurate and helps the client plan for the upcoming surgery.",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m21f-017",
@@ -715,7 +724,8 @@
    "focus": "Lifespan & Diversity",
    "hintContent": "Recall how aging changes skin and wound healing, and how clients should be moved to avoid friction injuries.",
    "hintStrategy": "Sort the options into 'expected with aging' and 'new problem.' The item asks for the one that is not an expected age-related change.",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21f-020",
@@ -748,7 +758,8 @@
    "focus": "Prioritization",
    "hintContent": "Recall the lab values that signal poor healing capacity and the lifestyle and chronic conditions that impair oxygen delivery and immune function.",
    "hintStrategy": "Count the significant risk factors for each client, and check lab values against normal ranges. The client with several major factors stacked together is the priority.",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21f-021",
@@ -882,7 +893,8 @@
    "focus": "Assessment Findings",
    "hintContent": "Recall the five exudate types, which ones indicate infection, and the slide's signs of wound infection.",
    "hintStrategy": "Name the drainage type exactly — color and thickness both matter — then decide what it means together with the temperature and choose the action that gets that problem treated.",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21f-025",
@@ -931,24 +943,25 @@
    "stem": "A client with type 2 diabetes is on postoperative day 2 after a bowel resection. Capillary glucose readings have ranged from 240 to 290 mg/dL. Which action is most important for the nurse to take to reduce the client's risk of wound infection?",
    "options": [
     "Ask the provider to extend the prophylactic antibiotic for the rest of the stay",
-    "Limit protein and carbohydrate at meals until glucose is below 180 mg/dL",
-    "Keep the client on bed rest so the muscles use less glucose",
+    "Encourage protein-rich foods at meals to support collagen formation",
+    "Help the client walk in the hall to improve blood flow to the wound",
     "Monitor glucose, give insulin per protocol, and report persistent highs"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Long-term antibiotics lead to resistant infections, and they do not correct the impaired WBC function caused by high glucose.",
-    "Incorrect. Protein is needed for collagen and immune cells; restricting intake slows healing. High glucose is managed with monitoring and insulin.",
-    "Incorrect. Bed rest reduces circulation to the wound; exercise improves circulation and healing, and active muscles lower, not raise, glucose.",
-    "Correct. Persistently high glucose impairs WBCs and blood flow; controlling it and reporting persistent readings lets the provider adjust treatment — glucose control is wound care."
+    "Incorrect. Antibiotics treat infection, but prophylaxis is stopped within 24 hours of surgery; extending it promotes resistance and does not fix the high glucose that impairs WBC function.",
+    "Incorrect. Protein supports collagen and healing, but it does not correct the glucose of 240–290 mg/dL, which is this client’s main infection risk.",
+    "Incorrect. Ambulation improves circulation and helps healing, but it does not control the persistent hyperglycemia that is impairing this client’s defenses.",
+    "Correct. Glucose of 240–290 mg/dL impairs WBC function and oxygen delivery to the wound. Monitoring, giving insulin per protocol, and reporting persistent highs directly target the client’s biggest infection risk."
    ],
-   "rationale": "Diabetes is a major factor affecting healing: high glucose impairs WBC function and damages vessels, so less oxygen reaches the wound. The client also had GI surgery, one of the slide’s high-risk groups for wound infection. Monitoring glucose, treating it per protocol, and reporting persistent hyperglycemia directly lowers infection risk. Extending antibiotics breeds resistance, restricting protein starves the wound, and bed rest reduces circulation.",
+   "rationale": "Diabetes is a major factor affecting healing: high glucose impairs WBC function and damages vessels, so less oxygen reaches the wound. The client also had GI surgery, one of the slide’s high-risk groups for wound infection. Monitoring glucose, treating it per protocol, and reporting persistent hyperglycemia directly lowers infection risk. Extending antibiotics breeds resistance, and good protein intake and walking support healing but do not correct the hyperglycemia driving the risk.",
    "takeaway": "High glucose after GI surgery → monitor, treat per protocol, report; don’t restrict protein, extend antibiotics, or keep in bed.",
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "hintContent": "Recall how hyperglycemia affects WBCs and blood flow, and which surgical clients the slides list as higher risk for infection.",
    "hintStrategy": "Each option targets infection or glucose in some way. Eliminate options that create a new problem (resistance, missing nutrients, less circulation), then choose the action aimed at the actual risk factor.",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21f-033",
@@ -1042,7 +1055,8 @@
    "focus": "Pathophysiology",
    "hintContent": "Recall how internal bleeding presents at a surgical site and when postoperative hemorrhage is most likely.",
    "hintStrategy": "Use the timing and the trend in the lab and vital-sign data to rule options in or out; a dry dressing does not settle the question.",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m21f-034",
@@ -1075,7 +1089,8 @@
    "focus": "Prioritization",
    "hintContent": "Recall what each drainage type indicates and the typical timing of hemorrhage and infection after surgery.",
    "hintStrategy": "Decide for each client whether the finding is expected, a stable problem, or an unstable problem. See the unstable client first.",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21f-035",
@@ -1226,7 +1241,8 @@
    "focus": "Assessment Findings",
    "hintContent": "Recall the normal signs of the inflammatory phase, how serous drainage looks, and when infection and dehiscence usually occur.",
    "hintStrategy": "Use the day after surgery as your anchor: ask whether each option's complication fits this timing and these specific findings.",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m21f-042",
@@ -1241,24 +1257,25 @@
    "stem": "A client with an infected cesarean incision has received IV antibiotics for 72 hours. On admission, the edge of the redness was outlined with a skin marker, and the drainage was purulent. Which finding best indicates that treatment is effective?",
    "options": [
     "The client has received every antibiotic dose on schedule",
-    "The client reports that the incision itches more than on admission",
+    "The client reports less incision pain than on admission",
     "Redness now extends 1 cm beyond the marked outline, and drainage has stopped",
     "Redness has receded inside the marked outline, and drainage is serous"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. On-time doses show the treatment was given, not that it worked.",
-    "Incorrect. Itching is not a measure of infection resolution.",
-    "Incorrect. Redness spreading beyond the outline means the infection is worsening.",
+    "Incorrect. On-time doses are needed for treatment to work, but they show the treatment was given (a process measure), not that it worked.",
+    "Incorrect. Less pain may reflect improvement, but pain is subjective and affected by analgesics; it is weaker evidence than objective changes in redness and drainage.",
+    "Incorrect. Drainage stopping can look like improvement, but redness spreading beyond the marked outline means the infection is worsening.",
     "Correct. Shrinking redness and a change from purulent to serous drainage are measurable signs the infection is resolving."
    ],
-   "rationale": "Evaluating infection treatment compares current findings with baseline. The marked outline measures spread of redness, and the exudate type tracks the infection: purulent drainage (pus) turning serous means inflammation is settling. Giving every dose is a process measure, not an outcome.",
+   "rationale": "Evaluating infection treatment compares current findings with baseline. The marked outline measures spread of redness, and the exudate type tracks the infection: purulent drainage turning serous means inflammation is settling. These objective outcomes are stronger evidence than subjective pain reports, and giving every dose is a process measure, not an outcome.",
    "takeaway": "Infection improving = redness inside the line and drainage moving from purulent to serous.",
    "cjmm": "Evaluate Outcomes",
    "focus": "Assessment Findings",
    "hintContent": "Recall how the nurse measures spread of redness and what a change in exudate type means.",
    "hintStrategy": "Look for a client outcome that is measured against the baseline, not a nursing process or a vague symptom.",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m21f-043",
@@ -1329,7 +1346,8 @@
    "focus": "Delegation & Safety",
    "hintContent": "Recall which tasks require assessment, teaching, or clinical judgment and which are routine care.",
    "hintStrategy": "Eliminate any option that involves assessing, teaching, or a procedure; the remaining option is within UAP scope.",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   }
  ]
 }

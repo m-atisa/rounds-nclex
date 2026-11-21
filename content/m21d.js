@@ -127,20 +127,21 @@ window.NURSE_DATA.push({
    "stem": "A client comes to urgent care 3 days after a dog bite to the hand that was never treated. The wound now has thick yellow drainage, a foul odor, and black, dead tissue at the edges. The surrounding skin is red and warm, and the temperature is 38.4 °C (101.1 °F). How should the nurse classify this wound by contamination?",
    "options": [
     "Dirty/infected, because pus and dead tissue are present",
-    "Contaminated, because it was caused by an animal bite",
-    "Clean-contaminated, because it has not been surgically opened",
-    "Contaminated, because the bite happened more than a day ago"
+    "Contaminated, because animal bites carry mouth bacteria",
+    "Contaminated, because it is an open, accidental wound",
+    "Contaminated, because it was never cleaned or treated"
    ],
    "answer": 0,
    "priority": false,
    "optionRationales": [
-    "Correct. Purulent drainage, necrotic tissue, and signs of clinical infection make the wound dirty/infected, the highest-risk class.",
-    "Incorrect. A fresh bite is contaminated, but this wound already shows infection, which places it in the highest class.",
-    "Incorrect. Clean-contaminated describes controlled surgical entry into the GI, GU, or respiratory tract.",
-    "Incorrect. Time alone does not set the class. Pus and dead tissue do."
+    "Correct. Pus, foul odor, necrotic tissue, spreading redness, and fever show an established infection, which places the wound in the dirty/infected class regardless of how it started.",
+    "Incorrect. Bites do carry oral bacteria, and a fresh bite is classed as contaminated, but this wound now shows active infection, which moves it to the dirty/infected class.",
+    "Incorrect. Fresh, open, accidental wounds are classed as contaminated, but this 3-day-old wound has pus and dead tissue, so it is now dirty/infected.",
+    "Incorrect. Lack of early care raised the infection risk, but classification is based on the wound's current condition; pus and necrosis make it dirty/infected."
    ],
    "rationale": "A fresh accidental bite is classified as contaminated. Once infection develops, shown here by pus, foul odor, necrotic tissue, spreading redness, warmth, and fever, the wound becomes dirty/infected, the highest infection-risk class. Recognizing the signs of infection is what moves the wound to this class.",
-   "takeaway": "A fresh bite is contaminated; a bite with pus and dead tissue is dirty/infected."
+   "takeaway": "A fresh bite is contaminated; a bite with pus and dead tissue is dirty/infected.",
+   "bestAnswer": true
   },
   {
    "id": "m21d-003",
@@ -222,21 +223,22 @@ window.NURSE_DATA.push({
    },
    "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. Which problem is the nurse's priority concern for this client at this time?",
    "options": [
-    "Allergic contact dermatitis from the herbal salve on the wound",
-    "Hypovolemic shock from ongoing bleeding at the wound site",
+    "Risk of tetanus from an injury on rusted barbed wire",
+    "Hyperglycemia from diabetes that has not been monitored",
     "Delayed wound healing from poor nutrition and weight loss",
     "Spread of infection from the wound into surrounding tissue"
    ],
    "answer": 3,
    "priority": true,
    "optionRationales": [
-    "Incorrect. The findings (pus, dead tissue, spreading redness) fit infection, not an allergic rash.",
-    "Incorrect. There is no active bleeding, and the hemoglobin is normal. The fast pulse fits fever and infection.",
-    "Incorrect. Poor nutrition and low albumin will slow healing, but that is a longer-term problem.",
-    "Correct. Spreading redness, chills, fever, tachycardia, and a high WBC show the infection is spreading and could become systemic."
+    "Incorrect. Tetanus prophylaxis should be checked after a rusty-wire injury, but tetanus is a potential problem, while spreading infection with fever and tachycardia is an actual, current threat.",
+    "Incorrect. A glucose of 286 mg/dL needs treatment, but it is partly driven by the infection and is less immediately dangerous than infection spreading with signs of a systemic response.",
+    "Incorrect. Low albumin and weight loss will slow healing, but this is a chronic problem that is lower priority than an acute, spreading infection.",
+    "Correct. Erythema extending 8 cm up the calf, fever, chills, tachycardia, and a WBC of 17,400/mm³ show infection spreading beyond the wound, the most immediate threat to this client."
    ],
-   "rationale": "This dirty/infected wound shows signs of infection spreading beyond the wound: redness extending up the calf, fever, chills, tachycardia, and a WBC of 17,400/mm³. That is the most immediate threat. Low albumin and high glucose explain why healing will be slow, but spreading infection must be addressed first.",
-   "takeaway": "Spreading infection outranks delayed healing."
+   "rationale": "This dirty/infected wound shows signs of infection spreading beyond the wound: redness extending up the calf, fever, chills, tachycardia, and a WBC of 17,400/mm³. That is the most immediate threat. Tetanus status still needs to be checked, and low albumin and high glucose explain why healing will be slow, but spreading infection must be addressed first.",
+   "takeaway": "Spreading infection outranks delayed healing.",
+   "bestAnswer": true
   },
   {
    "id": "m21d-004",
@@ -315,13 +317,14 @@ window.NURSE_DATA.push({
    "answer": 2,
    "priority": true,
    "optionRationales": [
-    "Incorrect. The antibiotic is given promptly, but only after the culture is collected so the result is not falsely negative.",
-    "Incorrect. Glucose control is important but can follow the culture and antibiotic.",
-    "Correct. The culture must be collected before the first antibiotic dose. The antibiotic should then follow without delay.",
-    "Incorrect. Nutrition is a longer-term priority."
+    "Incorrect. Prompt antibiotics are essential for an infected wound with fever, but giving the first dose before the culture can make the culture falsely negative.",
+    "Incorrect. A glucose of 286 mg/dL needs correction, but it is not immediately life-threatening and does not affect the culture, which must be taken before the antibiotic.",
+    "Correct. The culture takes only minutes and must be collected from the cleansed wound before the first antibiotic dose; the cefazolin should then be started without delay.",
+    "Incorrect. Poor nutrition slows healing and the consult is appropriate, but it is a longer-term need that can wait until the culture and antibiotic are done."
    ],
    "rationale": "A wound culture identifies the organism and guides antibiotic choice, but an antibiotic given first can make the culture falsely negative. So the nurse collects the culture first and then gives the antibiotic promptly. Glucose and nutrition follow.",
-   "takeaway": "Culture first, then the antibiotic without delay."
+   "takeaway": "Culture first, then the antibiotic without delay.",
+   "bestAnswer": true
   },
   {
    "id": "m21d-006",
@@ -493,20 +496,21 @@ window.NURSE_DATA.push({
    "stem": "A 60-year-old client was just diagnosed with malignant melanoma. The client says, “My father had basal cell carcinoma removed years ago and he was fine. Isn't this the same thing?” Which response by the nurse is most accurate?",
    "options": [
     "“Melanoma starts in pigment cells and is more serious because it can spread early.”",
-    "“Yes, both start in the same skin cells, grow slowly, and almost never spread to other organs.”",
-    "“Melanoma is less serious because it only appears on skin exposed to the sun.”",
-    "“Both are infections of the skin that clear up after a course of antibiotics.”"
+    "“Both are skin cancers caused by sun exposure, so the treatment is the same.”",
+    "“Basal cell carcinoma rarely spreads, so your father's outcome was expected.”",
+    "“Melanoma is usually curable when it is found early and removed completely.”"
    ],
    "answer": 0,
    "priority": false,
    "optionRationales": [
-    "Correct. Melanoma arises from melanocytes, the pigment-producing cells, and is the most serious skin cancer because it can spread early.",
-    "Incorrect. Basal cell carcinoma starts in basal cells and rarely spreads. Melanoma starts in melanocytes and can spread early.",
-    "Incorrect. Melanoma is more serious and can occur on skin with little sun exposure.",
-    "Incorrect. Skin cancers are neoplastic, not infectious."
+    "Correct. This directly answers the client's question: the cancers start in different cells, and melanoma is more serious because it can spread early to lymph nodes and organs.",
+    "Incorrect. Both are linked to sun exposure, but melanoma may need node evaluation and further treatment, so saying the treatment is the same is inaccurate and misleading.",
+    "Incorrect. This is true about basal cell carcinoma, but it does not answer whether melanoma is the same and may leave the client falsely reassured.",
+    "Incorrect. Early melanoma often is curable, but this does not correct the client's belief that the two cancers are the same, and it offers reassurance before staging is known."
    ],
    "rationale": "Skin cancers are named for the cell they start in. Basal cell carcinoma arises from basal cells at the bottom of the epidermis and rarely spreads. Melanoma arises from melanocytes, the cells that make melanin, and is the most serious skin cancer because it can spread early to lymph nodes and organs.",
-   "takeaway": "Melanoma = melanocytes = most serious; basal cell = most common, rarely spreads."
+   "takeaway": "Melanoma = melanocytes = most serious; basal cell = most common, rarely spreads.",
+   "bestAnswer": true
   },
   {
    "id": "m21d-009",
@@ -524,21 +528,22 @@ window.NURSE_DATA.push({
    "hintStrategy": "Connect the drug to the client's plans to find the biggest risk, then check each option for a sun-protection myth or a medication error.",
    "stem": "A client is prescribed doxycycline 100 mg orally twice daily for 10 days for a skin infection. The client says, “I'm going on a 3-day fishing trip this weekend.” Which instruction is most important for the nurse to give?",
    "options": [
-    "“Skip your doses during the trip and finish the pills when you get home.”",
+    "“Take each dose with a full glass of water and stay upright.”",
     "“Cover up and use sunscreen; this drug makes you sunburn easily.”",
     "“Apply water-resistant sunscreen each morning; one coat lasts all day.”",
-    "“Get a little sun the first day so your skin builds up a protective tan.”"
+    "“Take it 2 hours apart from milk, antacids, or iron pills.”"
    ],
    "answer": 1,
    "priority": true,
    "optionRationales": [
-    "Incorrect. Stopping and restarting the antibiotic interrupts treatment of the infection. The client takes it as prescribed and protects the skin instead.",
-    "Correct. Doxycycline causes photosensitivity. Protective clothing, a hat, shade, and broad-spectrum SPF 30+ sunscreen reapplied often prevent a severe burn.",
-    "Incorrect. Even water-resistant sunscreen must be reapplied about every 2 hours and after swimming, sweating, or towel drying.",
-    "Incorrect. A tan means UV damage has already happened, and a photosensitizing drug makes burns more severe."
+    "Incorrect. This is correct doxycycline teaching to prevent esophageal irritation, but it does not address the main risk the client's 3-day outdoor trip creates.",
+    "Correct. Doxycycline causes photosensitivity, and a 3-day fishing trip means prolonged sun exposure, so full sun protection is the most important teaching for this client.",
+    "Incorrect. Using water-resistant sunscreen is a good start, but a single morning coat does not last all day; sunscreen must be reapplied often, along with protective clothing.",
+    "Incorrect. Separating doxycycline from calcium, antacids, and iron is correct teaching, but it does not address the sunburn risk created by the client's trip."
    ],
-   "rationale": "Antibiotics such as doxycycline are among the medications that increase sun sensitivity. With prolonged outdoor exposure, the most important teaching is full sun protection: long sleeves, a wide-brimmed hat, shade, and broad-spectrum SPF 30+ sunscreen reapplied often. The client should not stop the antibiotic.",
-   "takeaway": "Photosensitizing drug + outdoor plans = teach clothing, shade, and sunscreen."
+   "rationale": "Antibiotics such as doxycycline are among the medications that increase sun sensitivity. With prolonged outdoor exposure, the most important teaching is full sun protection: long sleeves, a wide-brimmed hat, shade, and broad-spectrum SPF 30+ sunscreen reapplied often. Taking doses with water and away from dairy, antacids, and iron is also correct, but it does not address the trip.",
+   "takeaway": "Photosensitizing drug + outdoor plans = teach clothing, shade, and sunscreen.",
+   "bestAnswer": true
   },
   {
    "id": "m21d-010",
@@ -557,20 +562,21 @@ window.NURSE_DATA.push({
    "stem": "The parent of a healthy 4-month-old plans to attend an all-afternoon outdoor family reunion in July and asks the nurse how to protect the infant's skin. Which instruction should the nurse give?",
    "options": [
     "Apply SPF 30 sunscreen to all exposed skin and reapply it every 2 hours",
-    "Dress the infant in only a diaper so the skin stays cool in the heat",
+    "Offer extra breast milk or formula to keep the infant hydrated",
     "Keep the infant in the shade, in light long sleeves and a brimmed hat",
-    "Give the infant short periods of direct sun to build up tolerance"
+    "Apply a small amount of sunscreen to the face and backs of the hands"
    ],
    "answer": 2,
    "priority": false,
    "optionRationales": [
-    "Incorrect. This is sound teaching for older children and adults, but infant skin is thin and absorbs more of what is applied. For a young infant, sunscreen is used sparingly on small exposed areas only when shade and clothing are not enough.",
-    "Incorrect. Leaving the skin uncovered increases UV exposure. Light, loose clothing protects the skin while keeping the infant cool.",
-    "Correct. Shade and protective clothing are the first-line sun protection for young infants, whose thin skin absorbs more of any product applied to it.",
-    "Incorrect. A tan or 'tolerance' reflects UV damage."
+    "Incorrect. This is the right plan for older infants and children, but a 4-month-old's thin skin absorbs more product, so shade and clothing come first.",
+    "Incorrect. Extra fluids help prevent dehydration in the heat, but this does not protect the infant's skin from sunburn, which is what the parent asked.",
+    "Correct. For an infant under 6 months, sun protection starts with shade and lightweight protective clothing; sunscreen is used only on small areas when shade and clothing are not enough.",
+    "Incorrect. A small amount of sunscreen on small areas is acceptable for a young infant, but only as a backup when shade and clothing are not available."
    ],
    "rationale": "Infant skin is thinner and absorbs more of whatever is put on it. For a young infant, sun protection starts with shade and clothing (hat, light long sleeves, avoiding midday sun). A small amount of sunscreen may be used on small exposed areas only if needed.",
-   "takeaway": "Young infants: shade and clothing first; sunscreen sparingly on small areas."
+   "takeaway": "Young infants: shade and clothing first; sunscreen sparingly on small areas.",
+   "bestAnswer": true
   },
   {
    "id": "m21d-011",
@@ -658,20 +664,21 @@ window.NURSE_DATA.push({
    "stem": "The nurse in a dermatology clinic is returning four telephone messages. Which client should the nurse call first?",
    "options": [
     "A client 4 hours after a skin biopsy whose bandage stays soaked despite pressure",
-    "A client with psoriasis who is asking for a refill of a topical cream",
-    "A 16-year-old using benzoyl peroxide gel who reports mild dryness and peeling of the face",
-    "A client with athlete's foot who reports mild itching between the toes"
+    "A client with psoriasis who reports new pain and stiffness in the finger joints",
+    "A client 1 day after wart cryotherapy who reports a fluid-filled blister at the site",
+    "A client taking valacyclovir for shingles on the trunk who reports burning pain"
    ],
    "answer": 0,
    "priority": true,
    "optionRationales": [
-    "Correct. Bleeding that continues despite firm pressure after a biopsy is an active complication and needs prompt follow-up.",
-    "Incorrect. A refill request is not urgent.",
-    "Incorrect. Mild dryness and peeling are expected with benzoyl peroxide.",
-    "Incorrect. Mild tinea symptoms are not urgent."
+    "Correct. Bleeding that continues despite firm pressure after a biopsy is an active complication that may need prompt treatment, so this client is called first.",
+    "Incorrect. New joint pain in a client with psoriasis may signal psoriatic arthritis and needs follow-up, but it is not an urgent or unstable problem.",
+    "Incorrect. A blister at a cryotherapy site may seem worrying, but it is an expected reaction the day after treatment and is not urgent.",
+    "Incorrect. Shingles pain can be severe and may need better pain control, but burning pain at the rash is expected and is less urgent than ongoing bleeding."
    ],
    "rationale": "Biopsy teaching includes reporting bleeding that will not stop and signs of infection. Persistent bleeding despite pressure is an actual complication. Expected medication effects (benzoyl peroxide dryness), refills, and mild chronic symptoms can wait.",
-   "takeaway": "Uncontrolled bleeding after a procedure comes before expected drug effects or refills."
+   "takeaway": "Uncontrolled bleeding after a procedure comes before expected drug effects or refills.",
+   "bestAnswer": true
   },
   {
    "id": "m21d-014",
@@ -689,21 +696,22 @@ window.NURSE_DATA.push({
    "hintStrategy": "Two options name a real aging process. Decide whether these patches come from intrinsic or extrinsic aging, and what extrinsic aging can lead to.",
    "stem": "A 70-year-old retired farmer who is bald has several rough, scaly pink patches on the scalp and the tops of both ears that have been present for about a year. The client asks, “Isn't this just normal aging skin?” Which response by the nurse is most accurate?",
    "options": [
-    "“These are likely age spots caused by having fewer melanocytes, so they're harmless.”",
-    "“This is extrinsic aging from the sun, which causes wrinkles and thickening but not cancer.”",
-    "“These look like psoriasis plaques, so a steroid cream should clear them.”",
+    "“Sun damage causes skin aging, so wear a wide-brimmed hat and sunscreen daily.”",
+    "“Aging skin is drier, so apply a moisturizer to these patches twice a day.”",
+    "“Keep an eye on these and see your provider if they start to bleed or grow.”",
     "“Sun damage can cause precancerous changes, so your provider should check these.”"
    ],
    "answer": 3,
    "priority": false,
    "optionRationales": [
-    "Incorrect. Age spots are flat pigment clusters. Rough, scaly, pink patches that persist on sun-exposed skin are not age spots and need evaluation.",
-    "Incorrect. These patches do come from extrinsic (UV) aging, but extrinsic aging also causes precancerous changes, not only wrinkles and thickening.",
-    "Incorrect. Psoriasis forms well-defined plaques with silvery scale, often on the elbows and knees. The nurse also does not diagnose or recommend a steroid.",
-    "Correct. Extrinsic aging from UV causes precancerous changes such as actinic keratoses, which can become squamous cell carcinoma, so they should be evaluated."
+    "Incorrect. Sun protection is good teaching, but it treats the patches as simple aging and does not get the likely actinic keratoses evaluated.",
+    "Incorrect. Aging skin is drier, but rough, scaly pink patches on sun-exposed skin for a year are not simple dryness and need evaluation, not just moisturizer.",
+    "Incorrect. Watching for change is reasonable for stable moles, but these patches already suggest precancerous lesions, so waiting for bleeding or growth delays evaluation.",
+    "Correct. Rough, scaly pink patches on sun-exposed skin in an outdoor worker suggest actinic keratoses, which can become squamous cell carcinoma, so the provider should evaluate them now."
    ],
    "rationale": "Intrinsic aging (time and genetics) thins and dries the skin. Extrinsic aging from UV, smoking, and chemicals causes thickening, wrinkling, and precancerous changes. Rough, scaly, pink patches on sun-exposed skin in an outdoor worker suggest actinic keratoses, which can become squamous cell carcinoma, so they should be evaluated.",
-   "takeaway": "Rough, scaly sun-damage patches are not just aging; refer for evaluation."
+   "takeaway": "Rough, scaly sun-damage patches are not just aging; refer for evaluation.",
+   "bestAnswer": true
   },
   {
    "id": "m21d-015",
@@ -752,19 +760,20 @@ window.NURSE_DATA.push({
    "options": [
     "Establish IV access and begin infusing the prescribed IV fluids",
     "Apply firm, direct pressure to the wound and elevate the leg",
-    "Place the client in high Fowler's position",
-    "Administer epinephrine 0.3 mg IM"
+    "Draw blood for a type and crossmatch for possible transfusion",
+    "Recheck the blood pressure and heart rate to confirm the trend"
    ],
    "answer": 1,
    "priority": true,
    "optionRationales": [
-    "Incorrect. IV fluids will be needed, but stopping ongoing blood loss comes first.",
-    "Correct. Controlling the bleeding stops the cause of shock.",
-    "Incorrect. High Fowler's lowers blood flow to the brain in shock. The client is laid flat.",
-    "Incorrect. There is no sign of anaphylaxis."
+    "Incorrect. IV fluids will be needed for shock, but fluids cannot keep up with ongoing blood loss; the bleeding must be stopped first.",
+    "Correct. The client is in shock from active bleeding. Firm, direct pressure and elevation stop the ongoing loss immediately and can be done before any other step.",
+    "Incorrect. A type and crossmatch is appropriate because transfusion may be needed, but it does not stop the bleeding that is causing the shock.",
+    "Incorrect. Ongoing monitoring is needed, but the signs of shock are already clear; rechecking vital signs before stopping the bleeding delays lifesaving care."
    ],
    "rationale": "The client shows signs of shock from blood loss (tachycardia, low BP, cool clammy skin, restlessness) with a wound that is still bleeding. The first action is to stop the bleeding with firm, direct pressure and elevation, then call for help and anticipate IV fluids.",
-   "takeaway": "Shock from a bleeding wound: stop the bleeding first."
+   "takeaway": "Shock from a bleeding wound: stop the bleeding first.",
+   "bestAnswer": true
   },
   {
    "id": "m21d-016",
@@ -829,7 +838,8 @@ window.NURSE_DATA.push({
     "Incorrect. A fresh accidental bite is contaminated. That is a higher risk than clean or clean-contaminated wounds, but lower than a wound with dead tissue already present."
    ],
    "rationale": "Infection risk rises with the contamination class: clean (knee arthroplasty) < clean-contaminated (controlled biliary entry) < contaminated (fresh bite) < dirty/infected. An old traumatic wound with soil and dead tissue is dirty/infected, the highest class, so it needs the closest monitoring.",
-   "takeaway": "Fresh accident = contaminated; dead tissue or infection already present = dirty/infected = monitor most closely."
+   "takeaway": "Fresh accident = contaminated; dead tissue or infection already present = dirty/infected = monitor most closely.",
+   "bestAnswer": true
   },
   {
    "id": "m21d-018",
@@ -845,21 +855,22 @@ window.NURSE_DATA.push({
    "hintStrategy": "Eliminate options that would increase bleeding under the skin.",
    "stem": "A client bumped the thigh on a table edge 1 hour ago. The area is swollen, tender, and bruised, and the skin is intact. Which action should the nurse take first to manage the pain and swelling?",
    "options": [
-    "Apply a heating pad to the area on the high setting",
-    "Massage the area firmly to break up the bruise",
-    "Cover the area with a sterile occlusive dressing",
+    "Apply a warm compress to improve blood flow",
+    "Give acetaminophen as prescribed for pain",
+    "Have the client rest and avoid using the leg",
     "Apply a cloth-wrapped ice pack to the area"
    ],
    "answer": 3,
    "priority": true,
    "optionRationales": [
-    "Incorrect. Heat dilates vessels and increases bleeding and swelling early on.",
-    "Incorrect. Massage can increase bleeding into the tissue.",
-    "Incorrect. The skin is intact, so a dressing is not needed.",
-    "Correct. Cold narrows vessels, slowing bleeding and swelling and numbing pain."
+    "Incorrect. Warmth helps a bruise later, after 24 to 48 hours, but in the first hour it increases bleeding and swelling under the skin.",
+    "Incorrect. Acetaminophen may ease the pain, but it does not reduce swelling or the bleeding into the tissue the way cold does.",
+    "Incorrect. Rest is part of care for a contusion, but by itself it does not reduce the swelling and pain as directly as cold therapy.",
+    "Correct. In the first hours after a contusion, a cloth-wrapped ice pack constricts vessels, slowing bleeding and swelling and reducing pain, while protecting the skin."
    ],
-   "rationale": "A contusion is a closed wound: the skin is intact, but vessels underneath bleed into the tissue. Ice wrapped in a cloth, plus elevation, slows bleeding and swelling and reduces pain.",
-   "takeaway": "Fresh contusion: wrapped ice and elevation."
+   "rationale": "A contusion is a closed wound: the skin is intact, but vessels underneath bleed into the tissue. Ice wrapped in a cloth, plus elevation, slows bleeding and swelling and reduces pain. Heat is helpful only after 24 to 48 hours, and pain medicine or rest alone does not control the swelling.",
+   "takeaway": "Fresh contusion: wrapped ice and elevation.",
+   "bestAnswer": true
   },
   {
    "id": "m21d-019",
@@ -883,13 +894,14 @@ window.NURSE_DATA.push({
    "answer": 0,
    "priority": true,
    "optionRationales": [
-    "Correct. Bleeding is controlled first.",
-    "Incorrect. Irrigation to remove debris comes after bleeding is controlled.",
-    "Incorrect. Ointment comes after cleaning.",
-    "Incorrect. Covering comes last."
+    "Correct. Gentle pressure with clean gauze controls the oozing first, so the wound can then be cleaned and assessed clearly.",
+    "Incorrect. Irrigation to remove the gravel is essential to prevent infection and tattooing, but bleeding is controlled before the wound is cleaned.",
+    "Incorrect. A thin layer of ointment keeps an abrasion moist and helps healing, but it is applied only after bleeding is controlled and the gravel is removed.",
+    "Incorrect. A nonadherent dressing protects the abrasion, but covering it now would trap the gravel; it is the last step after cleaning."
    ],
    "rationale": "The sequence for an untreated wound is: control bleeding, clean with saline (removing debris such as gravel), then cover. Teaching the family the signs of infection follows.",
-   "takeaway": "Stop the bleeding, then clean, then cover."
+   "takeaway": "Stop the bleeding, then clean, then cover.",
+   "bestAnswer": true
   },
   {
    "id": "m21d-020",
@@ -1008,7 +1020,8 @@ window.NURSE_DATA.push({
     "Incorrect. Vital signs are monitored for shock, but stopping the active bleeding comes first."
    ],
    "rationale": "A prolonged clotting time (INR 4.6) causes excessive bleeding from wounds. Wound first aid still applies: firm direct pressure first to stop the bleeding, then notify the provider with the INR so the cause can be treated, and monitor pulse and BP for shock.",
-   "takeaway": "Bleeding + high INR: pressure first, then notify the provider."
+   "takeaway": "Bleeding + high INR: pressure first, then notify the provider.",
+   "bestAnswer": true
   },
   {
    "id": "m21d-023",
@@ -1132,21 +1145,22 @@ window.NURSE_DATA.push({
    "hintStrategy": "Several options sound active. Choose the one that addresses the cause of poor healing without delay.",
    "stem": "A 76-year-old client with a slowly healing leg wound has lost 4 kg (8.8 lb) in 2 months and eats about half of each meal. The albumin level is 2.9 g/dL. Which action is the nurse's priority?",
    "options": [
-    "Encourage three large meals a day and discourage snacking between meals",
+    "Ask the family to bring favorite foods from home to boost intake",
     "Notify the provider and request a dietitian consult",
-    "Increase dressing changes to twice daily to stimulate wound healing",
+    "Start a 3-day calorie count to measure the client's intake",
     "Weigh the client weekly and recheck the albumin level in 1 month"
    ],
    "answer": 1,
    "priority": true,
    "optionRationales": [
-    "Incorrect. A client who eats half of each meal is more likely to meet needs with small, frequent meals and supplements, not larger meals.",
-    "Correct. Low albumin (below 3.5 g/dL), weight loss, and poor intake show poor nutrition that is delaying healing and raising infection risk. The provider and a dietitian are needed to plan more calories and protein now.",
-    "Incorrect. Dressing changes follow the order. More frequent changes do not fix the nutritional cause of poor healing.",
-    "Incorrect. Monitoring is useful, but waiting a month delays treatment of a nutrition problem that is already slowing healing."
+    "Incorrect. Favorite foods can improve intake, but this does not ensure the protein and calorie needs for wound healing are assessed and met.",
+    "Correct. Low albumin, weight loss, and poor intake show malnutrition that is delaying healing. Reporting it and getting a dietitian consult starts a full plan for calories, protein, and vitamins.",
+    "Incorrect. A calorie count is a useful assessment, but the weight loss, intake, and albumin already show malnutrition, so more data only delays treatment.",
+    "Incorrect. Monitoring weight and albumin is appropriate, but waiting a month to act lets malnutrition and poor healing continue."
    ],
    "rationale": "Albumin below 3.5 g/dL with weight loss and poor intake means poor nutrition, which increases infection risk and delays healing. The nurse reports the findings and requests a dietitian consult so the plan can increase calories and protein (with vitamins A and C), using small, frequent meals or supplements.",
-   "takeaway": "Low albumin + weight loss = dietitian and more protein."
+   "takeaway": "Low albumin + weight loss = dietitian and more protein.",
+   "bestAnswer": true
   },
   {
    "id": "m21d-030",

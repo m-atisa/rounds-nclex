@@ -130,8 +130,17 @@ export function TopicArticle({ topic, compact }: { moduleId: string; topic: Topi
         </details>
       )}
 
-      {!!topic.keyTerms?.length && (
-        <details className="lesson-details key-terms" open={!compact}>
+      {!!topic.keyTerms?.length && !compact && (
+        <section className="vocab" aria-label="Key terms">
+          <h2 className="vocab-title">
+            Key terms <span>{topic.keyTerms.length} words to know</span>
+          </h2>
+          <VocabCards terms={topic.keyTerms} />
+        </section>
+      )}
+
+      {!!topic.keyTerms?.length && compact && (
+        <details className="lesson-details key-terms">
           <summary>
             Key terms <span className="faint">({topic.keyTerms.length})</span>
           </summary>
@@ -276,5 +285,28 @@ export function TopicArticle({ topic, compact }: { moduleId: string; topic: Topi
         </section>
       )}
     </article>
+  );
+}
+
+function VocabCards({ terms }: { terms: { term: string; def: string }[] }) {
+  const LIMIT = 9;
+  const [all, setAll] = useState(terms.length <= LIMIT + 3);
+  const shown = all ? terms : terms.slice(0, LIMIT);
+  return (
+    <>
+      <div className="vocab-grid">
+        {shown.map((k) => (
+          <div className="vocab-card" key={k.term}>
+            <span className="vocab-term">{k.term}</span>
+            <Html as="span" className="vocab-def" html={k.def} />
+          </div>
+        ))}
+      </div>
+      {!all && (
+        <button type="button" className="btn btn-sm vocab-more" onClick={() => setAll(true)}>
+          Show all {terms.length} terms
+        </button>
+      )}
+    </>
   );
 }

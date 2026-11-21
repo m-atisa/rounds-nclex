@@ -69,7 +69,8 @@ window.NURSE_DATA.push({
     "Incorrect. Glucose was checked because low sugar can mimic stroke; 132 mg/dL rules that out and does not block treatment."
    ],
    "rationale": "Alteplase is manufactured tPA: it activates plasmin to dissolve the clot, so its main danger is bleeding, including bleeding into the brain. For that reason BP must be below 185/110 mm Hg before a thrombolytic is started and kept at or below 180/105 afterward, with the provider setting the targets. A BP of 194/112 must be reported and lowered as prescribed before the infusion begins. The irregular heart rate is tempting because it is abnormal, but atrial fibrillation is the likely source of the clot and does not by itself stop treatment; the timing, CT, and glucose all support proceeding.",
-   "takeaway": "Before a thrombolytic, BP must be below 185/110 — a higher reading is reported and treated before the infusion starts."
+   "takeaway": "Before a thrombolytic, BP must be below 185/110 — a higher reading is reported and treated before the infusion starts.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-002",
@@ -89,19 +90,20 @@ window.NURSE_DATA.push({
    "stem": "A client at 34 weeks' gestation who has been on prescribed activity restriction reports a \"charley horse\" in her left calf. The left calf is warm, red, and visibly larger than the right. Her partner offers to rub it. Which action should the nurse take first?",
    "options": [
     "Ask the partner not to rub the leg, and notify the provider",
-    "Place a warm pack on the calf and gently massage it",
-    "Have the client walk in the hallway to work out the cramp",
-    "Apply a knee-high compression stocking to the left leg"
+    "Elevate the left leg on pillows and recheck it in 1 hour",
+    "Measure both calves and document the difference in size",
+    "Explain that leg cramps are common in the third trimester"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Massage could dislodge a suspected clot; the provider needs to evaluate the leg promptly.",
-    "Incorrect. Massage is never done over a suspected clot, and warmth does not treat the cause.",
-    "Incorrect. Walking prevents clots, but these findings suggest a clot is already present, so the leg should not be exercised before evaluation.",
-    "Incorrect. Compression is withheld on a leg with signs of a clot because squeezing could dislodge it."
+    "Correct. These findings suggest a clot. Stopping the rub prevents dislodging it toward the lungs, and the provider must evaluate the leg promptly.",
+    "Incorrect. Elevation can ease swelling, but waiting an hour delays evaluation of a likely clot and does not stop the partner from rubbing the leg.",
+    "Incorrect. Calf measurement is a useful assessment, but the signs are already clear; protecting the leg from massage and notifying the provider come first.",
+    "Incorrect. Leg cramps are common in pregnancy, but one-sided warmth, redness, and swelling point to a clot, so reassurance misses a dangerous finding."
    ],
-   "rationale": "New one-sided calf swelling, warmth, and redness in a pregnant client on activity restriction strongly suggest a clot in a leg vein. Pregnancy raises fibrinogen and clotting factors, and the enlarging uterus slows venous return, so her risk is high. The nurse first protects her from the most dangerous complication: rubbing or squeezing the leg could break off a piece of the clot that travels to the lungs. Walking to 'work out the cramp' is tempting because movement prevents clots, but once a clot is suspected, movement and compression of that leg are withheld until the provider evaluates it.",
-   "takeaway": "Suspected leg-vein clot: no massage, no compression on that leg — keep the client still and notify the provider."
+   "rationale": "New one-sided calf swelling, warmth, and redness in a pregnant client on activity restriction strongly suggest a clot in a leg vein. Pregnancy raises fibrinogen and clotting factors, and the enlarging uterus slows venous return, so her risk is high. The nurse first protects her from the most dangerous complication: rubbing or squeezing the leg could break off a piece of the clot that travels to the lungs. Measuring the calves or elevating the leg is tempting because both are reasonable, but the signs are already clear, so the nurse stops the massage and gets the provider involved rather than delaying.",
+   "takeaway": "Suspected leg-vein clot: no massage, no compression on that leg — keep the client still and notify the provider.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-003",
@@ -187,18 +189,19 @@ window.NURSE_DATA.push({
    "options": [
     "Ask the provider to change the order to knee-high stockings",
     "Smooth the rolled bands flat so they rest just above the knees",
-    "Leave the stockings rolled, because comfort improves adherence",
+    "Explain to the client why the stocking tops must not be rolled",
     "Remove the stockings and inspect the legs' skin and circulation"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Changing stocking type does not address the current constriction; the nurse must act on the legs now.",
-    "Incorrect. The stockings are still incorrectly positioned, and the legs have not been checked for injury from the bands.",
-    "Incorrect. A rolled band acts like a tourniquet and promotes venous pooling, so it cannot be left in place.",
-    "Correct. The tight bands may have obstructed blood flow, so the nurse removes them and assesses the legs before reapplying correctly."
+    "Incorrect. Knee-high stockings may be an option later, but the rolled bands are obstructing circulation now and must be removed before any order change.",
+    "Incorrect. Smoothing the bands is closer to correct use, but the stockings would still be the wrong length and the skin under the bands is never checked.",
+    "Incorrect. Teaching is needed, but it comes after the tourniquet-like bands are removed and the legs are checked for damage.",
+    "Correct. The rolled bands act like tourniquets. Removing them first relieves the obstruction and lets the nurse check skin, color, temperature, and pulses before reapplying and teaching."
    ],
-   "rationale": "A rolled stocking top concentrates pressure into a tight band that acts like a tourniquet, trapping venous blood below it — the opposite of what compression is meant to do. The first step is to remove the stockings and inspect the skin, color, temperature, and pulses for damage from the band. Afterward the nurse reapplies correctly sized stockings smoothly without wrinkles and explains why they must not be rolled. Leaving them rolled to support comfort is tempting, but client comfort never outweighs a device that is now obstructing circulation.",
-   "takeaway": "Never roll a compression stocking down — a rolled band works like a tourniquet; remove, inspect the leg, and reapply smoothly."
+   "rationale": "A rolled stocking top concentrates pressure into a tight band that acts like a tourniquet, trapping venous blood below it — the opposite of what compression is meant to do. The first step is to remove the stockings and inspect the skin, color, temperature, and pulses for damage from the band. Afterward the nurse reapplies correctly sized stockings smoothly without wrinkles and explains why they must not be rolled. Teaching the client is tempting because the client caused the problem, but teaching comes after the obstruction is relieved and the legs are assessed.",
+   "takeaway": "Never roll a compression stocking down — a rolled band works like a tourniquet; remove, inspect the leg, and reapply smoothly.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-006",
@@ -252,20 +255,21 @@ window.NURSE_DATA.push({
    "hintStrategy": "Connect the organ that is failing to the specific step it supplies, then choose the option that names that step.",
    "stem": "A client with advanced cirrhosis of the liver continues to ooze blood from a venipuncture site long after firm pressure was applied. A nursing student asks why. Which explanation by the nurse is most accurate?",
    "options": [
-    "Excess tPA released by the damaged liver tissue",
+    "Dilution of the blood by fluid that collects in the abdomen",
     "Low production of the clotting factors that form fibrin",
     "Blocking of platelet clumping, the way aspirin does",
     "Loss of vessel narrowing at the site of the needle stick"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. tPA is released by healthy healing tissue at the injury site; this does not explain the client's oozing.",
+    "Incorrect. Cirrhosis does cause fluid to collect in the abdomen, but that fluid sits outside the vessels and does not thin the blood's clotting proteins.",
     "Correct. Many clotting factors are made in the liver, so liver failure weakens the cascade that forms fibrin.",
-    "Incorrect. That is how aspirin works; cirrhosis affects the liver's production of clotting factors instead.",
-    "Incorrect. Vasoconstriction is triggered by injury chemicals and pain nerves, not by liver function."
+    "Incorrect. Prolonged oozing is also seen with aspirin, but aspirin blocks platelet clumping; cirrhosis mainly reduces the liver's production of clotting factors.",
+    "Incorrect. Vessel narrowing is the first step of hemostasis, but it is triggered by injury chemicals and pain nerves and does not depend on liver function."
    ],
    "rationale": "Many clotting factors — the plasma proteins of the coagulation cascade — are made in the liver. When the liver is badly damaged, fewer factors are available, so the cascade cannot produce enough fibrin to reinforce the temporary platelet plug into a strong clot. The tempting choice is the aspirin-like effect on platelets, because prolonged oozing is also seen with aspirin, but aspirin acts on platelet clumping, not on the liver's production of clotting proteins. Linking the organ to the step it supports explains the bleeding.",
-   "takeaway": "The liver makes many clotting factors; liver failure weakens the coagulation cascade and fibrin formation."
+   "takeaway": "The liver makes many clotting factors; liver failure weakens the coagulation cascade and fibrin formation.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-008",
@@ -295,7 +299,8 @@ window.NURSE_DATA.push({
     "Incorrect. Fibrinolysis is the clean-up step that occurs once healing begins."
    ],
    "rationale": "Hemostasis proceeds in order. Within seconds, the injured vessel constricts in response to chemicals released at the injury site and to pain nerve impulses, which narrows the opening and slows bleeding. Next, platelets stick and clump into a temporary plug, and then the coagulation cascade forms fibrin to make a stronger clot. Fibrinolysis comes last, after healing begins. The platelet plug is the tempting choice because it also forms quickly, but it follows vasoconstriction.",
-   "takeaway": "Hemostasis order: vasoconstriction → platelet plug → coagulation cascade (fibrin) → fibrinolysis."
+   "takeaway": "Hemostasis order: vasoconstriction → platelet plug → coagulation cascade (fibrin) → fibrinolysis.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-009",
@@ -391,19 +396,20 @@ window.NURSE_DATA.push({
    "stem": "A client on bed rest after a stroke asks the nurse to leave the sequential compression device (SCD) sleeves off overnight because \"they make my legs sweaty.\" Which response by the nurse is best?",
    "options": [
     "\"Your provider ordered the sleeves, so they have to stay on all night long.\"",
-    "\"You can leave them off tonight as long as you drink extra water before bed.\"",
+    "\"Sweating is common with the sleeves. I'll bring you a lighter blanket now.\"",
     "\"Let's check your skin together. The sleeves keep the blood in your legs moving.\"",
-    "\"I'll take them off now and put them back on for you first thing in the morning.\""
+    "\"I'll ask your provider whether you can go without the sleeves tonight.\""
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Pointing to the order dismisses the client's concern and gives no reason that would encourage cooperation.",
-    "Incorrect. Fluids help, but they do not replace the venous pumping that an immobile client needs.",
-    "Correct. This acknowledges the complaint, adds an assessment, and explains the purpose so the client can make an informed choice.",
-    "Incorrect. Removing them for the night without assessment or teaching leaves an immobile client at high risk."
+    "Incorrect. The sleeves are ordered, but citing the order dismisses the client's concern and gives no reason the device matters.",
+    "Incorrect. A lighter blanket is a kind comfort measure, but it does not assess the skin or explain why the sleeves are important.",
+    "Correct. This acknowledges the concern, offers an assessment of the skin under the sleeves, and briefly explains how the sleeves prevent clots.",
+    "Incorrect. Involving the provider may be needed later, but the nurse should first assess the skin and teach before asking to stop a needed device."
    ],
-   "rationale": "The best response acknowledges the concern, offers a related assessment (checking the skin under the sleeves), and briefly explains why the device matters: immobile leg muscles cannot push venous blood back to the heart, so blood pools and can clot. This respects the client's autonomy while giving the information needed to make a choice. Citing the provider's order dismisses the client's concern, and removing the sleeves overnight without teaching leaves an immobile client at high risk for venous thrombosis.",
-   "takeaway": "Address the concern, assess the skin, and explain that SCDs keep venous blood moving in immobile legs."
+   "rationale": "The best response acknowledges the concern, offers a related assessment (checking the skin under the sleeves), and briefly explains why the device matters: immobile leg muscles cannot push venous blood back to the heart, so blood pools and can clot. This respects the client's autonomy while giving the information needed to make a choice. Citing the provider's order dismisses the client's concern, a lighter blanket offers comfort without teaching, and asking the provider to stop the sleeves skips the nurse's own assessment and teaching for an immobile client at high risk for venous thrombosis.",
+   "takeaway": "Address the concern, assess the skin, and explain that SCDs keep venous blood moving in immobile legs.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-012",
@@ -452,20 +458,21 @@ window.NURSE_DATA.push({
    "hintStrategy": "When a delegated request could cause harm, the first action is to stop it, then the RN assesses.",
    "stem": "Unlicensed assistive personnel (UAP) report that a client with a suspected clot in the left calf vein is asking for a leg rub to ease a \"cramp.\" Which action should the nurse take first?",
    "options": [
-    "Allow a gentle massage, since it improves blood flow to the calf",
+    "Notify the provider that the client is reporting a cramp",
     "Instruct the UAP not to massage the leg, and assess the client",
-    "Have the UAP apply an SCD sleeve to the left leg for relief",
-    "Ask the UAP to walk the client in the hall to ease the cramp"
+    "Have the UAP apply a warm pack to the left calf for comfort",
+    "Ask the UAP to take the client's vital signs and report back"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Massage over a suspected clot could dislodge it and send it to the lungs.",
-    "Correct. Stopping the massage prevents a possible dislodged clot, and the new symptom needs RN assessment.",
-    "Incorrect. Compression is withheld from a leg with a suspected clot.",
-    "Incorrect. Exercising the affected leg before evaluation is unsafe, and it skips the needed RN assessment."
+    "Incorrect. The provider may need to know, but the nurse should first stop the massage and assess the client so the report contains useful findings.",
+    "Correct. Stopping the massage protects the client from a dislodged clot, and a change in symptoms requires the RN's own assessment.",
+    "Incorrect. Warmth may ease discomfort, but it does not stop the massage request, and a new symptom needs RN assessment before comfort measures.",
+    "Incorrect. Vital signs are appropriate to delegate, but this does not stop the massage, and the RN must personally assess the leg."
    ],
-   "rationale": "Massaging a leg that may contain a clot could break off a piece that travels to the lungs, so the nurse first stops the unsafe action by telling the UAP not to massage the leg. The nurse then assesses the client personally, because a change in symptoms requires RN assessment and may need to be reported. Walking the client or applying compression are tempting because both prevent clots, but they are unsafe once a clot is suspected in that leg.",
-   "takeaway": "Never massage or compress a leg with a suspected clot; stop the action and assess the client."
+   "rationale": "Massaging a leg that may contain a clot could break off a piece that travels to the lungs, so the nurse first stops the unsafe action by telling the UAP not to massage the leg. The nurse then assesses the client personally, because a change in symptoms requires RN assessment and may need to be reported. Calling the provider or delegating vital signs is tempting because both are reasonable, but neither stops the massage, and the provider will need the RN's assessment findings.",
+   "takeaway": "Never massage or compress a leg with a suspected clot; stop the action and assess the client.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-014",
@@ -534,7 +541,8 @@ window.NURSE_DATA.push({
     "Incorrect. Vasoconstriction is triggered by injury chemicals and pain nerves and does not depend on platelet count."
    ],
    "rationale": "Platelets are small cell fragments that stick to an injured vessel wall and to each other, forming the temporary plug that closes the hole. With too few platelets, that plug forms poorly, so even small injuries such as needle sticks keep oozing and bruises appear easily. Vasoconstriction still occurs, and the liver still makes clotting factors. Liver production of clotting factors is the tempting answer because it also causes oozing, but that describes a coagulation-cascade problem, not a platelet shortage.",
-   "takeaway": "Too few platelets → poor platelet plug → oozing from small cuts and easy bruising."
+   "takeaway": "Too few platelets → poor platelet plug → oozing from small cuts and easy bruising.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-016",
@@ -591,20 +599,21 @@ window.NURSE_DATA.push({
    "hintStrategy": "In an acute change, choose the action that addresses airway or breathing and calls for help; reject options that delay or delegate.",
    "stem": "A client on bed rest with a diagnosed clot in the left calf vein suddenly becomes anxious and reports sharp chest pain and trouble breathing. RR is 30/min, HR 122/min, and SpO₂ 88% on room air. Which action should the nurse take first?",
    "options": [
-    "Ask the UAP to obtain a full set of vital signs in 15 minutes",
+    "Obtain a stat 12-lead ECG to look for heart muscle injury",
     "Raise the head of the bed, apply oxygen, and call for help",
-    "Have the client cough and deep breathe, then recheck in 30 minutes",
-    "Apply an SCD sleeve to the left leg to keep the blood moving"
+    "Call the provider to request a stat CT scan of the chest",
+    "Assess the left calf for new swelling and tenderness"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. An unstable client needs immediate RN action, not delegated, delayed monitoring.",
-    "Correct. Breathing and oxygenation are failing, so the nurse supports them and gets the team immediately.",
-    "Incorrect. Waiting 30 minutes delays care for an emergency with an SpO₂ of 88%.",
-    "Incorrect. Compressing a leg with a known clot could dislodge more clot and does nothing for the breathing problem."
+    "Incorrect. An ECG is often part of the workup, but it does not treat the failing oxygenation and delays oxygen and help.",
+    "Correct. Oxygenation is failing now. Raising the head of the bed and applying oxygen treat the breathing problem while help is summoned.",
+    "Incorrect. Imaging will likely be needed, but the nurse first supports breathing; the provider orders the test once the client is being oxygenated.",
+    "Incorrect. The calf clot is already known, and reassessing the leg does nothing for the client's low oxygen level."
    ],
-   "rationale": "A piece of a leg-vein clot can break loose and travel to the lungs, blocking blood flow there. Sudden dyspnea, chest pain, tachycardia, and low SpO₂ in a client with a known calf clot point to that emergency, and the client's oxygenation is failing now. Raising the head of the bed and applying oxygen support breathing while help is summoned. Delaying with coughing exercises or delegating vital signs wastes critical time, and squeezing the leg with an SCD could release more clot.",
-   "takeaway": "Sudden dyspnea, chest pain, and falling SpO₂ in a client with a leg clot → support breathing and get help immediately."
+   "rationale": "A piece of a leg-vein clot can break loose and travel to the lungs, blocking blood flow there. Sudden dyspnea, chest pain, tachycardia, and low SpO₂ in a client with a known calf clot point to that emergency, and the client's oxygenation is failing now. Raising the head of the bed and applying oxygen support breathing while help is summoned. An ECG, chest imaging, and a leg assessment are all reasonable later, but none of them treats the low oxygen level, so they come after breathing is supported.",
+   "takeaway": "Sudden dyspnea, chest pain, and falling SpO₂ in a client with a leg clot → support breathing and get help immediately.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-018",
@@ -623,20 +632,21 @@ window.NURSE_DATA.push({
    "hintStrategy": "For family-explanation items, pick the accurate, plain-language cause; reject options built on myths.",
    "stem": "The wife of a 76-year-old client with right-sided paralysis after a stroke asks why the nurse keeps moving his legs and applying compression sleeves. Which explanation by the nurse is most accurate?",
    "options": [
-    "\"His stroke medicine makes the blood in his legs much thicker.\"",
-    "\"The stroke made his liver produce many more clotting factors.\"",
-    "\"Paralysis raises his platelet count, so clots form very quickly.\"",
+    "\"Moving his legs keeps his joints flexible and prevents stiffness.\"",
+    "\"Clots are more common in older adults, so we take extra care.\"",
+    "\"The sleeves reduce swelling that builds up in a paralyzed leg.\"",
     "\"His leg muscles aren't squeezing the veins, so blood can pool and clot.\""
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Medications are not the reason; immobility and venous stasis are.",
-    "Incorrect. A stroke does not raise clotting-factor production; the problem is pooling from lack of movement.",
-    "Incorrect. Paralysis does not raise the platelet count; blood pools because the legs don't move.",
-    "Correct. Paralysis removes the muscle pump, causing venous stasis that raises clot risk."
+    "Incorrect. Range of motion does prevent stiffness, but that does not explain the compression sleeves or the main goal of preventing clots.",
+    "Incorrect. Age does add to clot risk, but this does not explain why paralysis matters or how moving the legs helps.",
+    "Incorrect. Compression can lessen swelling, but the main purpose here is to move venous blood and prevent clots.",
+    "Correct. Paralysis stops the calf muscle pump, so venous blood pools and clots more easily; moving the legs and compression restore flow."
    ],
-   "rationale": "The leg veins rely on contracting muscles to push blood back toward the heart. When a leg is paralyzed or the client is on bed rest, that muscle pump stops, blood pools (venous stasis), and pooled blood clots more easily. Range-of-motion exercises and compression devices restore movement of venous blood. The stroke does not make the liver produce extra clotting factors, and the explanation about a 'thick-blood' medication reflects the misconception that drugs change blood thickness.",
-   "takeaway": "Immobile or paralyzed legs → venous stasis → higher clot risk; movement and compression keep blood flowing."
+   "rationale": "The leg veins rely on contracting muscles to push blood back toward the heart. When a leg is paralyzed or the client is on bed rest, that muscle pump stops, blood pools (venous stasis), and pooled blood clots more easily. Range-of-motion exercises and compression devices restore movement of venous blood. Explanations about joint stiffness, age, or swelling are each partly true, but they do not explain the main reason for this care: preventing clots caused by venous stasis.",
+   "takeaway": "Immobile or paralyzed legs → venous stasis → higher clot risk; movement and compression keep blood flowing.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-019",
@@ -666,7 +676,8 @@ window.NURSE_DATA.push({
     "Incorrect. Interpreting a finding requires nursing judgment; the UAP reports it to the nurse."
    ],
    "rationale": "Helping a stable client walk as prescribed is a routine task within the UAP role and directly reduces venous stasis. Assessing the calves for swelling and warmth, teaching the client about ankle pumps, and judging whether a skin change is significant all require nursing assessment, teaching, or clinical judgment, which remain with the RN. The skin-judgment option is tempting because the UAP may be the one who sees the skin, but the UAP reports the finding and the RN decides what it means.",
-   "takeaway": "UAP may ambulate stable clients and apply devices; assessment, teaching, and judging findings stay with the RN."
+   "takeaway": "UAP may ambulate stable clients and apply devices; assessment, teaching, and judging findings stay with the RN.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-020",
@@ -764,7 +775,8 @@ window.NURSE_DATA.push({
     "Incorrect. Mild swelling of both ankles that resolves overnight is common in pregnancy."
    ],
    "rationale": "New aching, swelling, and warmth in one calf of a pregnant client suggest a venous clot, and pregnancy already raises her risk through increased clotting factors and venous stasis from the uterus. A clot can break loose and travel to the lungs, so she needs prompt evaluation. A brief nosebleed that stopped with pressure in a client on aspirin is expected because aspirin weakens the platelet plug. Mild bilateral ankle swelling that resolves overnight is common in late pregnancy, and the travel question is routine teaching. Client B is tempting because bleeding sounds urgent, but the bleeding has already stopped.",
-   "takeaway": "One-sided calf swelling, warmth, and pain in a pregnant client = possible venous clot; call her first."
+   "takeaway": "One-sided calf swelling, warmth, and pain in a pregnant client = possible venous clot; call her first.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-022",
@@ -794,7 +806,8 @@ window.NURSE_DATA.push({
     "Incorrect. Warm sleeves are a comfort concern and can be checked after the unstable client."
    ],
    "rationale": "A new headache during a thrombolytic infusion can signal bleeding in the brain, the most serious complication of alteplase; the infusion may need to be stopped per protocol and the provider notified immediately. The other clients have expected findings or questions: aspirin makes small cuts bleed longer, warm sleeves are a comfort issue, and the anticoagulant question is teaching. The SCD client is tempting because devices need checking, but nothing in that report suggests harm.",
-   "takeaway": "A new headache during a thrombolytic is an emergency until proven otherwise."
+   "takeaway": "A new headache during a thrombolytic is an emergency until proven otherwise.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-023",
@@ -813,18 +826,19 @@ window.NURSE_DATA.push({
    "options": [
     "Delegate application of the sleeves to the UAP right away",
     "Assess both legs and measure them to choose the sleeve size",
-    "Apply the sleeves snugly so that no fingers fit beneath them",
-    "Explain that the sleeves will dissolve any clots already present"
+    "Apply the sleeves and check that two fingers fit beneath",
+    "Explain how the sleeves help keep blood from pooling"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Application can be delegated only after the RN has assessed the legs.",
-    "Correct. Assessment confirms compression is safe, and measuring ensures a correct fit.",
-    "Incorrect. Sleeves should allow about two fingers; a tighter fit constricts the leg.",
-    "Incorrect. SCDs prevent venous stasis; they do not dissolve clots, and compression is withheld over a suspected clot."
+    "Incorrect. UAP can apply SCDs, but only after the RN has assessed the legs for signs that compression is unsafe.",
+    "Correct. Assessment comes first: it confirms that compression is safe (no signs of a clot) and gives the measurements needed for the correct sleeve size.",
+    "Incorrect. The two-finger check is correct technique, but applying the sleeves before assessing could compress a leg that already has a clot.",
+    "Incorrect. Teaching is appropriate, but it comes after the nurse has assessed the legs and confirmed the device is safe to use."
    ],
    "rationale": "Before applying any compression, the nurse assesses the legs to be sure compression is safe and measures them to choose the correct sleeve size; a wrong size either doesn't work or constricts. If the assessment reveals signs of a clot, such as new one-sided swelling, warmth, or tenderness, the device is withheld and the provider notified. Delegating application right away is tempting because SCD application can be delegated, but only after the RN has assessed the legs.",
-   "takeaway": "Assess and measure the legs before any compression device goes on."
+   "takeaway": "Assess and measure the legs before any compression device goes on.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-024",
@@ -843,20 +857,21 @@ window.NURSE_DATA.push({
    "hintStrategy": "When a device may be causing harm, remove the cause and assess before trying any other fix.",
    "stem": "One hour after SCD sleeves were applied, a client reports numbness and tingling in the left foot. The nurse cannot slide any fingers beneath the left sleeve, and the left toes are cool. Which action should the nurse take first?",
    "options": [
-    "Reassure the client that tingling is expected with SCDs",
+    "Notify the provider about the numbness and cool toes",
     "Reduce the pump pressure and recheck the foot in 1 hour",
     "Remove the left sleeve and assess the foot's circulation",
     "Elevate the left leg on two pillows with the sleeve still on"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. New numbness, tingling, and coolness are not expected and signal impaired circulation.",
-    "Incorrect. Waiting an hour with a constricting sleeve in place risks further injury.",
-    "Correct. The sleeve is constricting the leg; removing it and assessing circulation addresses the harm first.",
-    "Incorrect. Elevating the leg does not relieve the constriction causing the symptoms."
+    "Incorrect. The provider may need a report, but the nurse can relieve the constriction now; removing the sleeve should not wait for a call.",
+    "Incorrect. Lower pressure may help, but a sleeve with no finger space is the wrong fit, and waiting an hour prolongs poor circulation.",
+    "Correct. Removing the constricting sleeve relieves pressure at once, and assessing color, temperature, pulses, and sensation shows whether harm has occurred.",
+    "Incorrect. Elevation can help swelling, but the tight sleeve keeps squeezing the leg, so circulation does not improve."
    ],
-   "rationale": "About two fingers should fit between an SCD sleeve and the leg. A sleeve with no space is constricting the leg, and numbness, tingling, and cool toes show that circulation and nerves are already being affected. The first action is to remove the sleeve and assess the foot's color, temperature, pulses, and sensation, then refit with the correct size and report as needed. Reassuring the client that tingling is expected is tempting because SCDs feel unusual, but new numbness and coolness are never expected.",
-   "takeaway": "No room under the sleeve plus numbness or cool toes → remove the device and assess circulation."
+   "rationale": "About two fingers should fit between an SCD sleeve and the leg. A sleeve with no space is constricting the leg, and numbness, tingling, and cool toes show that circulation and nerves are already being affected. The first action is to remove the sleeve and assess the foot's color, temperature, pulses, and sensation, then refit with the correct size and report as needed. Notifying the provider is tempting because the findings are serious, but the nurse can and should relieve the constriction immediately.",
+   "takeaway": "No room under the sleeve plus numbness or cool toes → remove the device and assess circulation.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-025",
@@ -888,7 +903,8 @@ window.NURSE_DATA.push({
     "Incorrect. She is earlier in pregnancy and mobile, so stasis is less."
    ],
    "rationale": "Pregnancy raises venous thrombosis risk because fibrinogen and clotting factors VII, VIII, IX, and X increase and the enlarging uterus slows venous return from the legs. Risk is highest when those changes combine with immobility: a client late in pregnancy on strict bed rest has the largest uterus, the most stasis, and no muscle pump in her legs. The client with a normal clotting time is tempting, but clotting time does not change much in pregnancy and does not show the true risk.",
-   "takeaway": "Late pregnancy plus immobility is the highest-risk combination for venous thrombosis."
+   "takeaway": "Late pregnancy plus immobility is the highest-risk combination for venous thrombosis.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-026",
@@ -990,7 +1006,8 @@ window.NURSE_DATA.push({
     "Correct. All three cholesterol values are outside desirable ranges, while triglycerides under 150 are desirable."
    ],
    "rationale": "Each part of the lipid profile is read separately. Desirable adult values are total cholesterol below 200, LDL below 100, HDL 40 or more in men (50 or more in women), and triglycerides below 150. This man's total of 228 and LDL of 162 are high, and his HDL of 38 is below the 40 needed for men, so all three raise coronary artery disease risk; his triglycerides of 140 are desirable. Focusing only on the total is the tempting error — the LDL and HDL drive risk and guide teaching.",
-   "takeaway": "Read every lipid value: LDL low (<100), HDL high (≥40 men, ≥50 women), total <200, triglycerides <150."
+   "takeaway": "Read every lipid value: LDL low (<100), HDL high (≥40 men, ≥50 women), total <200, triglycerides <150.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-028",
@@ -1069,18 +1086,19 @@ window.NURSE_DATA.push({
    "options": [
     "Draw a fasting lipid profile to help explain the result",
     "Notify the provider of the rising troponin level",
-    "Begin discharge teaching, since the chest pressure has resolved",
-    "Schedule an exercise stress test for later this afternoon"
+    "Repeat the troponin in 3 hours to confirm the trend",
+    "Reassess the chest pain using a 0 to 10 scale"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Lipids show long-term risk; they do not change the urgent need to report heart injury.",
-    "Correct. The second troponin shows heart muscle injury, which requires immediate provider notification.",
-    "Incorrect. Pain relief does not rule out injury; the rising troponin shows the heart was damaged.",
-    "Incorrect. Stressing a heart with active muscle injury is unsafe."
+    "Incorrect. A lipid profile helps assess long-term risk, but it does not change the urgent finding of heart muscle injury.",
+    "Correct. A troponin rising above the reference range shows heart muscle injury even though the pain has resolved, so the provider needs to know now.",
+    "Incorrect. Serial troponins are standard, but the rise is already clear; waiting 3 hours delays treatment of an active injury.",
+    "Incorrect. Ongoing pain assessment matters, but the pain has resolved and the troponin result already shows injury that needs a provider."
    ],
-   "rationale": "Troponin is the most specific marker of heart muscle injury, and it takes a few hours to rise after injury begins, which is why one early normal value never rules out a heart attack. Here the first level was normal, but the 3-hour level is well above the reference range — evidence of heart muscle injury even though the pain has resolved. The nurse notifies the provider right away. Discharge teaching is tempting because the client feels better, but symptom relief does not mean the heart is uninjured, and an exercise stress test would be unsafe during active injury.",
-   "takeaway": "A rising troponin on serial draws means heart muscle injury — report it even if the pain is gone."
+   "rationale": "Troponin is the most specific marker of heart muscle injury, and it takes a few hours to rise after injury begins, which is why one early normal value never rules out a heart attack. Here the first level was normal, but the 3-hour level is well above the reference range — evidence of heart muscle injury even though the pain has resolved. The nurse notifies the provider right away. Repeating the troponin is tempting because serial levels are standard, but the trend is already clear, and symptom relief does not mean the heart is uninjured.",
+   "takeaway": "A rising troponin on serial draws means heart muscle injury — report it even if the pain is gone.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-030",
@@ -1128,19 +1146,20 @@ window.NURSE_DATA.push({
    "stem": "A 63-year-old client is 3 minutes into an exercise stress test on a treadmill. The client reports chest pressure rated 5/10, and the BP falls from 148/86 to 122/74 mm Hg while the heart rate rises to 128/min. Which action should the nurse take first?",
    "options": [
     "Slow the treadmill speed and continue monitoring the client",
-    "Encourage the client to keep walking to reach the target heart rate",
+    "Recheck the blood pressure before deciding to stop",
     "Stop the test and report the findings",
-    "Offer water and resume the test after a 5-minute rest"
+    "Ask the client to rate the chest pressure again in 1 minute"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Any continued exercise keeps the workload high; the test must stop.",
-    "Incorrect. Continuing exercise increases demand on a heart that is already ischemic.",
-    "Correct. Chest pressure with a falling BP signals the heart can't meet the demand; stopping the exercise protects it.",
-    "Incorrect. Resuming the test would repeat the dangerous stress on the heart."
+    "Incorrect. Slowing lowers the workload, but any continued exercise keeps demand high on a heart that is already showing ischemia.",
+    "Incorrect. Rechecking is reasonable in general, but chest pressure plus a falling BP already meets criteria to stop; waiting adds strain.",
+    "Correct. Chest pressure with a falling BP during exercise means the heart is not getting enough blood for the workload, so the test is stopped.",
+    "Incorrect. Reassessing pain is useful, but the client is already symptomatic with a falling BP, and another minute of exercise worsens ischemia."
    ],
    "rationale": "A stress test makes the heart work harder to uncover problems that appear only under demand. Chest pain, a dysrhythmia, dizziness, severe shortness of breath, or a drop in BP during the test means the heart muscle is not getting enough blood for the workload, so the test is stopped and the findings are reported. A falling BP with rising effort is especially concerning because the pump is failing to keep up. Slowing the treadmill is tempting as a middle ground, but continuing any exercise keeps demand high on an ischemic heart.",
-   "takeaway": "Chest pain, dysrhythmia, dizziness, or falling BP during a stress test → stop the test and report."
+   "takeaway": "Chest pain, dysrhythmia, dizziness, or falling BP during a stress test → stop the test and report.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-032",
@@ -1158,19 +1177,20 @@ window.NURSE_DATA.push({
    "stem": "A client is scheduled for an exercise stress test tomorrow morning. Which statement by the client indicates understanding of the preparation the nurse taught?",
    "options": [
     "\"I'll wear walking shoes and skip my coffee and cigarette that morning.\"",
-    "\"I'll eat a big breakfast so I have plenty of energy for the treadmill.\"",
-    "\"I'll wear my dress shoes because I'm going straight to work afterward.\"",
-    "\"I'll smoke one cigarette before the test to help calm my nerves.\""
+    "\"I'll wear walking shoes and eat a big breakfast for extra energy.\"",
+    "\"I'll skip my cigarette but still have my usual morning coffee.\"",
+    "\"I'll skip my coffee but smoke one cigarette to calm my nerves.\""
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. This matches the teaching: comfortable shoes and no caffeine or tobacco beforehand.",
-    "Incorrect. Heavy meals are avoided before an exercise stress test.",
-    "Incorrect. Comfortable walking shoes are needed for safe exercise on a treadmill.",
-    "Incorrect. Tobacco is avoided before the test because it affects heart rate and BP."
+    "Correct. Walking shoes allow safe exercise, and avoiding caffeine and tobacco keeps heart rate and BP from being altered before the test.",
+    "Incorrect. Walking shoes are correct, but a heavy meal diverts blood to digestion and can cause discomfort during exercise.",
+    "Incorrect. Skipping the cigarette is correct, but caffeine also raises heart rate and BP and can affect the results.",
+    "Incorrect. Avoiding coffee is correct, but nicotine raises heart rate and BP and narrows vessels, so smoking can affect the results."
    ],
-   "rationale": "For an exercise stress test, the client walks on a treadmill or pedals a bicycle while the workload increases. Comfortable shoes and clothing allow safe exercise, and heavy meals, caffeine, and tobacco are avoided beforehand as instructed because they can affect heart rate, BP, and the results. A large breakfast is tempting because it sounds like it will give the client energy, but a heavy meal diverts blood to digestion and can cause discomfort during exercise.",
-   "takeaway": "Exercise stress test prep: comfortable shoes and clothes; avoid heavy meals, caffeine, and tobacco beforehand."
+   "rationale": "For an exercise stress test, the client walks on a treadmill or pedals a bicycle while the workload increases. Comfortable shoes and clothing allow safe exercise, and heavy meals, caffeine, and tobacco are avoided beforehand as instructed because they can affect heart rate, BP, and the results. Statements that get only part of the preparation right are tempting, but a big breakfast, a morning coffee, or one cigarette can each alter the test, so only the statement that covers shoes, caffeine, and tobacco shows full understanding.",
+   "takeaway": "Exercise stress test prep: comfortable shoes and clothes; avoid heavy meals, caffeine, and tobacco beforehand.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-033",
@@ -1240,7 +1260,8 @@ window.NURSE_DATA.push({
     "Incorrect. This is an acceptable baseline oxygen saturation."
    ],
    "rationale": "During a TEE the client is sedated and the throat is numbed with an anesthetic spray, so the airway is less able to protect itself. Clients are kept NPO for several hours before the procedure because food in the stomach could be vomited and aspirated into the lungs. Eating an hour before the procedure is a safety issue the provider must know about, and the procedure will likely be delayed. Dentures in place are tempting, but the nurse simply removes them; anxiety and an SpO₂ of 96% do not make the procedure unsafe.",
-   "takeaway": "Before a TEE, confirm NPO status — food in the stomach plus sedation and a numb throat means aspiration risk."
+   "takeaway": "Before a TEE, confirm NPO status — food in the stomach plus sedation and a numb throat means aspiration risk.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-035",
@@ -1308,7 +1329,8 @@ window.NURSE_DATA.push({
     "Incorrect. Any food can be aspirated while the gag reflex is absent."
    ],
    "rationale": "A topical anesthetic numbs the throat for a TEE, so the client cannot protect the airway until the gag and swallow reflexes return, even if fully awake. The RN must assess those reflexes before any food or fluid; this assessment is not delegated. Soft foods are tempting because they seem safer, but any food can be aspirated with a numb throat. Waiting until the next morning is unnecessary once reflexes return; intake begins with small sips and advances.",
-   "takeaway": "Awake does not mean safe to swallow — the RN checks the gag reflex before any intake after a TEE."
+   "takeaway": "Awake does not mean safe to swallow — the RN checks the gag reflex before any intake after a TEE.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-037",
@@ -1338,7 +1360,8 @@ window.NURSE_DATA.push({
     "Incorrect. Anxiety is addressed with teaching and support and does not make the dye unsafe."
    ],
    "rationale": "Coronary angiography uses contrast dye injected into the coronary arteries, so the nurse asks about previous reactions to contrast before the procedure. A history of hives after a dye-enhanced CT scan suggests a contrast reaction that could recur, possibly more severely, and the provider must plan for it. A hemoglobin of 13.9 g/dL is acceptable, NPO status is expected preparation, and anxiety is addressed with teaching. Anxiety is tempting because it is a real need, but it does not change the safety of giving dye.",
-   "takeaway": "Before a cath, ask about contrast reactions, check creatinine, and review bleeding risk — report problems before the dye is given."
+   "takeaway": "Before a cath, ask about contrast reactions, check creatinine, and review bleeding risk — report problems before the dye is given.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-038",
@@ -1396,19 +1419,20 @@ window.NURSE_DATA.push({
    "stem": "Two hours after a cardiac catheterization through the left femoral artery, a client reports numbness in the left foot. The foot is cool and pale, and no pulse can be found by Doppler at the marked dorsalis pedis site where a signal was present before the procedure. Which action should the nurse take first?",
    "options": [
     "Apply a warm blanket and recheck the foot in 1 hour",
-    "Have the client bend and straighten the left knee",
+    "Assess the groin site for bleeding or a hematoma",
     "Notify the provider immediately",
     "Elevate the left leg on two pillows"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Waiting an hour delays treatment of a limb that is losing its blood supply.",
-    "Incorrect. Bending the leg after femoral access risks bleeding and does not restore flow.",
-    "Correct. Loss of a previously present pulse with a cool, pale, numb foot means compromised blood flow that needs urgent treatment.",
-    "Incorrect. Elevation can further reduce arterial flow to an ischemic foot."
+    "Incorrect. Warmth adds comfort, but it cannot restore blocked arterial flow, and waiting an hour risks losing the limb.",
+    "Incorrect. Checking the groin site is part of routine care, but the absent pulse already shows a limb emergency that needs the provider now.",
+    "Correct. A new absent pulse with a cool, pale, numb foot means arterial flow is blocked, a limb-threatening emergency requiring immediate provider action.",
+    "Incorrect. Elevation helps venous swelling, but raising the leg further reduces arterial flow to an ischemic foot."
    ],
-   "rationale": "A newly absent pulse with a cool, pale, numb foot after femoral catheterization means blood flow to the limb is compromised — a clot or arterial injury may be blocking the artery. This is a limb-threatening emergency, so the nurse notifies the provider immediately. Elevating the leg is tempting because it helps swelling, but it actually reduces arterial flow to an ischemic limb. Warming and waiting delays treatment, and bending the knee is unsafe after femoral access.",
-   "takeaway": "Cool, pale, numb leg with a lost distal pulse after a cath → notify the provider immediately."
+   "rationale": "A newly absent pulse with a cool, pale, numb foot after femoral catheterization means blood flow to the limb is compromised — a clot or arterial injury may be blocking the artery. This is a limb-threatening emergency, so the nurse notifies the provider immediately. Elevating the leg is tempting because it helps swelling, but it actually reduces arterial flow to an ischemic limb. Warming and waiting delays treatment, and checking the groin site, though part of routine care, does not change the need for immediate provider action.",
+   "takeaway": "Cool, pale, numb leg with a lost distal pulse after a cath → notify the provider immediately.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-040",
@@ -1438,7 +1462,8 @@ window.NURSE_DATA.push({
     "Incorrect. Head-of-bed limits protect a femoral site; they are not needed for radial access."
    ],
    "rationale": "After radial access, the nurse checks the site, the radial pulse, and the color and warmth of the hand, and avoids BP readings and blood draws on that arm so the puncture site is not compressed. Keeping a leg straight and limiting the head of the bed to 30° are precautions for femoral access, which is the tempting mix-up because both are common catheterization orders. Fluids are encouraged, not restricted, to help flush the contrast dye from the kidneys.",
-   "takeaway": "After radial access, no BP cuffs or blood draws on that arm; leg and head-of-bed limits apply to femoral access."
+   "takeaway": "After radial access, no BP cuffs or blood draws on that arm; leg and head-of-bed limits apply to femoral access.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-041",
@@ -1507,7 +1532,8 @@ window.NURSE_DATA.push({
     "Incorrect. Sitting upright flexes the hip and can disrupt the puncture site."
    ],
    "rationale": "After femoral access, the client stays on bed rest as ordered with the leg straight and the head of the bed at 30° or less, because walking or sitting upright bends the groin and can reopen the arterial puncture. The nurse keeps the leg straight and helps with a bedpan or urinal in bed, providing privacy to make voiding easier. Raising the head of the bed to 90° is tempting because it makes using a bedpan easier, but it flexes the hip just as walking would.",
-   "takeaway": "After a femoral cath: bed rest, leg straight, HOB 30° or less — use a bedpan or urinal in bed."
+   "takeaway": "After a femoral cath: bed rest, leg straight, HOB 30° or less — use a bedpan or urinal in bed.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-043",
@@ -1524,20 +1550,21 @@ window.NURSE_DATA.push({
    "hintStrategy": "For evaluation items, choose the outcome that directly measures the goal, not a step in the plan.",
    "stem": "A 64-year-old client with diabetes received contrast dye during a cardiac catheterization yesterday. The care plan included encouraging fluids and monitoring urine output. Which finding best indicates that the plan to protect the kidneys has been effective?",
    "options": [
-    "Oral fluid intake of 400 mL in the past 24 hours",
+    "Oral fluid intake of 2,400 mL recorded over the past 24 hours",
     "Urine output of 50–60 mL/hr with creatinine unchanged from baseline",
-    "Creatinine of 1.9 mg/dL, up from 1.0 mg/dL before the catheterization",
-    "Urine output of 20 mL/hr with dark amber urine"
+    "Pale yellow urine noted each time the client voided today",
+    "Urine output of 50 mL/hr in the first 4 hours after the procedure"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. This intake is too low to flush the dye and does not measure kidney function.",
-    "Correct. Adequate output and a stable creatinine show the kidneys tolerated the contrast.",
-    "Incorrect. A rising creatinine indicates kidney injury from the contrast.",
-    "Incorrect. Low, concentrated urine suggests reduced kidney function or inadequate fluids."
+    "Incorrect. Good intake shows the plan was carried out, but intake measures the intervention, not whether the kidneys were protected.",
+    "Correct. Adequate hourly output plus a creatinine unchanged from baseline a day later directly shows that kidney function was preserved.",
+    "Incorrect. Pale urine suggests good hydration, but it does not measure kidney function the way output and creatinine do.",
+    "Incorrect. Early output is reassuring, but contrast injury often appears 24 to 72 hours later, so this is incomplete without creatinine."
    ],
-   "rationale": "Contrast dye can injure the kidneys, especially when kidney function is already at risk, as with diabetes. Encouraging fluids helps flush the dye, and the nurse monitors urine output and creatinine to evaluate kidney function. Steady output of 50–60 mL/hr with a creatinine unchanged from baseline shows the kidneys tolerated the contrast. A rising creatinine or low, concentrated urine indicates injury. The intake of 400 mL in 24 hours is tempting because intake was a goal, but it is far too little to flush the dye and does not measure kidney function.",
-   "takeaway": "After contrast, adequate urine output with a stable creatinine shows the kidneys are protected."
+   "rationale": "Contrast dye can injure the kidneys, especially when kidney function is already at risk, as with diabetes. Encouraging fluids helps flush the dye, and the nurse monitors urine output and creatinine to evaluate kidney function. Steady output of 50–60 mL/hr with a creatinine unchanged from baseline shows the kidneys tolerated the contrast. Good fluid intake and pale urine are tempting because they show hydration, but they measure the intervention rather than kidney function, and early urine output alone is incomplete because contrast injury often appears a day or more later.",
+   "takeaway": "After contrast, adequate urine output with a stable creatinine shows the kidneys are protected.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-044",
@@ -1555,19 +1582,20 @@ window.NURSE_DATA.push({
    "stem": "Two hours after a pericardiocentesis that removed 400 mL of fluid, the nurse finds that the client's BP is 92/70 mm Hg (was 124/78), the heart rate is 118/min (was 88), and the heart sounds are harder to hear. Which action should the nurse take first?",
    "options": [
     "Notify the provider immediately",
-    "Encourage oral fluids to raise the blood pressure",
-    "Lay the client flat and recheck in 30 minutes",
-    "Document the findings as an expected response"
+    "Recheck the BP manually in 15 minutes",
+    "Check the puncture site for bleeding",
+    "Obtain a 12-lead ECG to check the rhythm"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. These trends suggest fluid is building up again around the heart and require urgent intervention.",
-    "Incorrect. Fluids do not address pressure on the heart and delay needed action.",
-    "Incorrect. Waiting delays treatment of a potentially life-threatening problem.",
-    "Incorrect. Removing fluid should improve BP; worsening values are not expected."
+    "Correct. Falling BP, rising heart rate, and muffled heart sounds suggest the sac is refilling and compressing the heart, which needs prompt provider treatment.",
+    "Incorrect. Confirming a reading is reasonable, but the trend in three findings is already clear, and waiting delays treatment.",
+    "Incorrect. Checking the site is part of routine care, but the findings point to fluid reaccumulating around the heart, not external bleeding.",
+    "Incorrect. An ECG may be ordered, but it does not relieve the pressure on the heart and delays contacting the provider."
    ],
-   "rationale": "Pericardiocentesis removes fluid from the pericardial sac to relieve pressure that keeps the heart from filling. Afterward the nurse monitors the ECG, BP, and heart sounds and watches for fluid building up again. A falling BP, rising heart rate, and muffled heart sounds suggest the sac is refilling and squeezing the heart, which can quickly become life-threatening, so the provider is notified immediately. Documenting these as an expected response is the tempting error; relief of pressure should improve, not worsen, the BP.",
-   "takeaway": "After pericardiocentesis, falling BP, rising HR, and muffled heart sounds mean fluid is reaccumulating — notify the provider now."
+   "rationale": "Pericardiocentesis removes fluid from the pericardial sac to relieve pressure that keeps the heart from filling. Afterward the nurse monitors the ECG, BP, and heart sounds and watches for fluid building up again. A falling BP, rising heart rate, and muffled heart sounds suggest the sac is refilling and squeezing the heart, which can quickly become life-threatening, so the provider is notified immediately. Rechecking the BP or getting more data is tempting, but the trend is already clear and delay can be fatal.",
+   "takeaway": "After pericardiocentesis, falling BP, rising HR, and muffled heart sounds mean fluid is reaccumulating — notify the provider now.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-045",
@@ -1586,18 +1614,19 @@ window.NURSE_DATA.push({
    "options": [
     "\"An ECG, which records the strength of your heart's squeeze.\"",
     "\"An electron beam CT, which shows how well your valves open.\"",
-    "\"A lipid profile, which shows how hard your heart is working.\"",
+    "\"A chest X-ray, which shows your heart's size and how it pumps.\"",
     "\"An echocardiogram, an ultrasound that shows wall motion and valves.\""
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. An ECG records electrical activity, not the pump or valves.",
-    "Incorrect. Electron beam CT screens for calcium in the coronary arteries.",
-    "Incorrect. A lipid profile measures cholesterol and triglycerides, not heart function.",
+    "Incorrect. An ECG is the most familiar heart test, but it records electrical activity, not the strength of the squeeze or valve function.",
+    "Incorrect. Electron beam CT images the heart, but it screens for calcium in the coronary arteries rather than showing how the valves work.",
+    "Incorrect. A chest X-ray can show an enlarged heart, but it is a still picture and cannot show how the heart squeezes or how the valves move.",
     "Correct. An echocardiogram shows pumping strength, valve function, and ejection fraction."
    ],
-   "rationale": "An echocardiogram is an ultrasound of the heart that shows wall motion, valve function, and the ejection fraction — the percentage of blood pumped out with each beat. It is noninvasive and painless, with gel placed on the chest. An ECG is the tempting choice because it is the most familiar heart test, but it records only electrical activity, not pumping or valves. Electron beam CT screens for coronary calcium, and a lipid profile measures cholesterol, not heart function.",
-   "takeaway": "Echo = pump and valves (ejection fraction); ECG = electrical activity; electron beam CT = coronary calcium."
+   "rationale": "An echocardiogram is an ultrasound of the heart that shows wall motion, valve function, and the ejection fraction — the percentage of blood pumped out with each beat. It is noninvasive and painless, with gel placed on the chest. An ECG is the tempting choice because it is the most familiar heart test, but it records only electrical activity, not pumping or valves. Electron beam CT screens for coronary calcium, and a chest X-ray shows heart size but not motion or valve function.",
+   "takeaway": "Echo = pump and valves (ejection fraction); ECG = electrical activity; electron beam CT = coronary calcium.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-046",
@@ -1615,19 +1644,20 @@ window.NURSE_DATA.push({
    "stem": "A 77-year-old client is scheduled for a cardiac MRI this afternoon. While completing the pre-procedure screening, which finding is most important for the nurse to report to the provider?",
    "options": [
     "Has a permanent pacemaker placed 3 years ago",
-    "Had a chest x-ray yesterday",
-    "Takes a daily low-dose aspirin",
+    "Wears bilateral hearing aids during the day",
+    "Has a small decorative tattoo on one shoulder",
     "Reports mild anxiety about the loud noise inside the scanner"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Implanted devices may be affected by the MRI magnet; the provider must decide whether it is safe.",
-    "Incorrect. A previous x-ray does not affect the safety of an MRI.",
-    "Incorrect. Aspirin affects platelets but does not create an MRI hazard.",
+    "Correct. An implanted pacemaker cannot be removed and may malfunction in the magnet; the provider must decide whether the scan is safe.",
+    "Incorrect. Hearing aids must come off before an MRI, but the nurse simply removes them; they are not a reason to question the scan.",
+    "Incorrect. Some tattoo inks can warm in the scanner, so it is worth noting, but it rarely stops an MRI and is far less serious than a pacemaker.",
     "Incorrect. Anxiety can be managed with explanation and support and is not a safety barrier."
    ],
-   "rationale": "MRI uses a powerful magnet, so clients are screened for metal implants and devices before the scan. A pacemaker can malfunction or be damaged in the magnetic field, so the provider must know and decide whether the scan can safely proceed. Daily aspirin, a recent chest x-ray, and mild anxiety about noise do not make an MRI unsafe. Anxiety is the tempting choice because MRI scanners are loud and enclosed, but the nurse can manage it with explanation and support.",
-   "takeaway": "Before an MRI, screen for metal implants and devices such as pacemakers and report them."
+   "rationale": "MRI uses a powerful magnet, so clients are screened for metal implants and devices before the scan. A pacemaker can malfunction or be damaged in the magnetic field, so the provider must know and decide whether the scan can safely proceed. Hearing aids are simply removed before the scan, and a small tattoo is noted but rarely stops an MRI. Anxiety is the tempting choice because MRI scanners are loud and enclosed, but the nurse can manage it with explanation and support.",
+   "takeaway": "Before an MRI, screen for metal implants and devices such as pacemakers and report them.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-047",
@@ -1695,7 +1725,8 @@ window.NURSE_DATA.push({
     "Incorrect. This is his stable baseline; isolated systolic hypertension is common in older adults."
    ],
    "rationale": "A BP reading means little without the client's baseline. A reading of 106/64 looks normal, but for a client whose usual BP is 150/88 it is a large drop, and new confusion plus urine output of 20 mL/hr show the brain and kidneys are not getting enough blood. The healthy young adult is at her baseline, the client returning from therapy has a temporary rise from activity, and the 84-year-old's high systolic with a wide pulse pressure is his stable baseline from stiff arteries. The 84-year-old is tempting because his systolic is the highest number, but it is unchanged and he has no symptoms.",
-   "takeaway": "Compare every BP with the client's own baseline; a 'normal' number with confusion and low urine output is hypotension."
+   "takeaway": "Compare every BP with the client's own baseline; a 'normal' number with confusion and low urine output is hypotension.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-049",
@@ -1763,7 +1794,8 @@ window.NURSE_DATA.push({
     "Correct. The narrowing pulse pressure with tachycardia and cool skin signals reduced blood volume."
    ],
    "rationale": "Pulse pressure is systolic minus diastolic. It has narrowed from 52 (132 − 80) to 34 and then 18 (106 − 88). When blood volume falls, stroke volume drops, so the systolic falls, while vasoconstriction keeps the diastolic up; the rising heart rate and cool, pale, moist skin show the body compensating. This pattern suggests bleeding and must be reported even though the systolic is still above 100. A systolic over 100 is the tempting reassurance, but compensation hides falling volume until late.",
-   "takeaway": "Narrowing pulse pressure + rising heart rate + cool, pale skin = falling blood volume, even when systolic still looks acceptable."
+   "takeaway": "Narrowing pulse pressure + rising heart rate + cool, pale skin = falling blood volume, even when systolic still looks acceptable.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-050",
@@ -1819,20 +1851,21 @@ window.NURSE_DATA.push({
    "hintStrategy": "When you witness an unsafe delegated action, stop it first, then redirect to the safe alternative.",
    "stem": "The nurse observes unlicensed assistive personnel (UAP) wrapping a blood pressure cuff around the left upper arm of a client who receives hemodialysis through a left forearm arteriovenous (AV) fistula. The right arm has no restrictions. Which action should the nurse take first?",
    "options": [
-    "Allow the UAP to finish, then document the site that was used",
-    "Check the fistula for a thrill after the UAP's reading",
+    "Teach the UAP about fistula precautions later today",
+    "Assess the left fistula for a thrill and a bruit",
     "Have the UAP take the BP on the left thigh instead",
     "Stop the UAP and have the BP taken on the right arm"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Inflating the cuff could clot the fistula and ruin the dialysis access.",
-    "Incorrect. Assessing after the cuff is inflated does not prevent the harm.",
+    "Incorrect. Teaching the UAP is needed, but waiting lets the cuff inflate now and possibly clot the fistula.",
+    "Incorrect. Checking the thrill and bruit is routine fistula care, but it does not stop the cuff from compressing the fistula.",
     "Incorrect. The thigh is used only when neither arm is available; the right arm can be used.",
     "Correct. Stopping before inflation protects the fistula, and the right arm is a safe site."
    ],
-   "rationale": "An AV fistula is a surgically joined artery and vein used for dialysis. Inflating a BP cuff on that arm compresses the fistula and can clot it, destroying the client's dialysis access. The nurse stops the UAP before the cuff is inflated and directs that the BP be taken on the unrestricted right arm. The thigh is tempting because it is the alternative site, but it is used only when neither arm can be used. Letting the UAP finish or checking the fistula afterward allows avoidable harm.",
-   "takeaway": "Never take a BP on an arm with an AV fistula; stop the action and use another limb."
+   "rationale": "An AV fistula is a surgically joined artery and vein used for dialysis. Inflating a BP cuff on that arm compresses the fistula and can clot it, destroying the client's dialysis access. The nurse stops the UAP before the cuff is inflated and directs that the BP be taken on the unrestricted right arm. The thigh is tempting because it is the alternative site, but it is used only when neither arm can be used. Assessing the fistula or teaching the UAP are good actions, but they come after the harm is prevented.",
+   "takeaway": "Never take a BP on an arm with an AV fistula; stop the action and use another limb.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-052",
@@ -1862,7 +1895,8 @@ window.NURSE_DATA.push({
     "Correct. Phase I (148) is the systolic and phase V (84) is the adult diastolic."
    ],
    "rationale": "In adults, the systolic pressure is phase I, the first clear tapping, and the diastolic pressure is phase V, when the sounds disappear. Here that is 148/84. Recording muffling (phase IV) as the diastolic is the tempting error — that convention is saved for clients whose sounds continue to near zero. Phases II and III are transitions and do not mark either pressure.",
-   "takeaway": "Adult BP = phase I (first tap) over phase V (silence)."
+   "takeaway": "Adult BP = phase I (first tap) over phase V (silence).",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-053",
@@ -1892,7 +1926,8 @@ window.NURSE_DATA.push({
     "Correct. Activity and smoking temporarily raise BP; rechecking after rest gives an accurate reading."
    ],
    "rationale": "Exercise, caffeine, and smoking within 30 minutes cause temporary vasoconstriction and a faster heart rate, producing a falsely high reading. When a reading doesn't fit the client, the nurse verifies it with correct technique before acting: the client rests quietly and the BP is rechecked once 30 minutes have passed since smoking. Labeling hypertension from one reading taken under these conditions is the tempting error. Repeating right away on the same arm is inaccurate because the arm needs 1–2 minutes for blood to return to normal.",
-   "takeaway": "After exercise, caffeine, or smoking, let the client rest and recheck before calling a reading high."
+   "takeaway": "After exercise, caffeine, or smoking, let the client rest and recheck before calling a reading high.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-054",
@@ -1922,7 +1957,8 @@ window.NURSE_DATA.push({
     "Incorrect. Position changes BP somewhat, but this does not explain the error; the unsupported arm does."
    ],
    "rationale": "The arm must be supported at heart level for an accurate BP. When the arm hangs below the heart, gravity adds pressure in the brachial artery, so the reading is falsely high; an arm above heart level reads falsely low. Because this reading doesn't fit the client's recent pattern, the most likely cause is the technique, and the BP should be rechecked with the arm supported at heart level. Assuming new hypertension is the tempting error — always rule out measurement error when a number doesn't fit the client.",
-   "takeaway": "Arm below heart level → falsely high; arm above heart level → falsely low."
+   "takeaway": "Arm below heart level → falsely high; arm above heart level → falsely low.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-055",
@@ -2029,7 +2065,8 @@ window.NURSE_DATA.push({
     "Incorrect. Supine and standing readings are sufficient to apply the criteria."
    ],
    "rationale": "Orthostatic hypotension is a drop of 20 mm Hg or more in systolic or 10 mm Hg or more in diastolic pressure within 3 minutes of standing; only one of the two needs to be met. Here the systolic fell 18 (122 − 104) and the diastolic fell 6 (78 − 72), so neither criterion is met. The rising heart rate is an expected compensation and is not one of the criteria. Rounding an 18-point systolic drop up to 'about 20' is the tempting error; the nurse applies the criteria exactly and continues to monitor.",
-   "takeaway": "Orthostatic hypotension = systolic drop ≥20 OR diastolic drop ≥10 within 3 minutes of standing — calculate both."
+   "takeaway": "Orthostatic hypotension = systolic drop ≥20 OR diastolic drop ≥10 within 3 minutes of standing — calculate both.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-058",
@@ -2048,20 +2085,21 @@ window.NURSE_DATA.push({
    "hintStrategy": "When a reading doesn't fit the client and a technique step was skipped, choose the option that redoes the step correctly.",
    "stem": "A nurse inflates the cuff to 150 mm Hg on an 80-year-old client with long-standing hypertension whose recent systolic readings have been in the 180s. The first tapping sound is heard at 142 mm Hg. Which action should the nurse take next?",
    "options": [
-    "Reinflate immediately to 200 mm Hg and listen again",
+    "Reinflate right away to 200 mm Hg and listen for the first sound",
     "Deflate fully, wait 1–2 minutes, then palpate a systolic estimate",
-    "Record 142 mm Hg as the client's systolic pressure",
-    "Tell the provider the client's blood pressure has improved"
+    "Record 142 mm Hg as the systolic pressure on the flowsheet",
+    "Ask if the client took the morning antihypertensive dose"
    ],
    "answer": 1,
    "optionRationales": [
     "Incorrect. Repeating right away on the same arm is inaccurate, and the palpated estimate is still skipped.",
     "Correct. This avoids an auscultatory gap and gives the arm time to recover before remeasuring.",
     "Incorrect. The reading may be falsely low because of an unrecognized auscultatory gap.",
-    "Incorrect. The low value is likely a technique error, not a true improvement."
+    "Incorrect. A recent dose could lower BP, so asking is reasonable, but the reading may be falsely low from an auscultatory gap and must be remeasured correctly first."
    ],
    "rationale": "Older clients with hypertension and stiff arteries often have an auscultatory gap — a temporary disappearance of Korotkoff sounds at higher pressures. Inflating to only 150 may have started the reading inside the gap, so 142 may be a falsely low systolic. The nurse deflates completely, waits 1–2 minutes for blood in the arm to return to normal, palpates a systolic estimate, and then inflates about 30 mm Hg above it. Reinflating right away to a higher pressure is tempting, but repeating immediately on the same arm gives an inaccurate result and still skips the palpated estimate.",
-   "takeaway": "Palpate a systolic estimate first and inflate 30 mm Hg above it to avoid missing an auscultatory gap."
+   "takeaway": "Palpate a systolic estimate first and inflate 30 mm Hg above it to avoid missing an auscultatory gap.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-059",
@@ -2159,17 +2197,18 @@ window.NURSE_DATA.push({
     "Place the client flat with the legs elevated",
     "Hold the scheduled antihypertensive and notify the provider",
     "Remeasure the BP using a correctly sized smaller cuff",
-    "Increase the IV fluid rate to raise the blood pressure"
+    "Recheck the BP on the other arm with the same cuff"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. The client has no signs of hypotension; the reading needs verification first.",
-    "Incorrect. Acting on an unverified, likely inaccurate reading may lead to unnecessary changes.",
+    "Incorrect. This position helps true hypotension, but the client is alert, warm, and without dizziness, so the reading needs to be verified first.",
+    "Incorrect. Holding the dose may be needed if the BP is truly low, but acting on a likely inaccurate reading may lead to unnecessary changes.",
     "Correct. An oversized cuff reads falsely low; verifying with the right cuff comes first.",
-    "Incorrect. Fluids are not indicated for an unverified low reading in an asymptomatic client."
+    "Incorrect. Verifying the reading is the right idea, but the same oversized cuff will read falsely low on the other arm too."
    ],
-   "rationale": "A cuff that is too large for the arm reads falsely low. Because this value doesn't fit the client's baseline and the client shows no signs of poor perfusion — alert, no dizziness, warm skin — the first step is to remeasure with a correctly sized smaller cuff. Holding the antihypertensive and notifying the provider is the tempting choice because the number looks low, but acting on an inaccurate reading could lead to unnecessary treatment. Positioning changes and IV fluids are for true hypotension with symptoms.",
-   "takeaway": "When a BP doesn't fit the client and there are no symptoms, recheck with the correct cuff size before acting."
+   "rationale": "A cuff that is too large for the arm reads falsely low. Because this value doesn't fit the client's baseline and the client shows no signs of poor perfusion — alert, no dizziness, warm skin — the first step is to remeasure with a correctly sized smaller cuff. Holding the antihypertensive and notifying the provider is the tempting choice because the number looks low, but acting on an inaccurate reading could lead to unnecessary treatment. Rechecking on the other arm with the same cuff repeats the same error, and positioning for shock is for true hypotension with symptoms.",
+   "takeaway": "When a BP doesn't fit the client and there are no symptoms, recheck with the correct cuff size before acting.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-062",
@@ -2201,7 +2240,8 @@ window.NURSE_DATA.push({
     "Incorrect. More volume raises BP rather than lowering it."
    ],
    "rationale": "Peripheral vascular resistance is how much the vessels resist blood flow. Severe infection can cause widespread vasodilation, which lowers resistance and therefore BP; the warm, flushed skin reflects blood pooling in dilated surface vessels. The fast heart rate is the body trying to raise cardiac output to compensate. Increased cardiac output is the tempting choice because the heart rate is high, but more output would raise BP, not lower it.",
-   "takeaway": "Vasodilation lowers peripheral vascular resistance and BP; vasoconstriction raises them."
+   "takeaway": "Vasodilation lowers peripheral vascular resistance and BP; vasoconstriction raises them.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-063",
@@ -2218,20 +2258,21 @@ window.NURSE_DATA.push({
    "hintStrategy": "In supervision items, assess the situation directly before escalating or changing assignments.",
    "stem": "A charge nurse notices that unlicensed assistive personnel (UAP) have documented a BP of exactly 120/80 mm Hg for every assigned client during the past three shifts. Which action should the charge nurse take first?",
    "options": [
-    "Reassign every blood pressure measurement on the unit to RNs from now on",
+    "Review proper BP technique with all UAP at the next staff meeting",
     "Observe the UAP take a client's BP and compare it with their own reading",
-    "Report the UAP to the state board for falsifying records",
-    "Accept the readings, because they are all within normal limits"
+    "Report the UAP's readings to the nurse manager before taking other steps",
+    "Complete an incident report describing the identical readings"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Permanently removing a delegable task does not address the specific problem.",
+    "Incorrect. Group teaching may help later, but it delays finding out whether current client readings are inaccurate.",
     "Correct. Direct observation identifies whether the readings are accurate before further action.",
-    "Incorrect. Escalating before gathering facts skips assessment and the chain of command.",
-    "Incorrect. Identical readings are unlikely to be accurate and may hide abnormal values."
+    "Incorrect. The manager may need to know, but escalating before gathering facts skips the charge nurse's own assessment.",
+    "Incorrect. Documenting the concern is reasonable, but it does not show whether the readings are accurate or protect clients now."
    ],
-   "rationale": "Identical readings for every client suggest haste or subconscious bias — recording the expected value instead of the real one. The first step is to gather data by observing the UAP measure a client's BP and comparing it with the charge nurse's own reading, which shows whether technique or documentation is the problem. Accepting the readings because they are normal is the tempting shortcut, but inaccurate BPs can hide hypotension or hypertension. Reporting to the board or permanently reassigning tasks skips assessment and the chain of command.",
-   "takeaway": "Identical 'perfect' readings suggest bias or haste; observe the technique and verify before acting further."
+   "rationale": "Identical readings for every client suggest haste or subconscious bias — recording the expected value instead of the real one. The first step is to gather data by observing the UAP measure a client's BP and comparing it with the charge nurse's own reading, which shows whether technique or documentation is the problem. Reporting to the nurse manager is the tempting step, but it escalates before the charge nurse has the facts. Group teaching and an incident report may follow, but neither checks the readings now.",
+   "takeaway": "Identical 'perfect' readings suggest bias or haste; observe the technique and verify before acting further.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-064",
@@ -2250,18 +2291,19 @@ window.NURSE_DATA.push({
    "options": [
     "Teach the student the correct technique after the assessment",
     "Obtain a 12-lead ECG to evaluate the slow heart rate",
-    "Have the student keep counting for a full 60 seconds",
+    "Check the client's blood pressure and level of consciousness",
     "Have the student release pressure on both carotids immediately"
    ],
    "answer": 3,
    "optionRationales": [
     "Incorrect. Teaching comes after the client is safe; the harm must be stopped now.",
     "Incorrect. An ECG delays the simple action that removes the cause.",
-    "Incorrect. Continuing compression worsens the reduced brain blood flow and slow heart rate.",
+    "Incorrect. Reassessment is needed, but it comes after the pressure is released; checking first lets the harm continue.",
     "Correct. Removing the pressure restores blood flow to the brain and stops the slowing heart rate."
    ],
-   "rationale": "Pressing both carotid arteries at once can reduce blood flow to the brain and can trigger a slow heart rate, which is exactly what this client is showing. The first action is to stop the cause by having the student release the pressure immediately, then reassess the client. Teaching the correct one-side-at-a-time technique comes after the client is safe. Continuing to count is tempting because the student is mid-assessment, but it prolongs the harm.",
-   "takeaway": "Palpate carotid pulses one side at a time; if both are compressed and symptoms appear, release immediately."
+   "rationale": "Pressing both carotid arteries at once can reduce blood flow to the brain and can trigger a slow heart rate, which is exactly what this client is showing. The first action is to stop the cause by having the student release the pressure immediately, then reassess the client. Teaching the correct one-side-at-a-time technique comes after the client is safe. Checking the BP or getting an ECG is tempting because they gather data, but assessing before removing the cause prolongs the harm.",
+   "takeaway": "Palpate carotid pulses one side at a time; if both are compressed and symptoms appear, release immediately.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-065",
@@ -2293,7 +2335,8 @@ window.NURSE_DATA.push({
     "Correct. This is the apex of the heart, where the apical pulse is counted."
    ],
    "rationale": "The apical pulse is heard over the apex of the heart, at the 5th intercostal space, left midclavicular line; it is the most accurate way to count the heart rate before a heart-rate medication. The 2nd intercostal space at the left sternal border is the pulmonic area, used for listening to valve sounds, not for counting the apical rate. Erb's point is tempting because S1 and S2 are both heard there, but the apical pulse is assessed at the apex.",
-   "takeaway": "Apical pulse: 5th intercostal space, left midclavicular line."
+   "takeaway": "Apical pulse: 5th intercostal space, left midclavicular line.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-066",
@@ -2325,7 +2368,8 @@ window.NURSE_DATA.push({
     "Correct. A new loss of pulse with a cool, pale foot means blood flow to the limb is blocked."
    ],
    "rationale": "A newly absent pulse with a cool, pale limb means the limb may not be getting blood — in a client with atrial fibrillation, a clot may have traveled to the leg artery. This is a time-sensitive, limb-threatening change that must be assessed and reported immediately. Chronically weak but unchanged pulses, slow refill explained by cold, and edema unchanged since admission are stable or explained findings. The chronic arterial disease client is tempting because 1+ pulses look abnormal, but the key word is 'unchanged.'",
-   "takeaway": "A newly absent pulse with a cool, pale limb is an emergency; chronic, unchanged findings can wait."
+   "takeaway": "A newly absent pulse with a cool, pale limb is an emergency; chronic, unchanged findings can wait.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-067",
@@ -2355,7 +2399,8 @@ window.NURSE_DATA.push({
     "Incorrect. A 3+ pulse is full and increased but can still be obliterated."
    ],
    "rationale": "Pulse volume is graded from 0 to 4+. A 4+ pulse is bounding and cannot be obliterated, a pattern seen with fluid overload. A 3+ pulse is full and increased, as with exercise or fever, but it can still be obliterated. A 2+ pulse is normal and easily felt, and a 1+ pulse is weak and easily obliterated. Choosing 3+ is the tempting error; the key cue is that firm pressure cannot make the pulse disappear.",
-   "takeaway": "Pulse volume: 0 absent, 1+ weak, 2+ normal, 3+ full, 4+ bounding and cannot be obliterated."
+   "takeaway": "Pulse volume: 0 absent, 1+ weak, 2+ normal, 3+ full, 4+ bounding and cannot be obliterated.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-068",
@@ -2408,7 +2453,8 @@ window.NURSE_DATA.push({
     "Incorrect. A deficit exists only when the apical rate is higher than the radial rate."
    ],
    "rationale": "A pulse deficit is the apical rate minus the radial rate, and the radial rate can never be higher than the apical rate — a beat cannot reach the wrist if the heart never made it. A radial count higher than the apical count means the measurement is invalid, most often because the nurses did not start and stop at the same moment. The pair should repeat the count using one watch and a single signal for a full 60 seconds. Calculating a 'deficit of 6' is the tempting error because it treats an impossible result as real data.",
-   "takeaway": "The radial rate can never exceed the apical rate; if it does, the count is invalid — repeat it together."
+   "takeaway": "The radial rate can never exceed the apical rate; if it does, the count is invalid — repeat it together.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-069",
@@ -2427,18 +2473,19 @@ window.NURSE_DATA.push({
    "options": [
     "Ask the UAP to recheck the radial pulse manually",
     "Count the apical pulse for 1 full minute",
-    "Give the medication, since the UAP already checked the pulse",
+    "Ask the client about dizziness or weakness",
     "Hold the medication and document the UAP's reading"
    ],
    "answer": 1,
    "optionRationales": [
     "Incorrect. A radial count is less accurate, and the assessment belongs to the nurse.",
     "Correct. The nurse verifies the rate with the most accurate method before deciding about the dose.",
-    "Incorrect. The nurse must assess the apical rate personally before a heart-rate medication.",
+    "Incorrect. Asking about symptoms is useful, but it does not give the accurate rate needed to decide about the dose.",
     "Incorrect. Holding without assessment may withhold a needed dose based on an unverified value."
    ],
    "rationale": "Before giving a medication that affects the heart rate, the nurse assesses the apical pulse for a full 60 seconds — the most accurate way to count the rate — and compares it with the prescribed parameters. A machine reading reported by UAP is useful data, but the decision to give or hold the medication requires the nurse's own assessment. Holding the dose based only on the reported value is tempting, but it skips the assessment that might show the true rate is acceptable, or that the rhythm is irregular.",
-   "takeaway": "Before a heart-rate medication, the nurse counts the apical pulse for a full minute — don't give or hold based on another's reading."
+   "takeaway": "Before a heart-rate medication, the nurse counts the apical pulse for a full minute — don't give or hold based on another's reading.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-070",
@@ -2470,7 +2517,8 @@ window.NURSE_DATA.push({
     "Incorrect. Fluid retention distends the neck veins rather than flattening them."
    ],
    "rationale": "The jugular veins drain straight into the right side of the heart. When the right heart cannot keep up or the client is fluid overloaded, blood backs up and the veins bulge (JVD). Flat neck veins at 30–45° are normal, and in a client losing fluid they are consistent with low volume, not overload. Interpreting flat veins as right-sided heart failure is the tempting reversal; failure causes distended, not flat, veins.",
-   "takeaway": "JVD = fluid backing up (right-sided failure or overload); flat neck veins at 30–45° are normal and fit low volume."
+   "takeaway": "JVD = fluid backing up (right-sided failure or overload); flat neck veins at 30–45° are normal and fit low volume.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-071",
@@ -2489,20 +2537,21 @@ window.NURSE_DATA.push({
    "hintStrategy": "When several new cues point to one dangerous problem, choose the action that supports breathing and gets the provider involved.",
    "stem": "A 70-year-old client is 1 day after bowel surgery with IV fluids infusing at 150 mL/hr. With the head of the bed at 45°, the nurse now sees jugular pulsations 6 cm above the sternal angle, hears new crackles in both lung bases, and notes SpO₂ of 91% and mild dyspnea. Which action should the nurse take first?",
    "options": [
-    "Document these as expected findings after surgery",
-    "Encourage the client to drink more oral fluids today",
+    "Weigh the client and compare with the admission weight",
+    "Review intake and output totals for the last 24 hours",
     "Lower the head of the bed flat to view the neck veins better",
     "Raise the head of the bed higher and notify the provider"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. New JVD, crackles, and falling SpO₂ are not expected after surgery.",
-    "Incorrect. Extra fluid worsens suspected fluid overload.",
+    "Incorrect. Weight helps confirm fluid gain, but the client is already short of breath and needs positioning and provider action now.",
+    "Incorrect. I&O supports the picture of overload, but reviewing it delays action for a client with worsening breathing.",
     "Incorrect. Lying flat increases breathing difficulty for a client with fluid in the lungs.",
     "Correct. Upright positioning eases breathing and the findings of fluid overload need prompt provider action."
    ],
    "rationale": "Visible neck veins more than about 3–4 cm above the sternal angle are JVD. New JVD with crackles and falling oxygen saturation in a client receiving IV fluids suggests fluid overload, with fluid backing up into both the venous system and the lungs. Keeping the client upright eases breathing and reduces blood returning to the heart, and the provider must be notified promptly. Lowering the bed to see the neck veins better is tempting as an assessment step, but lying flat worsens breathing for a client with fluid in the lungs.",
-   "takeaway": "New JVD with crackles or swelling → possible fluid overload or heart failure; keep the client upright and report."
+   "takeaway": "New JVD with crackles or swelling → possible fluid overload or heart failure; keep the client upright and report.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-072",
@@ -2534,7 +2583,8 @@ window.NURSE_DATA.push({
     "Incorrect. Radial pulses are hard to count accurately in infants."
    ],
    "rationale": "For newborns, infants, and children up to about 2–3 years of age, the apical pulse is used because peripheral pulses are hard to find and count accurately. It is auscultated at the apex for a full 60 seconds because infant heart rates are fast and can vary. Counting a peripheral pulse for part of a minute and multiplying is tempting for speed, but it is less accurate in young children, and pressing on an infant's carotid is not how the rate is assessed.",
-   "takeaway": "Infants and children under about 2–3 years: count the apical pulse for a full 60 seconds."
+   "takeaway": "Infants and children under about 2–3 years: count the apical pulse for a full 60 seconds.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-073",
@@ -2564,7 +2614,8 @@ window.NURSE_DATA.push({
     "Correct. Asymmetric slow refill with a cool limb suggests reduced blood flow to that foot."
    ],
    "rationale": "Capillary refill is normally less than 2–3 seconds, but it is slowed by cold, vasoconstriction, and poor lighting, so it must be interpreted in context and compared side to side. A refill of 5 seconds in one foot that is also cool, while the other foot refills in 2 seconds in a warm room, points to reduced blood flow to that limb. Slow refill in cold fingers is explained by the environment and should be rechecked after warming. The cold-finger client is tempting because 4 seconds is abnormal, but the cause is known and temporary.",
-   "takeaway": "Interpret capillary refill in context; a one-sided slow refill with a cool limb in a warm room needs follow-up."
+   "takeaway": "Interpret capillary refill in context; a one-sided slow refill with a cool limb in a warm room needs follow-up.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-074",
@@ -2596,7 +2647,8 @@ window.NURSE_DATA.push({
     "Incorrect. A smaller heart would produce less dullness, not more."
    ],
    "rationale": "Because the heart is a solid organ, percussion over it produces a dull sound. In a normal-sized heart the dullness extends across the chest to about the midclavicular line at the 5th intercostal space, which marks the left border. Dullness extending farther, to the anterior axillary line, suggests the heart is enlarged — a finding to report and correlate with other data. Calling dullness 'fluid in the lungs' is the tempting error; the dull sound over the precordium comes from the heart itself.",
-   "takeaway": "Cardiac dullness normally ends at the midclavicular line, 5th ICS; dullness beyond it suggests an enlarged heart."
+   "takeaway": "Cardiac dullness normally ends at the midclavicular line, 5th ICS; dullness beyond it suggests an enlarged heart.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-075",
@@ -2626,7 +2678,8 @@ window.NURSE_DATA.push({
     "Incorrect. A Doppler search wastes critical time in an emergency."
    ],
    "rationale": "In an unresponsive adult, the carotid pulse is the most reliable site because it is closest to the heart and persists when peripheral pulses are too weak to feel. It is palpated on one side only, because pressing both carotids at once can reduce blood flow to the brain and slow the heart. Checking both sides simultaneously is the tempting shortcut for speed, but it adds risk. Radial and pedal pulses may be absent even when the heart is beating, and searching with a Doppler wastes critical time.",
-   "takeaway": "Check an unresponsive adult's carotid pulse on one side only."
+   "takeaway": "Check an unresponsive adult's carotid pulse on one side only.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-076",
@@ -2656,7 +2709,8 @@ window.NURSE_DATA.push({
     "Incorrect. The pulse is regular, so a pulse deficit is not the concern."
    ],
    "rationale": "Physical activity, position, and medications all affect the pulse, so a value is compared with the client's baseline in context. A regular pulse of 108 right after walking, with no symptoms, is most likely a temporary response to activity. The nurse has the client rest for about 5 minutes and recounts before deciding whether the rate is truly elevated. Notifying the provider is tempting because 108 is tachycardia, but acting on a reading taken under these conditions skips the step that would show whether a problem exists.",
-   "takeaway": "Interpret the pulse in context: after activity, let the client rest and recount before reporting."
+   "takeaway": "Interpret the pulse in context: after activity, let the client rest and recount before reporting.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-077",
@@ -2921,7 +2975,8 @@ window.NURSE_DATA.push({
     "Incorrect. The client must stay NPO until a swallow screen is passed because of aspiration risk."
    ],
    "rationale": "A point-of-care glucose is checked early in suspected stroke because low blood sugar can mimic stroke signs. A glucose of 46 mg/dL must be corrected right away per protocol, using IV dextrose as prescribed because the client cannot safely swallow, and then neurologic status is rechecked; the deficits may resolve. Orange juice is tempting because it is the usual oral treatment, but a client with possible stroke and slurred speech is NPO until a swallow screen is passed. Giving a thrombolytic before ruling out a stroke mimic, or sending the client to CT without correcting the glucose, skips a dangerous, fixable problem.",
-   "takeaway": "In suspected stroke, check glucose — treat hypoglycemia per protocol without giving anything by mouth, then reassess neuro status."
+   "takeaway": "In suspected stroke, check glucose — treat hypoglycemia per protocol without giving anything by mouth, then reassess neuro status.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-084",
@@ -3067,7 +3122,8 @@ window.NURSE_DATA.push({
     "Incorrect. A full bladder raises BP; relieving it is needed but less urgent."
    ],
    "rationale": "A hypertensive emergency is defined by acute organ damage, not by the number alone. Client 2 has a BP above about 180/120 with severe headache, new confusion, and blurred vision — signs of brain involvement — and needs immediate assessment and provider notification. Client 1 has the highest systolic, which makes him tempting, but he has no signs of organ damage; anxiety and running out of pills do not make it an emergency. Clients 3 and 4 have BP raised by pain and a full bladder, which the nurse treats next.",
-   "takeaway": "Hypertensive emergency = severe BP plus acute organ damage (brain, heart, lungs, kidneys) — not just the highest number."
+   "takeaway": "Hypertensive emergency = severe BP plus acute organ damage (brain, heart, lungs, kidneys) — not just the highest number.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-087",
@@ -3118,20 +3174,21 @@ window.NURSE_DATA.push({
    "hintStrategy": "For airway or breathing emergencies, choose the action that improves oxygenation immediately; reject options that add fluid or delay.",
    "stem": "A 79-year-old resident of a long-term care facility with heart failure is suddenly anxious, sweating, and gasping for air. The resident is coughing pink, frothy sputum, crackles are heard throughout both lungs, and SpO₂ is 84%. Which action should the nurse take first?",
    "options": [
-    "Collect a sputum specimen for culture and sensitivity",
+    "Auscultate the heart for an S3 and check vital signs",
     "Lay the resident flat with the legs elevated on pillows",
     "Start an IV normal saline bolus to support circulation",
     "Sit the resident upright with the legs down and apply oxygen"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. A culture does not treat the emergency and delays care.",
+    "Incorrect. These findings support the diagnosis, but the resident is in respiratory distress and needs positioning and oxygen first.",
     "Incorrect. This increases blood return to an overloaded heart and worsens breathing.",
     "Incorrect. Extra fluid worsens pulmonary edema in an overloaded heart.",
     "Correct. Upright positioning eases breathing and reduces venous return, while oxygen supports gas exchange."
    ],
    "rationale": "Pink, frothy sputum, crackles throughout, severe dyspnea, and falling SpO₂ signal acute pulmonary edema: pressure in the left heart has forced fluid into the alveoli, so oxygen can't reach the blood. Sitting the client upright with the legs down helps the lungs expand and reduces blood returning to the heart, and oxygen supports gas exchange while help is summoned. Lying flat with the legs elevated is the tempting 'shock position,' but it sends more blood back to an overloaded heart. A saline bolus adds fluid to flooded lungs.",
-   "takeaway": "Acute pulmonary edema: sit the client upright with legs down, give oxygen, and call for help — no fluid boluses."
+   "takeaway": "Acute pulmonary edema: sit the client upright with legs down, give oxygen, and call for help — no fluid boluses.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-089",
@@ -3150,20 +3207,21 @@ window.NURSE_DATA.push({
    "hintStrategy": "Trace the chain step by step: what does the acid do to vessels, which chamber feels it, and where does blood back up?",
    "stem": "A client in the ICU with severe metabolic acidosis from septic shock develops new jugular vein distention and ankle edema. A nursing student asks how the acidosis could affect the heart. Which explanation by the nurse is most accurate?",
    "options": [
-    "\"Acidosis makes the kidneys excrete fluid, which pulls blood into the neck veins.\"",
+    "\"Acidosis makes the blood thicker, so the right ventricle must pump harder to move it.\"",
     "\"Acidosis constricts lung vessels, so the right ventricle pumps against higher pressure.\"",
     "\"Acidosis strengthens heart contractions, which raises the pressure in the veins.\"",
     "\"Acidosis dilates the lung vessels, which floods the left ventricle with blood.\""
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Fluid loss would flatten the neck veins, not distend them.",
+    "Incorrect. The right ventricle does face more resistance, but it comes from constricted lung vessels; acidosis does not thicken the blood.",
     "Correct. Higher pulmonary pressure overworks the right ventricle, which fails and backs blood into the body's veins.",
-    "Incorrect. Acidosis weakens the heart muscle rather than strengthening it.",
-    "Incorrect. Acidosis constricts, not dilates, the pulmonary vessels."
+    "Incorrect. Venous pressure does rise, but acidosis weakens heart contractions rather than strengthening them.",
+    "Incorrect. Lung vessels are affected, but acidosis constricts rather than dilates them, and the right side fails first."
    ],
    "rationale": "Metabolic acidosis causes the blood vessels in the lungs to constrict, raising pressure in the pulmonary circulation. The right ventricle must push harder to move blood through the lungs, and over time it fails, so blood backs up into the body's veins — producing JVD and edema. Acidosis also weakens the heart muscle itself (myocardial depression). The idea that acidosis strengthens the heart is tempting if one confuses a fast heart rate with stronger contraction, but acidosis depresses contractility.",
-   "takeaway": "Acidosis constricts lung vessels and weakens the heart muscle, which can lead to right ventricular failure."
+   "takeaway": "Acidosis constricts lung vessels and weakens the heart muscle, which can lead to right ventricular failure.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-090",
@@ -3279,7 +3337,8 @@ window.NURSE_DATA.push({
     "Incorrect. Orthostatic testing delays care for a possible stroke."
    ],
    "rationale": "BE-FAST includes Balance and Eyes: a sudden loss of balance or coordination and sudden vision loss or double vision are stroke signs even when the face, arms, and speech are normal. The nurse helps the client to safety and activates the stroke alert, noting the exact time symptoms began, because treatment options depend on the time last known well. Rechecking in an hour wastes brain tissue, and treating dizziness or measuring orthostatic vital signs is tempting because the client is hospitalized for an unrelated illness, but those actions assume a benign cause and delay care.",
-   "takeaway": "Sudden loss of balance or double vision alone is a positive BE-FAST — activate the stroke alert and note the time."
+   "takeaway": "Sudden loss of balance or double vision alone is a positive BE-FAST — activate the stroke alert and note the time.",
+   "bestAnswer": true
   },
   {
    "id": "m16-x2-092",
@@ -3299,19 +3358,20 @@ window.NURSE_DATA.push({
    "stem": "A 70-year-old client with heart failure is preparing for discharge. Which statement indicates the client understands how to monitor fluid status with daily weights?",
    "options": [
     "\"I'll weigh myself each morning after voiding and before breakfast, on one scale.\"",
-    "\"I only need to weigh myself on days when my ankles look swollen.\"",
+    "\"I only need to weigh myself on the mornings when my ankles look swollen.\"",
     "\"I'll weigh myself every evening after dinner, when my weight is highest.\"",
-    "\"I'll weigh myself whenever I remember to, on whichever scale is handy.\""
+    "\"I'll weigh myself every Monday morning before breakfast, on one scale.\""
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. Weighing at the same time on the same scale gives a reliable daily trend.",
     "Incorrect. Fluid can build up before swelling appears, so weights are taken every day.",
     "Incorrect. After-meal weights vary with intake; morning weights before breakfast are more consistent.",
-    "Incorrect. Different times and scales add variation that hides fluid changes."
+    "Incorrect. Same time and same scale are right, but weekly weights miss a rapid gain of 2–3 lb in a day."
    ],
-   "rationale": "Daily weights are the most reliable home measure of fluid retention in heart failure. To be comparable, they are taken at the same time each day — in the morning after urinating and before breakfast — on the same scale in similar clothing. Weighing only when the ankles look swollen is tempting because edema is a visible sign, but fluid can accumulate before edema appears. Weighing at random times or after meals adds variation that hides the real trend.",
-   "takeaway": "Daily weights: same scale, same time (morning, after voiding, before breakfast), every day."
+   "rationale": "Daily weights are the most reliable home measure of fluid retention in heart failure. To be comparable, they are taken at the same time each day — in the morning after urinating and before breakfast — on the same scale in similar clothing. Weighing only when the ankles look swollen is tempting because edema is a visible sign, but fluid can accumulate before edema appears. Weekly weights miss rapid day-to-day gains, and weighing after meals adds variation that hides the real trend.",
+   "takeaway": "Daily weights: same scale, same time (morning, after voiding, before breakfast), every day.",
+   "bestAnswer": true
   }
  ]
 });

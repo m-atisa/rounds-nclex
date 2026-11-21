@@ -1244,10 +1244,10 @@
    ],
    "answer": 2,
    "optionRationales": [
-    "The left mainstem bronchus is longer, narrower, and more angled, so aspirated material is less likely to enter the left lung.",
-    "The right side is correct, but in an upright client gravity carries material down to the lower lobe; the upper lobes are more often involved when a client aspirates lying down.",
+    "Incorrect. The left mainstem bronchus is longer, narrower, and more angled, so aspirated material is less likely to enter the left lung.",
+    "Incorrect. The right side is correct, but in an upright client gravity carries material down to the lower lobe; the upper lobes are more often involved when a client aspirates lying down.",
     "Correct. The right bronchus is shorter, wider, and straighter, and gravity carries material to the dependent lower segments in an upright client, so crackles or diminished sounds are expected over the right lower lobe.",
-    "A weak cough explains why the client aspirated, but it does not change airway anatomy; the left side is the less likely route."
+    "Incorrect. A weak cough explains why the client aspirated, but it does not change airway anatomy; the left side is the less likely route."
    ],
    "rationale": "This item links three pieces of the module. The older adult's risk factors (GERD and a weaker cough reflex) explain why aspiration happened. Airway anatomy (the right bronchus is shorter, wider, and straighter) plus gravity in an upright position explain where the material goes: the right lower lobe. Assessment then targets that lobe for crackles that don't clear or diminished breath sounds.",
    "takeaway": "Older adult + GERD/weak cough = aspiration risk; aspiration goes right and down when the client is upright.",
@@ -1278,9 +1278,9 @@
    "answer": 0,
    "optionRationales": [
     "Correct. The ABG showed uncompensated respiratory alkalosis: hyperventilation blew off CO₂. Because CO₂ (through H⁺) is the main drive to breathe, low CO₂ weakens that drive and breathing slows until CO₂ rises again.",
-    "Hyperventilation removes CO₂; it does not cause CO₂ to build up. The PaCO₂ of 29 mm Hg is low (hypocarbia).",
-    "The HCO₃⁻ of 24 mEq/L is normal, so the kidneys have not compensated; renal compensation takes hours to days.",
-    "The SpO₂ is 97% and the client is alert; low oxygen would cause restlessness and faster breathing, not a slow rate."
+    "Incorrect. Hyperventilation removes CO₂; it does not cause CO₂ to build up. The PaCO₂ of 29 mm Hg is low (hypocarbia).",
+    "Incorrect. The HCO₃⁻ of 24 mEq/L is normal, so the kidneys have not compensated; renal compensation takes hours to days.",
+    "Incorrect. The SpO₂ is 97% and the client is alert; low oxygen would cause restlessness and faster breathing, not a slow rate."
    ],
    "rationale": "Reading the ABG (pH high, PaCO₂ low, HCO₃⁻ normal = uncompensated respiratory alkalosis) tells you hyperventilation blew off CO₂. Physiology explains what happens next: arterial CO₂ and H⁺ are the main stimulus to breathe, so when they are low, the rate slows until CO₂ builds back up. With a normal SpO₂ and an alert client, the nurse keeps monitoring rather than intervening aggressively.",
    "takeaway": "Hyperventilation lowers CO₂ → weaker drive to breathe → temporary slowing until CO₂ recovers.",
@@ -1390,10 +1390,10 @@
    ],
    "answer": 1,
    "optionRationales": [
-    "Cheyne-Stokes is a waxing-waning cycle with apnea, not deep, regular breathing, and the low PaCO₂ here is compensation.",
+    "Incorrect. Cheyne-Stokes is a waxing-waning cycle with apnea, not deep, regular breathing, and the low PaCO₂ here is compensation.",
     "Correct. pH and HCO₃⁻ are both low (metabolic: same direction), and the low PaCO₂ shows the lungs compensating. Deep, rapid, regular Kussmaul breathing blows off CO₂ to raise the pH.",
-    "The pH is 7.22 (acidosis), not alkalosis, and deep, rapid breathing removes CO₂ rather than retaining it.",
-    "A primary respiratory alkalosis would raise the pH above 7.45; this pH is acidotic and the bicarbonate is very low."
+    "Incorrect. The pH is 7.22 (acidosis), not alkalosis, and deep, rapid breathing removes CO₂ rather than retaining it.",
+    "Incorrect. A primary respiratory alkalosis would raise the pH above 7.45; this pH is acidotic and the bicarbonate is very low."
    ],
    "rationale": "Three pieces fit together. ABG: low pH with low HCO₃⁻ is metabolic acidosis (ROME: metabolic = equal direction); the low PaCO₂ is partial respiratory compensation. Physiology: rising H⁺ stimulates the drive to breathe. Pattern: that drive produces Kussmaul breathing — deep, rapid, regular breaths that blow off CO₂. The nurse does not try to slow this breathing; the provider treats the underlying ketoacidosis.",
    "takeaway": "Kussmaul = deep, rapid, regular breathing that compensates for metabolic acidosis — treat the cause, not the breathing.",
@@ -1420,9 +1420,9 @@
    ],
    "answer": 3,
    "optionRationales": [
-    "Bradypnea is a slow but regular rate (below 10/min per the slides) without a crescendo–decrescendo cycle.",
-    "Biot respirations are shallow breaths with irregular, unpredictable apnea, seen in CNS disorders.",
-    "Kussmaul respirations are deep, rapid, and regular, occurring in metabolic acidosis.",
+    "Incorrect. Bradypnea is a slow but regular rate (below 10/min per the slides) without a crescendo–decrescendo cycle.",
+    "Incorrect. Biot respirations are shallow breaths with irregular, unpredictable apnea, seen in CNS disorders.",
+    "Incorrect. Kussmaul respirations are deep, rapid, and regular, occurring in metabolic acidosis.",
     "Correct. A predictable crescendo–decrescendo cycle followed by apnea is Cheyne-Stokes breathing, which occurs in heart failure, increased ICP, and drug overdose."
    ],
    "rationale": "Cheyne-Stokes respirations cycle from deep, rapid breaths to slow, shallow breaths followed by apnea. Heart failure is one of the conditions linked to this pattern on the slides, along with increased intracranial pressure and drug overdoses.",
@@ -1446,23 +1446,24 @@
    "stem": "A client received IV morphine 1 hour ago and is now difficult to arouse, with a respiratory rate of 8/min. ABG: pH 7.29, PaCO₂ 58 mm Hg, HCO₃⁻ 24 mEq/L, PaO₂ 68 mm Hg. Which interpretation and action are appropriate?",
    "options": [
     "Uncompensated respiratory acidosis; stimulate the client, support the airway, and notify the provider",
-    "Fully compensated respiratory acidosis from hypoventilation; continue routine monitoring because the kidneys have adjusted",
-    "Uncompensated metabolic acidosis from poor tissue perfusion; increase the IV fluid rate and repeat the ABG in 1 hour",
+    "Uncompensated respiratory acidosis; raise the head of the bed and coach deep breathing",
+    "Uncompensated respiratory acidosis; hold the next opioid dose and repeat the ABG in 1 hour",
     "Uncompensated respiratory acidosis; apply a nonrebreather mask and continue to monitor the SpO₂ closely"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. pH is low and PaCO₂ is high (opposite directions = respiratory) with a normal HCO₃⁻ (uncompensated). Opioid-induced bradypnea let CO₂ accumulate, so the nurse stimulates the client, supports the airway, and notifies the provider.",
-    "The pH is outside 7.35–7.45 and the HCO₃⁻ is normal, so no compensation has occurred.",
-    "The HCO₃⁻ is normal, so the problem is not metabolic; the high PaCO₂ matches the acidosis.",
-    "The interpretation is right, but the action is not. More oxygen does not correct hypoventilation, a rising SpO₂ can hide a climbing CO₂, and the provider still has not been told about the oversedation."
+    "Incorrect. The interpretation is right and positioning helps, but a client who is hard to arouse cannot reliably follow coaching, and the provider still has not been told about the oversedation.",
+    "Incorrect. The interpretation is right and holding the opioid is reasonable, but waiting an hour to recheck delays airway support and provider notification for a client who is hypoventilating now.",
+    "Incorrect. The interpretation is right, but more oxygen does not correct hypoventilation, a rising SpO₂ can hide a climbing CO₂, and the provider still has not been told about the oversedation."
    ],
    "rationale": "This item joins a breathing pattern to its blood-gas result. An opioid slowed the respiratory rate to 8/min (bradypnea/hypoventilation), so CO₂ was retained. The ABG confirms it: low pH with high PaCO₂ is respiratory acidosis, and a normal HCO₃⁻ means the kidneys have not had time to compensate. The low PaO₂ adds hypoxemia. The nurse acts on the cause: stimulate, support the airway, and notify the provider.",
    "takeaway": "Slow, shallow breathing after an opioid → CO₂ retention → uncompensated respiratory acidosis; act on the breathing.",
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
    "hintContent": "Connect a respiratory rate of 8/min after morphine with what happens to CO₂, then read the ABG step by step.",
-   "hintStrategy": "Both halves of the option must be right: first confirm the ABG label, then check that the action fits the cause."
+   "hintStrategy": "Both halves of the option must be right: first confirm the ABG label, then check that the action fits the cause.",
+   "bestAnswer": true
   },
   {
    "id": "m15-010",
@@ -1485,10 +1486,10 @@
    ],
    "answer": 2,
    "optionRationales": [
-    "The pH is normal and the client is at baseline, so this is not an uncompensated emergency.",
-    "The pH is within 7.35–7.45, so compensation is full, not partial; and pushing SpO₂ high in a CO₂ retainer risks CO₂ narcosis.",
+    "Incorrect. The pH is normal and the client is at baseline, so this is not an uncompensated emergency.",
+    "Incorrect. The pH is within 7.35–7.45, so compensation is full, not partial; and pushing SpO₂ high in a CO₂ retainer risks CO₂ narcosis.",
     "Correct. pH is normal but on the acid side of 7.40, with both PaCO₂ and HCO₃⁻ high: fully compensated respiratory acidosis. Years of COPD-related CO₂ retention led the kidneys to hold bicarbonate. SpO₂ 89% is within the prescribed target, so the plan continues.",
-    "The primary problem is the retained CO₂ (acid side of 7.40); the high HCO₃⁻ is the kidneys' compensation, and oxygen should never be withheld."
+    "Incorrect. The primary problem is the retained CO₂ (acid side of 7.40); the high HCO₃⁻ is the kidneys' compensation, and oxygen should never be withheld."
    ],
    "rationale": "The nurse combines ABG interpretation, COPD pathophysiology, and oxygen targets. COPD damages alveoli, so CO₂ is retained chronically; over time the kidneys raise bicarbonate, pulling the pH back into range (fully compensated respiratory acidosis). For clients who retain CO₂, a prescribed SpO₂ target of 88–92% is common, and this client is within it — this is the client's stable baseline.",
    "takeaway": "COPD baseline often = fully compensated respiratory acidosis with an SpO₂ target of 88–92%.",
@@ -1511,24 +1512,25 @@
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "stem": "A client in the emergency department after a car crash is crying, reports pain 8/10 in a fractured wrist, and has numbness and tingling around the mouth and fingers. RR 34/min, breath sounds equal bilaterally, trachea midline, SpO₂ 99% on room air. ABG: pH 7.51, PaCO₂ 28 mm Hg, HCO₃⁻ 24 mEq/L, PaO₂ 98 mm Hg. Which action should the nurse take first?",
    "options": [
-    "Prepare for emergency needle decompression of the chest",
-    "Administer sodium bicarbonate IV per the protocol",
-    "Apply a nonrebreather mask at 15 L/min right away",
+    "Apply oxygen at 2 L/min by nasal cannula for comfort",
+    "Request a serum calcium level to explain the tingling",
+    "Splint and elevate the injured wrist and apply ice",
     "Coach slow, controlled breathing and treat the pain"
    ],
    "answer": 3,
    "optionRationales": [
-    "Equal breath sounds, a midline trachea, and a normal SpO₂ do not suggest a tension pneumothorax.",
-    "Bicarbonate is a base; giving it would worsen an alkalosis.",
-    "Oxygenation is already normal (PaO₂ 98, SpO₂ 99%); the problem is CO₂ loss, not hypoxemia.",
-    "Correct. Pain and anxiety are driving hyperventilation, which blew off CO₂ and caused uncompensated respiratory alkalosis with perioral tingling. Slowing the breathing and treating the pain address the cause."
+    "Incorrect. Oxygen can feel reassuring, but the SpO₂ is 99% and PaO₂ 98; the problem is CO₂ loss from rapid breathing, not hypoxemia.",
+    "Incorrect. Tingling can signal low calcium, but here it is explained by respiratory alkalosis; lab work does not slow the breathing that is causing it.",
+    "Incorrect. Splinting and ice ease the pain, but this addresses only one driver and does nothing for the rapid breathing that caused the alkalosis.",
+    "Correct. Pain and anxiety are driving hyperventilation, which blew off CO₂ and caused uncompensated respiratory alkalosis with perioral tingling. Coaching slow breathing and treating the pain address both causes at once."
    ],
-   "rationale": "The ABG shows high pH with low PaCO₂ and normal HCO₃⁻: uncompensated respiratory alkalosis. The breathing pattern (rapid breathing from pain and anxiety) explains it, and the tingling is a classic symptom. Chest findings (equal breath sounds, midline trachea, normal SpO₂) rule out a trauma-related pneumothorax. So the priority is to slow the breathing and treat the pain rather than escalate to emergency airway or chest interventions.",
+   "rationale": "The ABG shows high pH with low PaCO₂ and normal HCO₃⁻: uncompensated respiratory alkalosis. The breathing pattern (rapid breathing from pain and anxiety) explains it, and the tingling is a classic symptom of alkalosis rather than a separate calcium problem. Chest findings (equal breath sounds, midline trachea, normal SpO₂) rule out a pneumothorax and show oxygenation is fine. So the priority is to slow the breathing and treat the pain together, rather than adding oxygen, ordering labs, or managing the wrist alone.",
    "takeaway": "Hyperventilation from pain or anxiety → respiratory alkalosis; treat the cause of the fast breathing.",
    "cjmm": "Take Action",
    "focus": "Prioritization",
    "hintContent": "Connect the ABG pattern to the client's breathing and use the chest assessment to rule a trauma emergency in or out.",
-   "hintStrategy": "Name the imbalance, identify what is driving it, and pick the action that treats that driver; reject options for problems the data rule out."
+   "hintStrategy": "Name the imbalance, identify what is driving it, and pick the action that treats that driver; reject options for problems the data rule out.",
+   "bestAnswer": true
   },
   {
    "id": "m15-012",
@@ -1543,24 +1545,25 @@
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "stem": "A client who is 3 days postoperative suddenly becomes dyspneic with an SpO₂ of 89%, clear breath sounds, and symmetrical chest expansion. Oxygen is started at 3 L/min by nasal cannula. The provider suspects a blood clot blocking pulmonary blood flow and orders a pulmonary angiogram with IV contrast. Which finding is the priority to report to the provider before the test?",
    "options": [
-    "NPO since midnight, as instructed",
+    "Platelet count 165,000/mm³ (normal 150,000–400,000)",
     "Serum creatinine 2.4 mg/dL (normal 0.6–1.2)",
     "HR 108/min and RR 24/min since the dyspnea began",
     "Anxious and asking how long the test will take"
    ],
    "answer": 1,
    "optionRationales": [
-    "Being NPO is an expected preparation step.",
+    "Incorrect. Bleeding risk matters for a catheter procedure, especially if anticoagulation is started for a suspected clot, but this platelet count is normal.",
     "Correct. The angiogram uses IV contrast dye, which can injure the kidneys; an elevated creatinine shows impaired kidney function and must be reported before the test.",
-    "Tachycardia and tachypnea are the expected compensation for the hypoxemia that prompted the test. They are part of the picture the provider is already acting on, not a reason the test is unsafe.",
-    "Anxiety is expected; the nurse can explain the procedure, but it is not the priority safety concern."
+    "Incorrect. These changes deserve monitoring, but tachycardia and tachypnea are the expected response to the hypoxemia that prompted the test; they do not make the contrast unsafe.",
+    "Incorrect. Anxiety is expected and the nurse should explain the procedure, but it is not a safety concern that could change whether the test is done."
    ],
    "rationale": "Clear lungs with sudden hypoxemia point to a perfusion (blood-flow) problem — a V/Q mismatch where ventilated alveoli receive too little blood, as with a clot. A pulmonary angiogram looks at blood flow in the lung arteries using IV contrast, so the nurse's key safety check beforehand is kidney function and any prior contrast reaction. An elevated creatinine is the finding to report.",
    "takeaway": "Clear lungs + sudden hypoxemia → think perfusion; before contrast studies, check kidney function.",
    "cjmm": "Recognize Cues",
    "focus": "Prioritization",
    "hintContent": "Link the physiology behind the suspected problem to the test being done and what that test uses.",
-   "hintStrategy": "Ask which finding makes the planned test unsafe, not which finding is merely present."
+   "hintStrategy": "Ask which finding makes the planned test unsafe, not which finding is merely present.",
+   "bestAnswer": true
   },
   {
    "id": "m15-013",
@@ -1624,16 +1627,17 @@
    "answer": 0,
    "optionRationales": [
     "Correct. Leaning forward spreads the ribs and lets fluid collect where the needle enters. Because the needle can let air into the pleural space, the nurse watches afterward for signs of pneumothorax.",
-    "The position is right, but waiting for the gag reflex applies to bronchoscopy, where the throat is numbed. Thoracentesis does not affect the gag reflex.",
-    "The position is right, but coughing or moving during needle insertion can injure the lung.",
-    "The post-procedure monitoring is right, but lying flat is not the position for thoracentesis; sitting up and leaning forward spreads the ribs and lets the fluid collect where the needle enters."
+    "Incorrect. The position is right, but waiting for the gag reflex applies to bronchoscopy, where the throat is numbed. Thoracentesis does not affect the gag reflex.",
+    "Incorrect. The position is right, but coughing or moving during needle insertion can injure the lung.",
+    "Incorrect. The post-procedure monitoring is right, but lying flat is not the position for thoracentesis; sitting up and leaning forward spreads the ribs and lets the fluid collect where the needle enters."
    ],
    "rationale": "Thoracentesis care combines positioning and post-procedure surveillance. The client sits upright leaning forward and stays still without coughing during insertion. Afterward, the main complication is pneumothorax: air entering the pleural space destroys the negative pressure that keeps the lung inflated, producing sudden pleuritic pain, dyspnea, absent breath sounds, and falling SpO₂.",
    "takeaway": "Thoracentesis: sit up, lean forward, stay still — then watch for pneumothorax.",
    "cjmm": "Generate Solutions",
    "focus": "Nursing Interventions",
    "hintContent": "Connect the procedure's positioning with its main complication and how that complication presents.",
-   "hintStrategy": "Both halves of each option must be correct; eliminate any option with one wrong part."
+   "hintStrategy": "Both halves of each option must be correct; eliminate any option with one wrong part.",
+   "bestAnswer": true
   },
   {
    "id": "m15-016",
@@ -1653,17 +1657,18 @@
    ],
    "answer": 1,
    "optionRationales": [
-    "The prongs are placed after oxygen is flowing so the client does not breathe through empty tubing.",
+    "Incorrect. The prongs are placed after oxygen is flowing so the client does not breathe through empty tubing.",
     "Correct. After the safety checks and explanation, the nurse connects the tubing, sets the prescribed flow, and confirms oxygen is flowing before applying the cannula.",
-    "Reassessment follows application.",
-    "Documentation comes after the oxygen is applied and the response is evaluated."
+    "Incorrect. Reassessment follows application.",
+    "Incorrect. Documentation comes after the oxygen is applied and the response is evaluated."
    ],
    "rationale": "Oxygen is a medication. After verifying the order, hand hygiene, identification, and explanation, the nurse connects the cannula to the flowmeter, sets the prescribed flow, confirms flow, places the prongs, and then reassesses SpO₂, breathing, mental status, and skin.",
    "takeaway": "Verify → set and confirm flow → apply → reassess.",
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "hintContent": "Recall the order of steps for starting oxygen by nasal cannula.",
-   "hintStrategy": "Picture the equipment: what must happen before the device touches the client?"
+   "hintStrategy": "Picture the equipment: what must happen before the device touches the client?",
+   "bestAnswer": true
   },
   {
    "id": "m15-017",
@@ -1680,22 +1685,23 @@
    "options": [
     "Apply the simple mask at 3 L/min, because a low flow is safest for a client with pneumonia",
     "Contact the provider, because below 5 L/min the client would rebreathe exhaled carbon dioxide",
-    "Apply a nonrebreather mask at 3 L/min, because it can deliver a much higher oxygen concentration",
+    "Apply a nasal cannula at 3 L/min, because that device is designed for low flows",
     "Apply the simple mask at 3 L/min, and recheck the SpO₂ at the next scheduled vital signs"
    ],
    "answer": 1,
    "optionRationales": [
-    "A simple mask needs at least 5 L/min; the problem is the device–flow mismatch, not the diagnosis.",
+    "Incorrect. Low flow sounds cautious, but a simple mask needs at least 5 L/min; the problem is the device–flow mismatch, not the diagnosis.",
     "Correct. A simple face mask needs a minimum of 5 L/min to flush exhaled CO₂ out of the mask. The nurse clarifies the order rather than applying it or substituting a device.",
-    "A nonrebreather needs 10–15 L/min to keep the reservoir bag inflated, and the nurse cannot change devices without an order.",
-    "Following the order as written would expose the client to CO₂ rebreathing and delay effective oxygenation."
+    "Incorrect. A nasal cannula is the usual device for 3 L/min, but oxygen is a medication, and the nurse cannot change the device without clarifying the prescription.",
+    "Incorrect. Rechecking the SpO₂ is good practice, but applying the order as written exposes the client to CO₂ rebreathing and delays effective oxygenation."
    ],
    "rationale": "Device knowledge and gas-exchange physiology connect here. A simple face mask holds exhaled air; below 5 L/min, that CO₂-rich air is not flushed out, so the client rebreathes it, raising CO₂ (hypercarbia). Because oxygen is a medication, the nurse clarifies the prescription with the provider rather than giving it as written or switching devices independently.",
    "takeaway": "Simple face mask = minimum 5 L/min; an order below that must be clarified.",
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
    "hintContent": "Link the design of a simple face mask to what happens to exhaled CO₂ at low flow rates.",
-   "hintStrategy": "Decide whether the order is safe as written; if not, choose the action within the nurse's scope."
+   "hintStrategy": "Decide whether the order is safe as written; if not, choose the action within the nurse's scope.",
+   "bestAnswer": true
   },
   {
    "id": "m15-018",
@@ -1711,23 +1717,24 @@
    "stem": "A client in acute respiratory distress is restless, speaking in 2–3 word phrases, with an SpO₂ of 86% on a nonrebreather mask at 10 L/min. The nurse notes that the reservoir bag collapses completely each time the client inhales. What is the nurse's priority action?",
    "options": [
     "Increase the flow until the bag stays partly inflated during inhalation",
-    "Document the collapsing bag as expected for a client breathing this fast",
-    "Switch the client to a nasal cannula at 6 L/min so the client can talk",
-    "Remove one of the one-way flap valves so more room air can be drawn in"
+    "Notify the provider that the SpO₂ is 86% on the nonrebreather",
+    "Raise the head of the bed to high Fowler's position right away",
+    "Check the mask fit and tighten the elastic strap around the head"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. A collapsing reservoir bag means the client is inhaling more than is flowing in. Increasing the flow (up to 15 L/min) keeps the bag inflated and delivers the high concentration the client needs.",
-    "The reservoir bag should never collapse on inspiration; this is not an expected finding.",
-    "A nasal cannula delivers much less oxygen than a properly functioning nonrebreather.",
-    "The valves keep exhaled air out of the reservoir; removing one would lower the oxygen concentration."
+    "Incorrect. The provider needs to know, but the nurse can fix the cause now; increasing the flow comes first, then reassessment and escalation if the client does not improve.",
+    "Incorrect. Upright positioning eases breathing, but it does not fix the collapsing bag, so the client is still not getting the high oxygen concentration needed.",
+    "Incorrect. A good seal matters, but a collapsing bag means the flow is too low; a tighter seal draws even more from the bag and does not add oxygen."
    ],
    "rationale": "The assessment (restlessness, few-word speech, SpO₂ 86%) shows severe hypoxemia, and the equipment check shows why the device is failing: the bag empties before each breath is finished. Increasing the flow restores the nonrebreather's high FiO₂. The nurse then reassesses and escalates if the client doesn't improve.",
    "takeaway": "Nonrebreather bag must never collapse on inspiration — turn up the flow.",
    "cjmm": "Take Action",
    "focus": "Prioritization",
    "hintContent": "Combine the signs of severe hypoxemia with how a nonrebreather reservoir works.",
-   "hintStrategy": "Identify why the device is not delivering enough oxygen, then fix that cause first."
+   "hintStrategy": "Identify why the device is not delivering enough oxygen, then fix that cause first.",
+   "bestAnswer": true
   },
   {
    "id": "m15-019",
@@ -1750,17 +1757,18 @@
    ],
    "answer": 1,
    "optionRationales": [
-    "An uncontrolled high FiO₂ can worsen CO₂ retention; the prescription is for a specific, low concentration.",
+    "Incorrect. An uncontrolled high FiO₂ can worsen CO₂ retention; the prescription is for a specific, low concentration.",
     "Correct. The ABG shows partially compensated respiratory acidosis from CO₂ retention. A Venturi mask's color-coded adapter delivers an exact FiO₂ such as 28%, allowing controlled titration.",
-    "A simple mask delivers a variable, moderate concentration (about 40–60%), not a set 28%.",
-    "Nasal cannula FiO₂ varies with the client's breathing; 6 L/min is about 44% and cannot be fixed at 28%."
+    "Incorrect. A simple mask delivers a variable, moderate concentration (about 40–60%), not a set 28%.",
+    "Incorrect. Nasal cannula FiO₂ varies with the client's breathing; 6 L/min is about 44% and cannot be fixed at 28%."
    ],
    "rationale": "The ABG (low pH, high PaCO₂, rising HCO₃⁻) shows a COPD client retaining CO₂ with partial renal compensation. For this client, oxygen must correct hypoxemia without an uncontrolled high FiO₂ that could worsen CO₂ retention. The Venturi mask is the device that delivers a precise, set FiO₂, which is why providers choose it for COPD exacerbations.",
    "takeaway": "Precise FiO₂ (e.g., 28%) for a CO₂ retainer = Venturi mask.",
    "cjmm": "Generate Solutions",
    "focus": "Nursing Interventions",
    "hintContent": "Interpret the ABG, recall why CO₂ retainers need controlled oxygen, and match that need to a device.",
-   "hintStrategy": "Decide which device can deliver one exact concentration rather than a range that changes with the client's breathing, then check that the reason given is true."
+   "hintStrategy": "Decide which device can deliver one exact concentration rather than a range that changes with the client's breathing, then check that the reason given is true.",
+   "bestAnswer": true
   },
   {
    "id": "m15-021",
@@ -1823,9 +1831,9 @@
    "answer": 0,
    "optionRationales": [
     "Correct. Suctioning removes oxygen along with secretions, so the client is hyperoxygenated before the catheter is inserted.",
-    "The catheter is inserted without suction to avoid trauma and oxygen loss; suction is applied while withdrawing.",
-    "Routine saline instillation is not part of the procedure and can push secretions deeper.",
-    "Each pass is limited to 10–15 seconds to prevent hypoxemia and vagal stimulation."
+    "Incorrect. The catheter is inserted without suction to avoid trauma and oxygen loss; suction is applied while withdrawing.",
+    "Incorrect. Routine saline instillation is not part of the procedure and can push secretions deeper.",
+    "Incorrect. Each pass is limited to 10–15 seconds to prevent hypoxemia and vagal stimulation."
    ],
    "rationale": "The assessment supports suctioning: rhonchi that don't clear, gurgling, and falling SpO₂ indicate secretions the client cannot clear alone. Because the SpO₂ is already low and each pass removes oxygen, the next step after positioning is hyperoxygenation, followed by insertion without suction, intermittent suction while withdrawing for no more than 10–15 seconds, and reoxygenation.",
    "takeaway": "Suction when indicated: preoxygenate, insert without suction, ≤ 10–15 s while withdrawing, reoxygenate.",
@@ -1847,24 +1855,25 @@
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "stem": "A client on postoperative day 1 has diminished breath sounds in both bases and an SpO₂ of 92%. The nurse is teaching incentive spirometry. The client is sitting upright, has breathed out normally, and has sealed the lips around the mouthpiece. Which instruction should the nurse give next?",
    "options": [
-    "\"Blow out forcefully into the mouthpiece to raise the indicator.\"",
-    "\"Take several quick, short breaths in through the mouthpiece.\"",
+    "\"Hold your breath for 3–5 seconds, then breathe out slowly.\"",
+    "\"Cough deeply two or three times to bring up any mucus.\"",
     "\"Breathe in slowly and deeply, keeping the indicator in range.\"",
-    "\"Hold your breath for 3–5 seconds before you start breathing in.\""
+    "\"Repeat this 10 times every hour while you are awake.\""
    ],
    "answer": 2,
    "optionRationales": [
-    "An incentive spirometer works on inhalation; blowing into it does not expand the lungs.",
-    "Quick, shallow breaths do not open collapsed alveoli.",
+    "Incorrect. The breath hold is a correct step, but it comes after the slow, deep inhalation, not before it.",
+    "Incorrect. Coughing is encouraged, but after the series of deep breaths has loosened secretions, not before the first inhalation.",
     "Correct. A slow, deep inhalation, followed by a 3–5 second hold, re-opens collapsed alveoli and improves ventilation of the bases.",
-    "The breath is held after the deep inhalation, not before it."
+    "Incorrect. Ten breaths every hour is the correct frequency, but the client has not yet taken the first breath; this is taught after the technique."
    ],
    "rationale": "Diminished basilar breath sounds and a drifting SpO₂ after surgery suggest atelectasis — collapsed alveoli that blood passes without picking up oxygen (a ventilation problem). Incentive spirometry fixes that mechanism: a slow, deep, sustained inhalation holds alveoli open long enough to re-inflate them, restoring gas exchange.",
    "takeaway": "Incentive spirometry = slow, deep breath IN, then hold 3–5 seconds.",
    "cjmm": "Take Action",
    "focus": "Client Teaching",
    "hintContent": "Connect postoperative atelectasis to the kind of breath that re-opens collapsed alveoli.",
-   "hintStrategy": "Picture the device: which direction of airflow moves the indicator, and what pace keeps it in range?"
+   "hintStrategy": "Picture the device: which direction of airflow moves the indicator, and what pace keeps it in range?",
+   "bestAnswer": true
   },
   {
    "id": "m15-025",
@@ -1918,24 +1927,25 @@
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "stem": "During endotracheal suctioning, the nurse notes that the client's heart rate drops from 92 to 50/min and SpO₂ falls from 94% to 85%. What should the nurse do first?",
    "options": [
-    "Finish this pass quickly, then hyperoxygenate before the next pass",
+    "Check the client's apical pulse and blood pressure",
     "Notify the provider and request a prescription for IV atropine",
     "Stop suctioning, remove the catheter, and oxygenate",
     "Lower the suction pressure to 80 mm Hg and continue the pass"
    ],
    "answer": 2,
    "optionRationales": [
-    "Reoxygenating between passes is correct technique, but continuing this pass prolongs the vagal stimulation and hypoxemia that are causing the bradycardia.",
-    "Atropine is not the first action; removing the cause usually reverses the bradycardia. The provider can be notified after the client is stabilized.",
+    "Incorrect. Reassessing vital signs is important, but the monitor already shows the problem; checking more delays stopping the vagal stimulation and hypoxemia causing it.",
+    "Incorrect. Atropine treats bradycardia, but removing the cause usually reverses it; the provider can be notified after the client is stabilized.",
     "Correct. Bradycardia and desaturation during suctioning come from vagal stimulation and hypoxemia; stopping and oxygenating removes the cause.",
-    "Lower pressure does not stop the catheter from stimulating the vagus nerve or removing oxygen; the pass must stop now."
+    "Incorrect. Lower pressure removes less oxygen, but the catheter still stimulates the vagus nerve; the pass must stop now."
    ],
    "rationale": "The nurse must recognize these changes as dangerous: in a hypoxic client, bradycardia is a late sign that the heart is running out of oxygen, not a benign change. Suctioning causes it through vagal stimulation and oxygen removal, so the immediate fix is to stop, withdraw the catheter, and oxygenate, then reassess before any further pass.",
    "takeaway": "Bradycardia or desaturation during suctioning → stop, remove the catheter, oxygenate.",
    "cjmm": "Take Action",
    "focus": "Prioritization",
    "hintContent": "Link what suctioning does to oxygen and the vagus nerve with what bradycardia means in a hypoxic client.",
-   "hintStrategy": "Remove the cause before adding a treatment."
+   "hintStrategy": "Remove the cause before adding a treatment.",
+   "bestAnswer": true
   },
   {
    "id": "m15-028",
@@ -1958,9 +1968,9 @@
    ],
    "answer": 3,
    "optionRationales": [
-    "Titrating oxygen for a falling SpO₂ requires RN assessment and judgment.",
-    "Evaluating a treatment's effect through auscultation is an RN assessment.",
-    "Initial teaching is an RN responsibility; UAP may remind a client who has already been taught.",
+    "Incorrect. Titrating oxygen for a falling SpO₂ requires RN assessment and judgment.",
+    "Incorrect. Evaluating a treatment's effect through auscultation is an RN assessment.",
+    "Incorrect. Initial teaching is an RN responsibility; UAP may remind a client who has already been taught.",
     "Correct. Positioning a stable client for meals is a routine task within UAP scope and supports lung expansion."
    ],
    "rationale": "Delegation depends on client stability and whether the task needs assessment, teaching, or judgment. Titrating oxygen, evaluating a medication by auscultation, and first-time teaching belong to the RN. Helping a stable client sit upright — which also helps the diaphragm drop and the lungs expand — is appropriate for UAP.",
@@ -1968,7 +1978,8 @@
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
    "hintContent": "Connect each task to whether it needs assessment, teaching, oxygen titration, or evaluation.",
-   "hintStrategy": "Choose the task that is routine, predictable, and involves a stable client."
+   "hintStrategy": "Choose the task that is routine, predictable, and involves a stable client.",
+   "bestAnswer": true
   },
   {
    "id": "m15-029",
@@ -1984,23 +1995,24 @@
    "stem": "A client with asthma has expiratory wheezes and chest tightness. Albuterol 2 puffs and fluticasone 2 puffs by metered-dose inhaler with a spacer are both due now. Which action should the nurse take first?",
    "options": [
     "Give 2 puffs of fluticasone, then the albuterol",
-    "Have the client rinse the mouth before any puff",
+    "Wait 1 minute between the two albuterol puffs",
     "Shake the albuterol and attach it to the spacer",
-    "Give one puff of each inhaler in a single breath"
+    "Have the client rinse and spit after fluticasone"
    ],
    "answer": 2,
    "optionRationales": [
-    "The steroid reaches deeper once the airway has been opened by the bronchodilator.",
-    "Rinsing is done after the corticosteroid to prevent thrush, not before the first puff.",
+    "Incorrect. Both drugs are needed, but the steroid reaches deeper once the bronchodilator has opened the airway, so albuterol goes first.",
+    "Incorrect. Waiting about 1 minute between puffs is correct technique, but it is a later step; the first puff has not been prepared yet.",
     "Correct. The bronchodilator goes first: shaking and attaching the albuterol to the spacer begins the dose that opens the narrowed airways.",
-    "Each puff is inhaled separately, waiting about 1 minute between puffs."
+    "Incorrect. Rinsing and spitting after the corticosteroid prevents thrush, but it is the last step, not the first."
    ],
    "rationale": "Asthma narrows the airways through bronchospasm and inflammation. Albuterol relaxes bronchiolar smooth muscle within minutes, opening the airways so the anti-inflammatory fluticasone can reach deeper. So the bronchodilator is given first, the steroid second, and the client rinses and spits afterward.",
    "takeaway": "Open, then protect, then rinse: bronchodilator → steroid → rinse and spit.",
    "cjmm": "Take Action",
    "focus": "Pharmacology",
    "hintContent": "Connect what each drug does to the asthmatic airway with the order that helps both work best.",
-   "hintStrategy": "Ask which drug changes the airway so the other can reach its target."
+   "hintStrategy": "Ask which drug changes the airway so the other can reach its target.",
+   "bestAnswer": true
   },
   {
    "id": "m15-030",
@@ -2015,24 +2027,25 @@
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
    "stem": "A client with asthma who uses a fluticasone inhaler twice daily reports a hoarse voice. The nurse inspects the mouth and finds white patches on the tongue that do not wipe off easily. Which instruction is most important for the nurse to reinforce?",
    "options": [
-    "\"Take the inhaler with a full meal to prevent stomach upset.\"",
+    "\"Brush your teeth and tongue gently every morning.\"",
     "\"Rinse your mouth with water and spit after each dose.\"",
     "\"Use the inhaler right away at the first sign of an attack.\"",
-    "\"Check your pulse for 1 full minute before every dose.\""
+    "\"Sip warm fluids and rest your voice when hoarse.\""
    ],
    "answer": 1,
    "optionRationales": [
-    "Taking it with food does not address steroid left in the mouth.",
+    "Incorrect. Good oral hygiene helps, but once a day does not remove the steroid left in the mouth after each dose.",
     "Correct. Hoarseness and white patches suggest oral candidiasis from corticosteroid residue. Rinsing and spitting after each dose (and using a spacer) removes the residue.",
-    "Fluticasone is a daily controller, not a rescue drug; it does not open airways within minutes.",
-    "Pulse checks relate to bronchodilator or theophylline effects, not inhaled corticosteroids."
+    "Incorrect. Prompt use of a rescue drug matters in an attack, but fluticasone is a daily controller and this does not address the thrush.",
+    "Incorrect. This may soothe the hoarseness, but it treats a symptom and does nothing to remove the steroid residue that caused the thrush."
    ],
    "rationale": "The nurse connects the assessment (hoarseness, white oral patches) to a local adverse effect of inhaled corticosteroids: steroid deposited in the mouth lowers local immunity and allows thrush. The fix is technique: rinse and spit after every dose and use a spacer with an MDI. The provider is also notified about the suspected thrush.",
    "takeaway": "Inhaled steroid → rinse and spit to prevent thrush and hoarseness.",
    "cjmm": "Generate Solutions",
    "focus": "Pharmacology",
    "hintContent": "Link the oral findings to where inhaled steroid ends up and what it does there.",
-   "hintStrategy": "Choose the instruction that directly prevents the cause of these findings."
+   "hintStrategy": "Choose the instruction that directly prevents the cause of these findings.",
+   "bestAnswer": true
   },
   {
    "id": "m15-031",
@@ -2046,23 +2059,24 @@
    "stem": "A client with chronic bronchitis takes oral theophylline. The client reports nausea, vomiting, and \"feeling jittery.\" HR is 122/min and irregular. The serum theophylline level is 26 mcg/mL. What should the nurse do first?",
    "options": [
     "Withhold the next dose and notify the provider",
-    "Give the prescribed ondansetron, then give the dose 1 hour later",
+    "Give the prescribed ondansetron for the nausea",
     "Hold the dose and recheck the level at the next routine draw",
-    "Give the dose with food to reduce the nausea"
+    "Obtain a 12-lead ECG for the irregular rhythm"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. GI upset, jitteriness, tachycardia with an irregular rhythm, and a level above the traditional 10–20 mcg/mL range indicate toxicity; the dose is held and the provider notified.",
-    "Treating the nausea masks an early sign of toxicity, and giving the dose later still adds more drug to a toxic level.",
-    "Holding the dose is right, but an irregular heart rhythm with a toxic level needs the provider now, not a routine recheck.",
-    "Food does not treat toxicity; the drug must be held."
+    "Incorrect. Relieving nausea is reasonable, but the nausea is a sign of toxicity; treating it does not stop more drug from being given or alert the provider.",
+    "Incorrect. Holding the dose is right, but an irregular heart rhythm with a toxic level needs the provider now, not a routine recheck.",
+    "Incorrect. An ECG may be ordered, but the cause is already clear; the nurse must first prevent the next dose and get the provider involved."
    ],
    "rationale": "Theophylline has a narrow therapeutic range. Toxicity progresses from nausea, vomiting, and restlessness to tachycardia and dysrhythmias, then seizures. With symptoms and a high level, the nurse withholds the next dose and notifies the provider.",
    "takeaway": "Theophylline toxicity: GI upset → tachycardia/dysrhythmias → seizures. Hold and report.",
    "cjmm": "Take Action",
    "focus": "Pharmacology",
    "hintContent": "Recall the therapeutic range and the order in which theophylline toxicity appears.",
-   "hintStrategy": "When a drug level and symptoms both suggest toxicity, stop the drug before anything else."
+   "hintStrategy": "When a drug level and symptoms both suggest toxicity, stop the drug before anything else.",
+   "bestAnswer": true
   },
   {
    "id": "m15-032",
@@ -2162,17 +2176,18 @@
    ],
    "answer": 1,
    "optionRationales": [
-    "The hypotension is caused by mechanical compression of the great vessels; fluids will not relieve it.",
+    "Incorrect. The hypotension is caused by mechanical compression of the great vessels; fluids will not relieve it.",
     "Correct. These findings indicate a tension pneumothorax, a life-threatening emergency that requires immediate decompression.",
-    "Lying flat worsens breathing and does not relieve the pressure in the chest.",
-    "Waiting for an x-ray delays life-saving treatment; the diagnosis is clinical."
+    "Incorrect. Lying flat worsens breathing and does not relieve the pressure in the chest.",
+    "Incorrect. Waiting for an x-ray delays life-saving treatment; the diagnosis is clinical."
    ],
    "rationale": "Assessment and physiology point to one conclusion. Trauma created a one-way valve; air entering the pleural space can't escape, the lung collapses (absent breath sounds), and rising pressure pushes the mediastinum toward the other side (tracheal shift) and kinks the great veins (JVD, hypotension, tachycardia). The cause is mechanical, so the priority is emergency decompression, not fluids, positioning, or imaging.",
    "takeaway": "Tracheal shift away + JVD + hypotension + absent breath sounds = tension pneumothorax — decompress now.",
    "cjmm": "Take Action",
    "focus": "Prioritization",
    "hintContent": "Connect each finding to what trapped pleural air does to the lung, the mediastinum, and venous return.",
-   "hintStrategy": "Identify the mechanical cause of the shock, then choose the action that removes it."
+   "hintStrategy": "Identify the mechanical cause of the shock, then choose the action that removes it.",
+   "bestAnswer": true
   },
   {
    "id": "m15-036",
@@ -2226,22 +2241,23 @@
    "options": [
     "Cover the site with a sterile occlusive dressing taped on three sides",
     "Apply a dry gauze dressing and wait at the bedside for the provider",
-    "Reinsert the chest tube into the site using sterile gloves and technique",
-    "Place the end of the dislodged tube in a bottle of sterile water"
+    "Notify the provider and request a STAT portable chest x-ray",
+    "Assess breath sounds and the SpO₂ for signs of a pneumothorax"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. An occlusive dressing taped on three sides blocks air from entering while letting trapped air escape.",
-    "Dry gauze is not airtight and allows air into the pleural space.",
-    "Only the provider inserts a chest tube; the nurse never reinserts it.",
-    "Submerging is used when the tube is still in the chest but disconnected from the unit."
+    "Incorrect. Covering the site is the right idea, but dry gauze is not airtight and lets air enter the pleural space.",
+    "Incorrect. The provider and a chest x-ray are needed, but only after the open site is covered; leaving it open lets air into the chest.",
+    "Incorrect. Monitoring for pneumothorax is essential, but it comes after the site is sealed; assessing first leaves the chest open to air."
    ],
    "rationale": "Out of the chest → cover it. A three-sided occlusive dressing acts like a flutter valve. The nurse then notifies the provider and monitors for signs of recurrent pneumothorax.",
    "takeaway": "Tube out of the chest → cover (three-sided occlusive). Out of the unit → submerge.",
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "hintContent": "Recall what an open chest wound does to pleural pressure and how a three-sided dressing works.",
-   "hintStrategy": "Decide where the break is — at the chest or at the unit — before choosing the action."
+   "hintStrategy": "Decide where the break is — at the chest or at the unit — before choosing the action.",
+   "bestAnswer": true
   },
   {
    "id": "m15-038",
@@ -2255,15 +2271,15 @@
    "stem": "A client's chest tube becomes disconnected from the drainage tubing when the client turns in bed. The tube remains in the chest. What should the nurse do first?",
    "options": [
     "Cover the insertion site with an occlusive dressing taped on all four sides",
-    "Ask the client to cough forcefully to push air out of the chest",
+    "Notify the provider and set up a new sterile drainage system",
     "Clamp the chest tube and leave it clamped until the provider arrives",
     "Submerge the end of the chest tube 2–3 cm in a bottle of sterile water"
    ],
    "answer": 3,
    "optionRationales": [
-    "The tube is still in the chest; a four-sided dressing could trap air and cause a tension pneumothorax.",
-    "Forceful coughing does not restore the water seal.",
-    "Prolonged clamping can trap air and lead to a tension pneumothorax.",
+    "Incorrect. An occlusive dressing is right when the tube comes out, but this tube is still in the chest; a four-sided dressing could trap air.",
+    "Incorrect. Both steps are needed, but they take time; the open tube must be placed under water first so air cannot enter the chest.",
+    "Incorrect. Clamping briefly can stop air entry, but prolonged clamping can trap air and lead to a tension pneumothorax.",
     "Correct. Submerging the tube end restores a one-way water seal until a new sterile system is connected."
    ],
    "rationale": "Out of the unit → submerge it. The sterile water acts as an emergency water seal so air can escape but not be drawn back into the chest. The nurse then connects a new sterile system and notifies the provider.",
@@ -2271,7 +2287,8 @@
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "hintContent": "Recall how the water seal works as a one-way valve.",
-   "hintStrategy": "Pick the action that restores the one-way valve fastest without trapping air."
+   "hintStrategy": "Pick the action that restores the one-way valve fastest without trapping air.",
+   "bestAnswer": true
   },
   {
    "id": "m15-040",
@@ -2327,24 +2344,25 @@
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "stem": "M.L., a 30-year-old with persistent asthma, comes to the pulmonology clinic reporting she is \"not getting enough air.\" She has recent bronchitis and takes prednisone 40 mg daily, fluticasone, and albuterol four times daily. She sits leaning forward with her hands on her knees, speaks only a few words at a time, RR 32/min, SpO₂ 91% on room air. Which assessment finding is most concerning?",
    "options": [
-    "Pale face with dark rings under the eyes",
+    "Wheezes heard throughout all lung fields",
     "Hoarse voice that she says occurs when very ill",
     "Decreased breath sounds on auscultation",
     "Blood pressure above her usual baseline"
    ],
    "answer": 2,
    "optionRationales": [
-    "Pallor and fatigue are concerning but do not show how much air is moving.",
-    "Hoarseness reflects airway irritation; it is a sign of severity but not the most dangerous finding.",
+    "Incorrect. Wheezing shows narrowed airways, but it also means air is still moving; it is less ominous than breath sounds that are fading.",
+    "Incorrect. Hoarseness can reflect airway irritation or inhaled steroid use, but it does not show how much air is reaching the lungs.",
     "Correct. In an asthma attack, quiet lungs can mean very little air is moving — severe obstruction that can progress to a silent chest and respiratory failure.",
-    "Elevated BP is common with distress and does not indicate airflow failure."
+    "Incorrect. BP can rise with distress or prednisone and should be rechecked, but it does not indicate failing airflow."
    ],
    "rationale": "Several cues show severe, poorly controlled asthma: a respiratory infection trigger, rescue inhaler use four times daily despite a controller and oral steroid, tripod position, and few-word speech. On auscultation, decreased breath sounds are the most worrisome because they mean airflow is failing, not improving. SpO₂ often falls late, so a value of 91% does not reassure the nurse.",
    "takeaway": "In acute asthma, decreased breath sounds are more alarming than wheezing.",
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
    "hintContent": "Combine the signs of severe distress, what her medication use says about control, and what breath sounds reveal about airflow.",
-   "hintStrategy": "Ask which finding most directly reflects how much air is moving through the lungs."
+   "hintStrategy": "Ask which finding most directly reflects how much air is moving through the lungs.",
+   "bestAnswer": true
   },
   {
    "id": "m15-042",
@@ -2366,9 +2384,9 @@
    ],
    "answer": 3,
    "optionRationales": [
-    "Advair is a long-term controller (LABA + inhaled corticosteroid), not a rescue medication.",
-    "A dry-powder inhaler is not shaken, and the client inhales quickly and deeply to pull out the powder.",
-    "Breathing out is done away from the device; exhaling into a dry-powder inhaler adds moisture that clumps the powder and can blow the dose out.",
+    "Incorrect. Advair is a long-term controller (LABA + inhaled corticosteroid), not a rescue medication.",
+    "Incorrect. A dry-powder inhaler is not shaken, and the client inhales quickly and deeply to pull out the powder.",
+    "Incorrect. Breathing out is done away from the device; exhaling into a dry-powder inhaler adds moisture that clumps the powder and can blow the dose out.",
     "Correct. Advair is a daily controller, and albuterol remains the rescue drug for sudden symptoms."
    ],
    "rationale": "Understanding Advair requires knowing both its role and its device. As a LABA plus inhaled corticosteroid it controls chronic inflammation and is taken every day, even when the client feels well; albuterol stays the rescue drug. As a dry-powder inhaler, it is not shaken, the client does not breathe out into it, and the dose is inhaled quickly and deeply.",
@@ -2441,10 +2459,10 @@
    ],
    "answer": 2,
    "optionRationales": [
-    "Cyanosis is a late sign; waiting for it delays care.",
-    "Partial relief with worsening symptoms, like her orthopnea that night, is a warning sign, not a reason to wait.",
+    "Incorrect. Cyanosis is a late sign; waiting for it delays care.",
+    "Incorrect. Partial relief with worsening symptoms, like her orthopnea that night, is a warning sign, not a reason to wait.",
     "Correct. A rescue inhaler that isn't working or difficulty speaking signals a severe attack that needs emergency care.",
-    "Advair is a controller; extra doses do not treat an acute attack."
+    "Incorrect. Advair is a controller; extra doses do not treat an acute attack."
    ],
    "rationale": "Her story shows how warning signs were missed: new orthopnea (needing 3 pillows) and repeated rescue use were signs of worsening asthma. Safe self-management combines recognizing those breathing-pattern changes with knowing the role of each drug: albuterol is the rescue drug, and when it isn't working or speaking is difficult, she needs emergency help now — not cyanosis first, and not extra controller doses.",
    "takeaway": "Rescue inhaler not working or can't talk easily → emergency care; don't wait for blue lips.",
@@ -2622,15 +2640,15 @@
    "stem": "During a clinic visit, a client with early COPD says, \"I know smoking is bad, but I'm not ready to quit right now.\" Which response by the nurse is most appropriate?",
    "options": [
     "\"Let's set your quit date for next week and start a nicotine patch today.\"",
-    "\"That's your choice, so I won't bring up smoking at future visits.\"",
-    "\"Why would you keep doing something that you know is harming your lungs?\"",
+    "\"Many people need several attempts before they quit for good.\"",
+    "\"Cutting down on how many you smoke is a good first step.\"",
     "\"Quitting is the best thing for your lungs; I'll help when you're ready.\""
    ],
    "answer": 3,
    "optionRationales": [
-    "Setting a quit date is the right step for a client who is ready, but this client just said they are not ready; pushing a plan ignores the client's choice.",
-    "This respects the choice but closes the door. The nurse should still give a clear message about quitting and offer help later.",
-    "'Why' questions sound judgmental and put the client on the defensive.",
+    "Incorrect. Setting a quit date is right for a client who is ready, but this client just said they are not ready; pushing a plan ignores the client's choice.",
+    "Incorrect. This is true and encouraging, but it does not give a clear message about quitting or offer help when the client is ready.",
+    "Incorrect. Cutting down shows some support, but it suggests reducing is enough and skips the clear advice to quit and the offer of help.",
     "Correct. This gives a clear message, respects the client's right to choose, and keeps the door open."
    ],
    "rationale": "The slides give two paths: if the client opts to continue smoking, respect the right to choose; if the client is interested in quitting, help develop a plan and refer. This client is not ready, so a quit date is premature, but the nurse still gives one clear, caring message about quitting and offers help whenever the client is ready.",
@@ -2638,7 +2656,8 @@
    "cjmm": "Take Action",
    "focus": "Client Teaching",
    "hintContent": "Recall the two paths on the slides for clients who are and aren't ready to quit.",
-   "hintStrategy": "Match the response to the readiness the client just stated, then check whether it still keeps the door open for later."
+   "hintStrategy": "Match the response to the readiness the client just stated, then check whether it still keeps the door open for later.",
+   "bestAnswer": true
   }
  ]
 }

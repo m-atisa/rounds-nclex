@@ -135,17 +135,17 @@
    "type": "mcq",
    "stem": "A client correctly explains warning symptoms but cannot perform the sequence for a home-care device. Which conclusion is most appropriate?",
    "options": [
-    "All learning domains are established by symptom explanation.",
+    "Psychomotor learning is incomplete, so repeat the demonstration now.",
     "Knowledge is demonstrated; physical skill still needs assessment.",
-    "Repeated warning-sign teaching will resolve device-performance barriers.",
-    "Affective commitment is established by correct symptom knowledge."
+    "A written step-by-step guide will resolve the device barrier.",
+    "The client may lack motivation and needs affective support first."
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Understanding warning signs does not prove physical skill.",
-    "Correct. The cognitive and psychomotor domains require separate evidence.",
-    "Incorrect. The remaining need is assessment and practice of the skill.",
-    "Incorrect. Knowledge of symptoms is not evidence of values or willingness."
+    "Incorrect. The skill is not yet learned, but repeating the demonstration before finding out why the client cannot perform it may not address a physical or sequencing barrier.",
+    "Correct. The client has met the cognitive objective but not the psychomotor one. The nurse should observe the skill and assess the barrier before choosing practice, adaptation, or feedback.",
+    "Incorrect. A written guide can support memory, but the client already knows the content; written material does not verify or build physical performance.",
+    "Incorrect. Affective barriers are possible, but nothing in the situation suggests low motivation; assuming it skips assessment of the actual performance problem."
    ],
    "rationale": "The cognitive domain concerns knowledge and reasoning, while the psychomotor domain concerns performance. Observe the skill, assess physical and sequencing barriers, and provide practice and feedback.",
    "takeaway": "Knowing and doing require separate evaluation.",
@@ -159,7 +159,8 @@
    "focus": "Client Teaching",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m41-u6-002",
@@ -167,17 +168,17 @@
    "type": "mcq",
    "stem": "An adult asks, “Why do I need to learn this new routine when I already manage one at home?” Which response should the nurse give first?",
    "options": [
-    "“Memorize the new sequence before comparing previous routines.”",
-    "“Your previous routine is irrelevant to standardized teaching.”",
+    "“This routine reflects current evidence and is safer for you.”",
+    "“Your provider chose this routine specifically for your condition.”",
     "“Let us compare routines and explain why steps changed.”",
-    "“Practice first; the reasons will become clear later.”"
+    "“Let us practice the new routine together, step by step.”"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. This delays establishing relevance and using experience.",
-    "Incorrect. Prior habits may reveal strengths or misconceptions.",
-    "Correct. Adult learning benefits from experience, relevance, and involvement.",
-    "Incorrect. The learner’s question about purpose should be addressed rather than postponed."
+    "Incorrect. The statement may be true, but it does not use the client’s experience or explain which steps changed, so the routine still lacks personal relevance.",
+    "Incorrect. Linking the routine to the provider is true, but it relies on authority rather than answering the client’s question about why the routine differs.",
+    "Correct. Adults learn best when teaching builds on prior experience and shows relevance. Comparing routines and explaining the changes answers the question and prepares the client for practice.",
+    "Incorrect. Practice is needed, but starting it before addressing the client’s question ignores the adult learner’s need to understand why the change matters."
    ],
    "rationale": "Adult learning is strengthened by relevance, self-direction, and prior experience. Explore the familiar routine, identify important differences, and explain their purpose before practice.",
    "takeaway": "Use experience and relevance to begin adult teaching.",
@@ -191,7 +192,8 @@
    "focus": "Client Teaching",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m41-u6-003",
@@ -260,7 +262,8 @@
    "focus": "Client Teaching",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m41-u6-005",
@@ -306,17 +309,17 @@
    "type": "mcq",
    "stem": "A client wants to learn wound care but is nauseated, exhausted, and in severe pain. Essential care is being provided by staff. What should the nurse do first before a prolonged teaching session?",
    "options": [
-    "Finish explanation now and practice if time permits.",
+    "Give a brief wound-care overview now while the client is interested.",
     "Treat symptoms and reassess a suitable teaching time.",
-    "Send materials to family and exclude the client.",
-    "Record understanding after agreement to receive written instructions."
+    "Teach the family caregiver while the client rests today.",
+    "Leave written wound-care steps for the client to review later."
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Symptoms impair readiness for a prolonged session.",
-    "Correct. The motivated learner needs comfort and capacity to engage.",
-    "Incorrect. Support may help, but the client should remain included according to needs and preferences.",
-    "Incorrect. Agreement to receive material is not evidence of learning."
+    "Incorrect. Using the client’s interest is reasonable, but severe pain, nausea, and exhaustion limit attention and retention, so even brief teaching now is unlikely to be learned.",
+    "Correct. The client is motivated but not ready. Relieving pain, nausea, and fatigue meets physiologic needs first, and teaching is scheduled when the client can participate.",
+    "Incorrect. Including family can help, but the client wants to learn and is the primary learner; teaching only the caregiver bypasses the client.",
+    "Incorrect. Written steps can reinforce teaching, but they do not address the symptoms blocking learning and do not replace teaching with verification."
    ],
    "rationale": "Motivation and readiness are different. The client is interested but symptoms limit learning. Address immediate comfort and plan manageable teaching when participation is possible, while maintaining necessary care.",
    "takeaway": "A motivated person may still be physiologically unready.",
@@ -330,7 +333,8 @@
    "focus": "Client Teaching",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m41-u6-007",
@@ -338,17 +342,17 @@
    "type": "mcq",
    "stem": "Which statement is the most observable teaching objective?",
    "options": [
-    "Recognize that device safety matters before leaving hospital.",
-    "Receive illustrated instructions and a video before discharge.",
+    "Understand why each device step matters before discharge.",
+    "Receive a device demonstration and a video before discharge.",
     "Demonstrate the device sequence without prompting before discharge.",
-    "Understand every device situation and remain fully confident."
+    "Feel confident using the device sequence before discharge."
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. This does not specify the observable evidence of recognition.",
-    "Incorrect. This records delivery rather than learning.",
-    "Correct. The learner’s action and evaluation point are clear.",
-    "Incorrect. This is broad, unmeasurable, and unrealistic."
+    "Incorrect. Understanding the steps is a worthy goal, but “understand” cannot be directly observed or measured, so it cannot guide evaluation.",
+    "Incorrect. A demonstration and video are good teaching methods, but receiving material describes the nurse’s activity, not what the learner will do.",
+    "Correct. The objective names an observable learner behavior (demonstrate), a condition (without prompting), and a time frame, so the nurse can evaluate it directly.",
+    "Incorrect. Confidence matters for adherence, but a feeling is internal and not directly observable, so it is a poor measure of learning."
    ],
    "rationale": "A learner-centered objective identifies what the person will do and when it will be evaluated. Receiving material is not evidence of learning, and broad claims of understanding cannot guide assessment.",
    "takeaway": "State the learner’s observable action and evaluation point.",
@@ -362,7 +366,8 @@
    "focus": "Client Teaching",
    "difficulty": 1,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m41-u6-008",
@@ -434,7 +439,8 @@
    "focus": "Client Teaching",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m41-u6-010",
@@ -442,17 +448,17 @@
    "type": "mcq",
    "stem": "After reteaching, a client can explain the steps but still cannot open the supplies because of hand weakness. Which conclusion best guides the plan?",
    "options": [
-    "Repeat the sequence until supply opening becomes possible.",
-    "Record independence because the client describes every step.",
-    "Provide more reading and defer performance until home.",
+    "Coach repeated practice opening supplies before discharge.",
+    "Teach hand-strengthening exercises to use over the next weeks.",
+    "Document that the verbal sequence objective has been met.",
     "Adapt equipment or arrange help, then verify performance."
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. The remaining barrier is hand strength rather than sequence knowledge.",
-    "Incorrect. Explanation does not establish physical task completion.",
-    "Incorrect. Essential functional needs should be addressed before the transition.",
-    "Correct. Then verify performance and feasibility using the revised method."
+    "Incorrect. Practice builds skill, but the barrier is physical weakness, not lack of practice, so more repetition will not make opening the supplies possible.",
+    "Incorrect. Strengthening may help over time, but it does not solve the task the client must perform at home right after discharge.",
+    "Incorrect. The verbal objective has been met, and documenting it is accurate, but the essential physical task is still impossible and must be addressed.",
+    "Correct. Knowledge is present but performance is blocked by hand weakness. Adapting equipment or arranging help and then verifying performance makes the plan workable at home."
    ],
    "rationale": "Knowledge and physical performance are separate. Assess appropriate adaptations or support and verify actual ability with the revised plan. Discharge teaching is incomplete if an essential task remains impossible.",
    "takeaway": "A functional barrier needs adaptation, not endless repetition.",
@@ -494,7 +500,8 @@
       }
      }
     ]
-   }
+   },
+   "bestAnswer": true
   },
   {
    "id": "m41-u6-011",
@@ -504,15 +511,15 @@
    "options": [
     "Review portal instructions and recheck access at follow-up.",
     "Provide an accessible method and verify essential learning.",
-    "Recommend public access without reviewing privacy or availability.",
-    "Give a shorter portal link covering the same content."
+    "Suggest using a library computer to view the portal after discharge.",
+    "Ask a family member to log in and print the materials."
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. More explanation does not provide an unavailable device or connection.",
-    "Correct. The essential plan must be usable before discharge.",
-    "Incorrect. This assumes access and safety rather than establishing a workable method.",
-    "Incorrect. The access barrier remains unchanged."
+    "Incorrect. Portal teaching is useful when access exists, but the client has no device or internet, so waiting until follow-up leaves essential learning unmet.",
+    "Correct. The resource must be usable. Providing an accessible format, such as printed or verbal teaching, and verifying essential learning closes the gap before discharge.",
+    "Incorrect. Public computers are a possible resource, but access may be limited, privacy is a concern, and this does not verify learning before discharge.",
+    "Incorrect. Family help may assist access, but printed materials alone do not confirm that the client understands the essential content."
    ],
    "rationale": "Digital tools require usable access. Provide an appropriate alternative, address language and sensory needs, and verify essential understanding or skill. Sending a link does not establish learning.",
    "takeaway": "An inaccessible resource is not a completed teaching plan.",
@@ -526,7 +533,8 @@
    "focus": "Client Teaching",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m41-u6-012",
@@ -534,17 +542,17 @@
    "type": "mcq",
    "stem": "A client brings an attractive website advertising a guaranteed cure and selling its own product without references. Which response is best?",
    "options": [
-    "“Professional design suggests the evidence is already checked.”",
-    "“Avoid online sources and use today’s printouts exclusively.”",
+    "“Government and hospital websites are more reliable sources.”",
+    "“Products sold on health websites often come with biased claims.”",
     "“Let us examine authorship, evidence, date, purpose, and relevance.”",
-    "“A current date is enough to use the advice.”"
+    "“Please ask your provider about this product before trying it.”"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Appearance does not establish expertise or supporting evidence.",
-    "Incorrect. A blanket dismissal does not teach appraisal or encourage disclosure.",
-    "Correct. Use several credibility checks and assess relevance to the actual plan.",
-    "Incorrect. Currency is only one part of credibility and applicability."
+    "Incorrect. This is generally true, but it does not help the client evaluate this specific site or build skills to judge future sources.",
+    "Incorrect. Commercial bias is a real concern, but naming one problem does not teach the client the full set of criteria for judging online information.",
+    "Correct. Reviewing the site together using appraisal criteria engages the client, exposes the guaranteed claims and sales motive, and builds skills for judging future sources.",
+    "Incorrect. Provider review before changing treatment is appropriate, but this response refers the question away instead of teaching the client how to appraise the information."
    ],
    "rationale": "Online appraisal includes expertise, evidence, currency, purpose, conflicts, and relevance. Guaranteed claims and sales pressure deserve scrutiny. Invite discussion and coordinate review before changing treatment.",
    "takeaway": "Judge evidence and purpose, not polish or promises.",
@@ -558,7 +566,8 @@
    "focus": "Client Teaching",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m41-u6-013",
@@ -605,16 +614,16 @@
    "stem": "A parent will perform a child’s home care. The parent watched the demonstration but has not practiced. Discharge is approaching. What should the nurse do first?",
    "options": [
     "Observe caregiver practice and assess home-care feasibility.",
-    "Provide another handout and record attendance at demonstration.",
-    "Verify the child’s explanation to establish caregiver competence.",
-    "Schedule reinforcement later and assume skill until then."
+    "Repeat the demonstration so the parent can watch once more.",
+    "Ask the parent to explain each step back to the nurse.",
+    "Arrange a home health visit to check the parent’s skill."
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. The actual caregiver must demonstrate the skill and have the resources to use it.",
-    "Incorrect. Materials and attendance do not establish performance.",
-    "Incorrect. The child’s knowledge does not verify the caregiver’s skill.",
-    "Incorrect. Essential unverified ability must be addressed and communicated before transition."
+    "Correct. Watching a demonstration does not prove ability. Observing the parent practice, giving feedback, and checking supplies and support at home verify readiness before discharge.",
+    "Incorrect. Another demonstration may help, but the parent has not practiced yet, and watching again still does not show that the parent can perform the care.",
+    "Incorrect. Teach-back checks understanding, but this is a physical skill, so the parent must perform it while the nurse observes.",
+    "Incorrect. Home health follow-up is useful, but checking the skill after discharge is too late when it can be verified before the child goes home."
    ],
    "rationale": "Caregiver willingness and observation are not proof of ability. Provide practice, evaluate performance, and address supplies and follow-up. Include the child developmentally while preparing the actual caregiver.",
    "takeaway": "Verify the person who will actually provide care.",
@@ -629,7 +638,8 @@
    "focus": "Client Teaching",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m41-u6-015",
@@ -637,17 +647,17 @@
    "type": "mcq",
    "stem": "An adolescent says a private conversation and a short video would help them learn a new routine. Which plan is most appropriate?",
    "options": [
-    "Prioritize the parent’s method and involve the adolescent later.",
-    "Promise complete secrecy before starting the education session.",
-    "Show the video privately and record complete learning.",
+    "Teach the parent and adolescent together using the preferred video.",
+    "Show the video privately, then ask the teen to explain it back.",
+    "Hold a private talk and give written steps in place of the video.",
     "Assess access, respect privacy, and verify learning through practice."
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. This overlooks the adolescent’s expressed learning preferences and participation.",
-    "Incorrect. Confidentiality limits must be explained accurately.",
-    "Incorrect. Viewing does not establish understanding or skill.",
-    "Correct. Respect appropriate privacy, discuss questions, and verify learning."
+    "Incorrect. Family involvement is often helpful, but teaching together ignores the adolescent’s stated wish for a private conversation.",
+    "Incorrect. This honors privacy and the preferred method, but it skips checking access to the video and verifies only recall, not practice of the routine.",
+    "Incorrect. A private talk respects the adolescent’s preference, but replacing the requested video ignores the learner’s preferred method without a reason.",
+    "Correct. The plan includes the adolescent as the learner, uses the preferred private and video methods when feasible, and verifies learning through practice."
    ],
    "rationale": "Adolescent teaching should include the learner, respect privacy within applicable rules, and use preferred methods when feasible. Digital engagement does not replace discussion, practice, and evaluation.",
    "takeaway": "A preferred digital method still needs access and learning verification.",
@@ -662,7 +672,8 @@
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m41-u6-016",
@@ -670,19 +681,19 @@
    "type": "mcq",
    "stem": "A client is practicing with a new walker. On the third attempt, the client advances the walker and then steps into it, as taught. Which statement by the nurse best applies behaviorist reinforcement?",
    "options": [
-    "“Great job! You are doing so much better today.”",
-    "“Let’s keep practicing until you stop making mistakes.”",
+    "“Great job today! You are getting so much better with that walker.”",
+    "“That was correct. Let us try it a few more times right now.”",
     "“You moved the walker first, then stepped in. That keeps you steady.”",
-    "“Now that you have it right, you won’t need any more practice sessions.”"
+    "“Remember to move the walker first before you step forward.”"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Vague praise is pleasant but does not tell the client which behavior to repeat.",
-    "Incorrect. This focuses on errors rather than reinforcing the correct action just performed.",
-    "Correct. Specific, immediate feedback names the desired behavior and its purpose, making it more likely to recur.",
-    "Incorrect. One success does not establish reliable skill; learning develops with repeated practice."
+    "Incorrect. Praise is supportive, but it is general and does not name the behavior to repeat, so it is weaker reinforcement.",
+    "Incorrect. Confirming the attempt and planning practice are appropriate, but the feedback does not say what was done correctly, so the client cannot link the praise to the behavior.",
+    "Correct. Specific, immediate feedback names exactly what the client did right and why it matters, which makes the behavior more likely to be repeated.",
+    "Incorrect. A reminder restates the rule, but it acts as a cue before the next try rather than reinforcing the correct behavior the client just performed."
    ],
-   "rationale": "Behaviorist approaches hold that a consequence following a behavior changes how likely it is to happen again. In teaching, the most useful reinforcement is specific and timely: it names exactly what the learner did correctly and why it matters. General praise feels supportive but gives the learner nothing concrete to repeat. Because learning develops over time, the nurse should still plan further practice after one correct attempt.",
+   "rationale": "Behaviorist approaches hold that a consequence following a behavior changes how likely it is to happen again. In teaching, the most useful reinforcement is specific and timely: it names exactly what the learner did correctly and why it matters. General praise or a simple “that was correct” feels supportive but gives the learner nothing concrete to repeat, and a reminder of the rule is a cue rather than reinforcement. Because learning develops over time, the nurse should still plan further practice after one correct attempt.",
    "takeaway": "Effective reinforcement names the exact correct behavior right after it happens.",
    "hintContent": "Reinforcement works best when the learner knows precisely which action earned it.",
    "hintStrategy": "Compare how specific each statement is about the client’s actual behavior.",
@@ -692,7 +703,8 @@
    "focus": "Nursing Interventions",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m41-u6-017",
@@ -724,7 +736,8 @@
    "focus": "Client Teaching",
    "difficulty": 3,
    "clientNeed": "Psychosocial Integrity",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m41-u6-018",
@@ -795,7 +808,8 @@
    "focus": "Client Teaching",
    "difficulty": 3,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m41-u6-020",
@@ -827,7 +841,8 @@
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m41-u6-021",
@@ -898,7 +913,8 @@
    "focus": "Nursing Interventions",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m41-u6-023",
@@ -907,16 +923,16 @@
    "stem": "A nurse is preparing to teach a client who speaks Vietnamese and limited English about new discharge medications. The client’s adult son, who is fluent in both languages, offers to interpret. What should the nurse do first?",
    "options": [
     "Accept the son’s offer because family can explain in familiar terms.",
-    "Use an English handout and speak slowly with simple gestures.",
-    "Teach in English and ask the client to nod after each instruction.",
+    "Give a Vietnamese medication handout and review it with the client.",
+    "Teach in simple English, then use teach-back to confirm learning.",
     "Arrange a qualified medical interpreter for the teaching session."
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Family members may omit, change, or add information and may not know medical terms.",
-    "Incorrect. Slower English does not provide language access for essential medication teaching.",
-    "Incorrect. A nod does not show understanding and may reflect politeness.",
-    "Correct. Qualified interpretation gives accurate language access; the son can still attend as support if the client wishes."
+    "Incorrect. Family can be a valuable support, but relatives may filter or misstate medical information and limit privacy, so they should not interpret essential teaching.",
+    "Incorrect. Translated materials are helpful supports, but literacy is unknown and a handout cannot replace an interactive session where the client can ask questions.",
+    "Incorrect. Plain language and teach-back are good practice, but limited English proficiency remains a barrier, so the client may not fully understand or ask questions.",
+    "Correct. A qualified medical interpreter provides accurate, private language access for essential medication teaching; the nurse can then use teach-back and include the son if the client agrees."
    ],
    "rationale": "Language access is a core part of readiness to learn. Essential medication teaching should use a qualified medical interpreter, because family members may filter, simplify, or misstate information and may not know medical terms. Using a family member can also limit the client’s privacy and willingness to ask questions. With the interpreter present, the nurse can use teach-back to confirm understanding, and the son can be included as a support person if the client agrees.",
    "takeaway": "Use qualified interpreters for teaching; family can support but should not replace them.",
@@ -930,7 +946,8 @@
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m41-u6-024",
@@ -962,7 +979,8 @@
    "focus": "Client Teaching",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m41-u6-025",
@@ -1032,7 +1050,8 @@
    "focus": "Client Teaching",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m41-u6-027",
@@ -1062,7 +1081,8 @@
    "focus": "Pharmacology",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m41-u6-028",
@@ -1133,7 +1153,8 @@
    "focus": "Prioritization",
    "difficulty": 3,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m41-u6-030",
@@ -1143,15 +1164,15 @@
    "options": [
     "Have the child put the mask on a toy first, using short, concrete words.",
     "Explain in detail how the medicine opens the airways in the lungs.",
-    "Teach only the parent while the child waits in the playroom.",
-    "Give the child a written checklist of the treatment steps to follow each time."
+    "Teach the parent in detail while the child plays nearby in the room.",
+    "Offer a sticker reward after each treatment to encourage cooperation."
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Play, demonstration with a familiar object, and concrete language fit a preschooler’s development.",
-    "Incorrect. Abstract physiology is beyond a preschooler’s understanding.",
-    "Incorrect. The caregiver needs teaching, but excluding the child misses a chance to build trust and cooperation.",
-    "Incorrect. A 4-year-old is not expected to follow a written checklist."
+    "Correct. Preschoolers learn through play and concrete words. Practicing on a toy reduces fear and builds cooperation before the mask is used on the child.",
+    "Incorrect. Explaining the purpose is reasonable for older children, but detailed physiology is too abstract for a 4-year-old to understand.",
+    "Incorrect. The parent does need teaching, but leaving the child out misses the chance to prepare the child and gain cooperation with treatments.",
+    "Incorrect. Rewards can encourage cooperation, but a sticker after treatment does not prepare or teach the child what will happen with the mask."
    ],
    "rationale": "Teaching is matched to developmental level, not just age. Preschoolers learn through play, concrete words, short explanations, and demonstration with a familiar object. Including the child supports trust and cooperation with the treatments. The parent who will give the treatments also needs separate explanation, practice, and evaluation.",
    "takeaway": "Preschoolers learn through play and concrete demonstration; include them while teaching the caregiver.",
@@ -1165,7 +1186,8 @@
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m41-u6-031",
@@ -1197,7 +1219,8 @@
    "focus": "Lifespan & Diversity",
    "difficulty": 3,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m41-u6-032",
@@ -1229,7 +1252,8 @@
    "focus": "Lifespan & Diversity",
    "difficulty": 3,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m41-u6-033",
@@ -1351,15 +1375,15 @@
    "options": [
     "The only trained helper, a neighbor, will be away for 2 weeks.",
     "The client asks for large-print copies of the written instructions.",
-    "The client prefers to have the dressing changed in the morning.",
-    "The client uses the patient portal to check upcoming appointments."
+    "The client tires by late afternoon and prefers morning dressing changes.",
+    "The client’s daughter calls daily but lives in another state."
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. The client cannot perform the task alone, and the only trained support will be unavailable, so the plan is not feasible.",
-    "Incorrect. This is a reasonable accommodation that can be provided easily.",
-    "Incorrect. A timing preference can be accommodated and does not threaten safety.",
-    "Incorrect. Portal use for appointments is a strength rather than a barrier."
+    "Correct. The client cannot do a two-handed dressing alone, and the only trained helper will be gone, so the discharge plan is not feasible and must be addressed first.",
+    "Incorrect. Large print supports learning and is a reasonable request, but it is easily provided and does not prevent the dressing from being done.",
+    "Incorrect. Fatigue can affect performance and is worth planning around, but scheduling changes in the morning easily accommodates it and does not threaten safety.",
+    "Incorrect. Distant family is a limited support, but the daughter was never the trained helper; the neighbor’s absence is what leaves no one able to do the dressing."
    ],
    "rationale": "A bedside skill depends on the home system that will support it. This client cannot perform a two-handed task alone, and the only person trained to help will be gone, so the discharge plan cannot be carried out safely. The nurse should address this gap first by coordinating with the team, for example to arrange home health, train another caregiver, or adapt the method. The other findings are preferences or strengths that are easily accommodated.",
    "takeaway": "Verify that the home support the plan depends on will actually be there.",
@@ -1373,7 +1397,8 @@
    "focus": "Prioritization",
    "difficulty": 3,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   }
  ]
 }

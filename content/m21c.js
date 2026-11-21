@@ -37,7 +37,8 @@ window.NURSE_DATA.push({
     "Incorrect. Poor intake and low albumin will slow healing and need a dietitian referral, but this is an ongoing problem, not an immediate one."
    ],
    "rationale": "Thin older skin tears easily when bumped, and a skin tear is an unintentional, open wound. Several findings need attention, but the actively bleeding skin tear is an actual, acute threat: it is losing blood and is open to infection. Senile purpura is expected with aging, and dry skin and poor nutrition are chronic problems to plan for after the wound is managed.",
-   "takeaway": "Actual, acute, bleeding wound first; expected aging changes and chronic problems next."
+   "takeaway": "Actual, acute, bleeding wound first; expected aging changes and chronic problems next.",
+   "bestAnswer": true
   },
   {
    "id": "m21c-002",
@@ -139,19 +140,20 @@ window.NURSE_DATA.push({
    "options": [
     "Keep daily showers but switch to a mild cleanser and pat the skin dry",
     "Shower every other day with lukewarm water and a mild cleanser, then moisturize",
-    "Keep her daily hot showers, which she enjoys, and apply a scented lotion at bedtime",
-    "Switch to a daily cool sponge bath with antibacterial soap to relieve the itching"
+    "Keep her daily showers and apply a fragrance-free moisturizer twice a day",
+    "Ask the provider for an anti-itch cream to apply to her lower legs daily"
    ],
    "answer": 1,
    "priority": true,
    "optionRationales": [
-    "Incorrect. A mild cleanser and patting dry help, but daily bathing still strips oil from skin that has fewer oil glands, and this plan leaves out moisturizing.",
+    "Incorrect. A mild cleanser and patting dry are helpful, but daily bathing still strips oils and the plan leaves out moisturizing right after the bath.",
     "Correct. Older adults have fewer sebaceous glands, so hot water, harsh soap, and daily bathing dry the skin. The slides recommend bathing every other day with lukewarm water and a mild cleanser, then moisturizing.",
-    "Incorrect. Respecting preferences matters, but hot water dries the skin and fragrance irritates it. Lotion hours later does not lock in moisture from the bath.",
-    "Incorrect. Cool water may soothe itching briefly, but daily bathing with antibacterial soap strips oils and worsens dryness."
+    "Incorrect. Moisturizing helps dry skin, but daily hot showers keep removing the oils faster than lotion can replace them, so the cause is not addressed.",
+    "Incorrect. An anti-itch cream may ease symptoms, but it does not correct the hygiene routine that is drying her skin, which the nurse can change now."
    ],
    "rationale": "Aging reduces sebaceous (oil) glands, so older skin is dry and itchy, and scratching can break the barrier. Hot water, deodorant soap, and daily bathing all strip the remaining oils. The slides recommend bathing older adults every other day with lukewarm water and a mild or liquid cleanser, patting dry, and moisturizing right after the bath.",
-   "takeaway": "Older adults: bathe every other day, lukewarm water, mild cleanser, moisturize."
+   "takeaway": "Older adults: bathe every other day, lukewarm water, mild cleanser, moisturize.",
+   "bestAnswer": true
   },
   {
    "id": "m21c-004",
@@ -223,7 +225,8 @@ window.NURSE_DATA.push({
     "Incorrect. Documentation is needed, but it comes after the client's immediate needs are met."
    ],
    "rationale": "The first-aid order for an untreated wound applies to a skin tear: control bleeding with pressure and elevation, then clean with saline, then cover. Because aging skin is thin and fragile, the nurse uses gentle pressure and chooses a nonadherent, tape-free dressing afterward.",
-   "takeaway": "Skin tear: gentle pressure and elevation first, then clean and cover without tape."
+   "takeaway": "Skin tear: gentle pressure and elevation first, then clean and cover without tape.",
+   "bestAnswer": true
   },
   {
    "id": "m21c-006",
@@ -405,7 +408,8 @@ window.NURSE_DATA.push({
     "Incorrect. A contusion needs ice and monitoring but is not the priority."
    ],
    "rationale": "After a wound with heavy bleeding, the nurse watches for shock: rapid, weak pulse; cool, clammy skin; low BP; and restlessness or confusion. These findings require immediate action (maintain pressure and elevation, lay flat, call for help, and anticipate IV fluids).",
-   "takeaway": "↑ HR, ↓ BP, and restlessness after a wound = shock until proven otherwise."
+   "takeaway": "↑ HR, ↓ BP, and restlessness after a wound = shock until proven otherwise.",
+   "bestAnswer": true
   },
   {
    "id": "m21c-010",
@@ -438,7 +442,8 @@ window.NURSE_DATA.push({
     "Correct. Older age (aging skin makes less vitamin D), darker skin (more melanin blocks UV), and little sun exposure combine, so this client has three risks at once."
    ],
    "rationale": "The skin makes vitamin D when UV light strikes it. Melanin absorbs UV, so darker skin makes less vitamin D for the same sun exposure. Aging skin also makes less, and homebound clients get little sun. The client who combines all three risks is at highest risk.",
-   "takeaway": "Older age + darker skin + little sun = highest risk for low vitamin D."
+   "takeaway": "Older age + darker skin + little sun = highest risk for low vitamin D.",
+   "bestAnswer": true
   },
   {
    "id": "m21c-011",
@@ -500,7 +505,8 @@ window.NURSE_DATA.push({
     "Incorrect. An unnoticed blister reflects loss of sensation."
    ],
    "rationale": "Each skin function fails in a recognizable way. The protection function fails as infection or fluid loss; the sensation function fails as unnoticed injury; temperature regulation fails as overheating or getting cold easily. In older adults, reduced subcutaneous fat and less responsive vessels make it hard to stay warm.",
-   "takeaway": "Older adult + little subcutaneous fat + always cold = impaired temperature regulation."
+   "takeaway": "Older adult + little subcutaneous fat + always cold = impaired temperature regulation.",
+   "bestAnswer": true
   },
   {
    "id": "m21c-014",
@@ -518,21 +524,22 @@ window.NURSE_DATA.push({
    "hintStrategy": "Link the medication in the stem to the skin layer it affects.",
    "stem": "A 67-year-old client with COPD has taken prednisone 20 mg PO daily for 2 years. The nurse notes thin, shiny skin on the forearms with several purple bruises and a healing skin tear. Which explanation for these findings is most accurate?",
    "options": [
-    "Chronic hypoxemia from COPD has reduced melanin production in the epidermis",
-    "Hypothyroidism has reduced sebum secretion from the oil glands of the skin",
+    "Normal aging has thinned the epidermis and reduced subcutaneous fat",
+    "Chronic hypoxemia from COPD has slowed healing of minor skin injuries",
     "Long-term steroid use has thinned the dermis and weakened its collagen",
-    "Excess vitamin C intake has made the blood vessels of the skin fragile"
+    "Prednisone has suppressed the immune response and delayed wound healing"
    ],
    "answer": 2,
    "priority": false,
    "optionRationales": [
-    "Incorrect. Melanin affects color and UV protection, not skin strength or bruising.",
-    "Incorrect. Nothing suggests hypothyroidism, and reduced sebum causes dry skin, not bruising.",
+    "Incorrect. Aging does thin the skin, but it does not explain this degree of thinning and bruising in a 67-year-old taking daily prednisone for 2 years.",
+    "Incorrect. Low oxygen can slow healing, but it does not cause thin, shiny skin and easy bruising, which point to weak dermal collagen.",
     "Correct. Steroids are among the medications that thin the skin. They weaken collagen in the dermis, so small vessels lose support and skin tears and bruises easily.",
-    "Incorrect. Vitamin C is needed to make collagen. It does not cause fragile vessels."
+    "Incorrect. Steroids do suppress immunity and slow healing, but that explains the slow skin tear, not the thin, shiny skin and bruising from weakened collagen."
    ],
    "rationale": "The dermis contains collagen and blood vessels. Long-term steroids, one of the medication classes that thin the skin, weaken collagen so vessels lose support, producing thin, shiny skin, easy bruising, and skin tears. The nurse handles the skin gently, lifts instead of dragging, pads surfaces, and avoids tape.",
-   "takeaway": "Long-term steroids thin the dermis: expect bruising and skin tears."
+   "takeaway": "Long-term steroids thin the dermis: expect bruising and skin tears.",
+   "bestAnswer": true
   },
   {
    "id": "m21c-015",
@@ -562,7 +569,8 @@ window.NURSE_DATA.push({
     "Correct. In dark skin, jaundice is confirmed in low-pigment areas such as the hard palate, palms, and soles, not the sclera alone."
    ],
    "rationale": "The outer sclera of darkly pigmented clients can look yellowish normally, so the nurse confirms jaundice in other low-pigment areas: the hard palate, palms, and soles.",
-   "takeaway": "Jaundice in dark skin: sclera plus hard palate, palms, and soles."
+   "takeaway": "Jaundice in dark skin: sclera plus hard palate, palms, and soles.",
+   "bestAnswer": true
   },
   {
    "id": "m21c-016",
@@ -594,7 +602,8 @@ window.NURSE_DATA.push({
     "Incorrect. Acne pustules are a common adolescent inflammatory disorder, not urgent."
    ],
    "rationale": "Most inflammatory skin disorders, such as psoriasis and acne, are chronic or uncomfortable but not dangerous. Wheals, a primary lesion of allergic reactions, become an emergency when paired with hoarseness, wheezing, or throat tightness, because the airway is involved. Airway comes first.",
-   "takeaway": "Hives + hoarseness = airway emergency; see that client first."
+   "takeaway": "Hives + hoarseness = airway emergency; see that client first.",
+   "bestAnswer": true
   },
   {
    "id": "m21c-017",
@@ -650,7 +659,7 @@ window.NURSE_DATA.push({
    "hintStrategy": "Eliminate options that describe a different test.",
    "stem": "A client with several sharply defined, milky-white patches on the hands and around the mouth is scheduled for a Wood lamp examination to evaluate for vitiligo. Which instruction should the nurse give before the examination?",
    "options": [
-    "“Do not eat or drink anything for 8 hours before the examination.”",
+    "“Avoid direct sun on the patches for 24 hours after the examination.”",
     "“Skip lotion, makeup, and creams on your hands and face that day.”",
     "“A small skin sample will be removed after a local anesthetic injection.”",
     "“The lamp will be pressed against your skin in a brightly lit room.”"
@@ -658,13 +667,14 @@ window.NURSE_DATA.push({
    "answer": 1,
    "priority": false,
    "optionRationales": [
-    "Incorrect. A Wood lamp exam is noninvasive and needs no fasting.",
-    "Correct. Lotions, makeup, and creams can glow under UV light and confuse the result.",
-    "Incorrect. That describes a biopsy, not a Wood lamp exam.",
-    "Incorrect. The exam uses a handheld UV light near the skin in a darkened room."
+    "Incorrect. Sun protection is good advice for skin that has lost pigment, but the Wood lamp gives only a brief, low dose of UV light, so no special restriction is needed afterward.",
+    "Correct. Lotions, makeup, and creams can glow under the UV light and give a false result, so the skin should be clean and product-free.",
+    "Incorrect. A biopsy can be used to study skin lesions, but a Wood lamp exam is noninvasive and painless, with no sample or injection.",
+    "Incorrect. A handheld lamp is correct, but it is held near the skin, not pressed on it, and the room is darkened so the glow can be seen."
    ],
    "rationale": "Loss of pigment (vitiligo) shows up clearly under the ultraviolet light of a Wood lamp, which is held near the skin in a darkened room. It is painless. Products on the skin can fluoresce and create false results, so the area should be clean and product-free.",
-   "takeaway": "Wood lamp: dark room, painless, no lotions or makeup on the area."
+   "takeaway": "Wood lamp: dark room, painless, no lotions or makeup on the area.",
+   "bestAnswer": true
   },
   {
    "id": "m21c-020",
@@ -694,7 +704,8 @@ window.NURSE_DATA.push({
     "Incorrect. Standard precautions alone are not enough for a contagious contact-spread infection."
    ],
    "rationale": "Impetigo is a contagious bacterial infection spread by direct contact. Gown and gloves (contact precautions) are used until 24 hours of effective antibiotic therapy.",
-   "takeaway": "Impetigo: contact precautions until 24 hours of treatment."
+   "takeaway": "Impetigo: contact precautions until 24 hours of treatment.",
+   "bestAnswer": true
   },
   {
    "id": "m21c-021",
@@ -765,7 +776,8 @@ window.NURSE_DATA.push({
     "Correct. New pus plus fever suggests a wound infection that may be spreading beyond the skin and needs prompt reporting."
    ],
    "rationale": "When comparing skin problems, separate chronic or localized conditions (psoriasis, tinea, a clean abrasion) from signs of a spreading infection. Purulent drainage marks an infected wound, and fever suggests the infection is becoming systemic, so this client needs immediate attention.",
-   "takeaway": "Pus + fever at a wound = possible spreading infection; act first."
+   "takeaway": "Pus + fever at a wound = possible spreading infection; act first.",
+   "bestAnswer": true
   },
   {
    "id": "m21c-023",
@@ -835,7 +847,8 @@ window.NURSE_DATA.push({
     "Incorrect. The gown stays on for the rest of the care under contact precautions."
    ],
    "rationale": "Infection prevention during wound care connects contact precautions with the general steps of a dressing change: remove the soiled dressing and discard it safely, remove gloves, perform hand hygiene, put on new gloves, cleanse from least to most contaminated, apply the new dressing, then remove gloves, perform hand hygiene, and document.",
-   "takeaway": "Soiled dressing off → hand hygiene and new gloves → cleanse → new dressing."
+   "takeaway": "Soiled dressing off → hand hygiene and new gloves → cleanse → new dressing.",
+   "bestAnswer": true
   },
   {
    "id": "m21c-025",
@@ -867,7 +880,8 @@ window.NURSE_DATA.push({
     "Incorrect. Tinea capitis in a healthy child needs treatment but is not the highest risk for a serious complication."
    ],
    "rationale": "Fungi are more dangerous in immunocompromised clients because a weak immune system cannot keep the infection on the surface. Chronic illness such as diabetes raises skin risk, but chemotherapy with a WBC of 1,900/mm³ means very poor infection defense and delayed healing, and a low WBC can also hide the usual signs of infection. This client needs the closest follow-up.",
-   "takeaway": "Fungal infection + chemotherapy or low WBC = highest risk; report it."
+   "takeaway": "Fungal infection + chemotherapy or low WBC = highest risk; report it.",
+   "bestAnswer": true
   },
   {
    "id": "m21c-026",
@@ -1030,21 +1044,22 @@ window.NURSE_DATA.push({
    "hintStrategy": "Look for the statement that is fully correct. Watch for 'more is better' reasoning.",
    "stem": "The nurse teaches a 17-year-old about starting benzoyl peroxide 5% gel for mild inflammatory acne. Which statement by the client indicates the teaching was effective?",
    "options": [
-    "“I'll scrub my face hard twice a day so the gel can soak in better.”",
+    "“I'll wash my face gently, then spread a thick layer over the pimples.”",
     "“The gel can bleach fabric, so I'll use white towels and pillowcases.”",
-    "“I'll apply a thick layer of gel to a pimple that shows up before a big event.”",
-    "“If my skin gets dry and flaky, the medicine isn't working for me.”"
+    "“I'll dab the gel only on pimples so it doesn't dry out my clear skin.”",
+    "“I should see my skin clear up within the first week of using it.”"
    ],
    "answer": 1,
    "priority": false,
    "optionRationales": [
-    "Incorrect. Scrubbing worsens irritation and inflammation.",
+    "Incorrect. Gentle washing is correct, but the gel should be a thin layer; a thick layer adds irritation and dryness without working better.",
     "Correct. Benzoyl peroxide bleaches fabric and hair, so white linens are recommended.",
-    "Incorrect. A thin layer is applied to the whole affected area, not thick spot treatment.",
-    "Incorrect. Mild dryness and peeling are expected at first and do not mean the drug has failed."
+    "Incorrect. Avoiding excess dryness is a reasonable goal, but the gel is applied thinly to the whole area to prevent new lesions, not just visible pimples.",
+    "Incorrect. Expecting improvement is reasonable, but benzoyl peroxide takes several weeks to work, and expecting results in a week may lead the teen to stop early."
    ],
    "rationale": "Acne forms when sebum and dead skin plug follicles and bacteria cause inflammation. Benzoyl peroxide, the first-line OTC treatment, kills bacteria and unplugs ducts. Teaching: wash gently, apply a thin layer to the whole area, expect some dryness, use white linens because it bleaches, and allow several weeks for improvement.",
-   "takeaway": "Benzoyl peroxide: thin layer, expect dryness, and it bleaches fabric."
+   "takeaway": "Benzoyl peroxide: thin layer, expect dryness, and it bleaches fabric.",
+   "bestAnswer": true
   },
   {
    "id": "m21c-032",
@@ -1076,7 +1091,8 @@ window.NURSE_DATA.push({
     "Incorrect. Pityriasis rosea starts with a herald patch followed by oval patches on the trunk."
    ],
    "rationale": "Childhood rashes are identified by pattern. Fifth disease is a mild viral illness: cold symptoms, then a bright red slapped-cheek rash, then a lacy rash on the arms and legs, with the child feeling well. Chickenpox (vesicles in crops), roseola (fever then rash), and pityriasis rosea (herald patch) have different patterns.",
-   "takeaway": "Slapped cheeks + lacy rash = fifth disease."
+   "takeaway": "Slapped cheeks + lacy rash = fifth disease.",
+   "bestAnswer": true
   },
   {
    "id": "m21c-033",
@@ -1094,21 +1110,22 @@ window.NURSE_DATA.push({
    "hintStrategy": "Choose the option that removes the cause. Reject options that add friction, fragrance, or trapped moisture.",
    "stem": "A 7-month-old has had frequent loose stools for 2 days. The nurse notes red, shiny, irritated skin on the buttocks and genitals where the diaper touches, with the deep skin folds spared. Which instruction should the nurse give the parent?",
    "options": [
-    "Clean the area at each change with scented baby wipes to remove all stool",
-    "Fasten the diaper snugly and cover it with plastic pants to prevent leaks",
+    "Change the diaper every 3 to 4 hours and apply a thick barrier cream",
+    "Clean gently with unscented wipes and use a snug diaper to prevent leaks",
     "Change the diaper as soon as it is wet or soiled and let the skin air-dry",
-    "Wash the area with soap and water at each change and rub it dry with a towel"
+    "Sprinkle cornstarch powder on the area at each change to keep it dry"
    ],
    "answer": 2,
    "priority": false,
    "optionRationales": [
-    "Incorrect. Fragrance in scented wipes can further irritate damaged skin. Gentle cleaning with fragrance-free products is preferred.",
-    "Incorrect. A tight diaper and plastic pants trap urine and stool against the skin and worsen irritation.",
+    "Incorrect. A barrier cream can help, but with frequent loose stools a 3- to 4-hour schedule leaves stool on the skin too long; changes must happen right away.",
+    "Incorrect. Unscented, gentle cleaning is helpful, but a snug diaper traps moisture and rubs the irritated skin, keeping the irritant in contact longer.",
     "Correct. This is irritant dermatitis from urine and stool. Prompt changes and air-drying remove the irritant and let the skin recover.",
-    "Incorrect. Soap at every change and rubbing further damage irritated skin. The area is cleaned gently and allowed to air-dry or patted dry."
+    "Incorrect. Keeping the skin dry is the right goal, but powder can be inhaled by the infant and cakes in moist areas; air-drying is safer."
    ],
    "rationale": "Diaper dermatitis is an irritant contact dermatitis: urine and stool directly damage the skin, especially with diarrhea, and infants have the strongest irritant response. Redness where the diaper touches, with folds spared, fits this pattern. Care removes the irritant: frequent changes, gentle cleaning, air drying, and a barrier cream if ordered.",
-   "takeaway": "Diaper rash = irritant dermatitis: change often, keep clean and dry."
+   "takeaway": "Diaper rash = irritant dermatitis: change often, keep clean and dry.",
+   "bestAnswer": true
   },
   {
    "id": "m21c-034",
@@ -1127,21 +1144,22 @@ window.NURSE_DATA.push({
    "hintStrategy": "Look for a response that is therapeutic and safe.",
    "stem": "A 16-year-old with dark brown skin has healing acne with dark spots where the pimples were. The teen says, “I hate how I look. I bought a strong skin-bleaching cream online, and I use it twice a day.” Which response by the nurse is best?",
    "options": [
-    "“Those dark spots are permanent, so the bleaching cream is the only thing that may help them fade.”",
-    "“Apply the cream only at night and in a thinner layer so it is less likely to irritate your skin.”",
-    "“Try covering the spots with makeup, since acne is just a normal part of being a teenager.”",
+    "“Lots of teens feel that way, and dark spots from acne usually fade slowly over time.”",
+    "“Those creams can damage skin, so please stop using it until your provider can look at it.”",
+    "“Tell me more about how the changes in your skin have been affecting how you feel.”",
     "“That sounds hard. Those creams can harm skin, so let's ask your provider about safer options.”"
    ],
    "answer": 3,
    "priority": false,
    "optionRationales": [
-    "Incorrect. Dark marks after acne are common in darker skin and often fade. Bleaching creams can harm the skin.",
-    "Incorrect. This endorses an unsafe product.",
-    "Incorrect. This dismisses the teen's feelings and does not address the harmful product.",
+    "Incorrect. Normalizing feelings and offering hope are supportive, but this response ignores the unsafe cream she is using twice a day.",
+    "Incorrect. Addressing the cream's risk is important, but this response skips her feelings about her appearance and offers no safer plan.",
+    "Incorrect. Exploring feelings is therapeutic, but she is using a harmful product twice a day, so the safety concern must be addressed now.",
     "Correct. This acknowledges the teen's feelings, explains the risk, and redirects to safe treatment."
    ],
    "rationale": "Darker skin is more prone to inflammation and often keeps dark marks after acne heals. Bleaching creams can irritate the skin or interact with medications, and darker skin may need a combination treatment plan chosen by a provider. For a teen, appearance is closely tied to self-esteem, so the nurse acknowledges feelings and redirects safely.",
-   "takeaway": "Acknowledge feelings, explain the risk, and refer for safe treatment."
+   "takeaway": "Acknowledge feelings, explain the risk, and refer for safe treatment.",
+   "bestAnswer": true
   },
   {
    "id": "m21c-035",

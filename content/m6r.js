@@ -59,22 +59,23 @@ window.NURSE_DATA.push({
    "focus": "Prioritization",
    "stem": "A client has been NPO for 4 days after bowel surgery and is receiving D5 ½ NS at 100 mL/hr with no additives. Serum potassium has trended 4.2 → 3.8 → 3.4 mEq/L over 3 days. Sodium is 138 mEq/L. Which action should the nurse take first?",
    "options": [
-    "Encourage the client to choose potassium-rich foods such as bananas and potatoes",
+    "Plan to teach potassium-rich foods to the client once the diet is advanced",
     "Recheck the potassium with tomorrow's routine labs before deciding what to do",
-    "Increase the IV rate so that more electrolytes are delivered to the bloodstream",
+    "Add potassium chloride to the hanging IV bag to replace the ongoing loss",
     "Report the downward potassium trend and the lack of potassium intake to the HCP"
    ],
    "answer": 3,
    "optionRationales": [
-    "The client is NPO, so food cannot be the source right now. Diet teaching is useful later, once eating resumes.",
-    "Waiting another day lets a falling level drop further. The cause, no potassium intake, is already clear and will not fix itself.",
-    "D5 ½ NS contains dextrose, sodium, and chloride but no potassium, so running it faster adds none. Changing the rate also needs an HCP order.",
-    "Correct. The body does not store potassium, so it must be taken in every day. This client has had none for 4 days, the level is now below 3.5 (hypokalemia), and it is still falling. The HCP needs this trend so potassium can be added to the plan."
+    "Incorrect. Diet teaching about potassium-rich foods is useful later, but the client is NPO now, so it does nothing to stop today's decline.",
+    "Incorrect. Rechecking the level is reasonable, but the 3-day downward trend is already clear and waiting another day lets the potassium keep falling.",
+    "Incorrect. Potassium replacement is likely needed, but it requires an HCP prescription, and potassium is never added to an IV bag that is already hanging.",
+    "Correct. The nurse links the falling trend to the NPO status and a potassium-free IV fluid and reports both to the HCP, who can order replacement. This addresses the cause now, within the nurse's scope."
    ],
-   "rationale": "Potassium is the main intracellular electrolyte and is needed for normal heart rhythm, nerve conduction, and muscle contraction. Unlike some nutrients, the body does not store it, so intake must continue every day. An NPO client on a fluid without added potassium has no source, which explains the steady decline. The nurse connects the trend, the IV fluid composition, and the NPO status, then reports to the HCP. Food is not an option and a faster rate of a potassium-free fluid will not help.",
+   "rationale": "Potassium is the main intracellular electrolyte and is needed for normal heart rhythm, nerve conduction, and muscle contraction. Unlike some nutrients, the body does not store it, so intake must continue every day. An NPO client on a fluid without added potassium has no source, which explains the steady decline. The nurse connects the trend, the IV fluid composition, and the NPO status, then reports to the HCP. Diet teaching must wait until the client can eat, waiting for tomorrow's labs delays care, and replacement requires a prescription.",
    "takeaway": "No potassium in, steady potassium losses out: the body does not store K⁺, so an NPO client needs it replaced.",
    "hintContent": "Think about whether the body stores potassium, what is in D5 ½ NS, and what NPO status means for intake.",
-   "hintStrategy": "Identify why the level is falling, then pick the action that gets that cause addressed. Rule out options the client cannot do or that do not change the cause."
+   "hintStrategy": "Identify why the level is falling, then pick the action that gets that cause addressed. Rule out options the client cannot do or that do not change the cause.",
+   "bestAnswer": true
   },
   {
    "id": "m6r-003",
@@ -138,9 +139,9 @@ window.NURSE_DATA.push({
    "answer": 0,
    "optionRationales": [
     "Correct. Potassium and phosphate are mainly intracellular. When chemotherapy destroys cells, their contents spill into the bloodstream, so serum levels rise even though intake has not changed.",
-    "0.9% sodium chloride contains only sodium and chloride. It adds no potassium or phosphate.",
-    "Water follows sodium, but sodium does not drag potassium and phosphate into the blood. The sodium level is also normal.",
-    "The diet has not changed, so a sudden rise from food is unlikely."
+    "Incorrect. 0.9% sodium chloride contains only sodium and chloride. It adds no potassium or phosphate.",
+    "Incorrect. Water follows sodium, but sodium does not drag potassium and phosphate into the blood. The sodium level is also normal.",
+    "Incorrect. The diet has not changed, so a sudden rise from food is unlikely."
    ],
    "rationale": "Potassium and phosphate are stored mainly inside cells. Cell injury or death from chemotherapy, trauma, or extreme illness releases them into the blood, so serum levels rise (hyperkalemia and hyperphosphatemia) because cells are breaking down, not because intake went up. The nurse rules out the other sources: normal saline contains no potassium or phosphate, and the diet is unchanged. Cancer and its treatment are listed risk factors for electrolyte disturbance.",
    "takeaway": "Cell breakdown spills intracellular K⁺ and phosphate into the blood, so labs can rise with no change in intake.",
@@ -162,22 +163,23 @@ window.NURSE_DATA.push({
    "focus": "Client Teaching",
    "stem": "A client newly prescribed furosemide asks, \"Can I just eat a few bananas on the weekend instead of every day?\" Which response by the nurse is accurate?",
    "options": [
-    "Potassium stays mostly in your bloodstream, so one large weekly amount is enough.",
+    "Weekend bananas can work if you eat enough to last the whole week.",
     "Your body doesn't store potassium, so you need some in your diet every day.",
-    "Bananas are the best source, so the amount matters more than the timing.",
-    "Furosemide helps you hold on to potassium, so weekend servings will be enough."
+    "That should be fine, since furosemide mostly removes sodium and water.",
+    "That is fine as long as your regular blood tests stay in the normal range."
    ],
    "answer": 1,
    "optionRationales": [
-    "Most potassium is inside the cells, not in the bloodstream, and the body does not store extra for later.",
-    "Correct. Potassium is not stored by the body and must be taken in daily. Furosemide also increases potassium loss, so steady daily intake matters even more.",
-    "Potatoes, leafy greens, beans, and avocados are also good sources. Timing matters because potassium is not stored.",
-    "Furosemide causes potassium loss. Spironolactone is the diuretic that spares potassium."
+    "Incorrect. Bananas are a good potassium source, but the body does not store potassium, so a large weekend intake cannot cover the rest of the week.",
+    "Correct. The body does not store potassium, so it needs a daily supply, especially while furosemide increases losses. This directly answers the client's question about timing.",
+    "Incorrect. Furosemide does remove sodium and water, but it also causes significant potassium loss, so daily potassium intake matters more, not less.",
+    "Incorrect. Regular blood tests are an important safety check, but potassium can fall between tests; normal results do not make weekend-only intake safe."
    ],
    "rationale": "Two facts answer this question. The body does not store potassium, so it needs a daily supply. Furosemide makes the kidneys lose potassium, which raises the daily need. A weekend-only plan leaves days with ongoing loss and no replacement. Teaching should include a variety of potassium-rich foods (bananas, potatoes, leafy greens, beans, avocados) eaten daily.",
    "takeaway": "K⁺ is not stored, so it must be eaten every day, especially with a potassium-wasting diuretic like furosemide.",
    "hintContent": "Recall whether the body stores potassium, where most of it is located, and what furosemide does to potassium.",
-   "hintStrategy": "Check each statement against those three facts. Any statement that gets one wrong is out."
+   "hintStrategy": "Check each statement against those three facts. Any statement that gets one wrong is out.",
+   "bestAnswer": true
   },
   {
    "id": "m6r-006",
@@ -235,22 +237,23 @@ window.NURSE_DATA.push({
    "focus": "Pathophysiology",
    "stem": "An 84-year-old client is admitted after several hot days at home drinking very little. Serum sodium is 149 mEq/L and serum osmolality is 306 mOsm/kg. The client's daughter asks, \"How can her sodium be high when she's barely eaten?\" Which response by the nurse is accurate?",
    "options": [
-    "Older adults absorb extra sodium from the small amount of food they eat, raising the level.",
-    "When she becomes thirsty, her body makes additional sodium to help it hold on to water.",
+    "Older kidneys hold on to extra salt, so her sodium builds up over time.",
+    "Sweating in the heat pulls sodium out of her cells and into her blood.",
     "Sodium is a concentration, so losing water without replacing it raises the level.",
-    "Her kidneys release sodium stored in her bones whenever she sweats in hot weather."
+    "Foods she did eat, like soup and bread, likely had a lot of hidden salt."
    ],
    "answer": 2,
    "optionRationales": [
-    "Aging does not increase sodium absorption, and she has eaten very little.",
-    "The body does not make sodium. It comes from the diet. Thirst drives water intake, not sodium production.",
-    "Correct. A sodium level depends on how much water is in the body as well as intake. With hot weather and poor intake, water is lost and not replaced, so the same sodium is dissolved in less water and the level rises (hypernatremia). The high osmolality confirms concentrated body fluids.",
-    "Sodium is not stored in and released from bone in response to sweating."
+    "Incorrect. Aging kidneys do change, but they are less able to conserve water and sodium, not more likely to retain salt. Water loss, not sodium gain, explains this level.",
+    "Incorrect. Sweating in heat is part of the cause, but sweat removes water and some sodium from the body; it does not move sodium from cells into the blood.",
+    "Correct. Serum sodium compares sodium with water. Water loss through heat and sweating without replacement concentrates the sodium, even when no extra sodium is eaten.",
+    "Incorrect. Hidden salt in foods can raise sodium intake, but she has barely eaten, and the high osmolality after hot days with little drinking points to water loss."
    ],
    "rationale": "A serum sodium is a concentration: the amount of sodium compared with the amount of water. It can rise because sodium was added or because water was lost. This client lost water through heat and sweating, took in very little, and as an older adult may have had a weak thirst signal. Both the sodium (above 145) and the serum osmolality (above 300) point to concentrated extracellular fluid.",
    "takeaway": "Your Na⁺ level depends on your water: lose water and the sodium concentration goes up.",
    "hintContent": "Recall what a serum sodium value represents, what normal serum osmolality is, and why older adults dehydrate easily.",
-   "hintStrategy": "Ask whether sodium went up or water went down. Then reject any option that describes something the body cannot do."
+   "hintStrategy": "Ask whether sodium went up or water went down. Then reject any option that describes something the body cannot do.",
+   "bestAnswer": true
   },
   {
    "id": "m6r-008",
@@ -314,15 +317,16 @@ window.NURSE_DATA.push({
    ],
    "answer": 3,
    "optionRationales": [
-    "Sodium of 134 is only slightly below 135, and D5W at a keep-vein-open rate adds very little free water. It needs monitoring but is not the most urgent.",
-    "Phosphate slightly above 4.5 is a known pattern in kidney disease. It needs monitoring but is not the most immediate concern.",
-    "Chloride slightly above 105 can occur with a chloride-containing infusion such as normal saline. It is a minor change.",
+    "Incorrect. Sodium of 134 is only slightly below 135, and D5W at a keep-vein-open rate adds very little free water. It needs monitoring but is not the most urgent.",
+    "Incorrect. Phosphate slightly above 4.5 is a known pattern in kidney disease. It needs monitoring but is not the most immediate concern.",
+    "Incorrect. Chloride slightly above 105 can occur with a chloride-containing infusion such as normal saline. It is a minor change.",
     "Correct. Potassium is the cardiac electrolyte that maintains normal heart rhythm. 2.9 is well below 3.5, and the furosemide due now will cause more potassium loss. This needs follow-up before the dose is given."
    ],
    "rationale": "To prioritize lab results, the nurse weighs how far the value is from normal, how important the electrolyte is, and whether something about to happen will make it worse. Potassium regulates cardiac rhythm, and this value is far below normal. A potassium-wasting diuretic is also due now. The other results are mildly abnormal and explained by the client's situation.",
    "takeaway": "Prioritize the electrolyte that matters most (K⁺ = heart), the value furthest from normal, and the trend that is about to get worse.",
    "hintContent": "Recall the normal ranges, which electrolyte maintains cardiac rhythm, and what furosemide does to potassium.",
-   "hintStrategy": "For each option, ask how abnormal the value is, how dangerous that electrolyte is, and whether the situation will push it further."
+   "hintStrategy": "For each option, ask how abnormal the value is, how dangerous that electrolyte is, and whether the situation will push it further.",
+   "bestAnswer": true
   },
   {
    "id": "m6r-010",
@@ -345,9 +349,9 @@ window.NURSE_DATA.push({
    "answer": 0,
    "optionRationales": [
     "Correct. Chloride is needed to produce hydrochloric acid (HCl) in the stomach, so removing gastric secretions removes chloride.",
-    "Bicarbonate is a base made by the body that buffers acid. It is not a part of stomach acid.",
-    "Phosphate is used for ATP production and bone formation. It is not a component of stomach acid.",
-    "Magnesium is an enzyme cofactor and nerve and muscle stabilizer. It is not a component of stomach acid."
+    "Incorrect. Bicarbonate is a base made by the body that buffers acid. It is not a part of stomach acid.",
+    "Incorrect. Phosphate is used for ATP production and bone formation. It is not a component of stomach acid.",
+    "Incorrect. Magnesium is an enzyme cofactor and nerve and muscle stabilizer. It is not a component of stomach acid."
    ],
    "rationale": "Chloride works with sodium to maintain osmotic pressure and is needed to make hydrochloric acid in the stomach. Drainage tubes are a listed source of abnormal fluid and electrolyte loss, and gastric suction removes HCl-rich secretions, so chloride is lost along with water and other electrolytes.",
    "takeaway": "Stomach acid is HCl, so losing gastric secretions means losing chloride.",
@@ -409,22 +413,23 @@ window.NURSE_DATA.push({
    "focus": "Pharmacology",
    "stem": "A client with metabolic acidosis has a new order for Lactated Ringer's (LR). The client asks how \"an IV of salt water\" can help with too much acid. Which explanation by the nurse is accurate?",
    "options": [
-    "LR is a colloid whose large molecules pull excess acid out of the blood into the urine.",
+    "LR is slightly alkaline, so it neutralizes the acid as soon as it infuses.",
     "LR contains lactate, which the body converts to bicarbonate, a buffer against acid.",
-    "LR contains no electrolytes, so it simply dilutes the acid until the levels normalize.",
-    "LR supplies extra chloride, which is the body's main buffer against excess acid."
+    "LR contains bicarbonate, which is delivered directly to buffer the acid.",
+    "LR adds fluid volume, which dilutes the acid that is in your bloodstream."
    ],
    "answer": 1,
    "optionRationales": [
-    "LR is a crystalloid with small particles, not a colloid. Colloids such as albumin pull fluid, not acid, into the vascular space.",
-    "Correct. LR contains sodium, potassium, calcium, and lactate. The lactate is converted to bicarbonate, which buffers acid and helps correct metabolic acidosis.",
-    "LR is a balanced electrolyte solution containing sodium, potassium, calcium, and lactate.",
-    "Chloride maintains osmotic pressure and forms stomach acid. Bicarbonate is the main buffer."
+    "Incorrect. Neutralizing acid is the right goal, but LR itself is slightly acidic (pH about 6.5); its benefit comes from what the body makes from its lactate.",
+    "Correct. The lactate in LR is converted by the body to bicarbonate, the main buffer that keeps blood pH stable. This is the reason LR helps correct metabolic acidosis.",
+    "Incorrect. Bicarbonate is the buffer that helps, but LR does not contain it; LR contains lactate, which the liver converts to bicarbonate.",
+    "Incorrect. LR does restore volume, but dilution does not correct acidosis; large volumes of plain saline can even worsen it. The buffer effect comes from lactate."
    ],
    "rationale": "Bicarbonate is the body's main buffer that keeps blood pH stable. It is produced by the body and regulated by the kidneys rather than obtained from the diet. Lactated Ringer's is an isotonic, balanced crystalloid whose lactate is converted to bicarbonate, which is why it helps correct metabolic acidosis.",
    "takeaway": "LR's lactate becomes bicarbonate, the buffer that counters acid.",
    "hintContent": "Connect what is in Lactated Ringer's with the role of bicarbonate in acid–base balance.",
-   "hintStrategy": "Identify which electrolyte acts as the buffer, then find the option that explains how LR supplies it."
+   "hintStrategy": "Identify which electrolyte acts as the buffer, then find the option that explains how LR supplies it.",
+   "bestAnswer": true
   },
   {
    "id": "m6r-013",
@@ -448,9 +453,9 @@ window.NURSE_DATA.push({
    ],
    "answer": 3,
    "optionRationales": [
-    "Reading labels on processed foods is an appropriate way to find hidden sodium.",
-    "This is accurate. Water follows sodium, so lowering sodium intake helps limit fluid retention.",
-    "Fresh vegetables are lower in sodium than canned ones, so this shows understanding.",
+    "Incorrect. Reading labels on processed foods is an appropriate way to find hidden sodium.",
+    "Incorrect. This is accurate. Water follows sodium, so lowering sodium intake helps limit fluid retention.",
+    "Incorrect. Fresh vegetables are lower in sodium than canned ones, so this shows understanding.",
     "Correct. This needs more teaching. Canned soups are among the highest-sodium foods even with no salt added at the table."
    ],
    "rationale": "Dietary sodium comes from table salt and also, in large amounts, from processed foods, soups, and canned foods. Because water follows sodium, a sodium restriction helps clients with heart failure avoid holding extra fluid. A client who believes canned soup is acceptable as long as the shaker stays away has missed the main point about hidden sodium.",
@@ -511,21 +516,22 @@ window.NURSE_DATA.push({
    "stem": "A client receiving furosemide has had two doses of oral potassium chloride over the past 24 hours, yet serum potassium remains 3.2 mEq/L. Today's results also show magnesium 1.1 mEq/L and total calcium 8.6 mg/dL. Which action should the nurse take first?",
    "options": [
     "Ask the client to add potassium-rich foods such as avocados and beans to each meal",
-    "Encourage the client to drink a glass of milk at each meal to raise the calcium level",
+    "Report the low calcium level and request an order for calcium replacement",
     "Notify the HCP of the low magnesium as a likely reason the potassium is not correcting",
     "Give another dose of potassium chloride if ordered and recheck the level in the morning"
    ],
    "answer": 2,
    "optionRationales": [
-    "Potassium-rich foods support long-term intake, but they will not fix potassium that is resisting replacement because of low magnesium.",
-    "Calcium is also low, but it will be hard to correct while magnesium is low. Dairy alone does not address the underlying problem.",
-    "Correct. Magnesium is below 1.5 (hypomagnesemia). When magnesium, potassium, and calcium are all low, magnesium is replaced first because low magnesium makes potassium and calcium hard to correct. The HCP needs this connection.",
-    "Repeating potassium without addressing magnesium is likely to fail again, and it delays the real fix."
+    "Incorrect. Potassium-rich foods support replacement, but more potassium will not correct while magnesium stays low, so this misses the underlying cause.",
+    "Incorrect. The calcium is slightly low and worth reporting, but calcium, like potassium, will resist correction until magnesium is replaced first.",
+    "Correct. Low magnesium keeps potassium and calcium from correcting. Reporting the magnesium as the likely cause lets the HCP replace magnesium first, as recommended when all three are low.",
+    "Incorrect. Giving ordered potassium is reasonable, but two doses have already failed, and repeating them without addressing magnesium is unlikely to work."
    ],
    "rationale": "Potassium that will not rise despite replacement is a cue to look at magnesium. Magnesium activates the sodium/potassium pump and supports normal electrolyte handling. When it is low, potassium and calcium resist correction. The slides' clinical hint applies here: if magnesium, potassium, and calcium are all low, replace magnesium first. This client has all three low, which the nurse should report together with that connection.",
    "takeaway": "If Mg²⁺, K⁺, and Ca²⁺ are all low, replace magnesium first, or the others will not correct.",
    "hintContent": "Recall the normal ranges for K⁺, Mg²⁺, and Ca²⁺, and the clinical hint about which electrolyte to replace first.",
-   "hintStrategy": "Ask why the potassium is not responding, then choose the action that addresses that reason rather than repeating what already failed."
+   "hintStrategy": "Ask why the potassium is not responding, then choose the action that addresses that reason rather than repeating what already failed.",
+   "bestAnswer": true
   },
   {
    "id": "m6r-016",
@@ -548,14 +554,15 @@ window.NURSE_DATA.push({
    "answer": 0,
    "optionRationales": [
     "Correct. Normal sodium is 135–145 mEq/L, so 141 is within range.",
-    "Normal potassium is 3.5–5.0 mEq/L. 5.4 is high (hyperkalemia).",
-    "Normal magnesium is 1.5–2.5 mEq/L. 2.8 is high (hypermagnesemia).",
-    "Normal total calcium is 9–11 mg/dL. 8.5 is low (hypocalcemia)."
+    "Incorrect. Normal potassium is 3.5–5.0 mEq/L. 5.4 is high (hyperkalemia).",
+    "Incorrect. Normal magnesium is 1.5–2.5 mEq/L. 2.8 is high (hypermagnesemia).",
+    "Incorrect. Normal total calcium is 9–11 mg/dL. 8.5 is low (hypocalcemia)."
    ],
    "rationale": "Knowing normal ranges is the starting point for interpreting any electrolyte result: sodium 135–145 mEq/L, potassium 3.5–5.0 mEq/L, magnesium 1.5–2.5 mEq/L, and total calcium 9–11 mg/dL. Only the sodium value falls inside its range.",
    "takeaway": "Na⁺ 135–145, K⁺ 3.5–5.0, Mg²⁺ 1.5–2.5, Ca²⁺ 9–11.",
    "hintContent": "Recall the normal range for each electrolyte listed.",
-   "hintStrategy": "Compare each value with its own range. Some are just outside the limit."
+   "hintStrategy": "Compare each value with its own range. Some are just outside the limit.",
+   "bestAnswer": true
   },
   {
    "id": "m6r-017",
@@ -579,15 +586,16 @@ window.NURSE_DATA.push({
    ],
    "answer": 3,
    "optionRationales": [
-    "The minimum for this client is 0.5 × 80 × 4 = 160 mL. 135 mL is below that, so it is not adequate.",
-    "Fluids may help, but waiting until the end of the shift delays reporting output that is already below the minimum.",
-    "Changing an IV rate requires an HCP order. The nurse reports the finding so the HCP can decide on treatment.",
+    "Incorrect. The minimum for this client is 0.5 × 80 × 4 = 160 mL. 135 mL is below that, so it is not adequate.",
+    "Incorrect. Fluids may help, but waiting until the end of the shift delays reporting output that is already below the minimum.",
+    "Incorrect. Changing an IV rate requires an HCP order. The nurse reports the finding so the HCP can decide on treatment.",
     "Correct. 135 mL over 4 hours is about 0.42 mL/kg/hr, below the required 0.5 mL/kg/hr. The bladder scan shows the urine is not being held in the bladder, so the kidneys are producing too little. The HCP needs to know."
    ],
    "rationale": "Urine output should be at least 0.5 mL/kg/hr. For an 80-kg client, that is 40 mL/hr, or 160 mL over 4 hours. This client made 135 mL. The bladder scan rules out urine being trapped in the bladder, so the low number reflects low production. Adequate urine output is needed to rid the body of wastes, so output below this minimum is reported promptly.",
    "takeaway": "Minimum urine output = 0.5 × weight in kg × hours. Below it with an empty bladder means report it.",
    "hintContent": "Apply the 0.5 mL/kg/hr formula to this client's weight and time period, and consider what the bladder scan rules out.",
-   "hintStrategy": "Do the math first. If output is below the minimum, choose the action that gets the finding to someone who can treat it, within nursing scope."
+   "hintStrategy": "Do the math first. If output is below the minimum, choose the action that gets the finding to someone who can treat it, within nursing scope.",
+   "bestAnswer": true
   },
   {
    "id": "m6r-018",
@@ -609,10 +617,10 @@ window.NURSE_DATA.push({
    ],
    "answer": 1,
    "optionRationales": [
-    "140 mL is the minimum for 4 hours, not 8 (0.5 × 70 × 4).",
+    "Incorrect. 140 mL is the minimum for 4 hours, not 8 (0.5 × 70 × 4).",
     "Correct. 0.5 mL × 70 kg = 35 mL/hr; 35 mL/hr × 8 hr = 280 mL.",
-    "400 mL is the low end of the obligatory urine output for an entire day, not an 8-hour minimum based on weight.",
-    "560 mL would be 1 mL/kg/hr. The adult formula uses 0.5 mL/kg/hr."
+    "Incorrect. 400 mL is the low end of the obligatory urine output for an entire day, not an 8-hour minimum based on weight.",
+    "Incorrect. 560 mL would be 1 mL/kg/hr. The adult formula uses 0.5 mL/kg/hr."
    ],
    "rationale": "The formula is 0.5 mL × body weight in kg × number of hours. For 70 kg over 8 hours: 0.5 × 70 = 35 mL/hr, and 35 × 8 = 280 mL. Each distractor comes from a common error: using the wrong number of hours, mixing up the daily obligatory output, or doubling the rate.",
    "takeaway": "0.5 × kg × hours: a 70-kg adult needs at least 35 mL/hr, or 280 mL per 8 hours.",
@@ -678,10 +686,10 @@ window.NURSE_DATA.push({
    ],
    "answer": 2,
    "optionRationales": [
-    "This misplaces the decimal. The weight changed by 1.7 kg, not 0.17 kg.",
-    "This divides the change by 2.2 as if converting pounds to kilograms. The weights are already in kilograms.",
+    "Incorrect. This misplaces the decimal. The weight changed by 1.7 kg, not 0.17 kg.",
+    "Incorrect. This divides the change by 2.2 as if converting pounds to kilograms. The weights are already in kilograms.",
     "Correct. 74.1 − 72.4 = 1.7 kg. Because 1 kg ≈ 1 L of fluid, the client has retained about 1.7 L.",
-    "This converts 1.7 kg to pounds (about 3.7 lb) and treats pounds as liters."
+    "Incorrect. This converts 1.7 kg to pounds (about 3.7 lb) and treats pounds as liters."
    ],
    "rationale": "A rapid change in daily weight reflects fluid, not body fat or muscle. Each kilogram gained or lost overnight is about 1 L of fluid. Weighing under the same conditions (same scale, same time, same clothing) makes the comparison valid. A 1.7-kg overnight gain means about 1.7 L of fluid retained.",
    "takeaway": "1 kg ≈ 1 L. A daily weight change in kilograms gives the fluid change in liters.",
@@ -711,15 +719,16 @@ window.NURSE_DATA.push({
    ],
    "answer": 1,
    "optionRationales": [
-    "Waiting a day ignores a significant gain combined with new lung findings that point to a complication now.",
+    "Incorrect. Waiting a day ignores a significant gain combined with new lung findings that point to a complication now.",
     "Correct. 4.4 lb ÷ 2.2 = 2 kg, which is about 2 L of retained fluid. Together with new crackles and a faster respiratory rate in an older adult receiving isotonic fluid, this suggests fluid overload. Slowing the infusion limits further fluid, and the HCP needs this information.",
-    "A fluid restriction requires an HCP order, and it does not address the IV fluid that is still running.",
-    "Coughing will not clear fluid that is building up from the infusion, and waiting an hour lets more fluid run in."
+    "Incorrect. A fluid restriction requires an HCP order, and it does not address the IV fluid that is still running.",
+    "Incorrect. Coughing will not clear fluid that is building up from the infusion, and waiting an hour lets more fluid run in."
    ],
    "rationale": "Isotonic fluids such as normal saline expand vascular and extracellular volume. Fluid overload is a known complication, especially in older adults, who have less renal reserve. The nurse converts the weight change (4.4 lb = 2 kg ≈ 2 L), links it to the new crackles and rising respiratory rate, and acts to stop more fluid from entering while getting the HCP involved.",
    "takeaway": "2.2 lb = 1 kg ≈ 1 L. A rapid gain plus new crackles during isotonic IV fluids is a complication of therapy to act on now.",
    "hintContent": "Convert pounds to kilograms to liters, and recall the main nursing consideration for isotonic fluids in older adults.",
-   "hintStrategy": "Decide whether the findings are expected or a complication. If it is a complication, choose the action that stops it from getting worse while bringing in the HCP."
+   "hintStrategy": "Decide whether the findings are expected or a complication. If it is a complication, choose the action that stops it from getting worse while bringing in the HCP.",
+   "bestAnswer": true
   },
   {
    "id": "m6r-022",
@@ -774,22 +783,23 @@ window.NURSE_DATA.push({
    "focus": "Assessment Findings",
    "stem": "A client has had a temperature of 39.4°C (103°F) and a respiratory rate of 30/min for the past 24 hours. The I&O record shows intake 2,400 mL and output 2,000 mL, yet the client's weight is 0.5 kg lower than yesterday on the same scale. Which explanation best accounts for this?",
    "options": [
-    "The positive I&O balance shows fluid retention, so the weight loss likely reflects lost muscle mass",
-    "The scale is likely inaccurate, since a positive I&O balance should produce a weight gain",
+    "Some urine or stool output was likely not recorded, so the output total is too low",
+    "The scale is likely inaccurate, since a positive I&O balance should produce a gain",
     "Unmeasured water loss through the skin and lungs increased with the fever and fast breathing",
-    "Intake was overstated, because IV fluids should not be counted on the intake record"
+    "The fever raised the metabolic rate, so the client is burning body fat for energy"
    ],
    "answer": 2,
    "optionRationales": [
-    "Muscle mass does not change by 0.5 kg in a day. A rapid weight change reflects fluid.",
-    "The I&O record leaves out insensible losses, so a positive I&O balance does not guarantee weight gain. The same-scale weight is reliable.",
-    "Correct. Insensible losses through the skin (evaporation) and lungs (water vapor) are not included in I&O totals. Fever increases skin losses, and fast, deep breathing increases lung losses, so actual output was greater than recorded.",
-    "IV fluids do count as intake. Removing them would not explain the gap, because the missing loss is fluid that I&O never measures."
+    "Incorrect. Missed output is a common I&O error, but the stem gives a clear physiologic cause: fever and tachypnea, which increase insensible losses.",
+    "Incorrect. Scale error is worth considering, but the same scale was used, and the weight change fits the expected rise in insensible loss.",
+    "Correct. I&O captures only sensible losses. Fever increases water loss through the skin and rapid breathing increases loss through the lungs, so the client lost fluid the record does not show.",
+    "Incorrect. Fever does raise metabolism, but a 0.5-kg change in one day reflects fluid, not fat. Rapid weight changes are fluid shifts."
    ],
    "rationale": "I&O records include only sensible (measurable) losses such as urine, stool, and drainage. Insensible losses through the skin and lungs still affect hydration. They rise with temperature and humidity (skin) and with respiratory rate and depth (lungs). This client's fever and tachypnea increased those hidden losses. The I&O record looks positive, but the daily weight shows the true change: about 0.5 L lost.",
    "takeaway": "I&O misses insensible losses. Fever and fast breathing increase them, and daily weight shows the real fluid change.",
    "hintContent": "Recall the difference between sensible and insensible losses, what increases insensible losses, and what daily weight reflects.",
-   "hintStrategy": "Ask what kind of fluid loss would not appear on the I&O record but would show on the scale, and look for cues in the vital signs."
+   "hintStrategy": "Ask what kind of fluid loss would not appear on the I&O record but would show on the scale, and look for cues in the vital signs.",
+   "bestAnswer": true
   },
   {
    "id": "m6r-024",
@@ -853,15 +863,16 @@ window.NURSE_DATA.push({
    ],
    "answer": 3,
    "optionRationales": [
-    "Minimum is 0.5 × 70 × 8 = 280 mL. 300 mL meets it.",
-    "A small weight loss is an expected effect of a diuretic.",
-    "A specific gravity of 1.028 is within the normal range (1.005–1.030). Somewhat concentrated urine is expected after an overnight fast.",
+    "Incorrect. Minimum is 0.5 × 70 × 8 = 280 mL. 300 mL meets it.",
+    "Incorrect. A small weight loss is an expected effect of a diuretic.",
+    "Incorrect. A specific gravity of 1.028 is within the normal range (1.005–1.030). Somewhat concentrated urine is expected after an overnight fast.",
     "Correct. Minimum is 0.5 × 80 = 40 mL/hr. 25 mL/hr for 3 hours is well below it and is a sustained pattern, not a single low reading."
    ],
    "rationale": "Prioritizing means separating expected findings from unexpected ones. Three of these findings are normal or expected for the situation. The 80-kg client is making only about 0.3 mL/kg/hr and has done so for 3 hours, far below the 0.5 mL/kg/hr minimum needed to clear wastes.",
    "takeaway": "Calculate before you prioritize. Persistent output below 0.5 mL/kg/hr outranks expected or in-range findings.",
    "hintContent": "Apply 0.5 mL/kg/hr to the urine outputs, recall the normal specific gravity range, and consider what a diuretic is expected to do.",
-   "hintStrategy": "Mark each client as expected or unexpected, then see the client whose finding is unexpected first."
+   "hintStrategy": "Mark each client as expected or unexpected, then see the client whose finding is unexpected first.",
+   "bestAnswer": true
   },
   {
    "id": "m6r-026",
@@ -879,21 +890,22 @@ window.NURSE_DATA.push({
    "stem": "A client admitted after 3 days of vomiting had a hematocrit above the normal range on admission. After 2 L of 0.9% sodium chloride, today's hematocrit is lower and within normal limits. There is no evidence of bleeding. Which interpretation is most accurate?",
    "options": [
     "Rehydration expanded plasma volume, so red cells are less concentrated",
-    "The client is most likely bleeding internally, which explains the drop in value",
-    "Normal saline breaks down red blood cells, so the drop reflects cell destruction",
-    "Hematocrit does not change with hydration, so the first value was a lab error"
+    "Frequent blood draws since admission have reduced the red cell mass",
+    "The normal value shows the client's fluid deficit is now fully corrected",
+    "The client is at risk for anemia, so the next hematocrit should be watched"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Hematocrit is the percentage of blood made up of red cells. Water loss concentrated the blood and raised it. Normal saline restored plasma volume and brought the percentage back down. Diluting the hematocrit is a known effect of isotonic fluids.",
-    "Bleeding can lower hematocrit, but there is no evidence of bleeding, and the drop is fully explained by rehydration.",
-    "Normal saline is isotonic and causes no major fluid shift into red cells, so it does not destroy them.",
-    "Hematocrit does change with fluid status. It rises when plasma water is lost and falls when fluid is replaced."
+    "Correct. Hematocrit is red cells compared with plasma. Isotonic saline expanded plasma volume, diluting the red cells, which fully explains the change after 2 L with no bleeding.",
+    "Incorrect. Blood draws can lower hematocrit over a long stay, but this change happened after 2 L of fluid and is best explained by dilution.",
+    "Incorrect. The drop does show rehydration, but one normal hematocrit cannot confirm the deficit is fully corrected; other findings such as output and vital signs are needed.",
+    "Incorrect. Ongoing monitoring is reasonable, but this does not interpret the change. The drop reflects dilution, not a new risk of anemia."
    ],
    "rationale": "Hematocrit reflects red cells compared with plasma, so it changes with fluid volume. When the body loses water, the same red cells sit in less plasma and the hematocrit rises. When isotonic fluid such as normal saline expands vascular volume, the hematocrit falls. That dilution is a listed nursing consideration for isotonic fluids. Here, the change matches rehydration.",
    "takeaway": "Hematocrit rises when the blood is concentrated and falls when it is diluted, for example by isotonic IV fluids.",
    "hintContent": "Recall what hematocrit measures and what isotonic fluids do to vascular volume and hematocrit.",
-   "hintStrategy": "Ask whether the red cells changed or the plasma around them changed, then use the stem's cues to rule out the alternatives."
+   "hintStrategy": "Ask whether the red cells changed or the plasma around them changed, then use the stem's cues to rule out the alternatives.",
+   "bestAnswer": true
   },
   {
    "id": "m6r-027",
@@ -1001,10 +1013,10 @@ window.NURSE_DATA.push({
    ],
    "answer": 2,
    "optionRationales": [
-    "This leaves out the four 30-mL water flushes (120 mL), which count as intake.",
-    "This leaves out the two 50-mL IV antibiotic doses (100 mL), which count as intake.",
+    "Incorrect. This leaves out the four 30-mL water flushes (120 mL), which count as intake.",
+    "Incorrect. This leaves out the two 50-mL IV antibiotic doses (100 mL), which count as intake.",
     "Correct. Feeding 400 mL (50 × 8) + flushes 120 mL (30 × 4) + IV 600 mL (75 × 8) + antibiotics 100 mL = 1,220 mL.",
-    "This adds the output (650 + 150 + 40 = 840 mL) to the intake. Output is recorded separately."
+    "Incorrect. This adds the output (650 + 150 + 40 = 840 mL) to the intake. Output is recorded separately."
    ],
    "rationale": "Intake includes every fluid that enters the body: oral fluids, tube feedings, flushes, IV fluids, and IV medications. Output (urine, emesis, drainage) is totaled separately: 840 mL here. Leaving out small volumes such as flushes or IV medications is a common error that makes the I&O balance inaccurate.",
    "takeaway": "Count all intake (feedings, flushes, IV fluids, IV meds) and keep output in its own column.",
@@ -1032,9 +1044,9 @@ window.NURSE_DATA.push({
    "answer": 0,
    "optionRationales": [
     "Correct. Drainage includes the irrigation solution plus urine. 2,650 − 2,000 = 650 mL of true urine.",
-    "This subtracts the urine from the irrigant (2,000 − 650) instead of finding the urine itself.",
-    "This counts the irrigation solution as urine and overstates the output by 2,000 mL.",
-    "This adds the irrigation volume to the drainage instead of subtracting it."
+    "Incorrect. This subtracts the urine from the irrigant (2,000 − 650) instead of finding the urine itself.",
+    "Incorrect. This counts the irrigation solution as urine and overstates the output by 2,000 mL.",
+    "Incorrect. This adds the irrigation volume to the drainage instead of subtracting it."
    ],
    "rationale": "Irrigation fluids must be accounted for on the I&O record. When irrigation solution flows into the bladder and drains out with the urine, the drainage bag holds both. To find the kidneys' actual output, subtract the irrigant volume from the total drainage. Recording the full drainage as urine would hide a low urine output.",
    "takeaway": "True urine output = total drainage − irrigation solution instilled.",
@@ -1063,15 +1075,16 @@ window.NURSE_DATA.push({
    ],
    "answer": 1,
    "optionRationales": [
-    "A specific gravity of 1.028 is within normal limits (1.005–1.030) and expected after fasting.",
+    "Incorrect. A specific gravity of 1.028 is within normal limits (1.005–1.030) and expected after fasting.",
     "Correct. The body must excrete 400–600 mL of urine a day just to clear wastes (obligatory loss). 350 mL is below even that, and far below this client's weight-based minimum of 816 mL (0.5 × 68 × 24).",
-    "Serum osmolality of 296 is within normal limits (280–300).",
-    "Urine osmolality of 750 is within normal limits (200–800). Concentrated urine after exercise in the heat is expected."
+    "Incorrect. Serum osmolality of 296 is within normal limits (280–300).",
+    "Incorrect. Urine osmolality of 750 is within normal limits (200–800). Concentrated urine after exercise in the heat is expected."
    ],
    "rationale": "Three of these values are within their normal ranges and fit the situation. The 24-hour urine total is below the obligatory output of 400–600 mL per day, the minimum the kidneys must excrete to clear wastes, and well below the weight-based minimum. Wastes will build up, so the HCP needs to know immediately.",
    "takeaway": "Obligatory output is 400–600 mL/day. Less than that means wastes are building up, so report it now.",
    "hintContent": "Recall the normal ranges for specific gravity, serum osmolality, and urine osmolality, plus obligatory urine output and the 0.5 mL/kg/hr formula.",
-   "hintStrategy": "Check each value against its normal range. The one outside its range, with no expected explanation, is reported first."
+   "hintStrategy": "Check each value against its normal range. The one outside its range, with no expected explanation, is reported first.",
+   "bestAnswer": true
   },
   {
    "id": "m6r-031",
@@ -1095,15 +1108,16 @@ window.NURSE_DATA.push({
    ],
    "answer": 3,
    "optionRationales": [
-    "The two weights were taken under different conditions, so the 2.3-kg difference may reflect clothing, food, and scale differences rather than fluid. Reporting it as fluid retention would pass on inaccurate data.",
-    "Using an inaccurate weight as a new baseline would make every future comparison unreliable.",
-    "A fluid restriction requires an HCP order and is not justified by a weight that may be inaccurate.",
+    "Incorrect. The two weights were taken under different conditions, so the 2.3-kg difference may reflect clothing, food, and scale differences rather than fluid. Reporting it as fluid retention would pass on inaccurate data.",
+    "Incorrect. Using an inaccurate weight as a new baseline would make every future comparison unreliable.",
+    "Incorrect. A fluid restriction requires an HCP order and is not justified by a weight that may be inaccurate.",
     "Correct. A weight is only meaningful when compared under the same conditions. Getting a comparable weight comes before interpreting or reporting the change."
    ],
    "rationale": "Daily weights detect fluid change (1 kg ≈ 1 L) only when the scale, time, and clothing stay the same. Here, three conditions changed: scale, clothing and shoes, and timing after a meal. Before acting on a 2.3-kg difference, the nurse obtains a weight under comparable conditions, then reinforces the correct procedure with the AP.",
    "takeaway": "Verify the weight was taken under the same conditions before you interpret or report a change.",
    "hintContent": "Recall the conditions that make daily weights accurate and the 1 kg ≈ 1 L relationship.",
-   "hintStrategy": "Ask whether the data are trustworthy before deciding what they mean. Fix the measurement before acting on it."
+   "hintStrategy": "Ask whether the data are trustworthy before deciding what they mean. Fix the measurement before acting on it.",
+   "bestAnswer": true
   },
   {
    "id": "m6r-032",
@@ -1165,15 +1179,16 @@ window.NURSE_DATA.push({
    ],
    "answer": 2,
    "optionRationales": [
-    "A banana is a good food source, but it will not offset the potassium the furosemide dose is about to remove from an already low level.",
-    "Giving the dose now will lower the potassium further, and waiting until tomorrow delays correction.",
+    "Incorrect. A banana is a good food source, but it will not offset the potassium the furosemide dose is about to remove from an already low level.",
+    "Incorrect. Giving the dose now will lower the potassium further, and waiting until tomorrow delays correction.",
     "Correct. Furosemide causes potassium loss. With potassium already below 3.5 (hypokalemia), the nurse holds the dose and contacts the HCP for direction.",
-    "Choosing a different medication is outside nursing scope. Only the HCP can change the prescription."
+    "Incorrect. Choosing a different medication is outside nursing scope. Only the HCP can change the prescription."
    ],
    "rationale": "Before giving a potassium-wasting diuretic such as furosemide or hydrochlorothiazide, the nurse checks the potassium level. Potassium is the cardiac electrolyte, and this value is already low. Giving the dose would make it worse. The safe action is to withhold the dose and contact the HCP, who may add potassium replacement or change the plan. Substituting a potassium-sparing drug is a prescribing decision.",
    "takeaway": "Furosemide and HCTZ waste K⁺. Check the level first, and hold and report if it is low.",
    "hintContent": "Recall the effect of furosemide on potassium, the normal potassium range, and the limits of nursing scope with medications.",
-   "hintStrategy": "Ask what the drug will do to the current lab value, then pick the action that prevents harm within nursing scope."
+   "hintStrategy": "Ask what the drug will do to the current lab value, then pick the action that prevents harm within nursing scope.",
+   "bestAnswer": true
   },
   {
    "id": "m6r-034",
@@ -1237,9 +1252,9 @@ window.NURSE_DATA.push({
    "answer": 0,
    "optionRationales": [
     "Correct. Hydrochlorothiazide causes potassium loss, and spironolactone spares potassium. Used together, the potassium effects tend to balance.",
-    "This reverses the two drugs. Hydrochlorothiazide causes potassium loss, and spironolactone spares it.",
-    "Only spironolactone spares potassium, and potassium still needs monitoring with any diuretic.",
-    "Only hydrochlorothiazide causes potassium loss. Spironolactone spares potassium."
+    "Incorrect. This reverses the two drugs. Hydrochlorothiazide causes potassium loss, and spironolactone spares it.",
+    "Incorrect. Only spironolactone spares potassium, and potassium still needs monitoring with any diuretic.",
+    "Incorrect. Only hydrochlorothiazide causes potassium loss. Spironolactone spares potassium."
    ],
    "rationale": "Diuretics differ in their effect on potassium. Furosemide and hydrochlorothiazide cause the kidneys to lose potassium, and spironolactone spares potassium. Pairing a potassium-wasting diuretic with a potassium-sparing one lets the client lose fluid while the potassium effects partly cancel out. Potassium still needs regular monitoring.",
    "takeaway": "Furosemide and HCTZ lose K⁺; spironolactone spares K⁺.",
@@ -1262,22 +1277,23 @@ window.NURSE_DATA.push({
    "focus": "Prioritization",
    "stem": "The nurse in an urgent care clinic is triaging four clients. Which client should the nurse see first?",
    "options": [
-    "A 30-year-old with a cold who reports drinking about 2 L of fluid so far today",
+    "A 75-year-old with a cold and low-grade fever who is drinking fluids well",
     "A 4-month-old with vomiting and diarrhea for 8 hours and one wet diaper today",
     "A 70-year-old taking hydrochlorothiazide whose potassium today is 3.8 mEq/L",
-    "A 45-year-old with mild diarrhea who is drinking well and voiding normally"
+    "A 6-year-old who vomited twice this morning and now keeps down sips of juice"
    ],
    "answer": 1,
    "optionRationales": [
-    "This client is drinking well and has no sign of fluid loss.",
+    "Incorrect. Older adults are at higher fluid risk because of decreased thirst, but this client is drinking well and shows no sign of fluid deficit.",
     "Correct. Infants have a high percentage of body water, a large surface area, immature kidneys, and cannot communicate thirst, so fluid balance changes quickly. Ongoing losses with only one wet diaper suggest low output.",
-    "A potassium of 3.8 is within normal limits (3.5–5.0). It needs routine monitoring because of the diuretic but is not urgent.",
-    "This adult is keeping up with losses and producing urine normally."
+    "Incorrect. Thiazides can lower potassium, so monitoring is reasonable, but 3.8 mEq/L is within normal limits (3.5–5.0) and is not urgent.",
+    "Incorrect. Vomiting in a child does cause fluid loss, but the vomiting has stopped and the child is now tolerating fluids, unlike the infant with ongoing losses."
    ],
-   "rationale": "Age changes fluid risk. Infants (about 75% body water) lose fluid quickly because of a large body and lung surface area, immature kidneys with little reserve, and dependence on caregivers for intake. An infant with ongoing vomiting and diarrhea and reduced wet diapers is at the highest risk here. The adults are compensating, and the older adult's potassium is normal.",
+   "rationale": "Age changes fluid risk. Infants (about 75% body water) lose fluid quickly because of a large body and lung surface area, immature kidneys with little reserve, and dependence on caregivers for intake. An infant with ongoing vomiting and diarrhea and reduced wet diapers is at the highest risk here. The older adult and the child are keeping up with intake, and the potassium of 3.8 mEq/L is normal.",
    "takeaway": "Infants lose fluid fast. Ongoing losses with few wet diapers move an infant to the front of the line.",
    "hintContent": "Recall why infants are at higher risk for fluid loss and how output is assessed in infants.",
-   "hintStrategy": "Ask which client has active losses, the least reserve, and evidence of low output."
+   "hintStrategy": "Ask which client has active losses, the least reserve, and evidence of low output.",
+   "bestAnswer": true
   },
   {
    "id": "m6r-037",
@@ -1296,21 +1312,22 @@ window.NURSE_DATA.push({
    "stem": "An 88-year-old resident of a long-term care facility says, \"I'm just not thirsty, so I don't drink much.\" Which intervention is most important for the nurse to include in the plan of care?",
    "options": [
     "Provide fluids whenever the resident reports feeling thirsty",
-    "Offer a large glass of water at bedtime to meet daily needs",
-    "Add salty snacks between meals to stimulate the sense of thirst",
+    "Keep a full water pitcher within reach at the bedside",
+    "Record intake and output each shift to track hydration",
     "Offer fluids the resident enjoys on a regular schedule all day"
    ],
    "answer": 3,
    "optionRationales": [
-    "Older adults have a decreased thirst sensation and can become dehydrated without feeling thirsty, so waiting for thirst is unsafe.",
-    "One large bedtime drink cannot meet a day's needs and may cause nighttime voiding and falls.",
-    "Extra sodium does not fix a weak thirst response, and water follows sodium, which can cause fluid problems.",
-    "Correct. Because thirst is unreliable in older adults, offering preferred fluids on a schedule keeps intake steady without depending on thirst."
+    "Incorrect. Responding to thirst is reasonable for most adults, but this resident has a decreased thirst sense and will not ask often enough.",
+    "Incorrect. Keeping fluids within reach is helpful, but it still depends on the resident choosing to drink without feeling thirsty.",
+    "Incorrect. Tracking I&O is useful for monitoring, but it only measures intake; it does not increase how much the resident drinks.",
+    "Correct. Scheduled offerings of preferred fluids provide intake that does not depend on thirst, which directly addresses the resident's decreased thirst sense."
    ],
    "rationale": "Older adults (about 45–50% body water) have less muscle mass, reduced renal reserve, and a decreased sense of thirst. They may become dehydrated without feeling thirsty. The plan needs to provide intake that does not depend on thirst, so regular, scheduled offerings of preferred fluids work best.",
    "takeaway": "Older adults may not feel thirsty. Schedule fluids instead of waiting for thirst.",
    "hintContent": "Recall the age-related changes that put older adults at risk for dehydration.",
-   "hintStrategy": "Eliminate options that rely on thirst or that put the day's intake in one large amount."
+   "hintStrategy": "Eliminate options that rely on thirst or that put the day's intake in one large amount.",
+   "bestAnswer": true
   },
   {
    "id": "m6r-038",
@@ -1370,19 +1387,20 @@ window.NURSE_DATA.push({
     "Reassure the client that this is an expected steroid effect and continue to monitor",
     "Hold the next prednisone dose until the swelling in the ankles has resolved",
     "Report the 1.5-kg weight gain and the new ankle swelling to the HCP",
-    "Encourage extra fluids to help the kidneys flush out the retained sodium"
+    "Elevate the client's ankles and reassess the swelling in 4 hours"
    ],
    "answer": 2,
    "optionRationales": [
-    "Steroids commonly cause sodium and water retention, but a 1.5-L gain with new edema is significant and needs to be reported, not just watched.",
-    "Holding a steroid is a prescribing decision. The nurse should not stop it without an HCP order.",
-    "Correct. Corticosteroids cause sodium and water retention. A 1.5-kg gain is about 1.5 L of fluid, and new edema confirms it. The HCP needs this information to adjust the plan.",
-    "Water follows sodium. Adding fluid to a client who is retaining sodium and water adds to the excess."
+    "Incorrect. Fluid retention is an expected steroid effect, but a 1.5-kg gain with new edema still needs to be reported, not only monitored.",
+    "Incorrect. Concern about the drug is reasonable, but holding prednisone is a prescriber decision, and stopping it suddenly can be unsafe.",
+    "Correct. The nurse links the steroid to sodium and water retention, recognizes about 1.5 L of retained fluid with new edema, and reports so the HCP can adjust the plan.",
+    "Incorrect. Elevating the legs is a helpful comfort measure for edema, but it does not address the fluid gain and delays reporting it."
    ],
    "rationale": "Corticosteroids are a listed medication risk factor because they cause sodium and water retention. Water follows sodium, so retained sodium means retained fluid. The nurse links the drug to the 1.5-kg (about 1.5-L) gain and new edema, then reports. Calling an effect \"expected\" does not mean it needs no action.",
    "takeaway": "Steroids retain Na⁺ and water. A rapid weight gain (1 kg ≈ 1 L) with edema should be reported.",
    "hintContent": "Recall the effect of corticosteroids on sodium and water, the 1 kg ≈ 1 L rule, and the role of edema in fluid assessment.",
-   "hintStrategy": "Name what the drug is doing, judge whether the amount is significant, and choose the in-scope action that gets the HCP involved."
+   "hintStrategy": "Name what the drug is doing, judge whether the amount is significant, and choose the in-scope action that gets the HCP involved.",
+   "bestAnswer": true
   },
   {
    "id": "m6r-040",
@@ -1400,21 +1418,22 @@ window.NURSE_DATA.push({
    "stem": "A client with chronic kidney disease has a serum magnesium of 2.9 mEq/L. The client's prescribed medications have not changed. Which question should the nurse ask first?",
    "options": [
     "Which over-the-counter antacids or laxatives do you take, and how often?",
-    "How many servings of bananas, potatoes, or avocados do you eat each day?",
-    "How much table salt do you usually add to your food at each of your meals?",
-    "How many glasses of milk or other dairy products do you have each day?"
+    "How often do you eat nuts, whole grains, or dark leafy green vegetables?",
+    "How much urine do you usually pass in a day while you are at home?",
+    "How much water and other fluids do you usually drink in a typical day?"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Magnesium is 2.9, above 2.5 (hypermagnesemia). Many antacids and some laxatives are magnesium-based, and self-medicating with them is a common hidden source, especially when the kidneys cannot excrete the excess.",
-    "These are potassium sources. They would be relevant to a potassium problem, not a high magnesium.",
-    "Table salt is a sodium source and does not explain a high magnesium.",
-    "Dairy is a main source of phosphate and calcium. It is not the most likely explanation for a high magnesium."
+    "Correct. Many antacids and laxatives contain magnesium, clients often do not count them as medications, and failing kidneys cannot clear the extra. This question targets the most likely hidden source.",
+    "Incorrect. These foods do contain magnesium, but diet alone rarely raises magnesium this much; OTC antacids and laxatives are the more likely source.",
+    "Incorrect. Urine output matters in kidney disease, but the reduced clearance is already known; this does not identify where the extra magnesium is coming from.",
+    "Incorrect. Fluid intake is part of a CKD assessment, but it does not identify a source of magnesium, which is what the high level calls for."
    ],
    "rationale": "Antacids are magnesium-, bicarbonate-, or calcium-based, and laxatives are listed medication risk factors. Clients often do not think of over-the-counter products as medications. Because the kidneys control most electrolyte output, a client with kidney disease cannot clear extra magnesium well. The first question looks for the most likely hidden source.",
    "takeaway": "Ask about OTC antacids and laxatives. Many contain magnesium, calcium, or bicarbonate.",
    "hintContent": "Recall what antacids are based on, which medications affect electrolyte balance, and the role of the kidneys in output.",
-   "hintStrategy": "Match each question to the electrolyte it would explain, and pick the one that matches magnesium and a likely hidden source."
+   "hintStrategy": "Match each question to the electrolyte it would explain, and pick the one that matches magnesium and a likely hidden source.",
+   "bestAnswer": true
   },
   {
    "id": "m6r-041",
@@ -1478,10 +1497,10 @@ window.NURSE_DATA.push({
    ],
    "answer": 1,
    "optionRationales": [
-    "Accurate. Fever increases insensible losses through the skin and lungs, so intake should increase.",
+    "Incorrect. Accurate. Fever increases insensible losses through the skin and lungs, so intake should increase.",
     "Correct. This needs more teaching. Laxatives are a listed medication risk factor, and routine use causes fluid and electrolyte loss through the stool.",
-    "Accurate. Ongoing vomiting with no fluid intake is a significant loss that the provider needs to know about.",
-    "Accurate. Balance occurs when intake roughly equals output."
+    "Incorrect. Accurate. Ongoing vomiting with no fluid intake is a significant loss that the provider needs to know about.",
+    "Incorrect. Accurate. Balance occurs when intake roughly equals output."
    ],
    "rationale": "Prevention teaching centers on keeping intake equal to output and recognizing situations that increase losses, such as fever, vomiting, and diarrhea. Medications such as laxatives, diuretics, antacids, and corticosteroids can also disrupt balance. Daily laxative use for \"cleansing\" causes ongoing GI losses of fluid and electrolytes.",
    "takeaway": "Intake should equal output. Routine laxative use is a preventable cause of fluid and electrolyte loss.",
@@ -1548,15 +1567,16 @@ window.NURSE_DATA.push({
    ],
    "answer": 3,
    "optionRationales": [
-    "Weight trends are important in burn care but are compared daily, not minute by minute during the start of an infusion.",
-    "Hourly urine output is a key ongoing assessment but takes time to reflect the infusion. It is not the immediate concern in the first minutes.",
-    "Reviewing electrolytes is part of ongoing monitoring but does not detect the most immediate, life-threatening risk of this infusion.",
+    "Incorrect. Weight trends are important in burn care but are compared daily, not minute by minute during the start of an infusion.",
+    "Incorrect. Hourly urine output is a key ongoing assessment but takes time to reflect the infusion. It is not the immediate concern in the first minutes.",
+    "Incorrect. Reviewing electrolytes is part of ongoing monitoring but does not detect the most immediate, life-threatening risk of this infusion.",
     "Correct. Dextran 40 is an artificial colloid, and the main nursing consideration for colloids is the risk of anaphylaxis, which can develop within minutes of starting the infusion."
    ],
    "rationale": "Colloids, including albumin and the artificial colloid dextran 40, contain large molecules that stay in the vascular space and pull fluid in, which is why they are used in burns and shock. The key nursing consideration is the risk of anaphylaxis. Because a reaction can happen early and threatens the airway, close observation in the first minutes comes before ongoing fluid-balance assessments.",
    "takeaway": "Colloids such as dextran carry a risk of anaphylaxis. Watch closely when the infusion starts.",
    "hintContent": "Recall the type of solution dextran 40 is and its main nursing consideration.",
-   "hintStrategy": "Ask which complication could appear within minutes and threaten life. Ongoing trend assessments can come after."
+   "hintStrategy": "Ask which complication could appear within minutes and threaten life. Ongoing trend assessments can come after.",
+   "bestAnswer": true
   },
   {
    "id": "m6r-045",

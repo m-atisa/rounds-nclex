@@ -68,7 +68,8 @@ window.NURSE_DATA.push({
       }
      }
     ]
-   }
+   },
+   "bestAnswer": true
   },
   {
    "id": "m10-x1-002",
@@ -100,7 +101,8 @@ window.NURSE_DATA.push({
    "cjmm": "Recognize Cues",
    "focus": "Prioritization",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m10-x1-003",
@@ -111,15 +113,15 @@ window.NURSE_DATA.push({
    "stem": "A 30-year-old construction worker stepped on a rusty nail 2 days ago. The puncture on the sole is red, warm, and slightly swollen, and it hurts to walk. T 37.1 °C (98.8 °F). Which action should the nurse take first?",
    "options": [
     "Request a prescription for oral antibiotics to treat the redness",
-    "Apply a heating pad to the sole to draw out any infection",
-    "Advise strict bed rest with the foot elevated for 2 weeks",
+    "Teach the client the signs of infection to report right away",
+    "Elevate the foot and apply a cold pack to reduce the swelling",
     "Ask the date of the client's most recent tetanus immunization"
    ],
    "optionRationales": [
-    "Incorrect. Contained redness and warmth with a normal temperature are expected local inflammation, not proof of infection.",
-    "Incorrect. Heat increases blood flow and swelling in a fresh injury and does not draw out germs.",
-    "Incorrect. Prolonged bed rest is not needed for a contained puncture and adds its own risks.",
-    "Correct. A puncture from a dirty object is a tetanus-prone wound, so confirming protection addresses the most important risk while the local signs are expected."
+    "Incorrect. Antibiotics are reasonable if infection develops, but contained redness and warmth with a normal temperature are expected inflammation, not proof of infection.",
+    "Incorrect. Teaching what to report is appropriate, but it does not address the most serious risk of a dirty puncture, which is tetanus.",
+    "Incorrect. Cold and elevation can ease swelling and pain, but comfort measures are lower priority than preventing tetanus.",
+    "Correct. A puncture from a dirty object is a tetanus-prone wound, so confirming protection addresses the most serious risk; teaching and comfort measures come after."
    ],
    "rationale": "This puncture shows a normal, contained inflammatory response: the body is neutralizing what entered the wound, clearing damaged tissue, and starting repair. Because the cause was a dirty, rusty object, the nurse's first concern is tetanus protection. Requesting antibiotics is the tempting answer, but red and warm does not equal infected; antibiotics are considered only if signs of infection, such as spreading redness, pus, or fever, appear. The nurse also keeps the site clean and teaches the client what to report.",
    "takeaway": "Expected local inflammation after a dirty puncture calls for a tetanus check and teaching, not automatic antibiotics.",
@@ -130,7 +132,8 @@ window.NURSE_DATA.push({
    "cjmm": "Generate Solutions",
    "focus": "Nursing Interventions",
    "difficulty": 2,
-   "clientNeed": "Health Promotion and Maintenance"
+   "clientNeed": "Health Promotion and Maintenance",
+   "bestAnswer": true
   },
   {
    "id": "m10-x1-004",
@@ -160,7 +163,8 @@ window.NURSE_DATA.push({
    "cjmm": "Analyze Cues",
    "focus": "Assessment Findings",
    "difficulty": 3,
-   "clientNeed": "Physiological Integrity: Reduction of Risk Potential"
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "bestAnswer": true
   },
   {
    "id": "m10-x1-005",
@@ -173,13 +177,13 @@ window.NURSE_DATA.push({
     "Apply a warm, moist compress over the forearm and the elbow",
     "Check the client's temperature, heart rate, and breathing rate",
     "Redraw the outline and recheck at the end of the shift",
-    "Tell the client red streaks are a normal part of healing"
+    "Elevate the arm on pillows above the level of the heart"
    ],
    "optionRationales": [
-    "Incorrect. A compress does not address a spreading process and is not an assessment of how far it has gone.",
+    "Incorrect. Warm compresses are sometimes used for cellulitis, but a compress does not show whether the spread has become systemic.",
     "Correct. Spreading redness means the process is extending, so the nurse quickly checks for systemic signs to complete an urgent report.",
-    "Incorrect. Waiting hours delays the response to a red flag that needs prompt reporting.",
-    "Incorrect. Red streaks moving away from a site are never expected; this is false reassurance."
+    "Incorrect. Marking borders is correct technique, but waiting hours delays the response to a red flag that needs prompt reporting.",
+    "Incorrect. Elevation can reduce swelling, but it is a comfort measure that does not assess whether the infection has become systemic."
    ],
    "rationale": "Red streaks moving away from an inflamed site show local inflammation is spreading. The nurse's next step is to gather data that tell whether it has also become systemic: temperature, heart rate, and respiratory rate. These data make the report to the provider complete and urgent. Redrawing the outline is tempting because marking borders is a correct technique, but marking is for tracking, not a reason to wait when spread is already present.",
    "takeaway": "Spreading redness or red streaks call for a prompt systemic assessment and report, not watchful waiting.",
@@ -190,7 +194,8 @@ window.NURSE_DATA.push({
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Reduction of Risk Potential"
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "bestAnswer": true
   },
   {
    "id": "m10-x1-006",
@@ -220,7 +225,8 @@ window.NURSE_DATA.push({
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m10-x1-007",
@@ -231,15 +237,15 @@ window.NURSE_DATA.push({
    "stem": "An 84-year-old resident of a long-term care facility is being treated for a urinary tract infection. Refer to the Vital Signs. The assistive personnel (AP) says, 'Her temperature is down, so the infection must be getting better.' Which action by the nurse is most appropriate?",
    "options": [
     "Apply warm blankets and have the AP recheck the temperature in 4 hours",
-    "Agree with the AP and document that the infection is resolving",
+    "Recheck the temperature with a different thermometer now",
     "Encourage oral fluids and reassess at the next scheduled check",
     "Report the findings to the provider as a worsening systemic response"
    ],
    "optionRationales": [
-    "Incorrect. Warming treats the number but delays reporting a pattern that shows the response is worsening.",
-    "Incorrect. A falling temperature with a rising HR and RR is not improvement.",
+    "Incorrect. Warming a cold client is reasonable, but it treats the number and delays reporting a pattern that shows the response is worsening.",
+    "Incorrect. Verifying an unexpected reading is reasonable, but the rising HR and RR already confirm a worsening pattern, and rechecking delays the report.",
     "Incorrect. Fluids may help, but waiting for the next check delays an urgent report.",
-    "Correct. A temperature below 36 °C is a systemic warning sign, and with HR above 90 and RR above 20 the response is worsening."
+    "Correct. A temperature below 36 °C is a systemic warning sign, and with HR above 90 and RR above 20 the response is worsening and needs prompt reporting."
    ],
    "rationale": "A temperature that is too low is a systemic warning sign, just like a fever. This resident's temperature dropped below 36 °C while the heart rate rose above 90 and the respiratory rate rose above 20, so three systemic findings are present. The AP's conclusion is tempting because people think of infection as fever, but older adults in particular may show a low temperature instead. The nurse reports the pattern promptly and also clarifies the finding with the AP.",
    "takeaway": "A temperature below 36 °C with a fast HR and RR signals a worsening systemic response, not recovery.",
@@ -284,7 +290,8 @@ window.NURSE_DATA.push({
       }
      }
     ]
-   }
+   },
+   "bestAnswer": true
   },
   {
    "id": "m10-x1-008",
@@ -316,7 +323,8 @@ window.NURSE_DATA.push({
    "cjmm": "Recognize Cues",
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Reduction of Risk Potential"
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "bestAnswer": true
   },
   {
    "id": "m10-x1-009",
@@ -328,14 +336,14 @@ window.NURSE_DATA.push({
    "options": [
     "Recheck the vital signs in 4 hours and document the call",
     "Notify the charge nurse and follow the chain of command",
-    "Call the provider back every 15 minutes until the plan changes",
-    "Ask the family whether they want the client transferred"
+    "Apply cooling measures and recheck the vital signs in 1 hour",
+    "Complete an incident report about the provider's response"
    ],
    "optionRationales": [
-    "Incorrect. Waiting 4 hours leaves a client with a worsening systemic response without evaluation.",
+    "Incorrect. This follows the order as written, but waiting 4 hours leaves a client with a worsening systemic response without evaluation.",
     "Correct. When a provider's response does not match an unstable client's needs, the nurse escalates through the chain of command.",
-    "Incorrect. Repeated calls to the same provider are not an effective way to escalate.",
-    "Incorrect. Families do not direct medical transfers, and this shifts the nurse's duty to advocate."
+    "Incorrect. Cooling measures may ease the fever, but they do not get the client evaluated for a worsening systemic response.",
+    "Incorrect. Documenting the concern may be appropriate later, but an incident report does not get the client evaluated now."
    ],
    "rationale": "The client meets several systemic criteria at once: fever, HR above 90, RR above 20, and a WBC above 12,000 with bands. When the nurse believes the response to a report is inadequate and the client is not improving, the nurse uses the chain of command, starting with the charge nurse. Rechecking in 4 hours is tempting because it follows the order as written, but it leaves the client at risk. Advocacy means escalating until the client is evaluated.",
    "takeaway": "If a provider's plan leaves a client with a worsening systemic response unaddressed, escalate through the chain of command.",
@@ -346,7 +354,8 @@ window.NURSE_DATA.push({
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m10-x1-010",
@@ -357,15 +366,15 @@ window.NURSE_DATA.push({
    "stem": "A client has a partial-thickness hot-water burn on the forearm. On day 1 the area was red, warm, swollen, and painful, with T 37.3 °C (99.1 °F). On day 4 the drainage is cloudy and yellow, T is 38.8 °C (101.8 °F), and HR is 108/min. Which hypothesis should the nurse prioritize?",
    "options": [
     "The day 4 findings are the expected local response to a heat injury",
-    "The immune system has begun attacking the client's own skin cells",
+    "Fluid lost through the burn has caused dehydration",
     "Germs have infected the burn, and the response is now systemic",
     "The client is having an allergic reaction to the dressing material"
    ],
    "optionRationales": [
     "Incorrect. Day 1 findings were expected; cloudy drainage with fever and tachycardia on day 4 are not.",
-    "Incorrect. Autoimmune inflammation does not appear suddenly in a burn with cloudy drainage and fever.",
+    "Incorrect. Burns do lose fluid, and dehydration can raise the heart rate, but it does not explain cloudy yellow drainage and a high fever.",
     "Correct. A physical agent caused the first inflammation, and now a microorganism is a second cause with systemic spread.",
-    "Incorrect. Allergy would cause itching, hives, or rash, not cloudy yellow drainage with fever."
+    "Incorrect. Dressings can cause reactions, but allergy would cause itching, hives, or rash, not cloudy yellow drainage with fever."
    ],
    "rationale": "A single client can have more than one cause of inflammation. The burn (a physical agent) caused the expected local signs on day 1. Cloudy yellow drainage, fever, and tachycardia on day 4 point to a second cause, a microorganism, with effects that have become systemic. Calling day 4 expected is tempting because burns are known to be red and painful, but the change in drainage and vital signs is the cue that something new has happened.",
    "takeaway": "When an injury that was inflamed but stable develops cloudy drainage and fever, suspect a new infection on top of the injury.",
@@ -376,7 +385,8 @@ window.NURSE_DATA.push({
    "cjmm": "Prioritize Hypotheses",
    "focus": "Pathophysiology",
    "difficulty": 3,
-   "clientNeed": "Physiological Integrity: Physiological Adaptation"
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "bestAnswer": true
   },
   {
    "id": "m10-x1-011",
@@ -386,18 +396,18 @@ window.NURSE_DATA.push({
    "answer": 3,
    "stem": "On the first day after a laparoscopic hernia repair, a client says, 'My incisions are pink and a little puffy. Shouldn't I be on an antibiotic?' T is 37.3 °C (99.1 °F), and there is no drainage. Which response by the nurse is best?",
    "options": [
-    "“Pink, puffy incisions usually mean bacteria have gotten into the skin.”",
-    "“Your body is having an allergic reaction to the stitches in the skin.”",
-    "“I'll ask the surgeon for an antibiotic so the swelling doesn't spread.”",
+    "“I'll let your surgeon know that you are worried about an infection.”",
+    "“Antibiotics are given only when the surgeon decides they are needed.”",
+    "“Tell me right away if the redness spreads or the incisions drain.”",
     "“Surgery injures tissue, and mild redness and swelling are part of healing.”"
    ],
    "optionRationales": [
-    "Incorrect. This confuses inflammation with infection and causes needless worry.",
-    "Incorrect. Nothing suggests allergy; pinkness and mild swelling at a fresh incision are expected.",
-    "Incorrect. Antibiotics treat bacteria and are not indicated for expected inflammation.",
-    "Correct. Surgery is a physical agent, so a clean incision is expected to show mild local inflammation."
+    "Incorrect. Passing on the concern seems supportive, but it treats an expected finding as a problem and does not answer the client's question.",
+    "Incorrect. This is a true statement, but it does not explain why the incisions look this way or whether an antibiotic is needed.",
+    "Incorrect. This is correct teaching, but on its own it does not explain that the current findings are expected healing.",
+    "Correct. Surgery is a physical agent, so a clean incision is expected to show mild local inflammation; the nurse explains this and then teaches what to report."
    ],
-   "rationale": "Surgery is a physical agent, so every incision causes inflammation even when it is perfectly clean. Mild pinkness and puffiness on day 1, with a normal temperature and no drainage, show the healing response at work. The tempting answer is to request an antibiotic, because clients and new nurses often equate red and swollen with infected. The nurse explains the difference and teaches the client to report spreading redness, pus, or fever.",
+   "rationale": "Surgery is a physical agent, so every incision causes inflammation even when it is perfectly clean. Mild pinkness and puffiness on day 1, with a normal temperature and no drainage, show the healing response at work. Offering to tell the surgeon is tempting because it seems supportive, but it treats an expected finding as a problem; clients and new nurses often equate red and swollen with infected. The nurse explains the difference and teaches the client to report spreading redness, pus, or fever.",
    "takeaway": "Mild redness and swelling at a fresh, clean incision is expected inflammation, not infection.",
    "hintContent": "Decide which category of cause surgery falls into.",
    "hintStrategy": "For therapeutic responses, choose the option that is factually accurate and addresses the client's actual concern.",
@@ -406,7 +416,8 @@ window.NURSE_DATA.push({
    "cjmm": "Analyze Cues",
    "focus": "Client Teaching",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Physiological Adaptation"
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "bestAnswer": true
   },
   {
    "id": "m10-x1-012",
@@ -417,15 +428,15 @@ window.NURSE_DATA.push({
    "stem": "A client is admitted with a diagnosis of acute nephritis. The nurse is planning focused assessments for the shift. Which data will best show whether the inflamed organ is getting worse?",
    "options": [
     "Hourly urine output and urine appearance",
-    "Bowel sounds and the consistency of stools",
-    "Breath sounds in the lower lobes",
+    "Lung sounds and the amount of ankle swelling",
+    "Temperature and white blood cell count",
     "Skin for redness, rash, and itching"
    ],
    "optionRationales": [
-    "Correct. Nephr- means kidney, so the nurse focuses on kidney function such as urine output.",
-    "Incorrect. These relate to the intestines, which would be inflamed in colitis.",
-    "Incorrect. These relate to the lungs and airways, as in bronchitis or pneumonia.",
-    "Incorrect. These relate to the skin, which would be inflamed in dermatitis."
+    "Correct. Nephr- means kidney, so the nurse focuses on kidney function such as urine output, the most direct sign of how the organ is doing.",
+    "Incorrect. Fluid can build up when the kidneys are inflamed, so these are worth checking, but they are later effects rather than a direct measure of kidney function.",
+    "Incorrect. These are useful for spotting a systemic response, but they do not show how the kidney itself is functioning.",
+    "Incorrect. Skin checks are part of a full assessment and fit an -itis of the skin (dermatitis), but nephritis is inflamed kidney tissue, so skin data do not track it."
    ],
    "rationale": "Any diagnosis ending in -itis means inflammation of the organ named by the root. Nephr- refers to the kidney, so local effects of nephritis show up in kidney function, and urine output and appearance are the most direct data. Skin assessment is tempting if the root is confused with derm-, which means skin. Decoding the root tells the nurse where to look for local signs of inflammation.",
    "takeaway": "Decode the -itis root to know which organ to assess; nephritis means the kidney.",
@@ -436,7 +447,8 @@ window.NURSE_DATA.push({
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Reduction of Risk Potential"
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "bestAnswer": true
   },
   {
    "id": "m10-x1-013",
@@ -449,13 +461,13 @@ window.NURSE_DATA.push({
     "The response is still systemic because the WBC is above the range",
     "The systemic inflammatory response is resolving with treatment",
     "The normal temperature shows the lung tissue has fully healed",
-    "The falling WBC shows the bone marrow can no longer fight back"
+    "The antibiotics can be stopped because the infection is gone"
    ],
    "optionRationales": [
     "Incorrect. A WBC of 10,200 is only slightly high, is falling, and is well below the systemic cutoff of 12,000.",
     "Correct. Temperature, HR, RR, and bands have returned to normal, and the WBC is well below 12,000 and falling.",
     "Incorrect. Resolving systemic signs do not mean local repair in the lung is complete.",
-    "Incorrect. A failing marrow would show a WBC below about 4,000 with worsening vital signs, not recovery."
+    "Incorrect. The client is improving, but improving vital signs do not mean the infection is gone, and the full prescribed course is still needed."
    ],
    "rationale": "Systemic inflammation is judged by temperature, heart rate, respiratory rate, and the WBC count with bands. Every one of these measures has moved back toward normal, which shows treatment is working. The tempting error is focusing on the single WBC value just above the reference range, but it is far below the 12,000 systemic cutoff and is trending down. Local healing in the lung continues even after systemic signs resolve.",
    "takeaway": "Judge a systemic response by the trend in all criteria together, not by one value slightly outside the range.",
@@ -515,7 +527,8 @@ window.NURSE_DATA.push({
       }
      }
     ]
-   }
+   },
+   "bestAnswer": true
   },
   {
    "id": "m10-x1-014",
@@ -547,7 +560,8 @@ window.NURSE_DATA.push({
    "cjmm": "Generate Solutions",
    "focus": "Client Teaching",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Physiological Adaptation"
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "bestAnswer": true
   },
   {
    "id": "m10-x1-015",
@@ -607,7 +621,8 @@ window.NURSE_DATA.push({
    "cjmm": "Analyze Cues",
    "focus": "Assessment Findings",
    "difficulty": 3,
-   "clientNeed": "Physiological Integrity: Reduction of Risk Potential"
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "bestAnswer": true
   },
   {
    "id": "m10-x1-017",
@@ -617,16 +632,16 @@ window.NURSE_DATA.push({
    "answer": 1,
    "stem": "A 19-year-old college student with psoriasis has thick, scaly plaques on the elbows and scalp. The student says quietly, 'My roommate thinks it's contagious and won't share the bathroom.' Which response by the nurse is best?",
    "options": [
-    "“Keep the patches covered so the bacteria causing them do not spread.”",
+    "“I can give you a pamphlet about psoriasis to read when you're ready.”",
     "“Psoriasis is your immune system inflaming your own skin; it can't spread.”",
-    "“Your roommate is being careful, since inflamed skin often means infection.”",
-    "“Use separate towels until the scaly patches have fully cleared up.”"
+    "“Your roommate will probably feel more comfortable as time goes on.”",
+    "“Using separate towels for now may help your roommate feel safer.”"
    ],
    "optionRationales": [
-    "Incorrect. Psoriasis is not caused by bacteria, and this reinforces the roommate's mistaken belief.",
-    "Correct. Psoriasis is autoimmune inflammation, not infection, so it is not contagious.",
-    "Incorrect. This confuses inflammation with infection and adds to the student's distress.",
-    "Incorrect. Separating towels implies contagion and is not needed."
+    "Incorrect. Written material can help later, but it does not answer the student's concern now or correct the roommate's belief.",
+    "Correct. Psoriasis is autoimmune inflammation, not infection, so it is not contagious; this gives the student accurate words to share.",
+    "Incorrect. This is meant to comfort, but it is false reassurance and does not correct the mistaken belief about contagion.",
+    "Incorrect. This sounds considerate, but separating towels implies contagion and deepens the stigma."
    ],
    "rationale": "Psoriasis is an autoimmune disease in which inflammation is misdirected at the skin, so it cannot be passed to another person. The best response gives accurate information that the student can share and eases the social distress. Advising separate towels is tempting because it sounds cautious, but it signals that the condition is contagious and deepens the stigma. Accurate teaching is also therapeutic here.",
    "takeaway": "Autoimmune skin inflammation such as psoriasis is not contagious, and the nurse corrects that belief clearly.",
@@ -637,7 +652,8 @@ window.NURSE_DATA.push({
    "cjmm": "Take Action",
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m10-x1-018",
@@ -667,7 +683,8 @@ window.NURSE_DATA.push({
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Physiological Adaptation"
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "bestAnswer": true
   },
   {
    "id": "m10-x1-019",
@@ -1012,13 +1029,13 @@ window.NURSE_DATA.push({
     "Remove the cold pack and inspect the skin",
     "Add another towel layer and continue for 10 more minutes",
     "Explain that numbness shows the cold is working well",
-    "Raise the elbow higher and recheck in 20 minutes"
+    "Check the time and remove the pack at 20 minutes"
    ],
    "optionRationales": [
     "Correct. Burning or numbness during cold therapy means the cold must be removed and the skin checked right away.",
-    "Incorrect. Numbness and burning mean cold is injuring the tissue; the cold must stop, not just be padded.",
+    "Incorrect. A barrier is correct technique, but numbness and burning mean cold is already injuring tissue; the cold must stop, not just be padded.",
     "Incorrect. Numbness during cold therapy is a warning sign, not a sign of benefit.",
-    "Incorrect. Elevation does not address possible cold injury, and waiting allows more damage."
+    "Incorrect. Limiting cold to about 20 minutes is correct, but warning symptoms mean the pack comes off now, not at the usual time."
    ],
    "rationale": "Cold narrows blood vessels to slow leaking and numb pain, but too much cold can injure skin. Numbness, burning, or pale or mottled skin during cold application means the nurse removes the cold immediately and inspects the area. Adding a towel is tempting because a barrier is correct technique, but once warning symptoms appear the cold has already gone too far. Safety comes before the goal of reducing swelling.",
    "takeaway": "Numbness or burning during cold therapy means remove the cold and inspect the skin at once.",
@@ -1029,7 +1046,8 @@ window.NURSE_DATA.push({
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Basic Care and Comfort"
+   "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+   "bestAnswer": true
   },
   {
    "id": "m10-x1-029",
@@ -1061,7 +1079,8 @@ window.NURSE_DATA.push({
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
    "difficulty": 3,
-   "clientNeed": "Physiological Integrity: Reduction of Risk Potential"
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "bestAnswer": true
   },
   {
    "id": "m10-x1-030",
@@ -1091,7 +1110,8 @@ window.NURSE_DATA.push({
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m10-x1-031",
@@ -1102,17 +1122,17 @@ window.NURSE_DATA.push({
    "stem": "One hour after spraining an ankle playing basketball, a 22-year-old asks for a heating pad because 'heat helps everything heal faster.' The ankle is warm and swollen. Which action by the nurse is best?",
    "options": [
     "Apply a heating pad on low for 20 minutes to improve circulation",
-    "Massage the ankle firmly to move the swelling out of the joint",
-    "Wrap the ankle snugly with an elastic bandage to wear overnight",
+    "Have the client rest the ankle and use crutches to avoid bearing weight",
+    "Elevate the ankle on two pillows above the level of the heart for now",
     "Apply a cloth-wrapped cold pack for 15–20 minutes and elevate the ankle"
    ],
    "optionRationales": [
-    "Incorrect. Heat increases blood flow and leaking early on, which worsens swelling.",
-    "Incorrect. Firm massage pushes fluid and can worsen the injury.",
-    "Incorrect. Tight wraps left on overnight can cut off circulation.",
-    "Correct. Cold and elevation limit swelling and pain in the first 24–48 hours."
+    "Incorrect. Heat is useful later for stiffness, but in the first 24–48 hours it increases blood flow and leaking, which worsens swelling.",
+    "Incorrect. Rest protects the injury, but it does nothing to limit the swelling and pain the way cold and elevation do.",
+    "Incorrect. Elevation helps, but on its own it is incomplete; cold is also needed to narrow vessels and numb pain.",
+    "Correct. Cold and elevation together limit swelling and pain in the first 24–48 hours."
    ],
-   "rationale": "For a fresh injury, cold is preferred because it narrows blood vessels, slows leaking, and numbs pain, while elevation lowers capillary pressure so less fluid is pushed into the tissue. Heat is tempting because the client requests it and it is used later for stiffness, but in the first 24–48 hours it increases blood flow and swelling. Firm massage and tight overnight wraps are unsafe. The nurse also explains why cold is used now.",
+   "rationale": "For a fresh injury, cold is preferred because it narrows blood vessels, slows leaking, and numbs pain, while elevation lowers capillary pressure so less fluid is pushed into the tissue. Heat is tempting because the client requests it and it is used later for stiffness, but in the first 24–48 hours it increases blood flow and swelling. Rest and elevation alone help but are incomplete without cold. The nurse also explains why cold is used now.",
    "takeaway": "In the first 24–48 hours after a sprain, use wrapped cold and elevation, not heat.",
    "hintContent": "Match the timing of the injury to whether heat or cold limits swelling.",
    "hintStrategy": "When a client requests a treatment that would cause harm, choose the safe, evidence-based alternative.",
@@ -1121,7 +1141,8 @@ window.NURSE_DATA.push({
    "cjmm": "Generate Solutions",
    "focus": "Nursing Interventions",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Basic Care and Comfort"
+   "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+   "bestAnswer": true
   },
   {
    "id": "m10-x1-032",
@@ -1132,17 +1153,17 @@ window.NURSE_DATA.push({
    "stem": "A client is 1 day after a total knee replacement. The knee is warm and swollen, and the client rates pain 7/10 with movement. Physical therapy is scheduled in 45 minutes. An oral analgesic is prescribed every 4 hours as needed; the last dose was 5 hours ago. Which action should the nurse take?",
    "options": [
     "Give the prescribed analgesic now so it works before therapy",
-    "Cancel physical therapy until the swelling has gone down",
-    "Apply a heating pad to the knee to loosen the stiffness",
-    "Encourage the client to push through the pain to protect motion"
+    "Ask physical therapy to postpone the session until tomorrow",
+    "Apply a cold pack now and give the analgesic after therapy",
+    "Elevate the knee and coach slow breathing during therapy"
    ],
    "optionRationales": [
-    "Correct. Treating pain ahead of activity reduces the pain and guarding that limit function.",
-    "Incorrect. Delaying movement after joint surgery adds risk; pain can be managed instead.",
-    "Incorrect. Heat on the first postoperative day increases blood flow and swelling.",
-    "Incorrect. Uncontrolled pain increases guarding and loss of function."
+    "Correct. Treating pain ahead of activity reduces the pain and guarding that limit function, and the dose is due.",
+    "Incorrect. Postponing seems protective, but early movement after joint surgery is planned, and the pain can be managed instead.",
+    "Incorrect. Cold helps swelling, but saving the analgesic until after therapy is the wrong timing; the client needs relief during activity.",
+    "Incorrect. Elevation and breathing are helpful additions, but they are not enough alone for pain of 7/10 before activity."
    ],
-   "rationale": "Pain and swelling cause loss of function, so the client guards the knee and moves less. Giving the prescribed analgesic before therapy lets it take effect during activity, which supports movement and recovery. Canceling therapy is tempting because it seems protective, but early activity after joint surgery is planned, and the pain can be managed. Heat this early would worsen swelling.",
+   "rationale": "Pain and swelling cause loss of function, so the client guards the knee and moves less. Giving the prescribed analgesic before therapy lets it take effect during activity, which supports movement and recovery. Postponing therapy is tempting because it seems protective, but early activity after joint surgery is planned, and the pain can be managed. Cold and breathing techniques help but are not enough alone for pain of 7/10.",
    "takeaway": "Premedicate for pain before planned activity so pain and guarding do not limit function.",
    "hintContent": "Link pain to loss of function and think about timing.",
    "hintStrategy": "Choose the option that treats the cause of the problem while keeping the plan of care on track.",
@@ -1153,7 +1174,8 @@ window.NURSE_DATA.push({
    "cjmm": "Take Action",
    "focus": "Pharmacology",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies"
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "bestAnswer": true
   },
   {
    "id": "m10-x1-033",
@@ -1185,7 +1207,8 @@ window.NURSE_DATA.push({
    "cjmm": "Recognize Cues",
    "focus": "Lifespan & Diversity",
    "difficulty": 3,
-   "clientNeed": "Health Promotion and Maintenance"
+   "clientNeed": "Health Promotion and Maintenance",
+   "bestAnswer": true
   },
   {
    "id": "m10-x1-034",
@@ -1256,16 +1279,16 @@ window.NURSE_DATA.push({
    "answer": 3,
    "stem": "An assistive personnel (AP) tells the nurse that a client with a sprained ankle under an elastic wrap says the toes 'feel a little cold.' Which action should the nurse take first?",
    "options": [
-    "Tell the AP to remove the wrap and reapply it more loosely",
-    "Ask the AP to put a warm sock on the foot and recheck in 1 hour",
-    "Notify the provider that the client has impaired circulation",
+    "Tell the AP to loosen the wrap and reapply it more loosely",
+    "Ask the AP to elevate the foot and recheck the toes in 15 minutes",
+    "Notify the provider that the client may have impaired circulation",
     "Go to the client and check the toes' color, refill, and sensation"
    ],
    "optionRationales": [
-    "Incorrect. The nurse needs to assess first, and responding to a possible circulation problem is not delegated.",
-    "Incorrect. Warming the foot hides the problem and delays assessment.",
-    "Incorrect. The nurse does not yet have assessment data to report.",
-    "Correct. The nurse personally assesses circulation and sensation below the wrap before deciding what to do."
+    "Incorrect. Loosening a tight wrap may be needed, but the nurse should first assess circulation personally rather than act on a secondhand report.",
+    "Incorrect. Elevation is a reasonable comfort step, but rechecking circulation is assessment, which the nurse cannot delegate, and waiting delays finding the cause.",
+    "Incorrect. The provider may need to be called, but the nurse does not yet have assessment data to report.",
+    "Correct. The nurse personally assesses circulation and sensation below the wrap before loosening it, delegating, or calling the provider."
    ],
    "rationale": "Cool toes below a wrap may mean swelling is squeezing blood vessels, so the nurse needs data right away. Assessment cannot be delegated, so the nurse goes to the client and checks color, temperature, capillary refill, movement, and sensation. If circulation is impaired, the nurse loosens the wrap, keeps the foot at heart level, rechecks, and notifies the provider. Calling the provider is tempting because impaired circulation is urgent, but the report needs the nurse's own findings.",
    "takeaway": "A report of cool toes below a wrap calls for the nurse's own neurovascular check before any other action.",
@@ -1276,7 +1299,8 @@ window.NURSE_DATA.push({
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m10-x1-036",
@@ -1289,13 +1313,13 @@ window.NURSE_DATA.push({
     "Stop the infusion and remove the catheter from that site",
     "Flush the catheter to check whether it is still patent",
     "Slow the infusion rate and reassess the site in 1 hour",
-    "Apply an ice pack and continue the infusion at the same rate"
+    "Apply a warm compress along the vein and raise the arm"
    ],
    "optionRationales": [
-    "Correct. Redness, warmth, swelling, and pain along the vein indicate phlebitis; the catheter is removed.",
-    "Incorrect. Flushing sends more fluid into an inflamed vein and does not remove the cause.",
-    "Incorrect. Slowing the rate leaves the irritating catheter in place.",
-    "Incorrect. Continuing the infusion keeps irritating the inflamed vein."
+    "Correct. Redness, warmth, swelling, and pain along the vein indicate phlebitis; removing the catheter removes the cause before comfort measures begin.",
+    "Incorrect. Checking patency is a routine line check, but flushing sends more fluid into an inflamed vein and does not remove the cause.",
+    "Incorrect. Slowing the rate seems cautious, but it leaves the irritating catheter in place.",
+    "Incorrect. Warm compresses and elevation are used for phlebitis, but only after the catheter is removed; first the cause must be stopped."
    ],
    "rationale": "Phlebitis means inflammation of a vein, and it shows all five cardinal signs along the vessel: redness, warmth, swelling, pain, and loss of function of the nearby joint. The cause, the catheter or the infusion, must be removed first, so the nurse stops the infusion and removes the catheter, then restarts at another site if needed. Flushing is tempting because it checks the line, but it adds irritation to a vein that is already inflamed.",
    "takeaway": "Cardinal signs along an IV vein mean phlebitis; stop the infusion and remove the catheter.",
@@ -1308,7 +1332,8 @@ window.NURSE_DATA.push({
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "difficulty": 3,
-   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies"
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "bestAnswer": true
   },
   {
    "id": "m10-x1-037",
@@ -1318,18 +1343,18 @@ window.NURSE_DATA.push({
    "answer": 1,
    "stem": "A 7-year-old fell from playground bars 3 hours ago and has a red, swollen, tender elbow; the x-ray shows no fracture. The child holds the arm against the chest and refuses to straighten it. The parent says, 'He's just being stubborn.' Which response by the nurse is best?",
    "options": [
-    "“He's likely seeking attention, so gently insist he straighten the arm.”",
+    "“Children often stay upset after a fall, so give him time to calm down.”",
     "“Pain and swelling make the elbow hard to move, so he is protecting it.”",
-    "“Not moving the arm means a nerve is damaged and needs surgery.”",
-    "“Have him exercise the elbow fully every hour to keep swelling down.”"
+    "“Keep a cold pack on the elbow, and he will move it when he is ready.”",
+    "“I will ask the provider to explain to you why he won’t move it.”"
    ],
    "optionRationales": [
-    "Incorrect. Forcing movement ignores real pain and can worsen the injury.",
-    "Correct. Loss of function from pain and swelling is a protective cardinal sign.",
-    "Incorrect. Limited use from pain and swelling is expected and does not mean nerve damage.",
-    "Incorrect. Exercising a freshly inflamed joint increases pain and swelling."
+    "Incorrect. Giving the child time is kind, but it treats the guarding as emotional and does not correct the parent’s idea that it is willful.",
+    "Correct. Loss of function from pain and swelling is a protective cardinal sign; explaining it corrects the parent’s misunderstanding.",
+    "Incorrect. Cold is a helpful comfort measure, but this does not explain why the child guards the arm or address the parent’s belief.",
+    "Incorrect. The provider can help, but explaining an expected sign is within the nurse’s scope, and deferring leaves the parent frustrated."
    ],
-   "rationale": "Loss of function (functio laesa) happens when pain and swelling make a part hard to use, and guarding protects the injured part so it can heal. Explaining this helps the parent respond with comfort measures instead of frustration. The option to insist the child straighten the arm is tempting to a parent who thinks the behavior is willful, but forcing movement causes pain and can worsen the injury. The nurse still watches for changes below the elbow.",
+   "rationale": "Loss of function (functio laesa) happens when pain and swelling make a part hard to use, and guarding protects the injured part so it can heal. Explaining this helps the parent respond with comfort measures instead of frustration. Suggesting the child just needs time to calm down is tempting because it sounds kind, but it treats the guarding as emotional and leaves the parent believing it is willful. The nurse still watches for changes below the elbow.",
    "takeaway": "Guarding and limited use are expected, protective signs of inflammation, not stubbornness.",
    "hintContent": "Name the cardinal sign that describes a child refusing to use an injured part.",
    "hintStrategy": "Choose the response that explains the physiology in plain words and supports the family.",
@@ -1340,7 +1365,8 @@ window.NURSE_DATA.push({
    "cjmm": "Analyze Cues",
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Physiological Adaptation"
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "bestAnswer": true
   },
   {
    "id": "m10-x1-038",
@@ -1350,18 +1376,18 @@ window.NURSE_DATA.push({
    "answer": 2,
    "stem": "A client reads 'tumor and calor noted over left knee' in an online visit note and calls, asking anxiously, 'Do I have cancer in my knee?' Which response by the nurse is best?",
    "options": [
-    "“A tumor was found, but it is probably not a cancerous one.”",
-    "“The provider will need a biopsy before we can say what it is.”",
+    "“Your note does not say cancer anywhere, so please try not to worry.”",
+    "“Those are medical terms your provider can explain at your next visit.”",
     "“Here, ‘tumor’ means swelling, and ‘calor’ means warmth.”",
-    "“Calor is a type of growth that often forms when a joint swells.”"
+    "“Those words describe what was seen on exam, not a final diagnosis.”"
    ],
    "optionRationales": [
-    "Incorrect. This keeps the false idea that a growth was found.",
-    "Incorrect. No biopsy is suggested; this increases anxiety needlessly.",
-    "Correct. Tumor and calor are Latin terms for two cardinal signs, not cancer.",
-    "Incorrect. Calor means heat, not a growth."
+    "Incorrect. This reassures, but it does not explain what tumor means, so the client may still believe a growth was found.",
+    "Incorrect. The provider can explain, but the nurse can define these terms now, and waiting prolongs the client’s fear.",
+    "Correct. Tumor and calor are Latin terms for two cardinal signs, swelling and heat, not cancer; defining them relieves the fear directly.",
+    "Incorrect. This is true, but it does not say what the words mean, so the fear of a growth is not resolved."
    ],
-   "rationale": "The five cardinal signs have Latin names: rubor (redness), calor (heat), tumor (swelling), dolor (pain), and functio laesa (loss of function). In this context, tumor does not mean cancer. The best response gives an accurate, plain-language explanation that relieves the client's fear. The option saying the tumor is probably not cancerous is tempting because it sounds reassuring, but it still tells the client a growth was found.",
+   "rationale": "The five cardinal signs have Latin names: rubor (redness), calor (heat), tumor (swelling), dolor (pain), and functio laesa (loss of function). In this context, tumor does not mean cancer. The best response gives an accurate, plain-language explanation that relieves the client’s fear. Telling the client the note never says cancer is tempting because it sounds reassuring, but it leaves the word tumor unexplained.",
    "takeaway": "In inflammation, ‘tumor’ means swelling and ‘calor’ means heat, not cancer.",
    "hintContent": "Recall the Latin names for the cardinal signs.",
    "hintStrategy": "For an anxious client, choose the response that corrects the misunderstanding accurately rather than offering vague reassurance.",
@@ -1370,7 +1396,8 @@ window.NURSE_DATA.push({
    "cjmm": "Generate Solutions",
    "focus": "Client Teaching",
    "difficulty": 2,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m10-x1-039",
@@ -1380,18 +1407,18 @@ window.NURSE_DATA.push({
    "answer": 3,
    "stem": "A client who struck the shin on a coffee table 2 hours ago asks why the area has become so puffy. Which explanation by the nurse is accurate?",
    "options": [
-    "“The vessels tightened and trapped blood under the skin.”",
-    "“White blood cells are making extra fluid inside the muscle.”",
-    "“The nerves in the area are pulling water into the skin.”",
+    "“Extra blood flowed into the area, which made it red and warm.”",
+    "“White blood cells moved in to clean up the damaged tissue.”",
+    "“Chemicals from the injury made the nerve endings more sensitive.”",
     "“The small vessels became leaky, so fluid and protein moved out.”"
    ],
    "optionRationales": [
-    "Incorrect. Constriction lasts only seconds and would not cause lasting swelling.",
-    "Incorrect. White cells move into the tissue, but they do not produce the swelling fluid.",
-    "Incorrect. Nerve stimulation causes pain, not swelling.",
-    "Correct. Increased capillary permeability lets fluid and protein leak into the tissue."
+    "Incorrect. Increased blood flow does occur, but it explains redness and warmth, not the fluid that makes the area puffy.",
+    "Incorrect. White cells do enter the tissue, but they clean up debris; they do not produce the swelling fluid.",
+    "Incorrect. Sensitized nerve endings explain the pain, not the swelling.",
+    "Correct. Increased capillary permeability lets fluid and protein leak into the tissue, which is what causes the swelling."
    ],
-   "rationale": "Swelling (tumor) comes from increased capillary permeability: mediators widen the gaps in the capillary walls, and pressure inside the widened vessels pushes fluid and proteins out into the tissue. Proteins then pull more water after them. The option about white blood cells is tempting because white cells do enter the area, but the swelling fluid is plasma leaking from the vessels. Understanding this explains why elevation and cold help.",
+   "rationale": "Swelling (tumor) comes from increased capillary permeability: mediators widen the gaps in the capillary walls, and pressure inside the widened vessels pushes fluid and proteins out into the tissue. Proteins then pull more water after them. The option about white blood cells is tempting because white cells do enter the area, but they clean up debris; the swelling fluid is plasma leaking from the vessels. Understanding this explains why elevation and cold help.",
    "takeaway": "Swelling is caused by increased capillary permeability that lets fluid and protein leak into tissue.",
    "hintContent": "Match swelling to the vascular change that moves fluid out of the vessels.",
    "hintStrategy": "Pair each cardinal sign with its own mechanism; reject options that borrow a mechanism from another sign.",
@@ -1400,7 +1427,8 @@ window.NURSE_DATA.push({
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Physiological Adaptation"
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "bestAnswer": true
   },
   {
    "id": "m10-x1-040",
@@ -1411,17 +1439,17 @@ window.NURSE_DATA.push({
    "stem": "A client with acute tendinitis of the shoulder asks how ibuprofen will help the pain, since 'it isn't a strong painkiller.' Which explanation by the nurse is accurate?",
    "options": [
     "“It blocks prostaglandins, which sensitize nerve endings and add to swelling.”",
-    "“It numbs the skin over the shoulder so the nerves stop sending signals.”",
-    "“It widens the blood vessels so more blood can wash away the pain.”",
-    "“It works by killing the bacteria that cause tendon inflammation.”"
+    "“It reduces swelling, so less fluid presses on the nerve endings in the tendon.”",
+    "“It changes how the brain senses pain signals, like other common pain medicines.”",
+    "“It works best with rest and ice, which also calm the inflamed tendon tissue.”"
    ],
    "optionRationales": [
-    "Correct. Reducing prostaglandins lowers both the chemical irritation of nerves and the swelling that presses on them.",
-    "Incorrect. Ibuprofen is not a local anesthetic.",
-    "Incorrect. Vasodilation increases redness and warmth; it does not relieve pain.",
-    "Incorrect. Ibuprofen is not an antibiotic, and tendinitis is usually not infectious."
+    "Correct. Blocking prostaglandins lowers both the chemical irritation of nerves and the swelling that presses on them.",
+    "Incorrect. Less swelling is part of the effect, but this leaves out the direct action on prostaglandins that sensitize nerve endings.",
+    "Incorrect. Central pain relief describes opioids or acetaminophen; ibuprofen works mainly by blocking prostaglandins at the inflamed site.",
+    "Incorrect. Rest and ice do help tendinitis, but this does not explain how ibuprofen itself relieves pain."
    ],
-   "rationale": "Pain (dolor) has two causes: bradykinin and prostaglandins stimulate and sensitize nerve endings, and swelling presses on them. Ibuprofen blocks prostaglandin production, so it reduces both causes at once. The vasodilation option is tempting because it sounds like it helps healing, but widening vessels produces redness and heat, not pain relief. Knowing the cause of each sign explains why each treatment works.",
+   "rationale": "Pain (dolor) has two causes: bradykinin and prostaglandins stimulate and sensitize nerve endings, and swelling presses on them. Ibuprofen blocks prostaglandin production, so it reduces both causes at once. The option about reducing swelling is tempting because it is partly true, but it leaves out the direct effect on sensitized nerve endings. Knowing the cause of each sign explains why each treatment works.",
    "takeaway": "NSAIDs relieve inflammatory pain by blocking prostaglandins that sensitize nerves and promote swelling.",
    "hintContent": "Recall which chemical messengers cause inflammatory pain.",
    "hintStrategy": "For drug-action questions, link the drug to the specific mediator it affects.",
@@ -1433,7 +1461,8 @@ window.NURSE_DATA.push({
    "cjmm": "Generate Solutions",
    "focus": "Pharmacology",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies"
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "bestAnswer": true
   },
   {
    "id": "m10-x1-041",
@@ -1463,7 +1492,8 @@ window.NURSE_DATA.push({
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Physiological Adaptation"
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "bestAnswer": true
   },
   {
    "id": "m10-x1-042",
@@ -1493,7 +1523,8 @@ window.NURSE_DATA.push({
    "cjmm": "Evaluate Outcomes",
    "focus": "Nursing Interventions",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Basic Care and Comfort"
+   "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+   "bestAnswer": true
   },
   {
    "id": "m10-x1-043",
@@ -1503,15 +1534,15 @@ window.NURSE_DATA.push({
    "answer": 3,
    "stem": "A carpet installer with acute bursitis of the knee will use cold therapy at home. Which instruction should the nurse include?",
    "options": [
-    "“Put the ice right on your skin for 45 minutes so the cold goes deep.”",
-    "“Keep the ice pack on overnight while you sleep to control swelling.”",
-    "“Rub the ice firmly over the knee to push the extra fluid out.”",
+    "“Place the pack directly on the knee for 15 to 20 minutes at a time.”",
+    "“Wrap the pack in a thin towel and leave it on for about an hour.”",
+    "“Alternate the cold pack with a heating pad every 20 minutes.”",
     "“Place a thin towel under the pack, and use it for 15 to 20 minutes.”"
    ],
    "optionRationales": [
-    "Incorrect. Direct ice and long sessions can cause cold injury.",
-    "Incorrect. Cold left on during sleep cannot be monitored and can injure skin.",
-    "Incorrect. Firm rubbing can worsen the injury.",
+    "Incorrect. The time limit is right, but without a cloth barrier direct contact can cause cold injury.",
+    "Incorrect. The towel barrier is right, but an hour is too long and risks cold injury and rebound vasodilation.",
+    "Incorrect. Heat has a role later, but in acute bursitis it increases blood flow and swelling.",
     "Correct. A cloth barrier and a 15–20 minute limit protect the skin while reducing swelling."
    ],
    "rationale": "Cold narrows blood vessels to slow leaking and numb pain, but it must be applied safely. The client should place a thin cloth between the pack and the skin, use it for about 15–20 minutes, then remove it and let the skin recover. Leaving it on longer is tempting because more cold seems to mean more benefit, but long or direct contact can cause cold injury. The client should stop if numbness or burning occurs.",
@@ -1525,7 +1556,8 @@ window.NURSE_DATA.push({
    "cjmm": "Generate Solutions",
    "focus": "Client Teaching",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Basic Care and Comfort"
+   "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+   "bestAnswer": true
   },
   {
    "id": "m10-x1-044",
@@ -1537,14 +1569,14 @@ window.NURSE_DATA.push({
    "options": [
     "“Heat can help the stiffness now that the early swelling phase has passed.”",
     "“Heat should never be used on an inflamed joint because it worsens swelling.”",
-    "“Use heat on the highest setting to loosen the stiff tissue quickly.”",
-    "“Heat is only safe if you also massage the wrist firmly afterward.”"
+    "“Cold is still best, since it numbs the stiffness and the pain.”",
+    "“Check with your provider first, since heat may bring swelling back.”"
    ],
    "optionRationales": [
     "Correct. After the first 24–48 hours, heat can be used for comfort and stiffness.",
     "Incorrect. Heat is avoided early, but it can help stiffness and comfort later.",
-    "Incorrect. High heat risks burns and is not needed for benefit.",
-    "Incorrect. Firm massage can worsen an injury and is not required with heat."
+    "Incorrect. Cold eases pain, but by day 4 it tightens tissue and does not relieve stiffness the way heat does.",
+    "Incorrect. Checking with the provider seems cautious, but this is standard teaching the nurse can give, and the swelling phase has passed."
    ],
    "rationale": "Timing decides whether cold or heat is used. In the first 24–48 hours, cold limits swelling; later, heat increases blood flow and can ease stiffness and discomfort. The option that heat should never be used is tempting because students memorize 'cold for sprains,' but that rule applies to the early phase. Safe heat still means moderate temperature, time limits, and skin checks.",
    "takeaway": "Cold is for the first 24–48 hours; heat can be used later for stiffness and comfort.",
@@ -1555,7 +1587,8 @@ window.NURSE_DATA.push({
    "cjmm": "Generate Solutions",
    "focus": "Client Teaching",
    "difficulty": 3,
-   "clientNeed": "Physiological Integrity: Basic Care and Comfort"
+   "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+   "bestAnswer": true
   },
   {
    "id": "m10-x1-045",
@@ -1831,14 +1864,14 @@ window.NURSE_DATA.push({
    "options": [
     "Assess the blood pressure, heart rate, and incision",
     "Reinforce the dressing and recheck it in 2 hours",
-    "Send a sample of the drainage for a culture",
-    "Document the drainage as expected serosanguineous"
+    "Notify the surgeon that the dressing is saturated",
+    "Outline the drainage and recheck it in 30 minutes"
    ],
    "optionRationales": [
-    "Correct. A sudden increase in bright red drainage suggests bleeding, so the nurse checks for hemodynamic effects before reporting now.",
-    "Incorrect. Reinforcing and waiting delays response to possible active bleeding.",
-    "Incorrect. Culture is for suspected infection; bright red drainage suggests bleeding.",
-    "Incorrect. Serosanguineous drainage is thin and pale pink, not bright red and saturating."
+    "Correct. A sudden increase in bright red drainage suggests bleeding, so the nurse checks for hemodynamic effects to report to the surgeon right away.",
+    "Incorrect. Reinforcing may be done, but waiting 2 hours delays response to possible active bleeding.",
+    "Incorrect. The surgeon must be called, but the report needs vital signs and site findings, which take only moments to get.",
+    "Incorrect. Marking drainage tracks a trend, but the change is already clear and waiting delays care for possible bleeding."
    ],
    "rationale": "The healthy drainage trend after surgery is sanguineous early, then serosanguineous, then serous, with the amount decreasing each day. A sudden increase of bright red drainage that saturates the dressing reverses that trend and suggests bleeding. The nurse assesses vital signs and the site, applies pressure as appropriate, and notifies the provider now. Reinforcing the dressing is tempting because it is a common step, but on its own it hides the problem and delays care.",
    "takeaway": "A sudden increase in bright red drainage suggests bleeding: assess vital signs and report now.",
@@ -1849,7 +1882,8 @@ window.NURSE_DATA.push({
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Reduction of Risk Potential"
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "bestAnswer": true
   },
   {
    "id": "m10-x1-053",
@@ -1926,15 +1960,15 @@ window.NURSE_DATA.push({
    "stem": "During a dressing change on a leg wound healing by secondary intention, the nurse sees a beefy red, moist, bumpy wound bed that bleeds slightly when touched. The client asks, 'Is it bleeding because something is wrong?' Which action by the nurse is best?",
    "options": [
     "Stop the dressing change and notify the provider about bleeding",
-    "Scrub the red tissue with gauze to clean the wound bed",
+    "Check the client’s vital signs for blood loss",
     "Explain that this tissue is healthy and continue gently",
-    "Leave the wound open to air so the red tissue can dry out"
+    "Cover the bed with dry gauze to absorb the oozing"
    ],
    "optionRationales": [
-    "Incorrect. Slight bleeding from granulation tissue is expected and does not need to be reported.",
-    "Incorrect. Scrubbing damages fragile granulation tissue and slows healing.",
-    "Correct. Beefy red granulation tissue that bleeds slightly is a sign of healthy repair; gentle handling protects it.",
-    "Incorrect. Drying the wound bed harms the fragile new tissue."
+    "Incorrect. Reporting bleeding is often wise, but slight bleeding from granulation tissue is expected and does not need to be reported.",
+    "Incorrect. Vital signs matter with real bleeding, but slight oozing from granulation tissue does not threaten circulation.",
+    "Correct. Beefy red granulation tissue that bleeds slightly is a sign of healthy repair; explaining this and handling it gently is best.",
+    "Incorrect. Absorbing drainage sounds sensible, but dry gauze sticks to and tears granulation tissue, which needs a moist bed."
    ],
    "rationale": "Granulation tissue forms in Stage 3: it is beefy red or pink, moist, bumpy, and packed with new capillaries, which is why it bleeds slightly when touched. This is a sign of healthy repair, so the nurse reassures the client and protects the tissue with gentle handling. Notifying the provider is tempting because bleeding sounds like a complication, but slight bleeding from healthy granulation is expected. Pale, gray, or friable tissue would be the concern.",
    "takeaway": "Beefy red, moist granulation tissue that bleeds slightly is healthy; protect it with gentle care.",
@@ -1945,7 +1979,8 @@ window.NURSE_DATA.push({
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Basic Care and Comfort"
+   "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+   "bestAnswer": true
   },
   {
    "id": "m10-x1-055",
@@ -1956,13 +1991,13 @@ window.NURSE_DATA.push({
    "stem": "A 59-year-old client has an open abdominal wound healing by secondary intention. Refer to the Wound Assessment. Which conclusion should the nurse prioritize?",
    "options": [
     "Healing is on track because the temperature remains normal",
-    "The yellow tissue is maturing scar, which is expected now",
+    "Rising pain likely reflects irritation from dressing changes",
     "More drainage means exudate is diluting toxins as intended",
     "Repair has stalled, likely from infection, despite no fever"
    ],
    "optionRationales": [
     "Incorrect. A normal temperature does not rule out wound infection; the local findings have worsened.",
-    "Incorrect. A maturing scar is pale and firm; yellow, stringy tissue in the base blocks healing.",
+    "Incorrect. Dressing changes can cause pain, but this ignores the new yellow tissue, cloudy drainage, and odor that point to infection.",
     "Incorrect. Healthy drainage decreases and stays serous; cloudy, increasing drainage is a warning sign.",
     "Correct. New stringy tissue, cloudy drainage, persistent odor, and rising pain point to infection or impaired healing."
    ],
@@ -2022,7 +2057,8 @@ window.NURSE_DATA.push({
       }
      }
     ]
-   }
+   },
+   "bestAnswer": true
   },
   {
    "id": "m10-x1-056",
@@ -2032,16 +2068,16 @@ window.NURSE_DATA.push({
    "answer": 1,
    "stem": "A client was admitted 6 hours ago with a thigh abscess awaiting drainage. Refer to the Laboratory Results and Vital Signs. Which action should the nurse take first?",
    "options": [
-    "Recheck the complete blood count with tomorrow's morning labs",
+    "Recheck the vital signs in 30 minutes to confirm the trend",
     "Report the left shift and abnormal vital signs to the provider",
     "Document the results as the expected early neutrophil response",
     "Give acetaminophen and reassess the vital signs in 4 hours"
    ],
    "optionRationales": [
-    "Incorrect. Waiting a day ignores a response that is already systemic.",
+    "Incorrect. Rechecking is reasonable, but the labs and vital signs already show a systemic response, and waiting delays treatment.",
     "Correct. A high WBC with increased bands plus fever, tachycardia, and tachypnea shows a systemic response that needs prompt reporting.",
     "Incorrect. A modest WBC rise is expected; a left shift with systemic signs is a warning.",
-    "Incorrect. Treating the fever alone delays reporting a worsening systemic response."
+    "Incorrect. Treating the fever helps comfort, but treating it alone delays reporting a worsening systemic response."
    ],
    "rationale": "When the inflammatory response is strong, the bone marrow releases more neutrophils, including young ones called bands. A high WBC with increased bands is a left shift. Combined with fever, HR above 90, and RR above 20, it shows the response has become systemic. Documenting it as an expected neutrophil response is tempting because neutrophils do arrive first, but the degree of change and the vital signs make this a report-now situation.",
    "takeaway": "A rising WBC with increased bands plus fever and tachycardia means the response is systemic; report it promptly.",
@@ -2096,7 +2132,8 @@ window.NURSE_DATA.push({
       }
      }
     ]
-   }
+   },
+   "bestAnswer": true
   },
   {
    "id": "m10-x1-057",
@@ -2106,15 +2143,15 @@ window.NURSE_DATA.push({
    "answer": 1,
    "stem": "A client is being discharged 6 days after open abdominal surgery. The incision is closed and pink with no drainage. The client says, 'It looks healed, so I'll go back to lifting weights at the gym this weekend.' Which information is the priority for the nurse to reinforce?",
    "options": [
-    "Apply lotion daily so the scar will flatten faster",
+    "Eat protein-rich foods to help the incision gain strength",
     "Follow lifting limits until the surgeon clears the activity",
-    "Expect the scar to grow hair and sweat glands as it matures",
+    "Hold a pillow over the incision when you cough or sneeze",
     "Take extra vitamin C so the incision is strong by the weekend"
    ],
    "optionRationales": [
-    "Incorrect. Lotion may help comfort later but does not address the risk of lifting.",
-    "Correct. A new scar is still weak and matures over months, so activity restrictions protect it.",
-    "Incorrect. Scar tissue does not regrow hair or sweat glands.",
+    "Incorrect. Protein supports healing, but it does not address the immediate risk of lifting weights this weekend.",
+    "Correct. A new scar is still weak and matures over months, so activity restrictions protect it from the client’s planned lifting.",
+    "Incorrect. Splinting is useful teaching, but it does not address the client’s plan to lift weights.",
     "Incorrect. Nutrition supports repair but cannot make a new scar strong in days."
    ],
    "rationale": "In Stage 3, the body fills the wound with granulation tissue, fibroblasts lay down collagen, and the scar matures over months, becoming firmer and stronger but never as strong as the original tissue. A closed incision on day 6 is still fragile, so heavy lifting risks injury. The vitamin C option is tempting because vitamin C is needed for collagen, but no nutrient can complete months of maturation in a few days. The nurse reinforces activity restrictions.",
@@ -2126,7 +2163,8 @@ window.NURSE_DATA.push({
    "cjmm": "Generate Solutions",
    "focus": "Client Teaching",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Reduction of Risk Potential"
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "bestAnswer": true
   },
   {
    "id": "m10-x1-058",
@@ -2156,7 +2194,8 @@ window.NURSE_DATA.push({
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m10-x1-059",
@@ -2186,7 +2225,8 @@ window.NURSE_DATA.push({
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m10-x1-060",
@@ -2198,14 +2238,14 @@ window.NURSE_DATA.push({
    "options": [
     "“Bands are young neutrophils your bone marrow is rushing out to fight.”",
     "“Bands are scar-forming cells that show your appendix is healing.”",
-    "“Bands are red blood cells that carry extra oxygen to the injury.”",
-    "“Bands are antibodies that remember this infection for the future.”"
+    "“Bands are the white cells that make antibodies against the germs.”",
+    "“Bands are cells that arrive later to clean up dead tissue.”"
    ],
    "optionRationales": [
     "Correct. Increased bands show the marrow is releasing immature neutrophils during a strong response.",
     "Incorrect. Fibroblasts form scar; bands are immature white cells.",
-    "Incorrect. Bands are white blood cells, not red blood cells.",
-    "Incorrect. Antibodies are proteins from the acquired immune system, not cells counted in a WBC differential."
+    "Incorrect. Antibodies come from lymphocytes (B cells); bands are immature neutrophils.",
+    "Incorrect. Macrophages arrive later to clean up; bands are young neutrophils released early."
    ],
    "rationale": "During the cellular response, the bone marrow releases extra neutrophils, including young, immature ones called bands. A high WBC with increased bands, called a left shift, shows a strong, active response. The scar-forming option is tempting because inflammation leads to repair, but fibroblasts, not bands, lay down collagen. The nurse explains the result in plain words and watches for other systemic signs.",
    "takeaway": "Bands are immature neutrophils; increased bands mean the marrow is responding strongly.",
@@ -2218,7 +2258,8 @@ window.NURSE_DATA.push({
    "cjmm": "Analyze Cues",
    "focus": "Client Teaching",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Physiological Adaptation"
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "bestAnswer": true
   },
   {
    "id": "m10-x1-061",
@@ -2248,7 +2289,8 @@ window.NURSE_DATA.push({
    "cjmm": "Recognize Cues",
    "focus": "Pathophysiology",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Physiological Adaptation"
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "bestAnswer": true
   },
   {
    "id": "m10-x1-062",
@@ -2278,7 +2320,8 @@ window.NURSE_DATA.push({
    "cjmm": "Generate Solutions",
    "focus": "Client Teaching",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Physiological Adaptation"
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "bestAnswer": true
   },
   {
    "id": "m10-x1-063",
@@ -2308,7 +2351,8 @@ window.NURSE_DATA.push({
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Physiological Adaptation"
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "bestAnswer": true
   },
   {
    "id": "m10-x1-064",
@@ -2320,14 +2364,14 @@ window.NURSE_DATA.push({
    "options": [
     "“Scars mature over months, becoming paler, flatter, and firmer.”",
     "“A pink, raised scar means it is infected and needs a culture.”",
-    "“The scar will regenerate into normal skin with hair and sweat glands.”",
-    "“The scar has reached its final appearance and will not change.”"
+    "“Pink color means good blood flow, so the scar is fully healed.”",
+    "“A raised scar this early is likely a keloid that will keep growing.”"
    ],
    "optionRationales": [
     "Correct. Scar maturation takes months, and the scar becomes paler, flatter, and less vascular.",
     "Incorrect. Without drainage, odor, or spreading redness, a pink scar is not a sign of infection.",
-    "Incorrect. Scar tissue does not regrow hair or sweat glands.",
-    "Incorrect. A 3-week-old scar is still immature and will keep changing."
+    "Incorrect. The pink color does reflect new blood vessels, but that means the scar is still immature, not fully healed.",
+    "Incorrect. Keloids are a real concern, but slight raising at 3 weeks is normal and usually flattens with maturation."
    ],
    "rationale": "The last step of scar formation is maturation, which takes months: the scar becomes firm, fibrous, paler, flatter, and less vascular. A pink, slightly raised scar at 3 weeks is still immature and has many new capillaries. The infection option is tempting because pink sounds like redness, but with no drainage, odor, or spreading redness it reflects normal repair. Accurate information eases the new parent's worry.",
    "takeaway": "Young scars are pink and raised and become paler and flatter as they mature over months.",
@@ -2340,7 +2384,8 @@ window.NURSE_DATA.push({
    "cjmm": "Take Action",
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
-   "clientNeed": "Health Promotion and Maintenance"
+   "clientNeed": "Health Promotion and Maintenance",
+   "bestAnswer": true
   },
   {
    "id": "m10-x1-065",
@@ -2370,7 +2415,8 @@ window.NURSE_DATA.push({
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
    "difficulty": 3,
-   "clientNeed": "Physiological Integrity: Physiological Adaptation"
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "bestAnswer": true
   },
   {
    "id": "m10-x1-066",

@@ -291,16 +291,16 @@
    "stem": "An RN floats to a medical unit. The charge nurse says, “Our unit policy lets LPNs complete the initial admission assessment and write the care plan when we are busy, so give your new admission to the LPN.” Which action should the RN take?",
    "options": [
     "Complete the initial assessment and care plan and report the policy concern to the manager.",
-    "Assign the admission to the LPN because the unit policy permits LPNs to complete it.",
+    "Ask the charge nurse to reassign the admission to another RN on the unit tonight.",
     "Have the LPN complete the assessment, then review it and cosign the admission documentation.",
-    "Ask the client whether the LPN may complete the admission assessment and care plan instead."
+    "Complete the assessment and care plan, then assign the LPN to give the client routine care."
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Initial comprehensive assessment and care planning are RN responsibilities; the RN acts within the law now and uses proper channels to fix the policy.",
-    "Incorrect. An organizational (private) policy cannot expand the legal scope of practice set by the nurse practice act and board rules.",
-    "Incorrect. Cosigning does not make the RN the person who assessed the client and still leaves an RN function performed outside the LPN’s scope.",
-    "Incorrect. A client cannot consent to care that falls outside a licensee’s legal scope of practice."
+    "Correct. The initial assessment and care plan are RN functions under the practice act, so the RN does them and reports the conflicting policy so it cannot harm other clients.",
+    "Incorrect. Keeping the assessment with an RN is safe, but it passes off the RN's own admission and leaves the unlawful unit policy in place.",
+    "Incorrect. Reviewing the LPN's work looks like supervision, but cosigning does not change who assessed the client; the initial assessment is still outside LPN scope.",
+    "Incorrect. The RN keeps the assessment and plan, and the LPN may give routine care, but the conflicting policy goes unreported and other clients remain at risk."
    ],
    "rationale": "When a facility policy conflicts with the nurse practice act or board of nursing regulations, the law controls because public policy carries the force of law and private policy does not. Initial comprehensive assessment and establishing the plan of care are RN functions; the LPN contributes data under RN supervision. The RN protects the client by completing the assessment and protects practice by reporting the conflicting policy. Cosigning is tempting because it looks like supervision, but it does not change who assessed the client.",
    "takeaway": "Organizational policy can be stricter than the law, never broader; follow the law and report the conflict.",
@@ -312,7 +312,8 @@
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m47-pro-002",
@@ -320,19 +321,19 @@
    "type": "mcq",
    "stem": "A staff nurse tells a coworker, “The board of nursing’s rule listing what I may delegate to assistive personnel is only a guideline. The nurse practice act is the only thing that can be enforced against my license.” Which response by the coworker is accurate?",
    "options": [
-    "“You are right; board rules are advisory, so only a violation of the practice act itself can affect a license.”",
-    "“The board wrote the practice act and the legislature writes the rules, so neither one legally binds us.”",
+    "“You are right; only the practice act passed by the legislature can be enforced against a license.”",
+    "“Board rules are binding on us, but only the legislature can discipline a nurse’s license.”",
     "“The legislature passed the practice act, and board rules written under it carry the force of law, too.”",
-    "“Board rules apply only when our hospital has no policy of its own covering the same delegation task.”"
+    "“Board rules carry the force of law only after our hospital adopts them as written policy.”"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Regulations written by an executive agency under its enabling statute are legally enforceable, and violating them can lead to board discipline.",
-    "Incorrect. This reverses the roles: the legislature enacts the statute and the board, an executive agency, writes the regulations — and both are binding.",
-    "Correct. The practice act is a statute; the board’s regulations supply the detail (such as delegation rules), stay within the statute, and carry the force of law.",
-    "Incorrect. A hospital policy cannot replace or override a regulation; it may be stricter than the rule but never broader."
+    "Incorrect. The practice act is passed by the legislature, but board rules written under it are also enforceable, so violating them can lead to discipline.",
+    "Incorrect. Board rules are binding, but the board of nursing, not the legislature, investigates and disciplines individual licenses.",
+    "Correct. The legislature enacts the practice act, and the board, authorized by that act, writes regulations that are legally binding on every nurse.",
+    "Incorrect. Hospitals must follow board rules, but the rules bind nurses whether or not the employer adopts them; policy cannot lower the legal standard."
    ],
-   "rationale": "A nurse practice act is a statute enacted by the state legislature and signed by the governor; it is written broadly. The board of nursing is an executive branch agency authorized by that statute to write regulations, such as rules on delegation, that must stay within the statute but are legally binding. A nurse who violates a board rule can be disciplined just as for violating the act itself. The reversed-roles distractor is common because both documents are associated with the board.",
+   "rationale": "A nurse practice act is a statute enacted by the state legislature and signed by the governor; it is written broadly. The board of nursing is an executive branch agency authorized by that statute to write regulations, such as rules on delegation, that must stay within the statute but are legally binding. A nurse who violates a board rule can be disciplined by the board just as for violating the act itself. A common error is thinking board rules matter only when an employer adopts them, but facility policy can never lower the legal standard.",
    "takeaway": "The legislature makes the law; the executive agency writes regulations that have the force of law.",
    "hintContent": "Think about which branch creates statutes, which one writes regulations, and whether regulations are binding.",
    "hintStrategy": "In “which statement is accurate” items, test each statement against one core rule and eliminate any that reverse it.",
@@ -342,7 +343,8 @@
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m47-pro-003",
@@ -411,7 +413,8 @@
    "focus": "Nursing Interventions",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m47-pro-005",
@@ -441,7 +444,8 @@
    "focus": "Nursing Interventions",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m47-pro-006",
@@ -451,15 +455,15 @@
    "options": [
     "Begin using the newer skin care technique with assigned clients during the next shift.",
     "Encourage the other nurses on the unit to switch to the newer technique right away.",
-    "Post a summary of the review on social media to build support for changing practice.",
+    "Share a summary of the review with coworkers at the next unit staff huddle.",
     "Bring the review to the unit practice council or manager and propose a policy revision."
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Changing practice before the policy is revised bypasses the organization’s review process and creates inconsistent care.",
-    "Incorrect. Encouraging colleagues to deviate from policy spreads unapproved practice and may expose clients and nurses to risk.",
-    "Incorrect. Social media is not the proper channel and may breach professional and organizational expectations.",
-    "Correct. Evidence should enter practice through the organization’s policy process, beginning with the practice council or manager."
+    "Incorrect. The evidence supports the change, but changing practice alone bypasses approval and makes care inconsistent until the policy is revised.",
+    "Incorrect. Spreading evidence is good, but having staff change practice before approval causes the same safety and consistency problems on a larger scale.",
+    "Incorrect. Sharing evidence with peers is helpful, but it does not start the formal process needed to revise the unit procedure.",
+    "Correct. Evidence becomes practice through proper channels: present it to the practice council or manager, propose a revision, then pilot and evaluate it."
    ],
    "rationale": "Nurses are expected to bring evidence into practice, but the change must go through proper channels: present the evidence, propose a revision, pilot and evaluate it, and obtain approval. Until the policy is changed, the nurse follows the current policy unless it would clearly harm a client. Starting the new technique independently is the most tempting distractor because the evidence supports it, but unilateral change undermines safety and consistency.",
    "takeaway": "Evidence changes practice through the organization’s policy process, not through individual workarounds.",
@@ -471,7 +475,8 @@
    "focus": "Nursing Interventions",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m47-pro-007",
@@ -479,19 +484,19 @@
    "type": "mcq",
    "stem": "A client with asthma tells the clinic nurse, “My insurance only covers the generic inhaler well. The brand-name one my provider prescribed costs me $85 a month, so I’ve been using it only when I can’t breathe.” Which action by the nurse is most appropriate?",
    "options": [
-    "Teach the client to use the inhaler every other day so the canister lasts longer.",
-    "Tell the client that brand-name inhalers are more effective and worth the extra cost.",
+    "Reinforce that the inhaler must be used every day exactly as it was prescribed.",
+    "Help the client apply for a manufacturer discount card for the brand inhaler.",
     "Collaborate with the prescriber about a covered generic or formulary alternative.",
-    "Advise the client to switch to another insurance plan at the next open enrollment period."
+    "Suggest the client compare the inhaler’s price at other local pharmacies."
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Altering the prescribed dosing without an order is unsafe and outside the nurse’s scope.",
-    "Incorrect. This is inaccurate reassurance and ignores the cost barrier causing nonadherence.",
-    "Correct. Formulary tiers affect cost; the nurse collaborates with the prescriber to find an equally appropriate, affordable option.",
-    "Incorrect. A future plan change does nothing for the client’s current unsafe pattern of use."
+    "Incorrect. Adherence teaching is important, but the client already knows how to use it; cost is the barrier, so teaching alone will not change behavior.",
+    "Incorrect. A discount may lower cost for a while, but it is often temporary and does not give the client a reliably affordable, covered option.",
+    "Correct. Cost is causing nonadherence; a covered generic or formulary alternative ordered by the prescriber gives lasting, affordable access to daily therapy.",
+    "Incorrect. Price shopping may save a little, but a brand-name drug stays costly; a covered alternative solves the problem more reliably."
    ],
-   "rationale": "Managed-care formularies set lower co-payments for generic drugs and higher ones for brand-name drugs, and cost barriers directly cause nonadherence. The nurse’s role is to recognize the barrier and collaborate with the prescriber on a cost-effective, clinically appropriate alternative, plus referral to financial resources as needed. Changing the dosing schedule is the most dangerous distractor because it alters a prescribed regimen without an order. Changing plans later does not address the present risk.",
+   "rationale": "Managed-care formularies set lower co-payments for generic drugs and higher ones for brand-name drugs, and cost barriers directly cause nonadherence. The nurse’s role is to recognize the barrier and collaborate with the prescriber on a cost-effective, clinically appropriate alternative, plus referral to financial resources as needed. Adherence teaching, discount cards, and price shopping are reasonable supports, but none removes the cost barrier as reliably as a covered alternative ordered by the prescriber.",
    "takeaway": "When cost drives nonadherence, collaborate with the prescriber on formulary or generic options.",
    "hintContent": "Consider how formularies and co-payment tiers affect what clients can afford.",
    "hintStrategy": "Eliminate options that change a prescription without an order, then choose the collaborative action that solves the actual barrier.",
@@ -503,7 +508,8 @@
    "focus": "Pharmacology",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m47-pro-008",
@@ -598,7 +604,8 @@
    "focus": "Nursing Interventions",
    "difficulty": 1,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m47-pro-011",
@@ -606,17 +613,17 @@
    "type": "mcq",
    "stem": "A nurse testifies before a state committee in support of expanding naloxone access. A legislator says, “I worry that handing out naloxone just encourages drug use.” Which response by the nurse best reflects evidence-informed health policy?",
    "options": [
-    "“With respect, personal values about drug use are not relevant to a public health discussion.”",
+    "“I understand. Our state nursing association has formally endorsed expanding naloxone access.”",
     "“I understand. Evidence shows high overdose risk after rehab and safe layperson use; may I share it?”",
-    "“Nurses see overdoses every week, so lawmakers should simply trust our judgment on this issue.”",
+    "“I understand. I have seen naloxone save many lives in our own emergency department.”",
     "“Several other states have passed this law, so our state should simply follow their lead.”"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Dismissing stakeholder values ignores half of evidence-informed policymaking and loses support.",
-    "Correct. It acknowledges the lawmaker’s values and answers them with external scientific evidence, the two ingredients of evidence-informed policy.",
-    "Incorrect. An appeal to professional authority without evidence is not persuasive or evidence-informed.",
-    "Incorrect. Similar models are useful evidence, but simply copying them without addressing concerns or data is weak."
+    "Incorrect. Acknowledging the concern is respectful, but an endorsement is an appeal to authority and offers no data that answers the worry.",
+    "Correct. It respects the legislator’s concern and answers it with research on overdose risk and layperson safety, which is evidence-informed policy.",
+    "Incorrect. A personal story is supportive and persuasive, but one nurse’s experience is anecdote, not evidence that addresses whether naloxone encourages drug use.",
+    "Incorrect. Successful models elsewhere can count as evidence, but this response ignores the concern and offers no outcome data."
    ],
    "rationale": "Evidence-informed health policy combines external scientific evidence with stakeholder and lawmaker values and ethics. In the naloxone example, evidence showed high overdose risk after leaving rehabilitation and a safety profile allowing layperson use, while advocates addressed concerns about cost and stigma. The best response respects the legislator’s concern and answers it with data. Pointing to other states is tempting because successful models count as evidence, but the response ignores the concern and offers no outcome data.",
    "takeaway": "Evidence-informed policy pairs research with respect for stakeholder values.",
@@ -628,7 +635,8 @@
    "focus": "Client Teaching",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m47-pro-012",
@@ -678,15 +686,15 @@
    "options": [
     "“I follow only the practice laws of the state that issued my license.”",
     "“I follow the practice laws of the state where the client is located.”",
-    "“Telehealth care is governed only by federal law, not by state practice acts.”",
-    "“I may follow whichever state’s practice act is less restrictive for the task.”"
+    "“I need a separate single-state license from the client’s state.”",
+    "“I follow whichever state’s practice act is stricter for each task.”"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. The home state issues the license, but practice is governed where the client is located.",
-    "Correct. Under the compact, the nurse must follow the nurse practice act of the state where the client is located.",
-    "Incorrect. Regulation of nursing practice is a state function; federal law does not replace state practice acts.",
-    "Incorrect. Nurses cannot choose the less restrictive standard; the client’s location controls."
+    "Incorrect. The home state issues the multistate license, but practice is governed by the law of the state where the client is located.",
+    "Correct. Under the Nurse Licensure Compact, the nurse is accountable to the practice laws of the state where the client is at the time of care.",
+    "Incorrect. A separate license would be needed in a noncompact state, but the multistate license already allows practice in other compact states.",
+    "Incorrect. Following the stricter rule sounds safe, but the law of the client’s state controls, whether stricter or not."
    ],
    "rationale": "The Constitution leaves regulation of professions to the states, and each state’s practice act and board rules define the legal scope of nursing. The Nurse Licensure Compact lets a nurse with a multistate license practice in other compact states, but the nurse is accountable to the practice laws of the state where the client is located at the time of care. Choosing the home state’s law is the common misconception. Telehealth does not change this principle.",
    "takeaway": "With a multistate license, practice laws of the client’s location apply.",
@@ -698,7 +706,8 @@
    "focus": "Delegation & Safety",
    "difficulty": 3,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m47-pro-014",
@@ -745,17 +754,17 @@
    "type": "mcq",
    "stem": "A medical-surgical unit’s fall rate has doubled over two quarters. The nurse manager asks for volunteers to help address the problem. Which action by a staff nurse best reflects the nurse’s role in quality improvement?",
    "options": [
-    "Wait for the hospital’s risk management department to issue a new fall policy.",
+    "Review recent fall incident reports and share the findings with the nurse manager.",
     "Apply bed alarms to every client on the unit regardless of their assessed fall risk.",
-    "Ask the nursing assistants to document more carefully so fewer falls are reported.",
+    "Remind assistive personnel to complete hourly rounding on high-risk clients.",
     "Join a unit QI team that reviews fall data and tests an evidence-based prevention bundle."
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Passively waiting ignores the nurse’s expected role in unit and organizational QI.",
-    "Incorrect. A blanket intervention without assessment or evidence is not quality improvement and may cause alarm fatigue.",
-    "Incorrect. Changing documentation to lower reported numbers hides the problem and is unethical.",
-    "Correct. Nurses are expected to participate in unit-level QI that uses data and evidence, such as a PDSA test of a fall bundle."
+    "Incorrect. Reviewing incident data is one QI step, but it stops short of choosing, testing, and evaluating an intervention.",
+    "Incorrect. It seems proactive, but it skips individual risk assessment and is not an evidence-based, tested plan.",
+    "Incorrect. Hourly rounding is a sound single intervention, but it is not tied to data analysis or evaluation of results.",
+    "Correct. Systematic QI analyzes data, selects evidence-based interventions, tests them, for example with a PDSA cycle, and evaluates results."
    ],
    "rationale": "Health policy supports quality improvement by translating evidence into practice, and AHRQ provides tools and indicators that accredited hospitals use to meet safety goals. Nurses are expected to engage in unit-level and organizational QI projects: analyze data, choose evidence-based interventions, test them (for example with a PDSA cycle), and evaluate results. Applying alarms to everyone is tempting because it seems proactive, but it skips assessment and evidence.",
    "takeaway": "Nurses participate in data-driven, evidence-based QI rather than waiting or applying untested blanket fixes.",
@@ -769,7 +778,8 @@
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m47-pro-016",
@@ -778,16 +788,16 @@
    "stem": "At the start of a day shift, an RN realizes that her nursing license expired at midnight because she forgot to complete the renewal. She is assigned five clients. What should the RN do first?",
    "options": [
     "Notify the charge nurse or manager and not provide nursing care until the license is renewed.",
-    "Work the shift as assigned and complete the online renewal after she gets home.",
-    "Ask a coworker to cosign all of her documentation until the renewal is processed.",
+    "Tell the charge nurse and offer to care for only her most stable clients today.",
+    "Call the board of nursing to report the lapse and then begin the shift as assigned.",
     "Renew the license online during her first break and then continue working as assigned."
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Current licensure is mandatory; the nurse must not practice and should notify leadership so clients can be safely reassigned.",
-    "Incorrect. Practicing with an expired license violates the nurse practice act, regardless of intent.",
-    "Incorrect. A cosignature does not authorize unlicensed practice and misrepresents who provided care.",
-    "Incorrect. Providing care before the renewal is complete is still practicing without a current license."
+    "Correct. Practicing on an expired license is unlicensed practice, so she notifies leadership for reassignment and gives no care until the license is active.",
+    "Incorrect. Notifying the charge nurse is right, but caring for any client, even stable ones, is still unlicensed practice.",
+    "Incorrect. Honesty with the board is appropriate, but reporting the lapse does not authorize her to practice before renewal.",
+    "Incorrect. Renewing promptly is right, but care given before the renewal is complete is still unlicensed practice."
    ],
    "rationale": "Current licensure is mandatory, and each nurse is legally accountable to the board of nursing for practicing within the nurse practice act. Practicing even one shift on an expired license is unlicensed practice. The safe, accountable action is to notify the charge nurse or manager immediately so clients are reassigned, and to refrain from nursing care until the license is active. Renewing during a break is tempting, but care given before the renewal is complete is still unlicensed practice.",
    "takeaway": "No current license, no nursing practice — notify leadership and step out of care until renewed.",
@@ -799,7 +809,8 @@
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m47-pro-017",
@@ -903,7 +914,8 @@
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m47-pro-020",
@@ -949,17 +961,17 @@
    "type": "mcq",
    "stem": "A clinic nurse is discharging a family with a newborn and a 6-year-old. The parents ask where they can get a free infant car seat, installation help, and an affordable bicycle helmet. Which referral is most appropriate?",
    "options": [
-    "The state Office of Emergency Medical Services",
-    "The Joint Commission’s community outreach office",
-    "The federal Agency for Healthcare Research and Quality",
+    "The state Office of Emergency Medical Services’ trauma program",
+    "The National Highway Traffic Safety Administration’s website",
+    "The federal Agency for Healthcare Research and Quality office",
     "The county health department’s injury-prevention program"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. State OEMSs set EMS training standards and license transport services; they are not the usual source of family injury-prevention supplies.",
-    "Incorrect. The Joint Commission is a private accrediting body, not a provider of community programs.",
-    "Incorrect. AHRQ develops research tools for healthcare quality and does not distribute safety equipment to families.",
-    "Correct. County health departments run community injury-prevention programs such as infant car seats, bicycle helmets, and smoke detectors."
+    "Incorrect. OEMS relates to injury and trauma, but its role is regulating EMS systems, not giving families safety equipment.",
+    "Incorrect. NHTSA sets car seat safety standards and offers information, but it is a federal agency that does not give families seats or helmets.",
+    "Incorrect. AHRQ funds research and quality tools for health care, not community safety services for families.",
+    "Correct. County health departments run local injury-prevention programs that provide car seats, installation checks, and bicycle helmets."
    ],
    "rationale": "County health departments regulate sanitation and food safety and run community injury and disease prevention programs, including smoke detectors, bicycle helmets, infant car seats, and lead poisoning prevention. The best referral is the level of government that delivers the service locally. The OEMS distractor is tempting because it relates to injury and trauma, but its role is regulating EMS systems.",
    "takeaway": "County health departments deliver community injury-prevention programs.",
@@ -971,7 +983,8 @@
    "focus": "Lifespan & Diversity",
    "difficulty": 1,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m47-pro-022",
@@ -1009,17 +1022,17 @@
    "type": "mcq",
    "stem": "During a Joint Commission tracer, a surveyor asks a staff nurse how the unit reduced cardiac monitor alarm fatigue. The nurse helped revise the alarm policy last year. Which response by the nurse is best?",
    "options": [
-    "“Our nurse manager led that project, so she is the best person to answer your question.”",
-    "“We have not had any problems with alarms since then, so the policy is working as written.”",
+    "“We revised the alarm policy last year, and all of our staff completed the required training.”",
+    "“Alarm-related events on our unit have dropped since we changed our default alarm limits.”",
     "“We studied our alarm data and the evidence, revised default limits, trained staff, and track results.”",
-    "“I can show you where the policy is in the binder, but I’m not sure why we changed it.”"
+    "“I can show you where the policy is kept in the binder, but I’m not sure why we changed it.”"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Deflecting to the manager ignores the nurse’s direct role in speaking with survey teams at the point of care.",
-    "Incorrect. Claiming no problems without data shows no monitoring or QI process.",
-    "Correct. The nurse explains the evidence-based QI process — data, evidence, change, education, and ongoing measurement — that surveyors look for.",
-    "Incorrect. Locating the policy is not enough; being unable to explain its rationale shows the evidence has not reached practice."
+    "Incorrect. It describes the change and education, but it leaves out the data and evidence behind the change and how outcomes are monitored.",
+    "Incorrect. Reporting an outcome is useful, but it does not explain why limits were changed or how staff were prepared.",
+    "Correct. It shows the full process: data, evidence, change, education, and ongoing outcome monitoring, which is what a tracer looks for.",
+    "Incorrect. Knowing where the policy is filed is helpful, but it does not show understanding of the evidence or the process."
    ],
    "rationale": "The nurse’s role in accreditation includes developing and revising evidence-based policies, participating in organizational self-reviews, and speaking directly with surveyors. Surveyors use tracers to see whether frontline staff understand what they do, why, and how outcomes are measured. The best answer describes the data, evidence, change, education, and outcome monitoring. Showing where the policy is filed is tempting but does not demonstrate understanding of the evidence or the process.",
    "takeaway": "With surveyors, explain what the unit does, the evidence behind it, and how results are measured.",
@@ -1033,7 +1046,8 @@
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m47-pro-024",
@@ -1042,18 +1056,18 @@
    "stem": "An older adult client on a surgical unit fell while walking to the bathroom unassisted and sustained a hip fracture requiring surgery. After the client is stabilized and the event is reported, which action should the organization take next?",
    "options": [
     "Conduct a root cause analysis focused on system and process factors and create an action plan.",
-    "Terminate the nurse who was assigned to the client at the time the fall occurred.",
-    "Wait for The Joint Commission to investigate before reviewing the event internally.",
-    "Report the fall to OSHA because it occurred in the hospital, which is a regulated workplace."
+    "Review the assigned nurse’s actions and arrange focused remediation and education for her.",
+    "Report the event to The Joint Commission and wait for its findings before reviewing internally.",
+    "Place bed alarms on all surgical clients older than 65 years, starting with the next shift."
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. A fall with serious injury is a sentinel event; accredited organizations perform a comprehensive systematic analysis focused on systems and develop an action plan.",
-    "Incorrect. Automatic punishment ignores system causes and discourages reporting; Just Culture principles guide accountability.",
-    "Incorrect. The organization is responsible for analyzing its own sentinel events promptly rather than waiting for an outside review.",
-    "Incorrect. OSHA addresses worker safety; a client fall is a patient safety event."
+    "Correct. A fall with hip fracture is a sentinel event; a root cause analysis finds system and process failures and leads to an action plan.",
+    "Incorrect. Individual review may be part of follow-up, but focusing on one nurse misses system causes and can discourage reporting.",
+    "Incorrect. Organizations may report sentinel events, but they are expected to start their own analysis rather than wait on the accreditor.",
+    "Incorrect. Fall prevention matters, but a blanket change made before analysis may not fix the actual cause."
    ],
-   "rationale": "A sentinel event is a patient safety event resulting in death, permanent harm, or severe temporary harm, and a fall with hip fracture qualifies. The Joint Commission expects accredited organizations to conduct a root cause (comprehensive systematic) analysis that looks for system and process failures and to implement an action plan. Firing the nurse is tempting because it appears to assign accountability, but blame-focused responses miss root causes and suppress reporting. OSHA handles worker, not client, safety.",
+   "rationale": "A sentinel event is a patient safety event resulting in death, permanent harm, or severe temporary harm, and a fall with hip fracture qualifies. The Joint Commission expects accredited organizations to conduct a root cause (comprehensive systematic) analysis that looks for system and process failures and to implement an action plan. Focusing on the assigned nurse is tempting because it appears to assign accountability, but blame-focused responses miss root causes and suppress reporting. Quick fixes made before analysis may not address the real cause.",
    "takeaway": "Sentinel events require a systems-focused root cause analysis and action plan.",
    "hintContent": "Think about how accredited organizations respond to events causing serious harm.",
    "hintStrategy": "After immediate client safety is addressed, choose the system-improvement response over blame or delay.",
@@ -1063,7 +1077,8 @@
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m47-pro-025",
@@ -1110,15 +1125,15 @@
    "options": [
     "Join the American College of Nurse-Midwives for specialty networking and education.",
     "Join the American Nurses Association for its Code of Ethics resources.",
-    "Join the National Student Nurses Association to mentor future nurses.",
+    "Join the state nurses association to connect with nurses in her region.",
     "Join the American Association of Colleges of Nursing to influence education policy."
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. The ACNM is the specialty association for nurse-midwives, offering networking, continuing education, and peer support.",
-    "Incorrect. The ANA is valuable for standards and ethics, but it does not best meet her need for midwifery-specific peers and education.",
-    "Incorrect. NSNA serves students preparing for initial licensure, not practicing specialists.",
-    "Incorrect. AACN (Colleges of Nursing) focuses on baccalaureate and graduate education policy, not clinical specialty support."
+    "Correct. ACNM is the specialty association for nurse-midwives and offers specialty-specific education and peer networking.",
+    "Incorrect. The ANA represents all RNs and offers useful ethics resources, but it does not target midwifery-specific education or peers.",
+    "Incorrect. A state association reduces isolation, but its members are general nurses, not midwifery peers or specialty education.",
+    "Incorrect. AACN (colleges) shapes nursing education policy, but it serves schools, not practicing midwives seeking specialty support."
    ],
    "rationale": "Professional associations serve specialized memberships. When a nurse’s need is specialty-specific networking, continuing education, and peer support — as in the example of an isolated nurse anesthetist joining the AANA — the best match is the specialty association, here the ACNM. The ANA is the most tempting distractor because it represents all RNs, but it does not best target the specialty need described.",
    "takeaway": "Match the association to the need: specialty practice support comes from the specialty association.",
@@ -1130,7 +1145,8 @@
    "focus": "Nursing Interventions",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m47-pro-027",
@@ -1237,17 +1253,17 @@
    "type": "mcq",
    "stem": "At a WIC nutrition visit, a nurse notices that a 3-year-old has multiple bruises in different stages of healing on the back and upper arms. The parent says the child “bruises easily.” The child is not in immediate danger in the clinic. What should the nurse do first?",
    "options": [
-    "Wait to see whether new bruises appear at the next scheduled WIC visit.",
+    "Document the bruises and recheck the child at the next scheduled WIC visit.",
     "Report the suspected abuse to child protective services at the county DSS.",
     "Ask the parent detailed questions to determine who caused the bruises.",
     "Tell the parent that the nurse suspects abuse and will be filing a report."
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Waiting for more evidence delays protection; the duty is to report reasonable suspicion.",
-    "Correct. Nurses must report reasonable suspicion of child maltreatment to the designated agency without waiting for proof.",
-    "Incorrect. Investigating is the role of child protective services; interrogating the parent can increase risk to the child.",
-    "Incorrect. Confronting the parent before reporting may endanger the child and is not the first priority."
+    "Incorrect. Careful documentation is needed, but waiting for another visit delays a mandated report and leaves the child at risk.",
+    "Correct. The nurse is a mandated reporter; reasonable suspicion is enough, and the report goes to child protective services now.",
+    "Incorrect. It looks like assessment, but determining who caused the injuries is the investigator’s role and may put the child at risk.",
+    "Incorrect. Honesty seems right, but warning the parent before reporting may endanger the child or prompt the family to leave."
    ],
    "rationale": "Bruises in various stages of healing on protected areas such as the back and upper arms, with an inconsistent explanation, are cues of possible physical abuse. Nurses are mandated reporters who must report suspicion to the designated child protective agency; they do not need proof and should not investigate. In North Carolina that agency is the county department of social services, and the law requires any person with cause to suspect maltreatment to report. Questioning the parent is the tempting distractor because it seems like assessment, but determining who caused the injuries is the investigators’ role.",
    "takeaway": "Report suspected child maltreatment promptly to the designated agency; suspicion, not proof, triggers the duty.",
@@ -1261,7 +1277,8 @@
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m47-pro-031",
@@ -1271,15 +1288,15 @@
    "options": [
     "Supplemental Security Income (SSI)",
     "Indian Health Service (IHS) clinics",
-    "Medicare Part B medical insurance",
+    "Medicaid pregnancy health coverage",
     "Women, Infants, and Children (WIC)"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. SSI provides cash assistance to aged, blind, or disabled people with little income; pregnancy alone does not qualify.",
-    "Incorrect. IHS serves American Indian and Alaska Native peoples; nothing in the stem indicates eligibility.",
-    "Incorrect. Medicare serves people 65 and older or with specific disabilities or conditions, and it is not a nutrition program.",
-    "Correct. WIC provides supplemental nutrition support for pregnant women and children under 5 at nutritional risk."
+    "Incorrect. SSI involves low income, but it is cash aid for people who are aged, blind, or disabled.",
+    "Incorrect. IHS provides health care for American Indian and Alaska Native people, and it is not a nutrition program.",
+    "Incorrect. Medicaid covers prenatal care and may treat her anemia, but it does not supply food for her or her toddler.",
+    "Correct. WIC provides supplemental food and nutrition education for pregnant women and children under 5 at nutritional risk."
    ],
    "rationale": "WIC is a supplemental nutrition program for pregnant, postpartum, and breastfeeding women, infants, and children under age 5 who are at nutritional risk. This client is pregnant, anemic, food-insecure, and has a toddler, so both she and her child may qualify. WIC is typically accessed through local social services or local health department offices. SSI is tempting because it involves low income, but it is cash aid for aged, blind, or disabled people.",
    "takeaway": "Pregnant women and children under 5 at nutritional risk → WIC.",
@@ -1293,7 +1310,8 @@
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m47-pro-032",
@@ -1360,7 +1378,8 @@
    "focus": "Prioritization",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m47-pro-034",
@@ -1369,18 +1388,18 @@
    "stem": "During a Joint Commission tracer, a nurse hangs an IV antibiotic and then realizes she did not check the client’s two identifiers before starting the infusion. The surveyor is watching. What should the nurse do first?",
    "options": [
     "Stop the infusion and verify the client’s identity with two identifiers.",
-    "Finish the infusion, then document the omission in an incident report afterward.",
-    "Explain to the surveyor that she always checks identifiers on other clients.",
-    "Ask the charge nurse whether the omission must be reported to the surveyor."
+    "Notify the provider of a possible medication error involving the antibiotic.",
+    "Assess the client for signs of a reaction to the IV antibiotic.",
+    "Complete an incident report describing the missed identity check."
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Client safety comes first: stop the infusion and confirm identity with two identifiers before continuing.",
-    "Incorrect. Continuing an infusion without verifying identity risks harm if it is the wrong client.",
-    "Incorrect. Explaining to the surveyor addresses appearances, not the immediate safety risk.",
-    "Incorrect. Consulting the charge nurse about reporting delays the safety action."
+    "Correct. Stopping the drug and confirming identity tells the nurse right away whether an error occurred and limits any harm.",
+    "Incorrect. The provider may need to be told, but the nurse first stops the infusion and confirms whether a wrong-client error happened.",
+    "Incorrect. Assessment follows, but the drug is still running; stopping it and verifying identity comes first.",
+    "Incorrect. Reporting the near miss is required, but it is done after the client is safe, not first."
    ],
-   "rationale": "Using at least two client identifiers before giving medications is a core Joint Commission safety requirement. When the nurse recognizes an omission while the medication is infusing, the first action is to stop the infusion and verify identity, then assess the client, notify the provider if an error occurred, and report through the event-reporting system. Accreditation exists to protect clients, so the surveyor’s presence should not change the priority. Explaining to the surveyor is tempting under pressure but does nothing for the client.",
+   "rationale": "Using at least two client identifiers before giving medications is a core Joint Commission safety requirement. When the nurse recognizes an omission while the medication is infusing, the first action is to stop the infusion and verify identity, then assess the client, notify the provider if an error occurred, and report through the event-reporting system. Accreditation exists to protect clients, so the surveyor’s presence should not change the priority. Notifying the provider is tempting, but the nurse must first stop the drug and confirm whether an error actually occurred.",
    "takeaway": "Client safety comes before survey appearances; stop and verify identity with two identifiers.",
    "hintContent": "Which option directly removes the risk to the client right now?",
    "hintStrategy": "Ignore the distraction in the stem (the surveyor) and apply standard safety priorities.",
@@ -1390,7 +1409,8 @@
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m47-pro-035",
@@ -1420,7 +1440,8 @@
    "focus": "Prioritization",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m47-pro-036",
@@ -1431,14 +1452,14 @@
     "“Call his primary care provider first so the hospital visit will be covered.”",
     "“Call 911 now; emergency care does not require a referral from his provider.”",
     "“Drive him to the hospital in your HMO network, even if it is farther away.”",
-    "“Have him rest for an hour and call back if the symptoms do not improve.”"
+    "“Drive him to the nearest emergency department yourself right away.”"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Calling the PCP delays emergency treatment; emergencies are covered without a gatekeeper referral.",
-    "Correct. These are signs of stroke; EMS must be activated immediately, and HMOs cover emergency care without referral.",
-    "Incorrect. Driving farther to stay in network delays time-sensitive stroke care and skips EMS assessment.",
-    "Incorrect. Waiting delays time-critical treatment and could cause permanent disability."
+    "Incorrect. HMOs use the PCP as gatekeeper for routine care, but emergencies need no referral, and calling first delays stroke care.",
+    "Correct. Possible stroke is time-critical; EMS starts care, notifies a stroke center, and emergency care is covered without referral.",
+    "Incorrect. It respects the plan’s network, but emergency care is covered anywhere, and the longer drive delays treatment.",
+    "Incorrect. Going to the nearest ED is better, but driving loses EMS care en route and pre-arrival stroke alert."
    ],
    "rationale": "Sudden facial droop, slurred speech, and unilateral arm weakness indicate a possible stroke, a time-critical emergency. HMOs restrict nonemergency care to network providers and use the PCP as gatekeeper, but emergency care is covered without referral, and plans must cover emergency services without prior authorization. Insurance rules never justify delaying emergency care. The in-network hospital option is tempting because it seems to respect the plan, but it delays treatment and skips EMS.",
    "takeaway": "Emergency care is never delayed for referrals or network rules.",
@@ -1450,7 +1471,8 @@
    "focus": "Prioritization",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m47-pro-037",
@@ -1461,14 +1483,14 @@
     "“Schedule with any dermatologist you choose; your plan will reimburse you.”",
     "“Ask your primary care provider for a referral to an in-network dermatologist.”",
     "“Your HMO does not cover specialist care, so you will need to pay out of pocket.”",
-    "“Go to the emergency department so a dermatologist can see you today.”"
+    "“Show the mole to your primary care provider at your next annual checkup.”"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. That describes an indemnity plan; HMOs do not cover nonemergency out-of-network care.",
-    "Correct. The PCP acts as the gatekeeper and refers HMO members to in-network specialists.",
-    "Incorrect. HMOs cover specialist care when the PCP refers the member to an in-network specialist.",
-    "Incorrect. A changing mole needs prompt evaluation but is not an emergency; ED use is inappropriate and does not bypass referral rules for follow-up."
+    "Incorrect. Many plans allow direct specialist visits, but an HMO limits coverage to network providers with a referral.",
+    "Correct. The HMO PCP acts as gatekeeper, and a changing mole needs prompt evaluation, so she asks the PCP for a referral now.",
+    "Incorrect. HMOs are restrictive, but they cover in-network specialists when the PCP refers the member.",
+    "Incorrect. The PCP is the right starting point, but a changing mole should be evaluated promptly, not at a routine yearly visit."
    ],
    "rationale": "An HMO is the most restrictive managed-care plan: coverage is limited to contracted network providers except in emergencies, and members usually select a primary care provider who acts as gatekeeper for referrals. A changing mole warrants timely evaluation, so the nurse explains the referral process and encourages the client to call the PCP promptly. The statement that HMOs do not cover specialists is tempting because HMOs are restrictive, but they do cover in-network specialists with referral.",
    "takeaway": "HMO members reach in-network specialists through a PCP referral.",
@@ -1480,7 +1502,8 @@
    "focus": "Client Teaching",
    "difficulty": 1,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m47-pro-038",
@@ -1510,7 +1533,8 @@
    "focus": "Client Teaching",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m47-pro-039",
@@ -1519,16 +1543,16 @@
    "stem": "A parent tells the school nurse that the family’s income is slightly too high for Medicaid and they cannot afford private insurance for their 8-year-old, who has asthma. Which program should the nurse suggest the family explore?",
    "options": [
     "Children’s Health Insurance Program",
-    "Medicare Part A hospital insurance",
+    "Hospital charity care program",
     "Supplemental Security Income program",
-    "TRICARE military health program"
+    "Women, Infants, and Children program"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. CHIP covers children under 19 whose families earn too much for Medicaid but cannot afford private coverage.",
-    "Incorrect. Medicare covers people 65 and older and certain people with disabilities, ESRD, or ALS.",
-    "Incorrect. SSI is cash assistance for aged, blind, or disabled people with little or no income, not health coverage for this child.",
-    "Incorrect. TRICARE is health coverage for military members and their families."
+    "Correct. CHIP insures children in families whose income is too high for Medicaid but too low to afford private coverage.",
+    "Incorrect. Charity care may lower a hospital bill, but it is not insurance and does not cover routine asthma care.",
+    "Incorrect. SSI targets low income, but it is cash aid for people with disabilities, not health insurance.",
+    "Incorrect. WIC serves low-income families, but it provides nutrition support for children under 5, not health coverage."
    ],
    "rationale": "CHIP, formerly SCHIP, uses federal and matching state funds to insure children under 19 in families whose income exceeds Medicaid limits but who cannot afford private coverage. Required benefits include routine checkups, immunizations, dental and vision care, hospital care, and lab and x-ray services, which would support this child’s asthma care. Families typically apply through the local social services department. SSI is tempting because it targets low income, but it is cash aid rather than insurance.",
    "takeaway": "Children under 19 just above Medicaid income limits → CHIP.",
@@ -1542,7 +1566,8 @@
    "focus": "Lifespan & Diversity",
    "difficulty": 1,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m47-pro-040",
@@ -1572,7 +1597,8 @@
    "focus": "Client Teaching",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m47-pro-041",
@@ -1677,7 +1703,8 @@
    "focus": "Client Teaching",
    "difficulty": 1,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m47-pro-044",
@@ -1707,7 +1734,8 @@
    "focus": "Client Teaching",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m47-pro-045",
@@ -1783,7 +1811,8 @@
       }
      }
     ]
-   }
+   },
+   "bestAnswer": true
   },
   {
    "id": "m47-pro-046",
@@ -1859,16 +1888,16 @@
    "stem": "A 46-year-old client who began hemodialysis for end-stage renal disease 4 months ago says he lost his job and his employer insurance, and he plans to skip treatments “until I turn 65 and get Medicare.” What should the nurse do first?",
    "options": [
     "Explain that ESRD may qualify him for Medicare now and refer him to social work today.",
-    "Help him reduce dialysis to once a week until his insurance problem is resolved.",
+    "Urge him to keep all dialysis sessions and ask the unit about a payment plan.",
     "Tell him that Medicare is available only to people who are 65 years of age or older.",
-    "Refer him to the WIC program for nutrition support while he remains uninsured."
+    "Teach him the signs of high potassium and fluid overload that he should report."
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Medicare covers people with ESRD regardless of age; the immediate goal is to prevent missed dialysis by correcting the misconception and starting enrollment help.",
-    "Incorrect. Reducing dialysis frequency is unsafe and is not a nursing decision.",
-    "Incorrect. Medicare also covers younger people with certain disabilities, ESRD, and ALS.",
-    "Incorrect. WIC serves pregnant and postpartum women, infants, and young children, not this client."
+    "Correct. ESRD can make him eligible for Medicare now; correcting the misconception and getting social work help today keeps him in treatment.",
+    "Incorrect. Keeping him in dialysis is the right goal, but a payment plan misses the Medicare coverage he likely qualifies for now.",
+    "Incorrect. Age 65 is one route, but ESRD also qualifies younger people, so this reinforces his dangerous plan.",
+    "Incorrect. Safety teaching is useful, but it accepts the plan to skip treatment rather than removing the barrier."
    ],
    "rationale": "Skipping dialysis can quickly cause life-threatening hyperkalemia and fluid overload, so the nurse’s first priority is to keep the client in treatment. Medicare is available to people 65 and older, younger people with certain disabilities, and people with ESRD or ALS, so this client likely can obtain coverage now (ESRD eligibility depends on the work history of the client or a spouse and usually begins after a short waiting period once dialysis starts). Correcting the misconception and arranging social work or case management help immediately protects the client’s safety. Telling him Medicare is only for older adults reinforces the dangerous plan.",
    "takeaway": "Medicare covers ESRD and ALS regardless of age; prevent dangerous gaps in treatment.",
@@ -1880,7 +1909,8 @@
    "focus": "Prioritization",
    "difficulty": 3,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m47-pro-049",
@@ -1888,17 +1918,17 @@
    "type": "mcq",
    "stem": "A client has an employer-sponsored plan with a $6,000 annual out-of-pocket maximum. By March she had paid $6,000 toward covered in-network care after a hospitalization. In June of the same plan year, she needs covered in-network outpatient surgery. What should the nurse tell her about her costs for the surgery?",
    "options": [
-    "“You will pay your deductible again because this is a new procedure.”",
-    "“You will pay 20% coinsurance again until you have paid another $6,000.”",
+    "“You will pay your deductible again because this surgery is a new episode of care.”",
+    "“You will pay 20% coinsurance again until you have paid another $6,000 this year.”",
     "“Your plan should pay 100% of covered in-network care for the rest of the plan year.”",
-    "“You will pay only the co-payment, because coinsurance resets after 3 months.”"
+    "“You will still pay your usual co-payment, but you will no longer owe any coinsurance.”"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. The deductible is met once per plan year, not per procedure.",
-    "Incorrect. The out-of-pocket maximum caps total spending for the 12-month period; it does not restart within the plan year.",
-    "Correct. Once the out-of-pocket maximum is reached, the plan pays 100% of covered (usual and customary) fees for the rest of the period.",
-    "Incorrect. Cost-sharing does not reset after 3 months; it is tied to the plan year."
+    "Incorrect. Clients often think costs restart with each new episode of care, but the deductible applies once per plan year.",
+    "Incorrect. Coinsurance applies before the maximum is met, but she has already reached the annual out-of-pocket limit.",
+    "Correct. After the out-of-pocket maximum is met, the plan pays 100% of covered in-network care for the rest of the plan year.",
+    "Incorrect. Co-payments usually count toward the out-of-pocket maximum, so once it is reached they also stop for covered in-network care."
    ],
    "rationale": "Employment-sponsored plans include an out-of-pocket maximum that protects against catastrophic costs. Once the insured has paid that amount for covered services within the 12-month plan period, the plan covers 100% of usual and customary fees for covered services for the rest of the period. Premiums still must be paid, and noncovered or out-of-network charges may differ, so the nurse encourages the client to confirm with her plan. The deductible-again option is tempting because clients often think costs restart with each new episode of care.",
    "takeaway": "After the out-of-pocket maximum is met, covered care is paid at 100% for the rest of the plan year.",
@@ -1910,7 +1940,8 @@
    "focus": "Client Teaching",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m47-pro-050",
@@ -1920,17 +1951,17 @@
    "options": [
     "Tell him Medicare will cover him because he has a chronic disease.",
     "Connect him with enrollment assistance and a social worker today.",
-    "Advise him to borrow metformin from a family member until he is insured.",
-    "Tell him that coverage options cannot be explored until his glucose is controlled."
+    "Give him a list of pharmacies that sell low-cost generic metformin.",
+    "Advise him to apply for Marketplace coverage at the next open enrollment."
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Medicare eligibility is based on age 65+, certain disabilities, ESRD, or ALS, not diabetes alone.",
-    "Correct. With the urgent finding reported and the client stable, the next step is to address the access barrier through enrollment help and social work.",
-    "Incorrect. Taking someone else’s medication is unsafe and does not solve the access problem.",
-    "Incorrect. Coverage problems contribute to poor control; delaying help perpetuates the cycle."
+    "Incorrect. Medicare covers some younger people with disabilities or ESRD, but not adults based on diabetes alone.",
+    "Correct. He is stable, so the next step is the root cause: enrollment help and social work connect him to lasting coverage and medication.",
+    "Incorrect. Low-cost generics help short term, but they do not answer his coverage question or secure ongoing care.",
+    "Incorrect. Marketplace coverage is a real option, but waiting for open enrollment delays care; Medicaid and job-loss special enrollment can start coverage sooner."
    ],
-   "rationale": "The nurse first reports the elevated glucose because it requires provider evaluation; the client is alert with normal vital signs, so he is stable. The next priority is the cause of the problem: lack of coverage and medication. Enrollment assistance (for example, Medicaid if he is eligible or Marketplace coverage with subsidies) and social work referral connect him to sustainable access, and community programs may help with low-cost generics. Medicare does not cover adults based on diabetes alone, and borrowing medication is unsafe.",
+   "rationale": "The nurse first reports the elevated glucose because it requires provider evaluation; the client is alert with normal vital signs, so he is stable. The next priority is the cause of the problem: lack of coverage and medication. Enrollment assistance (for example, Medicaid if he is eligible or Marketplace coverage with subsidies) and social work referral connect him to sustainable access, and community programs may help with low-cost generics. Medicare does not cover adults based on diabetes alone, and waiting for open enrollment delays coverage he may get now.",
    "takeaway": "After addressing immediate physical risk, treat lack of coverage as a care problem and refer for enrollment help.",
    "hintContent": "The urgent result has been reported; consider what barrier caused it.",
    "hintStrategy": "Use “next” cues: once safety is addressed, select the action that targets the root cause.",
@@ -1942,7 +1973,8 @@
    "focus": "Nursing Interventions",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m47-pro-051",
@@ -1974,7 +2006,8 @@
    "focus": "Prioritization",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m47-pro-052",

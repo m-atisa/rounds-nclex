@@ -32,7 +32,8 @@ window.NURSE_DATA.push({
    "focus": "Nursing Interventions",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-002",
@@ -40,16 +41,16 @@ window.NURSE_DATA.push({
    "type": "mcq",
    "stem": "A client with a Stage 4 sacral pressure injury that is 70% yellow slough has a prescription for wet-to-dry saline gauze dressings every 8 hours. During the last dressing removal, the client cried out and rated pain 8 on a 0–10 scale. The next change is due in 45 minutes, and an oral analgesic is prescribed as needed. Which action should the nurse take first?",
    "options": [
-    "Ask the provider to let the nurse cut away the slough with a scalpel instead",
+    "Ask the provider about switching to a less painful debridement method",
     "Soak the dried gauze with saline so it lifts off without pulling",
-    "Skip this change and document that the client refused the dressing",
+    "Give the prescribed analgesic just before removing the old gauze",
     "Give the prescribed analgesic now so it peaks during the dressing change"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Sharp debridement with a scalpel is performed by a surgeon and is outside the nurse's role.",
+    "Incorrect. Discussing a gentler method is reasonable later, but the next change is due in 45 minutes and the client needs pain control for this one now.",
     "Incorrect. The drying gauze is what pulls the slough off; soaking it first defeats the mechanical debridement the provider prescribed.",
-    "Incorrect. The client has not refused, and skipping a prescribed treatment leaves slough in the wound; the pain can be managed instead.",
+    "Incorrect. Premedicating is right, but an oral analgesic given just before the change will not peak until after the gauze is already off.",
     "Correct. Wet-to-dry removal is predictably painful, so premedicating 30–60 minutes ahead lets the analgesic reach its peak effect when the gauze is removed."
    ],
    "rationale": "Mechanical debridement with wet-to-dry gauze works because the gauze dries onto the wound and pulls nonviable tissue away when it is removed. That same action is nonselective and painful, so the nurse anticipates pain and premedicates before the procedure rather than reacting during it. Giving the oral analgesic now times its peak effect for the dressing change in 45 minutes. Soaking the gauze is tempting because it reduces pain, but it stops the gauze from pulling off the slough and defeats the purpose of the prescription.",
@@ -62,7 +63,8 @@ window.NURSE_DATA.push({
    "focus": "Pharmacology",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-003",
@@ -72,15 +74,15 @@ window.NURSE_DATA.push({
    "options": [
     "Measure and document the changes, report them, and request a revised plan",
     "Continue the current plan, because new slough is a normal part of wound healing",
-    "Apply a dry gauze dressing and reassess the wound again in 1 week",
-    "Tell the client the wound is infected and will need antibiotics"
+    "Document the changes and recheck the wound at the next dressing change",
+    "Turn the client more often and reassess the wound in 2 days"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. New yellow and black tissue in a once-clean wound signals deterioration; the nurse documents objectively, reports, and asks for the plan to be reassessed and revised.",
     "Incorrect. New slough and eschar in a previously clean red wound mean the wound is deteriorating, not progressing.",
-    "Incorrect. A dry dressing does nothing for the new necrotic tissue, and waiting a week delays a needed change in care.",
-    "Incorrect. Infection has not been established (the client is afebrile, with no purulent drainage described), and the nurse does not diagnose or prescribe."
+    "Incorrect. Documenting is needed, but a deteriorating wound must also be reported so the plan can be revised; waiting delays care.",
+    "Incorrect. More pressure relief is helpful, but it is only part of the plan; the deterioration still needs to be reported and the full plan revised."
    ],
    "rationale": "The RYB guide is also a way to track a wound over time: black and yellow should shrink and red should grow. When a wound that was 100% red granulation develops new slough and eschar, it is deteriorating, which is a red flag. The nurse measures and documents the change, reports it, and asks for the plan of care (pressure relief, moisture, nutrition, debridement) to be revised. Continuing the current plan is the tempting distractor, but slough is never an expected step after clean granulation.",
    "takeaway": "New slough or eschar in a previously clean red wound means deterioration: document, report, and revise the plan.",
@@ -92,7 +94,8 @@ window.NURSE_DATA.push({
    "focus": "Assessment Findings",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-004",
@@ -122,7 +125,8 @@ window.NURSE_DATA.push({
    "focus": "Nursing Interventions",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-005",
@@ -132,15 +136,15 @@ window.NURSE_DATA.push({
    "options": [
     "“I'll trim only the black part and stop before I reach any red tissue.”",
     "“That's sharp debridement, which the surgeon does. I'll notify the surgeon.”",
-    "“I'll pull the loose edge off with forceps instead of cutting it.”",
-    "“I'll trim it as long as you stay in the room and supervise me.”"
+    "“I won't cut it, but I'll document the loose black edge in the chart.”",
+    "“I'll trim it only if the surgeon gives me a phone order to do it.”"
    ],
    "answer": 1,
    "optionRationales": [
     "Incorrect. Limiting the cut does not make it within the nurse's role; cutting away eschar is still sharp debridement.",
     "Correct. Sharp debridement is performed by the surgeon; the nurse reports the finding and follows the prescribed plan.",
-    "Incorrect. Pulling eschar off is not a prescribed method and can tear viable tissue and cause bleeding.",
-    "Incorrect. Supervision by another nurse does not change scope; sharp debridement is performed by the surgeon."
+    "Incorrect. Declining is correct and documenting is needed, but the changed eschar must also be reported to the surgeon so it can be managed.",
+    "Incorrect. Getting the surgeon involved is right, but an order does not expand the nurse's scope; sharp debridement is still performed by the surgeon."
    ],
    "rationale": "Nurses can debride with limitations. Mechanical (wet-to-dry), chemical (enzymatic), and autolytic methods are nursing actions carried out with a prescription, but cutting dead tissue away with a scalpel or scissors is sharp debridement, which is performed by the surgeon. A charge nurse's instruction does not expand the newly licensed nurse's scope, so the safe response is to decline and report the finding to the surgeon. Trimming “only the black part” is tempting because it sounds careful, but it is still a sharp debridement procedure outside the nurse's role.",
    "takeaway": "Cutting away eschar is sharp debridement by the surgeon, even if another nurse says to do it.",
@@ -152,7 +156,8 @@ window.NURSE_DATA.push({
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-006",
@@ -161,15 +166,15 @@ window.NURSE_DATA.push({
    "stem": "For 10 days, a client's Stage 3 trochanter pressure injury has been treated with prescribed wet-to-dry dressings to remove yellow slough. Today, after cleansing, the wound bed is 100% beefy red, moist, and bumpy, with a thin pink rim at the edges. Which action should the nurse take?",
    "options": [
     "Continue the wet-to-dry dressings because they are clearly working",
-    "Change the dressings to every 4 hours to remove any slough that might remain",
-    "Apply an enzymatic ointment to keep the bed free of dead tissue",
+    "Stop the wet-to-dry gauze and apply a moist protective dressing",
+    "Document the healthy granulation and reassess at the next change",
     "Contact the provider to change to a dressing that protects the red tissue"
    ],
    "answer": 3,
    "optionRationales": [
     "Incorrect. The debridement goal has been met; continuing nonselective wet-to-dry would now tear away the healthy granulation tissue.",
-    "Incorrect. There is no slough left to remove, and more frequent wet-to-dry changes would cause more trauma to red tissue.",
-    "Incorrect. Enzymatic debridement targets necrotic tissue; a clean red wound has nothing to debride and needs protection.",
+    "Incorrect. A moist protective dressing is the right goal, but the nurse cannot change a prescribed treatment without a new order from the provider.",
+    "Incorrect. Documenting the improvement is appropriate, but the wet-to-dry order would keep stripping new tissue until the provider changes it.",
     "Correct. The wound is now all granulation, so the RYB goal has shifted to protect and keep moist; the nonselective wet-to-dry order needs to be changed."
    ],
    "rationale": "The RYB goal follows the wound as it changes. Wet-to-dry dressings were appropriate while the wound held yellow slough, but now the bed is 100% beefy red granulation with new epithelium at the edges, so the goal has shifted to protect. Because wet-to-dry gauze is nonselective, it would now strip away the healthy tissue the client has just grown. Continuing the current order is tempting because the treatment “worked,” but the nurse must recognize that the goal has been met and contact the provider to change the plan.",
@@ -182,7 +187,8 @@ window.NURSE_DATA.push({
    "focus": "Nursing Interventions",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-007",
@@ -212,7 +218,8 @@ window.NURSE_DATA.push({
    "focus": "Prioritization",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-008",
@@ -220,15 +227,15 @@ window.NURSE_DATA.push({
    "type": "mcq",
    "stem": "A client is receiving a prescribed enzymatic debriding ointment for a Stage 4 sacral pressure injury. On rounds, the nurse finds the client lying supine, and the turning record shows no position change for the last 3 hours. Which action should the nurse take first?",
    "options": [
-    "Apply an extra layer of the ointment at the next scheduled change",
-    "Document the missed turns as unavoidable while debridement is underway",
+    "Check the sacral wound for new damage before moving the client",
+    "Report the missed turns to the charge nurse for follow-up",
     "Turn the client off the sacrum and resume a scheduled turning plan",
     "Ask the provider whether sharp debridement would speed up healing"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Extra ointment is not prescribed and does nothing about the pressure that is still damaging the sacrum.",
-    "Incorrect. Missed repositioning is not unavoidable, and debridement does not replace pressure relief.",
+    "Incorrect. Assessing the wound is important, but the client is still lying on the sacrum; relieving pressure comes first, and the wound can be checked once turned.",
+    "Incorrect. Reporting the lapse is reasonable, but it does not relieve the pressure that is damaging the sacrum right now.",
     "Correct. Debridement treats the wound, not its cause; relieving pressure on the sacrum right away protects the wound and the tissue around it.",
     "Incorrect. The immediate problem is ongoing pressure on the wound; changing the debridement method would not remove it."
    ],
@@ -242,7 +249,8 @@ window.NURSE_DATA.push({
    "focus": "Nursing Interventions",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-009",
@@ -272,7 +280,8 @@ window.NURSE_DATA.push({
    "focus": "Assessment Findings",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-010",
@@ -280,16 +289,16 @@ window.NURSE_DATA.push({
    "type": "mcq",
    "stem": "A client has three pressure injuries: a sacral wound that is 80% black eschar, a right heel wound covered by dry, intact, firmly attached eschar with no redness or drainage, and a trochanter wound that is 100% red granulation. While planning care, the nurse reviews which wound needs prescribed debridement. Which wound should the nurse identify?",
    "options": [
-    "All three wounds equally, because each contains damaged tissue",
+    "The sacral and heel wounds, because both contain black eschar",
     "The heel wound, because all black eschar must be debrided",
-    "The trochanter wound, because red tissue needs scrubbing to stay clean",
+    "The trochanter wound, because red tissue must be kept clean and moist",
     "The sacral wound, because its eschar must be removed for healing"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Only nonviable tissue is debrided; healthy red tissue is protected, and stable heel eschar is left intact.",
+    "Incorrect. The sacral wound does need debridement, but stable heel eschar that is dry, intact, and firmly attached is left in place as a natural cover.",
     "Incorrect. Stable heel eschar that is dry, intact, and firmly attached is usually left in place as a natural cover.",
-    "Incorrect. Red granulation is protected and kept moist, not scrubbed or debrided.",
+    "Incorrect. Red granulation is kept clean and moist, but that is protection, not debridement; there is no dead tissue to remove.",
     "Correct. Black eschar in the sacral wound blocks healing and feeds bacteria, so it needs debridement; it is not covered by the heel exception."
    ],
    "rationale": "Apply the RYB guide wound by wound. Black eschar must be debrided for healing, so the sacral wound with 80% eschar needs debridement. The heel eschar is black too, but it is dry, intact, firmly attached, and free of redness and drainage, so it is stable and usually left in place as a natural cover. The heel is the tempting answer because it is black, while the trochanter wound is all red granulation that should be protected, not debrided.",
@@ -302,7 +311,8 @@ window.NURSE_DATA.push({
    "focus": "Prioritization",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-011",
@@ -345,14 +355,14 @@ window.NURSE_DATA.push({
     "“The dressing contains a medicine that dissolves the dead tissue within a few hours.”",
     "“The dressing dries onto the wound and then pulls the dead tissue off when we remove it later.”",
     "“It holds in your wound's own fluid so your body's enzymes break down the dead tissue.”",
-    "“It is the fastest method, so the slough should be gone after the first change.”"
+    "“Tiny sterile larvae under the dressing eat away the dead tissue.”"
    ],
    "answer": 2,
    "optionRationales": [
     "Incorrect. Applying a prescribed enzyme product describes chemical debridement, and autolytic debridement works slowly, not within hours.",
     "Incorrect. A dressing that dries and pulls tissue off describes mechanical (wet-to-dry) debridement.",
-    "Correct. Autolytic debridement uses special dressings that capture and hold drainage so the body's own enzymes digest the dead tissue.",
-    "Incorrect. Autolytic debridement is the slowest and gentlest method."
+    "Correct. Autolytic debridement uses special dressings that capture and hold drainage so the body's own enzymes digest the dead tissue; the other responses describe chemical, mechanical, and biosurgical methods.",
+    "Incorrect. This accurately describes biosurgery (maggot therapy), another debridement method, but autolytic debridement relies on the body's own enzymes."
    ],
    "rationale": "Each debridement method removes dead tissue in a different way. Autolytic debridement uses special dressings that capture and hold the wound's own drainage, letting the body's enzymes break down the slough; it is the slowest and gentlest method. A prescribed enzyme ointment that dissolves dead tissue is chemical debridement, and a dressing that dries and pulls tissue away is mechanical debridement. The chemical description is the most tempting because both involve enzymes, but in autolytic debridement the enzymes come from the client's own body.",
    "takeaway": "Autolytic debridement = special dressings that let the body's own enzymes break down dead tissue (slow and gentle).",
@@ -364,7 +374,8 @@ window.NURSE_DATA.push({
    "focus": "Client Teaching",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-013",
@@ -483,16 +494,16 @@ window.NURSE_DATA.push({
    "stem": "A 70-year-old client with a nonhealing Stage 4 heel wound full of necrotic tissue is scheduled for biosurgery. The client says, “The idea of maggots in my wound makes me sick. Will they eat my good tissue too?” Which response by the nurse is best?",
    "options": [
     "“That's a common worry. The sterile larvae eat dead tissue and do little harm to healthy tissue.”",
-    "“They eat all tissue, so we'll watch very closely and remove them if the wound gets too deep.”",
+    "“Many people feel this way at first. Would you like to talk more about your concerns?”",
     "“Don't worry about that; your provider would never order anything that could hurt you.”",
-    "“You can refuse, but having the surgeon cut the tissue away is the only other choice you have.”"
+    "“The larvae are sterile and are raised in a lab especially for use in wound care.”"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. This acknowledges the client's feelings and gives accurate information: sterile larvae target necrotic tissue with minimal damage to healthy tissue.",
-    "Incorrect. This is inaccurate; the larvae digest dead tissue and do minimal harm to healthy tissue.",
+    "Incorrect. This acknowledges the feeling and invites discussion, but it does not answer the client's direct question about healthy tissue.",
     "Incorrect. This is false reassurance that dismisses the client's feelings and does not answer the question.",
-    "Incorrect. This is inaccurate and coercive; other debridement options exist, such as enzymatic and autolytic methods."
+    "Incorrect. This is accurate, but it does not address the client's fear about healthy tissue or acknowledge the client's feelings."
    ],
    "rationale": "Clients are often uneasy about biosurgery, so the nurse acknowledges the feeling and then teaches accurately. Sterile maggots raised in a lab are placed on a nonhealing necrotic wound, where they digest dead tissue while doing minimal harm to healthy tissue. A therapeutic response validates the client's reaction and corrects the specific fear about losing healthy tissue. The reassurance option is tempting because it sounds kind, but it brushes off the client's concern and gives no information.",
    "takeaway": "Biosurgery: sterile larvae digest dead tissue with minimal harm to healthy tissue; acknowledge the client's feelings, then teach.",
@@ -504,7 +515,8 @@ window.NURSE_DATA.push({
    "focus": "Client Teaching",
    "difficulty": 2,
    "clientNeed": "Psychosocial Integrity",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-016",
@@ -512,15 +524,15 @@ window.NURSE_DATA.push({
    "type": "mcq",
    "stem": "The adult child of a client with a Stage 4 sacral pressure injury asks, “Why does all that dead tissue have to come off? Can't the wound just heal underneath it?” Which explanation by the nurse is most accurate?",
    "options": [
-    "“It's removed mainly so the wound looks cleaner when we measure it.”",
-    "“Dead tissue keeps the wound too dry, but it does not affect infection risk.”",
+    "“Removing it lets us see how deep the wound really is and measure it.”",
+    "“Dead tissue raises the risk of infection, so it needs to be removed.”",
     "“New tissue grows up from the bottom, and dead tissue blocks it and feeds bacteria.”",
     "“The new skin grows underneath the dead tissue, so removing it mainly helps reduce the odor.”"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Debridement is done because dead tissue blocks healing and raises infection risk, not for appearance.",
-    "Incorrect. Necrotic tissue raises infection risk because it gives bacteria a place to grow.",
+    "Incorrect. This is a true benefit, but it does not explain why the wound cannot heal underneath the dead tissue.",
+    "Incorrect. This is true, but it is incomplete; it does not explain that dead tissue also blocks new tissue from filling the wound.",
     "Correct. Dead tissue is a food source for bacteria, physically blocks granulation from filling the wound, and hides the wound's true depth.",
     "Incorrect. New tissue cannot grow through necrotic tissue; removal is needed for healing, not just odor control."
    ],
@@ -534,7 +546,8 @@ window.NURSE_DATA.push({
    "focus": "Pathophysiology",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-017",
@@ -544,15 +557,15 @@ window.NURSE_DATA.push({
    "options": [
     "“The surgeon may have removed too much tissue, so I'll report that the wound is worse.”",
     "“The dead tissue was hiding the wound's real depth; the clean red base can now heal.”",
-    "“The wound will need wet-to-dry dressings now so it doesn't get any deeper.”",
-    "“Deeper wounds heal faster because more blood reaches the bottom of the wound.”"
+    "“I can see this is upsetting. I'll ask the surgeon to come and explain it to you.”",
+    "“Wounds heal slowly, so I'll measure it each week to track how it is changing.”"
    ],
    "answer": 1,
    "optionRationales": [
     "Incorrect. A larger, deeper, mostly red wound after debridement is expected and does not indicate harm.",
     "Correct. Necrotic tissue hides the true size and depth of a wound; once it is removed, the healthy red base can fill in from the bottom.",
-    "Incorrect. A wound that is 90% red granulation needs protection; wet-to-dry gauze would tear away the healthy tissue.",
-    "Incorrect. Depth does not speed healing; deeper wounds take longer to fill in."
+    "Incorrect. Acknowledging the concern is supportive, but the nurse can explain this expected finding now instead of deferring it.",
+    "Incorrect. Tracking the wound is appropriate, but this does not correct the spouse's belief that the surgery made the wound worse."
    ],
    "rationale": "Dead tissue hides how deep a wound really is. After sharp debridement removes the eschar, the wound often looks larger and deeper, but what the family is seeing is the true wound, now with a clean, red base that can heal. Today's findings, 90% red granulation with no odor or purulent drainage, show a wound ready to fill in, so the RYB goal is to protect it. Reporting the wound as “worse” is tempting because it looks bigger, but the size reflects what was hidden, not new damage.",
    "takeaway": "A wound often looks larger after debridement because dead tissue was hiding its true depth.",
@@ -566,7 +579,8 @@ window.NURSE_DATA.push({
    "focus": "Client Teaching",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-018",
@@ -618,15 +632,15 @@ window.NURSE_DATA.push({
    },
    "options": [
     "The wound is deteriorating, because the yellow tissue increased during week 2",
-    "The wound is infected, because the drainage changed to serosanguineous in week 2",
-    "Pressure relief can be reduced now, because the wound is clearly improving each week",
+    "The treatment is not working, because the wound size stayed the same in week 2",
+    "Debridement can be stopped now, because the black eschar is completely gone",
     "The wound is improving, because necrotic tissue is clearing and red tissue is increasing"
    ],
    "answer": 3,
    "optionRationales": [
     "Incorrect. The black eschar dropped from 50% to 20% in week 2; looking at yellow alone ignores the overall shift toward healthier tissue.",
-    "Incorrect. Serosanguineous drainage is not a sign of infection; there is no odor, purulent drainage, or fever in the record.",
-    "Incorrect. Debridement treats the wound, not its cause; pressure relief must continue for the wound to keep healing.",
+    "Incorrect. The size did stay the same in week 2, but tissue color shifted toward red, and the size decreased by week 3.",
+    "Incorrect. The black eschar is gone, but 20% yellow slough remains, so dead tissue still needs to be removed.",
     "Correct. Black eschar fell from 50% to 0%, red granulation rose from 10% to 80%, and the size and drainage are decreasing."
    ],
    "rationale": "Evaluation means comparing data over time. In this record, black eschar fell from 50% to 0%, red granulation rose from 10% to 80%, the wound shrank, and drainage decreased with no odor, which is exactly the shift the RYB guide expects as debridement works. Yellow briefly increased in week 2, but overall necrotic tissue (black plus yellow) fell each week as red tissue grew. The week-2 yellow increase is the tempting trap; it has to be read along with the large drop in black eschar, not alone.",
@@ -639,7 +653,8 @@ window.NURSE_DATA.push({
    "focus": "Assessment Findings",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-019",
@@ -1044,7 +1059,8 @@ window.NURSE_DATA.push({
    "focus": "Prioritization",
    "difficulty": 3,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-028",
@@ -1053,16 +1069,16 @@ window.NURSE_DATA.push({
    "stem": "An unlicensed assistive personnel (UAP) is about to move a 90-year-old client up in bed. The client is on POD 3 after hip repair and has thin, fragile skin. Which instruction by the RN is most important?",
    "options": [
     "“Have the client push with the heels to help slide up toward the head of the bed.”",
-    "“Grasp the client's forearms firmly to guide the move.”",
+    "“Raise the bed to your waist height before you move the client.”",
     "“Use a draw sheet and a second helper to lift rather than slide.”",
-    "“Apply lotion to the client's back first so the skin glides.”"
+    "“Check the skin on the hips and sacrum after you finish the move.”"
    ],
    "answer": 2,
    "optionRationales": [
     "Incorrect. Pushing with the heels drags the skin and heels against the sheets, creating friction and shear.",
-    "Incorrect. Gripping fragile forearm skin can cause skin tears and bruising.",
+    "Incorrect. Good body mechanics protect the UAP, but this does not prevent the shear that tears fragile skin.",
     "Correct. Older adults have thin, fragile skin that tears easily, so the client is lifted with a draw sheet rather than dragged.",
-    "Incorrect. Lotion does not prevent tearing during a drag, and the move should be a lift, not a slide."
+    "Incorrect. Checking skin is appropriate, but it finds damage after it happens; lifting instead of sliding prevents it."
    ],
    "rationale": "With aging, skin becomes thinner and more fragile with less fat and fewer blood vessels underneath, so it tears easily. The safest way to move a frail older adult is to lift with a draw sheet and enough help, never to drag the client across the sheets. A skin tear is a new wound, not an expected finding, and it adds to the healing burden of a client who already heals slowly. Having the client push with the heels is tempting because it seems to involve the client, but it creates friction and shear on fragile skin.",
    "takeaway": "Lift fragile older adults with a draw sheet; don't drag.",
@@ -1074,7 +1090,8 @@ window.NURSE_DATA.push({
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-029",
@@ -1104,7 +1121,8 @@ window.NURSE_DATA.push({
    "focus": "Prioritization",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-030",
@@ -1113,15 +1131,15 @@ window.NURSE_DATA.push({
    "stem": "During a prescribed dressing change on a client's open abdominal wound that is healing by secondary intention, the beefy red, moist, bumpy wound bed bleeds slightly as the nonadherent dressing is lifted. Vital signs are unchanged from baseline. Which action should the nurse take?",
    "options": [
     "Stop the dressing change and call the surgeon to report hemorrhage",
-    "Pack the wound tightly with dry gauze to stop the bleeding",
-    "Cleanse the bleeding area firmly with saline to remove any clots that form",
+    "Recheck the vital signs before continuing the dressing change",
+    "Document the bleeding and report it at the next provider round",
     "Apply gentle pressure, finish the change, and document the finding"
    ],
    "answer": 3,
    "optionRationales": [
     "Incorrect. Slight bleeding from granulation with stable vital signs is expected, not hemorrhage.",
-    "Incorrect. Dry gauze sticks to and damages fragile granulation, and tight packing is not indicated for slight bleeding.",
-    "Incorrect. Firm cleansing traumatizes granulation tissue and causes more bleeding.",
+    "Incorrect. Vital signs are already stable, and slight oozing from granulation is expected, so rechecking delays the care the client needs.",
+    "Incorrect. Documenting is needed, but this does not control the oozing, and slight bleeding from granulation does not need to be reported.",
     "Correct. Healthy granulation is packed with new capillaries and bleeds easily; gentle pressure controls the oozing, and the finding is documented."
    ],
    "rationale": "In the proliferative phase, granulation tissue fills an open wound. Healthy granulation is beefy red, moist, and bumpy, and because it is full of fragile new capillaries it bleeds slightly when touched. With stable vital signs, slight oozing is expected; the nurse applies gentle pressure, protects the tissue, completes the prescribed change, and documents. Calling the surgeon for hemorrhage is the tempting overreaction, since true hemorrhage involves heavy bleeding or changing vital signs.",
@@ -1136,7 +1154,8 @@ window.NURSE_DATA.push({
    "focus": "Nursing Interventions",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-031",
@@ -1145,16 +1164,16 @@ window.NURSE_DATA.push({
    "stem": "A client is on POD 2 after an open inguinal hernia repair. The incision edges are approximated, with a 0.5-cm band of mild redness and slight swelling along the sutures. The area is slightly warm, and there is a scant amount of clear, watery drainage on the dressing. Temperature is 37.3 °C (99.1 °F). The client asks, “Is it infected?” Which action should the nurse take?",
    "options": [
     "Explain these are expected early healing findings and keep monitoring",
-    "Notify the surgeon of a probable incisional infection",
+    "Notify the surgeon that the incision shows signs of infection",
     "Obtain a culture of the clear drainage before the next dressing change",
-    "Remove one suture so any trapped drainage can escape"
+    "Recheck the temperature in 1 hour before answering the client"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. Redness, edema, slight warmth, and exudate are normal signs of the inflammatory phase in the first days after surgery.",
-    "Incorrect. Mild redness, swelling, warmth, and serous drainage on POD 2 are expected inflammatory-phase findings, not infection.",
+    "Incorrect. Watching for infection is important, but mild redness, swelling, warmth, and serous drainage on POD 2 are expected inflammatory-phase findings, not infection.",
     "Incorrect. A culture is not indicated for expected serous drainage without signs of infection.",
-    "Incorrect. Removing sutures is not a nursing decision here and would disrupt a normally healing incision."
+    "Incorrect. Monitoring temperature is reasonable, but the current data already show expected findings, and the client's question can be answered now."
    ],
    "rationale": "The inflammatory phase lasts about 3–6 days after injury. Blood vessels near the wound widen and leak so white blood cells can enter, which causes mild redness, edema, warmth, and exudate. These are normal early signs, so on POD 2 the nurse explains them, documents, and continues monitoring. Notifying the surgeon is tempting because the findings resemble infection, but infection usually shows up around POD 3–5 as increasing pain, spreading redness, and purulent drainage.",
    "takeaway": "Mild redness, swelling, warmth, and serous drainage in the first days after surgery are expected inflammation.",
@@ -1166,7 +1185,8 @@ window.NURSE_DATA.push({
    "focus": "Assessment Findings",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-032",
@@ -1175,16 +1195,16 @@ window.NURSE_DATA.push({
    "stem": "An 84-year-old client is on POD 4 after repair of a wrist fracture. The client is alert, oriented, eating well, and at baseline temperature. The client's daughter says, “Mom's incision barely looks red or swollen, and it's closing slower than mine did. Is something wrong?” Which response by the nurse is best?",
    "options": [
     "“A weak response like this means an infection is hiding, so I'll ask for a culture.”",
-    "“Healing should look the same at any age, so I'll notify the surgeon about this.”",
+    "“Healing slows with age, but I'll notify the surgeon so the incision can be checked.”",
     "“Older adults often have a milder inflammatory response and close wounds more slowly.”",
-    "“The incision isn't healing at all, so it may need to be reopened and cleaned.”"
+    "“Extra protein in her diet will help the incision heal faster, so let's work on that.”"
    ],
    "answer": 2,
    "optionRationales": [
     "Incorrect. There are no infection cues such as new confusion, a temperature above baseline, or poor intake.",
-    "Incorrect. Healing normally differs with age; this is not a reason to notify the surgeon.",
+    "Incorrect. The first part is accurate, but there are no abnormal findings, so notifying the surgeon is unnecessary.",
     "Correct. Aging slows and weakens the inflammatory response and epithelialization, so less redness and slower closure are expected.",
-    "Incorrect. Slower, quieter healing is still healing; nothing suggests the incision needs to be reopened."
+    "Incorrect. Protein supports healing, but the client is eating well, and this does not answer whether something is wrong."
    ],
    "rationale": "Older adults can heal well, but more slowly and more quietly. Aging brings thinner skin with fewer blood vessels, a slower and weaker inflammatory response, and slower epithelialization, so an incision may look less red and swollen and take longer to close. Because this client is alert, eating well, and at baseline temperature, these are expected age-related changes. The “hidden infection” option is tempting because blunted inflammation can mask infection, but there are no infection cues here to act on.",
    "takeaway": "Less redness and slower closure in an older adult are expected; new confusion or a temperature above baseline is not.",
@@ -1196,7 +1216,8 @@ window.NURSE_DATA.push({
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-033",
@@ -1204,16 +1225,16 @@ window.NURSE_DATA.push({
    "type": "mcq",
    "stem": "A 38-year-old warehouse worker is 3 weeks after an open inguinal hernia repair. The incision is closed and well approximated. The client says, “It looks healed, so I'm going back to lifting heavy boxes tomorrow.” Which response by the nurse is best?",
    "options": [
-    "“Once the skin is closed, the tissue underneath is just as strong as it was before surgery.”",
+    "“Avoid heavy lifting until the incision no longer feels sore when you touch it.”",
     "“The scar keeps gaining strength for months, so follow your surgeon's lifting limits.”",
-    "“After 3 weeks, the scar is actually stronger than your original tissue.”",
+    "“Start with lighter boxes tomorrow and add weight as long as you have no pain.”",
     "“Lifting is fine as long as you wear an abdominal binder while you are working.”"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. A closed surface does not mean full strength; collagen is still being laid down and reorganized.",
+    "Incorrect. Limiting lifting is right, but lack of tenderness does not mean the scar is strong; the surgeon's limits guide when to resume.",
     "Correct. Maturation starts around day 21 and lasts 1–2 years; the scar is still gaining strength and never fully matches the original tissue.",
-    "Incorrect. A scar is never as strong as the original tissue, even after it fully matures.",
+    "Incorrect. Gradual activity sounds cautious, but pain is not a reliable guide to scar strength, and the surgeon's limits still apply.",
     "Incorrect. A binder does not replace the surgeon's lifting restrictions while the scar is still gaining strength."
    ],
    "rationale": "By about day 21 the wound is entering the maturation phase, when collagen reorganizes into a stronger pattern. This phase lasts 1–2 years, and even a fully mature scar reaches only about 70–80% of the original tissue's strength. A wound that looks closed on the surface is still weak underneath, so heavy lifting should wait for the surgeon's clearance. The binder option is tempting because it sounds protective, but it does not make an immature scar strong enough for heavy loads.",
@@ -1226,7 +1247,8 @@ window.NURSE_DATA.push({
    "focus": "Client Teaching",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-034",
@@ -1258,7 +1280,8 @@ window.NURSE_DATA.push({
    "focus": "Assessment Findings",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-035",
@@ -1331,7 +1354,8 @@ window.NURSE_DATA.push({
    "focus": "Assessment Findings",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-036",
@@ -1371,15 +1395,15 @@ window.NURSE_DATA.push({
    "options": [
     "“Yes. Any raised scar is a keloid, and it will keep growing larger over time.”",
     "“If it stays inside the incision edges, it's a hypertrophic scar, which often flattens.”",
-    "“A thick, red scar like this means the incision is infected and needs a culture.”",
-    "“A raised scar means the wound never fully closed, so it may reopen later.”"
+    "“Keloids are more common in people with darker skin, so it depends on your skin tone.”",
+    "“It's too early to tell; a keloid can't be identified until the scar is a year old.”"
    ],
    "answer": 1,
    "optionRationales": [
     "Incorrect. A keloid extends beyond the original wound edges; a raised scar within the borders is not a keloid.",
     "Correct. A hypertrophic scar is thick and raised but stays within the original wound borders and often flattens over time.",
-    "Incorrect. Thickening at 8 weeks reflects extra collagen during maturation, not infection; no infection cues are present.",
-    "Incorrect. A raised scar is a closed, maturing wound, not a sign that it will reopen."
+    "Incorrect. Keloids are more common in darker skin, but skin tone does not tell the scar types apart; the scar's borders do.",
+    "Incorrect. Waiting and watching a new scar is reasonable, but a keloid is identified by growth beyond the wound edges, not by age; this scar stays within its borders, so it is hypertrophic."
    ],
    "rationale": "Both hypertrophic scars and keloids come from too much collagen during maturation, but they differ in one key way. A hypertrophic scar is thick and raised yet stays within the borders of the original wound, and it often flattens over time. A keloid extends beyond the original wound edges and can be shiny, raised, and itchy; it is more common in people with darker skin. Agreeing that it is a keloid is tempting because both scars are raised, but the scar's borders are what tell them apart.",
    "takeaway": "Hypertrophic scar stays within the wound borders; a keloid grows beyond them.",
@@ -1391,7 +1415,8 @@ window.NURSE_DATA.push({
    "focus": "Client Teaching",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-038",
@@ -1400,15 +1425,15 @@ window.NURSE_DATA.push({
    "stem": "Three months after a total knee replacement, a client says, “My scar is still pinkish-purple and a little raised. Did it heal wrong?” The incision is closed, with no drainage, warmth, or tenderness. Which response by the nurse is most accurate?",
    "options": [
     "“A scar should be flat and pale by 6 weeks, so I'll let your surgeon know.”",
-    "“The color means the inflammatory phase is still active and needs to be treated now.”",
-    "“Your scar is done changing and is now stronger than the skin around it.”",
+    "“Gently massaging the scar each day may help it soften and flatten over time.”",
+    "“Keeping the scar out of the sun will help it fade, so use sunscreen on it.”",
     "“Scars keep remodeling for 1 to 2 years and usually flatten and fade with time.”"
    ],
    "answer": 3,
    "optionRationales": [
     "Incorrect. Maturation lasts 1–2 years, so a scar is not expected to be flat and pale by 6 weeks.",
-    "Incorrect. The inflammatory phase lasts only about 3–6 days; scar color at 3 months reflects maturation.",
-    "Incorrect. The scar is still maturing, and a scar never becomes as strong as the original tissue.",
+    "Incorrect. Scar massage may help, but this does not answer whether the scar healed wrong or explain the expected timeline.",
+    "Incorrect. Sun protection is good advice, but it does not explain that this appearance is expected during maturation.",
     "Correct. During maturation, collagen reorganizes and the scar slowly flattens and fades from red or purple to paler than the surrounding skin."
    ],
    "rationale": "The maturation (remodeling) phase starts around day 21 and lasts 1–2 years. During this time, collagen reorganizes, and the scar slowly strengthens, flattens, and fades from red or purple to paler than the surrounding skin. At 3 months, with no drainage, warmth, or tenderness, a pinkish-purple, slightly raised scar is expected. Notifying the surgeon is tempting for a cautious nurse, but it is based on the wrong timeline.",
@@ -1421,7 +1446,8 @@ window.NURSE_DATA.push({
    "focus": "Client Teaching",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-039",
@@ -1431,15 +1457,15 @@ window.NURSE_DATA.push({
    "options": [
     "“The edges are held together, so it heals by primary intention with minimal scarring.”",
     "“Glue leaves the cut partly open, so it fills in from the bottom and scars more.”",
-    "“It was closed after a delay, so the scar will be larger than with stitches.”",
-    "“Children's skin can't heal by primary intention, so a small gap will remain.”"
+    "“Every wound leaves some scar, so it's too early to say how this one will look.”",
+    "“Keeping the area out of the sun as it heals will help the scar fade over time.”"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. Adhesive approximates the edges, so the wound heals by primary intention with minimal granulation and minimal scarring.",
     "Incorrect. Skin adhesive holds the edges together; filling in from the bottom describes secondary intention.",
-    "Incorrect. Closure after a delay of several days is tertiary intention; this wound was closed right away.",
-    "Incorrect. Primary intention applies at any age when the edges are approximated."
+    "Incorrect. Some scarring is expected, but the nurse can explain that edges held together heal by primary intention with minimal scarring.",
+    "Incorrect. Sun protection is helpful, but it does not answer how much scarring to expect from this closure."
    ],
    "rationale": "Primary intention occurs when wound edges are approximated, whether with sutures, staples, or adhesive closure such as skin glue. Because little tissue is lost and only a thin line needs to heal, there is minimal granulation and minimal scarring. Secondary intention applies to open wounds with extensive tissue loss, and tertiary intention applies to wounds left open for about 3–5 days before closure. The “glue leaves it open” option is tempting for parents who expect stitches, but adhesive closes the edges just as sutures do.",
    "takeaway": "Edges held together by sutures, staples, or adhesive = primary intention with minimal scarring.",
@@ -1451,7 +1477,8 @@ window.NURSE_DATA.push({
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-040",
@@ -1460,16 +1487,16 @@ window.NURSE_DATA.push({
    "stem": "A nursing student palpates a client's sutured abdominal incision on POD 3 and reports, “I can't feel a healing ridge. Should we call the surgeon?” The edges are approximated with mild redness and no drainage. Which response by the nurse is most accurate?",
    "options": [
     "“No ridge means collagen formation has failed, so the incision may open later today.”",
-    "“The ridge should already be present by the first day after surgery.”",
+    "“Check again tomorrow, and call the surgeon if the ridge is still missing then.”",
     "“A ridge is usually felt by about the end of the first week, so this is expected.”",
-    "“A ridge only forms in open wounds that heal by secondary intention.”"
+    "“A ridge isn't needed to judge healing; just check that the edges stay closed.”"
    ],
    "answer": 2,
    "optionRationales": [
     "Incorrect. Collagen is only beginning to form on POD 3; a missing ridge is a concern near the end of the first week, not now.",
-    "Incorrect. Collagen is made by fibroblasts starting around day 3, so a ridge cannot be present on POD 1.",
+    "Incorrect. Rechecking is reasonable, but a ridge is not expected by POD 4 either; a missing ridge becomes a concern near POD 9.",
     "Correct. The healing ridge forms from new collagen during the proliferative phase and is usually palpable by about the end of the first week.",
-    "Incorrect. The healing ridge is a feature of closed incisions healing by primary intention."
+    "Incorrect. Checking the edges is appropriate, but the healing ridge is a key sign of collagen formation and should be felt by the end of the first week."
    ],
    "rationale": "A healing ridge is a firm ridge under a closed incision made by new collagen. Fibroblasts begin laying down collagen in the proliferative phase, starting around day 3, and the ridge is usually palpable by about the end of the first week. On POD 3, its absence is expected, while a missing ridge around POD 9 would signal inadequate collagen and a higher risk of dehiscence. The tempting answer warns of imminent opening, but it applies the POD 9 rule too early.",
    "takeaway": "No healing ridge is expected on POD 3; no ridge by about POD 9 is a warning sign.",
@@ -1481,7 +1508,8 @@ window.NURSE_DATA.push({
    "focus": "Assessment Findings",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-041",
@@ -1489,17 +1517,17 @@ window.NURSE_DATA.push({
    "type": "mcq",
    "stem": "During a preoperative interview, a 30-year-old client of Asian descent who is scheduled for elective abdominal surgery mentions having “bad scars.” Which question by the nurse is most important to help the team plan for scarring problems?",
    "options": [
-    "“Do your scars usually fade completely within a few weeks?”",
+    "“Have any of your scars been thick and raised but stayed inside the cut?”",
     "“Have you ever had a scar grow beyond the edges of the original cut?”",
     "“Have any of your scars ever itched while they were healing?”",
-    "“Would you prefer staples or stitches for closing your incision?”"
+    "“Did any of your past incisions become infected while they were healing?”"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Most scars take 1–2 years to mature, so this question does not identify a keloid tendency.",
+    "Incorrect. This identifies a hypertrophic scar, which is useful, but it does not identify a keloid, the main concern for this client.",
     "Correct. A scar that extends beyond the original wound edges is a keloid; a history of keloids should be shared with the surgeon so prevention can be planned.",
     "Incorrect. Itching is common during healing and does not distinguish a keloid from a normal scar.",
-    "Incorrect. Closure type is the surgeon's decision and does not assess the client's scarring history."
+    "Incorrect. Past infection is useful healing history, but it does not assess the client's tendency to form problem scars."
    ],
    "rationale": "A keloid is an overgrown scar that extends beyond the original wound edges, and keloids are more common in people with darker skin, including people of African and Asian descent. A client who has had a keloid before should tell the surgeon before any new surgery so prevention can be planned. The most useful question therefore asks specifically whether a scar has grown past the original wound edges, which separates a keloid from a hypertrophic or normal scar. The itching question is tempting because keloids can itch, but many normal healing scars itch too.",
    "takeaway": "Ask whether a scar ever grew beyond the original wound edges; a keloid history should be shared with the surgeon.",
@@ -1511,7 +1539,8 @@ window.NURSE_DATA.push({
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-042",
@@ -1519,19 +1548,19 @@ window.NURSE_DATA.push({
    "type": "mcq",
    "stem": "On POD 7 after an open appendectomy, a client touches the incision and says, “There's a hard ridge under my scar. Should I rub it to break it up?” The incision is closed and dry, with no redness or warmth. Which response by the nurse is best?",
    "options": [
-    "“That ridge is probably pus, so I'll notify your surgeon right away.”",
-    "“Rubbing the ridge every day will help the new tissue line up faster.”",
-    "“That hard ridge is a keloid, and you should avoid future surgery.”",
+    "“That lump should be checked, so I'll let your surgeon know today.”",
+    "“Don't rub it, but call your surgeon if it gets red or starts to drain.”",
+    "“Gentle scar massage can help later, once the incision has fully healed.”",
     "“That firm ridge is new collagen, a good sign of healing, so leave it alone.”"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. A firm ridge without redness, warmth, or drainage is not pus; it is expected collagen.",
-    "Incorrect. The ridge is new collagen giving the incision strength; it does not need to be broken up.",
-    "Incorrect. A keloid is an overgrown scar that extends beyond the wound edges and forms later, during maturation.",
+    "Incorrect. Reporting a new lump is a cautious instinct, but there is no redness, warmth, or drainage, and a firm ridge on POD 7 is expected healing that needs no report.",
+    "Incorrect. Advising against rubbing and teaching warning signs are both appropriate, but this response never tells the client what the ridge is or that it is a good sign, so it is incomplete.",
+    "Incorrect. Scar massage is sometimes used after full healing, but it is mistimed advice that does not explain the ridge the client is worried about now.",
     "Correct. A healing ridge forms from new collagen and is usually felt by about the end of the first week; it is a sign of healing."
    ],
-   "rationale": "During the proliferative phase, fibroblasts lay down collagen, and in a closed incision this forms a firm healing ridge that is usually palpable by about the end of the first week. The ridge is a good sign: it means the incision is gaining strength. The client should be reassured and taught not to disrupt it. Calling it pus is tempting because the client describes a hard lump, but there is no redness, warmth, or drainage to suggest infection.",
+   "rationale": "During the proliferative phase, fibroblasts lay down collagen, and in a closed incision this forms a firm healing ridge that is usually palpable by about the end of the first week. The ridge is a good sign: it means the incision is gaining strength. The client should be reassured and taught not to disrupt it. Notifying the surgeon is tempting because the client describes a hard lump, but there is no redness, warmth, or drainage to suggest a problem, and a healing ridge is expected.",
    "takeaway": "A firm ridge under an incision around the end of the first week is healing collagen, a good sign.",
    "hintContent": "Recall what forms under a closed incision during the first week and what it means.",
    "hintStrategy": "When the stem rules out signs of infection, choose the response that teaches what the expected finding means.",
@@ -1541,7 +1570,8 @@ window.NURSE_DATA.push({
    "focus": "Client Teaching",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-043",
@@ -1847,14 +1877,14 @@ window.NURSE_DATA.push({
     "Notify the surgeon that the drainage has changed color",
     "Obtain a culture of the clear drainage at the next change",
     "Document the expected progression and continue to monitor",
-    "Change the dressing every 2 hours to keep the drainage away from the incision"
+    "Reinforce the dressing with extra gauze to absorb the drainage"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. The color change follows the expected pattern and does not need to be reported.",
-    "Incorrect. Clear, scant serous drainage is not a sign of infection.",
+    "Incorrect. Reporting a change in drainage is sometimes needed, but this change is toward lighter color and smaller amount, the expected healing pattern, so no report is needed.",
+    "Incorrect. Cultures are useful when drainage looks infected, but clear, scant drainage with stable vital signs shows no sign of infection.",
     "Correct. Drainage that fades from sanguineous to serosanguineous to serous and decreases in amount is the expected postoperative pattern.",
-    "Incorrect. Scant serous drainage does not call for more frequent dressing changes."
+    "Incorrect. Reinforcing a dressing is appropriate for heavy drainage, but this drainage is scant, so extra gauze adds nothing; documenting and monitoring is what is needed."
    ],
    "rationale": "After surgery, incision drainage should follow a predictable pattern: sanguineous (bloody) right after surgery, serosanguineous (pale pink and watery) over the first day or two, then serous (clear), with the amount decreasing. This client's drainage is fading in color and shrinking in amount, so the nurse documents the expected progression and continues to monitor. Notifying the surgeon is tempting because the drainage changed, but a change toward clear and less is the healing direction. Drainage that goes back to bright red or turns purulent would need reporting.",
    "takeaway": "Expected postoperative drainage fades from red to pink to clear and decreases in amount.",
@@ -1866,7 +1896,8 @@ window.NURSE_DATA.push({
    "focus": "Assessment Findings",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-052",
@@ -1874,17 +1905,17 @@ window.NURSE_DATA.push({
    "type": "mcq",
    "stem": "A client with a slow-healing foot wound who was taught about the effects of smoking is found smoking outside the hospital entrance. The client says, “I know, I know. I've tried to quit before, and I just can't.” Which response by the nurse is best?",
    "options": [
-    "“If you keep smoking, your wound won't heal, and that is really your choice.”",
+    "“I know quitting is hard. Smoking narrows the blood vessels that feed your wound.”",
     "“Quitting is hard. Would you like me to ask your provider about quit-smoking aids?”",
     "“Switching to e-cigarettes would be a much safer way to protect your wound.”",
-    "“Just cut back to only a few cigarettes a day, and your wound should be fine.”"
+    "“Even a few cigarettes a day slow healing, so cutting back is not enough.”"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. This response is judgmental and ends the conversation without offering support.",
+    "Incorrect. Acknowledging the struggle and linking smoking to the wound are both helpful, but the client already knows the risk and needs concrete help to quit, which this response does not offer.",
     "Correct. This response acknowledges the difficulty without judgment and offers concrete help, such as discussing nicotine replacement and a quit-smoking program with the provider.",
-    "Incorrect. Vaping still delivers nicotine, which constricts blood vessels and reduces blood flow to the wound.",
-    "Incorrect. Any smoking still narrows blood vessels and lowers oxygen delivery to the wound."
+    "Incorrect. Harm reduction is a reasonable idea, but e-cigarettes still deliver nicotine, which narrows the vessels that feed the wound, so this is not a safe substitute.",
+    "Incorrect. It is true that even a few cigarettes impair healing, but this response lectures and discourages a step toward quitting instead of offering help."
    ],
    "rationale": "Smoking slows healing in two ways: nicotine constricts blood vessels, and carbon monoxide takes oxygen's place on hemoglobin, so the wound is starved of oxygen. Because quitting is hard, the nurse responds without judgment, acknowledges the struggle, and offers concrete help, such as asking the provider about nicotine replacement options and a quit-smoking program. Any step toward quitting should be praised. The e-cigarette option is tempting because it sounds like harm reduction, but vaping still delivers nicotine and still narrows the vessels feeding the wound.",
    "takeaway": "Respond to smoking without judgment and offer help to quit; vaping is not a safe swap for a healing wound.",
@@ -1896,7 +1927,8 @@ window.NURSE_DATA.push({
    "focus": "Client Teaching",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-053",
@@ -1904,16 +1936,16 @@ window.NURSE_DATA.push({
    "type": "mcq",
    "stem": "A 79-year-old client with an open sacral wound has eaten 30–40% of each meal for the past week and has lost 3 kg (6.6 lb) over the past month. Serum albumin is 2.8 g/dL. Which action by the nurse is most appropriate?",
    "options": [
-    "Encourage the client to skip snacks so that hunger improves at meals",
+    "Offer the client high-protein snacks between meals",
     "Recheck the albumin in 1 month before changing the plan",
-    "Limit the client's fluids so the wound produces less drainage",
+    "Start a 3-day calorie count to measure the intake",
     "Report the findings and request a nutrition consult"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Skipping snacks lowers total intake further; small, frequent protein-rich snacks help instead.",
-    "Incorrect. The current data already show malnutrition, and waiting a month delays needed treatment.",
-    "Incorrect. Unless a provider orders a restriction, a healing client needs adequate fluids; limiting fluids does not help the wound.",
+    "Incorrect. Protein snacks are a helpful nursing measure, but with weight loss, poor intake, and low albumin, the client needs a full nutrition plan from a dietitian, so this alone is incomplete.",
+    "Incorrect. Following lab trends is reasonable, but the data already show malnutrition, and waiting a month lets the wound stall.",
+    "Incorrect. A calorie count is a valid assessment tool, but intake, weight loss, and albumin already confirm the problem, so more data delays the needed referral.",
     "Correct. Poor intake, unplanned weight loss, and albumin below about 3.5 g/dL point to malnutrition that will delay healing, so the nurse reports and requests a nutrition consult."
    ],
    "rationale": "Wound healing needs protein, calories, vitamins, and minerals, and malnutrition is one of the most common reasons a wound stalls. The cues here are classic: eating 50% or less of meals, unplanned weight loss, and an albumin of 2.8 g/dL, below about 3.5 g/dL. The nurse reports these findings and requests a nutrition consult so a dietitian can plan protein- and calorie-rich intake. Waiting to recheck the albumin is tempting because it seems cautious, but the problem is already clear and delay harms healing.",
@@ -1926,7 +1958,8 @@ window.NURSE_DATA.push({
    "focus": "Nursing Interventions",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-054",
@@ -1935,18 +1968,18 @@ window.NURSE_DATA.push({
    "stem": "The spouse of a client with an open abdominal wound that drains a moderate amount of serous fluid has been limiting the client's drinks, saying, “Less water in means less drainage out.” The client has no heart or kidney disease and no prescribed fluid restriction. Which response by the nurse is best?",
    "options": [
     "“Drinking enough keeps blood flowing to the wound, so please don't limit fluids.”",
-    "“Limit fluids only in the evening so that the dressing stays dry through the night.”",
-    "“Fluid intake doesn't really affect wounds, so the amount isn't important.”",
-    "“That makes sense, because less fluid going in will help the wound dry up.”"
+    "“Offer drinks freely, and I'll change the dressing as often as needed.”",
+    "“Ask the surgeon how much fluid is right for her before you give her more.”",
+    "“Some drainage is expected, so we'll measure the amount at each dressing change.”"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. Adequate fluids maintain blood flow and tissue hydration, which healing needs, unless a provider orders a restriction.",
-    "Incorrect. Without a prescribed restriction, fluids should not be limited at any time of day.",
-    "Incorrect. Fluids do matter; they keep blood flowing to the wound and the tissue hydrated.",
-    "Incorrect. Limiting fluids does not dry up a wound in a helpful way and can impair blood flow to it."
+    "Incorrect. Offering fluids freely is the right action, but this response does not explain why fluids help healing, so the spouse may go back to limiting them.",
+    "Incorrect. Checking with the surgeon is reasonable when a restriction might be needed, but this client has no restriction or heart or kidney disease, so the nurse can teach now.",
+    "Incorrect. Monitoring drainage is a true and useful step, but it does not correct the spouse's belief that limiting fluids helps the wound."
    ],
-   "rationale": "Healing depends on blood flow that brings oxygen, nutrients, and white blood cells to the wound. Adequate fluid intake keeps blood volume up and tissues hydrated, so a healing client should drink enough unless a provider orders a restriction for a condition such as heart or kidney disease. Limiting fluids does not dry up a wound in a helpful way. Agreeing with the spouse is tempting because it seems logical that less fluid means less drainage, but it can actually slow healing.",
+   "rationale": "Healing depends on blood flow that brings oxygen, nutrients, and white blood cells to the wound. Adequate fluid intake keeps blood volume up and tissues hydrated, so a healing client should drink enough unless a provider orders a restriction for a condition such as heart or kidney disease. Limiting fluids does not dry up a wound in a helpful way, and it can actually slow healing. Simply offering drinks or measuring drainage is tempting, but the spouse needs to hear why fluids matter so the restriction stops.",
    "takeaway": "Unless restricted, a healing client needs adequate fluids; limiting fluids does not help a wound.",
    "hintContent": "Think about how blood flow and hydration relate to bringing supplies to the wound.",
    "hintStrategy": "For family-teaching items, gently correct the misconception with the reason behind the correct practice.",
@@ -1956,7 +1989,8 @@ window.NURSE_DATA.push({
    "focus": "Client Teaching",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-055",
@@ -1964,17 +1998,17 @@ window.NURSE_DATA.push({
    "type": "mcq",
    "stem": "During a preoperative phone call 1 week before an elective open abdominal surgery, a client mentions taking a full-strength aspirin every day “for heart health,” on the client's own. Which action by the nurse is most appropriate?",
    "options": [
-    "Tell the client to keep taking it, since aspirin protects the incision",
-    "Tell the client to double the vitamin C dose to offset the aspirin",
+    "Tell the client to stop taking the aspirin a week before surgery",
+    "Teach the client that aspirin increases bleeding risk",
     "Notify the surgeon of the daily aspirin use before the surgery",
-    "Document the aspirin use and take no other action"
+    "Document the daily aspirin use in the record and take no other action"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Aspirin interferes with platelets and with the inflammatory response, both of which healing needs.",
-    "Incorrect. Vitamin C supports collagen but does not reverse aspirin's effect on platelets.",
+    "Incorrect. The aspirin may well need to be stopped before surgery, but that decision belongs to the surgeon; the nurse reports rather than changing the medication.",
+    "Incorrect. This teaching is accurate, but it is incomplete, because the surgeon still does not know about the aspirin and cannot plan for it.",
     "Correct. Aspirin affects clotting and the inflammatory response, so the surgeon needs to know and decide how to manage it before surgery.",
-    "Incorrect. Documentation alone does not get the information to the surgeon, who needs to plan for it."
+    "Incorrect. Documenting the finding is necessary, but documenting alone leaves the surgeon unaware of a bleeding and healing risk before the operation."
    ],
    "rationale": "Aspirin impairs healing because it interferes with platelets (clotting) and with the inflammatory response that starts the healing process. A client taking daily aspirin before surgery is at risk for bleeding and slowed healing, so the surgeon must be told in time to decide how to manage it. The nurse reports rather than independently stopping or adjusting the medication. Documenting only is the tempting choice because it records the finding, but it leaves the surgeon unaware of a risk that should be addressed before the operation.",
    "takeaway": "Daily aspirin interferes with clotting and inflammation; report it to the surgeon before surgery.",
@@ -1986,7 +2020,8 @@ window.NURSE_DATA.push({
    "focus": "Pharmacology",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-056",
@@ -1994,17 +2029,17 @@ window.NURSE_DATA.push({
    "type": "mcq",
    "stem": "A client on POD 2 after an open colon resection declines to walk in the hall, saying, “I should stay in bed so my incision can heal.” The client is cleared to ambulate. Which response by the nurse is best?",
    "options": [
-    "“Bed rest is best for healing; we'll walk once your staples come out.”",
+    "“Your surgeon cleared you to walk, so your incision is strong enough now.”",
     "“Walking boosts circulation, which brings oxygen and nutrients to your incision.”",
-    "“Walking only helps your lungs; it doesn't do anything for your incision.”",
-    "“You can skip walking today if you make sure to eat some extra protein at lunch instead.”"
+    "“Hold a pillow against your incision while walking so it feels more secure.”",
+    "“You can skip walking today if you eat extra protein at lunch instead.”"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Prolonged bed rest reduces circulation and delays healing; the client is cleared to walk.",
+    "Incorrect. It is true that the surgeon cleared walking, but this response does not explain how walking helps healing, and an incision on POD 2 still has little strength.",
     "Correct. Exercise pumps blood through the tissues, delivering oxygen and nutrients to the wound and carrying waste away.",
-    "Incorrect. Walking also improves circulation to the incision, which speeds healing.",
-    "Incorrect. Protein is important, but it does not replace the circulation benefits of walking."
+    "Incorrect. Splinting is a helpful comfort tip, but it does not correct the client's belief that staying in bed is better for the incision.",
+    "Incorrect. Protein does support healing, but it cannot replace the circulation that walking provides, and the client is cleared to ambulate."
    ],
    "rationale": "Exercise improves circulation, and better circulation means faster healing. Moving the body pumps blood through the tissues, bringing oxygen and nutrients to the wound and carrying waste away, so walking as allowed after surgery is a simple, powerful healing tool. The nurse corrects the client's belief with the reason walking helps the incision. Offering extra protein instead is tempting because nutrition matters, but it does not replace the blood flow that activity provides.",
    "takeaway": "Walking as allowed improves circulation and speeds wound healing.",
@@ -2016,7 +2051,8 @@ window.NURSE_DATA.push({
    "focus": "Client Teaching",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-057",
@@ -2024,16 +2060,16 @@ window.NURSE_DATA.push({
    "type": "mcq",
    "stem": "A client with a BMI of 34 has a Stage 3 pressure injury. The client says, “I'm going to cut down to 800 calories a day so I can lose weight while this heals.” Which response by the nurse is best?",
    "options": [
-    "“That's a good plan, because losing weight will speed your healing right away.”",
-    "“Calories don't really matter as long as you take a vitamin C supplement.”",
-    "“Cut out carbohydrates and fats completely, but keep your protein high.”",
+    "“Losing weight will help your wound heal, so a slower weight loss would be safer.”",
+    "“Be sure to take a daily multivitamin with extra vitamin C while you cut calories.”",
+    "“Cut out carbohydrates and fats completely, but keep your protein intake high.”",
     "“Too few calories makes your body burn protein for energy instead of building tissue.”"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. A severe calorie cut during healing deprives the wound of energy and protein.",
-    "Incorrect. Vitamin C supports collagen, but it cannot replace the calories and protein a wound needs.",
-    "Incorrect. Carbohydrates and fats supply the energy that spares protein for building tissue.",
+    "Incorrect. Obesity does delay healing, but this response still endorses dieting during healing, when the body needs extra calories and protein.",
+    "Incorrect. Vitamins support collagen formation, but they do not replace the energy the body needs, and this response accepts a severe calorie cut.",
+    "Incorrect. Keeping protein high sounds balanced, but without enough carbohydrates and fats, the body burns that protein for energy instead of building tissue.",
     "Correct. When calories are too low, protein is used for fuel instead of collagen and new cells, so healing slows."
    ],
    "rationale": "Obesity does delay healing, but a severe calorie cut during healing makes things worse. Carbohydrates and fats supply energy; when calories are too low, the body burns protein for fuel instead of using it to build collagen and new cells, so the wound is starved of building material. The nurse explains this and can suggest discussing weight goals with the provider or a dietitian after the wound has healed. Cutting carbohydrates and fats while keeping protein high is tempting because it sounds balanced, but without enough energy the protein still gets burned for fuel.",
@@ -2046,7 +2082,8 @@ window.NURSE_DATA.push({
    "focus": "Client Teaching",
    "difficulty": 3,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-058",
@@ -2114,7 +2151,8 @@ window.NURSE_DATA.push({
    "focus": "Prioritization",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-059",
@@ -2144,7 +2182,8 @@ window.NURSE_DATA.push({
    "focus": "Assessment Findings",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-060",
@@ -2152,19 +2191,19 @@ window.NURSE_DATA.push({
    "type": "mcq",
    "stem": "A client with a Stage 3 pressure injury and no dietary restrictions asks the nurse for help choosing lunch from the hospital menu. Which meal best supports wound healing?",
    "options": [
-    "Lettuce and cucumber salad with a diet soda",
+    "Spinach and strawberry salad with a glass of orange juice",
     "Grilled salmon, black beans, and sliced bell peppers",
-    "Plain white rice with steamed celery and a cup of hot tea",
-    "White toast with jelly and black coffee"
+    "Pasta with marinara sauce, garlic bread, and iced tea",
+    "Egg white omelet with white toast and coffee"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. This meal has almost no protein or calories and little vitamin C or zinc.",
+    "Incorrect. This meal is rich in vitamin C, which helps make collagen, but it supplies very little protein, the main building block the wound needs.",
     "Correct. Fish and beans provide protein and minerals, and bell peppers provide vitamin C for collagen formation.",
-    "Incorrect. This meal is low in protein, vitamin C, iron, and zinc.",
-    "Incorrect. This meal provides mostly simple carbohydrates, with little protein, vitamins, or minerals."
+    "Incorrect. Pasta and bread provide calories for energy, but this meal has little protein and few of the vitamins and minerals a healing wound needs.",
+    "Incorrect. Egg whites supply protein, but this meal lacks vitamin C and minerals such as zinc, so it is less complete than the salmon meal."
    ],
-   "rationale": "A healing wound needs more protein, plus carbohydrates and fats for energy, vitamins A and C, iron, zinc, and copper. Protein is the raw material for collagen and new cells, and vitamin C is needed to make strong collagen. Salmon and black beans supply protein and minerals, and bell peppers supply vitamin C. The salad is tempting because it seems healthy, but it gives the wound almost none of the building blocks it needs.",
+   "rationale": "A healing wound needs more protein, plus carbohydrates and fats for energy, vitamins A and C, iron, zinc, and copper. Protein is the raw material for collagen and new cells, and vitamin C is needed to make strong collagen. Salmon and black beans supply protein and minerals, and bell peppers supply vitamin C. The spinach salad is tempting because it seems healthy and has vitamin C, but it gives the wound almost no protein; the other meals each cover only part of what the wound needs.",
    "takeaway": "Choose meals with protein plus vitamin C (and zinc and iron) to support wound healing.",
    "hintContent": "Look for the meal that contains a protein source and a vitamin C source.",
    "hintStrategy": "In diet-choice items, check each option for the specific nutrients the condition needs, not for how “light” or “healthy” it sounds.",
@@ -2174,7 +2213,8 @@ window.NURSE_DATA.push({
    "focus": "Client Teaching",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-061",
@@ -2183,15 +2223,15 @@ window.NURSE_DATA.push({
    "stem": "A Muslim client with a healing leg wound plans to fast from dawn to sunset during Ramadan. The client asks, “Can I still fast while my wound heals?” Which response by the nurse is best?",
    "options": [
     "“You'll need to stop fasting completely until the wound has fully healed.”",
-    "“Fasting is fine, since what you eat doesn't affect how your wound heals.”",
-    "“Your religious leader should be the one to decide how you manage your wound care.”",
+    "“Many faiths excuse people who are ill from fasting; you could ask your imam.”",
+    "“Fasting is your choice; just be sure to drink plenty of water at night.”",
     "“Let's plan protein-rich meals and medicine times for before dawn and after sunset.”"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. This dismisses the client's beliefs instead of exploring ways to support both healing and the practice.",
-    "Incorrect. Nutrition strongly affects healing, so this information is inaccurate.",
-    "Incorrect. This hands off the nurse's role instead of collaborating with the client on a plan.",
+    "Incorrect. Stopping the fast may seem safest for the wound, but it ignores the client's values and autonomy when a workable plan is possible.",
+    "Incorrect. Many faiths do exempt people who are ill, and involving a religious leader can help, but this response passes the decision away instead of planning care with the client.",
+    "Incorrect. Respecting the choice and encouraging fluids are good, but this response is incomplete, because it does not plan for the protein and medication timing the wound needs.",
     "Correct. This respects the practice and collaborates on meal and medication timing that protects healing."
    ],
    "rationale": "Culturally competent care means asking about and respecting the client's beliefs, food customs, and practices before planning. When a practice such as fasting could affect healing, the nurse does not dismiss it; instead, the nurse discusses it respectfully and collaborates on adjustments, such as timing protein-rich meals and medications in the hours before dawn and after sunset. This protects healing while honoring the client's beliefs. Telling the client to stop fasting is tempting because it seems safest for the wound, but it ignores the client's values and autonomy.",
@@ -2204,7 +2244,8 @@ window.NURSE_DATA.push({
    "focus": "Lifespan & Diversity",
    "difficulty": 3,
    "clientNeed": "Psychosocial Integrity",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-062",
@@ -2274,17 +2315,17 @@ window.NURSE_DATA.push({
    "type": "mcq",
    "stem": "A client whose infected toe wound has healed asks the nurse to request a prescription for antibiotics to take “every day from now on, just in case.” Which response by the nurse is best?",
    "options": [
-    "“That's reasonable, because antibiotics also help wounds heal faster.”",
+    "“I'll ask your provider, since your toe infection could come back.”",
     "“Long-term antibiotics can lead to resistant infections that are harder to treat.”",
-    "“Long-term antibiotics are safe as long as you always take them with food.”",
+    "“Check your feet every day so a new infection is caught early.”",
     "“Antibiotics only stop working if you skip some of the doses that you are prescribed.”"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Antibiotics treat infection; they do not speed normal healing, and long-term use carries risks.",
+    "Incorrect. Relaying requests to the provider is part of the nurse's role, but this response supports an unsafe plan without teaching about resistance.",
     "Correct. Bacteria that survive repeated exposure become resistant, so future infections are harder to treat.",
-    "Incorrect. Taking them with food does not prevent the development of resistant bacteria.",
-    "Incorrect. Resistance also develops with repeated, long-term exposure, not just with missed doses."
+    "Incorrect. Daily foot checks are excellent prevention, but this response does not answer the request or explain why long-term antibiotics are a problem.",
+    "Incorrect. Skipping doses does promote resistance, but long-term use alone also breeds resistant bacteria, so this statement is misleading."
    ],
    "rationale": "Long-term antibiotic use carries the risk of resistant infections. When bacteria are exposed to antibiotics again and again, the ones that survive become resistant, so the next infection is harder to treat. The nurse explains this and redirects the client toward prevention, such as good wound care, nutrition, and glucose control. The missed-doses option is tempting because it is a familiar resistance message, but long-term use alone also breeds resistance.",
    "takeaway": "Long-term antibiotics breed resistant infections; they are not a prevention plan.",
@@ -2296,7 +2337,8 @@ window.NURSE_DATA.push({
    "focus": "Pharmacology",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-065",
@@ -2739,7 +2781,8 @@ window.NURSE_DATA.push({
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-076",
@@ -2769,7 +2812,8 @@ window.NURSE_DATA.push({
    "focus": "Assessment Findings",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-077",
@@ -2799,7 +2843,8 @@ window.NURSE_DATA.push({
    "focus": "Nursing Interventions",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-078",
@@ -2870,18 +2915,18 @@ window.NURSE_DATA.push({
    },
    "options": [
     "Report the signs of shock to the surgeon and prepare for emergency surgery",
-    "Gently ease the bowel back into the abdomen to reduce its exposure",
+    "Remoisten the dressings with sterile normal saline",
     "Raise the head of the bed to high Fowler's position to ease the client's breathing",
-    "Give the client sips of water to help raise the blood pressure"
+    "Recheck the blood pressure in 15 minutes to confirm the trend"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. Rising heart rate, falling blood pressure, restlessness, and cool, clammy skin are signs of shock that must be reported while the client is prepared for surgery.",
-    "Incorrect. Organs are never pushed back in; this can injure the bowel and introduce infection.",
-    "Incorrect. High Fowler's increases abdominal pressure; the client stays in low Fowler's with knees bent.",
-    "Incorrect. The client must stay NPO in preparation for surgery."
+    "Incorrect. Keeping the dressings moist protects the bowel and is ongoing care, but the client is now showing shock, which is the more urgent problem.",
+    "Incorrect. Easing breathing seems helpful, but high Fowler's increases abdominal pressure and tension on the open wound; low Fowler's with knees bent is maintained.",
+    "Incorrect. Trending vital signs is reasonable, but three readings already show shock developing, and waiting delays emergency surgery."
    ],
-   "rationale": "Evisceration is a surgical emergency in which organs protrude through an opened incision. After the nurse stays with the client, covers the organs with sterile saline-moistened dressings, positions the client in low Fowler's with knees bent, and notifies the surgeon, the next priority is monitoring for shock. This client's trend (heart rate climbing to 128/min, blood pressure falling to 90/56 mm Hg, restlessness, cool clammy skin) shows shock developing, so the nurse reports it right away and prepares the client for surgery while keeping the client NPO. Giving water is tempting as a way to raise blood pressure, but it is unsafe before emergency surgery.",
+   "rationale": "Evisceration is a surgical emergency in which organs protrude through an opened incision. After the nurse stays with the client, covers the organs with sterile saline-moistened dressings, positions the client in low Fowler's with knees bent, and notifies the surgeon, the next priority is monitoring for shock. This client's trend (heart rate climbing to 128/min, blood pressure falling to 90/56 mm Hg, restlessness, cool clammy skin) shows shock developing, so the nurse reports it right away and prepares the client for surgery while keeping the client NPO. Rechecking the blood pressure is tempting because it seems careful, but the trend is already clear and waiting delays surgery.",
    "takeaway": "After evisceration care is started, watch for shock (tachycardia, falling BP, restlessness, cool clammy skin) and prepare for surgery, keeping the client NPO.",
    "hintContent": "Read the vital sign trend and decide what it means for a client with exposed organs.",
    "hintStrategy": "In exhibit items, compare the trend across time and choose the action that addresses the newest threat.",
@@ -2891,7 +2936,8 @@ window.NURSE_DATA.push({
    "focus": "Prioritization",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-079",
@@ -2957,7 +3003,8 @@ window.NURSE_DATA.push({
    "focus": "Prioritization",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-080",
@@ -2987,7 +3034,8 @@ window.NURSE_DATA.push({
    "focus": "Assessment Findings",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-081",
@@ -2997,14 +3045,14 @@ window.NURSE_DATA.push({
    "options": [
     "“A few small sips of water are fine, since you're so thirsty.”",
     "“You can have some ice chips if you let them melt slowly.”",
-    "“Drink a full glass now, because you won't be allowed to later.”",
+    "“Let me ask the surgeon whether you can have a few sips.”",
     "“You need to stay NPO for surgery, but I can moisten your mouth.”"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Any oral intake is unsafe because the client is going to emergency surgery.",
-    "Incorrect. Ice chips are still oral intake; the client must stay NPO.",
-    "Incorrect. Fluids before emergency surgery increase the risk of aspiration under anesthesia.",
+    "Incorrect. Responding to thirst is caring, but even small sips break NPO status before emergency surgery and raise aspiration risk.",
+    "Incorrect. Ice chips seem like a minimal compromise, but they are still oral intake, and the client must stay NPO for surgery.",
+    "Incorrect. Checking with the surgeon seems cautious, but a client going to emergency surgery is NPO, and asking delays the comfort the nurse can give now.",
     "Correct. The client is kept NPO in preparation for surgery; mouth care can ease dryness without oral intake."
    ],
    "rationale": "Evisceration is a surgical emergency, and the client will return to surgery. Part of the nurse's response is to keep the client NPO, which protects against aspiration under anesthesia. The nurse can still respond to the client's discomfort by moistening the lips and mouth without giving fluids to swallow. Ice chips are the tempting compromise because they seem minimal, but they are still oral intake.",
@@ -3017,7 +3065,8 @@ window.NURSE_DATA.push({
    "focus": "Client Teaching",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-082",
@@ -3028,14 +3077,14 @@ window.NURSE_DATA.push({
     "Place the client in low Fowler's with the knees bent",
     "Cover the separated incision with dry sterile gauze",
     "Pull the edges together with adhesive closure strips",
-    "Help the client sit upright in a chair to rest comfortably"
+    "Have the client cough and deep breathe to protect the lungs"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. Low Fowler's with knees bent relaxes the abdominal muscles and takes tension off the incision.",
-    "Incorrect. Dry gauze sticks to exposed tissue; the wound is covered with sterile saline-moistened dressings.",
-    "Incorrect. The nurse does not try to close a dehisced wound; this can trap bacteria and tear tissue.",
-    "Incorrect. Sitting upright increases abdominal pressure and strain on the separated incision."
+    "Incorrect. Covering the wound is part of care, but it should be covered with sterile saline-moistened dressings, and positioning to relieve tension comes first.",
+    "Incorrect. Closing the gap seems helpful, but the nurse never tries to close a dehisced wound; the surgeon decides how to repair it.",
+    "Incorrect. Coughing and deep breathing are routine postoperative care, but coughing raises abdominal pressure and could widen the opening or cause evisceration."
    ],
    "rationale": "Dehiscence is the partial or complete separation of wound layers, most often in abdominal incisions near the end of the first week. The nurse stays with the client, positions the client in low Fowler's with knees bent to relax the abdominal muscles, covers the wound with sterile dressings moistened with sterile normal saline, notifies the surgeon, and monitors closely for evisceration. The adhesive strips are tempting because they seem to fix the problem, but the nurse never tries to close a dehisced wound.",
    "takeaway": "Dehiscence: stay, low Fowler's with knees bent, sterile saline-moist dressing, notify the surgeon.",
@@ -3047,7 +3096,8 @@ window.NURSE_DATA.push({
    "focus": "Nursing Interventions",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-083",
@@ -3077,7 +3127,8 @@ window.NURSE_DATA.push({
    "focus": "Prioritization",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-084",
@@ -3087,15 +3138,15 @@ window.NURSE_DATA.push({
    "options": [
     "Start the IV antibiotic infusion",
     "Obtain the wound culture",
-    "Apply an occlusive dressing to contain the drainage",
+    "Give the prescribed acetaminophen for the fever",
     "Remove several staples to let the wound drain"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Giving the antibiotic first can reduce the bacteria in the sample and make the culture less accurate.",
+    "Incorrect. Starting antibiotics promptly matters, but giving the dose before the culture can make the culture results unreliable.",
     "Correct. The culture is obtained before the first antibiotic dose so the results accurately show which organism is present.",
-    "Incorrect. Sealing an infected wound with an occlusive dressing is not appropriate and is not prescribed.",
-    "Incorrect. Removing staples to drain an infected wound is not a nursing decision without a prescription."
+    "Incorrect. Treating fever adds comfort, but it does not treat the infection, and the culture and antibiotic are the priority.",
+    "Incorrect. Opening an infected incision to drain may be needed, but that decision belongs to the provider and is not the first nursing action."
    ],
    "rationale": "Spreading redness, warmth, purulent drainage, and fever on POD 5 point to a surgical wound infection. When both a culture and antibiotics are prescribed, the culture is collected first, ideally before the first antibiotic dose, so the results show the true organism and guide therapy. The antibiotic is then started promptly as prescribed. Starting the antibiotic first is tempting because it treats the infection, but it can make the culture results unreliable.",
    "takeaway": "Obtain the wound culture before the first antibiotic dose.",
@@ -3107,7 +3158,8 @@ window.NURSE_DATA.push({
    "focus": "Nursing Interventions",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-085",
@@ -3139,7 +3191,8 @@ window.NURSE_DATA.push({
    "focus": "Pathophysiology",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-086",
@@ -3180,14 +3233,14 @@ window.NURSE_DATA.push({
     "“Your incision is most likely to open tonight, before it starts healing.”",
     "“Infection is most likely in the first few hours, so we watch for pus.”",
     "“Bleeding risk is highest in the first 48 hours, while the new clots are fragile.”",
-    "“We check this often only because it is hospital routine after any surgery.”"
+    "“Frequent checks tonight are mainly to keep your pain well controlled.”"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Dehiscence usually happens near the end of the first week, when collagen is still weak.",
-    "Incorrect. Wound infection usually appears a few days after surgery, not on the evening of surgery.",
+    "Incorrect. Dehiscence is a real risk, but it usually occurs near the end of the first week, not on the evening of surgery.",
+    "Incorrect. Infection is a real risk, but it usually appears a few days after surgery, not in the first few hours.",
     "Correct. Hemorrhage risk peaks in the first 48 hours because new clots are fragile and can be dislodged.",
-    "Incorrect. This misses the chance to explain the real reason for close monitoring."
+    "Incorrect. Pain is assessed often after surgery, but pain control is not the main reason for frequent dressing and vital sign checks; the main risk tonight is bleeding."
    ],
    "rationale": "The four big wound complications each have a typical timing. Hemorrhage risk is greatest in the first 48 hours after surgery, when the clots sealing blood vessels are newest and most fragile and can be dislodged, or a stitch can slip. Infection usually appears a few days later, and dehiscence often comes near the end of the first week. Frequent dressing and vital sign checks on the evening of surgery are aimed at catching bleeding early, including hidden bleeding.",
    "takeaway": "Hemorrhage risk peaks in the first 48 hours after surgery.",
@@ -3199,7 +3252,8 @@ window.NURSE_DATA.push({
    "focus": "Client Teaching",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-088",
@@ -3261,7 +3315,8 @@ window.NURSE_DATA.push({
    "focus": "Assessment Findings",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m21-x5-090",

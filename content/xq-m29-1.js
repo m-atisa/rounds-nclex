@@ -34,7 +34,8 @@ window.NURSE_DATA.push({
       "focus": "Prioritization",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-002",
@@ -43,18 +44,18 @@ window.NURSE_DATA.push({
       "stem": "A 9-year-old with newly diagnosed type 1 diabetes is learning to check capillary blood glucose. After two unsuccessful attempts, the child tosses the lancet device onto the bed and says, “I am stupid. I cannot do anything right.” What should the nurse do first?",
       "options": [
         "Break the skill into smaller steps and coach the child through one step.",
-        "Perform the checks for the child until discharge to prevent more frustration.",
-        "Mention that a younger roommate learned the skill on the first day.",
-        "Explain that the parents will do glucose checks until the child is older."
+        "Demonstrate the whole procedure again before the child tries once more.",
+        "Praise the child for trying and say the next attempt will go better.",
+        "Have a parent do today’s checks while the child watches and learns."
       ],
       "answer": 0,
       "optionRationales": [
         "Correct. School-age children build industry through manageable practice; a smaller achievable step with coaching restores a sense of competence.",
-        "Incorrect. Taking over for the rest of the stay removes the chance for mastery and may confirm the child’s belief that they cannot succeed.",
-        "Incorrect. Comparison with other children undermines self-esteem and increases the sense of failure.",
-        "Incorrect. This implies the child is incapable; school-age children can learn this skill with appropriate support."
+        "Incorrect. Demonstration is a sound teaching method, but repeating the whole complex skill does not make it more achievable for a discouraged child.",
+        "Incorrect. Encouragement is supportive, but vague praise and a promise do not change the task so the child can succeed.",
+        "Incorrect. Watching a parent is useful modeling, but it removes hands-on practice and may confirm the child’s belief that they cannot do it."
       ],
-      "rationale": "School-age children work toward industry, a sense of competence that grows from mastering real skills. When a child struggles, the nurse supports industry by breaking the task into achievable steps, allowing practice, and praising specific effort. Taking over the skill feels kind but removes the opportunity for mastery and can reinforce the child’s belief that they cannot succeed. Comparisons with other children and postponing the skill entirely both send the message that the child is not capable.",
+      "rationale": "School-age children work toward industry, a sense of competence that grows from mastering real skills. When a child struggles, the nurse supports industry by breaking the task into achievable steps, allowing practice, and praising specific effort. Repeating the whole demonstration or offering general encouragement feels helpful but leaves the task just as hard. Having a parent take over, even for a day, removes the opportunity for mastery and can reinforce the child’s belief that they cannot succeed.",
       "takeaway": "Support industry in school-age children with achievable steps, practice, and specific praise rather than taking over or comparing.",
       "hintContent": "Consider which developmental task a 9-year-old is working on and what builds a sense of competence.",
       "hintStrategy": "When a child is frustrated, choose the option that keeps the child participating at a level where success is likely.",
@@ -64,7 +65,8 @@ window.NURSE_DATA.push({
       "focus": "Lifespan & Diversity",
       "difficulty": 2,
       "clientNeed": "Health Promotion and Maintenance",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-003",
@@ -72,19 +74,19 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "A 14-year-old admitted with abdominal pain gives one-word answers to the nurse’s questions about mood, friends, and school while a parent sits at the bedside and answers for the teen. Which action should the nurse take first?",
       "options": [
-        "Postpone the psychosocial assessment until the teen is ready for discharge.",
-        "Direct the remaining questions to the parent, who seems more willing to talk.",
-        "Document that the teen appears withdrawn and may have a depressive disorder.",
+        "Ask the parent to describe any recent changes in the teen’s mood.",
+        "Rephrase the questions as open-ended prompts directed to the teen.",
+        "Complete a standardized depression screening tool at the bedside.",
         "Offer the teen time to talk with the nurse privately, consistent with policy."
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. Delaying the assessment could miss safety or health concerns that affect the current plan of care.",
-        "Incorrect. This excludes the teen from their own assessment and may miss important information about mood, peers, or safety.",
-        "Incorrect. Brief answers with a parent present are not enough data to suggest a diagnosis; more assessment is needed first.",
-        "Correct. Adolescents value privacy and direct inclusion; private time may allow the teen to share concerns not voiced in front of family."
+        "Incorrect. Parent input is useful collateral data, but it excludes the teen from their own assessment and may miss concerns the teen will not voice in front of family.",
+        "Incorrect. Open-ended questions are good technique, but the parent’s presence is the likely barrier, and rephrasing does not remove it.",
+        "Incorrect. Screening tools are useful, but guarded answers are not yet enough to suggest depression, and the parent’s presence still limits honest answers.",
+        "Correct. Adolescents value privacy and direct inclusion; private time removes the likely barrier and may allow the teen to share concerns not voiced in front of family."
       ],
-      "rationale": "Adolescents are working on identity, and privacy and being addressed directly matter greatly at this stage. Short answers with a parent present may reflect a need for privacy rather than withdrawal or illness. Offering private time, within policy and law, gives the teen a chance to share concerns about mood, peers, or safety. Directing questions to the parent is tempting because it produces answers quickly, but it excludes the teen and may miss the most important information.",
+      "rationale": "Adolescents are working on identity, and privacy and being addressed directly matter greatly at this stage. Short answers with a parent present may reflect a need for privacy rather than withdrawal or illness. Offering private time, within policy and law, gives the teen a chance to share concerns about mood, peers, or safety. Asking the parent, rephrasing questions, or using a screening tool are all reasonable, but none removes the barrier of the parent’s presence, so the most important information may still be missed.",
       "takeaway": "Include adolescents directly and offer private time before drawing conclusions from guarded answers.",
       "hintContent": "Think about what adolescents value during the identity stage and what may be limiting this teen’s answers.",
       "hintStrategy": "Before labeling a behavior, choose the action that gathers better data; assessment comes before conclusions.",
@@ -94,7 +96,8 @@ window.NURSE_DATA.push({
       "focus": "Lifespan & Diversity",
       "difficulty": 2,
       "clientNeed": "Health Promotion and Maintenance",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-004",
@@ -161,7 +164,8 @@ window.NURSE_DATA.push({
             }
           }
         ]
-      }
+      },
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-005",
@@ -169,19 +173,19 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "A 38-year-old client who had a hysterectomy for cervical cancer says quietly, “I do not feel like a real woman anymore.” Which response by the nurse is most therapeutic?",
       "options": [
-        "“You still have your husband and children, and they love you very much.”",
+        "“Removing the uterus does not take away your ability to enjoy intimacy.”",
         "“Tell me what being a woman means to you now that this has happened.”",
-        "“Most women feel this way at first, and it usually passes in a month.”",
-        "“Would you like me to arrange a visit with a psychiatrist this afternoon?”"
+        "“Would you like to talk with a support group of cancer survivors?”",
+        "“It is normal to grieve changes in your body after this kind of surgery.”"
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. Pointing to family love minimizes the loss and changes the subject, even though it sounds supportive.",
-        "Correct. An open-ended invitation explores the meaning of the change to this client before the nurse offers solutions.",
-        "Incorrect. Generalizing to most women and predicting a timeline is false reassurance that dismisses her experience.",
-        "Incorrect. An immediate referral is premature before the nurse has assessed meaning, coping, and safety."
+        "Incorrect. This teaching may be accurate and useful later, but it assumes her concern is sexual function before the nurse knows what the change means to her.",
+        "Correct. An open-ended invitation explores the meaning of the change to this client before the nurse offers teaching, resources, or reassurance.",
+        "Incorrect. Peer support can help, but offering a referral before exploring her feelings moves the conversation away from her.",
+        "Incorrect. Normalizing grief is supportive, but it generalizes her experience and does not invite her to share what the loss means to her."
       ],
-      "rationale": "The statement touches personal identity and possibly body image and sexuality. An open-ended invitation lets the nurse learn what the change means to this particular client before offering solutions. Pointing to family love is tempting because it sounds kind, but it minimizes the loss and moves away from her feelings. Generalizing to “most women” is false reassurance, and an immediate psychiatric referral skips assessment of meaning, coping, and safety.",
+      "rationale": "The statement touches personal identity and possibly body image and sexuality. An open-ended invitation lets the nurse learn what the change means to this particular client before offering solutions. Normalizing her grief is tempting because it sounds kind, but it generalizes her experience rather than exploring it. Teaching about intimacy assumes the nature of her concern, and offering a support group moves to resources before the nurse has assessed meaning, coping, and safety.",
       "takeaway": "Explore the meaning of a change in the client’s own words before reassuring or referring.",
       "hintContent": "The client has said how she feels but not why; choose the response that finds out.",
       "hintStrategy": "In therapeutic communication items, prefer open-ended responses that focus on the client’s feelings over reassurance or advice.",
@@ -191,7 +195,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-006",
@@ -199,19 +204,19 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "An 84-year-old retired school principal admitted with pneumonia is alert and oriented with an oxygen saturation of 95% but has become quiet and withdrawn. The nurse observes staff calling her “sweetie” and an assistive personnel cutting up her food without asking. What should the nurse do first?",
       "options": [
-        "Ask the assistive personnel to feed the client so that she eats enough.",
+        "Remind staff to address the client by her last name at all times.",
         "Request a consultation to evaluate the client for a depressive disorder.",
         "Encourage the family to visit more often to help improve the client’s low mood.",
         "Ask the client how she wants to be addressed and what help she wants at meals."
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. Feeding a capable client further reduces her autonomy and dignity.",
+        "Incorrect. Respectful naming matters, but this assumes her preference instead of asking and does not address unwanted help at meals.",
         "Incorrect. Mood should be monitored, but a consult skips simple assessment of a likely cause the nurse can correct now.",
         "Incorrect. Family visits may help, but they do not address the infantilizing care that preceded her withdrawal.",
-        "Correct. Using her preferred name and offering genuine choices restores dignity and addresses the likely cause of her withdrawal."
+        "Correct. Asking her preferred name and offering genuine choices restores dignity and addresses the likely cause of her withdrawal."
       ],
-      "rationale": "Respectful language, preferred names, and genuine choices preserve identity and dignity, especially for an older adult whose former role carried authority. The withdrawal began in the context of infantilizing care, so the first step is to ask the client about her preferences and correct the approach. A depression consult is tempting because withdrawal can signal depression, but it skips a simple, correctable cause; mood should still be reassessed. Having staff feed her would further reduce her autonomy.",
+      "rationale": "Respectful language, preferred names, and genuine choices preserve identity and dignity, especially for an older adult whose former role carried authority. The withdrawal began in the context of infantilizing care, so the first step is to ask the client about her preferences and correct the approach. A depression consult is tempting because withdrawal can signal depression, but it skips a simple, correctable cause; mood should still be reassessed. Telling staff which name to use is a step in the right direction, but it assumes her preference and leaves the unwanted help at meals unaddressed.",
       "takeaway": "Use the client’s preferred name and ask before helping; infantilizing care erodes self-concept.",
       "hintContent": "Notice how the client was being treated just before she withdrew.",
       "hintStrategy": "Choose the least invasive action that addresses the likely cause before escalating to referrals.",
@@ -223,7 +228,8 @@ window.NURSE_DATA.push({
       "focus": "Lifespan & Diversity",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-007",
@@ -232,18 +238,18 @@ window.NURSE_DATA.push({
       "stem": "A 67-year-old who retired from engineering 6 months ago is admitted after a hip fracture. He says, “Since I stopped working, I do not know who I am anymore.” He denies thoughts of self-harm. Which response should the nurse make first?",
       "options": [
         "“What parts of your work gave you the strongest sense of purpose?”",
-        "“Retirement is a time to relax, so try to enjoy all the free time.”",
+        "“A counselor who works with retirees could help you sort this out.”",
         "“Many retirees take up new hobbies. Here is a list of senior centers.”",
         "“You should be proud of your long career; few people achieve that.”"
       ],
       "answer": 0,
       "optionRationales": [
         "Correct. Exploring what gave his work meaning identifies values and strengths that can carry into new roles.",
-        "Incorrect. This dismisses his distress and imposes the nurse’s view of what retirement should mean.",
+        "Incorrect. Counseling may help later, but referring him before exploring his concern passes off a conversation the nurse can begin now.",
         "Incorrect. Offering substitutes before understanding what he lost jumps to a solution that may not fit him.",
-        "Incorrect. Praise does not explore the identity disruption he is describing and may close the conversation."
+        "Incorrect. Praise is supportive, but it does not explore the identity disruption he is describing and may close the conversation."
       ],
-      "rationale": "The statement reflects a disrupted personal identity tied to a valued work role. Exploring what gave his work meaning identifies values and strengths that can carry forward, consistent with generativity and later-life integrity. A list of hobbies is tempting because it is practical, but it offers substitutes before the nurse understands what matters to him. Telling him to relax or to feel proud dismisses his distress rather than exploring it.",
+      "rationale": "The statement reflects a disrupted personal identity tied to a valued work role. Exploring what gave his work meaning identifies values and strengths that can carry forward, consistent with generativity and later-life integrity. A list of hobbies or a counseling referral is tempting because it is practical, but each offers a solution before the nurse understands what matters to him. Telling him to feel proud is kind but closes the conversation rather than exploring his distress.",
       "takeaway": "Explore what a lost role meant to the client before offering substitutes.",
       "hintContent": "Ask yourself what you would need to know about this man before suggesting a new role.",
       "hintStrategy": "When options include advice, reassurance, and exploration, exploration comes first unless safety is at stake.",
@@ -253,7 +259,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-008",
@@ -285,7 +292,8 @@ window.NURSE_DATA.push({
       "focus": "Pharmacology",
       "difficulty": 3,
       "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-009",
@@ -293,19 +301,19 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "A nurse realizes she has been entering the room of a client with extensive facial burns only for scheduled tasks and leaving quickly because she feels uncomfortable looking at the injuries. Which action should the nurse take first?",
       "options": [
-        "Continue limiting time in the room so that her discomfort is not noticed.",
+        "Spend extra time in the room so the client does not feel avoided.",
         "Ask the charge nurse to reassign the client to a more experienced nurse today.",
         "Tell the client honestly that the injuries are difficult for her to see.",
         "Reflect on her reaction and seek peer support while continuing full care."
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. Brief, task-only visits are likely to be perceived as avoidance and can worsen the client’s body-image distress.",
+        "Incorrect. More presence helps, but without examining her reaction, her discomfort may still show in her nonverbal behavior.",
         "Incorrect. Reassignment avoids the problem rather than addressing it, and the reaction may recur with other clients.",
-        "Incorrect. Disclosing this shifts the burden of the nurse’s feelings onto a client who may already feel rejected.",
-        "Correct. Recognizing the reaction and using professional support protects the client from feeling rejected while care continues."
+        "Incorrect. Honesty is valued, but disclosing this shifts the burden of the nurse’s feelings onto a client who may already feel rejected.",
+        "Correct. Recognizing the reaction and using professional support addresses its source and protects the client from feeling rejected while care continues."
       ],
-      "rationale": "Self-awareness means noticing when one’s own reactions shape care. The client may sense avoidance and interpret it as rejection, which can worsen body-image distress. The nurse should recognize the reaction, use reflection and professional support such as a peer or supervisor, and keep providing complete care. Requesting reassignment is tempting because it seems honest, but it avoids the problem; disclosing her discomfort to the client makes the client responsible for the nurse’s feelings.",
+      "rationale": "Self-awareness means noticing when one’s own reactions shape care. The client may sense avoidance and interpret it as rejection, which can worsen body-image distress. The nurse should recognize the reaction, use reflection and professional support such as a peer or supervisor, and keep providing complete care. Simply spending more time in the room is well-meant, but without addressing the reaction the discomfort may still show. Requesting reassignment avoids the problem, and disclosing her discomfort to the client makes the client responsible for the nurse’s feelings.",
       "takeaway": "Manage your own reactions through reflection and professional support; the client should never carry the nurse’s feelings.",
       "hintContent": "Think about who is responsible for managing the nurse’s emotional reaction.",
       "hintStrategy": "Eliminate options that make the client responsible for staff feelings or that avoid the client.",
@@ -317,7 +325,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-010",
@@ -325,19 +334,19 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "A 50-year-old client admitted yesterday with new heart failure is dressing to leave and says, “I have to go home. My adult son with a disability depends on me, and nobody else can care for him.” Which action should the nurse take first?",
       "options": [
-        "Tell her that leaving now could make her heart fail and could lead to death.",
+        "Explain the risks of leaving before her heart failure is stabilized.",
         "Ask what she is most worried about for her son while she is in the hospital.",
-        "Notify security so that she cannot leave the unit before the provider arrives.",
+        "Call the social worker to arrange temporary care for her son today.",
         "Have her sign the against-medical-advice form and review the discharge plan."
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. Frightening the client is coercive and does not address the reason she wants to leave.",
+        "Incorrect. She needs to understand the risks, but explaining them before learning her concern feels like pressure and does not address why she wants to leave.",
         "Correct. Exploring the specific role concern opens the door to solutions such as social work or respite that may make staying possible.",
-        "Incorrect. Holding a competent adult against her will violates autonomy and may constitute false imprisonment.",
+        "Incorrect. Social work may be the right resource, but arranging care before learning her specific worry may not fit her needs.",
         "Incorrect. This may become necessary, but it comes after the nurse explores the concern and notifies the provider."
       ],
-      "rationale": "The client’s urge to leave is driven by a valued caregiving role, a core part of her role performance and possibly her identity. Exploring the specific concern opens the door to solutions such as social work, respite care, or a family plan that may make staying possible. Frightening her with worst-case outcomes is coercive, and using security to hold a competent adult violates autonomy. Processing an against-medical-advice discharge is tempting because she is already dressing, but it comes only after the nurse understands the concern and notifies the provider.",
+      "rationale": "The client’s urge to leave is driven by a valued caregiving role, a core part of her role performance and possibly her identity. Exploring the specific concern opens the door to solutions such as social work, respite care, or a family plan that may make staying possible. Explaining the risks and calling social work are both appropriate, but each comes after the nurse understands what she is worried about. Processing an against-medical-advice discharge is tempting because she is already dressing, but it comes only after the nurse understands the concern and notifies the provider.",
       "takeaway": "When a valued role drives a risky decision, explore the role concern first; it is often solvable.",
       "hintContent": "Identify what is actually driving the client’s decision to leave.",
       "hintStrategy": "Assess before acting: choose the option that learns more before forcing, frightening, or processing paperwork.",
@@ -349,7 +358,8 @@ window.NURSE_DATA.push({
       "focus": "Prioritization",
       "difficulty": 3,
       "clientNeed": "Psychosocial Integrity",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-011",
@@ -357,19 +367,19 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "A 4-year-old hospitalized with pneumonia tells the nurse, “I got sick because I was bad and hit my brother.” Which response by the nurse is best?",
       "options": [
-        "“You are too young to understand why people get sick, so do not worry.”",
-        "“That is right, hitting is bad, so be kind to your brother from now on.”",
+        "“Pneumonia is an infection in the lungs caused by bacteria or a virus.”",
+        "“What do you think happens inside your body when you get sick?”",
         "“Hitting your brother did not make you sick. Germs got into your chest.”",
-        "“Let’s ask your parents to explain what pneumonia means a little later.”"
+        "“You are not in trouble, and getting sick is nobody’s fault.”"
       ],
       "answer": 2,
       "optionRationales": [
-        "Incorrect. Dismissing the child’s question leaves the guilt in place and discourages questions.",
-        "Incorrect. Agreeing reinforces the child’s belief that the illness is punishment for misbehavior.",
-        "Correct. A brief, concrete, honest explanation corrects the misunderstanding and relieves the child’s guilt.",
-        "Incorrect. Deferring the explanation leaves the misconception uncorrected when it could be addressed simply now."
+        "Incorrect. The information is accurate, but it is too abstract for a preschooler and does not address the guilt the child expressed.",
+        "Incorrect. Assessing understanding is reasonable, but the child has already stated the misconception, and it needs to be corrected now.",
+        "Correct. A brief, concrete, honest explanation directly corrects the magical thinking and gives the child a simple, true cause.",
+        "Incorrect. Relieving guilt is supportive, but it does not replace the misconception with a concrete cause the child can understand."
       ],
-      "rationale": "Preschoolers are in the initiative-versus-guilt stage and often use magical thinking, so they may see illness as punishment for misbehavior. A brief, concrete, honest explanation corrects the misunderstanding and relieves guilt. Agreeing that hitting was bad is tempting because it reinforces good behavior, but it strengthens the link between misbehavior and illness. Dismissing or deferring the child’s understanding leaves the guilt in place and misses a chance to support the child’s questions.",
+      "rationale": "Preschoolers are in the initiative-versus-guilt stage and often use magical thinking, so they may see illness as punishment for misbehavior. A brief, concrete, honest explanation corrects the misunderstanding and relieves guilt. Telling the child that being sick is nobody’s fault is tempting because it eases guilt, but without a concrete cause the magical thinking remains. A technical explanation is too abstract for a 4-year-old, and asking more questions delays correcting a misconception the child has already stated.",
       "takeaway": "Correct a preschooler’s belief that illness is punishment with simple, concrete, honest words.",
       "hintContent": "Think about how preschoolers explain events they do not understand and what feeling that creates.",
       "hintStrategy": "With children, choose the honest, concrete explanation matched to development over deferral or dismissal.",
@@ -379,7 +389,8 @@ window.NURSE_DATA.push({
       "focus": "Lifespan & Diversity",
       "difficulty": 2,
       "clientNeed": "Health Promotion and Maintenance",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-012",
@@ -390,16 +401,16 @@ window.NURSE_DATA.push({
         "“Letting him feed himself with finger foods supports his independence.”",
         "“Feeding him yourself is fine for now because he is still recovering.”",
         "“We can let him try once he is home, where cleanup will be much easier.”",
-        "“He may be regressing because of the hospital stay, so do it for him.”"
+        "“Offer him a choice between two foods, and then feed him yourself.”"
       ],
       "answer": 0,
       "optionRationales": [
-        "Correct. Self-feeding is a safe, meaningful way for a toddler to exercise autonomy, and a mess is an acceptable trade-off.",
-        "Incorrect. He is already tolerating intake and showing readiness, so taking over removes a safe chance for autonomy.",
-        "Incorrect. Deferring self-feeding prioritizes convenience over a developmental need that can be met safely now.",
-        "Incorrect. Wanting to do things himself is the opposite of regression; it is expected toddler behavior."
+        "Correct. Self-feeding with finger foods is a safe way for a toddler to exercise autonomy while meeting the nutrition goal.",
+        "Incorrect. This sounds caring, but he is tolerating intake and showing readiness, so feeding him removes a safe chance for autonomy.",
+        "Incorrect. Practice at home is fine, but delaying removes a safe opportunity for autonomy now and the hospital can manage the mess.",
+        "Incorrect. Offering choices supports autonomy, but feeding him still overrides the independence he is asking for."
       ],
-      "rationale": "Toddlers are working on autonomy, and self-feeding is a safe, meaningful way to exercise it. Offering finger foods or a spoon with supervision supports independence while still meeting the nutrition goal. Feeding the child because he is recovering is tempting because it sounds caring, but he is tolerating intake and showing readiness. Deferring or labeling his behavior as regression removes a safe opportunity for autonomy.",
+      "rationale": "Toddlers are working on autonomy, and self-feeding is a safe, meaningful way to exercise it. Offering finger foods or a spoon with supervision supports independence while still meeting the nutrition goal. Feeding the child because he is recovering is tempting because it sounds caring, but he is tolerating intake and showing readiness. Offering a choice of foods supports autonomy only partly, and deferring self-feeding until home removes a safe opportunity for independence now.",
       "takeaway": "Give toddlers safe chances to do things themselves; autonomy grows through participation.",
       "hintContent": "Identify the developmental task that “Me do it!” expresses.",
       "hintStrategy": "When a child shows safe readiness, choose the option that supports participation over convenience.",
@@ -409,7 +420,8 @@ window.NURSE_DATA.push({
       "focus": "Client Teaching",
       "difficulty": 2,
       "clientNeed": "Health Promotion and Maintenance",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-013",
@@ -418,18 +430,18 @@ window.NURSE_DATA.push({
       "stem": "During a sports physical, the mother of a 17-year-old privately tells the nurse, “She dyed her hair blue, changed how she dresses, and now questions the religion we raised her in. Is something wrong with her?” Which response by the nurse is most appropriate?",
       "options": [
         "“Teens often explore looks and values to form an identity. Have her mood or grades changed?”",
-        "“These changes are warning signs of a mental illness, so she needs a referral for evaluation.”",
-        "“Teens often rebel just to upset their parents, so it is best to ignore it until it passes.”",
-        "“Setting firm rules about her appearance and beliefs will help her through this phase.”"
+        "“Sudden changes in looks and beliefs can signal depression, so she should be screened soon.”",
+        "“This is a normal stage of teen development, and it usually passes on its own with time.”",
+        "“Keep talking with her openly about her values, and try not to judge her new choices.”"
       ],
       "answer": 0,
       "optionRationales": [
-        "Correct. This normalizes identity exploration while gathering data about mood and function that would signal a real concern.",
-        "Incorrect. Changes in appearance and values alone do not indicate mental illness and should not be pathologized.",
-        "Incorrect. This assumes a motive and skips assessment of mood, school, and relationships.",
-        "Incorrect. Rigid control over appearance and values may increase conflict and does not support healthy identity formation."
+        "Correct. The nurse normalizes identity exploration while assessing mood and function, which would reveal any real warning signs.",
+        "Incorrect. Watching for depression is reasonable, but changes in looks and beliefs alone are normal identity work and do not warrant screening.",
+        "Incorrect. Normalizing is accurate, but it skips asking about mood, school, and function, which could reveal a real problem.",
+        "Incorrect. Open, nonjudgmental communication is good advice, but it does not answer her question or assess for warning signs."
       ],
-      "rationale": "Adolescents work on identity versus role confusion, and experimenting with appearance and questioning values are common parts of that work. The nurse normalizes this while still asking about mood, school, relationships, and function, because changes there would warrant further assessment. Labeling the changes as mental illness is tempting for a worried parent, but it pathologizes normal development. Ignoring the changes assumes a motive, and imposing rigid rules may increase conflict.",
+      "rationale": "Adolescents work on identity versus role confusion, and experimenting with appearance and questioning values are common parts of that work. The nurse normalizes this while still asking about mood, school, relationships, and function, because changes there would warrant further assessment. Recommending depression screening is tempting for a worried parent, but it pathologizes normal development. Simple reassurance and parenting advice are supportive but incomplete because they skip assessment for real warning signs.",
       "takeaway": "Identity exploration is expected in adolescence; look for changes in mood and function rather than appearance alone.",
       "hintContent": "Separate what is typical for this age from what would signal a problem.",
       "hintStrategy": "The best response often teaches the principle and gathers more data at the same time.",
@@ -439,7 +451,8 @@ window.NURSE_DATA.push({
       "focus": "Lifespan & Diversity",
       "difficulty": 2,
       "clientNeed": "Health Promotion and Maintenance",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-014",
@@ -448,18 +461,18 @@ window.NURSE_DATA.push({
       "stem": "A 48-year-old high school teacher with progressive multiple sclerosis has started medical leave and tells the home health nurse, “I spent my life helping students. Now I just sit here and contribute nothing.” Which nursing intervention best supports this client’s developmental needs?",
       "options": [
         "Focus the home visits on her physical care until her symptoms stabilize.",
-        "Encourage her to accept that her working years are over and focus on rest.",
+        "Refer her to a support group for people living with multiple sclerosis.",
         "Explore ways she might keep guiding or teaching others within her abilities.",
         "Suggest that her family take over all of her household responsibilities for now."
       ],
       "answer": 2,
       "optionRationales": [
-        "Incorrect. Physical care matters, but ignoring the developmental need affects mood, coping, and engagement.",
-        "Incorrect. This dismisses the loss and removes a core source of meaning.",
-        "Correct. Finding adapted ways to keep contributing supports generativity, the central task of middle adulthood.",
-        "Incorrect. Removing more roles is likely to deepen her sense of contributing nothing."
+        "Incorrect. Physical care is essential in a progressive illness, but focusing only on it ignores a developmental need that affects mood and coping.",
+        "Incorrect. A support group can help her cope with the illness, but it does not address her need to keep contributing to others.",
+        "Correct. Generativity centers on contributing to others; finding realistic ways to keep teaching or mentoring meets this need.",
+        "Incorrect. Reducing her workload may ease fatigue, but taking over all responsibilities further removes her sense of contribution."
       ],
-      "rationale": "Middle adulthood centers on generativity, contributing to others through work, family, mentoring, or community. When illness disrupts a valued contributing role, the nurse helps the client find realistic ways to keep contributing, such as tutoring online or mentoring new teachers. Telling her to accept that her working years are over dismisses the loss. Focusing only on physical care is tempting during a progressive illness, but it ignores a developmental need that affects mood and coping.",
+      "rationale": "Middle adulthood centers on generativity, contributing to others through work, family, mentoring, or community. When illness disrupts a valued contributing role, the nurse helps the client find realistic ways to keep contributing, such as tutoring online or mentoring new teachers. A support group is tempting because it helps with coping, but it does not restore her sense of contribution. Focusing only on physical care during a progressive illness ignores a developmental need that affects mood and coping.",
       "takeaway": "Support generativity by preserving meaningful ways to contribute, adapted to current ability.",
       "hintContent": "Identify the developmental task of middle adulthood and what is threatening it here.",
       "hintStrategy": "Choose the option that preserves the client’s valued role in an adapted form rather than removing it.",
@@ -469,7 +482,8 @@ window.NURSE_DATA.push({
       "focus": "Lifespan & Diversity",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-015",
@@ -479,15 +493,15 @@ window.NURSE_DATA.push({
       "options": [
         "“Yes, redirecting him to current events will keep him oriented to reality.”",
         "“Listening to his stories helps him find meaning in the life he has lived.”",
-        "“Let him talk briefly, then remind him gently that those days are over.”",
+        "“Let him talk during care, but keep the focus on today’s tasks.”",
         "“Ask his family whether he is becoming confused and needs an evaluation.”"
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. There is no cue of confusion; redirecting discourages a healthy developmental process.",
-        "Correct. Reminiscence supports integrity in later life, so listening and inviting stories is therapeutic.",
-        "Incorrect. Reminding him that those days are over devalues his life experience.",
-        "Incorrect. Telling life stories is expected behavior and is not, by itself, a sign of confusion."
+        "Incorrect. Reality orientation helps confused clients, but nothing suggests confusion; he is recalling the past, not disoriented.",
+        "Correct. Reminiscence supports life review and integrity, so listening and inviting stories is the best response.",
+        "Incorrect. Allowing some talk is supportive, but steering back to tasks limits the life review that helps him find meaning.",
+        "Incorrect. Watching for confusion is reasonable, but the stem gives no cue of it, and this treats healthy reminiscing as a problem."
       ],
       "rationale": "Older adulthood includes life review and the tension between integrity and despair. Reminiscing helps an older adult find meaning and coherence in life, so listening and inviting stories supports integrity. Redirecting is tempting because it sounds like reality orientation, but the stem gives no cue of confusion; the resident is recalling the past, not disoriented to the present. Treating storytelling as a problem discourages a healthy developmental process.",
       "takeaway": "Reminiscence supports integrity in older adults; listen to and invite life stories.",
@@ -499,7 +513,8 @@ window.NURSE_DATA.push({
       "focus": "Lifespan & Diversity",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-016",
@@ -509,15 +524,15 @@ window.NURSE_DATA.push({
       "options": [
         "Limited self-awareness from denial of illness",
         "Role strain related to his duties as a pastor",
-        "Body-image disturbance related to withdrawal",
+        "Identity confusion related to early recovery",
         "A gap between his public self and his real self"
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. He clearly recognizes and names his feelings, which argues against limited self-awareness.",
-        "Incorrect. He is not describing difficulty fulfilling his duties; he is describing a mismatch in how he is seen.",
-        "Incorrect. Nothing in his statement concerns his physical appearance or body.",
-        "Correct. He presents as a strong leader but describes himself as someone different, which reflects incongruence between public and real self."
+        "Incorrect. Denial is common in alcohol use disorder, but he clearly recognizes his own feelings, which rules out limited self-awareness.",
+        "Incorrect. His role is part of the picture, but he does not describe difficulty fulfilling his duties.",
+        "Incorrect. Recovery can unsettle identity, but he is clear about who he is; his distress is the mismatch with how others see him.",
+        "Correct. He presents a strong, cheerful leader to others but describes himself differently, reflecting incongruence between public and real self."
       ],
       "rationale": "The real self is how a person believes they actually are, the ideal self is who they want to be, and the public self is how they present to others. This client presents a strong, cheerful leader to visitors but describes himself as someone different, so his distress reflects incongruence between public and real self. Role strain is tempting because he is a pastor, but he is not describing difficulty fulfilling duties. He is clearly aware of his feelings, which rules out limited self-awareness.",
       "takeaway": "Distress from presenting one way while feeling another reflects a gap between the public self and the real self.",
@@ -529,7 +544,8 @@ window.NURSE_DATA.push({
       "focus": "Assessment Findings",
       "difficulty": 3,
       "clientNeed": "Psychosocial Integrity",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-017",
@@ -559,7 +575,8 @@ window.NURSE_DATA.push({
       "focus": "Assessment Findings",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-018",
@@ -567,19 +584,19 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "A 58-year-old client who had a total laryngectomy 3 days ago communicates using a writing board. Which question should the nurse ask to best begin assessing the client’s self-concept?",
       "options": [
-        "“Why haven’t you wanted to look in the mirror yet?”",
+        "“How do you feel when you see your neck in the mirror?”",
         "“Are you feeling depressed about losing your voice?”",
-        "“You are adjusting really well to this, aren’t you?”",
+        "“Would you like information about a laryngectomy support group?”",
         "“What has been the hardest part of this change for you?”"
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. A “why” question can feel judgmental and put the client on the defensive.",
-        "Incorrect. A yes-or-no question limits the answer and labels the feeling for the client.",
-        "Incorrect. A leading question discourages the client from sharing honest distress.",
-        "Correct. An open-ended question invites the client to describe the meaning of the change in their own words."
+        "Incorrect. This open question is useful, but it narrows the focus to body image before the client identifies what matters most.",
+        "Incorrect. Asking about mood is reasonable, but a yes-or-no question limits the answer and labels the feeling for the client.",
+        "Incorrect. Support groups can help, but offering a resource before assessing does not begin a self-concept assessment.",
+        "Correct. A broad open-ended question lets the client describe the most meaningful part of the change in their own words."
       ],
-      "rationale": "A self-concept assessment begins with open-ended questions that let the client describe the meaning of a change in their own words. Writing takes effort, but an open question still yields the richest information about identity, body image, and role concerns. A yes-or-no question about depression is tempting because it seems direct, but it limits the answer and labels the feeling for the client. Leading questions and “why” questions discourage honest answers.",
+      "rationale": "A self-concept assessment begins with broad open-ended questions that let the client describe the meaning of a change in their own words. Writing takes effort, but an open question still yields the richest information about identity, body image, and role concerns. Asking about the mirror is tempting because it is open-ended, but it narrows the focus to body image before the client names what matters most. A yes-or-no question about depression limits the answer and labels the feeling, and offering a support group skips assessment.",
       "takeaway": "Begin self-concept assessment with open-ended questions about what the change means to the client.",
       "hintContent": "Choose the question that invites the client to describe their own experience.",
       "hintStrategy": "Eliminate closed, leading, and “why” questions in therapeutic communication items.",
@@ -589,7 +606,8 @@ window.NURSE_DATA.push({
       "focus": "Assessment Findings",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-019",
@@ -851,18 +869,18 @@ window.NURSE_DATA.push({
       "stem": "A 22-year-old client with bulimia nervosa comes to the emergency department reporting muscle cramps and a “fluttering” feeling in the chest. Review the exhibit. Which action should the nurse take first?",
       "options": [
         "Initiate cardiac monitoring and notify the provider of the potassium result.",
-        "Administer the SCOFF questionnaire to confirm the eating-disorder diagnosis.",
-        "Teach the client how frequent vomiting causes erosion of dental enamel.",
+        "Offer potassium-rich fluids such as orange juice while awaiting orders.",
+        "Ask about laxative and diuretic use that may be adding to potassium loss.",
         "Encourage the client to describe feelings that occur before purging episodes."
       ],
       "answer": 0,
       "optionRationales": [
         "Correct. A potassium of 2.8 mEq/L with an irregular pulse signals risk for a life-threatening dysrhythmia and must be addressed first.",
-        "Incorrect. SCOFF is a screening tool, not a diagnostic test, and it does nothing to address the immediate cardiac risk.",
-        "Incorrect. Dental teaching is appropriate later but does not address a physiologic emergency.",
-        "Incorrect. Exploring feelings is part of treatment but must wait until the client is physically stable."
+        "Incorrect. Dietary potassium suits mild deficits, but it cannot correct a level of 2.8 mEq/L with cardiac symptoms quickly and does nothing to monitor the rhythm.",
+        "Incorrect. Laxative and diuretic use matters for finding the cause, but gathering this history delays protection against a dangerous dysrhythmia.",
+        "Incorrect. Exploring feelings is part of treatment, but it must wait until the client is physically stable."
       ],
-      "rationale": "Repeated vomiting causes loss of potassium, and a potassium of 2.8 mEq/L with an irregular heart rate signals risk for a life-threatening dysrhythmia. Physiologic instability takes priority, so the nurse initiates cardiac monitoring and notifies the provider promptly. Exploring feelings about purging is tempting because it addresses the underlying problem, but it must wait until the client is stable. SCOFF is a screen, not a diagnostic test, and dental teaching addresses a chronic rather than an acute risk.",
+      "rationale": "Repeated vomiting causes loss of potassium, and a potassium of 2.8 mEq/L with an irregular heart rate signals risk for a life-threatening dysrhythmia. Physiologic instability takes priority, so the nurse initiates cardiac monitoring and notifies the provider promptly so potassium can be replaced safely. Asking about laxatives and diuretics is tempting because it explains the loss, but it delays protection. Oral potassium-rich fluids are too slow and too small for a symptomatic deficit, and exploring feelings about purging must wait until the client is stable.",
       "takeaway": "Hypokalemia with an irregular pulse in a client who purges is a cardiac emergency that comes before psychosocial care.",
       "hintContent": "Compare the potassium result with its reference range and connect it to the heart findings.",
       "hintStrategy": "Use ABCs: when an abnormal lab threatens the heart, choose the action that monitors and escalates.",
@@ -945,7 +963,8 @@ window.NURSE_DATA.push({
             }
           }
         ]
-      }
+      },
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-027",
@@ -955,17 +974,17 @@ window.NURSE_DATA.push({
       "options": [
         "Encourage her to walk slowly while holding the rail.",
         "Help her sit back down on the bed and stay with her.",
-        "Tell her the dizziness is anxiety about eating lunch.",
-        "Leave to get a bedside commode from the supply room."
+        "Recheck her blood pressure while she stays standing.",
+        "Notify the provider of the orthostatic vital signs."
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. Walking while orthostatic and symptomatic places her at high risk for fainting and falling.",
+        "Incorrect. Slow movement helps prevent orthostatic falls, but continuing to walk while dizzy keeps her at high risk of fainting.",
         "Correct. Returning her to a safe position and staying with her prevents a fall while she is symptomatic.",
-        "Incorrect. Attributing the dizziness to anxiety dismisses a clear physiologic cue.",
-        "Incorrect. A commode is a reasonable later step, but leaving a dizzy client alone is unsafe."
+        "Incorrect. More data may be useful, but keeping a dizzy client standing to measure it risks syncope and a fall.",
+        "Incorrect. The provider needs these findings, but the nurse first makes the client safe before leaving to report."
       ],
-      "rationale": "The blood pressure falls by 18/10 mm Hg and the heart rate rises by 32 beats/min on standing, indicating significant orthostatic intolerance, and the resting heart rate of 46 reflects bradycardia from severe restriction. The immediate risk is fainting and a fall, so the nurse returns her to a safe position and stays with her before reporting the findings. Attributing the dizziness to anxiety dismisses a physiologic cue. Getting a commode is a reasonable later step, but leaving a dizzy client alone is unsafe.",
+      "rationale": "The blood pressure falls by 18/10 mm Hg and the heart rate rises by 32 beats/min on standing, indicating significant orthostatic intolerance, and the resting heart rate of 46 reflects bradycardia from severe restriction. The immediate risk is fainting and a fall, so the nurse returns her to a safe position and stays with her before reporting the findings. Rechecking the blood pressure while she stands delays protection, and notifying the provider is needed but comes after she is safe.",
       "takeaway": "When a client with severe restriction becomes dizzy on standing, prevent a fall first, then report the orthostatic findings.",
       "hintContent": "Compare the lying and standing readings and think about what could happen in the next few seconds.",
       "hintStrategy": "When a client is symptomatic right now, choose the action that makes her safe immediately; reporting comes next.",
@@ -1001,7 +1020,8 @@ window.NURSE_DATA.push({
             }
           }
         ]
-      }
+      },
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-028",
@@ -1011,17 +1031,17 @@ window.NURSE_DATA.push({
       "options": [
         "A client with bulimia who is tearful after learning she gained 1 kg this week",
         "A client with anorexia on day 4 of refeeding who reports new weakness and dyspnea",
-        "A client with binge-eating disorder who asks to call her family before group",
+        "A client with binge-eating disorder whose blood pressure is 158/94 mm Hg",
         "A client with restrictive food intake who refuses to try a new food texture at lunch"
       ],
       "answer": 1,
       "optionRationales": [
         "Incorrect. Distress about weight gain is expected in recovery and important, but it is not immediately life-threatening.",
         "Correct. New weakness and shortness of breath early in refeeding may signal electrolyte shifts that threaten breathing and heart rhythm.",
-        "Incorrect. This is a stable request that can be addressed after urgent needs are met.",
+        "Incorrect. Elevated blood pressure needs a recheck and report, but without symptoms it is not an immediate threat to breathing or circulation.",
         "Incorrect. Refusing a new texture is an expected treatment challenge, not an urgent physiologic problem."
       ],
-      "rationale": "Refeeding syndrome typically occurs in the first days of nutrition restoration, when phosphate, potassium, and magnesium shift into cells and can cause muscle weakness, respiratory compromise, and dysrhythmias. New weakness and shortness of breath are physiologic red flags that may indicate respiratory muscle weakness. Emotional distress about weight gain is tempting to choose because it is visible and upsetting, but it is not immediately life-threatening. Refusing a new texture and asking to call family are stable concerns that can wait.",
+      "rationale": "Refeeding syndrome typically occurs in the first days of nutrition restoration, when phosphate, potassium, and magnesium shift into cells and can cause muscle weakness, respiratory compromise, and dysrhythmias. New weakness and shortness of breath are physiologic red flags that may indicate respiratory muscle weakness. Emotional distress about weight gain is tempting because it is visible and upsetting, and an elevated blood pressure needs follow-up, but neither is immediately life-threatening. Refusing a new texture is an expected treatment challenge that can wait.",
       "takeaway": "During early refeeding, new weakness or dyspnea outranks emotional distress; think phosphate, potassium, and magnesium.",
       "hintContent": "Consider which client’s report could reflect a dangerous electrolyte shift.",
       "hintStrategy": "Physical over psychosocial, and new or acute over expected: apply both filters to the four clients.",
@@ -1031,7 +1051,8 @@ window.NURSE_DATA.push({
       "focus": "Prioritization",
       "difficulty": 3,
       "clientNeed": "Physiological Integrity: Physiological Adaptation",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-029",
@@ -1041,17 +1062,17 @@ window.NURSE_DATA.push({
       "options": [
         "Assess the wound and ask directly about current thoughts of self-harm.",
         "Defend the night staff and explain that they care about her as well.",
-        "Thank her for her trust and agree to keep the injury between them.",
-        "Tell her the cut is attention-seeking and will not change the rules."
+        "Tell her that the injury must be shared with the treatment team.",
+        "Clean and bandage the cut, then talk about her concerns with night staff."
       ],
       "answer": 0,
       "optionRationales": [
         "Correct. A fresh self-inflicted injury requires wound assessment and a direct evaluation of current risk.",
-        "Incorrect. This addresses splitting but is not the priority when an injury is present.",
-        "Incorrect. Safety information cannot be kept secret; agreeing undermines safety and team consistency.",
-        "Incorrect. Labeling the behavior assumes motive, is stigmatizing, and skips needed assessment."
+        "Incorrect. This responds to splitting but is not the priority when an injury is present.",
+        "Incorrect. Refusing secrecy is correct and must happen, but assessing the wound and current risk comes first.",
+        "Incorrect. Wound care is needed, but it skips a direct assessment of current self-harm risk."
       ],
-      "rationale": "A fresh self-inflicted injury is a safety issue, so the nurse must assess the wound and directly evaluate current self-harm risk, then report it to the team. Safety information cannot be kept secret, and agreeing to do so would endanger the client and disrupt team consistency. Defending the night staff is tempting because it responds to splitting, but it is not the first priority when an injury is present. Labeling the behavior as attention-seeking assumes motive and is stigmatizing.",
+      "rationale": "A fresh self-inflicted injury is a safety issue, so the nurse must assess the wound and directly evaluate current self-harm risk, then report it to the team. Safety information cannot be kept secret, and the nurse will tell her it must be shared, but that boundary follows the immediate assessment. Defending the night staff is tempting because it responds to splitting, but it is not the first priority when an injury is present. Treating the wound without asking about current thoughts of self-harm leaves the most important risk unassessed.",
       "takeaway": "Self-injury calls for wound and risk assessment first; never promise secrecy about safety.",
       "hintContent": "Two issues are present in the stem; decide which one could cause harm.",
       "hintStrategy": "When a stem mixes relationship dynamics with a physical injury, address the injury and safety first.",
@@ -1063,7 +1084,8 @@ window.NURSE_DATA.push({
       "focus": "Delegation & Safety",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-030",
@@ -1071,16 +1093,16 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "A client with a documented history of antisocial personality disorder demands his next dose of pain medication 2 hours early. He steps close to the nurse with clenched fists and says, “Get it now, or you will be sorry.” Which action should the nurse take first?",
       "options": [
-        "Tell him that threatening staff is manipulative and will be documented.",
+        "Set a firm limit, stating that threats toward staff are not allowed.",
         "Explain the medication schedule and why the dose cannot be given early.",
-        "Turn away and leave to get the medication so that he will calm down.",
+        "Ask him to rate his pain and describe where it hurts right now.",
         "Keep a safe distance with a clear exit and call for staff assistance."
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. Labeling him escalates conflict; documentation should describe behavior, not character.",
+        "Incorrect. Limit setting is appropriate with antisocial behavior, but with imminent aggression the nurse secures safety and help first.",
         "Incorrect. Explaining the schedule may help later but does not address the immediate danger.",
-        "Incorrect. Turning one’s back is unsafe, and giving a dose early in response to threats bypasses the prescription.",
+        "Incorrect. His pain must be assessed, but only after the immediate threat to safety is managed.",
         "Correct. Threats, clenched fists, and invasion of personal space signal possible imminent aggression, so the nurse protects safety and summons help."
       ],
       "rationale": "A verbal threat combined with invading personal space and clenched fists signals possible imminent aggression, so safety comes first. The nurse maintains distance, keeps an unobstructed exit, and summons help according to the facility’s response plan. Explaining the schedule is tempting because it seems calm and rational, but it does not address the immediate danger. Once the situation is safe, the nurse still assesses his pain, because the diagnosis does not reduce his right to appropriate symptom care.",
@@ -1095,7 +1117,8 @@ window.NURSE_DATA.push({
       "focus": "Delegation & Safety",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-031",
@@ -1162,7 +1185,8 @@ window.NURSE_DATA.push({
             }
           }
         ]
-      }
+      },
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-032",
@@ -1192,7 +1216,8 @@ window.NURSE_DATA.push({
       "focus": "Assessment Findings",
       "difficulty": 3,
       "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-033",
@@ -1203,14 +1228,14 @@ window.NURSE_DATA.push({
         "Raise the head of the bed and apply oxygen per protocol.",
         "Set a calm limit about pulling at the IV catheter.",
         "Ask the client what is upsetting her this evening.",
-        "Notify the provider that the client is acting out again tonight."
+        "Notify the provider of the low oxygen saturation."
       ],
       "answer": 0,
       "optionRationales": [
         "Correct. An oxygen saturation of 86% with dyspnea and restlessness indicates hypoxia, which must be treated first.",
         "Incorrect. Limit setting addresses behavior but delays care for a life-threatening problem.",
         "Incorrect. Exploring feelings is appropriate for distress but not before treating hypoxia.",
-        "Incorrect. The provider must be notified of the respiratory change, not a behavioral label, after immediate interventions."
+        "Incorrect. The provider must be notified, but the nurse first positions the client and applies oxygen."
       ],
       "rationale": "An oxygen saturation of 86% with restlessness and dyspnea indicates hypoxia, a physiologic emergency regardless of the client’s psychiatric history. The nurse addresses breathing first by positioning the client and applying oxygen per protocol, then notifies the provider of the respiratory change. Setting a limit is tempting because pulling at the IV is unsafe, but restlessness is itself a sign of hypoxia. A behavioral label must never obscure medical instability.",
       "takeaway": "A personality-disorder label never explains away abnormal vital signs; treat the physiologic problem first.",
@@ -1224,7 +1249,8 @@ window.NURSE_DATA.push({
       "focus": "Prioritization",
       "difficulty": 2,
       "clientNeed": "Physiological Integrity: Physiological Adaptation",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-034",
@@ -1254,7 +1280,8 @@ window.NURSE_DATA.push({
       "focus": "Assessment Findings",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-035",
@@ -1264,17 +1291,17 @@ window.NURSE_DATA.push({
       "options": [
         "Reassure her that unusual cravings are expected during pregnancy.",
         "Ask how much she eats and report the findings so that she can be evaluated.",
-        "Tell her that eating starch means she has an eating disorder.",
-        "Advise her to eat only ice instead of starch, since ice is a harmless substitute."
+        "Teach her that starch can block the absorption of iron and other nutrients.",
+        "Suggest she replace the starch with crunchy foods such as raw carrots."
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. Food cravings are common, but starch is a nonfood substance that warrants assessment.",
-        "Correct. Nonfood ingestion requires assessment of substance, amount, and hazards, and pica in pregnancy is often linked to iron-deficiency anemia.",
-        "Incorrect. A diagnosis cannot be made from one statement; assessment and evaluation come first.",
-        "Incorrect. Substituting ice skips evaluation of a possible underlying cause such as anemia."
+        "Incorrect. Cravings are common in pregnancy, but starch is not food and may signal iron deficiency, so reassurance misses a problem that needs evaluation.",
+        "Correct. Pica in pregnancy needs assessment of the substance and amount and a provider evaluation, often for iron-deficiency anemia, before any teaching or substitution.",
+        "Incorrect. This teaching is accurate, but it skips assessing how much she eats and getting her evaluated for the likely underlying anemia.",
+        "Incorrect. Offering a safer substitute can help later, but it treats the behavior before the nurse assesses it and before a cause such as anemia is ruled out."
       ],
-      "rationale": "Persistent eating of nonfood substances such as laundry starch, beyond what is developmentally and culturally expected, is consistent with pica and requires assessment of the substance, amount, and hazards. Pica in pregnancy is often associated with iron-deficiency anemia, so the provider should evaluate her. Reassuring her that cravings are normal is tempting because food cravings are common in pregnancy, but starch is not food and may displace nutrients. Diagnosing an eating disorder from one statement or substituting ice skips assessment.",
+      "rationale": "Persistent eating of nonfood substances such as laundry starch, beyond what is developmentally and culturally expected, is consistent with pica and requires assessment of the substance, amount, and hazards. Pica in pregnancy is often associated with iron-deficiency anemia, so the provider should evaluate her. Reassuring her that cravings are normal is tempting because food cravings are common in pregnancy, but starch is not food and may displace nutrients. Teaching about absorption or suggesting a substitute food is reasonable later but skips assessment and evaluation.",
       "takeaway": "Nonfood ingestion calls for assessment of what, how much, and possible causes such as anemia, not reassurance.",
       "hintContent": "Distinguish an ordinary food craving from eating a substance that is not food.",
       "hintStrategy": "When a finding could have a physiologic cause, choose the option that assesses and reports rather than reassures or labels.",
@@ -1284,7 +1311,8 @@ window.NURSE_DATA.push({
       "focus": "Assessment Findings",
       "difficulty": 2,
       "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-036",
@@ -1295,16 +1323,16 @@ window.NURSE_DATA.push({
         "“He just needs more willpower, so we will keep reminding him to stop asking for snacks.”",
         "“His hunger is part of the syndrome, so we will lock up food and keep meals set.”",
         "“If we let him eat whenever he wants, his hunger will eventually settle down.”",
-        "“We will punish him each time he takes food so that he learns it is wrong.”"
+        "“We will keep meals set, but he can serve himself as much as he wants at each meal.”"
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. Prader-Willi hunger is not a matter of willpower or character.",
-        "Correct. Structure such as secured food and predictable meals addresses a physiologic drive without blame.",
-        "Incorrect. The hunger does not settle on its own, and unlimited intake creates health risks.",
-        "Incorrect. Punishing food-seeking blames the child for a physiologic drive."
+        "Incorrect. Gentle reminders may seem helpful, but the hunger is a physiologic drive of the syndrome, not a lack of willpower, and reminders do not secure food.",
+        "Correct. The grandmother recognizes the hunger as part of the syndrome and plans the two key supports: secured food and predictable meal times.",
+        "Incorrect. Free access may seem to reduce conflict, but hunger in Prader-Willi syndrome does not settle and unrestricted eating leads to dangerous weight gain.",
+        "Incorrect. Set meal times are part of the plan, but unlimited portions defeat the structure; portions must also be controlled because satiety does not occur."
       ],
-      "rationale": "Prader-Willi syndrome is a genetic condition with complex needs, including persistent hunger that is not a character flaw or ordinary overeating. Families are taught to provide structure, such as secured food storage and predictable meal times, to reduce risk and anxiety. Unrestricted access is tempting as a way to reduce conflict, but the hunger does not settle on its own. Attributing the behavior to weak willpower or punishing food-seeking blames the child for a physiologic drive.",
+      "rationale": "Prader-Willi syndrome is a genetic condition with complex needs, including persistent hunger that is not a character flaw or ordinary overeating. Families are taught to provide structure, such as secured food storage, predictable meal times, and controlled portions, to reduce risk and anxiety. Unrestricted access is tempting as a way to reduce conflict, but the hunger does not settle on its own. Set meals with unlimited portions is only half the plan, and attributing the behavior to weak willpower blames the child for a physiologic drive.",
       "takeaway": "Prader-Willi hunger is genetic, not a character flaw; manage it with structure, not blame.",
       "hintContent": "Consider whether the child’s food-seeking is a choice or part of the syndrome.",
       "hintStrategy": "Eliminate options that blame the client for a condition’s symptoms.",
@@ -1314,7 +1342,8 @@ window.NURSE_DATA.push({
       "focus": "Client Teaching",
       "difficulty": 2,
       "clientNeed": "Health Promotion and Maintenance",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-037",
@@ -1329,9 +1358,9 @@ window.NURSE_DATA.push({
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. This involves limiting food from sensory sensitivity, fear, or low interest, not regurgitating eaten food.",
-        "Incorrect. Bulimia involves binge eating followed by compensatory behaviors driven by body-shape concerns, which this child does not show.",
-        "Incorrect. Pica is eating nonfood substances, which is not described.",
+        "Incorrect. ARFID is a childhood feeding disorder that can look similar, but it involves limiting food from sensory sensitivity, fear, or low interest, not regurgitating eaten food.",
+        "Incorrect. Food coming back up suggests bulimia, but bulimia involves binge eating with compensatory behaviors driven by body-shape concerns, which this child does not show.",
+        "Incorrect. Pica is a childhood feeding disorder that also involves abnormal eating, but it means eating nonfood substances, which is not described here.",
         "Correct. Repeated regurgitation and rechewing without nausea or body-image concern is the defining pattern of rumination."
       ],
       "rationale": "Rumination involves repeated regurgitation of food that is rechewed, reswallowed, or spit out, without nausea or the purging seen in bulimia. Bulimia nervosa is the tempting answer because food comes back up, but bulimia involves binge eating followed by compensatory behaviors linked to body-shape concerns. Pica is eating nonfood substances, and avoidant/restrictive intake involves limiting food from sensory sensitivity, fear, or low interest. The nurse still reports the pattern for medical evaluation because it can affect nutrition and weight.",
@@ -1344,7 +1373,8 @@ window.NURSE_DATA.push({
       "focus": "Pathophysiology",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-038",
@@ -1360,9 +1390,9 @@ window.NURSE_DATA.push({
       "answer": 0,
       "optionRationales": [
         "Correct. Excessive exercise used to offset binges is a compensatory behavior, which fits a bulimia-spectrum pattern.",
-        "Incorrect. Binge-eating disorder lacks regular compensatory behavior, but running to “cancel it out” is compensatory.",
-        "Incorrect. Nothing in the stem describes primary restriction.",
-        "Incorrect. The client is not avoiding food from fear or sensory sensitivity."
+        "Incorrect. Recurrent binges with loss of control fit binge-eating disorder, but that disorder lacks regular compensatory behavior, and running to “cancel it out” is compensatory.",
+        "Incorrect. Anorexia can include excessive exercise, but it centers on restricted intake and low body weight, while this client describes binges, not restriction.",
+        "Incorrect. Avoidant/restrictive intake also involves disturbed eating, but it limits food from fear or sensory sensitivity, and this client is not avoiding food."
       ],
       "rationale": "Bulimia involves recurrent binges followed by compensatory behaviors, which can include purging but also excessive exercise or fasting. Running for hours specifically to “cancel out” a binge is a compensatory behavior. Binge-eating presentation is the tempting answer because she denies vomiting and laxatives, but binge-eating disorder lacks the regular compensatory pattern. Nothing in the stem describes primary restriction or fear-based avoidance of food.",
       "takeaway": "Compensatory behaviors include exercise and fasting, not just vomiting; their presence points toward a bulimia-spectrum pattern.",
@@ -1374,7 +1404,8 @@ window.NURSE_DATA.push({
       "focus": "Pathophysiology",
       "difficulty": 3,
       "clientNeed": "Psychosocial Integrity",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-039",
@@ -1385,16 +1416,16 @@ window.NURSE_DATA.push({
         "“You could wear a long-sleeved swim shirt to cover the patches.”",
         "“Your partner is right that most people will not notice your skin.”",
         "“What concerns you most about going swimming with your children?”",
-        "“Swimming is great exercise, so it is worth trying to go again.”"
+        "“Many people with psoriasis find ways to keep swimming with family.”"
       ],
       "answer": 2,
       "optionRationales": [
-        "Incorrect. This jumps to a solution before the nurse understands the concern.",
-        "Incorrect. Reassurance based on appearance dismisses the client’s experience of his body.",
-        "Correct. An open-ended question lets the client describe what worries him before solutions are offered.",
-        "Incorrect. Promoting exercise ignores the body-image distress behind his avoidance."
+        "Incorrect. A swim shirt may be a useful option later, but offering a solution before learning what worries him may miss the real concern.",
+        "Incorrect. Agreeing with the partner sounds supportive, but appearance-based reassurance dismisses the client’s own experience of his skin.",
+        "Correct. An open-ended question lets the client describe what worries him most, so the nurse understands the concern before suggesting any solutions.",
+        "Incorrect. Normalizing and offering hope is supportive, but it generalizes rather than exploring this client’s specific feelings about swimming."
       ],
-      "rationale": "Body-image distress can limit valued roles and activities, and its meaning differs from person to person. An open-ended question lets the client describe what worries him, such as stares, comments, or his own discomfort, before the nurse suggests solutions. Agreeing with the partner is tempting because it sounds supportive, but reassurance based on appearance dismisses the client’s experience. Offering a swim shirt or promoting exercise jumps to solutions before the concern is understood.",
+      "rationale": "Body-image distress can limit valued roles and activities, and its meaning differs from person to person. An open-ended question lets the client describe what worries him, such as stares, comments, or his own discomfort, before the nurse suggests solutions. Agreeing with the partner is tempting because it sounds supportive, but reassurance based on appearance dismisses the client’s experience. Offering a swim shirt or pointing out that others keep swimming jumps ahead before the concern is understood.",
       "takeaway": "Explore what a body change means to the client before reassuring or problem-solving.",
       "hintContent": "The client has described a behavior change; find out the feeling behind it.",
       "hintStrategy": "In communication items, choose exploration over reassurance or advice when no safety issue is present.",
@@ -1404,7 +1435,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-040",
@@ -1413,18 +1445,18 @@ window.NURSE_DATA.push({
       "stem": "A nurse in a pediatric clinic overhears a colleague ask a 16-year-old two quick questions about eating in a crowded hallway and then document “SCOFF negative.” Which action by the nurse is most appropriate?",
       "options": [
         "Ask the same two questions again in the exam room to confirm the answers.",
-        "Accept the documented result because the teen answered no to both of the questions.",
-        "Add a note to the chart that the teen is at low risk for an eating disorder.",
+        "Report the colleague’s screening practice to the nurse manager right away.",
+        "Ask the teen privately whether there are any concerns about eating.",
         "Discuss with the colleague rescreening privately using all of the SCOFF items."
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. Repeating the improvised questions privately still does not produce a valid SCOFF result.",
-        "Incorrect. An improvised two-question version cannot be reported as a formal SCOFF result and may give false reassurance.",
-        "Incorrect. This compounds an invalid result with an unsupported conclusion.",
-        "Correct. A validated tool must be given with its authorized wording, all items, and in a private setting to produce a valid result."
+        "Incorrect. Moving to a private room fixes the setting, but repeating only two questions is still not a valid SCOFF screen.",
+        "Incorrect. Escalation may be needed if the practice continues, but the first step is to address it directly with the colleague so the teen is rescreened promptly.",
+        "Incorrect. A private, open question is caring, but it is not the validated tool and does not correct the invalid result in the record.",
+        "Correct. Addressing it directly with the colleague leads to a private, complete SCOFF screen and correction of the invalid documented result."
       ],
-      "rationale": "A validated screening instrument must be given with its authorized wording, all items, and in a private setting; an improvised two-question version cannot be reported as a formal SCOFF result. The nurse addresses the practice directly with the colleague so the teen can be screened properly and the record corrected. Accepting the result is tempting because it was already documented, but an invalid screen can give false reassurance. Repeating only the same two questions privately repeats the same error.",
+      "rationale": "A validated screening instrument must be given with its authorized wording, all items, and in a private setting; an improvised two-question version cannot be reported as a formal SCOFF result. The nurse addresses the practice directly with the colleague so the teen can be screened properly and the record corrected. Going straight to the manager skips the direct conversation, and an informal private question is not the validated tool. Repeating only the same two questions privately repeats the same error.",
       "takeaway": "A screening result is valid only when the tool is given as designed, privately and with every item.",
       "hintContent": "Think about what makes a screening result trustworthy.",
       "hintStrategy": "When a colleague’s practice threatens accuracy, choose the action that corrects it directly and protects the client.",
@@ -1434,7 +1466,8 @@ window.NURSE_DATA.push({
       "focus": "Delegation & Safety",
       "difficulty": 3,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-041",
@@ -1442,19 +1475,19 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "A new graduate nurse assigned to a client whose chart lists borderline personality disorder asks the preceptor what the diagnosis means for care. Which statement by the new graduate indicates correct understanding?",
       "options": [
-        "“Her pain reports are likely to be exaggerated, so I should hold medication until I verify them.”",
+        "“Her moods may shift quickly, so I should verify her pain reports with staff first.”",
         "“It is an enduring pattern causing distress or impairment, so I still assess her concerns.”",
-        "“She will probably be manipulative, so I should share as little information as possible.”",
-        "“One angry outburst on admission is enough to confirm that the diagnosis is accurate.”"
+        "“Firm limits help, so I should avoid talking about her feelings unless she is calm.”",
+        "“This is a lifelong trait, so her behavior is unlikely to change with treatment.”"
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. Assuming exaggeration risks missing real pathology and withholds appropriate symptom care.",
-        "Correct. Personality disorders are enduring patterns, and the diagnosis does not reduce the need to assess each concern.",
-        "Incorrect. Withholding information because of an assumed motive is stigmatizing and undermines trust.",
-        "Incorrect. A single interaction never establishes a personality disorder diagnosis."
+        "Incorrect. Mood instability is a feature of the disorder, but each pain report still needs the nurse’s own assessment; delaying care for verification risks missing real pathology.",
+        "Correct. The new graduate understands the diagnosis as an enduring pattern causing distress or impairment and still assesses each concern on its own merits.",
+        "Incorrect. Consistent limits are helpful, but avoiding her feelings withholds therapeutic communication and is not part of appropriate limit-setting.",
+        "Incorrect. Personality disorders are enduring patterns, but they respond to treatment such as dialectical behavior therapy; assuming no change is stigmatizing."
       ],
-      "rationale": "Personality disorders are enduring patterns of thought and behavior that cause distress or impairment, and a single interaction never establishes the diagnosis. The diagnosis does not reduce a client’s right to honest explanation, privacy, and appropriate symptom care, so the nurse assesses each concern on its own merits. Assuming pain is exaggerated is tempting when a label suggests difficult behavior, but it risks missing real pathology. Withholding information because of an expected motive is stigmatizing.",
+      "rationale": "Personality disorders are enduring patterns of thought and behavior that cause distress or impairment, and a single interaction never establishes the diagnosis. The diagnosis does not reduce a client’s right to honest communication, privacy, and appropriate symptom care, so the nurse assesses each concern on its own merits. Verifying pain reports with others is tempting when a label suggests difficult behavior, but it delays care and risks missing real pathology. Avoiding feelings or assuming she cannot change is stigmatizing, even though limits and the enduring nature of the disorder are real.",
       "takeaway": "A personality-disorder diagnosis describes an enduring pattern; it never replaces assessment of the client’s current concerns.",
       "hintContent": "Consider whether a diagnosis should change how carefully each new concern is assessed.",
       "hintStrategy": "Eliminate statements that use a label to justify withholding care or information.",
@@ -1466,7 +1499,8 @@ window.NURSE_DATA.push({
       "focus": "Pathophysiology",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-042",
@@ -1474,19 +1508,19 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "An 80-year-old client being discharged after a hip fracture declines home health services, saying, “I do not deserve all this help. I would just be a burden.” Which response by the nurse is most appropriate?",
       "options": [
-        "“If you refuse help, you may fall again and need surgery.”",
-        "“Everyone deserves help, so I will go ahead and set it up.”",
+        "“Home health can help you stay safe and independent at home.”",
+        "“You have the right to decline, and I will note your decision.”",
         "“You feel you would be a burden. Tell me more about that.”",
-        "“Your family will worry less if you accept the services.”"
+        "“You are not a burden. You deserve care like anyone else.”"
       ],
       "answer": 2,
       "optionRationales": [
-        "Incorrect. Using fear does not address the low self-worth that drives the decision.",
-        "Incorrect. Arranging services anyway overrides the client’s autonomy, despite good intentions.",
-        "Correct. Reflecting the feeling and inviting more detail helps the nurse understand the self-worth concern behind the refusal.",
-        "Incorrect. Appealing to guilt may reinforce her sense of being a burden."
+        "Incorrect. Explaining the benefit is accurate teaching, but it addresses the service rather than her feeling of being undeserving.",
+        "Incorrect. Respecting autonomy matters, but accepting the refusal now skips exploring the low self-worth that may be driving it.",
+        "Correct. Reflecting her feeling and inviting her to say more lets the nurse understand the self-worth concern behind the refusal and assess mood and coping.",
+        "Incorrect. Reassurance is kind, but it contradicts her feeling instead of exploring it and may close the conversation."
       ],
-      "rationale": "The statement suggests low self-esteem: the client places little value on herself and feels undeserving of care. Reflecting the feeling and inviting her to say more helps the nurse learn what lies beneath the refusal and assess mood and coping. Arranging services anyway is tempting because the services are needed, but it overrides her autonomy. Warning about falls or appealing to family worry uses fear or guilt rather than addressing the self-worth concern.",
+      "rationale": "The statement suggests low self-esteem: the client places little value on herself and feels undeserving of care. Reflecting the feeling and inviting her to say more helps the nurse learn what lies beneath the refusal and assess mood and coping. Reassuring her that she is not a burden is tempting because it is kind, but it dismisses the feeling. Explaining the benefits of home health or simply accepting the refusal skips over the self-worth concern that is driving her decision.",
       "takeaway": "When low self-worth drives a refusal, explore the feeling before trying to change the decision.",
       "hintContent": "Identify the feeling the client expressed and which response acknowledges it.",
       "hintStrategy": "Reflection plus an open invitation is usually the most therapeutic choice when no immediate safety issue exists.",
@@ -1496,7 +1530,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-043",
@@ -1855,18 +1890,18 @@ window.NURSE_DATA.push({
       "stem": "A nurse learns that a colleague has given her personal cell phone number to a client on the unit and has been texting the client every evening. The colleague says, “Please do not tell anyone. It is really helping her.” What is the nurse’s best action?",
       "options": [
         "Report the situation to the nurse manager.",
-        "Agree to keep the situation confidential for now.",
-        "Text the client to explain the boundary.",
-        "Wait to see whether the texting stops."
+        "Report the colleague to the state board of nursing.",
+        "Notify the client’s provider about the texting.",
+        "Explain the boundary to the client privately."
       ],
       "answer": 0,
       "optionRationales": [
-        "Correct. Ongoing personal contact is a boundary violation, and reporting to the manager follows the chain of command.",
-        "Incorrect. Keeping the secret allows a boundary violation that can harm the client to continue.",
-        "Incorrect. Contacting the client personally repeats the violation and bypasses the proper process.",
-        "Incorrect. Waiting allows the boundary violation to continue."
+        "Correct. An ongoing boundary violation with a request for secrecy is reported through the chain of command, starting with the nurse manager, who can stop it and protect the client.",
+        "Incorrect. A board report may follow if warranted, but the nurse first uses the facility chain of command, starting with the nurse manager.",
+        "Incorrect. The provider directs medical care but does not supervise nursing staff conduct, so this does not reach the person who can stop the violation.",
+        "Incorrect. Clarifying boundaries with the client may help later, but the violation is the colleague’s, and it continues unless reported to the manager."
       ],
-      "rationale": "Ongoing personal contact with a client outside the professional role is a boundary violation, even when the nurse believes it helps. Boundaries protect the purpose and safety of the therapeutic relationship, and a request for secrecy is itself a warning sign. Because the colleague has asked for silence and the contact continues, the nurse follows the chain of command by reporting to the nurse manager. Keeping quiet or waiting is tempting to protect a coworker, but it allows potential harm to the client to continue.",
+      "rationale": "Ongoing personal contact with a client outside the professional role is a boundary violation, even when the nurse believes it helps. Boundaries protect the purpose and safety of the therapeutic relationship, and a request for secrecy is itself a warning sign. Because the colleague has asked for silence and the contact continues, the nurse follows the chain of command by reporting to the nurse manager. Going straight to the state board skips the chain of command, while telling the provider or talking only with the client does not reach the person who can stop the colleague’s behavior.",
       "takeaway": "Boundary violations that continue in secret are reported through the chain of command.",
       "hintContent": "Consider whose interests the professional boundary protects.",
       "hintStrategy": "When client welfare is at risk from a colleague’s conduct, choose the option that escalates through the chain of command.",
@@ -1876,7 +1911,8 @@ window.NURSE_DATA.push({
       "focus": "Delegation & Safety",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-052",
@@ -1906,7 +1942,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-053",
@@ -1938,7 +1975,8 @@ window.NURSE_DATA.push({
       "focus": "Delegation & Safety",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-054",
@@ -2012,7 +2050,8 @@ window.NURSE_DATA.push({
             }
           }
         ]
-      }
+      },
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-055",
@@ -2020,19 +2059,19 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "A client recovering from a stroke agreed yesterday to brush his own teeth at the sink with standby assistance. Today he stays in bed and says, “Just do it for me.” What should the nurse do first?",
       "options": [
-        "Document that the client is noncompliant with the self-care plan.",
+        "Encourage him to try brushing for just one minute at the sink.",
         "Remind him that he agreed to this goal and should follow through.",
         "Brush his teeth for him and remove the goal from the care plan.",
         "Ask what is different today, including pain, fatigue, or mood."
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. Labeling noncompliance treats the result as a moral failure rather than information.",
-        "Incorrect. This treats the setback as defiance and may damage trust and self-esteem.",
-        "Incorrect. Abandoning the goal before knowing the barrier gives up a meaningful step.",
-        "Correct. Assessing why a goal was not met identifies barriers before the plan is changed."
+        "Incorrect. Scaling down the task is a reasonable adjustment, but it intervenes before the nurse knows whether pain, fatigue, or mood is the barrier.",
+        "Incorrect. Referring to the agreed goal supports accountability, but it treats the setback as defiance before the nurse learns what changed.",
+        "Incorrect. Helping him today avoids conflict, but removing the goal abandons a meaningful step before the cause is known.",
+        "Correct. The nurse first assesses why the client is not meeting the goal today, such as pain, fatigue, or mood, before adjusting the plan."
       ],
-      "rationale": "When a client does not meet an agreed goal, the nurse first assesses why; pain, fatigue, mood, understanding, or readiness may all interfere. The result is information, not a moral failure. Holding him to his agreement or documenting noncompliance treats the setback as defiance and can damage self-esteem and trust. Taking over and removing the goal is tempting because it avoids conflict, but it abandons a meaningful step before the nurse knows what got in the way.",
+      "rationale": "When a client does not meet an agreed goal, the nurse first assesses why; pain, fatigue, mood, understanding, or readiness may all interfere. The result is information, not a moral failure. Holding him to his agreement treats the setback as defiance and can damage self-esteem and trust, and shrinking the task changes the plan before the barrier is known. Taking over and removing the goal is tempting because it avoids conflict, but it abandons a meaningful step before the nurse knows what got in the way.",
       "takeaway": "When a goal is not met, assess the barrier before revising the plan or judging the client.",
       "hintContent": "Consider what might have changed since yesterday.",
       "hintStrategy": "Assess before acting: choose the option that gathers information about the setback.",
@@ -2042,7 +2081,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-056",
@@ -2072,7 +2112,8 @@ window.NURSE_DATA.push({
       "focus": "Prioritization",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-057",
@@ -2082,15 +2123,15 @@ window.NURSE_DATA.push({
       "options": [
         "Transfer the call to the client’s room so that the two can talk.",
         "Share general progress only, because the mother is the client’s next of kin.",
-        "Tell the mother that her daughter is eating well and is doing fine.",
+        "Verify the mother’s identity first, then give a brief general update.",
         "Explain that information cannot be shared without the client’s permission."
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. Transferring the call confirms her presence and removes the client’s choice.",
-        "Incorrect. Next-of-kin status does not authorize disclosure without the client’s agreement.",
-        "Incorrect. Sharing any details without permission violates privacy.",
-        "Correct. An adult client controls who receives her health information."
+        "Incorrect. Letting the client speak for herself respects her voice, but transferring without asking confirms she is on the unit and removes her choice.",
+        "Incorrect. Family involvement is often helpful, but next-of-kin status does not authorize disclosure to an adult without her permission.",
+        "Incorrect. Verifying identity is a real privacy step, but even a confirmed parent cannot receive information the adult client has not authorized.",
+        "Correct. An adult controls who receives her health information, so the nurse explains the limit and can later ask the client about involving her mother."
       ],
       "rationale": "An adult client controls who receives her health information, and including family requires her agreement under privacy rules. The nurse explains that information cannot be shared without permission and can later ask the client whether she wants her mother involved. Sharing “general” progress is tempting because the mother is family and concerned, but next-of-kin status does not authorize disclosure. Transferring the call without asking also reveals that the client is on the unit and removes her choice.",
       "takeaway": "Include family only with the adult client’s agreement; concern or kinship does not authorize disclosure.",
@@ -2102,7 +2143,8 @@ window.NURSE_DATA.push({
       "focus": "Delegation & Safety",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-058",
@@ -2134,7 +2176,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-059",
@@ -2145,16 +2188,16 @@ window.NURSE_DATA.push({
         "Client will verbalize acceptance of his altered hands before discharge.",
         "Client will feed himself breakfast with adaptive utensils within 1 week.",
         "Client will return to full duty as a firefighter within one month.",
-        "Client will state that the appearance of his hands no longer matters to him."
+        "Client will identify two feelings about his burn injury by discharge."
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. Demanding emotional acceptance sets a goal he may not be ready to meet.",
-        "Correct. This goal is specific, realistic, measurable, and directly addresses his frustration.",
-        "Incorrect. This is unrealistic for healing burns and sets him up for failure.",
-        "Incorrect. Requiring this statement dismisses a real loss and is not a measurable functional goal."
+        "Incorrect. Acceptance is a worthy long-term goal, but it is an emotional outcome he may not be ready for and is hard to measure.",
+        "Correct. Self-feeding with adaptive utensils is specific, measurable, realistic, and builds self-efficacy by addressing his stated frustration.",
+        "Incorrect. This goal reflects his valued role, but it is unrealistic for healing hand burns and early failure would undermine confidence.",
+        "Incorrect. Expressing feelings supports coping, but it does not give him a mastery experience with the daily task that frustrates him."
       ],
-      "rationale": "Self-efficacy grows through successful experiences with achievable, meaningful tasks. Self-feeding with adaptive utensils is specific, measurable, realistic, and directly addresses his stated frustration. Demanding acceptance or a statement that appearance does not matter sets an emotional goal the client may not be ready for. A return to full duty within a month is tempting because it matches his valued role, but it is unrealistic for healing burns and would undermine confidence.",
+      "rationale": "Self-efficacy grows through successful experiences with achievable, meaningful tasks. Self-feeding with adaptive utensils is specific, measurable, realistic, and directly addresses his stated frustration. Verbalizing acceptance sets an emotional goal the client may not be ready for, and naming feelings supports coping but does not build mastery of the task he is frustrated by. A return to full duty within a month is tempting because it matches his valued role, but it is unrealistic for healing burns and would undermine confidence.",
       "takeaway": "Build self-efficacy with a small, specific, realistic goal tied to what matters most to the client now.",
       "hintContent": "Look for the goal the client could actually achieve soon that addresses his stated frustration.",
       "hintStrategy": "For goal-selection items, choose the option that is specific, measurable, realistic, and client-centered.",
@@ -2164,7 +2207,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-060",
@@ -2196,7 +2240,8 @@ window.NURSE_DATA.push({
       "focus": "Delegation & Safety",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-061",
@@ -2270,19 +2315,19 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "On the day of discharge, a client who has worked with the nurse on coping with a new disability says, “You are the only person who really gets me. Can I have your phone number so we can keep talking?” Which response is best?",
       "options": [
-        "“You should not feel that way. Many people at home understand you, too.”",
+        "“I am glad our talks helped. I will miss working with you, too.”",
         "“Sure, but please call me only if something urgent comes up after you go home.”",
-        "“I am not allowed to, but you can find me on social media if you want to.”",
+        "“I cannot give my number, but you can call the unit and ask for me.”",
         "“I cannot share my number, but let’s list people and services you can call.”"
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. Telling the client how not to feel dismisses the emotion.",
-        "Incorrect. Limiting calls to urgent matters still creates a personal relationship outside the professional role.",
-        "Incorrect. Social media contact is the same boundary violation in another form.",
-        "Correct. This states the boundary kindly and redirects the client to ongoing support."
+        "Incorrect. Acknowledging the relationship is warm, but it neither states the boundary nor helps the client build supports after discharge.",
+        "Incorrect. Limiting calls to urgent needs feels compassionate, but it still creates a personal relationship outside the professional role.",
+        "Incorrect. Declining the personal number is right, but inviting calls to the unit continues the relationship past discharge instead of ending it.",
+        "Correct. The nurse kindly states the limit and redirects the client to people and services that can support ongoing coping after discharge."
       ],
-      "rationale": "A therapeutic relationship is professional and time-limited, and personal contact after discharge crosses that boundary even when the request is sincere. The nurse kindly states the limit and redirects the client to supports such as a counselor, support group, or crisis line. Agreeing to urgent-only calls is tempting because it feels compassionate, but it still creates a personal relationship. Suggesting social media is the same violation, and telling the client not to feel that way dismisses the feeling.",
+      "rationale": "A therapeutic relationship is professional and time-limited, and personal contact after discharge crosses that boundary even when the request is sincere. The nurse kindly states the limit and redirects the client to supports such as a counselor, support group, or crisis line. Agreeing to urgent-only calls is tempting because it feels compassionate, but it still creates a personal relationship. Inviting calls to the unit continues the same relationship, and simply sharing warm feelings leaves out both the boundary and the plan for support.",
       "takeaway": "State the professional boundary kindly and redirect the client to sustainable supports.",
       "hintContent": "Consider whether the therapeutic relationship continues after discharge.",
       "hintStrategy": "Choose the response that maintains the boundary and still meets the client’s underlying need.",
@@ -2292,7 +2337,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-063",
@@ -2300,19 +2346,19 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "A client with borderline personality disorder uses the call light every few minutes to ask the nurse for small favors and becomes upset when the nurse cannot come immediately. Which intervention is most appropriate?",
       "options": [
-        "Ignore the call light until the client learns to wait patiently.",
+        "Explain that frequent calls keep the nurse from caring for other clients.",
         "Answer every call immediately so that the client does not feel abandoned.",
         "Schedule brief check-ins at set times that all staff follow consistently.",
         "Assign a different nurse each shift so that no one becomes overwhelmed."
       ],
       "answer": 2,
       "optionRationales": [
-        "Incorrect. Ignoring calls is unsafe and punitive.",
-        "Incorrect. This reinforces the pattern and is not sustainable.",
-        "Correct. Predictable structure applied by all staff reduces anxiety and repeated requests while maintaining the relationship.",
-        "Incorrect. Rotating staff increases inconsistency, which can worsen distress."
+        "Incorrect. Stating the impact is honest, but it sets no predictable structure and may feel like rejection, which can increase anxiety and demands.",
+        "Incorrect. Prompt response avoids upset, but it reinforces the pattern and cannot be sustained.",
+        "Correct. Predictable check-ins applied consistently by all staff reduce anxiety and demands, build trust, and still allow urgent calls to be answered.",
+        "Incorrect. Sharing the workload protects staff, but rotating nurses increases inconsistency, which worsens the client’s anxiety and testing of limits."
       ],
-      "rationale": "Clear, predictable structure applied consistently by all staff reduces anxiety and repeated demands while maintaining the relationship. Scheduled check-ins tell the client when the nurse will return, and keeping them reliably builds trust, while urgent calls are still answered. Answering every call immediately is tempting because it avoids upset, but it reinforces the pattern and cannot be sustained. Ignoring the call light is unsafe, and rotating nurses increases inconsistency.",
+      "rationale": "Clear, predictable structure applied consistently by all staff reduces anxiety and repeated demands while maintaining the relationship. Scheduled check-ins tell the client when the nurse will return, and keeping them reliably builds trust, while urgent calls are still answered. Answering every call immediately is tempting because it avoids upset, but it reinforces the pattern and cannot be sustained. Explaining the burden on other clients offers no structure, and rotating nurses increases inconsistency.",
       "takeaway": "Consistent, scheduled contact that every staff member follows is a therapeutic limit, not a punishment.",
       "hintContent": "Think about what reduces the client’s need to keep calling.",
       "hintStrategy": "Prefer the option that is consistent, predictable, and team-based over extremes of giving in or withdrawing.",
@@ -2322,7 +2368,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-064",
@@ -2352,7 +2399,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 3,
       "clientNeed": "Psychosocial Integrity",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-065",
@@ -2361,18 +2409,18 @@ window.NURSE_DATA.push({
       "stem": "A 13-year-old hospitalized for an eating disorder becomes silent whenever the nurse asks about feelings but spends free time drawing in a sketchbook. Which nursing intervention best fits the teen’s current way of expressing emotions?",
       "options": [
         "Invite the teen to use drawing or journaling to express feelings.",
-        "Insist that the teen answer questions about feelings at each visit.",
-        "Remove art supplies until the teen participates in talk therapy.",
-        "Ask the parents to explain the teen’s feelings to the care team."
+        "Sit quietly with the teen until the teen is ready to talk.",
+        "Ask the teen simple yes-or-no questions about feelings instead.",
+        "Ask the parents how the teen usually expresses being upset."
       ],
       "answer": 0,
       "optionRationales": [
-        "Correct. Expressive approaches build on an existing strength and give another route for communication.",
-        "Incorrect. Pressure to talk may deepen withdrawal and harm trust.",
-        "Incorrect. Removing a valued activity is punitive and not therapeutic.",
-        "Incorrect. Parents speaking for the teen bypasses the adolescent’s own voice."
+        "Correct. Inviting drawing or journaling builds on the teen’s existing interest and gives a nonverbal route to express feelings, supporting trust and engagement.",
+        "Incorrect. Silent presence is supportive, but it waits for talking rather than using the way the teen already expresses emotions.",
+        "Incorrect. Simplifying questions lowers pressure, but it still relies on verbal answers, which the teen is avoiding.",
+        "Incorrect. Parent input is useful background, but it gathers information secondhand instead of engaging the teen directly."
       ],
-      "rationale": "Expressive approaches such as art and journaling give clients another route to communicate feelings when talking is difficult. Building on a teen’s existing interest is a strength-based way to support engagement and trust. Insisting on verbal answers is tempting because talk is the usual way to assess feelings, but pressure may deepen withdrawal. Removing supplies is punitive, and having parents speak for the teen bypasses the adolescent’s own voice.",
+      "rationale": "Expressive approaches such as art and journaling give clients another route to communicate feelings when talking is difficult. Building on a teen’s existing interest is a strength-based way to support engagement and trust. Simplifying to yes-or-no questions is tempting because it lowers pressure, but it still depends on talking. Waiting silently or asking the parents does not use the teen’s own preferred way of expressing emotion.",
       "takeaway": "When talking is hard, use the client’s preferred form of expression, such as art or journaling.",
       "hintContent": "Notice what the teen already does comfortably.",
       "hintStrategy": "Choose the strength-based option that meets the client where they are.",
@@ -2384,7 +2432,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-066",
@@ -2392,19 +2441,19 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "The wife of a client with a recent above-the-knee amputation insists on doing all of his care, including tasks he performed independently in rehabilitation. The client has become quiet and passive. Which action by the nurse is best?",
       "options": [
-        "Tell the client to insist that his wife stop helping him with everything.",
+        "Plan his care for times when his wife is not visiting the unit.",
         "Praise the wife’s devotion and let her continue providing all of his care.",
-        "Ask the wife to stop visiting until the client becomes more independent.",
+        "Refer the wife to a caregiver support group in the community.",
         "Teach the wife to encourage his independence and help only when needed."
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. This shifts the burden to the client without supporting either partner.",
-        "Incorrect. This reinforces dependence and may further lower his self-esteem.",
-        "Incorrect. Restricting visits damages a key support relationship.",
-        "Correct. Teaching the family to support what the client can do protects his confidence and independence."
+        "Incorrect. This lets him practice skills, but it avoids the problem and leaves the wife unprepared to support his independence at home.",
+        "Incorrect. Her intentions are good, but letting her take over reinforces his dependence and passivity.",
+        "Incorrect. Caregiver support may help her long term, but it does not address the current pattern that is undermining his independence.",
+        "Correct. Teaching the wife to encourage his independence and help only when needed protects his self-concept while keeping her involved."
       ],
-      "rationale": "Families support self-concept when they encourage the client to do what he can and step in only when needed. The wife is likely trying to help, so the nurse teaches rather than blames, explaining how his participation protects his independence and confidence. Praising her devotion while letting her take over is tempting because her intentions are good, but it reinforces dependence. Restricting her visits or putting the burden on the client to confront her damages a key support relationship.",
+      "rationale": "Families support self-concept when they encourage the client to do what he can and step in only when needed. The wife is likely trying to help, so the nurse teaches rather than blames, explaining how his participation protects his independence and confidence. Praising her devotion while letting her take over is tempting because her intentions are good, but it reinforces dependence. Scheduling care around her visits avoids the issue, and a support-group referral helps later but does not change the current pattern.",
       "takeaway": "Teach families to support the client’s independence rather than take over care.",
       "hintContent": "Consider what the client’s growing passivity suggests about the current arrangement.",
       "hintStrategy": "Choose the option that keeps the family involved while redirecting their help.",
@@ -2416,7 +2465,8 @@ window.NURSE_DATA.push({
       "focus": "Client Teaching",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-067",
@@ -2446,7 +2496,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-068",
@@ -2456,17 +2507,17 @@ window.NURSE_DATA.push({
       "options": [
         "“I will make an exception tonight because the evening nurse already did.”",
         "“The team plan is no phones after 10. I will check that we are all following it.”",
-        "“The evening nurse should not have done that, and I am going to report her for it.”",
-        "“If you keep comparing staff, you will lose your phone privileges entirely.”"
+        "“Each nurse does things a bit differently, but my rule is no phones after 10.”",
+        "“I hear that you are upset. Let’s talk about how your evening is going.”"
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. Making exceptions reinforces inconsistency and confusion.",
-        "Correct. Restating the agreed plan calmly and following up with the team promotes consistency.",
-        "Incorrect. Criticizing a colleague to the client escalates conflict and splits the team.",
-        "Incorrect. Threatening punishment turns a limit into a penalty."
+        "Incorrect. Flexibility may ease tension, but making an exception reinforces inconsistency and teaches the client that comparing staff works.",
+        "Correct. The nurse calmly restates the team plan and follows up with the team so that everyone applies the same expectation.",
+        "Incorrect. Holding the limit is right, but calling it a personal rule accepts inconsistency among staff instead of restoring the team plan.",
+        "Incorrect. Acknowledging feelings is supportive, but it avoids restating the limit and leaves the staff inconsistency unaddressed."
       ],
-      "rationale": "Inconsistent rules increase confusion and conflict, and clients may highlight differences among staff. The nurse calmly restates the agreed plan and follows up with the team so everyone applies the same expectation. Making an exception is tempting because it avoids conflict, but it reinforces inconsistency. Criticizing the colleague to the client or threatening punishment escalates conflict and turns a limit into a punishment.",
+      "rationale": "Inconsistent rules increase confusion and conflict, and clients may highlight differences among staff. The nurse calmly restates the agreed plan and follows up with the team so everyone applies the same expectation. Making an exception is tempting because it avoids conflict, but it reinforces inconsistency. Framing the limit as a personal rule or simply redirecting to feelings leaves the inconsistency in place.",
       "takeaway": "Respond to staff comparisons by restating the team plan calmly and restoring consistency behind the scenes.",
       "hintContent": "Think about what the client needs to hear and what the team needs to do.",
       "hintStrategy": "Choose the response that is consistent, nonpunitive, and does not criticize colleagues in front of the client.",
@@ -2478,7 +2529,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m29-x1-069",

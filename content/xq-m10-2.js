@@ -34,7 +34,8 @@ window.NURSE_DATA.push({
    "rationale": "A wheal within minutes of a sting reflects mast cells in the skin releasing histamine, which dilates and leaks local vessels and triggers itching. The same mediators can be released throughout the body, so the nurse's first job is to look beyond the skin for airway, breathing, or circulation involvement. The cool compress and antihistamine are tempting because they match the visible problem, but they address comfort rather than safety. Once the airway and breathing are confirmed normal, local comfort measures and teaching follow.",
    "takeaway": "With any mediator-driven skin reaction, check the airway and breathing before treating the itch.",
    "hintContent": "Think about where else mast cells release the same mediators besides the skin.",
-   "hintStrategy": "When every option is reasonable, choose the assessment that rules out a life-threatening problem before comfort measures."
+   "hintStrategy": "When every option is reasonable, choose the assessment that rules out a life-threatening problem before comfort measures.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-002",
@@ -66,7 +67,8 @@ window.NURSE_DATA.push({
    "rationale": "All four clients have mediator effects, but only one involves the airway. Itching all over plus chest tightness right after a new IV antibiotic suggests mast cells are releasing histamine and leukotrienes throughout the body, which can tighten airway smooth muscle and progress to anaphylaxis within minutes. The sprain is the most tempting distractor because 6/10 pain feels urgent, yet it is an expected local response in a stable client. Systemic mediator release after a drug exposure outranks local pain, fever, or itching.",
    "takeaway": "Mediator release that is body-wide or involves the airway outranks local pain, fever, or itch.",
    "hintContent": "Ask which mediator effect, in which location, could kill within minutes.",
-   "hintStrategy": "Apply the ABCs: the client with a possible airway or breathing threat is seen first."
+   "hintStrategy": "Apply the ABCs: the client with a possible airway or breathing threat is seen first.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-003",
@@ -85,20 +87,21 @@ window.NURSE_DATA.push({
    "options": [
     "Give the next ibuprofen dose with a full meal and a glass of milk",
     "Offer an antacid and reassess the epigastric pain in 1 hour",
-    "Teach the client to switch to aspirin for the shoulder pain",
+    "Suggest acetaminophen for the shoulder pain instead of ibuprofen",
     "Hold the next ibuprofen dose and report the findings to the provider"
    ],
    "answer": 3,
    "optionRationales": [
     "Incorrect. Food helps prevent stomach irritation, but once bleeding signs appear, continuing the NSAID is unsafe.",
-    "Incorrect. An antacid may mask symptoms and delays reporting a possible GI bleed.",
-    "Incorrect. Aspirin also blocks prostaglandins and carries the same risk to the stomach lining.",
+    "Incorrect. An antacid may ease the burning, but it can mask symptoms and delays reporting a possible GI bleed.",
+    "Incorrect. Acetaminophen is a reasonable pain option that spares the stomach, but switching drugs does not get a possible GI bleed evaluated by the provider.",
     "Correct. Black, tarry stools suggest upper GI bleeding; prostaglandins protect the stomach lining, and the drug blocking them should be stopped and the provider notified."
    ],
    "rationale": "Prostaglandins cause pain and fever at an injured site, but they also protect the stomach lining and help maintain kidney blood flow. NSAIDs such as ibuprofen block prostaglandin production, so heavy use without food can erode the stomach and cause bleeding, shown here by black, tarry stools. The most tempting distractor is giving the dose with food; food helps prevent irritation, but it does not make it safe to continue once bleeding is suspected. Holding the drug and notifying the provider protects the client.",
    "takeaway": "Blocking prostaglandins removes their stomach protection; signs of GI bleeding on an NSAID mean hold and report.",
    "hintContent": "Remember the protective jobs prostaglandins have outside the inflamed tissue.",
-   "hintStrategy": "When a finding signals harm from a drug, stop the harm before choosing ways to make the drug easier to tolerate."
+   "hintStrategy": "When a finding signals harm from a drug, stop the harm before choosing ways to make the drug easier to tolerate.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-004",
@@ -154,22 +157,23 @@ window.NURSE_DATA.push({
    },
    "stem": "A 58-year-old client is admitted with community-acquired pneumonia. Refer to the Vital Signs. Which action should the nurse take first?",
    "options": [
-    "Document that the ibuprofen effectively treated the pneumonia",
+    "Document that the ibuprofen effectively reduced the fever",
     "Apply oxygen per protocol and notify the provider of the low SpO₂",
     "Encourage oral fluids to replace losses from the earlier fever",
     "Recheck the temperature in 1 hour to confirm the fever is resolving"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. The fever fell because prostaglandins were blocked; the lung infection itself appears to be worsening.",
+    "Incorrect. The fever did fall, so this is accurate documentation, but it ignores the falling SpO₂ and rising RR that need action now.",
     "Correct. The SpO₂ has fallen and the respiratory rate has risen; this breathing problem needs action now despite the lower temperature.",
     "Incorrect. Fluids are helpful, but they do not address hypoxemia, which is the immediate threat.",
-    "Incorrect. Focusing on the temperature misses the worsening respiratory status."
+    "Incorrect. Rechecking shows the fever trend, but focusing on the temperature misses the worsening respiratory status."
    ],
    "rationale": "Ibuprofen lowers fever by blocking prostaglandins, which act on the hypothalamus to raise the body's temperature set point. It does not kill bacteria or treat the pneumonia, so a near-normal temperature can coexist with a worsening infection. Here the RR has climbed to 30 and the SpO₂ has dropped to 88%, signaling impaired gas exchange. The tempting choice is to call the ibuprofen a success, but evaluating the client by the thermometer alone ignores the breathing data that matter most.",
    "takeaway": "An NSAID can bring a fever down without improving the infection; judge the client by breathing and oxygenation, not temperature alone.",
    "hintContent": "Consider which signs ibuprofen changes and which signs it cannot touch.",
-   "hintStrategy": "Compare the rows: identify what improved, what worsened, and which change threatens the ABCs."
+   "hintStrategy": "Compare the rows: identify what improved, what worsened, and which change threatens the ABCs.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-005",
@@ -189,19 +193,20 @@ window.NURSE_DATA.push({
     "Give a second dose of diphenhydramine to complete the treatment",
     "Give epinephrine IM per protocol and call for emergency help",
     "Apply cool compresses to the hives and recheck her in 15 minutes",
-    "Reassure her that the medicine is working because the itching improved"
+    "Check her oxygen saturation and listen for stridor"
    ],
    "answer": 1,
    "optionRationales": [
     "Incorrect. Antihistamines block only histamine and act too slowly to open a swelling airway.",
     "Correct. A thick tongue and voice change mean airway swelling from body-wide mediator release; epinephrine reverses it.",
-    "Incorrect. Waiting allows the airway swelling to progress.",
-    "Incorrect. Less itching shows histamine is blocked in the skin, not that airway swelling is controlled."
+    "Incorrect. Cool compresses soothe hives, but waiting 15 minutes allows the airway swelling to progress.",
+    "Incorrect. Assessing oxygenation and airway sounds is reasonable, but a thick tongue and voice change already show airway swelling; assessing first delays epinephrine."
    ],
    "rationale": "Antihistamines block one mediator, histamine, so they relieve itching and hives. In a reaction that spreads beyond the skin, many mediators are released at once, and capillary leak swells the tongue and larynx. The improving itch is the tempting cue because it suggests the treatment is working, but the new voice change shows the airway is now involved. Epinephrine IM constricts vessels and reduces swelling, so it comes first.",
    "takeaway": "Better itching on an antihistamine does not mean the reaction is controlled; any airway sign means epinephrine now.",
    "hintContent": "Think about what an antihistamine can and cannot block.",
-   "hintStrategy": "When a new airway finding appears, it overrides earlier signs of improvement."
+   "hintStrategy": "When a new airway finding appears, it overrides earlier signs of improvement.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-006",
@@ -221,20 +226,21 @@ window.NURSE_DATA.push({
    "options": [
     "Give an oral antihistamine and call back if the cough gets worse",
     "Put ice on the sting site and watch her closely for an hour",
-    "Bring her to the clinic this afternoon for an evaluation",
+    "Drive her to the nearest emergency department right away",
     "Call 911 now and use her epinephrine auto-injector if she has one"
    ],
    "answer": 3,
    "optionRationales": [
     "Incorrect. This delays epinephrine and emergency care while the airway may be closing.",
-    "Incorrect. Ice treats only the local reaction and ignores the airway signs.",
-    "Incorrect. Airway swelling can become fatal within minutes; waiting hours is unsafe.",
+    "Incorrect. Ice eases the local sting reaction, but it ignores the cough and lip swelling that signal airway involvement.",
+    "Incorrect. She does need emergency care, but driving delays epinephrine and leaves no one to manage her airway on the way; EMS brings treatment to her.",
     "Correct. Coughing and lip swelling show mediators are acting on the airway; outside the hospital this needs EMS and epinephrine immediately."
    ],
    "rationale": "A welt at the sting site is a local histamine response, but cough and lip swelling show mast cells are releasing mediators beyond the sting, swelling and narrowing the airway. Outside the hospital, the priority is activating EMS and giving epinephrine immediately. The antihistamine option is tempting because the child is small and the welt itches, but antihistamines act slowly and cannot reverse airway swelling. Every minute of delay increases the risk of airway closure.",
    "takeaway": "Airway signs after a sting at home mean call 911 and give epinephrine; never wait and see with an antihistamine.",
    "hintContent": "Decide whether the reaction is still local or has spread to another body system.",
-   "hintStrategy": "In telephone triage, choose the instruction that gets emergency care moving fastest when the ABCs are threatened."
+   "hintStrategy": "In telephone triage, choose the instruction that gets emergency care moving fastest when the ABCs are threatened.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-007",
@@ -252,21 +258,22 @@ window.NURSE_DATA.push({
    "stem": "A client is 3 days post-op after open reduction of a forearm fracture and receives scheduled ibuprofen every 6 hours. Temperature is 37.4 °C (99.3 °F). The client reports incisional pain that is worse than yesterday, and the dressing has a small amount of thick, cloudy drainage. Which action should the nurse take first?",
    "options": [
     "Report the drainage and pain; ibuprofen may be masking a fever",
-    "Reassure the client that a near-normal temperature rules out an infection",
-    "Request an extra dose of ibuprofen to control the increased pain",
+    "Recheck the temperature in 4 hours to look for a fever",
+    "Give the scheduled ibuprofen and reassess the pain in 1 hour",
     "Change the dressing and recheck the incision in 24 hours"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. Worsening pain and purulent drainage suggest infection; blocking prostaglandins can blunt the fever that would usually accompany it.",
-    "Incorrect. The temperature is unreliable while prostaglandins are being blocked around the clock.",
-    "Incorrect. More ibuprofen treats the symptom and further hides the cues of infection.",
-    "Incorrect. Waiting a day delays evaluation of a likely wound infection."
+    "Incorrect. Trending the temperature is reasonable, but around-the-clock ibuprofen can keep it down, and waiting delays reporting clear local signs of infection.",
+    "Incorrect. Scheduled pain relief is appropriate, but it treats the symptom only and does not get the cloudy drainage evaluated.",
+    "Incorrect. A dressing change lets the nurse inspect the wound, but waiting 24 hours delays evaluation of a likely wound infection."
    ],
-   "rationale": "Ibuprofen blocks prostaglandins, which drive both fever and pain, so scheduled doses can blunt the cues a nurse relies on to detect infection. Increasing incisional pain and thick, cloudy drainage are signs of a possible wound infection even with a near-normal temperature. The tempting distractor is reassurance based on the temperature, but the thermometer is unreliable while prostaglandins are blocked. The nurse reports the drainage and pain promptly so the wound can be evaluated.",
+   "rationale": "Ibuprofen blocks prostaglandins, which drive both fever and pain, so scheduled doses can blunt the cues a nurse relies on to detect infection. Increasing incisional pain and thick, cloudy drainage are signs of a possible wound infection even with a near-normal temperature. The tempting distractor is waiting for a fever to appear, but the thermometer is unreliable while prostaglandins are blocked. The nurse reports the drainage and pain promptly so the wound can be evaluated.",
    "takeaway": "An NSAID can hide fever and pain; trust local signs such as purulent drainage and worsening pain.",
    "hintContent": "Think about which signs of infection depend on prostaglandins.",
-   "hintStrategy": "Look for a medication in the stem that could be changing the data you are given."
+   "hintStrategy": "Look for a medication in the stem that could be changing the data you are given.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-008",
@@ -318,19 +325,20 @@ window.NURSE_DATA.push({
     "Encourage the client to drink an extra 2 liters of fluid throughout today",
     "Give the ibuprofen with food to protect the kidneys",
     "Hold the ibuprofen and notify the provider of the kidney findings",
-    "Recheck the creatinine and BUN in 3 days"
+    "Start strict intake and output and report at the end of the shift"
    ],
    "answer": 2,
    "optionRationales": [
     "Incorrect. Extra fluid does not remove the cause, and low urine output raises the risk of fluid overload.",
-    "Incorrect. Food protects the stomach lining, not the kidneys.",
+    "Incorrect. Taking ibuprofen with food is sound advice, but food protects the stomach lining, not the kidneys.",
     "Correct. Prostaglandins help maintain kidney blood flow; blocking them can reduce kidney perfusion, especially in older adults.",
-    "Incorrect. Waiting delays action on a doubled creatinine and very low urine output."
+    "Incorrect. Strict intake and output is useful monitoring, but the creatinine has already doubled and output is very low; waiting until shift end delays holding the drug."
    ],
    "rationale": "Besides causing pain and fever, prostaglandins help maintain blood flow to the kidneys. NSAIDs block prostaglandin production, which can reduce kidney perfusion, and older adults are especially vulnerable. A creatinine that has doubled, a rising BUN, and urine output of about 17 mL/hr signal kidney harm. Giving the drug with food is tempting because it is standard NSAID teaching, but food protects the stomach, not the kidneys; the drug should be held and the provider notified.",
    "takeaway": "NSAIDs remove prostaglandins' support of kidney blood flow; falling urine output and rising creatinine mean hold and report.",
    "hintContent": "Prostaglandins have a protective job in the kidneys, too.",
-   "hintStrategy": "Trend the data across columns; a doubled value plus low output signals harm that needs action, not more monitoring."
+   "hintStrategy": "Trend the data across columns; a doubled value plus low output signals harm that needs action, not more monitoring.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-009",
@@ -362,7 +370,8 @@ window.NURSE_DATA.push({
    "rationale": "Histamine and bradykinin make vessels leaky, and the escaping fluid swells the injured tissue. When swelling expands inside a fixed wrap, the pressure compresses vessels and nerves, causing pale, cool, numb toes with slow refill. The nurse removes the cause of compression first and then reassesses. Elevation is the most tempting distractor because it is part of standard sprain care, but it cannot restore blood flow while the wrap is still too tight, and raising a limb with poor circulation can reduce arterial flow further, so the ankle stays at heart level until perfusion returns.",
    "takeaway": "When inflammatory swelling compromises circulation, loosen the constriction first and keep the limb at heart level, not above it.",
    "hintContent": "Swelling has nowhere to go inside something tight.",
-   "hintStrategy": "Pick the action that removes the cause of the problem before options that only ease it."
+   "hintStrategy": "Pick the action that removes the cause of the problem before options that only ease it.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-010",
@@ -394,7 +403,8 @@ window.NURSE_DATA.push({
    "rationale": "Local welts are a histamine response from skin mast cells, and cool compresses for comfort can be delegated. The key safety risk is that the reaction spreads, so the UAP must know which observations to report immediately: wheezing, lip or tongue swelling, or a hoarse voice. Listening to the lungs is tempting because it targets the same danger, but assessment belongs to the RN. Medication administration is also outside UAP scope.",
    "takeaway": "When delegating care of a local allergic reaction, tell the UAP exactly which airway signs to report at once.",
    "hintContent": "Identify the most dangerous way this local reaction could change.",
-   "hintStrategy": "For delegation items, choose the instruction that is within the UAP's scope and targets the biggest safety risk."
+   "hintStrategy": "For delegation items, choose the instruction that is within the UAP's scope and targets the biggest safety risk.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-011",
@@ -474,21 +484,22 @@ window.NURSE_DATA.push({
    "stem": "A 35-year-old client with an acutely inflamed, swollen knee after a fall started scheduled ibuprofen 2 days ago. Which finding best indicates that the drug's anti-prostaglandin effect is working?",
    "options": [
     "The skin over the knee no longer itches when the client is resting",
-    "The WBC count has risen from 9,000 to 13,500/mm³ since admission",
+    "The client's temperature has stayed at 37.0 °C (98.6 °F)",
     "Pain has decreased from 8/10 to 3/10, and the knee is less swollen",
-    "The knee x-ray shows soft-tissue swelling but no fracture"
+    "The client reports sleeping well with the knee raised on a pillow"
    ],
    "answer": 2,
    "optionRationales": [
     "Incorrect. Itching is a histamine effect, which ibuprofen does not block.",
-    "Incorrect. A rising WBC suggests more inflammation or infection, not a drug effect.",
+    "Incorrect. Ibuprofen does lower fever, but this client had no fever, so a normal temperature does not show the drug is working on the knee.",
     "Correct. Prostaglandins drive pain, vasodilation, and leakage; less pain and swelling show reduced prostaglandin activity.",
-    "Incorrect. An x-ray rules out a fracture but does not evaluate the drug's effect."
+    "Incorrect. Better sleep may reflect comfort, but it is indirect and could come from elevation; less pain and swelling directly measure the drug's effect."
    ],
    "rationale": "Evaluate a drug by checking the problems it was given to fix. Ibuprofen blocks the COX enzyme so less prostaglandin is made, which means less pain, less vasodilation and leakage, and less fever. A drop in pain and swelling is the expected therapeutic effect. Loss of itching is tempting because it sounds like less inflammation, but itching is driven by histamine, which ibuprofen does not block.",
    "takeaway": "Ibuprofen works by lowering prostaglandins, so evaluate it by pain, swelling, and fever.",
    "hintContent": "Link the drug's target mediator to that mediator's signature effects.",
-   "hintStrategy": "For 'effective' questions, choose the finding that matches the drug's mechanism."
+   "hintStrategy": "For 'effective' questions, choose the finding that matches the drug's mechanism.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-014",
@@ -696,21 +707,22 @@ window.NURSE_DATA.push({
    "stem": "A 19-year-old lifeguard comes to the campus health office with a painful, red, warm sunburn across the shoulders and back. There are no blisters, and vital signs are normal. The client asks for help with the pain and swelling. Which prescribed medication best targets the cause of these symptoms?",
    "options": [
     "Diphenhydramine taken at bedtime",
-    "Topical antibiotic ointment",
+    "Acetaminophen every 6 hours",
     "Ibuprofen taken with food",
-    "Oral cephalexin for 7 days"
+    "Lidocaine gel on the skin"
    ],
    "answer": 2,
    "optionRationales": [
     "Incorrect. Diphenhydramine blocks histamine and itching but does not reduce prostaglandin-driven pain.",
-    "Incorrect. A sunburn is not an infection, and antibiotics do not affect inflammatory mediators.",
+    "Incorrect. Acetaminophen relieves pain, but it has little anti-inflammatory effect, so it does not reduce the prostaglandin-driven swelling and redness.",
     "Correct. Ibuprofen blocks prostaglandin production, reducing the vasodilation, pain, and swelling of acute inflammation.",
-    "Incorrect. An oral antibiotic treats bacterial infection, which is not present in a sunburn."
+    "Incorrect. Topical lidocaine numbs the burned skin for comfort, but it does not reduce the prostaglandin-driven inflammation causing the symptoms."
    ],
    "rationale": "A sunburn is acute inflammation caused by a physical agent, ultraviolet light, with no infection involved. The redness, warmth, pain, and swelling are driven largely by prostaglandins, which cause vasodilation, sensitize pain nerves, and add to permeability. Ibuprofen blocks prostaglandin production and is taken with food to protect the stomach. Diphenhydramine is tempting because it is a familiar 'anti-reaction' drug, but it blocks only histamine and does little for pain.",
    "takeaway": "For inflammatory pain and swelling, choose the drug that lowers prostaglandins.",
    "hintContent": "Identify the mediator behind pain and swelling, then the drug class that blocks it.",
-   "hintStrategy": "Eliminate options that treat a cause not present in the stem, such as infection."
+   "hintStrategy": "Eliminate options that treat a cause not present in the stem, such as infection.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-021",
@@ -1077,7 +1089,8 @@ window.NURSE_DATA.push({
    "rationale": "Chronic inflammation smolders for years with milder local signs, ongoing symptoms, and flares. A sudden high fever with shaking chills and one hot, red, swollen joint has a rapid onset and a different pattern, signaling a new acute process, such as infection, on top of the chronic disease. Calling it a typical flare is the tempting error because the client already has an inflammatory joint disease. Acute, systemic findings in a client with chronic inflammation need prompt reporting.",
    "takeaway": "In a client with chronic inflammation, sudden high fever, rigors, or a new hot joint signal a new acute process; report it.",
    "hintContent": "Compare today's onset and pattern with the client's long-standing baseline.",
-   "hintStrategy": "When a chronic client has a sudden change, ask whether it fits the chronic disease or suggests something new and acute."
+   "hintStrategy": "When a chronic client has a sudden change, ask whether it fits the chronic disease or suggests something new and acute.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-031",
@@ -1109,7 +1122,8 @@ window.NURSE_DATA.push({
    "rationale": "Acute inflammation should resolve once the cause is treated, so redness that keeps spreading despite antibiotics is a red flag that the response is not resolving and may be spreading systemically. The chronic conditions described are at baseline or stable. Morning stiffness in RA is tempting because it sounds uncomfortable, but it is unchanged and expected. Acute, worsening, and unstable outranks chronic and stable.",
    "takeaway": "Acute inflammation that worsens despite treatment outranks stable chronic symptoms.",
    "hintContent": "Which client's problem is changing for the worse right now?",
-   "hintStrategy": "Eliminate clients whose findings are described as usual, unchanged, or routine."
+   "hintStrategy": "Eliminate clients whose findings are described as usual, unchanged, or routine.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-032",
@@ -1126,22 +1140,23 @@ window.NURSE_DATA.push({
    ],
    "stem": "A 29-year-old client has had allergic rhinitis with congestion, sneezing, and itchy eyes every spring for 6 years. Symptoms are worse on days with high pollen counts. Which teaching is the nurse's priority to help limit this chronic inflammation?",
    "options": [
-    "Start an antibiotic at the first sign of nasal congestion",
+    "Take the prescribed antihistamine once symptoms begin",
     "Keep windows closed on days when pollen counts are high",
-    "Take ibuprofen every day all year to prevent symptoms",
-    "Rest in bed until the symptoms fully resolve each spring"
+    "Rinse the eyes with cool water whenever they itch",
+    "Use a saline nasal spray to clear congestion each day"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Allergic inflammation is not caused by bacteria, so antibiotics do not help.",
+    "Incorrect. A prescribed antihistamine eases symptoms, but it treats the response after it starts; avoiding pollen removes the trigger itself.",
     "Correct. Avoiding the trigger stops repeated exposures from restarting the inflammatory response.",
-    "Incorrect. Daily NSAIDs do not prevent allergen-triggered inflammation and add risk.",
-    "Incorrect. Bed rest does not remove the trigger and is not needed."
+    "Incorrect. Rinsing the eyes is a reasonable comfort measure, but it does nothing to stop repeated pollen exposure from restarting inflammation.",
+    "Incorrect. Saline spray can ease congestion, but it relieves one symptom and does not limit exposure to the trigger."
    ],
-   "rationale": "Allergies are a classic example of chronic inflammation driven by a persistent irritant: every pollen exposure restarts the response before the tissue can recover. The most effective intervention is to avoid or remove the trigger, which is why prevention equals trigger avoidance. The antibiotic option is tempting because congestion can look like a sinus infection, but allergic inflammation involves no bacteria. Medications prescribed for allergies can help, but trigger avoidance targets the cause.",
+   "rationale": "Allergies are a classic example of chronic inflammation driven by a persistent irritant: every pollen exposure restarts the response before the tissue can recover. The most effective intervention is to avoid or remove the trigger, which is why prevention equals trigger avoidance. The antihistamine option is tempting because it relieves the itching and sneezing, but it treats the response after it starts. Comfort measures such as eye rinses and saline spray help symptoms, but trigger avoidance targets the cause.",
    "takeaway": "For chronic inflammation from a recurring trigger, the most effective intervention is avoiding the trigger.",
    "hintContent": "Ask what keeps restarting the inflammation each season.",
-   "hintStrategy": "Choose the option that targets the cause of the chronic process rather than a symptom."
+   "hintStrategy": "Choose the option that targets the cause of the chronic process rather than a symptom.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-033",
@@ -1214,7 +1229,8 @@ window.NURSE_DATA.push({
    "rationale": "COPD is chronic inflammation from years of smoke exposure that slowly damages the airways and air sacs, so a daily cough, a barrel chest, and slowly progressive dyspnea are expected. The nurse's job is to separate this baseline from a new, acute change. Today's confusion, RR of 32, and SpO₂ of 84% are new and threaten oxygenation. The productive cough is tempting because it sounds like infection, but it is unchanged from baseline.",
    "takeaway": "In chronic inflammation, compare with baseline: new or acute changes, especially in the ABCs, are what need immediate action.",
    "hintContent": "Compare the two columns and find what is new.",
-   "hintStrategy": "Findings that are unchanged from baseline in a chronic disease are rarely the priority."
+   "hintStrategy": "Findings that are unchanged from baseline in a chronic disease are rarely the priority.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-034",
@@ -1231,22 +1247,23 @@ window.NURSE_DATA.push({
    ],
    "stem": "A 47-year-old client with rheumatoid arthritis for 9 years reports months of poor appetite, fatigue despite sleeping 8 hours, and an unplanned 6-kg (13-lb) weight loss over 4 months. Vital signs are stable. Which action should the nurse take first?",
    "options": [
-    "Advise the client to add fast-food meals to increase calories",
-    "Reassure the client that weight loss is expected and needs no action",
+    "Encourage small, frequent meals that are high in calories",
+    "Teach the client to weigh daily and report further losses",
     "Complete a nutrition assessment and request a dietitian referral",
-    "Encourage the client to rest in bed for most of the day"
+    "Encourage short rest periods spaced throughout the day"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. A Western diet high in fast food and sugar promotes inflammation.",
-    "Incorrect. Although common, unintentional weight loss is harmful and needs intervention.",
+    "Incorrect. Small, high-calorie meals may help, but the nurse should assess nutrition first so the plan fits the client's actual intake and needs.",
+    "Incorrect. Monitoring weight is useful, but it only tracks the problem; the 6-kg loss already needs assessment and a dietitian.",
     "Correct. Chronic inflammation causes appetite loss and weight loss; nutrition must be assessed and supported to prevent further decline.",
-    "Incorrect. Prolonged bed rest worsens weakness and does not address nutrition."
+    "Incorrect. Pacing activity with rest helps chronic fatigue, but it does not address the appetite loss and unplanned weight loss."
    ],
-   "rationale": "Long-standing chronic inflammation keeps mediators circulating for months to years, producing whole-body effects such as fatigue, appetite loss, and unintentional weight loss. These affect healing, activity, and quality of life, so the nurse assesses nutrition and involves the dietitian, a key member of the chronic-care team. Reassurance is tempting because these effects are common in RA, but common does not mean harmless. Fast food is the wrong way to add calories because a Western diet promotes inflammation.",
+   "rationale": "Long-standing chronic inflammation keeps mediators circulating for months to years, producing whole-body effects such as fatigue, appetite loss, and unintentional weight loss. These affect healing, activity, and quality of life, so the nurse assesses nutrition and involves the dietitian, a key member of the chronic-care team. Encouraging high-calorie meals is tempting because it targets the weight loss directly, but intervening before assessing risks a plan that misses the real cause. Daily weights and rest periods are useful but address only part of the problem.",
    "takeaway": "Fatigue, poor appetite, and weight loss from chronic inflammation need active nutritional assessment and support.",
    "hintContent": "Which whole-body effects does long-standing inflammation produce, and who on the team addresses them?",
-   "hintStrategy": "Assess before you act, and choose the option that addresses the actual problem rather than dismissing it."
+   "hintStrategy": "Assess before you act, and choose the option that addresses the actual problem rather than dismissing it.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-035",
@@ -1319,7 +1336,8 @@ window.NURSE_DATA.push({
    "rationale": "SLE is an autoimmune disease that can cause chronic inflammation in many organs, including the skin, joints, and kidneys, and the ongoing inflammation can damage tissue over time. Fatigue, joint aching, the faint rash, and a mildly elevated ESR are unchanged from baseline. The creatinine has more than doubled, a new sign that the kidneys are being injured. The ESR is the tempting choice because it is abnormal, but it is a stable, nonspecific finding, while the creatinine shows new organ damage.",
    "takeaway": "In chronic inflammatory disease, a new sign of organ damage outranks abnormal-but-stable baseline findings.",
    "hintContent": "Which organ can SLE inflame, and which result changed the most?",
-   "hintStrategy": "Abnormal does not equal priority; look for the value that has changed significantly from baseline."
+   "hintStrategy": "Abnormal does not equal priority; look for the value that has changed significantly from baseline.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-036",
@@ -1337,21 +1355,22 @@ window.NURSE_DATA.push({
    "stem": "A 17-year-old basketball player is seen in the school clinic 30 minutes after twisting an ankle. The ankle is swollen, warm, and tender. Pedal pulses are strong, the toes are pink and warm, and sensation is intact. Which action should the nurse take first?",
    "options": [
     "Apply a warm, moist pack to the ankle",
-    "Have the student walk on the ankle to prevent stiffness",
-    "Begin active range-of-motion exercises of the ankle",
+    "Have the student rest with the ankle up on a pillow",
+    "Teach gentle ankle stretches to prevent stiffness",
     "Apply ice wrapped in a cloth and elevate the ankle"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Heat early in an acute injury increases blood flow and swelling.",
-    "Incorrect. Walking on a fresh sprain can worsen the injury.",
-    "Incorrect. Exercising an acutely inflamed joint increases pain and swelling.",
+    "Incorrect. Warmth helps stiffness later in healing, but heat early in an acute injury increases blood flow and swelling.",
+    "Incorrect. Rest and elevation are part of sprain care, but without ice this is incomplete and does less to limit early swelling.",
+    "Incorrect. Stretching helps prevent stiffness during later rehabilitation, but moving a freshly inflamed joint now increases pain and swelling.",
     "Correct. Rest, ice, and elevation limit the swelling of acute inflammation and support healing."
    ],
    "rationale": "An ankle sprain is acute inflammation: rapid onset, classic signs, and an expected resolution once the injury heals. Circulation is intact, so the nurse moves to measures that limit swelling and support healing, such as rest, ice, and elevation. Heat is the tempting distractor because warmth soothes chronic stiffness, but in a fresh injury it increases vasodilation and swelling. Exercise is part of later rehabilitation, not the first step.",
    "takeaway": "For acute inflammation such as a fresh sprain, the goal is to limit swelling and support healing with rest, ice, and elevation.",
    "hintContent": "Is this injury acute or chronic, and what is the nursing goal for that type?",
-   "hintStrategy": "Once the stem rules out circulatory compromise, choose the intervention that matches the stage of inflammation."
+   "hintStrategy": "Once the stem rules out circulatory compromise, choose the intervention that matches the stage of inflammation.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-037",
@@ -1366,22 +1385,23 @@ window.NURSE_DATA.push({
    "alsoTests": [],
    "stem": "A 44-year-old client whose mother has rheumatoid arthritis asks what she can do to lower her own risk of a chronic inflammatory disease. She smokes a pack of cigarettes per day, walks most days, and eats mostly home-cooked meals. Which teaching is the priority?",
    "options": [
-    "Arrange genetic testing to look for inflammation-linked loci",
+    "Arrange genetic testing for RA risk",
     "Support her in quitting smoking",
-    "Stop walking to protect her joints from wear",
-    "Take daily ibuprofen to prevent inflammation from starting"
+    "Encourage her to keep walking daily",
+    "Add more fish and vegetables to meals"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Genetics is a nonmodifiable risk; testing does not lower her risk.",
+    "Incorrect. Testing may answer her questions about inheritance, but genetics is a nonmodifiable risk; results do not lower her risk.",
     "Correct. Smoking is a modifiable risk factor and a persistent irritant that drives chronic inflammation.",
-    "Incorrect. Regular exercise lowers inflammation; stopping it would increase her risk.",
-    "Incorrect. Daily NSAIDs do not prevent chronic inflammatory disease and carry risks."
+    "Incorrect. Regular walking lowers inflammation and should continue, but she already does it, so it adds less benefit than quitting smoking.",
+    "Incorrect. An anti-inflammatory diet helps, but she already eats mostly home-cooked meals; daily smoking is the larger risk she can change."
    ],
    "rationale": "Family history, genetics, and age are nonmodifiable risk factors, so the nurse focuses on what the client can change: not smoking, a healthy weight, regular exercise, and a diet rich in fruits, vegetables, fish, and whole grains. This client already walks and eats home-cooked meals, but she smokes daily, so smoking cessation offers the greatest benefit. Genetic testing is tempting because her mother's RA raises the question of inheritance, but knowing her loci does not lower her risk. The priority is the risk she can modify.",
    "takeaway": "When family history raises risk, teach the client to change the modifiable risk factors, starting with the biggest one present.",
    "hintContent": "Separate the risk factors she can change from those she cannot.",
-   "hintStrategy": "Look in the stem for the one unhealthy behavior the client actually has; the priority teaching targets it."
+   "hintStrategy": "Look in the stem for the one unhealthy behavior the client actually has; the priority teaching targets it.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-038",
@@ -1413,7 +1433,8 @@ window.NURSE_DATA.push({
    "rationale": "Acute inflammation has a rapid onset, classic and systemic signs, and a neutrophil-driven response with increased bands. Acute cholecystitis is an example that may require hospitalization and surgery, and here the fever, tachycardia, and left shift show the response is becoming systemic. The COPD is tempting because it is a serious disease, but it is at baseline and stable. Acute and unstable takes priority over chronic and stable.",
    "takeaway": "When acute inflammation appears on top of a stable chronic disease, the acute process is the priority.",
    "hintContent": "Which process started hours ago, and which has been present for years?",
-   "hintStrategy": "Prioritize the problem that is new, systemic, and potentially unstable."
+   "hintStrategy": "Prioritize the problem that is new, systemic, and potentially unstable.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-039",
@@ -1430,22 +1451,23 @@ window.NURSE_DATA.push({
    ],
    "stem": "The nurse is planning care for a 19-year-old client admitted with acute appendicitis who is scheduled for an appendectomy. Which nursing goal is the priority?",
    "options": [
-    "Create a long-term self-management plan to prevent flares",
-    "Identify food triggers the client should avoid for life",
-    "Restore joint strength and mobility with physical therapy",
+    "Relieve the abdominal pain so the client can rest",
+    "Teach deep breathing and coughing for after surgery",
+    "Create a long-term plan to prevent future flares",
     "Remove the cause and monitor for spreading inflammation"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Long-term self-management is the goal for chronic inflammation, not acute appendicitis.",
-    "Incorrect. Trigger avoidance targets chronic inflammation, not an inflamed appendix.",
-    "Incorrect. Restoring mobility is a chronic-care goal for disorders such as RA.",
+    "Incorrect. Pain relief is an important comfort goal, but it does not address the safety risk of rupture and spreading inflammation.",
+    "Incorrect. Postoperative breathing teaching is appropriate, but it is a later goal and lower priority than treating the inflamed appendix.",
+    "Incorrect. Long-term flare prevention is a goal for chronic inflammation, not for acute appendicitis that resolves once removed.",
     "Correct. The goal for acute inflammation is to treat or remove the cause and watch for spread or systemic signs."
    ],
-   "rationale": "Acute and chronic inflammation call for different nursing goals. For acute inflammation, the goal is to remove or treat the cause and support healing, so the appendicitis is treated surgically while the nurse monitors for spread, rupture, and systemic signs. Chronic inflammation calls for long-term control and self-management, including trigger avoidance, medications, diet, activity, and flare recognition. The trigger-avoidance option is tempting because it sounds preventive, but appendicitis is an acute process that resolves once the cause is removed.",
+   "rationale": "Acute and chronic inflammation call for different nursing goals. For acute inflammation, the goal is to remove or treat the cause and support healing, so the appendicitis is treated surgically while the nurse monitors for spread, rupture, and systemic signs. Chronic inflammation calls for long-term control and self-management, including trigger avoidance, medications, diet, activity, and flare recognition. Pain relief and postoperative teaching are tempting because they are real needs, but they rank below removing the cause and watching for rupture.",
    "takeaway": "Acute inflammation: remove the cause and monitor for spread. Chronic inflammation: long-term control and self-management.",
    "hintContent": "Decide whether appendicitis is acute or chronic, then recall the goal for that type.",
-   "hintStrategy": "Match the goal to the type of inflammation; eliminate options that belong to the other type."
+   "hintStrategy": "Match the goal to the type of inflammation; eliminate options that belong to the other type.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-040",
@@ -1522,22 +1544,23 @@ window.NURSE_DATA.push({
    "alsoTests": [],
    "stem": "A synovial tissue biopsy from a 55-year-old client with long-standing joint swelling shows large numbers of lymphocytes and macrophages, along with fibrous scar tissue. How should the nurse interpret these findings?",
    "options": [
-    "Acute bacterial inflammation that will resolve with antibiotics",
-    "An immediate allergic reaction to a recent exposure",
-    "Normal healing tissue after a recent minor sprain",
+    "Acute inflammation that should resolve once the cause is removed",
+    "Normal tissue repair, since scar tissue is replacing damaged tissue",
+    "Chronic infection that needs a long course of antibiotics",
     "Chronic inflammation causing ongoing tissue damage"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Acute bacterial inflammation is neutrophil-driven and would not show long-standing scarring.",
-    "Incorrect. Allergic reactions involve mast-cell mediators, not long-term scarring with lymphocytes.",
-    "Incorrect. Normal healing after a sprain would not show this pattern in a long-standing problem.",
-    "Correct. Lymphocytes and macrophages dominate chronic inflammation, and fibrous scarring reflects repeated tissue injury."
+    "Incorrect. Inflammation is present, but acute inflammation is led by neutrophils and resolves; lymphocytes, macrophages, and scarring point to a long-standing process.",
+    "Incorrect. Scar tissue is part of repair, but the ongoing lymphocyte and macrophage infiltrate shows the injury is continuing, not finished.",
+    "Incorrect. The process is chronic, but these cells and scarring describe chronic inflammation, such as in RA, which is not caused by infection or cured by antibiotics.",
+    "Correct. Lymphocytes and macrophages dominate chronic inflammation, and fibrous scarring reflects repeated tissue injury that is still occurring."
    ],
-   "rationale": "In acute inflammation, fast, short-lived neutrophils lead the response, and the tissue heals. In chronic inflammation, lymphocytes and macrophages dominate and keep releasing mediators instead of finishing the job, so the tissue is damaged and repaired with fibrous scar, gradually losing normal structure. The acute bacterial option is tempting because swelling sounds like infection, but the cell type and scarring point to a chronic process. This pattern explains joint deformity in long-standing RA.",
+   "rationale": "In acute inflammation, fast, short-lived neutrophils lead the response, and the tissue heals. In chronic inflammation, lymphocytes and macrophages dominate and keep releasing mediators instead of finishing the job, so the tissue is damaged and repaired with fibrous scar, gradually losing normal structure. The normal-repair option is tempting because scar tissue is part of healing, but the persistent lymphocytes and macrophages show the injury is ongoing. This pattern explains joint deformity in long-standing RA.",
    "takeaway": "Neutrophils mean acute inflammation; lymphocytes, macrophages, and scarring mean chronic inflammation.",
    "hintContent": "Which white cells lead each type of inflammation?",
-   "hintStrategy": "Use the cell type in the data as the deciding cue between acute and chronic."
+   "hintStrategy": "Use the cell type in the data as the deciding cue between acute and chronic.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-043",
@@ -1552,22 +1575,23 @@ window.NURSE_DATA.push({
    "alsoTests": [],
    "stem": "A 31-year-old client newly diagnosed with systemic lupus erythematosus says, “I never had an injury or an infection, so how can I have chronic inflammation?” Which response by the nurse is most accurate?",
    "options": [
-    "“You must have had an infection that you didn't notice, which then became chronic.”",
-    "“Chronic inflammation always begins as an acute injury that never fully healed.”",
+    "“Chronic inflammation can follow an acute injury or infection that never healed.”",
+    "“Lupus is lifelong, but treatment can help keep your symptoms under control.”",
     "“Chronic inflammation often starts on its own, as when the immune system attacks tissue.”",
-    "“Your inflammation is probably acute and should be completely gone in a few weeks.”"
+    "“It's normal to feel confused by a new diagnosis. Tell me more about your worry.”"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Chronic inflammation does not require a prior acute episode or infection.",
-    "Incorrect. This is a common misconception; chronic inflammation often develops independently.",
-    "Correct. Chronic inflammation may follow acute inflammation but often develops independently, as in autoimmune disease.",
-    "Incorrect. SLE is a chronic autoimmune disease lasting months to years."
+    "Incorrect. This is true, but it describes only one route and does not explain how the client developed chronic inflammation without an injury.",
+    "Incorrect. This is accurate and hopeful, but it does not answer the client's question about how the inflammation began.",
+    "Correct. Chronic inflammation may follow acute inflammation but often develops independently, as when the immune system attacks the body's own tissue in lupus.",
+    "Incorrect. Acknowledging feelings is therapeutic, but the client asked a direct question, and the best response gives accurate information."
    ],
-   "rationale": "Chronic inflammation may follow an acute episode, but it often develops independently. In autoimmune disease such as SLE, the immune system targets the body's own tissue, so the response can never finish its job and continues for years. The hidden-infection option is tempting because students often assume chronic inflammation must start as an acute one. Correcting this helps the client understand why long-term self-management is needed.",
+   "rationale": "Chronic inflammation may follow an acute episode, but it often develops independently. In autoimmune disease such as SLE, the immune system targets the body's own tissue, so the response can never finish its job and continues for years. The 'follows an acute injury' option is tempting because it is true, but it does not explain this client's case. Correcting this helps the client understand why long-term self-management is needed.",
    "takeaway": "Chronic inflammation does not need a prior acute episode; it often develops independently, as in autoimmune disease.",
    "hintContent": "Watch the wording 'often develops independently.'",
-   "hintStrategy": "Be wary of options that use 'always' or assume a hidden cause the stem does not support."
+   "hintStrategy": "Be wary of options that use 'always' or assume a hidden cause the stem does not support.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-044",
@@ -1613,21 +1637,22 @@ window.NURSE_DATA.push({
    "stem": "A 38-year-old client with psoriasis says, “My brother has Crohn's disease. If inflammation runs in our family, why don't we have the same disease?” Which response by the nurse is most accurate?",
    "options": [
     "“Each disease has its own genetic profile, though many share a common immune pathway.”",
-    "“Inflammatory diseases have no genetic link at all, so it is just a coincidence.”",
-    "“You actually have the same disease; it is just showing up in your skin.”",
-    "“A single shared gene causes both, so you'll develop Crohn's disease next.”"
+    "“Genes are only part of it; smoking and diet also affect your risk of disease.”",
+    "“They share one immune pathway, so they are really the same disease in two places.”",
+    "“You and your brother share many genes, so your two diseases are closely related.”"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Each disease has a unique genetic profile, while many share the IL-23/IL-17 cytokine pathway.",
-    "Incorrect. About 450 genetic loci have been linked to inflammation, and family history is a risk factor.",
-    "Incorrect. Psoriasis and Crohn's disease are different diseases with different genetic patterns.",
-    "Incorrect. No single gene causes both, and having psoriasis does not mean the client will develop Crohn's disease."
+    "Correct. Each disease has a unique genetic profile, while many share the IL-23/IL-17 cytokine pathway, which explains both the family link and the different diseases.",
+    "Incorrect. Modifiable factors do matter, but this does not explain why siblings with a family tendency developed different diseases.",
+    "Incorrect. Many of these diseases do share the IL-23/IL-17 pathway, but each has its own genetic profile and is a distinct disease.",
+    "Incorrect. Shared genes help explain the family clustering, but this does not explain why each sibling developed a different disease."
    ],
-   "rationale": "About 450 genetic loci have been linked to inflammation, and each inflammatory disease has its own unique genetic profile, so the pattern in psoriasis differs from that in Crohn's disease. Many of these diseases still share a common pathway, IL-23/IL-17 cytokine regulation, which helps explain why they cluster in families. The no-genetic-link option is tempting because the siblings have different diseases, but family history and genetics are nonmodifiable risk factors. The nurse can also encourage the risk factors the client can change.",
+   "rationale": "About 450 genetic loci have been linked to inflammation, and each inflammatory disease has its own unique genetic profile, so the pattern in psoriasis differs from that in Crohn's disease. Many of these diseases still share a common pathway, IL-23/IL-17 cytokine regulation, which helps explain why they cluster in families. The shared-pathway option is tempting because the pathway is real, but sharing a pathway does not make them the same disease. The nurse can also encourage the risk factors the client can change.",
    "takeaway": "Inflammatory diseases have distinct genetic profiles but often share the IL-23/IL-17 pathway; family history is a nonmodifiable risk.",
    "hintContent": "Recall what is unique and what is shared in the genetics of inflammatory disease.",
-   "hintStrategy": "Reject absolute answers (no link at all, or one gene causes all) when the science is more nuanced."
+   "hintStrategy": "Reject absolute answers (no link at all, or one gene causes all) when the science is more nuanced.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-046",
@@ -1659,7 +1684,8 @@ window.NURSE_DATA.push({
    "rationale": "Care for acute inflammation such as cellulitis includes treating the cause, elevating the limb, and monitoring for spread or systemic signs. The UAP can perform routine care for a stable client, such as positioning the leg as directed. Checking the marked border is tempting because it seems like simple observation, but judging whether inflammation is spreading is assessment. Teaching and evaluation also remain with the RN.",
    "takeaway": "UAP can position and assist; assessing spread, teaching, and evaluating response stay with the RN.",
    "hintContent": "Which tasks require judgment about whether the inflammation is getting better or worse?",
-   "hintStrategy": "For delegation, eliminate any option containing assess, teach, or evaluate."
+   "hintStrategy": "For delegation, eliminate any option containing assess, teach, or evaluate.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-047",
@@ -1675,21 +1701,22 @@ window.NURSE_DATA.push({
    "stem": "A 69-year-old client has had COPD for 15 years. Which finding should the nurse expect as a reflection of the chronic inflammatory process?",
    "options": [
     "Shortness of breath that has slowly worsened over years",
-    "A sudden fever of 40 °C with shaking chills that began today",
+    "A fever with yellow sputum that began two days ago",
     "A CBC showing a sharp rise in neutrophils with 15% bands",
-    "Symptoms that resolve completely within 3 days of rest"
+    "Chest tightness that eased fully after one inhaler dose"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Chronic inflammation causes slow, progressive tissue damage that steadily limits airflow.",
-    "Incorrect. A sudden high fever with rigors suggests a new acute process.",
-    "Incorrect. A left shift reflects an acute neutrophil response, not the chronic process.",
-    "Incorrect. Complete resolution in days fits acute, not chronic, inflammation."
+    "Correct. Chronic inflammation causes slow, progressive tissue damage that steadily limits airflow over years.",
+    "Incorrect. Clients with COPD do have flares, but a new fever with purulent sputum signals an acute infection, not the chronic process.",
+    "Incorrect. This is an inflammatory finding, but a neutrophil and band rise (left shift) reflects an acute process.",
+    "Incorrect. Airway tightness occurs in COPD, but symptoms that fully reverse quickly suggest acute bronchospasm, not progressive chronic damage."
    ],
-   "rationale": "Chronic inflammation lasts months to years and is driven by lymphocytes and macrophages that keep injuring tissue, so organ function declines gradually. In COPD, years of airway inflammation from smoke slowly narrow the airways and damage the air sacs, causing dyspnea that progresses over years. The left-shift option is tempting because it is an inflammatory lab finding, but a neutrophil and band response signals an acute process. Sudden fever and rapid resolution also fit acute inflammation.",
+   "rationale": "Chronic inflammation lasts months to years and is driven by lymphocytes and macrophages that keep injuring tissue, so organ function declines gradually. In COPD, years of airway inflammation from smoke slowly narrow the airways and damage the air sacs, causing dyspnea that progresses over years. The left-shift option is tempting because it is an inflammatory lab finding, but a neutrophil and band response signals an acute process. A new fever with sputum and fully reversible tightness also fit acute problems.",
    "takeaway": "Chronic inflammation produces gradual, progressive damage; sudden fever, bands, or quick resolution point to an acute process.",
    "hintContent": "Think about the time course of chronic inflammation.",
-   "hintStrategy": "Sort each option into acute or chronic by its onset, duration, and cell type."
+   "hintStrategy": "Sort each option into acute or chronic by its onset, duration, and cell type.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-048",
@@ -1706,22 +1733,23 @@ window.NURSE_DATA.push({
    ],
    "stem": "A 64-year-old client with rheumatoid arthritis for 20 years reports that joint stiffness and weakness now make it hard to climb stairs and to walk to the mailbox. Which referral is most appropriate?",
    "options": [
-    "Wound care nurse",
-    "Respiratory therapist",
-    "Dietitian",
+    "Registered dietitian",
+    "Home health aide",
+    "Medical social worker",
     "Physical therapist"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. The client has no wound; a wound care nurse would not address mobility.",
-    "Incorrect. The client's problem is joint mobility, not breathing.",
-    "Incorrect. A dietitian supports nutrition, but the client's stated problem is strength and mobility.",
-    "Correct. Physical therapy restores strength and mobility, a key goal in chronic inflammation care."
+    "Incorrect. The dietitian is part of the chronic-inflammation team, but the client's stated problem is mobility, not nutrition.",
+    "Incorrect. An aide can help with daily tasks, but cannot evaluate or rebuild the strength and joint mobility the client has lost.",
+    "Incorrect. A social worker can arrange resources and support, but does not treat the stiffness and weakness limiting mobility.",
+    "Correct. Physical therapy restores strength and mobility, which directly addresses the client's trouble with stairs and walking."
    ],
    "rationale": "Chronic inflammation slowly damages tissue, and in RA the result can be joint deformity, stiffness, and weakness that limit daily activities. The collaborative team for chronic inflammation often includes a dietitian and a physical therapist; the PT restores strength and mobility. The dietitian is tempting because the dietitian is also part of the chronic-care team, but the client's problem is mobility rather than nutrition. Matching the referral to the stated problem is the key.",
    "takeaway": "In chronic inflammation, refer to physical therapy when the problem is strength and mobility, and to a dietitian when it is nutrition.",
    "hintContent": "Which team member restores strength and mobility?",
-   "hintStrategy": "Match the referral to the specific problem described in the stem."
+   "hintStrategy": "Match the referral to the specific problem described in the stem.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-049",
@@ -1738,22 +1766,23 @@ window.NURSE_DATA.push({
    ],
    "stem": "The nurse teaches a 50-year-old client with Crohn's disease about an anti-inflammatory eating pattern. Which lunch choice by the client indicates that the teaching was understood?",
    "options": [
-    "A fast-food cheeseburger with fries and a soda",
+    "A turkey sandwich on white bread with baked chips",
     "Grilled salmon with brown rice and roasted vegetables",
-    "A large frosted pastry with a sweetened coffee drink",
-    "White bread with processed deli meat and chips"
+    "A fruit smoothie made with juice and added honey",
+    "A veggie pizza on a white crust with a diet soda"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Fast food and sugary drinks are part of the Western diet, which promotes inflammation.",
+    "Incorrect. Lean turkey and baked chips seem healthy, but processed deli meat and refined white bread do not fit an anti-inflammatory pattern.",
     "Correct. Fish, whole grains, and vegetables are the foundation of an anti-inflammatory diet.",
-    "Incorrect. High sugar and low fiber promote inflammation.",
-    "Incorrect. Refined grains and processed foods are low in fiber and promote inflammation."
+    "Incorrect. Fruit fits the pattern, but juice and added honey make this high in sugar, which promotes inflammation.",
+    "Incorrect. The vegetables fit, but the refined white crust and processed soda reflect the Western pattern that promotes inflammation."
    ],
-   "rationale": "Long-term self-management of chronic inflammation includes an anti-inflammatory diet rich in fruits, vegetables, fish, and whole grains. The Western diet, with fast food, sugar, and little fiber, promotes inflammation. The deli sandwich is the tempting distractor because it seems like ordinary food, but refined grains and processed meat do not fit the pattern. Choosing salmon, whole grains, and vegetables shows understanding. Clients with Crohn's disease may also have individual food triggers to avoid, which the dietitian helps identify.",
+   "rationale": "Long-term self-management of chronic inflammation includes an anti-inflammatory diet rich in fruits, vegetables, fish, and whole grains. The Western diet, with fast food, sugar, refined grains, and little fiber, promotes inflammation. The turkey sandwich is the tempting distractor because it seems like a healthy choice, but refined grains and processed meat do not fit the pattern. Choosing salmon, whole grains, and vegetables shows understanding. Clients with Crohn's disease may also have individual food triggers to avoid, which the dietitian helps identify.",
    "takeaway": "An anti-inflammatory diet emphasizes fruits, vegetables, fish, and whole grains and limits fast food and sugar.",
    "hintContent": "Picture the foods that lower inflammation versus those in a typical Western diet.",
-   "hintStrategy": "Evaluate each meal against the teaching; only one option fits every element."
+   "hintStrategy": "Evaluate each meal against the teaching; only one option fits every element.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-050",
@@ -2107,20 +2136,21 @@ window.NURSE_DATA.push({
    "options": [
     "Give IV diphenhydramine and reassess in 30 minutes",
     "Give a repeat dose of epinephrine IM as prescribed",
-    "Wait another 30 minutes for the first dose to reach full effect",
-    "Switch to oral prednisone because epinephrine has failed"
+    "Give an albuterol nebulizer to relieve the wheezing",
+    "Notify the provider before giving more epinephrine"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Antihistamines do not open the airway or raise BP and must not replace epinephrine.",
-    "Correct. Symptoms are continuing 10 minutes after the first dose, so a repeat dose is indicated within the 5–15 minute window.",
-    "Incorrect. Delaying epinephrine is the main cause of death in anaphylaxis.",
-    "Incorrect. Corticosteroids are slow adjuncts; persistent symptoms call for more epinephrine."
+    "Incorrect. Antihistamines are useful adjuncts, but they do not reverse airway swelling or hypotension, and waiting 30 minutes delays the drug that does.",
+    "Correct. Symptoms continue 10 minutes after the first dose, so a repeat dose is indicated within the 5–15 minute window.",
+    "Incorrect. Albuterol can ease bronchospasm, but it does not treat throat swelling or hypotension, so epinephrine comes first.",
+    "Incorrect. The provider should be updated, but the protocol already allows a repeat dose, and waiting for a call delays treatment."
    ],
-   "rationale": "After epinephrine, the response is judged mainly by blood pressure and breathing. Persistent wheezing, throat tightness, hypotension, and low SpO₂ 10 minutes after the first dose mean the reaction is not controlled, so a repeat dose is given within the 5–15 minute window. Waiting is tempting because the first dose may seem to need more time, but deaths occur most often when epinephrine is given too late. Antihistamines and steroids remain second-line adjuncts.",
+   "rationale": "After epinephrine, the response is judged mainly by blood pressure and breathing. Persistent wheezing, throat tightness, hypotension, and low SpO₂ 10 minutes after the first dose mean the reaction is not controlled, so a repeat dose is given within the 5–15 minute window. Calling the provider first is tempting because the first dose did not work, but deaths occur most often when epinephrine is given too late. Antihistamines, bronchodilators, and steroids remain second-line adjuncts.",
    "takeaway": "If anaphylaxis symptoms continue 5–15 minutes after epinephrine, repeat the epinephrine; do not wait or substitute.",
    "hintContent": "Check how long it has been since the first dose and what the protocol allows.",
-   "hintStrategy": "Evaluate the response by BP and breathing; if they have not improved, repeat the first-line action."
+   "hintStrategy": "Evaluate the response by BP and breathing; if they have not improved, repeat the first-line action.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-060",
@@ -2137,20 +2167,21 @@ window.NURSE_DATA.push({
    "options": [
     "“You can go home now because the epinephrine has fully reversed the reaction.”",
     "“You can go home if you take an antihistamine every 4 hours through the night.”",
-    "“You must stay overnight, and hospital rules say you are not allowed to leave.”",
+    "“Before you leave, let me show you how to use an epinephrine auto-injector.”",
     "“Symptoms can return hours later even without more nuts, so you need to stay longer.”"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Resolution of symptoms does not rule out a second-wave reaction.",
-    "Incorrect. An antihistamine does not prevent or treat a biphasic anaphylactic reaction.",
-    "Incorrect. The client has the right to make decisions; the nurse should explain the risk rather than coerce.",
-    "Correct. A biphasic reaction can occur hours later without re-exposure, so observation is needed after treatment."
+    "Incorrect. The client is symptom-free now, but epinephrine wears off, and a second-wave reaction can occur hours later.",
+    "Incorrect. Antihistamines are often prescribed afterward, but they do not prevent a biphasic reaction and do not replace observation.",
+    "Incorrect. Auto-injector teaching is essential before discharge, but 2 hours is too early to discharge after anaphylaxis.",
+    "Correct. A biphasic reaction can occur hours later without re-exposure, so a longer observation period is needed."
    ],
    "rationale": "After anaphylaxis, symptoms can return hours later in a second-wave (biphasic) reaction, even without a new exposure, so clients are usually observed for at least 4–6 hours, longer after a severe reaction. Two hours is not long enough. Discharging with an antihistamine is tempting because it sounds protective, but antihistamines do not stop a biphasic reaction. The nurse explains the risk so the client can make an informed decision, respecting autonomy.",
    "takeaway": "After anaphylaxis, observe for several hours because a biphasic reaction can occur without re-exposure.",
    "hintContent": "Think about what can happen after the first wave of anaphylaxis resolves.",
-   "hintStrategy": "Choose the response that gives accurate information about the risk while respecting the client's autonomy."
+   "hintStrategy": "Choose the response that gives accurate information about the risk while respecting the client's autonomy.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-061",
@@ -2168,19 +2199,20 @@ window.NURSE_DATA.push({
     "Help the client sit upright",
     "Keep the client flat with the legs elevated",
     "Place the client in a side-lying position",
-    "Help the client stand and walk slowly"
+    "Place the client in a low semi-Fowler's position"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. When breathing is the main problem and BP is stable, sitting up eases the work of breathing.",
-    "Incorrect. Flat with the legs raised is for hypotension, which this client does not have.",
-    "Incorrect. Side-lying does not improve breathing as well as sitting upright.",
-    "Incorrect. Standing or walking during anaphylaxis can cause sudden collapse."
+    "Correct. When breathing is the main problem and BP is stable, sitting fully upright best eases the work of breathing.",
+    "Incorrect. This is the position for hypotension in anaphylaxis, but the BP is stable here, and lying flat worsens the breathing problem.",
+    "Incorrect. Side-lying protects the airway if the client vomits or is drowsy, but it does not ease this alert client's breathing.",
+    "Incorrect. Raising the head helps somewhat, but a low angle gives less lung expansion than sitting fully upright."
    ],
-   "rationale": "Positioning in anaphylaxis depends on which problem dominates. If the BP is low, the client lies flat with the legs raised to support circulation. If breathing is the main problem and the BP is stable, the client sits up to ease breathing. Keeping the client flat with the legs up is the tempting answer because it is the best-known anaphylaxis position, but here it would worsen the breathing problem. The client should never stand or walk suddenly.",
+   "rationale": "Positioning in anaphylaxis depends on which problem dominates. If the BP is low, the client lies flat with the legs raised to support circulation. If breathing is the main problem and the BP is stable, the client sits up to ease breathing. Keeping the client flat with the legs up is the tempting answer because it is the best-known anaphylaxis position, but here it would worsen the breathing problem. A partly raised head is better than flat but less effective than sitting upright.",
    "takeaway": "In anaphylaxis: low BP, lie flat with legs raised; breathing problem with stable BP, sit up; never stand or walk.",
    "hintContent": "Is this client's main problem circulation or breathing?",
-   "hintStrategy": "Let the data in the stem (BP stable, dyspnea lying flat) choose the position rather than a memorized default."
+   "hintStrategy": "Let the data in the stem (BP stable, dyspnea lying flat) choose the position rather than a memorized default.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-062",
@@ -2195,22 +2227,23 @@ window.NURSE_DATA.push({
    "alsoTests": [],
    "stem": "A 40-year-old client with a documented latex allergy, whose past reaction included lip swelling and hives, is on a surgical unit. The nurse sees the UAP preparing to give perineal care wearing latex gloves taken from an old supply box. Which action should the nurse take first?",
    "options": [
-    "Allow the care but watch the client closely for hives",
-    "Give the client a dose of diphenhydramine before the care",
+    "Remind the UAP about the client's documented latex allergy",
+    "Check that the client is wearing a latex allergy wristband",
     "Stop the UAP and provide latex-free gloves before care begins",
-    "Complete an incident report after the care is finished"
+    "Report the old latex glove supply to the charge nurse today"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Waiting for symptoms exposes the client to a known trigger.",
-    "Incorrect. Premedicating does not make latex exposure safe and is not a substitute for avoidance.",
-    "Correct. Preventing contact with the trigger is the first step in avoiding a reaction.",
-    "Incorrect. Documentation does not prevent the exposure; the nurse must intervene now."
+    "Incorrect. A reminder is reasonable, but it does not guarantee the gloves are changed; the nurse must stop the care and supply latex-free gloves.",
+    "Incorrect. Allergy identification matters, but the allergy is already documented, and checking does not stop the exposure about to happen.",
+    "Correct. Preventing contact with the trigger is the first step; stopping care and supplying latex-free gloves removes the exposure.",
+    "Incorrect. Removing latex supplies is an important follow-up, but it comes after the immediate exposure is prevented."
    ],
-   "rationale": "Latex is a listed anaphylaxis trigger, and this client's past lip swelling shows the reaction was more than a mild rash. Prevention depends on avoiding the trigger, so latex-free equipment must be used for every contact. Watching for hives is tempting because it seems vigilant, but it allows exposure and waits for harm. The nurse intervenes before care begins, then reinforces the latex-safe environment with the team.",
+   "rationale": "Latex is a listed anaphylaxis trigger, and this client's past lip swelling shows the reaction was more than a mild rash. Prevention depends on avoiding the trigger, so latex-free equipment must be used for every contact. Reminding the UAP is tempting because it addresses the error, but the nurse must ensure the exposure does not happen. The nurse intervenes before care begins, then reports the supply problem and reinforces the latex-safe environment with the team.",
    "takeaway": "For a client with a latex allergy, prevent contact first; use latex-free equipment for every task.",
    "hintContent": "Which action keeps the trigger from reaching the client at all?",
-   "hintStrategy": "Safety items: prevention of harm comes before monitoring or documentation."
+   "hintStrategy": "Safety items: prevention of harm comes before monitoring or documentation.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-063",
@@ -2227,22 +2260,23 @@ window.NURSE_DATA.push({
    ],
    "stem": "A 58-year-old client is 4 hours post-op after a hernia repair. The allergy list states “ibuprofen: throat swelling and hives.” A new prescription reads ketorolac 15 mg IV every 6 hours for pain. Which action is most appropriate?",
    "options": [
-    "Give the ketorolac after premedicating with diphenhydramine",
-    "Give the ketorolac slowly over 30 minutes and monitor closely",
-    "Give the ketorolac because an IV drug differs from an oral one",
+    "Ask the client to describe the past reaction to ibuprofen first",
+    "Give acetaminophen for the pain instead and document the reason",
+    "Ask the pharmacist to verify that the ketorolac dose is correct",
     "Hold the ketorolac and contact the prescriber about the NSAID allergy"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Premedication does not prevent anaphylaxis to a known trigger.",
-    "Incorrect. Slowing the infusion still exposes the client to a drug in the same class as the known trigger.",
-    "Incorrect. The route does not change the client's allergy to the drug class.",
-    "Correct. Ketorolac is an NSAID, and NSAIDs are a listed anaphylaxis trigger for this client."
+    "Incorrect. Clarifying a reaction is good practice, but throat swelling is already documented, so the risk is clear and the drug must be held.",
+    "Incorrect. Acetaminophen may be a safe choice, but substituting a drug without a prescription is outside the nurse's scope.",
+    "Incorrect. Involving the pharmacist is reasonable, but the dose is not the problem; the drug class is, and the prescriber must change the order.",
+    "Correct. Ketorolac is an NSAID like ibuprofen, so the nurse holds it and contacts the prescriber for a safe alternative."
    ],
-   "rationale": "Medications, including penicillin, NSAIDs, and anesthetics, are listed triggers of anaphylaxis. Ketorolac is an NSAID like ibuprofen, so giving it to a client whose ibuprofen reaction included throat swelling risks a life-threatening reaction. Premedicating is tempting because it seems like a safe compromise, but antihistamines cannot prevent anaphylaxis to a known trigger. The nurse holds the drug and clarifies the order with the prescriber.",
+   "rationale": "Medications, including penicillin, NSAIDs, and anesthetics, are listed triggers of anaphylaxis. Ketorolac is an NSAID like ibuprofen, so giving it to a client whose ibuprofen reaction included throat swelling risks a life-threatening reaction. Substituting acetaminophen is tempting because it seems like a safe fix, but changing the drug requires a prescription. The nurse holds the drug and clarifies the order with the prescriber.",
    "takeaway": "Before giving any drug, check the allergy list for the same drug class; hold and clarify if it matches a known trigger.",
    "hintContent": "Identify the drug class of the new prescription.",
-   "hintStrategy": "When an order conflicts with a documented allergy, the safest action is to hold and clarify, not to modify how it is given."
+   "hintStrategy": "When an order conflicts with a documented allergy, the safest action is to hold and clarify, not to modify how it is given.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-064",
@@ -2323,7 +2357,8 @@ window.NURSE_DATA.push({
    "rationale": "The 1330 data show a good response to epinephrine, but at 1630 the BP is falling, the HR and RR are rising, wheezing is new, and the SpO₂ has dropped, with no new exposure. This is a second-wave (biphasic) reaction, which is why clients are observed for hours after anaphylaxis. It is treated like the first wave, with epinephrine IM and a call for help. The antihistamine is tempting because itching is one of the new symptoms, but it cannot reverse airway narrowing or hypotension.",
    "takeaway": "A biphasic anaphylactic reaction is treated like the first: epinephrine IM and call for help.",
    "hintContent": "Compare 1630 with 1330 and decide whether the reaction has returned.",
-   "hintStrategy": "Trend the data across time; a return of airway and circulation signs calls for the first-line action again."
+   "hintStrategy": "Trend the data across time; a return of airway and circulation signs calls for the first-line action again.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-065",
@@ -2353,7 +2388,8 @@ window.NURSE_DATA.push({
    "rationale": "Skin, airway, and circulation are involved minutes after a drug exposure, which is anaphylaxis. In a clinic outside the hospital, the treatment is immediate epinephrine IM plus EMS activation, and delegating the 911 call lets both happen at once. The positioning option is tempting because it includes appropriate care, but it delays the one drug that reverses the reaction. An IM drug cannot be stopped once given, so epinephrine is the first action.",
    "takeaway": "Outside the hospital: give epinephrine and activate EMS at once; antihistamines and monitoring come after.",
    "hintContent": "Which drug reverses airway narrowing and hypotension?",
-   "hintStrategy": "When a standing order exists for an emergency, act on it immediately rather than seeking new orders."
+   "hintStrategy": "When a standing order exists for an emergency, act on it immediately rather than seeking new orders.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-066",
@@ -2383,7 +2419,8 @@ window.NURSE_DATA.push({
    "rationale": "In anaphylaxis, widespread vasodilation and capillary leak reduce the blood volume reaching the organs. A client with a low BP should lie flat with the legs raised and must not stand, walk, or go to the bathroom, because sudden standing can cause collapse. The gait belt is tempting because it seems to make walking safe, but it cannot prevent a hypotensive collapse. A bedpan meets the client's need while maintaining safety.",
    "takeaway": "A hypotensive client with anaphylaxis stays flat; use a bedpan, never a walk to the bathroom.",
    "hintContent": "Consider what standing does to blood pressure in a client with widespread vasodilation.",
-   "hintStrategy": "Meet the client's need in the way that does not compromise circulation."
+   "hintStrategy": "Meet the client's need in the way that does not compromise circulation.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-067",
@@ -2399,21 +2436,22 @@ window.NURSE_DATA.push({
    "stem": "A 29-year-old client with a bee-sting allergy is learning to use an epinephrine auto-injector. The client asks, “Why do I have to inject it into my thigh instead of my arm?” Which response by the nurse is most accurate?",
    "options": [
     "“The thigh has fewer nerves, so the injection hurts less there.”",
-    "“The arm is used only by health care workers in the hospital.”",
+    "“The thigh is easy for you to reach, even when you are alone.”",
     "“The large thigh muscle absorbs the drug faster than the arm or skin.”",
-    "“It is safer to inject the thigh because it is farther from the heart.”"
+    "“The thigh can be injected quickly right through your clothing.”"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Comfort is not the reason; the thigh is chosen for faster absorption.",
-    "Incorrect. The thigh is the preferred site for both clients and clinicians.",
-    "Correct. The mid-anterolateral thigh absorbs IM epinephrine faster than a deltoid or subcutaneous injection.",
-    "Incorrect. Distance from the heart is not the reason; speed of absorption is."
+    "Incorrect. Clients often worry about pain, but comfort is not why the thigh is chosen.",
+    "Incorrect. The thigh is easy to reach, which helps, but the main reason is how quickly the drug is absorbed there.",
+    "Correct. The mid-anterolateral thigh absorbs IM epinephrine faster than a deltoid or subcutaneous injection, and speed saves lives.",
+    "Incorrect. Injecting through clothing is allowed and saves time, but it is not why the thigh is preferred over the arm."
    ],
    "rationale": "Epinephrine is given IM into the mid-anterolateral (middle of the outer) thigh because the large muscle absorbs the drug faster than a subcutaneous or deltoid injection. Speed matters because deaths in anaphylaxis occur most often when epinephrine is given too late. The less-pain option is tempting because clients often worry about injection pain, but it is not the reason. The auto-injector can also be given through clothing, which saves time.",
    "takeaway": "Epinephrine goes IM into the mid-anterolateral thigh for the fastest absorption.",
    "hintContent": "Why does the speed of epinephrine matter so much in anaphylaxis?",
-   "hintStrategy": "Choose the explanation that ties the action to its therapeutic purpose."
+   "hintStrategy": "Choose the explanation that ties the action to its therapeutic purpose.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-068",
@@ -2484,7 +2522,8 @@ window.NURSE_DATA.push({
    "rationale": "After epinephrine, the nurse judges the response mainly by blood pressure and breathing (SpO₂, work of breathing, and any stridor or wheezing). Here the BP rose, the SpO₂ climbed, wheezing decreased, and the voice cleared, showing the treatment is working. The hives are tempting as a measure because they are visible, but skin signs often lag and do not reflect the life-threatening problems. Monitoring continues because a biphasic reaction can occur.",
    "takeaway": "Judge epinephrine's effect by BP and breathing, not by the skin.",
    "hintContent": "Which findings reflect the life-threatening parts of anaphylaxis?",
-   "hintStrategy": "For evaluation items, focus on the outcomes that matter most for survival."
+   "hintStrategy": "For evaluation items, focus on the outcomes that matter most for survival.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-069",
@@ -2533,20 +2572,21 @@ window.NURSE_DATA.push({
    "options": [
     "“Her heart has been weakened by the antibiotic and cannot pump hard enough.”",
     "“Her vessels have widened and leaked fluid, so less blood is circulating.”",
-    "“She is bleeding internally from the medicine thinning her blood.”",
-    "“The allergic reaction caused her to become dehydrated from sweating.”"
+    "“Her vessels have tightened, so blood cannot get through to her organs.”",
+    "“The reaction made her lose fluid through vomiting and diarrhea.”"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. The low BP in anaphylaxis results from vasodilation and leak, not direct heart damage.",
+    "Incorrect. Shock can affect the heart, but the main problem in anaphylaxis is widened, leaky vessels, not a weak heart.",
     "Correct. Widespread vasodilation and capillary leak reduce the effective blood volume reaching the organs.",
-    "Incorrect. Anaphylaxis does not cause internal bleeding.",
-    "Incorrect. Sweating does not explain sudden, severe hypotension in anaphylaxis."
+    "Incorrect. The vessels are the problem, but in anaphylaxis they widen rather than tighten; epinephrine is given to constrict them.",
+    "Incorrect. GI symptoms can occur in anaphylaxis, but fluid shifting out of leaky vessels, not GI loss, causes the sudden drop in BP."
    ],
    "rationale": "In anaphylaxis, mast cells release mediators throughout the body. Widespread vasodilation lowers vascular resistance, and capillary leak moves fluid out of the bloodstream into the tissues, so the blood volume reaching the organs falls and shock develops. The heart-weakness option is tempting because the client is in shock, but the problem is the vessels and fluid shift. This is why epinephrine (which constricts vessels) and isotonic IV fluids are used.",
    "takeaway": "Anaphylactic hypotension comes from widespread vasodilation plus capillary leak, not from blood loss.",
    "hintContent": "Think about what happens to vessels and fluid when mediators are released everywhere.",
-   "hintStrategy": "Choose the explanation that matches the mediator effects you already know from local inflammation."
+   "hintStrategy": "Choose the explanation that matches the mediator effects you already know from local inflammation.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-071",
@@ -2564,19 +2604,20 @@ window.NURSE_DATA.push({
     "“Penicillin gave me an upset stomach when I took it last year.”",
     "“After a bee sting last summer, my throat closed and I passed out.”",
     "“I sneeze and get itchy, watery eyes whenever I'm around cats.”",
-    "“Codeine makes me drowsy and a little constipated every time.”"
+    "“Amoxicillin gave me an itchy, bumpy rash over my whole body.”"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. GI upset alone is a common side effect, not a sign of anaphylaxis.",
+    "Incorrect. Penicillin is a common trigger, but an upset stomach alone is a side effect, not anaphylaxis.",
     "Correct. Airway swelling and loss of consciousness after a sting show airway and circulation involvement.",
-    "Incorrect. These are local allergic symptoms without airway or circulation involvement.",
-    "Incorrect. Drowsiness and constipation are expected side effects of codeine, not allergy."
+    "Incorrect. This is a true allergy, but sneezing and itchy eyes are a mild, localized reaction, not anaphylaxis.",
+    "Incorrect. A widespread rash is a real drug allergy to document, but skin involvement alone does not show airway or circulatory compromise."
    ],
    "rationale": "Anaphylaxis involves sudden symptoms in two or more body systems, or airway trouble or hypotension alone, after a likely trigger. Throat closing and passing out after a sting reflect airway swelling and circulatory collapse, the hallmark of anaphylaxis. The penicillin statement is tempting because penicillin is a well-known trigger, but an upset stomach alone describes a side effect. The nurse documents the allergy and the type of reaction so the severity is clear.",
    "takeaway": "Document the type of reaction: airway or circulation involvement after a trigger indicates anaphylaxis, not a side effect.",
    "hintContent": "Which description involves the airway or circulation?",
-   "hintStrategy": "Separate true allergic reactions from expected side effects by the body systems involved."
+   "hintStrategy": "Separate true allergic reactions from expected side effects by the body systems involved.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-072",
@@ -2776,21 +2817,22 @@ window.NURSE_DATA.push({
    "stem": "During allergy skin-prick testing in an outpatient clinic, a 31-year-old client suddenly develops generalized hives, wheezing, and a hoarse voice. Which action should the nurse take first?",
    "options": [
     "Wipe the allergens off the skin and observe for 15 minutes",
-    "Give an oral antihistamine and continue reading the results",
-    "Document which allergen sites produced the largest wheals",
+    "Give diphenhydramine and monitor the breathing closely",
+    "Call 911 and stay with the client until help arrives",
     "Give epinephrine IM per the clinic protocol"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Removing surface allergen does not reverse a body-wide reaction already under way.",
-    "Incorrect. Antihistamines do not reverse airway swelling, and the test is no longer the priority.",
-    "Incorrect. Documentation can wait; the client's airway is threatened now.",
+    "Incorrect. Removing the allergen is reasonable, but mediators are already released body-wide, and observing delays epinephrine.",
+    "Incorrect. Antihistamines are adjuncts that relieve itching and hives, but they cannot reverse airway swelling.",
+    "Incorrect. Emergency help is needed, but calling and waiting delays the one drug that reverses anaphylaxis; give epinephrine first.",
     "Correct. Skin, airway, and voice changes after deliberate allergen exposure indicate anaphylaxis; epinephrine must be given immediately."
    ],
-   "rationale": "Skin testing deliberately exposes the client to allergens, which is why epinephrine must be immediately available. Generalized hives with wheezing and hoarseness involve the skin and airway, so this is anaphylaxis and requires epinephrine IM right away, with emergency help. Wiping off the allergens is tempting because it seems like removing the trigger, but mediators have already been released body-wide. Recording the results comes only after the client is stable.",
+   "rationale": "Skin testing deliberately exposes the client to allergens, which is why epinephrine must be immediately available. Generalized hives with wheezing and hoarseness involve the skin and airway, so this is anaphylaxis and requires epinephrine IM right away, with emergency help. Wiping off the allergens is tempting because it seems like removing the trigger, but mediators have already been released body-wide. Calling 911 is needed, but it should not delay epinephrine.",
    "takeaway": "Epinephrine must be at hand during allergy skin testing; airway signs during testing mean give it immediately.",
    "hintContent": "Why must epinephrine be available whenever allergens are deliberately applied?",
-   "hintStrategy": "When a diagnostic test causes an emergency, treat the client first; the test results can wait."
+   "hintStrategy": "When a diagnostic test causes an emergency, treat the client first; the test results can wait.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-078",
@@ -2809,20 +2851,21 @@ window.NURSE_DATA.push({
    "options": [
     "Report the worsening pain; prednisone can hide signs of infection",
     "Document that the incision shows no signs of a wound infection",
-    "Give the prescribed analgesic and reassess the pain tomorrow",
-    "Reassure the client that pain often increases on the third day"
+    "Give the prescribed analgesic and reassess the pain in 1 hour",
+    "Recheck the temperature in 4 hours before reporting any change"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Corticosteroids suppress inflammation, so a subtle change such as increasing pain may be the only clue to infection.",
-    "Incorrect. The absence of redness is unreliable in a client taking steroids.",
-    "Incorrect. Treating the pain without reporting it may delay recognition of an infection.",
-    "Incorrect. Pain that keeps increasing rather than easing is not expected incisional healing."
+    "Correct. Corticosteroids suppress inflammation, so a subtle change such as steadily increasing pain may be the only clue to infection.",
+    "Incorrect. The incision does look calm, but prednisone can mask redness and swelling, so a visual check alone is misleading.",
+    "Incorrect. Treating pain is appropriate, but it does not address why pain is worsening, and the change still needs to be reported.",
+    "Incorrect. Trending the temperature is reasonable, but steroids can blunt fever, so waiting for it to rise delays evaluation."
    ],
    "rationale": "Steroids and NSAIDs suppress the inflammatory response and can hide fever, redness, and swelling, so a client taking them may show only subtle changes. Expected incisional pain eases over the first few days; pain that steadily increases needs follow-up. Documenting 'no signs of infection' is the tempting error because the incision looks calm, but the medication may be masking the classic signs. The nurse reports the change so the provider can evaluate the wound.",
    "takeaway": "In clients taking steroids, subtle changes such as increasing pain may be the only sign of infection; report them.",
    "hintContent": "Ask how this client's medication changes the classic signs of inflammation.",
-   "hintStrategy": "When the stem includes a drug that suppresses inflammation, read 'normal-looking' findings with suspicion."
+   "hintStrategy": "When the stem includes a drug that suppresses inflammation, read 'normal-looking' findings with suspicion.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-079",
@@ -2839,22 +2882,23 @@ window.NURSE_DATA.push({
    ],
    "stem": "A 51-year-old client is admitted with cellulitis of the right forearm and will start IV antibiotics. Vital signs are stable. Which nursing action is most important for detecting whether the inflammation is spreading on later shifts?",
    "options": [
-    "Photograph the arm once at the end of the hospital stay for the chart",
-    "Ask the client each shift whether the arm looks worse",
+    "Compare the affected arm with the other forearm each shift",
+    "Ask the client each shift whether the arm looks any worse",
     "Outline the redness with a skin marker and note the date and time",
-    "Apply a warm compress to the forearm every 4 hours"
+    "Check the WBC count each morning to look for a rising trend"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. A single photograph at discharge does not allow ongoing comparison.",
-    "Incorrect. Client perception is useful but not an objective measure of spread.",
+    "Incorrect. Comparing sides is useful, but without a marked border, nurses cannot tell exactly how far the redness has moved.",
+    "Incorrect. Involving the client is good, but subjective impressions cannot replace an objective, measurable border.",
     "Correct. A marked, dated border lets every nurse see at a glance whether the redness is spreading or shrinking.",
-    "Incorrect. Warm compresses are a comfort measure, not a way to detect spread."
+    "Incorrect. The WBC reflects the systemic response, but it does not show whether the local redness is spreading."
    ],
    "rationale": "Good assessment technique makes findings useful to the next nurse. Measuring the area of redness and outlining its border with a skin marker, noting the date and time, creates an objective baseline. On later shifts, redness within the line shows the treatment is working, and redness past it shows spread that needs reporting. Asking the client is tempting because it involves the client, but subjective impressions cannot replace an objective, measurable border.",
    "takeaway": "Outline and date the border of cellulitis so spread or improvement can be measured objectively.",
    "hintContent": "How can the nurse make today's finding comparable tomorrow?",
-   "hintStrategy": "For monitoring questions, choose the action that creates an objective, repeatable measurement."
+   "hintStrategy": "For monitoring questions, choose the action that creates an objective, repeatable measurement.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-080",
@@ -2871,22 +2915,23 @@ window.NURSE_DATA.push({
    ],
    "stem": "A 73-year-old client with cellulitis of the lower leg reports new numbness and tingling in the toes of the affected foot. The leg is markedly swollen. Which action should the nurse take first?",
    "options": [
-    "Massage the toes gently to help restore their normal sensation",
-    "Apply a warm pack to the leg to improve blood flow to the toes",
+    "Elevate the leg above heart level and reassess in 1 hour",
+    "Notify the provider of the new numbness right away",
     "Document the numbness as an expected finding with severe cellulitis",
     "Check pulses, capillary refill, and sensation in both feet"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Massage does not address compression and could cause harm.",
-    "Incorrect. Heat does not relieve compression and can increase swelling.",
-    "Incorrect. Numbness is not expected; it suggests compromised circulation or nerve function.",
+    "Incorrect. Elevation is part of cellulitis care, but it acts before assessing circulation and may reduce flow if arterial supply is compromised.",
+    "Incorrect. Reporting is needed, but the nurse first gathers pulses, capillary refill, and sensation to give the provider complete data.",
+    "Incorrect. Swelling is expected with cellulitis, but new numbness and tingling are not and may signal neurovascular compromise.",
     "Correct. Swelling can compress vessels and nerves, so circulation and sensation beyond the site are assessed and compared with the unaffected foot first."
    ],
    "rationale": "Swelling from inflammation can squeeze the vessels and nerves beyond the site, so assessment of an inflamed limb includes checking pulses, color, warmth, capillary refill, movement, and sensation, and comparing with the other side. New numbness and tingling are cues of possible neurovascular compromise. Documenting it as expected is the tempting error, because swelling is expected with cellulitis, but numbness is not. The nurse assesses first, then reports abnormal findings.",
    "takeaway": "With a swollen, inflamed limb, check circulation and sensation beyond the site and compare with the other side.",
    "hintContent": "What can severe swelling do to the structures beyond the inflamed area?",
-   "hintStrategy": "When a new finding appears, assess it fully before acting on or dismissing it."
+   "hintStrategy": "When a new finding appears, assess it fully before acting on or dismissing it.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-081",
@@ -2968,7 +3013,8 @@ window.NURSE_DATA.push({
    "rationale": "A normal total WBC does not rule out infection, so the nurse always reads the differential. Bands of 16% (normal 0–5%) indicate a left shift, meaning the marrow is releasing young neutrophils to fight an acute bacterial infection. The temperature above 38.5 °C, HR above 90, and RR above 20 also meet the systemic cutoffs. Accepting the night nurse's note is tempting because the total WBC is in range, but it ignores both the differential and the vital signs.",
    "takeaway": "Always read the differential: increased bands mean a left shift even when the total WBC is normal.",
    "hintContent": "Look past the total WBC to the parts of the differential.",
-   "hintStrategy": "Do not accept a colleague's interpretation without checking the data yourself."
+   "hintStrategy": "Do not accept a colleague's interpretation without checking the data yourself.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-082",
@@ -3033,7 +3079,8 @@ window.NURSE_DATA.push({
    "rationale": "ESR and CRP show that inflammation is present but not where or why; their value lies in trends. CRP rises within hours and falls quickly when treatment works, while ESR lags and can stay high for weeks. Here the CRP rises on each check along with the fever, so the infection is not responding to the antibiotics. The ESR-lags option is tempting because it is a true fact, but it would only explain a high ESR alongside a falling CRP, not a rising CRP.",
    "takeaway": "A falling CRP means treatment is working; a rising CRP during treatment means report it.",
    "hintContent": "Which marker responds quickly to effective treatment?",
-   "hintStrategy": "Distinguish a true statement from one that actually explains the data in front of you."
+   "hintStrategy": "Distinguish a true statement from one that actually explains the data in front of you.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-083",
@@ -3063,7 +3110,8 @@ window.NURSE_DATA.push({
    "rationale": "Some inflammation is expected at a new incision: narrow pink edges, mild swelling and tenderness, and scant serous or serosanguineous drainage. Thick, cloudy, or foul-smelling drainage suggests wound infection, and feeling hot and shaky raises concern for fever and a spreading, systemic response. The client asking for pain medicine is tempting because pain needs a timely response, but mild tenderness is expected and stable. The RN assesses the client with possible infection first.",
    "takeaway": "Purulent drainage with systemic symptoms outranks expected signs of incisional healing.",
    "hintContent": "Separate the expected signs of healing from those that need follow-up.",
-   "hintStrategy": "In 'assess first' items, eliminate findings described as expected for the post-op day."
+   "hintStrategy": "In 'assess first' items, eliminate findings described as expected for the post-op day.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-084",
@@ -3080,22 +3128,23 @@ window.NURSE_DATA.push({
    ],
    "stem": "During an admission interview for a 49-year-old client with a painful, swollen knee, the nurse asks about the client's medications. The client asks, “Why do you need to know that I take ibuprofen and prednisone?” Which response by the nurse is best?",
    "options": [
-    "“I need the list only so the pharmacy can update your billing record.”",
-    "“Those medicines cure inflammation, so you won't need any other treatment.”",
+    "“Some medicines can cause allergic reactions, so I need a full list.”",
+    "“Your provider needs the list to choose safe pain medicine doses.”",
     "“They can hide fever and swelling, so I need to know to interpret my findings.”",
-    "“We ask everyone the same questions, but it doesn't change how we assess you.”"
+    "“It is routine to ask every client about all medicines they take.”"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. The question has a clinical purpose, not a billing one.",
-    "Incorrect. Neither drug cures the underlying cause of inflammation.",
+    "Incorrect. Screening for drug allergies is a valid reason, but it does not explain why these two drugs matter for assessing the knee.",
+    "Incorrect. This is a reasonable use of the list, but it misses how these drugs affect the nurse's assessment findings.",
     "Correct. Steroids and NSAIDs suppress inflammation and can mask its signs, which changes how the nurse interprets findings.",
-    "Incorrect. Medications that suppress inflammation directly affect how assessment findings are interpreted."
+    "Incorrect. Medication history is routine, but this does not explain the purpose, so it misses a chance to build trust."
    ],
-   "rationale": "Each interview question has a reason. Asking about medications matters because steroids and NSAIDs can hide fever and swelling, and some drugs cause allergic reactions. A client taking both may look less inflamed than the problem truly is. The 'doesn't change how we assess you' option is tempting because it sounds reassuring, but it is inaccurate. Explaining the purpose builds trust and supports accurate data collection.",
+   "rationale": "Each interview question has a reason. Asking about medications matters because steroids and NSAIDs can hide fever and swelling, and some drugs cause allergic reactions. A client taking both may look less inflamed than the problem truly is. The allergy option is tempting because it is a true reason to ask, but it does not explain why these two drugs matter here. Explaining the purpose builds trust and supports accurate data collection.",
    "takeaway": "Ask about steroids and NSAIDs in every inflammation assessment because they can mask the classic signs.",
    "hintContent": "How could these two drugs change what the nurse sees and measures?",
-   "hintStrategy": "For 'best response' items, choose the answer that is both accurate and explains the clinical purpose."
+   "hintStrategy": "For 'best response' items, choose the answer that is both accurate and explains the clinical purpose.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-085",
@@ -3112,20 +3161,21 @@ window.NURSE_DATA.push({
    "options": [
     "Thyroid-stimulating hormone (TSH)",
     "Erythrocyte sedimentation rate (ESR)",
-    "Allergy skin-prick testing",
+    "Antinuclear antibody (ANA)",
     "Serum protein electrophoresis"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. TSH is the screening test that helps detect Hashimoto thyroiditis, an autoimmune inflammation of the thyroid.",
-    "Incorrect. ESR shows that inflammation is present but cannot identify the thyroid as the source.",
-    "Incorrect. Skin testing identifies allergens, not thyroid disease.",
-    "Incorrect. Protein electrophoresis is used for findings such as those in SLE, not thyroid screening."
+    "Incorrect. ESR shows that inflammation is present, but it is nonspecific and cannot identify the thyroid as the source.",
+    "Incorrect. ANA screens for systemic autoimmune disease such as lupus, but it does not measure thyroid function.",
+    "Incorrect. Protein electrophoresis shows abnormal blood protein patterns, but it is not used to screen for thyroid disease."
    ],
-   "rationale": "Two screening tests are emphasized for inflammation-related conditions: skin testing to identify allergens, and TSH to help detect Hashimoto thyroiditis, an autoimmune inflammation of the thyroid gland. A family history of thyroid disease makes this client a good candidate for TSH screening. ESR is tempting because it measures inflammation, but it is nonspecific and cannot tell where the inflammation is. Matching the test to the suspected condition is the key skill.",
+   "rationale": "TSH is the screening test that helps detect Hashimoto thyroiditis, an autoimmune inflammation of the thyroid gland. A family history of thyroid disease plus fatigue makes this client a good candidate for TSH screening. ESR and ANA are tempting because they relate to inflammation and autoimmunity, but they are nonspecific or aimed at other diseases and do not show how the thyroid is working. Matching the test to the suspected condition is the key skill.",
    "takeaway": "TSH screens for Hashimoto thyroiditis; ESR and CRP are nonspecific.",
    "hintContent": "Which test points to a specific organ rather than inflammation in general?",
-   "hintStrategy": "Reject nonspecific tests when the stem points to a specific organ or condition."
+   "hintStrategy": "Reject nonspecific tests when the stem points to a specific organ or condition.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-086",
@@ -3142,22 +3192,23 @@ window.NURSE_DATA.push({
    ],
    "stem": "A 52-year-old client with no signs of infection has had a mildly elevated CRP on three routine checks over a year. The client asks, “Why did my provider mention my heart when we talked about this test?” Which response by the nurse is most accurate?",
    "options": [
-    "“CRP is made by the heart, so a high level means heart damage.”",
-    "“A high CRP level means that you are having a heart attack right now.”",
-    "“CRP shows exactly where inflammation is, and yours is in the heart.”",
+    "“CRP is made by the liver whenever there is inflammation in the body.”",
+    "“A high CRP shows inflammation but cannot tell where it is coming from.”",
+    "“CRP rises quickly with infection and falls when treatment is working.”",
     "“Ongoing low-grade inflammation, shown by CRP, is linked to heart disease.”"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. CRP is made by the liver, not the heart.",
-    "Incorrect. A mildly elevated CRP is a risk marker, not a diagnosis of an acute heart attack.",
-    "Incorrect. CRP is nonspecific; it does not show where inflammation is located.",
+    "Incorrect. This is true, but it does not explain why the provider connected the client's CRP to the heart.",
+    "Incorrect. CRP is nonspecific, which is true, but this does not answer the client's question about the heart.",
+    "Incorrect. This describes CRP's use in monitoring treatment, but the client has no infection, and it does not address heart risk.",
     "Correct. CRP is a cardiac risk marker because persistent low-grade inflammation is linked to heart disease."
    ],
-   "rationale": "CRP is a protein made by the liver in response to inflammation. It has three main uses: showing that inflammation is present, monitoring treatment, and serving as a cardiac risk marker, because persistent low-grade inflammation is linked to heart disease. The 'shows exactly where' option is tempting, but CRP is nonspecific and cannot locate the source. Explaining this accurately helps the client understand the value of modifying cardiac risk factors.",
+   "rationale": "CRP is a protein made by the liver in response to inflammation. It has three main uses: showing that inflammation is present, monitoring treatment, and serving as a cardiac risk marker, because persistent low-grade inflammation is linked to heart disease. The other true facts about CRP are tempting, but only the cardiac risk link answers the client's question. Explaining this accurately helps the client understand the value of modifying cardiac risk factors.",
    "takeaway": "CRP is a liver protein that marks inflammation, tracks treatment, and serves as a cardiac risk marker.",
    "hintContent": "Recall the three uses of CRP.",
-   "hintStrategy": "Eliminate options that overstate what a nonspecific test can show."
+   "hintStrategy": "Eliminate options that overstate what a nonspecific test can show.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-087",
@@ -3228,7 +3279,8 @@ window.NURSE_DATA.push({
    "rationale": "ESR measures how fast red blood cells settle in a tube; inflammation makes them clump and fall faster, so a higher ESR means active inflammation. The normal ranges differ by sex: 0–15 mm/hr for men and 0–20 mm/hr for women. Client 1 is the tempting choice because 18 is close to 22, but it is normal for a woman. The ESR is nonspecific, so an elevated result shows that inflammation is present but not its cause.",
    "takeaway": "ESR normal: men 0–15 mm/hr, women 0–20 mm/hr; interpret by the client's sex.",
    "hintContent": "Check whether the normal range is the same for every client.",
-   "hintStrategy": "When lab values look similar, look for a client characteristic that changes the reference range."
+   "hintStrategy": "When lab values look similar, look for a client characteristic that changes the reference range.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-088",
@@ -3245,22 +3297,23 @@ window.NURSE_DATA.push({
    ],
    "stem": "A 33-year-old client with systemic lupus erythematosus is having a flare. The provider orders a chemistry panel that includes creatinine, liver enzymes, and muscle enzymes. The client asks why so many tests are needed. Which response by the nurse is most accurate?",
    "options": [
-    "“They confirm the diagnosis of lupus without the need for any other tests.”",
+    "“They check for side effects of the medicines used to treat lupus.”",
     "“They show whether inflammation is affecting your kidneys, liver, or muscles.”",
-    "“They measure how fast your red blood cells settle to the bottom of a tube.”",
-    "“They identify which foods in your diet are triggering your lupus flare.”"
+    "“They show how much inflammation is present in your body right now.”",
+    "“They help confirm that your current symptoms are caused by lupus.”"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Chemistry panels assess organ involvement; they do not diagnose SLE on their own.",
+    "Incorrect. These tests can monitor drug effects, but during a flare they are ordered to see whether inflammation is reaching organs.",
     "Correct. Chemistry panels show whether widespread inflammation is injuring organs such as the kidneys, liver, and muscles.",
-    "Incorrect. That describes the ESR, not a chemistry panel.",
-    "Incorrect. Chemistry panels do not identify food triggers."
+    "Incorrect. Measuring inflammation level is the role of ESR and CRP; chemistry panels show organ injury instead.",
+    "Incorrect. Lupus is diagnosed with other tests and findings; chemistry panels show organ involvement rather than confirm the disease."
    ],
    "rationale": "Widespread inflammation, as in an SLE flare, can injure organs, so chemistry panels help the team see how far the damage reaches: creatinine for the kidneys, liver enzymes for the liver, and muscle enzymes for muscle. Other tests, such as the ESR and protein electrophoresis (increased gamma globulin and decreased albumin), support the picture of active SLE. The 'confirms the diagnosis' option is tempting because many tests are being run, but chemistry panels show organ involvement rather than diagnose the disease.",
    "takeaway": "Chemistry panels show whether inflammation is affecting the kidneys, liver, or muscles.",
    "hintContent": "What does each part of the panel measure?",
-   "hintStrategy": "Match the test to its purpose; reject options that describe a different test."
+   "hintStrategy": "Match the test to its purpose; reject options that describe a different test.",
+   "bestAnswer": true
   },
   {
    "id": "m10-x2-089",

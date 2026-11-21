@@ -12,14 +12,14 @@
     "Explain in detail how the airway collapses during sleep and lowers oxygen levels at night.",
     "Ask what he wants from treatment, such as staying alert on the road, and link CPAP to it.",
     "Fit the mask and have him start practicing with the machine before discussing his doubts.",
-    "Give him the manufacturer’s booklet to read tonight and answer his questions tomorrow."
+    "Reassure him that most people adjust to wearing the mask within a few weeks."
    ],
    "answer": 1,
    "optionRationales": [
     "Incorrect. Background physiology delivered before relevance is established is unlikely to engage a doubtful adult; it can come later in small chunks.",
     "Correct. Adult learners engage when they see how the plan serves a goal they value, which addresses his doubt directly.",
     "Incorrect. Skill practice is premature when the learner does not yet see why the device matters to him.",
-    "Incorrect. A booklet is teaching activity, not engagement, and it ignores the doubt he just voiced."
+    "Incorrect. Reassurance is supportive and may be true, but it skips past his doubt about needing CPAP at all and does not give him a personal reason to use it."
    ],
    "rationale": "Adult learning theory emphasizes relevance, experience, and self-direction: adults engage when they understand why information matters to a goal they value. This client’s statement signals doubt about the need, so the nurse opens by connecting CPAP to what he cares about, such as staying alert on long drives and keeping his job. The tempting choice is a detailed physiology explanation, but facts delivered before relevance is established tend to be tuned out by a skeptical adult. Once he sees the purpose, demonstration and practice of mask fitting follow.",
    "takeaway": "With a doubtful adult learner, establish personal relevance before content or skill practice.",
@@ -31,7 +31,8 @@
    "focus": "Client Teaching",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-002",
@@ -61,7 +62,8 @@
    "focus": "Client Teaching",
    "difficulty": 3,
    "clientNeed": "Psychosocial Integrity",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-003",
@@ -161,7 +163,8 @@
       }
      }
     ]
-   }
+   },
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-005",
@@ -169,17 +172,17 @@
    "type": "mcq",
    "stem": "While teaching a 39-year-old client about a newly prescribed antidepressant, the nurse is asked, “Can I keep taking my St. John’s wort with this?” The nurse is not certain of the answer. Which response is best?",
    "options": [
-    "“Herbal supplements are natural, so they are generally safe to take with prescriptions.”",
+    "“Ask your provider about that at your follow-up visit next month.”",
     "“You should stop all of your supplements right now to avoid any possible problems.”",
     "“I want to be accurate, so I’ll check with the pharmacist and come back to you.”",
-    "“Search for it online tonight and let me know tomorrow what you were able to find.”"
+    "“Bring in the bottle so I can see the exact product and dose.”"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. This is false; St. John’s wort interacts with many antidepressants and can contribute to serotonin syndrome.",
+    "Incorrect. The provider is an appropriate resource, but a possible serious interaction should not wait a month, and the nurse can get an answer now.",
     "Incorrect. This is improvised, unverified advice that may cause other problems.",
     "Correct. Acknowledging the limit and verifying with an appropriate resource is safe, honest practice.",
-    "Incorrect. This shifts the nurse’s responsibility to the client and to unvetted sources."
+    "Incorrect. Knowing the product and dose is useful assessment data, but it does not resolve the nurse’s uncertainty about the interaction; verifying with the pharmacist does."
    ],
    "rationale": "Nurses are lifelong learners, and recognizing the limit of one’s knowledge is part of safe teaching. When unsure, the nurse verifies with an appropriate source, such as the pharmacist, rather than improvising; the question matters because St. John’s wort can interact with antidepressants and increase the risk of serotonin syndrome. Telling the client to stop everything sounds cautious, but it is unverified advice. Honest acknowledgment followed by reliable follow-through strengthens credibility rather than weakening it.",
    "takeaway": "When unsure during teaching, verify with an appropriate resource and return; do not improvise.",
@@ -191,7 +194,8 @@
    "focus": "Pharmacology",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-006",
@@ -258,7 +262,8 @@
    "focus": "Client Teaching",
    "difficulty": 3,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-008",
@@ -288,7 +293,8 @@
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-009",
@@ -318,7 +324,8 @@
    "focus": "Client Teaching",
    "difficulty": 3,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-010",
@@ -361,19 +368,19 @@
    "type": "mcq",
    "stem": "A UAP tells the nurse, “I gave the client in room 12 the incentive spirometer pamphlet and played the video, so his teaching is done.” The client had abdominal surgery yesterday. Which action should the nurse take first?",
    "options": [
-    "Thank the UAP and document that spirometer teaching has been completed.",
+    "Ask the client to explain how often he should use the spirometer.",
     "Observe the client use the spirometer and evaluate the technique personally.",
     "Ask the UAP to watch the client use the spirometer later and report back to you.",
-    "Ask the client to sign the education record to confirm the teaching."
+    "Ask the client if he has any questions about the spirometer."
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. A pamphlet and a video are teaching activities, not evidence of learning.",
+    "Incorrect. Teach-back of frequency checks knowledge, but spirometer use is a skill, and only watching his technique shows whether he can perform it effectively.",
     "Correct. Evaluating learning is an RN responsibility, and only observed performance shows the skill was learned.",
     "Incorrect. Evaluation of learning cannot be delegated to UAP.",
-    "Incorrect. A signature confirms attendance, not comprehension or skill."
+    "Incorrect. Inviting questions is good practice, but a client who has no questions has not shown that he can use the device correctly."
    ],
-   "rationale": "Teaching and evaluating learning are RN responsibilities that are not delegated to UAP, and handing out a pamphlet or playing a video is teaching activity rather than evidence of learning. After abdominal surgery, effective spirometer use helps prevent atelectasis, so the nurse personally observes the client’s technique and reteaches as needed. Asking the UAP to watch and report is tempting because it seems efficient, but it still assigns evaluation of learning to someone outside that scope. A signature confirms attendance, not comprehension or skill.",
+   "rationale": "Teaching and evaluating learning are RN responsibilities that are not delegated to UAP, and handing out a pamphlet or playing a video is teaching activity rather than evidence of learning. After abdominal surgery, effective spirometer use helps prevent atelectasis, so the nurse personally observes the client’s technique and reteaches as needed. Asking the UAP to watch and report is tempting because it seems efficient, but it still assigns evaluation of learning to someone outside that scope. Asking about frequency or inviting questions is helpful, but neither shows that the client can perform the skill.",
    "takeaway": "UAP may remind or assist, but the RN teaches and evaluates learning.",
    "hintContent": "Consider who is responsible for judging whether learning has actually occurred.",
    "hintStrategy": "In delegation items, remove any option that hands assessment, teaching, or evaluation to UAP.",
@@ -385,7 +392,8 @@
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-012",
@@ -430,19 +438,19 @@
    "type": "mcq",
    "stem": "During a unit huddle, a nurse says, “I learn best by reading, so I give every client the booklet and let them read it.” Which response by the charge nurse is most appropriate?",
    "options": [
-    "“That works well, since written material is the most reliable method for most adults.”",
+    "“Keep giving the booklet, but also go over its key points with each client.”",
     "“Try labeling each client’s learning style at admission so the method can be set.”",
     "“Let’s ask each client what helps them learn, then check what they can actually do.”",
-    "“Reading is fine for facts, but most clients learn only by watching short videos.”"
+    "“Check each client’s reading level first, and then give them the booklet to read.”"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. No single format is reliable for every learner or every task.",
+    "Incorrect. Adding a verbal review helps, but it still applies the nurse’s preferred method to everyone and does not evaluate what clients can do.",
     "Incorrect. A fixed learning-style label does not determine success and can limit the methods offered.",
     "Correct. This refocuses teaching on the learner’s preferences and on evidence of learning.",
-    "Incorrect. This replaces one blanket assumption with another."
+    "Incorrect. Considering literacy is reasonable, but this still assumes reading is the right method for every client and does not check what clients learned."
    ],
-   "rationale": "A nurse’s own learning preference should not become an assumption about how every client learns. Effective teaching asks about each learner’s preferences and access needs, combines methods that fit the task, and then evaluates what the learner can explain or perform. Labeling each client with a fixed learning style is tempting because it sounds individualized, but a label does not determine success and can limit the methods offered. No single format, written or video, works for everyone.",
+   "rationale": "A nurse’s own learning preference should not become an assumption about how every client learns. Effective teaching asks about each learner’s preferences and access needs, combines methods that fit the task, and then evaluates what the learner can explain or perform. Labeling each client with a fixed learning style is tempting because it sounds individualized, but a label does not determine success and can limit the methods offered. Adding a verbal review or checking reading level improves the booklet approach, but neither asks the client what helps or evaluates the result.",
    "takeaway": "Use learner preferences flexibly and judge methods by the learner’s actual response.",
    "hintContent": "Think about whose preference should guide the choice of a teaching method.",
    "hintStrategy": "For best-response items to a colleague, choose the option that corrects the assumption and refocuses on the client.",
@@ -452,7 +460,8 @@
    "focus": "Client Teaching",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-014",
@@ -462,15 +471,15 @@
    "options": [
     "Stop the meal and assess the client’s breathing and cough.",
     "Reteach the chin-tuck technique and have the client try another bite.",
-    "Praise this morning’s explanation and remind the client to tuck the chin.",
-    "Document that the client can explain but not perform the technique."
+    "Request a speech therapy consult to reevaluate the swallow.",
+    "Raise the head of the bed fully and let the client continue eating."
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. Coughing with each bite suggests aspiration risk, so airway safety comes before teaching.",
     "Incorrect. Another bite risks further aspiration before the airway has been assessed.",
-    "Incorrect. A reminder does not address the immediate airway risk.",
-    "Incorrect. Documentation is appropriate later but does not protect the airway now."
+    "Incorrect. A swallow reevaluation is appropriate, but it comes later; possible aspiration is happening now and the nurse must stop the meal and assess breathing first.",
+    "Incorrect. Upright positioning helps prevent aspiration, but continuing the meal while the client coughs with each bite risks further aspiration before airway status is assessed."
    ],
    "rationale": "Coughing with each bite in a client with post-stroke dysphagia signals possible aspiration, so airway safety comes before teaching. The nurse stops the meal and assesses respiratory status; reteaching and further evaluation of swallowing follow once the client is stable. Reteaching the chin tuck is tempting because the gap is clearly a performance problem, but having the client take another bite risks further aspiration. The situation also shows that an accurate explanation does not prove the skill is performed under real conditions.",
    "takeaway": "When a performance gap creates immediate physical risk, address safety before reteaching.",
@@ -484,7 +493,8 @@
    "focus": "Prioritization",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-015",
@@ -494,17 +504,17 @@
    "options": [
     "“Hypoglycemia is the medical term for when the sugar in my blood gets too low.”",
     "“If I get shaky and sweaty at work, I’ll check my sugar and drink juice.”",
-    "“I put the handout about low blood sugar in my lunch bag for work.”",
-    "“Yes, I understand everything you explained to me about low sugar.”"
+    "“Low sugar can happen if I skip lunch after my insulin.”",
+    "“The signs of low sugar are shakiness, sweating, and confusion.”"
    ],
    "answer": 1,
    "optionRationales": [
     "Incorrect. A correct definition shows recall, not the ability to use the knowledge.",
     "Correct. Applying the information to a realistic situation is strong cognitive evidence.",
-    "Incorrect. Having materials is not evidence of learning.",
-    "Incorrect. A self-report of understanding provides no evidence."
+    "Incorrect. This is an accurate cause of hypoglycemia, but it does not show the client knows what to do when it happens.",
+    "Incorrect. Listing signs is accurate recall, but it does not show the client can recognize them in a real situation and choose an action."
    ],
-   "rationale": "Cognitive objectives are best evaluated by asking the learner to apply information to a realistic situation, not by repeating a definition. Describing what to do when symptoms occur at work shows the client can recognize the problem and choose an action. Defining hypoglycemia is tempting because it is accurate, but it shows recall rather than the ability to use the knowledge. Having a handout or saying “I understand” provides no evidence of learning.",
+   "rationale": "Cognitive objectives are best evaluated by asking the learner to apply information to a realistic situation, not by repeating a definition. Describing what to do when symptoms occur at work shows the client can recognize the problem and choose an action. Defining hypoglycemia is tempting because it is accurate, but it shows recall rather than the ability to use the knowledge. Naming a cause or listing signs is also accurate, but neither shows the client can act on the knowledge.",
    "takeaway": "Applied explanation in the client’s own words is stronger cognitive evidence than a definition or a yes.",
    "hintContent": "Look for the statement that applies knowledge to the client’s real situation.",
    "hintStrategy": "Rank evidence: applied decision first, then restated definition, then possession of materials or self-report.",
@@ -514,7 +524,8 @@
    "focus": "Client Teaching",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-016",
@@ -522,19 +533,19 @@
    "type": "mcq",
    "stem": "A 66-year-old retired LPN starting an insulin pen says, “I gave hundreds of injections at work. I won’t need to prime the pen—we never did that with syringes.” What should the nurse do first?",
    "options": [
-    "Skip the demonstration because her nursing background ensures competence.",
-    "Let her use her own technique, since adults learn best through experience.",
+    "Have her demonstrate a pen injection, then correct any errors she makes.",
+    "Tell her that the pen manufacturer requires priming before each dose.",
     "Give her the pen insert and ask her to read the priming section later.",
     "Acknowledge her experience and explain why priming matters with a pen."
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Experience with syringes does not establish competence with a new device.",
-    "Incorrect. Valuing experience does not mean accepting an unsafe technique.",
+    "Incorrect. A return demonstration is needed, but she has already stated the error; letting her practice it first reinforces an underdosing technique.",
+    "Incorrect. The statement is accurate, but stating a rule without acknowledging her experience or explaining the reason invites resistance from an experienced adult learner.",
     "Incorrect. Deferring to a leaflet leaves the misconception uncorrected now.",
     "Correct. Respecting her experience while giving the reason for the new step corrects an unsafe assumption."
    ],
-   "rationale": "Adult and constructivist learning build on prior experience, but that experience may be outdated or may not apply to new equipment, and unsafe assumptions must be corrected respectfully. Acknowledging her expertise keeps her engaged, while explaining that priming removes air and confirms the pen delivers a full dose gives her the reason for the new step. Deferring to her experience is tempting because adult learning values it, but valuing experience does not mean accepting an unsafe technique. After the explanation, the nurse observes her return demonstration with the actual pen.",
+   "rationale": "Adult and constructivist learning build on prior experience, but that experience may be outdated or may not apply to new equipment, and unsafe assumptions must be corrected respectfully. Acknowledging her expertise keeps her engaged, while explaining that priming removes air and confirms the pen delivers a full dose gives her the reason for the new step. Simply stating the rule is tempting because it is accurate, but without the reason an experienced adult learner is less likely to accept the change. After the explanation, the nurse observes her return demonstration with the actual pen.",
    "takeaway": "Use an experienced learner’s background as a starting point, but correct unsafe assumptions with a clear reason.",
    "hintContent": "Consider whether experience with a similar task guarantees safe use of a new device.",
    "hintStrategy": "When an option honors autonomy but permits an unsafe practice, choose safety.",
@@ -544,7 +555,8 @@
    "focus": "Pharmacology",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-017",
@@ -552,19 +564,19 @@
    "type": "mcq",
    "stem": "A 70-year-old client signed the discharge education form an hour ago. While dressing to leave, the client picks up the new metoprolol bottle and asks, “Now what is this one for again?” What should the nurse do first?",
    "options": [
-    "Point out that the signed form confirms the teaching was completed.",
+    "Tell the client that metoprolol controls heart rate and blood pressure.",
     "Reprint the medication list in larger type and review it at follow-up.",
     "Ask the pharmacist to call the client at home tomorrow to review.",
     "Ask the client to explain each new medicine in their own words."
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. A signature documents teaching activity, not comprehension.",
+    "Incorrect. Answering the question is helpful, but it addresses only one drug and does not assess what else the client misunderstands about the new medications.",
     "Incorrect. This delays closing a gap that the nurse can assess now.",
     "Incorrect. A later call leaves the client going home with an unverified gap.",
     "Correct. The question reveals a possible gap, so the nurse first assesses what the client understands."
    ],
-   "rationale": "A signed education form documents that teaching occurred, not that learning occurred. The client’s question reveals a possible gap, so the nurse first assesses what the client understands about each new medication using teach-back, then reteaches gaps before discharge. Reprinting the list or arranging a pharmacist call is tempting because both are supportive, but they delay addressing a gap the nurse can assess now. Pointing to the signature treats paperwork as proof of learning.",
+   "rationale": "A signed education form documents that teaching occurred, not that learning occurred. The client’s question reveals a possible gap, so the nurse first assesses what the client understands about each new medication using teach-back, then reteaches gaps before discharge. Reprinting the list or arranging a pharmacist call is tempting because both are supportive, but they delay addressing a gap the nurse can assess now. Simply answering the metoprolol question is helpful, but it skips assessing the other new medicines.",
    "takeaway": "A signature proves teaching was delivered, not that the client learned.",
    "hintContent": "Consider what the client’s question reveals about the earlier teaching.",
    "hintStrategy": "For “first” items, assess the extent of a newly revealed problem before choosing a fix.",
@@ -576,7 +588,8 @@
    "focus": "Pharmacology",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-018",
@@ -606,7 +619,8 @@
    "focus": "Prioritization",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-019",
@@ -673,7 +687,8 @@
       }
      }
     ]
-   }
+   },
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-020",
@@ -703,7 +718,8 @@
    "focus": "Client Teaching",
    "difficulty": 2,
    "clientNeed": "Psychosocial Integrity",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-021",
@@ -733,7 +749,8 @@
    "focus": "Client Teaching",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-022",
@@ -854,14 +871,14 @@
    "stem": "A nurse enters the room to teach incentive spirometer use to a 58-year-old client who is 1 day postoperative and using a morphine PCA. The client is difficult to arouse. The nurse reviews the PCA flowsheet shown. What should the nurse do first?",
    "options": [
     "Begin teaching while the client is awake enough to follow simple steps.",
-    "Leave written spirometer instructions at the bedside for later review.",
+    "Notify the provider that the client is too drowsy for teaching.",
     "Teach the spouse to coach the client with the spirometer this evening.",
     "Postpone the teaching and assess the client’s sedation and breathing."
    ],
    "answer": 3,
    "optionRationales": [
     "Incorrect. A client this sedated cannot learn and needs immediate assessment instead.",
-    "Incorrect. Leaving materials ignores a physiological emergency.",
+    "Incorrect. Reporting oversedation is appropriate, but the nurse first assesses sedation level and breathing so the report includes the data needed to act.",
     "Incorrect. Redirecting teaching ignores the client’s unstable respiratory status.",
     "Correct. Excessive sedation with a low respiratory rate suggests opioid-induced respiratory depression, which takes priority."
    ],
@@ -910,7 +927,8 @@
       }
      }
     ]
-   }
+   },
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-026",
@@ -942,7 +960,8 @@
    "focus": "Client Teaching",
    "difficulty": 3,
    "clientNeed": "Psychosocial Integrity",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-027",
@@ -953,16 +972,16 @@
     "“Do you understand when you should take your new water pill each morning?”",
     "“Repeat after me: one tablet every morning with your breakfast.”",
     "“I want to make sure I explained this well. How will you take this pill?”",
-    "“Let me quiz you now to see how much you were paying attention.”"
+    "“What questions do you have about your new water pill?”"
    ],
    "answer": 2,
    "optionRationales": [
     "Incorrect. A yes-or-no question invites a nod that provides no evidence.",
     "Incorrect. Parroting a phrase tests memory of words, not understanding.",
     "Correct. This frames the check as a test of the nurse’s explanation and asks for the plan in the client’s words.",
-    "Incorrect. Framing the check as a test of the client can embarrass the learner."
+    "Incorrect. Inviting questions is good practice, but it relies on the client to spot their own gaps and does not ask them to explain the plan."
    ],
-   "rationale": "Teach-back is introduced as a check on the nurse’s explanation, then asks the client to describe the plan in their own words applied to a real situation. This framing reduces embarrassment and reveals misunderstandings while there is time to correct them. Asking “Do you understand?” is tempting because it is quick, but a yes or a nod provides no evidence. Having the client repeat a phrase tests memory of words, and quizzing frames the check as a test of the client rather than of the teaching.",
+   "rationale": "Teach-back is introduced as a check on the nurse’s explanation, then asks the client to describe the plan in their own words applied to a real situation. This framing reduces embarrassment and reveals misunderstandings while there is time to correct them. Asking “Do you understand?” is tempting because it is quick, but a yes or a nod provides no evidence. Having the client repeat a phrase tests memory of words, and asking for questions does not show what the client understood.",
    "takeaway": "Frame teach-back as checking your explanation, and ask for the plan in the client’s own words.",
    "hintContent": "Consider which statement places responsibility for clarity on the nurse.",
    "hintStrategy": "For communication items, eliminate yes-or-no questions and anything that could shame the client.",
@@ -972,7 +991,8 @@
    "focus": "Client Teaching",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-028",
@@ -1076,7 +1096,8 @@
       }
      }
     ]
-   }
+   },
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-030",
@@ -1108,7 +1129,8 @@
    "focus": "Nursing Interventions",
    "difficulty": 3,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-031",
@@ -1117,18 +1139,18 @@
    "stem": "A 48-year-old client who teaches university chemistry is receiving discharge teaching after a new diagnosis of hypothyroidism. The client is anxious about returning to work. Which approach should the nurse use?",
    "options": [
     "Use technical medical terms, since the client’s education shows high literacy.",
-    "Give the client a journal article on hypothyroidism instead of a discussion.",
-    "Skip teach-back so the client does not feel that the nurse doubts them.",
+    "Screen the client’s health literacy first, then choose the approach.",
+    "Give a detailed handout the client can review at home tonight.",
     "Use plain language and teach-back, as the nurse would for any client."
    ],
    "answer": 3,
    "optionRationales": [
     "Incorrect. Expertise in chemistry is not expertise in unfamiliar health language.",
-    "Incorrect. Written material supports teaching; it does not replace a conversation.",
-    "Incorrect. Teach-back framed as checking the nurse’s explanation is appropriate for everyone.",
+    "Incorrect. Screening can add information, but universal precautions call for clear communication with every client rather than tailoring based on a screen.",
+    "Incorrect. Written material supports teaching, but alone it does not confirm understanding, and an anxious client may not absorb dense detail.",
     "Correct. Clear communication is applied universally rather than based on assumed literacy."
    ],
-   "rationale": "Clear communication should be applied to every client rather than guessing health literacy from education or occupation. A highly educated person may still struggle with unfamiliar health terms, especially while anxious about a new diagnosis. Using technical terms is tempting because it seems respectful of the client’s expertise, but expertise in chemistry is not expertise in health care. Teach-back framed as a check of the nurse’s explanation is appropriate for everyone and does not imply doubt.",
+   "rationale": "Clear communication should be applied to every client rather than guessing health literacy from education or occupation. A highly educated person may still struggle with unfamiliar health terms, especially while anxious about a new diagnosis. Using technical terms is tempting because it seems respectful of the client’s expertise, but expertise in chemistry is not expertise in health care. Screening first or relying on a handout falls short of the universal approach; teach-back framed as a check of the nurse’s explanation is appropriate for everyone.",
    "takeaway": "Use plain language and teach-back universally; do not infer health literacy from education or job.",
    "hintContent": "Consider whether expertise in one field transfers to unfamiliar medical language under stress.",
    "hintStrategy": "Be wary of options that justify a different standard based on a client’s background.",
@@ -1138,7 +1160,8 @@
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-032",
@@ -1168,7 +1191,8 @@
    "focus": "Client Teaching",
    "difficulty": 2,
    "clientNeed": "Psychosocial Integrity",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-033",
@@ -1176,14 +1200,14 @@
    "type": "mcq",
    "stem": "A 63-year-old client with stable angina is being discharged with sublingual nitroglycerin. During teach-back, he says, “If the pain doesn’t go away after the tablets, I’ll lie down and call my cardiologist’s office in the morning.” What should the nurse do first?",
    "options": [
-    "Praise his correct use of the tablets and document the teaching.",
+    "Reinforce taking one tablet every 5 minutes, up to three doses.",
     "Give him the printed instructions with the emergency section highlighted.",
     "Reteach when to call 911 for unrelieved chest pain, then recheck.",
     "Schedule a call from the clinic tomorrow to review his chest pain plan."
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Documenting teaching while a life-threatening gap remains is unsafe.",
+    "Incorrect. Dosing reinforcement is accurate teaching, but it misses the dangerous error in his plan to wait until morning for unrelieved chest pain.",
     "Incorrect. Written material supports but does not replace correcting the error and confirming understanding.",
     "Correct. The statement reveals a dangerous error that must be corrected and verified now.",
     "Incorrect. A follow-up tomorrow leaves the dangerous gap open tonight."
@@ -1198,7 +1222,8 @@
    "focus": "Pharmacology",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-034",
@@ -1208,17 +1233,17 @@
    "options": [
     "Help him put in his hearing aids and reduce the noise in the room.",
     "Speak louder and repeat each of the instructions more slowly.",
-    "Document that he has a cognitive deficit that is affecting learning.",
-    "Teach his daughter by phone, since he cannot follow the content."
+    "Screen his orientation and memory before continuing the teaching.",
+    "Ask his daughter to join the session to help reinforce the content."
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Restoring sensory access removes the most likely, correctable barrier.",
-    "Incorrect. Raising the voice distorts speech and does not correct the barrier.",
-    "Incorrect. This labels inability without first removing an obvious cause.",
-    "Incorrect. This assumes inability and excludes the client."
+    "Correct. His off-topic answers point to an obvious, correctable sensory barrier. Restoring his hearing aids and reducing noise gives him access to the teaching before anything else is tried.",
+    "Incorrect. Slowing down and repeating can help, but raising the voice distorts speech and does not correct the missing hearing aids or the background noise.",
+    "Incorrect. A cognitive screen is reasonable if confusion persists, but testing him while he cannot hear will give misleading results. The sensory barrier is removed first.",
+    "Incorrect. Including a family member can support learning at home, but it does not fix his own barrier and assumes he cannot learn before his hearing is restored."
    ],
-   "rationale": "His off-topic answers most likely reflect a sensory access barrier, not an inability to learn. Before continuing, the nurse restores access by having him wear his hearing aids, closing the door or moving away from noise, and facing him, then rechecks understanding with teach-back. Speaking louder is tempting, but raising the voice distorts speech and does not correct the underlying barrier. Labeling a cognitive deficit or shifting teaching to his daughter assumes inability without removing an obvious, correctable cause.",
+   "rationale": "His off-topic answers most likely reflect a sensory access barrier, not an inability to learn. Before continuing, the nurse restores access by having him wear his hearing aids, closing the door or moving away from noise, and facing him, then rechecks understanding with teach-back. Speaking louder is tempting, but raising the voice distorts speech and does not correct the underlying barrier. Screening cognition or bringing in his daughter may be useful later, but both skip an obvious, correctable cause.",
    "takeaway": "Correct sensory and environmental barriers before concluding that a client cannot learn.",
    "hintContent": "Look for an easily correctable reason he might not be following.",
    "hintStrategy": "Choose the least invasive action that removes the most likely cause before drawing conclusions.",
@@ -1230,7 +1255,8 @@
    "focus": "Assessment Findings",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-035",
@@ -1260,7 +1286,8 @@
    "focus": "Assessment Findings",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-036",
@@ -1327,7 +1354,8 @@
       }
      }
     ]
-   }
+   },
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-037",
@@ -1336,18 +1364,18 @@
    "stem": "A 35-year-old client with kidney failure is learning to perform peritoneal dialysis exchanges at home. During the return demonstration, the client correctly lays out the supplies but begins without cleaning their hands. Which response by the nurse is best?",
    "options": [
     "“You forgot to clean your hands again. You need to remember that step every time.”",
-    "“That was almost right. Read the handout tonight, and we’ll try again tomorrow.”",
-    "“Good job overall. Hand cleaning matters less at home than it does in the hospital.”",
+    "“Let’s stop here. I’ll show you the whole exchange again from the very beginning.”",
+    "“Good job overall. Just remember to clean your hands next time you do an exchange.”",
     "“You set up everything correctly. Let’s clean your hands first, since that prevents infection.”"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Although accurate, the wording is judgmental and can discourage the learner.",
-    "Incorrect. Delaying correction leaves an infection risk unaddressed.",
-    "Incorrect. This is inaccurate; hand hygiene remains essential for dialysis exchanges at home.",
-    "Correct. This praises the correct steps, names the missed step and its purpose, and moves to immediate practice."
+    "Incorrect. Naming the missed step is accurate, but the wording is judgmental, gives no reason, and can discourage the learner.",
+    "Incorrect. Stopping before contamination is reasonable, but repeating the whole demonstration does not target the single missed step or credit what the client did well.",
+    "Incorrect. Positive feedback is helpful, but deferring the correction lets the client continue this exchange with unclean hands and skips practicing the step now.",
+    "Correct. The nurse reinforces the correct setup, names the specific missed step and why it matters, and has the client practice it right away, before any contamination occurs."
    ],
-   "rationale": "After an incorrect return demonstration, the nurse acknowledges what was done correctly, identifies the specific missed step and why it matters, and has the learner practice it right away. Hand hygiene before a peritoneal dialysis exchange is essential at home because it reduces the risk of peritonitis. Pointing out that the client “forgot again” is tempting because it is accurate, but it is judgmental and can discourage the learner. Deferring practice or minimizing the step leaves an infection risk uncorrected.",
+   "rationale": "After an incorrect return demonstration, the nurse acknowledges what was done correctly, identifies the specific missed step and why it matters, and has the learner practice it right away. Hand hygiene before a peritoneal dialysis exchange is essential at home because it reduces the risk of peritonitis. Pointing out that the client “forgot again” is tempting because it is accurate, but it is judgmental and can discourage the learner. Repeating the whole demonstration or saving the correction for next time does not fix the missed step now.",
    "takeaway": "Correct a skill error by praising what was right, naming the missed step and its purpose, and practicing again.",
    "hintContent": "Look for the response that is accurate, specific, and nonjudgmental.",
    "hintStrategy": "In feedback items, eliminate options that blame the learner, delay correction, or give inaccurate information.",
@@ -1357,7 +1385,8 @@
    "focus": "Nursing Interventions",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-038",
@@ -1368,16 +1397,16 @@
     "Teach the client’s son, since the client cannot follow the content today.",
     "Assess vital signs and orientation, then report the change to the provider.",
     "Simplify the discharge instructions and review them in short segments.",
-    "Document that the client declined teaching, and reschedule for tomorrow."
+    "Postpone the teaching and gently reorient the client to the hospital setting."
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. This skips assessment of a potentially serious change in condition.",
-    "Correct. New confusion is an acute change in condition that requires assessment and reporting.",
-    "Incorrect. This treats an acute change as a literacy issue.",
-    "Incorrect. This misrepresents what happened and delays needed assessment."
+    "Incorrect. A caregiver may need teaching eventually, but this skips assessment of an acute change that may signal delirium from infection, hypoxia, or medications.",
+    "Correct. New confusion is an acute change in condition. Assessing vital signs and orientation and reporting promptly addresses a possibly serious cause before any teaching.",
+    "Incorrect. Short segments help many learners, but this treats an acute mental status change as a learning issue and delays finding its cause.",
+    "Incorrect. Postponing teaching and reorienting are appropriate, but they manage the symptom without assessing or reporting the acute change."
    ],
-   "rationale": "A new onset of confusion is an acute change in condition, possibly delirium from infection, hypoxia, medications, or another cause, and it requires assessment and prompt reporting. Acute confusion also prevents meaningful learning, so teaching is postponed until the cause is addressed. Teaching the son is tempting because a caregiver may be needed, but it skips the assessment of a potentially serious problem. Simplifying content treats the change as a literacy issue, and documenting a refusal misrepresents what happened.",
+   "rationale": "A new onset of confusion is an acute change in condition, possibly delirium from infection, hypoxia, medications, or another cause, and it requires assessment and prompt reporting. Acute confusion also prevents meaningful learning, so teaching is postponed until the cause is addressed. Teaching the son is tempting because a caregiver may be needed, but it skips the assessment of a potentially serious problem. Simplifying content treats the change as a learning issue, and reorienting alone does not find out why the client is confused.",
    "takeaway": "Acute confusion is a change in condition to assess and report, not a teaching problem to work around.",
    "hintContent": "Compare today’s mental status with yesterday’s baseline.",
    "hintStrategy": "An acute change from baseline usually takes priority over planned teaching.",
@@ -1387,7 +1416,8 @@
    "focus": "Prioritization",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-039",
@@ -1417,7 +1447,8 @@
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-040",
@@ -1447,7 +1478,8 @@
    "focus": "Nursing Interventions",
    "difficulty": 2,
    "clientNeed": "Psychosocial Integrity",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-041",
@@ -1455,19 +1487,19 @@
    "type": "mcq",
    "stem": "A 50-year-old Muslim client with type 2 diabetes plans to fast from dawn to sunset during Ramadan next month. She takes metformin twice daily and asks how to manage her medicine while fasting. Which response by the nurse is best?",
    "options": [
-    "“Fasting is not safe with diabetes, so you will need to skip fasting this year.”",
+    "“Many people with diabetes are exempt from fasting, so you could ask your imam.”",
     "“Let’s talk about your fasting plans so I can work with your provider on timing.”",
-    "“You can simply skip your medicine on the days that you are fasting.”",
-    "“Take both doses together at sunset so your routine doesn’t change.”"
+    "“Check your glucose more often while fasting, and break the fast if it is low.”",
+    "“I’ll give you a handout on managing diabetes medicines during Ramadan.”"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. This dismisses a meaningful practice and may lead her to fast without guidance.",
-    "Correct. Exploring her practice and collaborating with the provider respects autonomy and keeps her safe.",
-    "Incorrect. This is an unverified medication change the nurse should not direct.",
-    "Incorrect. Combining doses is an unverified change that requires provider review."
+    "Incorrect. Illness exemptions are real, but this redirects her away from the plan she has chosen and does not answer her question about her medicine.",
+    "Correct. Exploring her fasting schedule and collaborating with the provider on medication timing and monitoring respects her choice while keeping her safe.",
+    "Incorrect. Closer glucose monitoring is sound advice, but it is incomplete because it does not address how to adjust her metformin timing.",
+    "Incorrect. A handout can support teaching, but it is generic and skips assessing her specific fasting routine and coordinating with her provider."
    ],
-   "rationale": "Teaching must fit the client’s beliefs and real routines, and a plan that ignores religious fasting is unlikely to work. The nurse explores her fasting schedule and collaborates with the provider to adjust medication timing and monitoring, respecting her autonomy while maintaining safety. Telling her she cannot fast is tempting as a cautious response, but it dismisses a meaningful practice and may lead her to fast without guidance. Skipping or combining doses are unverified changes the nurse should not direct.",
+   "rationale": "Teaching must fit the client’s beliefs and real routines, and a plan that ignores religious fasting is unlikely to work. The nurse explores her fasting schedule and collaborates with the provider to adjust medication timing and monitoring, respecting her autonomy while maintaining safety. Pointing out that illness can exempt her from fasting is tempting because it is true, but it sidesteps the plan she has chosen. Monitoring advice alone or a generic handout does not individualize her medication plan.",
    "takeaway": "Adapt teaching to cultural and religious practices by exploring them and collaborating on a safe plan.",
    "hintContent": "Consider who adjusts medication timing and what information they need.",
    "hintStrategy": "For cultural items, choose the response that respects the practice and involves the appropriate team member.",
@@ -1477,7 +1509,8 @@
    "focus": "Lifespan & Diversity",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-042",
@@ -1640,18 +1673,18 @@
    "stem": "A 59-year-old client newly diagnosed with type 2 diabetes has correctly checked their glucose three times using the hospital’s meter. Discharge is tomorrow, and the client mentions that a relative bought a different brand of meter for home use. What should the nurse do first?",
    "options": [
     "Document that glucose monitoring is mastered after three correct checks.",
-    "Give the client a written guide to the hospital meter for reference.",
-    "Tell the client that all meters work the same way once the steps are learned.",
+    "Have the client read the home meter’s instructions before discharge.",
+    "Have a home health nurse check the client’s technique after discharge.",
     "Ask that the home meter be brought in and observe the client using it."
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. The evidence is tied to a different device than the one used at home.",
-    "Incorrect. A guide to a different meter does not address the home device.",
-    "Incorrect. Meters differ in strips, sample size, and displays, so this is inaccurate.",
-    "Correct. Verifying the skill with the actual home device confirms usable learning."
+    "Incorrect. Three correct checks are good evidence on the hospital meter, but the skill has not been verified on the different device the client will use at home.",
+    "Incorrect. Reviewing the manufacturer’s instructions is helpful, but reading does not verify that the client can actually perform the skill with that meter.",
+    "Incorrect. Home health follow-up is a reasonable backup, but it delays verification until after the client is already testing alone at home.",
+    "Correct. Observing the client use the actual home meter before discharge verifies the psychomotor skill with the equipment that will be used."
    ],
-   "rationale": "Teaching with the equipment the client will actually use at home is the most reliable way to verify a psychomotor skill. Meters vary in strip insertion, sample size, and display, so success on the hospital meter does not guarantee success at home. Documenting mastery is tempting because the client performed well three times, but the evidence is tied to a different device. A guide to the hospital meter or reassurance that all meters are the same leaves the actual gap unaddressed.",
+   "rationale": "Teaching with the equipment the client will actually use at home is the most reliable way to verify a psychomotor skill. Meters vary in strip insertion, sample size, and display, so success on the hospital meter does not guarantee success at home. Documenting mastery is tempting because the client performed well three times, but the evidence is tied to a different device. Reading the home meter’s instructions does not verify skill, and waiting for a home health visit delays verification until the client is on their own.",
    "takeaway": "Verify skills with the same equipment the client will use at home.",
    "hintContent": "Consider whether success on one device proves success on another.",
    "hintStrategy": "Prefer the option that verifies learning under the conditions the client will actually face.",
@@ -1663,7 +1696,8 @@
    "focus": "Nursing Interventions",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-047",
@@ -1768,7 +1802,8 @@
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-050",
@@ -1779,16 +1814,16 @@
     "Have the father perform all diabetes care until the child is a teenager.",
     "Make the child fully responsible for both insulin dosing and glucose checks.",
     "Teach the child to check glucose while the father oversees insulin dosing.",
-    "Teach the child only about diet, since the skills are too complex at this age."
+    "Have the child watch the father do all glucose checks until discharge."
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. This underestimates what a school-age child can learn and do.",
-    "Incorrect. Full independence with dosing exceeds typical developmental ability at this age.",
-    "Correct. Sharing concrete tasks builds competence while an adult oversees high-risk decisions.",
-    "Incorrect. School-age children can master concrete skills such as glucose checks."
+    "Incorrect. Keeping an adult in charge is safe, but it underestimates a school-age child and misses the chance to build competence and pride.",
+    "Incorrect. A 10-year-old can learn some skills, but full responsibility for dose decisions exceeds typical developmental ability and needs adult oversight.",
+    "Correct. School-age children can master concrete skills such as glucose checks, while insulin dose decisions stay with an adult. Sharing tasks builds competence safely.",
+    "Incorrect. Observation is a reasonable first step, but school-age children learn best by doing, and watching alone does not build or verify the child’s skill."
    ],
-   "rationale": "School-age children can master concrete skills such as glucose checks and take pride in doing them, while dose decisions still need adult oversight. Sharing tasks builds the child’s competence and keeps care safe, and both learners need their own practice and evaluation. Making the child fully responsible is tempting because the child can learn some skills, but full independence with dosing exceeds typical developmental ability. Excluding the child from skills, or limiting teaching to diet, underestimates what a 10-year-old can learn.",
+   "rationale": "School-age children can master concrete skills such as glucose checks and take pride in doing them, while dose decisions still need adult oversight. Sharing tasks builds the child’s competence and keeps care safe, and both learners need their own practice and evaluation. Making the child fully responsible is tempting because the child can learn some skills, but full independence with dosing exceeds typical developmental ability. Leaving all care to the father, or having the child only watch, underestimates what a 10-year-old can learn by doing.",
    "takeaway": "Match responsibilities to the child’s developmental ability while keeping caregiver oversight of high-risk decisions.",
    "hintContent": "Consider which tasks a school-age child can safely do and which still need an adult.",
    "hintStrategy": "Avoid extremes: options giving the child all or none of the responsibility are usually wrong.",
@@ -1798,7 +1833,8 @@
    "focus": "Lifespan & Diversity",
    "difficulty": 3,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-051",
@@ -1859,7 +1895,8 @@
       }
      }
     ]
-   }
+   },
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-052",
@@ -1959,7 +1996,8 @@
    "focus": "Prioritization",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-055",
@@ -1969,17 +2007,17 @@
    "options": [
     "“Information from a drug company is advertising, so none of it is accurate.”",
     "“Since the company sells it, let’s compare its claims with independent sources.”",
-    "“The manufacturer knows its product best, so this site is the most reliable.”",
-    "“Look at how many reviews the drug has, since that shows how well it works.”"
+    "“Drug company sites are FDA-regulated, so the claims there can be trusted.”",
+    "“Ask your rheumatologist about this drug at your next appointment.”"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Sponsorship is a reason for scrutiny, not proof that every statement is false.",
-    "Correct. Commercial purpose calls for closer scrutiny, not automatic acceptance or rejection.",
-    "Incorrect. This ignores the site’s purpose and potential conflict of interest.",
-    "Incorrect. Popularity and reviews do not establish effectiveness."
+    "Incorrect. Recognizing commercial bias is appropriate, but dismissing everything goes too far, since manufacturer sites often contain accurate prescribing details.",
+    "Correct. Sponsorship is a reason to check claims, not to accept or reject them outright. Comparing with independent, evidence-based sources teaches the client to appraise information.",
+    "Incorrect. Drug promotion is regulated, but regulation does not remove the site’s sales purpose, so its emphasis and framing still need independent checking.",
+    "Incorrect. Involving the prescriber is reasonable, but it defers the question and misses the chance to teach the client how to evaluate a sponsored source."
    ],
-   "rationale": "Commercial sponsorship is a reason to examine claims carefully because the site’s purpose may include promoting sales, but it is not proof that every statement is false. The nurse helps the client compare the information with independent, evidence-based sources and with the prescriber’s guidance. Dismissing all company information is tempting because conflicts of interest are real, yet manufacturer sites often include accurate prescribing details. Trusting the manufacturer completely or relying on user reviews ignores purpose and evidence.",
+   "rationale": "Commercial sponsorship is a reason to examine claims carefully because the site’s purpose may include promoting sales, but it is not proof that every statement is false. The nurse helps the client compare the information with independent, evidence-based sources and with the prescriber’s guidance. Dismissing all company information is tempting because conflicts of interest are real, yet manufacturer sites often include accurate prescribing details. Trusting the site because promotion is regulated ignores its purpose, and simply deferring to the next appointment skips teaching the client to appraise sources.",
    "takeaway": "A conflict of interest calls for closer scrutiny of claims, not automatic rejection or acceptance.",
    "hintContent": "Consider what a site’s purpose means for how its claims should be read.",
    "hintStrategy": "Eliminate absolute answers (“none of it,” “most reliable”) and choose the balanced, evidence-seeking response.",
@@ -1989,7 +2027,8 @@
    "focus": "Client Teaching",
    "difficulty": 3,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-056",
@@ -2036,18 +2075,18 @@
    "stem": "The father of a 6-year-old receiving chemotherapy for leukemia tells the nurse he found a family’s blog describing a cure with high-dose vitamin C and wants to stop chemotherapy. What should the nurse do first?",
    "options": [
     "Explain that personal blogs are not trustworthy sources of medical information.",
-    "Report the father’s plan to child protective services as medical neglect.",
+    "Notify the oncologist that the father plans to stop chemotherapy.",
     "Ask what he read and what appeals to him about this approach.",
     "Give him a list of reliable cancer websites to read instead of the blog."
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. A dismissive response may make him less likely to share future concerns.",
-    "Incorrect. Reporting is premature before the concern has been explored with the team.",
-    "Correct. Nonjudgmental exploration reveals his fears and hopes and keeps him disclosing.",
-    "Incorrect. A list does not address the decision he is considering."
+    "Incorrect. A single family’s story is weak evidence, but dismissing the source first may make him defensive and less likely to share future concerns.",
+    "Incorrect. The oncologist does need to know, but chemotherapy has not been stopped yet, so the nurse first explores his concern to give the team useful information.",
+    "Correct. A nonjudgmental question reveals his fears and hopes and keeps him talking, so the oncology team can address the real concern together.",
+    "Incorrect. Reliable websites are a useful resource, but handing over a list does not explore why he wants to stop treatment or address his decision."
    ],
-   "rationale": "Exploring what the parent read and why it appeals to him opens a nonjudgmental conversation, reveals his fears and hopes, and keeps him disclosing so the oncology team can address the concern together. A single family’s story can offer emotional support but cannot establish that a treatment works for other children. Telling him blogs are untrustworthy is tempting because it is partly true, but a dismissive response may make him less likely to share future concerns. Reporting is premature before the concern has been explored with the team, and a website list does not address his decision.",
+   "rationale": "Exploring what the parent read and why it appeals to him opens a nonjudgmental conversation, reveals his fears and hopes, and keeps him disclosing so the oncology team can address the concern together. A single family’s story can offer emotional support but cannot establish that a treatment works for other children. Telling him blogs are untrustworthy is tempting because it is partly true, but a dismissive response may make him less likely to share future concerns. Notifying the oncologist should follow promptly, but exploring first gives the team the information it needs, and a website list does not address his decision.",
    "takeaway": "Explore a caregiver’s interest in online claims without shaming, then involve the care team.",
    "hintContent": "Think about what is driving a parent toward an unproven cure.",
    "hintStrategy": "For “first” items about a concerning plan, explore the person’s reasoning before correcting, referring, or reporting.",
@@ -2057,7 +2096,8 @@
    "focus": "Client Teaching",
    "difficulty": 3,
    "clientNeed": "Psychosocial Integrity",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-058",
@@ -2087,7 +2127,8 @@
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-059",
@@ -2163,7 +2204,8 @@
       }
      }
     ]
-   }
+   },
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-060",
@@ -2172,18 +2214,18 @@
    "stem": "The parent of a 7-year-old with autism spectrum disorder says changes in routine upset the child. The child now needs a daily liquid medication at home. Which approach should the nurse suggest?",
    "options": [
     "Explain to the child in detail why the medicine is needed before each dose.",
-    "Mix the dose into a different food each day so the child does not notice it.",
-    "Start teaching the routine during the busy hospital discharge process.",
+    "Give a small reward after each dose, at whatever time is most convenient.",
+    "Demonstrate the steps once with a doll before the first dose at home.",
     "Use a picture schedule of each step and give the dose at the same time and place."
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Lengthy abstract explanations may be hard for the child to process.",
-    "Incorrect. Changing foods daily adds unpredictability and may cause incomplete doses.",
-    "Incorrect. A hectic setting adds stress and unpredictability.",
-    "Correct. Concrete visual supports and a predictable routine fit the child’s developmental and sensory needs."
+    "Incorrect. Explaining is respectful, but detailed abstract language may be hard for this child to process and does not build a predictable routine.",
+    "Incorrect. Positive reinforcement can help, but changing the time of each dose removes the predictability this child needs.",
+    "Incorrect. A concrete demonstration is a good start, but a single session does not provide the ongoing visual structure and consistent routine that reduce distress.",
+    "Correct. Concrete visual supports and a consistent time and place make the dose a predictable part of the day, matching this child’s need for routine."
    ],
-   "rationale": "Teaching should match the child’s developmental and sensory needs. Many children with autism respond well to predictable routines and concrete visual supports, so a picture schedule and a consistent time and place make the medication a familiar part of the day. A detailed verbal explanation is tempting because it seems thorough, but abstract language may be hard to process. Varying the food each day or teaching during a hectic discharge adds unpredictability that can increase distress.",
+   "rationale": "Teaching should match the child’s developmental and sensory needs. Many children with autism respond well to predictable routines and concrete visual supports, so a picture schedule and a consistent time and place make the medication a familiar part of the day. A detailed verbal explanation is tempting because it seems thorough, but abstract language may be hard to process. A reward given at varying times, or a single doll demonstration, helps somewhat but lacks the ongoing consistency that reduces distress.",
    "takeaway": "Adapt teaching for children with developmental differences using concrete, predictable, visual supports.",
    "hintContent": "Use the parent’s cue about how the child responds to change.",
    "hintStrategy": "For developmental-adaptation items, choose the option that fits the specific need described in the stem.",
@@ -2193,7 +2235,8 @@
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-061",
@@ -2261,7 +2304,8 @@
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
    "clientNeed": "Psychosocial Integrity",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-063",
@@ -2271,17 +2315,17 @@
    "options": [
     "Reassure her that she will feel confident once she has practiced more.",
     "Acknowledge her fear and ask what support she would need to feel safe.",
-    "Tell her that he cannot go home unless she learns how to suction.",
+    "Suggest she take a short break and then try the suctioning again.",
     "Arrange to teach the client’s son instead, since he seems less anxious."
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Reassurance dismisses her concern without assessing it.",
-    "Correct. Assessing emotional readiness and support needs guides the rest of the plan.",
-    "Incorrect. Pressure ignores her readiness and may increase fear.",
-    "Incorrect. Switching caregivers without exploring the problem bypasses her role."
+    "Incorrect. Reassurance sounds supportive, but it dismisses her fear without assessing what is behind it.",
+    "Correct. Acknowledging her feelings and asking about support assesses whether she needs more practice, respite, home health help, or another trained caregiver.",
+    "Incorrect. A break addresses her fatigue, but it does not explore her fear or whether she can realistically be the caregiver at home.",
+    "Incorrect. Another caregiver may be needed eventually, but switching before exploring her concerns ignores her role and the home plan."
    ],
-   "rationale": "Caregiver readiness includes willingness, emotional capacity, ability, and resources, and this wife is signaling both exhaustion and fear. Acknowledging her feelings and asking what support she needs reveals whether she needs more practice, respite, home health nursing, or another trained caregiver. Reassurance is tempting because it sounds supportive, but it dismisses her concern without assessing it. Pressuring her with discharge consequences or switching caregivers without exploring the problem ignores her role and the home plan.",
+   "rationale": "Caregiver readiness includes willingness, emotional capacity, ability, and resources, and this wife is signaling both exhaustion and fear. Acknowledging her feelings and asking what support she needs reveals whether she needs more practice, respite, home health nursing, or another trained caregiver. Reassurance is tempting because it sounds supportive, but it dismisses her concern without assessing it. A short break treats only her fatigue, and switching caregivers without exploring the problem ignores her role and the home plan.",
    "takeaway": "Assess a caregiver’s emotional readiness and support needs before pressing on with skill teaching.",
    "hintContent": "Identify the two concerns she expresses.",
    "hintStrategy": "For caregiver-distress items, choose the response that acknowledges feelings and assesses needs before acting.",
@@ -2291,7 +2335,8 @@
    "focus": "Nursing Interventions",
    "difficulty": 2,
    "clientNeed": "Psychosocial Integrity",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-064",
@@ -2337,19 +2382,19 @@
    "type": "mcq",
    "stem": "Parents of a 6-month-old were taught to give a prescribed liquid antibiotic at home. Which observation best indicates the teaching was effective?",
    "options": [
-    "The father says they will use a kitchen teaspoon since they have one at home.",
+    "The father correctly states the dose in mL and the times to give it.",
     "Both parents nod and say they understand how much medicine to give the baby.",
     "The mother draws up the prescribed mL in an oral syringe and shows the dose line.",
-    "The mother says she will add each dose to a full bottle of formula for the baby."
+    "The mother says she will use the oral syringe that came with the medicine."
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Household spoons vary in size and can cause dosing errors.",
-    "Incorrect. Nodding and stating understanding do not show accurate measurement.",
-    "Correct. An accurate, observed measurement with the correct device is direct evidence of learning.",
-    "Incorrect. If the infant does not finish the bottle, the full dose is not received."
+    "Incorrect. Accurate recall of dose and timing is good evidence of knowledge, but it does not show that he can measure the dose correctly.",
+    "Incorrect. Stating understanding is a start, but nodding is not measurable evidence that either parent can give the correct dose.",
+    "Correct. An accurate return demonstration with the actual oral syringe is the best evidence that a caregiver can measure a liquid dose safely.",
+    "Incorrect. Choosing the oral syringe is the right plan, but an intention is not a demonstration that she can draw up the correct amount."
    ],
-   "rationale": "Evidence of learning for a medication skill is an observed, accurate demonstration with the device the family will use. Drawing up the exact volume in an oral syringe and identifying the correct mark shows the mother can measure the dose safely. Household teaspoons vary in size and can cause dosing errors, and mixing the dose into a full bottle risks an incomplete dose if the infant does not finish. Nodding and stating understanding is tempting to accept, but it does not show that either parent can measure correctly.",
+   "rationale": "Evidence of learning for a medication skill is an observed, accurate demonstration with the device the family will use. Drawing up the exact volume in an oral syringe and identifying the correct mark shows the mother can measure the dose safely. Stating the correct dose or planning to use the oral syringe shows knowledge, but not skill. Nodding and stating understanding is tempting to accept, but it does not show that either parent can measure correctly.",
    "takeaway": "For pediatric liquid medications, verify accurate measurement with an oral syringe by demonstration.",
    "hintContent": "Look for the option that shows, rather than states, accurate dosing.",
    "hintStrategy": "For evaluate-outcome items, choose observed performance over verbal agreement.",
@@ -2359,7 +2404,8 @@
    "focus": "Pharmacology",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-066",
@@ -2391,7 +2437,8 @@
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-067",
@@ -2423,7 +2470,8 @@
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-068",
@@ -2431,19 +2479,19 @@
    "type": "mcq",
    "stem": "A 27-year-old client at 28 weeks’ gestation tells the nurse she will refuse the Tdap vaccine because a video she watched online said vaccines during pregnancy harm the baby. What should the nurse do first?",
    "options": [
-    "Tell her the video is misinformation and that the vaccine is required.",
+    "Explain that Tdap is recommended in each pregnancy to protect the newborn.",
     "Document that she declined the vaccine after receiving information.",
     "Give her the vaccine information sheet and ask her to reconsider.",
     "Ask her what the video said and what concerns her most."
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. This is shaming and inaccurate; the vaccine is recommended, not required.",
-    "Incorrect. Her concern has not yet been explored, so the decision is not yet informed.",
-    "Incorrect. A handout skips the conversation she needs.",
-    "Correct. Understanding her specific concern guides what information will be meaningful to her."
+    "Incorrect. This is accurate and will be shared, but correcting her before understanding her specific concern may make her defensive.",
+    "Incorrect. Documenting an informed refusal is required if she declines, but it is premature before her concern has been explored.",
+    "Incorrect. The information sheet is a reliable resource, but handing it over skips the conversation that shows which information matters to her.",
+    "Correct. Exploring what she watched and what worries her comes first, because her specific concern guides which evidence will be meaningful to her."
    ],
-   "rationale": "Respectful exploration of what the client watched comes before correcting it, because her specific concern guides which information and evidence will be meaningful to her. The Tdap vaccine is recommended during each pregnancy, ideally between 27 and 36 weeks, to help protect the newborn from pertussis, and the nurse can share that evidence once the concern is understood. Calling the video misinformation is tempting because it is inaccurate, but shaming the source may make her defensive and less likely to disclose future concerns. Documenting a refusal or handing over a sheet skips the conversation she needs.",
+   "rationale": "Respectful exploration of what the client watched comes before correcting it, because her specific concern guides which information and evidence will be meaningful to her. The Tdap vaccine is recommended during each pregnancy, ideally between 27 and 36 weeks, to help protect the newborn from pertussis, and the nurse can share that evidence once the concern is understood. Stating the recommendation right away is tempting because it is accurate, but correcting her before listening may make her defensive and less likely to disclose future concerns. Documenting a refusal or handing over a sheet skips the conversation she needs.",
    "takeaway": "Explore a client’s concerns about online health claims before correcting them, while respecting autonomy.",
    "hintContent": "Think about what you need to know before you can address her concern.",
    "hintStrategy": "For “first” items about a client’s decision, assess the client’s understanding before giving information or documenting.",
@@ -2453,7 +2501,8 @@
    "focus": "Client Teaching",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m41-x1-069",
@@ -2596,7 +2645,8 @@
    "focus": "Lifespan & Diversity",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   }
  ]
 }

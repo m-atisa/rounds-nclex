@@ -10,14 +10,14 @@
    "stem": "At 0300, a nurse on a medical unit is asked by a colleague to co-sign the waste of hydromorphone 1 mg that the nurse did not witness. Earlier, the colleague appeared drowsy with pinpoint pupils, and two of her clients reported unrelieved pain despite charted doses. Which action should the nurse take first?",
    "options": [
     "Decline to co-sign and notify the charge nurse of the concerns right away.",
-    "Co-sign this once and watch the colleague closely for the rest of the shift.",
+    "Decline to co-sign and ask the colleague to find another witness.",
     "Talk with the colleague privately at the end of the shift about her behavior.",
     "Review the colleague’s charted opioid doses for the past week before acting."
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. Signing for an unwitnessed waste would falsify a legal record, and the cues of impairment require immediate reporting through the chain of command.",
-    "Incorrect. Co-signing falsifies the record, and watching does nothing to protect clients from a possibly impaired nurse.",
+    "Incorrect. Refusing to co-sign protects the nurse’s own integrity, but it is incomplete: it leaves clients in the care of a possibly impaired, possibly diverting nurse.",
     "Incorrect. Waiting hours leaves clients in the care of a possibly impaired nurse and delays reporting suspected diversion.",
     "Incorrect. Investigating alone delays reporting; record audits belong to the supervisor and pharmacy after a report is made."
    ],
@@ -33,7 +33,8 @@
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-002",
@@ -43,15 +44,15 @@
    "options": [
     "Report the assistant’s comment to the nurse manager at the end of the shift.",
     "Step in now to stop the remarks, then speak with the assistant privately.",
-    "Document the assistant’s comment in the client’s medical record.",
-    "Ask the client later whether the comment upset him."
+    "Complete an incident report describing the assistant’s comment.",
+    "Go to the client first and ask whether the comment upset him."
    ],
    "answer": 1,
    "optionRationales": [
     "Incorrect. Reporting is appropriate later, but waiting allows the disrespect to continue in front of the client.",
     "Correct. Stopping the behavior immediately protects the client’s dignity, and correcting the assistant away from clients is professional.",
-    "Incorrect. The client record is not the place for staff conduct, and charting does not stop the behavior.",
-    "Incorrect. Checking on the client is kind, but the first duty is to stop the ongoing violation of his dignity."
+    "Incorrect. An incident report may be required by policy, but writing it now does not stop the remarks still happening in front of the client.",
+    "Incorrect. Checking on the client is kind and should follow, but the first duty is to stop the ongoing violation of his dignity."
    ],
    "priority": true,
    "rationale": "Human dignity, reflected in ANA Code Provision 1, means respect for the worth of every person without prejudice, including clients with mental illness. When the nurse witnesses a violation that is happening now, the first step is to stop it, then redirect the assistant privately rather than in front of clients. Reporting to the manager later is tempting because it uses the chain of command, but it leaves the client exposed to ridicule in the meantime. After intervening, the nurse reports per policy and checks on the client.",
@@ -63,7 +64,8 @@
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-003",
@@ -72,14 +74,14 @@
    "stem": "A nurse whose religious beliefs prohibit blood transfusion is caring for a client with an upper GI bleed. The client’s blood pressure falls to 78/42 mm Hg and heart rate rises to 128/min. The provider prescribes 2 units of emergency-release packed red blood cells, the client consents, and no other nurse can take over for at least 20 minutes. Which action should the nurse take first?",
    "options": [
     "Tell the charge nurse she cannot hang blood and wait for a replacement nurse.",
-    "Explain her religious objection to the client so the client understands the delay.",
+    "Recheck the vital signs every 5 minutes until a replacement nurse arrives.",
     "Begin the transfusion as prescribed after completing the required safety checks.",
     "Increase the normal saline rate and hold the blood until another nurse arrives."
    ],
    "answer": 2,
    "optionRationales": [
     "Incorrect. Asking for reassignment is appropriate for scheduled care, but a 20-minute delay in hemorrhagic shock threatens the client’s life.",
-    "Incorrect. This burdens the client with the nurse’s values and still delays life-saving treatment.",
+    "Incorrect. Close monitoring is appropriate in shock, but the hypotension and tachycardia are already clear, and more assessment delays life-saving blood.",
     "Correct. Conscientious objection never applies in an emergency; the nurse gives life-saving care and addresses reassignment afterward.",
     "Incorrect. Crystalloid does not restore oxygen-carrying capacity, and holding blood in active hemorrhage endangers the client."
    ],
@@ -93,7 +95,8 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-004",
@@ -103,14 +106,14 @@
    "options": [
     "Leave a detailed written report at the station for the oncoming nurse to read.",
     "Ask the nursing assistant to check on the clients until the oncoming nurse arrives.",
-    "Leave at 0730 because the scheduled shift has ended and staffing is the hospital’s duty.",
+    "Give report on the heparin client to the charge nurse, then leave.",
     "Notify the charge nurse and stay until care is handed off to a qualified nurse."
    ],
    "answer": 3,
    "optionRationales": [
     "Incorrect. A written note is not a handoff; no qualified nurse has accepted responsibility for the clients.",
     "Incorrect. Assistants cannot assume RN responsibilities such as monitoring a heparin infusion and assessing clients.",
-    "Incorrect. Leaving accepted clients without a handoff to a qualified nurse is client abandonment.",
+    "Incorrect. Handing off the highest-risk client is a good start, but it is incomplete; the three other clients are left without a handoff to a qualified nurse.",
     "Correct. The charge nurse can arrange coverage, and the nurse remains responsible for her clients until report is given."
    ],
    "priority": true,
@@ -123,7 +126,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-005",
@@ -155,7 +159,8 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-006",
@@ -165,14 +170,14 @@
    "options": [
     "Ask the client what he believes about healing and what he knows about cellulitis.",
     "Explain that untreated cellulitis can spread to the blood and become life-threatening.",
-    "Ask the chaplain to visit and convince the client to accept the antibiotic.",
+    "Ask the client whether he would like a visit from the chaplain.",
     "Have the client sign a refusal form and notify the provider of the refusal."
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. Exploring the belief and the client’s understanding comes first and may reveal common ground, such as prayer alongside treatment.",
     "Incorrect. Accurate information is needed, but leading with warnings before understanding the belief feels like pressure.",
-    "Incorrect. Using a chaplain to persuade is pressure; a chaplain may support the client but not to change his mind for the team.",
+    "Incorrect. Offering spiritual support is respectful and may help later, but the nurse should first learn what the client believes and understands herself.",
     "Incorrect. This skips exploring the reason and ensuring an informed choice; the refusal process begins with understanding why."
    ],
    "priority": true,
@@ -187,7 +192,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-007",
@@ -258,15 +264,15 @@
    },
    "options": [
     "Report the documentation pattern to the nurse manager as possible diversion.",
-    "Call the night nurse at home and ask why the doses did not work.",
-    "Tell the client the charted doses should be controlling the pain.",
+    "Notify the provider that the client’s pain is not being controlled.",
+    "Give the next PRN dose of hydromorphone as soon as it is due.",
     "Perform a full pain assessment and recheck the client’s vital signs."
    ],
    "answer": 3,
    "optionRationales": [
     "Incorrect. The pattern must be reported, but the client in uncontrolled pain needs care first.",
-    "Incorrect. Confronting or investigating a colleague alone is inappropriate and does not help the client.",
-    "Incorrect. Trusting the chart over the client’s report dismisses his pain and violates his dignity.",
+    "Incorrect. The provider will need to be called, but the nurse first assesses the pain and vital signs so the report includes current data.",
+    "Incorrect. Treating pain matters, but the dose is not yet due, and repeating a drug that has not worked without first assessing why is unsafe.",
     "Correct. The client’s report, tachycardia, and hypertension conflict with the documented relief; assessing him comes first and guides treatment."
    ],
    "priority": true,
@@ -281,7 +287,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Assessment Findings",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-008",
@@ -311,7 +318,8 @@
    "cjmm": "Take Action",
    "focus": "Prioritization",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-009",
@@ -343,7 +351,8 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Pharmacology",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies"
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-010",
@@ -351,20 +360,20 @@
    "type": "mcq",
    "stem": "In the preoperative holding area, a circulating nurse notices that the surgeon scheduled to perform a client’s hernia repair in 15 minutes smells strongly of alcohol and is slurring his words. Which action should the nurse take first?",
    "options": [
-    "Complete an event report after the procedure is finished.",
-    "Ask the surgeon, in front of the surgical team, whether he has been drinking today.",
-    "Proceed with the case and watch the surgeon closely for errors.",
+    "Complete an event report now describing the surgeon’s behavior.",
+    "Ask the surgeon privately whether he feels well enough to operate.",
+    "Report the surgeon’s condition to the medical board after the shift.",
     "Notify the perioperative charge nurse before the procedure begins."
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Reporting after surgery fails to prevent the harm the nurse can foresee now.",
-    "Incorrect. A public confrontation can escalate and does not ensure that the case is stopped.",
-    "Incorrect. Knowingly allowing an impaired surgeon to operate places the client at serious risk.",
+    "Incorrect. An event report is appropriate, but filing it does not stop the case that starts in 15 minutes.",
+    "Incorrect. A private, respectful approach is reasonable for minor concerns, but an impaired surgeon cannot judge his own fitness and the case may still go ahead.",
+    "Incorrect. External reporting may be needed later, but it comes after the client is protected and does nothing to stop this operation.",
     "Correct. The chain of command has the authority to delay the case and protect the client."
    ],
    "priority": true,
-   "rationale": "The nurse’s duty to protect clients from an impaired colleague applies to every member of the team, including physicians. Slurred speech and a strong odor of alcohol 15 minutes before incision require immediate escalation to the perioperative charge nurse or supervisor, who can stop or reassign the case. Confronting the surgeon is tempting because it seems direct and honest, but it may provoke conflict without preventing the operation. Filing a report afterward is too late because the risk is foreseeable now.",
+   "rationale": "The nurse’s duty to protect clients from an impaired colleague applies to every member of the team, including physicians. Slurred speech and a strong odor of alcohol 15 minutes before incision require immediate escalation to the perioperative charge nurse or supervisor, who can stop or reassign the case. Asking the surgeon privately is tempting because it seems direct and respectful, but an impaired person cannot judge his own fitness, and the operation may still proceed. Event reports and reports to the medical board are appropriate follow-up, but they come after the client is protected.",
    "takeaway": "An impaired colleague, including a surgeon, is reported up the chain of command before the client is exposed to harm.",
    "hintContent": "Consider who has the authority to stop the case and how much time remains.",
    "hintStrategy": "When safety is threatened by any team member, choose the chain-of-command action that prevents harm, not one that confronts or documents afterward.",
@@ -373,7 +382,8 @@
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-011",
@@ -384,14 +394,14 @@
     "Ask another qualified nurse, even the charge nurse, to do the check first.",
     "Hold the heparin until the next shift, when more staff will be available.",
     "Start the infusion and have a colleague verify the pump settings when free.",
-    "Start the infusion, because the charge nurse has authority over unit workflow."
+    "Notify the nurse manager of the request and wait for direction."
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. Safety standards for high-alert medications are not optional on a busy shift; any qualified nurse, including the charge nurse, can perform the check.",
     "Incorrect. Delaying a prescribed anticoagulant for hours creates a different risk of harm to the client.",
     "Incorrect. A check after the infusion is running cannot prevent a dosing error that has already begun.",
-    "Incorrect. No one can waive a safety standard; the nurse remains accountable for her own practice."
+    "Incorrect. Reporting an unsafe instruction is appropriate, but escalating before simply asking another nurse for the check delays a prescribed infusion."
    ],
    "priority": true,
    "rationale": "A code of ethics and the safety standards that flow from it cannot be bargained away on a short-staffed shift. ANA Code Provisions 3 and 6 call the nurse to protect client safety and to speak up about unsafe shortcuts, and the nurse is accountable for her own actions regardless of who suggests the shortcut. The best action is to get the required check, asking the charge nurse herself if necessary. Holding the heparin is tempting because it avoids the shortcut, but delaying a prescribed anticoagulant exposes the client to clotting risk.",
@@ -405,7 +415,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Pharmacology",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-012",
@@ -444,19 +455,19 @@
    "stem": "A newly licensed nurse tells the charge nurse, “I won’t teach that 16-year-old about condoms before discharge. Abstinence is the only moral choice, and I’m not going to encourage sex.” Which response by the charge nurse is most appropriate?",
    "options": [
     "“Set your beliefs aside and teach it today, or I will have to write you up for refusing.”",
-    "“Teach abstinence first, and mention condoms only if she asks you about them directly.”",
-    "“That’s fine; skip the condom teaching and just give her a pamphlet about abstinence instead.”",
+    "“I understand your values. Let’s talk more about them after the shift ends.”",
+    "“I’ll give her a written handout on condoms so you don’t have to teach it.”",
     "“Your beliefs are yours, but she has a right to this teaching. If you can’t, tell me now.”"
    ],
    "answer": 3,
    "optionRationales": [
     "Incorrect. Threats do not address a values conflict and ignore the option of a safe, timely handoff.",
-    "Incorrect. Making the client ask for essential information still lets the nurse’s values limit her care.",
-    "Incorrect. This lets the nurse’s private morals deny the client information she has a right to receive.",
+    "Incorrect. Acknowledging the nurse’s values is supportive, but postponing the talk leaves the teaching undone before discharge.",
+    "Incorrect. A handout gives some information, but written material alone is incomplete teaching and does not check the client’s understanding.",
     "Correct. It affirms the client’s right to information and allows a timely handoff to another nurse."
    ],
    "priority": false,
-   "rationale": "Private morals belong to the nurse, but professional ethics govern care, and a client’s right to accurate information cannot be lowered by a nurse’s beliefs. If a nurse truly cannot provide specific teaching, she tells the charge nurse promptly so another nurse can do it without delay or shaming. Threatening discipline is tempting because it enforces the standard, but it ignores the legitimate route of a safe handoff and does not resolve the conflict. Watering down the teaching or substituting the nurse’s preferred message still imposes her values on the client.",
+   "rationale": "Private morals belong to the nurse, but professional ethics govern care, and a client’s right to accurate information cannot be lowered by a nurse’s beliefs. If a nurse truly cannot provide specific teaching, she tells the charge nurse promptly so another nurse can do it without delay or shaming. Threatening discipline is tempting because it enforces the standard, but it ignores the legitimate route of a safe handoff and does not resolve the conflict. Postponing the conversation or substituting a handout leaves the client without complete teaching before discharge.",
    "takeaway": "A nurse’s private morals may lead to a handoff, never to a client receiving less information or care.",
    "hintContent": "Decide whose values should drive the content of discharge teaching.",
    "hintStrategy": "Eliminate responses that impose the nurse’s values or that rely on threats; keep the one that protects the client and offers a legitimate path.",
@@ -465,7 +476,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-014",
@@ -476,17 +488,17 @@
     "Accept the shift, because her primary commitment is to the clients on the unit.",
     "Accept the shift but ask to be assigned clients who are stable.",
     "Decline the shift and explain that she is too fatigued to practice safely.",
-    "Accept the shift and plan to use caffeine to stay alert through the night."
+    "Offer to work a shorter 4-hour shift until relief can be found."
    ],
    "answer": 2,
    "optionRationales": [
     "Incorrect. An exhausted nurse who nearly made an error is a risk to those same clients.",
     "Incorrect. Fatigue impairs judgment with any client, and stable clients can deteriorate.",
     "Correct. The Code gives nurses the same duties to themselves as to others, including protecting their own health and safety.",
-    "Incorrect. Caffeine does not restore the judgment lost to sleep deprivation."
+    "Incorrect. A shorter shift is a generous compromise, but fatigue that already caused a near miss makes any added hours unsafe."
    ],
    "priority": false,
-   "rationale": "ANA Code Provision 5 states that nurses owe the same duties to themselves as to others, including preserving their own health and safety, and refusing work when fatigue makes practice unsafe fulfills that duty. Accepting because ‘my primary commitment is to the patient’ is the tempting answer because Provision 2 is real, but a nurse who already nearly gave a wrong dose would endanger the clients she wants to protect. Asking for stable clients or relying on caffeine does not fix impaired judgment. Declining honestly also allows the manager to find a safe alternative.",
+   "rationale": "ANA Code Provision 5 states that nurses owe the same duties to themselves as to others, including preserving their own health and safety, and refusing work when fatigue makes practice unsafe fulfills that duty. Accepting because ‘my primary commitment is to the patient’ is the tempting answer because Provision 2 is real, but a nurse who already nearly gave a wrong dose would endanger the clients she wants to protect. Asking for stable clients or offering a shorter shift does not fix impaired judgment. Declining honestly also allows the manager to find a safe alternative.",
    "takeaway": "Refusing a shift you are too fatigued to work safely honors the Code’s duty to self and protects clients.",
    "hintContent": "Ask which choice actually protects clients, given what happened at 0500.",
    "hintStrategy": "When a stem quotes a near miss, treat it as evidence of impaired safety; eliminate options that only appear dedicated.",
@@ -495,7 +507,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-015",
@@ -525,7 +538,8 @@
    "cjmm": "Recognize Cues",
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-016",
@@ -555,7 +569,8 @@
    "cjmm": "Evaluate Outcomes",
    "focus": "Client Teaching",
    "difficulty": 2,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-017",
@@ -566,17 +581,17 @@
     "“What other ways have you thought about handling this decision?”",
     "“What do you think would happen if you stopped treatment?”",
     "“How will you share this decision with your family?”",
-    "“Stopping now would be a mistake while it is working.”"
+    "“What matters most to you as you think about this?”"
    ],
    "answer": 1,
    "optionRationales": [
     "Incorrect. This lists alternatives, the first step, rather than examining consequences.",
     "Correct. This open question invites the client to consider the likely results of the choice.",
     "Incorrect. This affirms a choice that the client has not yet made.",
-    "Incorrect. This steers the client with the nurse’s judgment instead of supporting his reasoning."
+    "Incorrect. This is a good values-clarification question, but it explores what the client prizes rather than the consequences of stopping treatment."
    ],
    "priority": false,
-   "rationale": "Values clarification uses open questions that help a client reason without being steered. Examining consequences asks the client to think through what would happen with each option, so asking what he expects if he stops treatment fits this step. Asking about other ways to handle the situation is the most tempting distractor because it is also a values-clarification question, but it belongs to listing alternatives. Telling him that stopping would be a mistake imposes the nurse’s values on a decision that belongs to the client.",
+   "rationale": "Values clarification uses open questions that help a client reason without being steered. Examining consequences asks the client to think through what would happen with each option, so asking what he expects if he stops treatment fits this step. Asking about other ways to handle the situation is the most tempting distractor because it is also a values-clarification question, but it belongs to listing alternatives. Asking what matters most explores what the client prizes, and asking how he will share the decision belongs to acting on a choice not yet made.",
    "takeaway": "To help a client examine consequences, ask what they think would happen if they chose that option.",
    "hintContent": "Match each response to a step of values clarification and find the one about outcomes.",
    "hintStrategy": "When several options are therapeutic, match the exact purpose named in the stem; the right step matters.",
@@ -585,7 +600,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Client Teaching",
    "difficulty": 2,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-018",
@@ -594,14 +610,14 @@
    "stem": "A nurse manager at a North Carolina hospital confirms through a pharmacy audit that a staff RN has been diverting hydromorphone. The RN admits it and agrees to enter treatment. Which action by the manager meets professional and regulatory expectations?",
    "options": [
     "Report the diversion to the Board of Nursing in addition to the hospital’s actions.",
-    "Allow the nurse to resign quietly so that no formal report needs to be filed.",
+    "Refer the nurse to the employee assistance program for treatment.",
     "Keep the nurse on duty with a second nurse co-signing all of her opioid doses.",
     "Handle the matter within the hospital, since the nurse has already agreed to enter treatment."
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. The North Carolina Board of Nursing receives conduct issues such as diversion and can offer an alternative-to-discipline program.",
-    "Incorrect. Quiet resignation leaves the public unprotected if the nurse is hired elsewhere.",
+    "Incorrect. Supporting treatment is appropriate, but a referral alone is incomplete because diversion must also be reported to the Board.",
     "Incorrect. An impaired nurse who is diverting should be removed from client care, not supervised in place.",
     "Incorrect. Diversion is a conduct issue that must go to the Board, not only to the employer."
    ],
@@ -617,7 +633,8 @@
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-019",
@@ -995,15 +1012,15 @@
    "type": "mcq",
    "stem": "At 1015, a nurse prepares to witness the signature of a 52-year-old client with a fractured femur on a consent form for open reduction and internal fixation scheduled for 1300. The client received hydromorphone 1 mg IV at 0950 for leg pain, now rates the pain 3/10, and says, “I’m feeling pretty floaty, but let’s get this signed.” Which action should the nurse take first?",
    "options": [
-    "Ask the client’s spouse to sign the consent form on the client’s behalf.",
-    "Witness the signature, since the client is willing and surgery is soon.",
+    "Witness the signature and note the recent opioid dose in the chart.",
+    "Notify the surgeon after the form is signed that the client had an opioid.",
     "Hold the consent and notify the provider that the client just received an opioid.",
     "Read the consent form aloud to the client so that he hears all of the risks before signing."
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. A spouse cannot consent for a client who will regain capacity well before the scheduled surgery.",
-    "Incorrect. Willingness does not equal capacity; a recent opioid with reported ‘floaty’ feelings makes consent questionable.",
+    "Incorrect. Documenting the opioid is accurate, but charting it does not make consent valid when capacity is in doubt.",
+    "Incorrect. Telling the provider is right, but the order is wrong; the nurse should not witness a signature that may be invalid.",
     "Correct. The nurse does not witness consent when capacity may be impaired and lets the provider decide how to proceed.",
     "Incorrect. Explaining the procedure is the provider’s role, and reading aloud does not restore impaired capacity."
    ],
@@ -1017,7 +1034,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Nursing Interventions",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-030",
@@ -1025,20 +1043,20 @@
    "type": "mcq",
    "stem": "A 68-year-old client with a gangrenous foot and decision-making capacity refuses a below-knee amputation. The surgeon tells the nurse, “Keep working on him until he signs.” Which action should the nurse take first?",
    "options": [
-    "Remind the client each hour that he could die from the infection without surgery.",
-    "Ask the client’s daughter to persuade him to sign the consent form.",
+    "Explain again, in plain language, the risks of refusing the below-knee amputation.",
+    "Tell the surgeon the client still refuses and request a family care conference.",
     "Ask the client what he understands about the surgery and what worries him most.",
-    "Tell the surgeon the client refused and chart that no further discussion will occur."
+    "Have the client sign an informed refusal form for the below-knee amputation."
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Repeated pressure is coercive and paternalistic, not informed choice.",
-    "Incorrect. Recruiting family to pressure the client undermines a voluntary decision.",
+    "Incorrect. Clear information is needed for an informed refusal, but repeating risks before learning his concerns may feel like pressure.",
+    "Incorrect. Keeping the surgeon informed is appropriate, but a conference is premature before the nurse learns what the client understands and fears, and it may feel like group pressure.",
     "Correct. Exploring understanding and reasons may reveal fixable concerns and shows whether the refusal is informed.",
-    "Incorrect. This skips assessing whether the refusal is informed and closes the door the client may want open."
+    "Incorrect. Documenting refusal is part of the process, but it is premature before confirming the refusal is informed and exploring his reasons."
    ],
    "priority": true,
-   "rationale": "A capable adult may refuse any treatment, including life-saving surgery, and the nurse advocates for that right even when the team disagrees. The first step is to explore what the client understands and why he is refusing, because reasons such as fear of pain, cost, or misinformation can often be addressed. Ending the discussion is tempting because it appears to honor his refusal, but it skips confirming that the refusal is informed and leaves fixable concerns unexplored. Repeated pressure, whether from staff or family, turns advocacy into paternalism.",
+   "rationale": "A capable adult may refuse any treatment, including life-saving surgery, and the nurse advocates for that right even when the team disagrees. The first step is to explore what the client understands and why he is refusing, because reasons such as fear of pain, cost, or misinformation can often be addressed. Moving straight to a refusal form is tempting because it appears to honor his refusal, but it skips confirming that the refusal is informed and leaves fixable concerns unexplored. Repeating the risks or calling a family conference before listening can turn advocacy into pressure.",
    "takeaway": "With a capable client’s refusal, explore the reasons and understanding first; never pressure.",
    "hintContent": "Before acting on the surgeon’s request or the refusal, ask what the nurse still does not know.",
    "hintStrategy": "When a capable client refuses, choose the assessment option that explores ‘why’ before options that pressure or close the issue.",
@@ -1047,7 +1065,8 @@
    "cjmm": "Recognize Cues",
    "focus": "Nursing Interventions",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-031",
@@ -1056,19 +1075,19 @@
    "stem": "A 45-year-old client admitted with pneumonia removes his oxygen cannula, gets dressed, and tells the nurse, “I’m leaving. I can’t stay here another night.” He is alert and oriented, and his oxygen saturation is 93% on room air. Which action should the nurse take first?",
    "options": [
     "Give the client the against-medical-advice form to sign before he goes.",
-    "Tell the client that his insurance will not pay if he leaves against advice.",
-    "Call security to keep the client on the unit until the provider arrives.",
+    "Notify the provider that the client plans to leave against advice.",
+    "Explain the risks of leaving before the pneumonia is fully treated.",
     "Ask the client what is making him want to leave right now."
    ],
    "answer": 3,
    "optionRationales": [
     "Incorrect. Paperwork is premature before exploring his reasons and having risks explained.",
-    "Incorrect. This is inaccurate and coercive, and it does not address his concern.",
-    "Incorrect. Detaining a capable adult against his will is false imprisonment.",
+    "Incorrect. The provider must be notified, but asking the client why he wants to leave comes first and may resolve the problem.",
+    "Incorrect. The client needs to hear the risks, but explaining them before learning his reason may miss a fixable concern.",
     "Correct. The reason is often fixable, and asking is the first step before involving the provider."
    ],
    "priority": true,
-   "rationale": "A capable adult may leave against medical advice, but the reason is often something the team can fix, such as a child-care problem, cost worries, fear, or a roommate conflict. Asking why he wants to leave comes first; then the nurse notifies the provider to explain the risks and alternatives, documents his words, and follows the facility’s AMA process. Handing him the AMA form is tempting because it follows policy, but it treats the departure as settled before anyone understands it. Holding him on the unit or using threats violates his autonomy.",
+   "rationale": "A capable adult may leave against medical advice, but the reason is often something the team can fix, such as a child-care problem, cost worries, fear, or a roommate conflict. Asking why he wants to leave comes first; then the nurse notifies the provider to explain the risks and alternatives, documents his words, and follows the facility’s AMA process. Handing him the AMA form is tempting because it follows policy, but it treats the departure as settled before anyone understands it. Notifying the provider and explaining risks are needed steps, but they work best once the nurse knows his reason.",
    "takeaway": "When a capable client wants to leave, ask why first; then involve the provider and follow the AMA process.",
    "hintContent": "The client is stable and capable; think about what information the nurse needs before anything else.",
    "hintStrategy": "In refusal and AMA items, eliminate restraint and coercion, then choose assessment before paperwork.",
@@ -1077,7 +1096,8 @@
    "cjmm": "Recognize Cues",
    "focus": "Nursing Interventions",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-032",
@@ -1087,14 +1107,14 @@
    "options": [
     "Notify the provider of the living will and the daughter’s demand.",
     "Ask the chaplain to help the daughter accept her father’s written decision.",
-    "Follow the daughter’s request, since she is the next of kin and is present.",
+    "Request an ethics committee consult to resolve the family conflict.",
     "Tell the daughter that the living will is legally binding and the matter is closed."
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. The provider must review the directive, talk with the family, and write orders that reflect the client’s wishes.",
     "Incorrect. Support may help later, but it does not secure the client’s wishes in the orders now.",
-    "Incorrect. Family cannot override a valid advance directive that states the client’s own wishes.",
+    "Incorrect. An ethics consult can help if conflict persists, but it is premature; the provider must first review the directive and write orders.",
     "Incorrect. This is dismissive and does nothing to get the client’s wishes reflected in orders."
    ],
    "priority": true,
@@ -1109,7 +1129,8 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-033",
@@ -1117,20 +1138,20 @@
    "type": "mcq",
    "stem": "A 30-year-old client arrives unconscious in the emergency department after a motorcycle crash with a suspected ruptured spleen. Blood pressure is 72/40 mm Hg, and the surgeon wants to operate immediately. No family can be reached, and there is no record of any refusal of treatment. Which action should the nurse take first?",
    "options": [
-    "Contact the hospital attorney to obtain a court order for the surgery.",
+    "Obtain a second set of vital signs before preparing the client for surgery.",
     "Prepare the client for surgery, as emergency care proceeds under implied consent.",
-    "Wait until the client is alert enough to sign the consent form himself.",
+    "Ask the house supervisor to sign the consent on the client’s behalf.",
     "Continue trying to reach the client’s family before preparing the client for surgery."
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. A court order is unnecessary when an emergency creates implied consent.",
+    "Incorrect. Ongoing monitoring is needed, but shock is already evident, and delaying preparation to reassess wastes critical time.",
     "Correct. When delay threatens life and the client cannot consent, consent is implied.",
-    "Incorrect. Waiting for consciousness in hemorrhagic shock could cost his life.",
+    "Incorrect. Involving the supervisor may be part of policy, but a supervisor cannot consent for a client; emergency implied consent applies.",
     "Incorrect. Delaying surgery in hemorrhagic shock threatens his life; calls can continue in parallel."
    ],
    "priority": true,
-   "rationale": "Implied consent applies when a client cannot consent and delaying treatment threatens life or limb; it does not override a known, valid refusal, and none exists here. A hypotensive, unconscious client with a suspected ruptured spleen needs surgery now, so the nurse prepares him while the team documents the emergency. Continuing to call family first is the tempting answer because family input matters, but those efforts can continue alongside care rather than before it. Court orders are reserved for non-emergency disputes.",
+   "rationale": "Implied consent applies when a client cannot consent and delaying treatment threatens life or limb; it does not override a known, valid refusal, and none exists here. A hypotensive, unconscious client with a suspected ruptured spleen needs surgery now, so the nurse prepares him while the team documents the emergency. Continuing to call family first is the tempting answer because family input matters, but those efforts can continue alongside care rather than before it. A staff member cannot sign consent for the client, and more assessment before acting only delays surgery.",
    "takeaway": "In a life-threatening emergency with an unconscious client and no known refusal, consent is implied.",
    "hintContent": "Weigh how unstable the client is against how long each option would delay treatment.",
    "hintStrategy": "When ABCs are failing, choose the option that treats now; legal steps that delay care are distractors.",
@@ -1139,7 +1160,8 @@
    "cjmm": "Take Action",
    "focus": "Prioritization",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-034",
@@ -1148,19 +1170,19 @@
    "stem": "In the preoperative holding area, a 61-year-old client who signed a consent form yesterday for a total knee replacement says, “I’ve changed my mind. I don’t want this surgery.” The client is alert and oriented and has received no sedation. Which action should the nurse take first?",
    "options": [
     "Stop preoperative preparation and notify the surgeon of the withdrawn consent.",
-    "Remind the client that the consent form he signed yesterday is still legally valid.",
-    "Give the prescribed preoperative midazolam to help the client relax.",
+    "Ask what changed his mind while finishing the preoperative checklist.",
+    "Document the client’s withdrawal of consent in the medical record.",
     "Ask the client’s spouse to talk with him before the surgeon arrives."
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. A capable client may withdraw consent at any point; the surgeon must be informed.",
-    "Incorrect. Consent can be withdrawn at any time; the signed form does not bind him.",
-    "Incorrect. Sedating a client to overcome his refusal would be battery.",
+    "Incorrect. Listening to his concerns is important, but continuing preparation disregards his withdrawn consent.",
+    "Incorrect. The withdrawal must be documented, but charting alone is incomplete; preparation must stop and the surgeon must be told.",
     "Incorrect. Using family to change his mind is pressure and delays notifying the surgeon."
    ],
    "priority": true,
-   "rationale": "Consent is an ongoing process, and a capable client may withdraw it at any time, even after signing and minutes before surgery. The nurse stops preparation, notifies the surgeon so the client’s concerns and the consequences can be discussed, and listens to what changed his mind. Asking the spouse to talk with him is tempting because family support can help, but it pressures the client and delays the surgeon, who must address the withdrawal. Medicating him to proceed would be unlawful touching.",
+   "rationale": "Consent is an ongoing process, and a capable client may withdraw it at any time, even after signing and minutes before surgery. The nurse stops preparation, notifies the surgeon so the client’s concerns and the consequences can be discussed, and listens to what changed his mind. Asking the spouse to talk with him is tempting because family support can help, but it pressures the client and delays the surgeon, who must address the withdrawal. Exploring his concerns while continuing preparation, or only documenting the withdrawal, fails to honor it fully.",
    "takeaway": "A capable client can withdraw consent at any time; stop and notify the surgeon.",
    "hintContent": "Ask whether a signature from yesterday still controls what happens today.",
    "hintStrategy": "When a capable client says no, pick the option that stops the procedure and uses the proper channel; reject persuasion and sedation.",
@@ -1169,7 +1191,8 @@
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-035",
@@ -1177,16 +1200,16 @@
    "type": "mcq",
    "stem": "An 82-year-old client with mild Alzheimer disease, recovering from a hip fracture, tells the nurse she wants to go home alone rather than to a rehabilitation facility. Her son says, “She has dementia. She can’t make that decision.” The client has no legal guardian. Which action should the nurse take first?",
    "options": [
-    "Arrange the rehabilitation placement that the son is requesting.",
+    "Ask the son to describe his specific safety concerns about home.",
     "Assess her ability to understand the options, weigh risks, and choose.",
-    "Ask the son to sign the discharge plan because of her dementia diagnosis.",
+    "Request a home safety evaluation before the client is discharged.",
     "Ask the provider to begin proceedings to appoint a legal guardian."
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. The son has no legal authority, and the client’s capacity has not been assessed.",
+    "Incorrect. The son’s concerns are useful information, but the client’s own capacity for this decision must be assessed first.",
     "Correct. Capacity is presumed in adults and is assessed for the specific decision, not assumed from a diagnosis.",
-    "Incorrect. A diagnosis alone does not remove the right to decide or transfer it to family.",
+    "Incorrect. A home safety evaluation may help plan discharge, but it is premature until the nurse knows whether the client can make the decision.",
     "Incorrect. Guardianship is a court process that is premature before capacity is assessed."
    ],
    "priority": true,
@@ -1199,7 +1222,8 @@
    "cjmm": "Recognize Cues",
    "focus": "Lifespan & Diversity",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-036",
@@ -1208,14 +1232,14 @@
    "stem": "A 50-year-old Muslim client with type 2 diabetes who uses insulin glargine and mealtime insulin tells the clinic nurse that she plans to fast from dawn to sunset during Ramadan next month. Which action should the nurse take first?",
    "options": [
     "Advise the client to stop her mealtime insulin on fasting days.",
-    "Refer the client to an imam to obtain a religious exemption from fasting.",
+    "Teach the client to check her glucose often while she is fasting.",
     "Ask the client how she plans to fast and what the practice means to her.",
     "Tell the client that people with diabetes are exempt from fasting in Islam."
    ],
    "answer": 2,
    "optionRationales": [
     "Incorrect. Adjusting insulin requires the provider and an individual plan; abrupt changes are unsafe.",
-    "Incorrect. This assumes the client wants an exemption instead of asking her.",
+    "Incorrect. Frequent glucose checks are part of a safe plan, but teaching before understanding her fasting plan is incomplete and premature.",
     "Correct. Assessing the individual’s practices comes first and guides a safe, respectful plan.",
     "Incorrect. This substitutes the nurse’s interpretation for the client’s own religious decision."
    ],
@@ -1229,7 +1253,8 @@
    "cjmm": "Recognize Cues",
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-037",
@@ -1238,19 +1263,19 @@
    "stem": "During a session at an outpatient mental health clinic, a 34-year-old client tells the nurse, “My supervisor is getting what’s coming to him. I bought a gun, and I’ll use it on him Friday.” The client asks the nurse to keep this private. Which action should the nurse take first?",
    "options": [
     "Call the supervisor’s workplace to warn him directly before telling the treatment team.",
-    "Promise to keep the statement private so the client continues to trust her.",
-    "Document the statement and discuss it at the client’s next scheduled session.",
+    "Ask the client more about the plan before deciding whom to tell.",
+    "Call the police and report the threat before telling the team.",
     "Notify the provider and treatment team immediately so the threat can be acted on."
    ],
    "answer": 3,
    "optionRationales": [
     "Incorrect. Warning steps follow facility policy through the provider and team, who also must assess the client’s immediate risk.",
-    "Incorrect. Confidentiality does not cover a serious threat to an identifiable person.",
-    "Incorrect. Waiting until the next session ignores an imminent threat.",
+    "Incorrect. Assessing intent is reasonable, but a named target, a weapon, and a date already make the threat serious enough to act now.",
+    "Incorrect. Police may need to be notified, but acting alone bypasses the provider’s risk assessment and the facility’s legal process.",
     "Correct. A specific threat to an identifiable person overrides confidentiality and requires immediate action per policy."
    ],
    "priority": true,
-   "rationale": "Confidentiality is a strong duty, but the law overrides it when there is a serious threat to a specific person, as here with a named target, a weapon, and a date. The nurse immediately notifies the provider and treatment team, who assess the client’s risk and carry out protective steps such as warning the target or notifying law enforcement per policy, sharing only the minimum necessary. Calling the supervisor directly is tempting because it seems to protect him fastest, but acting alone bypasses the team’s assessment and the facility’s legal process. Promising secrecy is a promise the nurse cannot keep.",
+   "rationale": "Confidentiality is a strong duty, but the law overrides it when there is a serious threat to a specific person, as here with a named target, a weapon, and a date. The nurse immediately notifies the provider and treatment team, who assess the client’s risk and carry out protective steps such as warning the target or notifying law enforcement per policy, sharing only the minimum necessary. Calling the supervisor or the police directly is tempting because it seems to protect him fastest, but acting alone bypasses the team’s assessment and the facility’s legal process. Gathering more detail first only delays action on a clear threat.",
    "takeaway": "A serious threat to an identifiable person overrides confidentiality; notify the provider and team immediately.",
    "hintContent": "Weigh the client’s request for privacy against the specificity of the threat.",
    "hintStrategy": "When confidentiality conflicts with someone’s safety, choose the immediate action through the proper team or chain of command.",
@@ -1261,7 +1286,8 @@
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-038",
@@ -1269,14 +1295,14 @@
    "type": "mcq",
    "stem": "A 76-year-old client with end-stage heart failure and decision-making capacity tells the nurse, “If my heart stops, I don’t want anyone pounding on my chest.” Her son, at the bedside, says, “She doesn’t mean that. We want everything done.” The client is currently a full code, and no advance directive is on file. Which action should the nurse take first?",
    "options": [
-    "Document in the notes that the son will decide if the client deteriorates.",
+    "Document the client’s exact words about CPR in the nursing notes.",
     "Help the client complete a living will form before the end of the shift.",
     "Notify the provider so her code status can be discussed and updated.",
     "Tell the son that his mother has already decided and the subject is closed."
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. A capable client decides for herself; the son has no authority to override her.",
+    "Incorrect. Documenting her words is accurate and useful, but it does not change the active full-code order.",
     "Incorrect. A directive is helpful, but her current full-code order will not change until the provider writes a new one.",
     "Correct. Only a provider order changes code status, protecting the client’s stated wish.",
     "Incorrect. This is dismissive and does not secure an order reflecting her wishes."
@@ -1291,7 +1317,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Prioritization",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-039",
@@ -1323,7 +1350,8 @@
    "cjmm": "Recognize Cues",
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-040",
@@ -1363,18 +1391,18 @@
    "options": [
     "Teach only natural family planning, since that method fits Catholic teaching.",
     "Ask the client which family planning methods, if any, she would like to discuss.",
-    "Skip contraception teaching entirely to avoid offending the client’s religious beliefs.",
-    "Teach all methods, then tell the client which method the nurse would choose."
+    "Give her written materials on every method so she can review them at home.",
+    "Ask the provider to discuss all contraception choices with her before discharge."
    ],
    "answer": 1,
    "optionRationales": [
     "Incorrect. This assumes the client follows every teaching of her faith and limits her information.",
-    "Correct. Asking the individual respects her autonomy and avoids assumptions based on religion.",
-    "Incorrect. Withholding information based on an assumption denies her an informed choice.",
-    "Incorrect. Offering the nurse’s personal choice steers the decision."
+    "Correct. Asking what she wants to discuss respects her autonomy and avoids assumptions, while written materials or a provider referral skip that assessment.",
+    "Incorrect. Written materials are useful, but handing them out without asking what she wants skips assessment and teaching.",
+    "Incorrect. The provider can help, but contraception teaching is within the nurse’s role, and the nurse should first ask what the client wants."
    ],
    "priority": false,
-   "rationale": "Respectful care means assessing the individual rather than assuming that every member of a faith follows every teaching; many Catholics, for example, use contraception. Asking what methods she wants to discuss lets the client lead and ensures she receives the information she wants. Teaching only natural family planning is the most tempting distractor because it seems culturally sensitive, but it is an assumption that limits her choices. Skipping the teaching or offering the nurse’s own preference both undermine an informed, autonomous decision.",
+   "rationale": "Respectful care means assessing the individual rather than assuming that every member of a faith follows every teaching; many Catholics, for example, use contraception. Asking what methods she wants to discuss lets the client lead and ensures she receives the information she wants. Teaching only natural family planning is the most tempting distractor because it seems culturally sensitive, but it is an assumption that limits her choices. Handing out materials without asking or passing the teaching to the provider skips the assessment that individualizes care.",
    "takeaway": "Ask, don’t assume: religious symbols tell you what to explore, not what the client has decided.",
    "hintContent": "Consider whether outward signs of faith tell the nurse what this client wants.",
    "hintStrategy": "In cultural items, the option that asks the individual usually beats the one that applies a group generalization.",
@@ -1383,7 +1411,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
-   "clientNeed": "Health Promotion and Maintenance"
+   "clientNeed": "Health Promotion and Maintenance",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-042",
@@ -1391,20 +1420,20 @@
    "type": "mcq",
    "stem": "A police officer in the emergency department asks the nurse for the blood alcohol result of a driver who was injured in a crash. The officer has no warrant or court order, and the client has not authorized any release of information. Which response by the nurse is most appropriate?",
    "options": [
-    "“I’ll check with the client’s family, and if they agree to it, I will give you the result then.”",
+    "“I’ll ask his provider whether the result can be released to you, and then let you know.”",
     "“Without his authorization or a legal order, I can’t release it; our privacy officer can help.”",
     "“Because you are law enforcement, I can share it, but I need to see your badge and ID first.”",
-    "“I can tell you whether the result was above the legal limit, but not the exact number.”"
+    "“I can release it once you bring me a written request signed by your department supervisor.”"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Family members cannot authorize release of an adult client’s information.",
+    "Incorrect. Involving the provider seems cautious, but the provider cannot authorize release without the client’s consent or a legal order.",
     "Correct. Health information is released only with authorization or as the law requires, and the privacy officer handles legal requests.",
     "Incorrect. Identification does not create a legal right to protected health information.",
-    "Incorrect. Any part of the result is protected health information."
+    "Incorrect. A written request feels formal, but a department letter is not a warrant, court order, or client authorization."
    ],
    "priority": false,
-   "rationale": "Protected health information includes test results and even the fact that a person is a client, and it is released only with the client’s authorization, for care, or when the law requires, such as with a court order. When unsure, the nurse directs the request to the privacy officer and shares nothing herself. Checking the officer’s badge is tempting because verifying identity feels like a safeguard, but proving who someone is does not give them a right to the information. Partial disclosure or family permission is still an unauthorized release.",
+   "rationale": "Protected health information includes test results and even the fact that a person is a client, and it is released only with the client’s authorization, for care, or when the law requires, such as with a court order. When unsure, the nurse directs the request to the privacy officer and shares nothing herself. Checking the officer’s badge is tempting because verifying identity feels like a safeguard, but proving who someone is does not give them a right to the information. A provider’s approval or a department letter does not replace client authorization or a legal order.",
    "takeaway": "Verifying identity does not create a right to health information; release requires authorization or a legal requirement.",
    "hintContent": "Decide what actually gives someone the right to a client’s results.",
    "hintStrategy": "In privacy items, eliminate options that rely on ID checks, partial disclosure, or family permission; keep the one that routes the request properly.",
@@ -1413,7 +1442,8 @@
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-043",
@@ -1453,18 +1483,18 @@
    "options": [
     "“When your father wakes, I’ll ask him what he’d like shared, or he can tell you.”",
     "“I can’t tell you anything about him, so you’ll have to ask his doctor instead.”",
-    "“I can show you his results if you can show me ID proving you’re family.”",
-    "“Since you’re his daughter, I can tell you his results look better today.”"
+    "“Let me check his chart to see if you’re listed before I answer you.”",
+    "“I’ll ask his provider to call you later today to go over his results.”"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. This respects the client’s control over his information while staying helpful.",
     "Incorrect. This shuts down the conversation, and the provider is bound by the same privacy rules.",
-    "Incorrect. Proof of relationship does not create a right to the client’s information.",
-    "Incorrect. Being family does not authorize disclosure without the client’s permission."
+    "Incorrect. Checking the contact list is a reasonable habit, but she is not listed, so this delays an answer and still offers no path.",
+    "Incorrect. Arranging a call seems helpful, but the provider also needs the client’s permission before sharing his results."
    ],
    "priority": false,
-   "rationale": "Health information belongs to the client, and an adult’s family members receive it only with the client’s permission. The nurse is honest about needing his permission and offers a path: ask him when he wakes, or let him share it himself. Telling the daughter she must ask the doctor is tempting because it avoids disclosure, but it is unhelpful and misleading because the provider faces the same rules. Checking identification does not change whether the client has agreed to share.",
+   "rationale": "Health information belongs to the client, and an adult’s family members receive it only with the client’s permission. The nurse is honest about needing his permission and offers a path: ask him when he wakes, or let him share it himself. Telling the daughter she must ask the doctor is tempting because it avoids disclosure, but it is unhelpful and misleading because the provider faces the same rules. Rechecking the contact list or arranging a provider call does not change whether the client has agreed to share.",
    "takeaway": "Family receives an adult client’s information only with the client’s permission; offer to ask him.",
    "hintContent": "Ask who has the right to decide whether the daughter learns the results.",
    "hintStrategy": "In privacy items, choose the response that protects the information and keeps communication open; eliminate both disclosure and conversation-stoppers.",
@@ -1473,7 +1503,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Nursing Interventions",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-045",
@@ -1481,20 +1512,20 @@
    "type": "mcq",
    "stem": "A 27-year-old client with a severe intellectual disability has a court-appointed legal guardian, her aunt. The client needs a dental extraction under sedation. Which action by the nurse regarding consent is most appropriate?",
    "options": [
-    "Proceed without consent, because the client cannot understand the procedure.",
+    "Explain the procedure simply to the client and obtain her verbal assent.",
     "Have the client sign the consent, because adults are presumed to have capacity.",
     "Confirm that the aunt gives consent, and explain the procedure to the client simply.",
-    "Ask the client’s mother to sign, because parents remain an adult’s decision-makers."
+    "Request an ethics consult, because the client cannot decide for herself."
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. This is not an emergency, so consent from the legal decision-maker is required.",
+    "Incorrect. Simple explanation and assent respect her dignity, but assent is not legal consent; the guardian must consent.",
     "Incorrect. A court has ruled on her competence and appointed a guardian, which changes who decides.",
     "Correct. The guardian gives legal consent, and including the client in simple terms respects her dignity.",
-    "Incorrect. Parents have no automatic authority over an adult child; the court-appointed guardian does."
+    "Incorrect. An ethics consult helps with disputes, but a court has already named the decision-maker, so no dilemma exists."
    ],
    "priority": false,
-   "rationale": "Capacity is presumed in adults, but competence is a legal ruling, and when a court has appointed a guardian, the guardian provides consent. The nurse confirms the aunt’s consent and still explains the procedure to the client in simple terms to gain her cooperation and respect her dignity. Having the client sign is tempting because the presumption of capacity is a key rule, but that presumption no longer controls once a court has decided. Parents of adults do not decide by default, and non-emergency care requires consent.",
+   "rationale": "Capacity is presumed in adults, but competence is a legal ruling, and when a court has appointed a guardian, the guardian provides consent. The nurse confirms the aunt’s consent and still explains the procedure to the client in simple terms to gain her cooperation and respect her dignity. Having the client sign is tempting because the presumption of capacity is a key rule, but that presumption no longer controls once a court has decided. The client’s assent alone is not legal consent, and an ethics consult is unnecessary when the law already names the decision-maker.",
    "takeaway": "When a court has appointed a guardian, the guardian consents; still involve the client as much as possible.",
    "hintContent": "Look for the detail that tells you a court has already ruled on decision-making.",
    "hintStrategy": "Distinguish clinical capacity from legal competence; a guardianship changes who signs.",
@@ -1503,7 +1534,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-046",
@@ -1511,20 +1543,20 @@
    "type": "mcq",
    "stem": "After a laparoscopic cholecystectomy, a client asks the nurse, “Did everything go as planned?” The nurse knows from the operative report that the common bile duct was nicked and repaired, but the surgeon has not yet spoken with the client. Which response by the nurse is most appropriate?",
    "options": [
-    "“You’ll have to ask the surgeon about that, since nurses can’t discuss surgery.”",
-    "“Everything went just fine, so you can focus on resting today.”",
+    "“Your surgeon wrote a detailed report, and she can best explain it.”",
+    "“Your surgeon will review everything with you at your follow-up visit.”",
     "“There was a problem; your bile duct was cut during the operation.”",
     "“That’s important to ask your surgeon. I’ll ask her to see you today.”"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. This is evasive and inaccurate, and it does not arrange the conversation.",
-    "Incorrect. This is a lie that violates veracity and damages trust.",
+    "Incorrect. Redirecting to the surgeon is right, but this sets up no conversation, so the client may wait without answers.",
+    "Incorrect. The surgeon should disclose, but waiting for a follow-up visit delays disclosure of a complication the client needs to know about now.",
     "Incorrect. The surgeon should disclose and explain the complication with full context.",
-    "Correct. This is honest, does not deny the event, and arranges prompt disclosure by the surgeon."
+    "Correct. This is honest, does not deny the event, and arranges prompt disclosure by the surgeon today."
    ],
    "priority": false,
-   "rationale": "Veracity means the client receives truthful, complete information, and the nurse must never deny a complication. The surgeon is responsible for disclosing an intraoperative event with full explanation, so the nurse answers honestly that the question is one for the surgeon and arranges for that conversation today. The evasive response is the most tempting distractor because it also redirects to the surgeon, but it falsely claims nurses cannot discuss surgery and leaves the client with no plan. Lying to reassure the client violates veracity outright.",
+   "rationale": "Veracity means the client receives truthful, complete information, and the nurse must never deny a complication. The surgeon is responsible for disclosing an intraoperative event with full explanation, so the nurse answers honestly that the question is one for the surgeon and arranges for that conversation today. Redirecting without arranging a visit, or deferring to the follow-up appointment, also points to the surgeon but leaves the client waiting, and disclosure of an adverse event should be prompt. The nurse never lies to reassure the client.",
    "takeaway": "Never deny a complication; redirect honestly and make sure the provider discloses it promptly.",
    "hintContent": "Compare the two responses that send the client to the surgeon and decide which one is honest and arranges follow-up.",
    "hintStrategy": "When two answers look alike, pick the one that is truthful and includes a concrete next step; eliminate the one that evades.",
@@ -1535,7 +1567,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Nursing Interventions",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-047",
@@ -1543,20 +1576,20 @@
    "type": "mcq",
    "stem": "A 64-year-old client newly diagnosed with localized prostate cancer tells the nurse, “The doctor talked so fast. I don’t understand the difference between surgery, radiation, and watching it, and I’m supposed to decide by Friday.” Which action by the nurse best demonstrates advocacy?",
    "options": [
-    "Explain to the client that surgery is usually the best choice at his age.",
-    "Reassure the client that the doctor will choose the best treatment for him.",
+    "Give the client printed materials about prostate cancer to read at home.",
+    "Encourage the client to write down his questions for his next visit.",
     "Tell the provider the client needs more information, and offer a decision aid.",
-    "Suggest that the client let his wife decide, since he feels so confused."
+    "Ask the client if he would like his wife present for the next discussion."
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Recommending a treatment steers the decision and goes beyond the nurse’s role.",
-    "Incorrect. This is paternalistic and takes the decision away from the client.",
+    "Incorrect. Printed materials help, but generic reading does not ensure his questions are answered before Friday or alert the provider.",
+    "Incorrect. Writing questions is useful, but waiting for the next visit may come too late, and no one is told he needs more information.",
     "Correct. This speaks up for the client’s need for information so he can make an informed choice.",
-    "Incorrect. Shifting the decision to family undermines his autonomy."
+    "Incorrect. Support from his wife is helpful, but it does not address his need for clearer information from the provider."
    ],
    "priority": false,
-   "rationale": "Advocacy means defending the client’s rights and helping him speak up, and informed choice requires that he understand his options. The nurse informs the provider that the client needs more explanation before deciding and offers tools such as a decision aid to support understanding. Reassuring him that the doctor will choose is tempting because it relieves anxiety, but it is paternalistic and removes his autonomy. Recommending surgery or deferring to his wife also takes the decision away from the person who owns it.",
+   "rationale": "Advocacy means defending the client’s rights and helping him speak up, and informed choice requires that he understand his options. The nurse informs the provider that the client needs more explanation before deciding and offers tools such as a decision aid to support understanding. Printed materials, a list of questions, or his wife’s support are all helpful, but on their own they do not make sure the provider closes the information gap before his deadline. Advocacy acts on the barrier directly.",
    "takeaway": "Advocacy means ensuring the client has the information to decide, not deciding for him.",
    "hintContent": "Identify what is missing for the client to make his own decision.",
    "hintStrategy": "For advocacy items, choose the action that strengthens the client’s ability to decide; eliminate options that decide for him or hand the decision to someone else.",
@@ -1565,7 +1598,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Client Teaching",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-048",
@@ -1975,18 +2009,18 @@
    "options": [
     "Notify the provider of the dosing error right away and ask for further orders.",
     "Assess the client’s respiratory rate, sedation level, and oxygen saturation.",
-    "Follow the coworker’s advice, since the client appeared comfortable.",
+    "Administer naloxone 0.4 mg IV to reverse the extra morphine.",
     "Complete an event report describing how the dosing error occurred."
    ],
    "answer": 1,
    "optionRationales": [
     "Incorrect. The provider must be notified, but current assessment data come first.",
-    "Correct. An opioid overdose can depress breathing, so the client is assessed before anything else.",
-    "Incorrect. Concealing an error violates accountability and may leave respiratory depression undetected.",
+    "Correct. An opioid overdose can depress breathing, so the client is assessed before notifying, reversing, or reporting.",
+    "Incorrect. Naloxone reverses opioids, but giving it without signs of respiratory depression can cause severe pain and withdrawal; assess first.",
     "Incorrect. The event report is required but follows assessment and notification."
    ],
    "priority": true,
-   "rationale": "Accountability means answering honestly for one’s actions, and after an error the sequence is to assess the client, notify the provider, document the facts, and report per policy. A double dose of IV morphine peaks within minutes and can depress respirations in an older adult, so the client’s breathing, sedation, and oxygen saturation are checked first. Following the coworker’s advice is tempting because fear of discipline is real, but hiding an error is the opposite of accountability, and ‘looked comfortable’ may actually be oversedation. Just Culture systems treat honest human error with support rather than punishment.",
+   "rationale": "Accountability means answering honestly for one’s actions, and after an error the sequence is to assess the client, notify the provider, document the facts, and report per policy. A double dose of IV morphine peaks within minutes and can depress respirations in an older adult, so the client’s breathing, sedation, and oxygen saturation are checked first. Giving naloxone right away is tempting, but reversal is based on assessment findings, and the coworker’s ‘looked comfortable’ may actually be oversedation. Hiding the error is never an option, and Just Culture systems treat honest human error with support rather than punishment.",
    "takeaway": "After an error, assess the client first, then notify, document, and report; never conceal it.",
    "hintContent": "Think about the most dangerous effect of the extra dose and when it would appear.",
    "hintStrategy": "In error items, the client’s physiological safety comes first; peer pressure to hide an error is always a distractor.",
@@ -1997,7 +2031,8 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Pharmacology",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies"
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-058",
@@ -2007,18 +2042,18 @@
    "options": [
     "Report the suspected abuse to child protective services, the county DSS, today.",
     "Photograph the bruises and question the child in detail about who hurt him.",
-    "Call the parents today and ask them how the child got the bruises.",
-    "Wait for next week’s parent conference, as the principal suggests."
+    "Ask the school counselor to follow up with the child and his family this week.",
+    "Document the bruises and the child’s explanation in his health record."
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. Suspicion is enough; the nurse reports directly and does not wait for proof or permission.",
     "Incorrect. Investigating is the agency’s role; detailed questioning can harm the case and the child.",
-    "Incorrect. Confronting caregivers may increase the child’s risk and delays the required report.",
-    "Incorrect. Delaying a report of suspected abuse leaves the child at risk and fails the nurse’s legal duty."
+    "Incorrect. The counselor can support the child, but the nurse’s duty to report cannot be passed to another staff member.",
+    "Incorrect. Documentation is needed, but it does not protect the child; the report to DSS comes first."
    ],
    "priority": true,
-   "rationale": "Reporting suspected child maltreatment is a legal duty, not a moral dilemma, so the nurse has no freedom to wait. Bruises in different stages of healing in areas inconsistent with the explanation are enough for suspicion; in North Carolina, which requires any person to report, the report goes to the county department of social services. Waiting for the conference is tempting because the principal is an authority figure, but no supervisor can delay or replace the nurse’s own duty to report. Investigating or confronting the parents is the agency’s role and may endanger the child.",
+   "rationale": "Reporting suspected child maltreatment is a legal duty, not a moral dilemma, so the nurse has no freedom to wait. Bruises in different stages of healing in areas inconsistent with the explanation are enough for suspicion; in North Carolina, which requires any person to report, the report goes to the county department of social services. The principal’s suggestion to wait carries authority, but no supervisor or counselor can delay or replace the nurse’s own duty to report. Documentation supports the report but does not replace it, and investigating is the agency’s role.",
    "takeaway": "Report suspected child abuse promptly to the designated agency; do not wait for proof, permission, or a meeting.",
    "hintContent": "Decide whether the nurse has any real choice here, and whose permission the report requires.",
    "hintStrategy": "When the law dictates the action, it is not a dilemma: choose the required report over delay, confrontation, or investigation.",
@@ -2027,7 +2062,8 @@
    "cjmm": "Take Action",
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-059",
@@ -2059,7 +2095,8 @@
    "cjmm": "Recognize Cues",
    "focus": "Nursing Interventions",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-060",
@@ -2069,18 +2106,18 @@
    "options": [
     "“That’s important to ask him and his doctor. I’ll let them know you want to talk today.”",
     "“I’m not allowed to talk about his condition with you, so you will need to ask him.”",
-    "“He is doing about as well as can be expected, so please try not to worry.”",
+    "“He has a strong medical team, and they are doing everything they can for him.”",
     "“I’m sorry, but his cancer has spread, so you may want to wait on that lease.”"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. This keeps the confidence, avoids false reassurance, and brings the couple and provider together.",
-    "Incorrect. This is technically true but abrupt, and it does not help arrange the conversation she needs.",
-    "Incorrect. This is false reassurance that misleads her and may harm her decisions.",
-    "Incorrect. This breaks the client’s confidence and his right to decide how she hears the news."
+    "Correct. This neither discloses nor deceives, and it arranges the conversation before she signs the lease.",
+    "Incorrect. This protects confidentiality, but it is abrupt and does not arrange the conversation she needs before tomorrow.",
+    "Incorrect. This avoids disclosure and sounds supportive, but it implies he may recover and could mislead her into signing the lease.",
+    "Incorrect. This breaks the client’s request and takes away his chance to tell his wife himself."
    ],
    "priority": true,
-   "rationale": "Fidelity and confidentiality require the nurse to keep the client’s request, and veracity forbids false reassurance; fidelity never requires lying. The best response neither discloses nor deceives: it directs the wife to her husband and his provider and arranges that conversation promptly, after which the nurse tells the client his wife is making major decisions and offers support. Responding that she is not allowed to talk is tempting because it protects confidentiality, but it is abrupt and leaves the wife without a path. Reassuring her keeps the promise at the cost of a lie.",
+   "rationale": "Fidelity and confidentiality require the nurse to keep the client’s request, and veracity forbids false reassurance; fidelity never requires lying. The best response neither discloses nor deceives: it directs the wife to her husband and his provider and arranges that conversation promptly, after which the nurse tells the client his wife is making major decisions and offers support. Responding that she is not allowed to talk is tempting because it protects confidentiality, but it is abrupt and leaves the wife without a path. Pointing to his medical team sounds supportive and avoids disclosure, but it implies recovery and is a form of false reassurance.",
    "takeaway": "You can keep a confidence without lying: redirect honestly and help the client share the news himself.",
    "hintContent": "Find the response that honors both the client’s request and the truth.",
    "hintStrategy": "When fidelity and veracity seem to clash, look for the answer that does neither harm: no disclosure, no deception, and a concrete next step.",
@@ -2091,7 +2128,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Nursing Interventions",
    "difficulty": 3,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-061",
@@ -2121,7 +2159,8 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-062",
@@ -2130,19 +2169,19 @@
    "stem": "A 74-year-old client in hospice with metastatic bone cancer says, “Just give me all of my morphine at once. I’m ready to go, and you could end this for me.” Which response by the nurse is best?",
    "options": [
     "“I can’t do that; it is illegal, and I would lose my nursing license.”",
-    "“You shouldn’t talk that way. You still have so much to live for.”",
+    "“I’ll ask the chaplain to come and talk with you about this today.”",
     "“Tell me more about what you are going through right now.”",
-    "“I’ll ask the doctor to raise your morphine so you can go peacefully.”"
+    "“I’ll ask the doctor about adjusting your pain medicine right away.”"
    ],
    "answer": 2,
    "optionRationales": [
     "Incorrect. This is true but centers the nurse and closes off the client’s distress.",
-    "Incorrect. This dismisses the client’s feelings and offers false reassurance.",
+    "Incorrect. Spiritual care may help, but referring before exploring what is driving the request shifts the conversation away from him.",
     "Correct. Exploring the request uncovers the suffering behind it, such as pain, fear, or depression.",
-    "Incorrect. This implies hastening death; dose changes are for symptom relief only."
+    "Incorrect. Pain may be part of it, but acting before assessing assumes the cause; fear, loss of control, or depression may be driving the request."
    ],
    "priority": true,
-   "rationale": "A request to hasten death is not a true moral dilemma for the nurse, because law and the nursing code clearly prohibit intentionally ending a client’s life. It is, however, a powerful cue of suffering, so the nurse’s best first response is to explore what is driving it, such as uncontrolled pain, fear, loss of control, or depression, and then involve the team. Citing the law is tempting because it is accurate, but it ends the conversation and leaves the suffering unaddressed. Promising a dose increase ‘to go peacefully’ confuses symptom management with ending life.",
+   "rationale": "A request to hasten death is not a true moral dilemma for the nurse, because law and the nursing code clearly prohibit intentionally ending a client’s life. It is, however, a powerful cue of suffering, so the nurse’s best first response is to explore what is driving it, such as uncontrolled pain, fear, loss of control, or depression, and then involve the team. Citing the law is tempting because it is accurate, but it ends the conversation and leaves the suffering unaddressed. Calling the chaplain or adjusting pain medicine may follow, but only after the nurse understands the cause.",
    "takeaway": "A request to hasten death signals suffering; explore it, then involve the team to relieve it.",
    "hintContent": "Look past the request to what the client may be feeling.",
    "hintStrategy": "For therapeutic communication, choose the open-ended response that explores feelings; eliminate responses that lecture, dismiss, or make promises.",
@@ -2153,7 +2192,8 @@
    "cjmm": "Recognize Cues",
    "focus": "Nursing Interventions",
    "difficulty": 3,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-063",
@@ -2161,20 +2201,20 @@
    "type": "mcq",
    "stem": "In a pediatric clinic, a 15-year-old says to the nurse, “If I tell you something, do you promise not to tell anyone?” Which response by the nurse is best?",
    "options": [
-    "“I can’t promise that, so maybe it would be better if you didn’t tell me anything at all.”",
+    "“What you tell me is private, and nurses must follow strict privacy laws about it.”",
     "“I promise. Whatever you tell me today stays just between the two of us.”",
     "“Most things stay private, but if you’re being hurt, I must get help to keep you safe.”",
-    "“It would be better to tell your parents first, and then you can tell me about it.”"
+    "“You can trust me completely here. Go ahead and tell me what’s on your mind.”"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. This is honest but shuts the door on a teen who may need help.",
+    "Incorrect. Privacy is true for most things, but this leaves out the limits and implies a promise the nurse may not keep.",
     "Incorrect. The nurse cannot promise secrecy about abuse or danger, so this promise may have to be broken.",
     "Correct. This is honest about the limits of confidentiality while still inviting the teen to talk.",
-    "Incorrect. This discourages disclosure and assumes the parents are safe to tell."
+    "Incorrect. This is warm and encourages sharing, but it sidesteps the question and implies a promise of secrecy."
    ],
    "priority": true,
-   "rationale": "Fidelity means keeping promises, so a nurse must never promise what she cannot keep, such as secrecy about abuse or danger that she is required to report. The best response explains the limits of confidentiality honestly while encouraging the teen to share. Promising secrecy is the tempting choice because it builds trust in the moment, but breaking that promise later would damage trust far more and violate fidelity. Telling the teen not to share or to tell parents first can leave a child in danger without help.",
+   "rationale": "Fidelity means keeping promises, so a nurse must never promise what she cannot keep, such as secrecy about abuse or danger that she is required to report. The best response explains the limits of confidentiality honestly while encouraging the teen to share. Promising secrecy is the tempting choice because it builds trust in the moment, but breaking that promise later would damage trust far more and violate fidelity. Reassuring the teen about privacy without naming the limits implies the same promise.",
    "takeaway": "Never promise secrecy you cannot keep; explain the limits of confidentiality and invite the client to talk.",
    "hintContent": "Think about what the nurse would have to do if the teen discloses abuse after a promise of secrecy.",
    "hintStrategy": "In confidentiality questions with minors, choose the response that is honest about limits and keeps communication open.",
@@ -2185,7 +2225,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-064",
@@ -2194,19 +2235,19 @@
    "stem": "A charge nurse finds a staff nurse crying in the medication room. The nurse says, “I can’t keep doing this. Every day I keep that man alive on the ventilator, I feel like I’m torturing him, and nobody listens to me.” Which action should the charge nurse take first?",
    "options": [
     "Reassign the nurse permanently to clients who do not need life support.",
-    "Remind the nurse that personal feelings must be kept separate from care.",
-    "Suggest that the nurse file a formal complaint about the family’s decisions.",
+    "Suggest that the nurse request an ethics consultation about the client.",
+    "Refer the nurse to the employee assistance program for counseling.",
     "Encourage the nurse to describe what she is experiencing and what feels wrong."
    ],
    "answer": 3,
    "optionRationales": [
     "Incorrect. Avoidance does not address the cause and is not a long-term solution.",
-    "Incorrect. This dismisses her distress and discourages her from raising ethical concerns.",
-    "Incorrect. This targets the family and skips understanding the concern.",
+    "Incorrect. An ethics consult is a good resource, but the charge nurse first needs to understand the concern.",
+    "Incorrect. Counseling can help, but referring before listening may feel dismissive and skips understanding what feels wrong.",
     "Correct. Listening first helps identify moral distress and guides support such as an ethics consult or debriefing."
    ],
    "priority": true,
-   "rationale": "Moral distress occurs when a nurse believes she knows the right action but feels blocked from acting, and it leads to burnout if ignored. The charge nurse first listens to understand the concern, then helps the nurse use supports such as a mentor, team debriefing, chaplaincy, or an ethics consultation. Reassigning her permanently is tempting because it provides immediate relief, but avoidance leaves the ethical concern unresolved and the distress likely to recur. Telling her to separate her feelings dismisses an important signal.",
+   "rationale": "Moral distress occurs when a nurse believes she knows the right action but feels blocked from acting, and it leads to burnout if ignored. The charge nurse first listens to understand the concern, then helps the nurse use supports such as a mentor, team debriefing, chaplaincy, employee counseling, or an ethics consultation. Reassigning her permanently is tempting because it provides immediate relief, but avoidance leaves the ethical concern unresolved and the distress likely to recur. Referrals are useful only after the charge nurse understands the concern.",
    "takeaway": "Respond to moral distress by listening first, then connecting the nurse with debriefing, mentors, and the ethics committee.",
    "hintContent": "Before choosing a solution, consider what the charge nurse does not yet understand about the nurse’s distress.",
    "hintStrategy": "For staff support items, assessment and listening come before fixing, reassigning, or reporting.",
@@ -2215,7 +2256,8 @@
    "cjmm": "Recognize Cues",
    "focus": "Nursing Interventions",
    "difficulty": 2,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-065",
@@ -2245,7 +2287,8 @@
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-066",
@@ -2277,7 +2320,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Delegation & Safety",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-067",
@@ -2286,19 +2330,19 @@
    "stem": "At 2000, after arriving home from her day shift, a nurse realizes that she never hung a client’s 1600 dose of IV vancomycin. She had documented it as given. Which action should the nurse take first?",
    "options": [
     "Call the unit now and tell the charge nurse so the client can be assessed.",
-    "Text a coworker on the unit and ask her to hang the dose quietly.",
+    "Email the nurse manager tonight to report the missed vancomycin dose.",
     "Log in to the event-reporting system from home and file a report.",
-    "Wait until the start of her shift tomorrow morning to report the missed dose."
+    "Correct the medication record from home using remote chart access."
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. Prompt disclosure allows the client to be assessed and the provider notified about the missed dose.",
-    "Incorrect. This conceals the error and asks a colleague to act without orders or disclosure.",
+    "Incorrect. The manager should know, but an email may not be read until morning, and the client needs care tonight.",
     "Incorrect. An event report does not get the client assessed or the provider notified tonight.",
-    "Incorrect. Waiting overnight delays treatment and correction of a false record."
+    "Incorrect. The false entry must be corrected, but fixing the chart does not get the client assessed or the dose addressed."
    ],
    "priority": true,
-   "rationale": "Accountability means answering for one’s actions and their results, including errors discovered after leaving work. Calling the charge nurse now allows the oncoming nurse to assess the client, notify the provider about the missed dose and its timing, and correct the documentation. Filing an event report from home is tempting because it seems responsible and formal, but it does not reach anyone who can care for the client tonight. Asking a coworker to hang the dose quietly hides the error and bypasses the provider.",
+   "rationale": "Accountability means answering for one’s actions and their results, including errors discovered after leaving work. Calling the charge nurse now allows the oncoming nurse to assess the client, notify the provider about the missed dose and its timing, and correct the documentation. Filing an event report from home is tempting because it seems responsible and formal, but it does not reach anyone who can care for the client tonight. Emailing the manager or correcting the chart remotely has the same flaw.",
    "takeaway": "When you discover an error after leaving, report it immediately to someone who can act for the client.",
    "hintContent": "Think about who can protect this client tonight and how quickly they need to know.",
    "hintStrategy": "For error-disclosure items, pick the action that gets the information to a person who can help the client now; eliminate concealment and delay.",
@@ -2309,7 +2353,8 @@
    "cjmm": "Take Action",
    "focus": "Pharmacology",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-068",
@@ -2317,17 +2362,17 @@
    "type": "mcq",
    "stem": "A home health nurse visits an 81-year-old client with advanced Parkinson disease who lives with her adult son and depends on him for care. The client is lying in soiled bedding, has dry mucous membranes, and has a new sacral pressure injury. The son says, “She’s not my problem; I have my own life.” Vital signs are stable. Which action by the nurse is most appropriate?",
    "options": [
-    "Return next week to see whether conditions improve before deciding to report.",
+    "Notify the client’s primary care provider about the pressure injury.",
     "Report the suspected neglect to adult protective services, the county DSS, today.",
     "Teach the son how to reposition her and offer fluids, then reassess at the next visit.",
-    "Ask the son to sign a written agreement promising to provide better care for her."
+    "Arrange respite care services to give the son a break from caregiving."
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Waiting for more evidence leaves a dependent adult at risk; suspicion is enough to report.",
+    "Incorrect. The provider should know about the wound, but this treats one finding and does not meet the legal duty to report neglect.",
     "Correct. Reasonable cause to believe a disabled adult is neglected requires a prompt report.",
     "Incorrect. Teaching alone does not address suspected neglect by a caregiver who rejects the role.",
-    "Incorrect. An agreement does not protect the client and delays the required report."
+    "Incorrect. Respite can help a strained caregiver, but the son rejects responsibility, and this delays the required report."
    ],
    "priority": false,
    "rationale": "Suspected abuse or neglect of a dependent or disabled adult must be reported to adult protective services; in North Carolina, any person with reasonable cause reports to the county department of social services, and good-faith reporters are immune. Soiled bedding, dehydration, a new pressure injury, and a caregiver who rejects responsibility provide reasonable cause. Teaching the son is tempting because it feels collaborative, but it assumes a willing caregiver and delays protection. Like child abuse reporting, this is a legal duty rather than a dilemma, and the nurse also addresses the client’s immediate care needs during the visit.",
@@ -2339,7 +2384,8 @@
    "cjmm": "Take Action",
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-069",
@@ -2521,7 +2567,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-075",
@@ -2529,16 +2576,16 @@
    "type": "mcq",
    "stem": "A nurse tells her mentor, “I saw a colleague chart vital signs she never took. She’s my friend and a single mom, and I’m torn. This feels like a true moral dilemma.” Which response by the mentor is most accurate?",
    "options": [
-    "“Since no client was harmed, this does not meet the threshold for reporting.”",
+    "“Write down what you saw, and report it if it happens again.”",
     "“Your feelings are real, but standards on false charting decide this, so report it.”",
-    "“It is a true dilemma, so you are free to choose whichever option feels right.”",
+    "“Bring it to the ethics committee before deciding what to do.”",
     "“Talk with her privately and give her a chance to fix it before anyone else finds out.”"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Falsification must be reported whether or not harm occurred.",
+    "Incorrect. Documenting facts is reasonable, but a false record already exists, so waiting for a repeat leaves it uncorrected.",
     "Correct. Strong feelings do not create a dilemma when a clear standard dictates the action.",
-    "Incorrect. Clear standards on falsified records remove the freedom to choose, so it is not a true dilemma.",
+    "Incorrect. Ethics committees help with true dilemmas, but a clear standard already dictates reporting through the chain of command.",
     "Incorrect. False charting is not resolved privately; the record and clients may already be affected."
    ],
    "priority": false,
@@ -2553,7 +2600,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Delegation & Safety",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-076",
@@ -2929,18 +2977,18 @@
    "options": [
     "Accept the camera use because it lowers the fall rate on the unit.",
     "Raise the concern with the nurse manager so the system can protect privacy and dignity.",
-    "Cover each camera with a towel during care without telling the monitor technician.",
-    "Tell clients who object to ask for a room without a camera installed."
+    "Ask the monitor technician to pause the camera feed each time a client is bathed or toileted.",
+    "Explain the camera to each client and ask permission before giving personal care."
    ],
    "answer": 1,
    "optionRationales": [
     "Incorrect. A safety benefit does not cancel the duty to make sure technology respects dignity and privacy.",
-    "Correct. The ICN Code asks nurses to make sure technology use is compatible with client safety and dignity, and concerns go through proper channels so the system can be fixed.",
-    "Incorrect. Blocking a monitor without telling staff creates a fall risk and bypasses the chain of command.",
-    "Incorrect. This shifts the burden to clients and leaves others exposed."
+    "Correct. The ICN Code asks nurses to make sure technology use is compatible with client safety and dignity, and raising it with the manager fixes the system for every client.",
+    "Incorrect. Pausing the feed protects that client, but it is a one-off workaround that leaves the system unchanged for others.",
+    "Incorrect. Informing clients respects them, but it does not change a system that records them by default."
    ],
    "priority": false,
-   "rationale": "Under the “nurses and practice” element of the ICN Code, nurses make sure that the use of technology is compatible with client safety, dignity, and rights. Video monitoring may prevent falls, but recording clients during bathing and toileting threatens human dignity and privacy. The nurse raises the issue with the nurse manager so the system can be changed, such as privacy modes during care. Accepting the cameras because they work is tempting, but outcomes do not override dignity. Secretly covering cameras creates a new safety risk.",
+   "rationale": "Under the “nurses and practice” element of the ICN Code, nurses make sure that the use of technology is compatible with client safety, dignity, and rights. Video monitoring may prevent falls, but recording clients during bathing and toileting threatens human dignity and privacy. The nurse raises the issue with the nurse manager so the system can be changed, such as privacy modes during care. Accepting the cameras because they work is tempting, but outcomes do not override dignity. Case-by-case workarounds help one client but leave the system unchanged.",
    "takeaway": "Technology must keep clients safe and protect their dignity; raise concerns through proper channels.",
    "hintContent": "Think about which code element covers how nurses use technology in care.",
    "hintStrategy": "Choose the option that protects both safety and dignity through the chain of command, not a secret workaround.",
@@ -2951,7 +2999,8 @@
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-086",
@@ -3000,19 +3049,19 @@
    "stem": "At 1900, a provider writes a discharge order for a client with a new gastrostomy tube because the unit needs the bed. The client says, “I still can’t set up the feeding pump, and my wife works nights.” Which action should the nurse take first?",
    "options": [
     "Discharge the client as ordered and give him the unit phone number.",
-    "Explain to the client that the hospital must free the bed tonight.",
-    "Keep the client on the unit overnight on the nurse’s own authority.",
+    "Teach the client to set up the feeding pump before he leaves tonight.",
+    "Arrange a home health nurse to visit the client tomorrow morning.",
     "Tell the provider the client cannot yet safely manage his feedings at home."
    ],
    "answer": 3,
    "optionRationales": [
     "Incorrect. A phone number does not fix an unsafe gap in self-care skills.",
-    "Incorrect. This puts the facility’s need ahead of the client’s safety.",
-    "Incorrect. The nurse cannot cancel a discharge order alone; she advocates through the provider.",
+    "Incorrect. Teaching is needed, but one rushed session may not make him safe, and the provider must know before discharge.",
+    "Incorrect. A home health visit is a good plan, but it leaves him without help tonight when he cannot manage his feedings.",
     "Correct. The nurse’s first duty is to the client, so she advocates by reporting the unmet learning need to the provider."
    ],
    "priority": true,
-   "rationale": "A nurse owes duties to the client, the provider, the employing facility, and her own values, but ANA Provision 2 makes the client her primary commitment. She first considers what best meets the client’s needs. Here the client cannot yet manage his tube feedings and has no help at night, so the nurse advocates by telling the provider about the unmet teaching need. Discharging with a phone number is tempting because it follows the order, but it ignores a real safety risk. Keeping the client without an order oversteps the nurse’s authority.",
+   "rationale": "A nurse owes duties to the client, the provider, the employing facility, and her own values, but ANA Provision 2 makes the client her primary commitment. She first considers what best meets the client’s needs. Here the client cannot yet manage his tube feedings and has no help at night, so the nurse advocates by telling the provider about the unmet teaching need. Discharging with a phone number is tempting because it follows the order, but it ignores a real safety risk. A rushed teaching session or a visit tomorrow helps but still leaves tonight unsafe.",
    "takeaway": "When duties compete, the client’s needs come first; advocate through the provider.",
    "hintContent": "Ask whose needs come first when the facility, the provider, and the client pull in different directions.",
    "hintStrategy": "For first-action items, pick advocacy through the proper channel over following or ignoring the order.",
@@ -3023,7 +3072,8 @@
    "cjmm": "Take Action",
    "focus": "Prioritization",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-x1-088",
@@ -3031,20 +3081,20 @@
    "type": "mcq",
    "stem": "A nurse in her first year of practice tells a colleague she feels torn because a client’s family keeps asking her to keep a cancer diagnosis from the client. She has not slept well for days. What should the new nurse do first?",
    "options": [
-    "Handle the family on her own so she builds confidence.",
-    "Do what the family asks, since they know the client best.",
+    "Ask her manager to reassign the client to another nurse.",
+    "Read the hospital policy on disclosure before her next shift.",
     "Ask an experienced mentor for advice about the situation.",
-    "Wait to call the ethics committee until it becomes a dispute."
+    "Write in a journal each night to help manage her stress."
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Working through ethical stress alone feeds moral distress and burnout.",
-    "Incorrect. Hiding the diagnosis violates veracity and the client’s right to informed consent.",
+    "Incorrect. Reassignment brings relief, but it avoids the issue and does not help her learn to handle similar dilemmas.",
+    "Incorrect. Policy gives useful guidance, but reading alone does not give the support she needs for her distress.",
     "Correct. Less experienced nurses meet dilemmas more often, and advice from a mentor or experienced peer leads to better solutions.",
-    "Incorrect. Ethics committees are also a support resource for routine questions, not only for major disputes."
+    "Incorrect. Self-care can ease stress, but it does not resolve the dilemma or give her the guidance she needs."
    ],
    "priority": true,
-   "rationale": "Evidence cited in the course shows that less experienced nurses face ethical dilemmas more often and that seeking advice from a mentor or experienced peer leads to effective solutions. Lack of support leads to moral distress and burnout, and this nurse already shows signs of strain. Research also supports using the ethics committee for routine guidance and reassurance, not only for big conflicts. Handling it alone is tempting because it sounds independent, but it isolates the nurse. Agreeing with the family violates veracity.",
+   "rationale": "Evidence cited in the course shows that less experienced nurses face ethical dilemmas more often and that seeking advice from a mentor or experienced peer leads to effective solutions. Lack of support leads to moral distress and burnout, and this nurse already shows signs of strain. Asking for reassignment is tempting because it brings relief, but it is avoidance. Reading policy or journaling may help, but neither gives her the guidance and support she needs.",
    "takeaway": "New nurses facing ethical conflict should seek a mentor early and use the ethics committee as a routine support.",
    "hintContent": "Think about what the evidence says helps less experienced nurses with ethical problems.",
    "hintStrategy": "Eliminate options that isolate the nurse or deceive the client; choose the support-seeking action.",
@@ -3055,7 +3105,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Nursing Interventions",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   }
  ]
 }

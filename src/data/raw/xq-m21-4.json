@@ -31,7 +31,8 @@
     "Incorrect. A cast limits one leg, but the client moves independently and can feel and relieve pressure."
    ],
    "rationale": "Pressure-injury risk climbs steeply when several risk factors stack together. The 90-year-old cannot move well after surgery, is sedated enough to miss the urge to shift, has skin kept wet by urine, and has a fever that raises tissue oxygen demand, all on top of thin, aging skin. The client with heart failure is tempting because chronic cardiovascular disease does slow circulation, but she can still feel discomfort and move away from it. On \"who is at greatest risk\" items, count the factors and favor the client who cannot feel or move.",
-   "takeaway": "The client with the most stacked risk factors, especially immobility plus decreased sensation or mental status, needs prevention resources first."
+   "takeaway": "The client with the most stacked risk factors, especially immobility plus decreased sensation or mental status, needs prevention resources first.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-002",
@@ -50,20 +51,21 @@
    "stem": "A 79-year-old resident with dementia has been sitting in a reclining chair for 40 minutes. The nurse finds that she has slid forward so her sacrum and coccyx rest against the seat while her back stays reclined. Which action should the nurse take first?",
    "options": [
     "Lift her back in the chair with a second staff member and support her feet on a footrest",
-    "Place a foam ring cushion under the coccyx so the bony area no longer touches the seat surface",
-    "Pull her up by both arms from behind the chair so she is sitting upright again",
-    "Recline the chair further so more of her weight shifts onto her back and shoulders"
+    "Inspect her sacrum and coccyx for redness, then lift her back in the chair",
+    "Cue her to push herself back in the chair and rest her feet on the floor",
+    "Leave her seated as she is for now and reposition her at the 1-hour mark for chair sitting"
    ],
    "answer": 0,
    "priority": true,
    "optionRationales": [
-    "Correct. Lifting rather than dragging stops the sliding that is shearing the sacral tissue, and level thighs help keep her from slipping again.",
-    "Incorrect. Ring cushions press on the surrounding tissue and reduce blood flow to the area they are meant to protect.",
-    "Incorrect. Pulling by the arms drags the skin across the seat, adding friction and shear and risking shoulder injury.",
-    "Incorrect. Reclining further increases the downward slide and the shear force on the sacrum."
+    "Correct. Lifting with a second person removes her from the shearing position without dragging, and supporting the feet keeps the thighs level so she stops sliding.",
+    "Incorrect. Checking the skin is needed, but she is still sliding and under shear; the skin check comes right after she is repositioned.",
+    "Incorrect. Cueing works for a client who can follow directions, but a resident with dementia may not, and scooting back by herself adds friction and shear.",
+    "Incorrect. Hourly repositioning is the routine chair standard, but she has already slid into a shearing position, so waiting lets the damage continue."
    ],
-   "rationale": "A client who slides down in a chair or bed is exposed to shear: the skin over the sacrum sticks to the surface while the skeleton keeps moving, which stretches and tears deep blood vessels. The immediate fix is to lift her back into position with help, without dragging, and to support the feet so the thighs are level and she stops sliding. Pulling her up by the arms is tempting because it is fast, but it adds friction and shear, the very forces causing the problem. Ring cushions are never correct because they concentrate pressure on a narrow band of tissue.",
-   "takeaway": "A client sliding down in a chair or bed is being sheared; lift with help, never drag, and position to stop the slide."
+   "rationale": "A client who slides down in a chair or bed is exposed to shear: the skin over the sacrum sticks to the surface while the skeleton keeps moving, which stretches and tears deep blood vessels. The immediate fix is to lift her back into position with help, without dragging, and to support the feet so the thighs are level and she stops sliding. Inspecting the skin first is tempting because damage is likely, but the shear continues until she is repositioned, so the skin check comes right after. Cueing a resident with dementia to scoot back is unreliable and adds friction.",
+   "takeaway": "A client sliding down in a chair or bed is being sheared; lift with help, never drag, and position to stop the slide.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-003",
@@ -244,21 +246,22 @@
    },
    "stem": "Refer to the Braden Scale and Nurse Notes. Which nursing action is the priority for this client's pressure-injury prevention plan?",
    "options": [
-    "Apply a barrier cream to the perineum after each episode of incontinence",
+    "Inspect the skin over bony prominences every shift for early redness",
     "Request a dietitian consult and plan protein and calorie support once intake is allowed",
-    "Arrange a low-air-loss bed and turn the client at least every 2 hours around the clock",
-    "Make no changes, because a total of 19 places the client in the not-at-risk range for injury"
+    "Recheck the Braden score each day and add more measures if the total falls to 18 or lower",
+    "Help the client walk in the hall three times a day to promote circulation"
    ],
    "answer": 1,
    "priority": true,
    "optionRationales": [
-    "Incorrect. Moisture scored 4 and the client is continent, so moisture is not the problem.",
-    "Correct. Nutrition scored 1, the worst possible score, so it is the area that most needs a targeted intervention.",
-    "Incorrect. The client walks with assistance and changes position, so activity and mobility are not the lowest scores.",
-    "Incorrect. A single subscale of 1 signals real risk even when the total looks reassuring."
+    "Incorrect. Skin checks are routine prevention, but they only watch for damage; they do not address the nutrition deficit the Braden scale flagged.",
+    "Correct. Nutrition scored 1, the worst possible level, after 5 days without food and a 4-kg loss. The lowest subscale guides the plan, so nutrition support comes first.",
+    "Incorrect. Rechecking the score is reasonable, but the total of 19 hides a subscale already at its worst, so waiting for the total to fall delays needed care.",
+    "Incorrect. Walking supports activity, which scored 3, but the client already walks with help; the worst subscale is nutrition, so it is the priority."
    ],
-   "rationale": "The Braden scale is scored backward, so low numbers mean high risk, and a 1 in any subscale is the worst possible score for that area. This client's total of 19 looks reassuring, but nutrition scored 1 after days without food and a recent weight loss, which means less padding and poor tissue repair. The subscales tell the nurse where to aim the plan, so nutrition support and a dietitian consult come first. Taking no action is tempting because of the total, but the total hides the one area at its worst level.",
-   "takeaway": "Use Braden subscales to target care; a subscale of 1 needs action even when the total is in the not-at-risk range."
+   "rationale": "The Braden scale is scored backward, so low numbers mean high risk, and a 1 in any subscale is the worst possible score for that area. This client's total of 19 looks reassuring, but nutrition scored 1 after days without food and a recent weight loss, which means less padding and poor tissue repair. The subscales tell the nurse where to aim the plan, so nutrition support and a dietitian consult come first. Waiting for the total to fall is tempting because 19 is above the at-risk cutoff, but the total hides the one area at its worst level.",
+   "takeaway": "Use Braden subscales to target care; a subscale of 1 needs action even when the total is in the not-at-risk range.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-007",
@@ -288,7 +291,8 @@
     "Incorrect. The subscales add to 14, not 16, and even mild risk calls for prevention measures."
    ],
    "rationale": "The subscales add up to 14, which falls in the moderate-risk band (13–14) using common Braden cutoffs. Because the scale runs backward, a lower total means higher risk, and the lowest subscales point to the client's specific problems: moisture, limited activity and mobility, and friction and shear. Calling 14 \"low risk\" is tempting because it is above the midpoint of the range, but the Braden scale considers anything 18 or below to carry some level of risk. Subscale analysis turns the number into a care plan.",
-   "takeaway": "Braden 13–14 is moderate risk; add the subscales carefully and target the lowest ones."
+   "takeaway": "Braden 13–14 is moderate risk; add the subscales carefully and target the lowest ones.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-008",
@@ -337,20 +341,21 @@
    "stem": "A 63-year-old client's Braden score was 21 on admission. After a 6-hour spinal fusion, the client has an epidural infusion, is newly incontinent of urine, and has a Braden score of 13. Which action should the nurse take first?",
    "options": [
     "Intensify prevention now: turn at least every 2 hours, check skin, and manage moisture",
-    "Continue the admission plan, since the client was not at risk before going to surgery",
-    "Wait to change the plan until the epidural is removed and sensation in the legs returns",
-    "Recheck the Braden score in 1 week to confirm that the drop in the score is real"
+    "Recheck the Braden score in 4 hours to confirm the drop before changing the plan of care",
+    "Notify the provider of the new score and wait for orders on skin care",
+    "Apply a barrier cream to the perineum after each episode of incontinence"
    ],
    "answer": 0,
    "priority": true,
    "optionRationales": [
-    "Correct. A sudden fall in the Braden score means risk has jumped, so prevention must intensify now.",
-    "Incorrect. The admission score no longer reflects the client; the current score drives the plan.",
-    "Incorrect. Diminished sensation from the epidural is the reason to act now, not a reason to wait.",
-    "Incorrect. Waiting a week leaves a high-risk client unprotected while tissue damage can begin within hours."
+    "Correct. The drop from 21 to 13 has clear causes, so the nurse increases turning, skin checks, and moisture control this shift before damage starts.",
+    "Incorrect. Reassessing is reasonable, but the causes of the drop are obvious, and waiting 4 hours to act leaves numb, immobile tissue unprotected.",
+    "Incorrect. The provider may need to know, but turning, skin checks, and moisture care are independent nursing actions that should not wait for orders.",
+    "Incorrect. A barrier cream is appropriate for the new incontinence, but it addresses only moisture and does nothing about the lost sensation and mobility."
    ],
-   "rationale": "A sudden drop in the Braden score after surgery, sedation, new incontinence, or fever means the client's risk has changed now. This client cannot feel pressure in the lower body, cannot move freely after a long procedure, and has skin exposed to moisture, so damage can begin within hours. The nurse increases turning, skin checks, and moisture control this shift. Continuing the admission plan is tempting because the client started out low risk, but care must match the current assessment, not the old one.",
-   "takeaway": "When the Braden score drops, intensify prevention immediately; the current score, not the admission score, drives care."
+   "rationale": "A sudden drop in the Braden score after surgery, sedation, new incontinence, or fever means the client's risk has changed now. This client cannot feel pressure in the lower body, cannot move freely after a long procedure, and has skin exposed to moisture, so damage can begin within hours. The nurse increases turning, skin checks, and moisture control this shift. Rechecking the score before acting is tempting because it seems careful, but the causes of the drop are clear, and care must match the current assessment now.",
+   "takeaway": "When the Braden score drops, intensify prevention immediately; the current score, not the admission score, drives care.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-010",
@@ -420,7 +425,8 @@
     "Incorrect. Pressure causes ischemia over prominences; it does not produce surface scrapes from rubbing."
    ],
    "rationale": "Friction is rubbing of the skin against a surface, and it removes the top layer of skin like sandpaper, leaving shallow raw areas. Restless movement against the sheets is a classic cause, so protectors for the heels and elbows and smooth linens address it. Shear is the tempting look-alike, but shear stretches and tears deep vessels when the body slides and the skin stays still, so the surface often looks intact at first. Matching the mechanism to the finding tells the nurse which intervention will actually help.",
-   "takeaway": "Friction scrapes the surface; shear tears deep vessels; match the intervention to the force."
+   "takeaway": "Friction scrapes the surface; shear tears deep vessels; match the intervention to the force.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-012",
@@ -438,21 +444,22 @@
    "hintStrategy": "When asked for the best explanation, choose the option that names the actual mechanism of harm rather than a secondary concern.",
    "stem": "An assistive personnel (AP) asks the nurse why a client who is incontinent of liquid stool must be cleaned right away rather than at the next scheduled check in 2 hours. Which explanation by the nurse is most accurate?",
    "options": [
-    "\"Stool raises the skin's temperature, and heat is what causes pressure injuries to form.\"",
+    "\"Moisture softens the skin, so cleaning right away keeps the area as dry as possible.\"",
     "\"The main concern is odor, which can upset the client and other people on the unit.\"",
-    "\"Cleaning right away lets us skip the barrier cream, since clean skin needs no protection.\"",
+    "\"Prompt cleaning protects the client's dignity and keeps the client comfortable.\"",
     "\"Moisture softens the skin, and stool enzymes digest it, so each minute adds damage.\""
    ],
    "answer": 3,
    "priority": false,
    "optionRationales": [
-    "Incorrect. Heat raises metabolic demand, but stool damages skin through moisture and enzymes, not mainly heat.",
-    "Incorrect. Odor matters for dignity, but the skin-integrity reason is the chemical and moisture damage to skin.",
-    "Incorrect. Barrier cream is still needed after cleansing to protect skin from the next episode.",
-    "Correct. Stool brings both moisture, which macerates skin, and enzymes that digest it, so prompt cleansing limits breakdown."
+    "Incorrect. Maceration from moisture is real, but this explanation leaves out the stool enzymes that chemically digest the skin, the main reason liquid stool is so damaging.",
+    "Incorrect. Odor is a real concern for the client and others, but it misses the physical skin damage the AP needs to understand.",
+    "Incorrect. Dignity and comfort matter, but this answer does not explain the harm stool does to the skin, which is why cleaning cannot wait.",
+    "Correct. It names both ways incontinence damages skin: moisture causes maceration, and stool enzymes digest the skin surface, so damage grows with every minute of contact."
    ],
    "rationale": "Incontinence raises pressure-injury risk in two ways. Moisture from urine or stool softens the skin (maceration), and enzymes in stool actually digest the skin's surface, which opens the door to breakdown and infection. That is why cleansing should be prompt, followed by patting dry and a barrier product. The odor explanation is tempting because it is a real concern, but it misses the physical harm the AP needs to understand to give care correctly.",
-   "takeaway": "Stool damages skin through moisture and digestive enzymes, so cleanse promptly and protect with a barrier product."
+   "takeaway": "Stool damages skin through moisture and digestive enzymes, so cleanse promptly and protect with a barrier product.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-013",
@@ -470,21 +477,22 @@
    "hintStrategy": "When a client's report conflicts with a known cause of missing sensation, trust the risk factor and act to protect the tissue.",
    "stem": "A 69-year-old client has a continuous epidural infusion after bilateral knee replacement. Both legs are numb, and the heels are resting directly on the mattress. The client says, \"I'm comfortable. My feet don't hurt at all.\" Which action should the nurse take first?",
    "options": [
-    "Ask the provider to stop the epidural so the client can feel the heels again",
-    "Massage both heels with lotion to improve circulation to the area",
+    "Place a soft pillow directly under both heels to cushion them on the mattress",
+    "Inspect both heels now and document their condition in the client's record",
     "Inspect both heels and float them off the bed with a pillow under the calves",
-    "Accept the client's report of comfort and recheck the heels at the end of the shift"
+    "Notify the provider that the client has no feeling in either heel"
    ],
    "answer": 2,
    "priority": true,
    "optionRationales": [
-    "Incorrect. The epidural is controlling postoperative pain; the nurse protects the heels instead of removing the pain relief.",
-    "Incorrect. Massage over bony prominences can damage fragile capillaries and worsen deep injury.",
-    "Correct. The epidural removes the warning sensation, so the nurse must check the heels and take pressure off them now.",
-    "Incorrect. The client cannot feel pressure, so the report of comfort does not reflect tissue status."
+    "Incorrect. Cushioning seems helpful, but the heels still bear weight on the pillow; the pillow goes under the calves so the heels float free.",
+    "Incorrect. Inspecting the heels is the right start, but documenting without relieving the pressure leaves the heels on the mattress.",
+    "Correct. The nurse checks the heels for damage and floats them so no pressure rests on them while the epidural blocks sensation.",
+    "Incorrect. Numbness is an expected effect of the epidural, not a new problem; protecting the heels is an independent nursing action."
    ],
-   "rationale": "Diminished sensation is a major risk factor because the client loses the discomfort that normally prompts a change in position. An epidural creates this temporarily, and the heels, with little padding, are among the first places to break down. The nurse inspects the heels and floats them off the mattress. The client's statement of comfort is tempting to accept, but it is a symptom of the problem, not reassurance.",
-   "takeaway": "A client who cannot feel pressure cannot report it; inspect and offload prominences on a schedule, not on complaint."
+   "rationale": "Diminished sensation is a major risk factor because the client loses the discomfort that normally prompts a change in position. An epidural creates this temporarily, and the heels, with little padding, are among the first places to break down. The nurse inspects the heels and floats them off the mattress with a pillow under the calves. Placing the pillow under the heels is tempting because it looks like cushioning, but the heels still bear weight. The client's statement of comfort is a symptom of the problem, not reassurance.",
+   "takeaway": "A client who cannot feel pressure cannot report it; inspect and offload prominences on a schedule, not on complaint.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-014",
@@ -575,21 +583,22 @@
    "hintStrategy": "When asked to explain a difference between two similar clients, choose the factor present in only one of them.",
    "stem": "A 67-year-old client with type 2 diabetes and peripheral artery disease developed a heel pressure injury after 3 days on bed rest. The client's spouse asks why it happened so quickly when the client's roommate, who is the same age, has no skin problems. Which explanation by the nurse is most accurate?",
    "options": [
-    "\"The heel heals slowly because diabetes keeps the client from eating enough protein.\"",
+    "\"Older skin is thinner and drier, so it breaks down faster under pressure.\"",
     "\"Both conditions reduce blood flow, so the heel tolerates pressure poorly and heals slowly.\"",
-    "\"Artery disease makes the heel skin thicker, so it cannot stretch when pressure is applied.\"",
-    "\"Diabetes raises blood sugar, and sugar crystals form in the skin and cut it from inside.\""
+    "\"High blood sugar weakens white cells, so the heel is more likely to get infected.\"",
+    "\"Poor nutrition slows healing, so we will look closely at how much protein the client is eating.\""
    ],
    "answer": 1,
    "priority": false,
    "optionRationales": [
-    "Incorrect. Diabetes does not directly prevent protein intake; the key issue is reduced circulation.",
-    "Correct. Chronic conditions that reduce circulation make tissue become ischemic sooner and recover more slowly.",
-    "Incorrect. Artery disease reduces blood flow; it does not thicken the skin.",
-    "Incorrect. This is not a real mechanism; the problem is reduced circulation and delayed healing."
+    "Incorrect. Aging skin is more fragile, but the roommate is the same age, so age cannot explain why this client was injured faster.",
+    "Correct. Diabetes and artery disease both reduce circulation, so the heel becomes ischemic sooner under pressure and repairs more slowly. This explains the difference from the roommate.",
+    "Incorrect. Diabetes does raise infection risk, but that explains a possible complication, not why the injury formed so quickly.",
+    "Incorrect. Nutrition affects healing and is worth checking, but nothing in the stem points to poor intake, and it does not explain the fast onset."
    ],
-   "rationale": "Chronic medical conditions such as diabetes and cardiovascular disease reduce circulation and slow healing. Tissue that already receives less blood reaches ischemia faster when pressure is added, and it repairs more slowly once damaged. The heel, with little padding and distal circulation, is especially vulnerable. The protein explanation is tempting because nutrition matters, but it does not explain why this client was injured faster than a roommate of the same age.",
-   "takeaway": "Diabetes and vascular disease reduce circulation, so tissue under pressure becomes ischemic faster and heals slower."
+   "rationale": "Chronic medical conditions such as diabetes and cardiovascular disease reduce circulation and slow healing. Tissue that already receives less blood reaches ischemia faster when pressure is added, and it repairs more slowly once damaged. The heel, with little padding and distal circulation, is especially vulnerable. The point about older skin is tempting because it is true, but the roommate is the same age, so age cannot explain why this client was injured faster.",
+   "takeaway": "Diabetes and vascular disease reduce circulation, so tissue under pressure becomes ischemic faster and heals slower.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-017",
@@ -608,20 +617,21 @@
    "stem": "A home health nurse makes a first visit to an 88-year-old client who is mostly bedbound and cared for by her grandson. The grandson says, \"Her skin is fine. She'd tell me if something hurt.\" Which action is most important for the nurse to take at this visit?",
    "options": [
     "Complete a baseline risk assessment and inspect all bony prominences under good light",
-    "Accept the grandson's report and schedule a full skin check for the next visit",
-    "Give the grandson a pamphlet on pressure injuries and ask him to read it before next week",
-    "Order a low-air-loss mattress so that turning is less important at home"
+    "Teach the grandson to turn her every 2 hours and check her heels each day",
+    "Watch the grandson reposition her to see how he handles her during the day",
+    "Call the provider to request a pressure-redistribution mattress for the home"
    ],
    "answer": 0,
    "priority": true,
    "optionRationales": [
-    "Correct. A baseline risk score and full skin check identify early damage that family caregivers often miss.",
-    "Incorrect. Early damage at home is often unrecognized by family caregivers, so the nurse cannot rely on the report.",
-    "Incorrect. Teaching matters, but it should follow the nurse's own assessment of this client's skin and risk.",
-    "Incorrect. Support surfaces add to turning; they never replace it, and the risk has not yet been assessed."
+    "Correct. A first visit needs a baseline: a risk score and a full inspection of bony prominences in good light. These findings guide teaching and equipment.",
+    "Incorrect. This teaching will likely be needed, but the nurse must first assess the skin and risk so teaching fits what is actually found.",
+    "Incorrect. Observing caregiver technique is useful, but it does not show whether her skin is already damaged; the skin inspection comes first.",
+    "Incorrect. Equipment may be needed, but requesting it before assessing the client skips the step that shows what she needs."
    ],
-   "rationale": "Pressure injuries in home care are likely underreported because family caregivers may not recognize early damage, and an older, bedbound client may not report discomfort. The nurse begins with a baseline risk assessment, such as the Braden scale, and a full skin inspection of the bony prominences in good light. Those findings then shape the teaching plan and equipment needs. Accepting the grandson's report is tempting because he knows the client well, but it is not an assessment.",
-   "takeaway": "At a first home visit, do a baseline risk score and a full skin inspection; don't rely on a family report."
+   "rationale": "Pressure injuries in home care are likely underreported because family caregivers may not recognize early damage, and an older, bedbound client may not report discomfort. The nurse begins with a baseline risk assessment, such as the Braden scale, and a full skin inspection of the bony prominences in good light. Those findings then shape the teaching plan and equipment needs. Teaching the grandson right away is tempting because he will need it, but the nurse must first find out what the skin and risk actually look like.",
+   "takeaway": "At a first home visit, do a baseline risk score and a full skin inspection; don't rely on a family report.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-018",
@@ -678,20 +688,21 @@
    "stem": "A 52-year-old client with three fractured ribs refuses to be turned off the back, saying, \"It hurts too much to move.\" The client has been supine for 2½ hours, and an oral analgesic is prescribed as needed. Which action by the nurse is best?",
    "options": [
     "Give the prescribed analgesic and reposition the client once it takes effect",
-    "Change the turning schedule to every 4 hours to reduce the client's discomfort",
-    "Document the refusal and let the client stay supine until the pain resolves",
-    "Place a foam ring cushion under the sacrum while the client stays supine"
+    "Explain why turning prevents skin injury and encourage the client to turn now",
+    "Turn the client now with a second nurse while splinting the chest with a pillow",
+    "Document the refusal and offer to turn the client again in 1 hour"
    ],
    "answer": 0,
    "priority": true,
    "optionRationales": [
-    "Correct. Pain is causing immobility, so treating the pain makes repositioning possible and tolerable.",
-    "Incorrect. Turning every 4 hours is not frequent enough for a client in bed.",
-    "Incorrect. Leaving the client supine for days allows ischemia over the sacrum and heels.",
-    "Incorrect. Ring cushions reduce blood flow around the sacrum and are never appropriate."
+    "Correct. Pain is the reason for the refusal, so treating it first makes turning tolerable and protects the skin while respecting the client's comfort.",
+    "Incorrect. Teaching is helpful, but it does not remove the rib pain that is stopping the client from moving.",
+    "Incorrect. Splinting and a second helper reduce discomfort, but the client has refused because of pain; turning now overrides that refusal without first treating the pain.",
+    "Incorrect. Clients may decline care, but this refusal comes from untreated pain the nurse can fix, and another hour adds pressure time."
    ],
    "rationale": "Pain is a risk factor for pressure injury because it makes clients reluctant to move. The best solution addresses the cause: give the prescribed analgesic, then reposition when it has taken effect, explaining why turning matters. This respects the client's comfort and still protects the skin. Documenting the refusal is tempting because clients may decline care, but here the refusal comes from untreated pain, which the nurse can fix.",
-   "takeaway": "When pain is causing immobility, treat the pain so repositioning can happen."
+   "takeaway": "When pain is causing immobility, treat the pain so repositioning can happen.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-020",
@@ -780,7 +791,7 @@
    "hintStrategy": "When harm is ongoing, choose the action that stops it before actions that document or score it.",
    "stem": "A 76-year-old client who had a stroke 2 days ago has left-sided paralysis and decreased sensation on the left. At the start of the shift, the nurse finds that the client has been lying on the left side for about 3 hours. Which action should the nurse take first?",
    "options": [
-    "Massage the left hip to restore blood flow before turning the client",
+    "Inspect the left hip and shoulder for redness before turning the client",
     "Turn the client off the left side and inspect the left hip, shoulder, and ankle",
     "Recalculate the Braden score before making any change to the client's position",
     "Notify the provider that the client was not turned for the past 3 hours"
@@ -788,13 +799,14 @@
    "answer": 1,
    "priority": true,
    "optionRationales": [
-    "Incorrect. Massage over a bony prominence can damage fragile capillaries.",
-    "Correct. Relieving pressure stops further ischemia, and inspecting the loaded sites shows whether damage has begun.",
-    "Incorrect. A risk score is useful, but relieving ongoing pressure on a numb side comes first.",
-    "Incorrect. Notification may follow, but the nurse first relieves the pressure and assesses the skin."
+    "Incorrect. Inspection is needed, but the client is still lying on these areas; turning first stops the pressure and exposes the skin for a full look.",
+    "Correct. The client cannot feel or move the left side and is past the 2-hour limit, so the nurse removes the pressure now and inspects the weight-bearing prominences.",
+    "Incorrect. The Braden score is an assessment, but the high risk is already obvious, and scoring first leaves pressure on the left side.",
+    "Incorrect. The missed turns may need reporting, but that does not relieve the pressure that is still being applied right now."
    ],
    "rationale": "This client cannot feel or move the left side, so pressure on the left hip, shoulder, and ankle has gone unrelieved for longer than the 2-hour standard. The first priority is to stop the ongoing pressure and look at the weight-bearing prominences for nonblanchable redness or other damage. Recalculating the Braden score is tempting because it is an assessment, but the client's high risk is already obvious and the pressure is still being applied. Repositioning and focused skin inspection address the immediate threat.",
-   "takeaway": "When a high-risk client has been on one side too long, relieve the pressure and inspect the loaded sites first."
+   "takeaway": "When a high-risk client has been on one side too long, relieve the pressure and inspect the loaded sites first.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-022",
@@ -812,21 +824,22 @@
    "hintStrategy": "Choose the option that addresses the cause; eliminate any product on the \"avoid\" list.",
    "stem": "A 59-year-old client with sepsis has been sweating heavily through the night. When the nurse turns the client, the skin over the back and sacrum is pale, soft, and wrinkled, and the sheets are damp. Which action should the nurse take first?",
    "options": [
-    "Dust the sacrum and back with cornstarch to absorb sweat",
-    "Rub the skin briskly with a towel to restore its color",
+    "Apply a moisture-barrier cream to the sacrum and back",
+    "Place an absorbent pad under the back and sacrum",
     "Change the damp gown and linens and pat the skin dry",
-    "Apply a petroleum-based ointment to the softened skin"
+    "Turn the client to the side so the back can air-dry"
    ],
    "answer": 2,
    "priority": true,
    "optionRationales": [
-    "Incorrect. Cornstarch clumps when wet and irritates the skin.",
-    "Incorrect. Rubbing adds friction to skin that is already softened and fragile.",
-    "Correct. The findings show maceration from prolonged moisture, so removing the moisture comes first.",
-    "Incorrect. Petroleum ointments are on the avoid list and do not remove the moisture causing the damage."
+    "Incorrect. A barrier cream protects skin from moisture, but it works on clean, dry skin and belongs after the damp linens are changed.",
+    "Incorrect. A pad absorbs future sweat, but the client is still lying in a damp gown and wet sheets.",
+    "Correct. Removing the wet gown and linens and patting dry ends the moisture contact that is causing maceration.",
+    "Incorrect. Turning off the back helps, but the damp gown and sheets stay in contact with the skin, so the source is not removed."
    ],
-   "rationale": "Pale, soft, wrinkled skin after long contact with sweat or urine is maceration, the softening that makes skin break down easily. The first step is to remove the source by changing damp linens and the gown and gently patting the skin dry. A barrier product and more frequent linen checks can follow. Cornstarch is tempting because it seems to absorb moisture, but it clumps into an irritating paste and can feed yeast.",
-   "takeaway": "Macerated skin needs the moisture removed first: dry linens, dry gown, and gentle patting."
+   "rationale": "Pale, soft, wrinkled skin after long contact with sweat or urine is maceration, the softening that makes skin break down easily. The first step is to remove the source by changing damp linens and the gown and gently patting the skin dry. A barrier product and more frequent linen checks can follow. A barrier cream is tempting because it protects against moisture, but it should go on clean, dry skin after the wet linens are gone.",
+   "takeaway": "Macerated skin needs the moisture removed first: dry linens, dry gown, and gentle patting.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-023",
@@ -842,21 +855,22 @@
    "hintStrategy": "When a family member holds a misconception, choose the response that corrects it with the cause present in this client.",
    "stem": "A 15-year-old with spina bifida who uses a wheelchair is seen in clinic with a new open area over the left ischial tuberosity. The parent says, \"I thought only elderly people got bedsores.\" Which response by the nurse is most accurate?",
    "options": [
-    "\"Young people get bedsores only if they are malnourished, so we'll check his diet.\"",
-    "\"Teenagers grow quickly, and growth spurts thin the skin over the hips.\"",
-    "\"Sores like this come from infection, not from pressure, in younger clients.\"",
+    "\"Poor nutrition raises risk at any age, so we'll also check his diet.\"",
+    "\"These sores are less common in teens, but they can happen at any age.\"",
+    "\"Sweat in the wheelchair seat can soften skin and make it break down.\"",
     "\"He can't feel pressure on his seat, so he misses the signal to shift his weight.\""
    ],
    "answer": 3,
    "priority": false,
    "optionRationales": [
-    "Incorrect. Nutrition matters, but sensory loss and sitting pressure are the key factors here.",
-    "Incorrect. Growth does not explain this injury; loss of sensation while sitting does.",
-    "Incorrect. An open area over the ischium in a wheelchair user is a classic pressure injury.",
-    "Correct. Diminished sensation removes the warning to move, which puts clients of any age at risk."
+    "Incorrect. Nutrition does affect risk at any age, but nothing suggests poor intake; sensory loss and sitting are the main causes here.",
+    "Incorrect. This is true, but it does not tell the parent why this teen developed an injury.",
+    "Incorrect. Moisture can contribute, but the stem gives no sign of it, and it does not explain the main cause.",
+    "Correct. Spina bifida reduces sensation, so he does not feel the discomfort that normally prompts weight shifts off the ischial tuberosities while sitting."
    ],
    "rationale": "Anyone can develop a pressure injury, and age is only one factor. This teen has diminished sensation from spina bifida and spends much of the day sitting, which concentrates his weight on the small ischial tuberosities. Without the discomfort that normally prompts weight shifts, pressure goes unrelieved. Nutrition is a tempting answer because it does affect risk, but the stem points to sensory loss and sitting as the main causes.",
-   "takeaway": "Loss of sensation plus prolonged sitting causes pressure injuries at any age."
+   "takeaway": "Loss of sensation plus prolonged sitting causes pressure injuries at any age.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-024",
@@ -877,18 +891,19 @@
     "\"The redness was a normal reaction, so this must be a new injury from his hospital mattress.\"",
     "\"An open wound means an infection has started, which is the usual cause of skin opening up.\"",
     "\"Tissue that died from the pressure at home is breaking down now, despite our turning.\"",
-    "\"Turning every 2 hours causes small injuries of its own, so we will turn him less often now.\""
+    "\"Turning every 2 hours was not often enough, so we will turn him more often now.\""
    ],
    "answer": 2,
    "priority": false,
    "optionRationales": [
-    "Incorrect. Nonblanchable redness is not a normal reaction; it showed damage already present on admission.",
-    "Incorrect. Infection can complicate a wound, but the sequence here is pressure, ischemia, necrosis, then ulcer.",
-    "Correct. Necrosis from the original pressure leads to tissue breakdown and an ulcer, even when care since admission has been correct.",
-    "Incorrect. Regular turning relieves pressure and prevents new injury; reducing it would increase risk."
+    "Incorrect. Nonblanchable redness on admission is not normal; it was a sign of damage that had already happened on the floor.",
+    "Incorrect. Open wounds can become infected, but infection does not explain how this wound formed.",
+    "Correct. Tissue that died during 12 hours on the floor can take days to break down, so the wound opens even though pressure has been relieved since admission.",
+    "Incorrect. Reviewing the turning plan is reasonable, but the damage happened before admission, so turning more often would not have prevented this wound."
    ],
    "rationale": "Prolonged pressure leads to reduced blood flow, ischemia, necrosis, and finally an ulcer when the dead tissue breaks down. Damage that occurred during 12 hours on the floor may not show its full extent for several days, so a wound can open even though pressure has been relieved since admission. The nurse explains this honestly and continues to protect the area. The infection explanation is tempting because open wounds can become infected, but it does not describe how this wound formed.",
-   "takeaway": "Tissue killed by earlier pressure can still break down into an ulcer days later, even with good care since."
+   "takeaway": "Tissue killed by earlier pressure can still break down into an ulcer days later, even with good care since.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-025",
@@ -987,20 +1002,21 @@
    "stem": "On afternoon rounds at a rehabilitation center, the nurse finds a 73-year-old client who cannot shift his own weight still sitting in his wheelchair, where staff placed him after breakfast 3 hours ago. Which action should the nurse take first?",
    "options": [
     "Reposition him off his sit bones now and inspect the skin over them",
-    "Place a foam ring cushion on the seat so he can stay up until lunch",
+    "Inspect the skin over his sit bones while he stays seated in the chair",
     "Remind him to lean forward on his own every 15 minutes from now on",
-    "Document the time in the chair and report it to the oncoming shift for follow-up"
+    "Notify the charge nurse that he was left in the chair for 3 hours"
    ],
    "answer": 0,
    "priority": true,
    "optionRationales": [
-    "Correct. Sitting clients need repositioning at least every hour; after 3 hours, relieving pressure and inspecting the sit bones is urgent.",
-    "Incorrect. Ring cushions reduce blood flow around the area and cause injury.",
-    "Incorrect. He cannot shift his weight himself, so cueing alone will not relieve the pressure.",
-    "Incorrect. Documentation does not relieve the pressure that is harming the tissue now."
+    "Correct. He cannot shift his own weight and is 2 hours past the hourly limit, so the nurse relieves the pressure now and checks the skin over the ischial tuberosities.",
+    "Incorrect. A skin check is needed, but the sit bones cannot be fully seen while he is seated, and the pressure continues.",
+    "Incorrect. Cueing weight shifts is good teaching for clients who can move, but this client cannot shift on his own.",
+    "Incorrect. The lapse may need reporting, but escalating first leaves him sitting on tissue that needs relief now."
    ],
    "rationale": "A chair is riskier than a bed because the upper body's weight rests on the small ischial tuberosities. Clients in a chair should be repositioned at least every hour, and those who can move should shift weight every 15 minutes. This client cannot shift on his own and has been sitting for 3 hours, so the nurse relieves the pressure now and checks the skin over the sit bones. Cueing weight shifts is tempting because it is good teaching, but it does not help a client who cannot do it.",
-   "takeaway": "Chair = at least hourly repositioning; a client left sitting longer needs pressure relief and a skin check now."
+   "takeaway": "Chair = at least hourly repositioning; a client left sitting longer needs pressure relief and a skin check now.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-027",
@@ -1050,21 +1066,22 @@
    "hintStrategy": "For refusal items, choose the response that explores and problem-solves rather than giving in, lecturing, or threatening.",
    "stem": "At 0200, a 68-year-old client with a Braden score of 12 refuses to be turned, saying, \"Every time I fall asleep, someone wakes me up. Leave me alone tonight.\" Which response by the nurse is best?",
    "options": [
-    "\"If you won't turn, I'll need to ask the provider for a sleeping pill tonight.\"",
+    "\"Turning protects your skin from sores. Can I turn you just this one more time?\"",
     "\"Losing sleep is hard. Let's time turns around your sleep and use small pillow shifts.\"",
     "\"I understand. I'll let you sleep and won't turn you again until the morning shift starts.\"",
-    "\"You have to be turned every 2 hours. It's hospital policy, so I can't skip it.\""
+    "\"You need your rest. I'll note that you refused and check on you again later.\""
    ],
    "answer": 1,
    "priority": true,
    "optionRationales": [
-    "Incorrect. Sedation increases immobility and risk, and this response sounds like a threat.",
-    "Correct. This acknowledges the concern, respects the client's input, and keeps pressure relief going in a less disruptive way.",
-    "Incorrect. Skipping turns for the rest of the night leaves a high-risk client in one position for hours.",
-    "Incorrect. Citing policy ignores the client's concern and may increase refusal."
+    "Incorrect. Explaining the reason is reasonable, but it pushes past the client's concern about sleep instead of solving it.",
+    "Correct. It acknowledges the concern and offers a safe alternative: clustering turns with natural waking and small pillow shifts protect the skin and preserve sleep.",
+    "Incorrect. This honors the request, but it leaves a high-risk client in one position for hours without exploring other options.",
+    "Incorrect. Respecting the refusal and documenting it are appropriate, but the nurse should first look for a safe compromise for a high-risk client."
    ],
-   "rationale": "Clients have the right to make decisions about their care, and the nurse's job is to understand the reason for a refusal and find a safe alternative. Clustering care, timing turns with natural waking, and using small pillow-supported shifts can protect the skin while preserving sleep. Agreeing to skip turns until morning is tempting because it honors the request, but it leaves a high-risk client in one position too long without exploring options. Citing policy or threatening sedation damages trust and does not solve the problem.",
-   "takeaway": "When a client refuses repositioning, acknowledge the reason and negotiate a safe plan rather than either forcing or abandoning care."
+   "rationale": "Clients have the right to make decisions about their care, and the nurse's job is to understand the reason for a refusal and find a safe alternative. Clustering care, timing turns with natural waking, and using small pillow-supported shifts can protect the skin while preserving sleep. Agreeing to skip turns until morning is tempting because it honors the request, but it leaves a high-risk client in one position too long without exploring options. Simply restating the benefit of turning, or documenting the refusal, does not address the client's concern.",
+   "takeaway": "When a client refuses repositioning, acknowledge the reason and negotiate a safe plan rather than either forcing or abandoning care.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-029",
@@ -1080,21 +1097,22 @@
    "hintStrategy": "Eliminate options that keep or add the cause of the problem.",
    "stem": "While turning a 71-year-old client who is on bed rest, the nurse finds that the client has been lying on the oxygen tubing and the urinary catheter tubing, and a folded bath blanket is bunched under the hips. Which action should the nurse take first?",
    "options": [
-    "Apply a foam dressing over both hips before replacing the client on the folded blanket",
+    "Inspect the skin on the hips and back before moving the tubing or blanket",
     "Move the tubing and remove the blanket so the surface under the client is smooth",
-    "Leave the tubing in place so the oxygen and catheter are not disconnected",
-    "Add a second folded blanket to even out the surface under the client"
+    "Apply foam dressings over both hips to cushion them from the ridges",
+    "Smooth the folded blanket flat under the hips and reposition the client"
    ],
    "answer": 1,
    "priority": true,
    "optionRationales": [
-    "Incorrect. A dressing does not remove the ridges that are causing the pressure.",
-    "Correct. Tubing and bunched linens create hard ridges that concentrate pressure; removing them comes first.",
-    "Incorrect. Tubing can be rerouted safely without disconnection; lying on it causes pressure injury.",
-    "Incorrect. Stacking more layers creates more ridges and traps heat and moisture."
+    "Incorrect. Inspection is needed, but the ridges keep pressing on the skin until they are removed; inspect right after the surface is cleared.",
+    "Correct. Tubing and bunched linens create hard ridges that concentrate pressure, so the nurse removes them to give one smooth layer, then inspects the skin.",
+    "Incorrect. Foam dressings can add protection, but they do not remove the tubing and blanket that are causing the pressure points.",
+    "Incorrect. Flattening helps, but the folded blanket is still an extra layer, and the tubing is still under the client."
    ],
-   "rationale": "Support surfaces work only when they are smooth and firm. Tubing, crumbs, wrinkles, and bunched or stacked linens create hard ridges that dig into the skin and concentrate pressure. The nurse reroutes the tubing safely and removes the bunched blanket so the client lies on one smooth layer, then inspects the skin where the ridges were. Adding another blanket is tempting as a cushioning step, but extra layers create more ridges, not fewer.",
-   "takeaway": "Keep the client on one smooth, wrinkle-free layer; reroute tubing and remove bunched or stacked linens."
+   "rationale": "Support surfaces work only when they are smooth and firm. Tubing, crumbs, wrinkles, and bunched or stacked linens create hard ridges that dig into the skin and concentrate pressure. The nurse reroutes the tubing safely and removes the bunched blanket so the client lies on one smooth layer, then inspects the skin where the ridges were. Smoothing the blanket flat is tempting as a quick fix, but a folded blanket is still an extra layer that defeats the support surface.",
+   "takeaway": "Keep the client on one smooth, wrinkle-free layer; reroute tubing and remove bunched or stacked linens.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-030",
@@ -1124,7 +1142,8 @@
     "Correct. Chair sitting requires repositioning at least every hour, so this client is overdue by an hour."
    ],
    "rationale": "The repositioning timetable is bed at least every 2 hours, chair every hour, and self weight shifts about every 15 minutes. The client in the chair since 0800 cannot shift his own weight and is an hour past the hourly limit, with pressure concentrated on the ischial tuberosities. The bedbound client turned at 0900 is still within the 2-hour window. The dietitian consult is tempting because nutrition is a major prevention pillar, but it is not urgent compared with ongoing pressure on tissue.",
-   "takeaway": "Use the 2–1–15 rule (bed 2 h, chair 1 h, shift 15 min) to spot which client is overdue for pressure relief."
+   "takeaway": "Use the 2–1–15 rule (bed 2 h, chair 1 h, shift 15 min) to spot which client is overdue for pressure relief.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-031",
@@ -1143,20 +1162,21 @@
    "stem": "An 82-year-old client with acute heart failure has a Braden score of 13. With the head of the bed at 30°, the client's respirations are 30/min, oxygen saturation is 88%, and the client says, \"I can't catch my breath.\" Which action should the nurse take?",
    "options": [
     "Raise the head of the bed until breathing eases, gatch the knees, and check the sacrum",
-    "Lower the head of the bed flat so the client's body weight spreads evenly across the back",
+    "Check the client's lung sounds first, before changing the position of the head of the bed",
     "Keep the head of the bed at 30° to prevent shear and reassess the breathing in 1 hour",
-    "Turn the client to a 30° lateral tilt with the head of the bed flat"
+    "Turn the client to a 30° lateral tilt and keep the head of the bed at 30°"
    ],
    "answer": 0,
    "priority": true,
    "optionRationales": [
-    "Correct. Breathing comes first; the knee gatch and added sacral checks reduce the shear that comes with a higher head of bed.",
-    "Incorrect. Lying flat will worsen dyspnea in a client with heart failure.",
-    "Incorrect. Shear prevention never outranks an airway and breathing problem.",
-    "Incorrect. Lowering the head of the bed would worsen breathing; oxygenation takes priority."
+    "Correct. Breathing comes first, so the nurse raises the head of the bed to ease dyspnea, then limits shear with the knee gatch and more frequent sacral checks.",
+    "Incorrect. Lung sounds are useful, but the client is visibly struggling to breathe, and repositioning is quick and should not wait.",
+    "Incorrect. This follows the shear-prevention rule, but the rule applies when possible; it ignores an acute breathing problem.",
+    "Incorrect. A lateral tilt protects the skin, but it does nothing to ease the client's breathing, which is the priority."
    ],
    "rationale": "Keeping the head of the bed at 30° or lower reduces shear, but the rule applies \"when possible.\" A client with acute heart failure who is short of breath and hypoxic needs the head of the bed raised to ease breathing, because airway and breathing come first. The nurse then reduces the shear that follows by raising the knee gatch and checking the sacrum more often. Keeping the bed at 30° is tempting because it follows the prevention rule, but it ignores an ABC problem.",
-   "takeaway": "Breathing outranks shear prevention; raise the head of the bed as needed and offset shear with a knee gatch and closer skin checks."
+   "takeaway": "Breathing outranks shear prevention; raise the head of the bed as needed and offset shear with a knee gatch and closer skin checks.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-032",
@@ -1175,20 +1195,21 @@
    "stem": "A 70-year-old client on bed rest wears heel protector boots to offload the heels. During the evening assessment, the nurse notes that the ankle straps are fastened tightly and deep red indentations circle both ankles. Which action should the nurse take first?",
    "options": [
     "Loosen the straps by one notch and recheck the ankles at the end of the shift",
-    "Document that the boots are in place as ordered and continue the plan",
+    "Notify the provider that the boots are leaving marks on both ankles",
     "Remove the boots and assess the skin under the straps and on both heels",
     "Pad the inside of the straps with folded gauze and reapply the boots"
    ],
    "answer": 2,
    "priority": true,
    "optionRationales": [
-    "Incorrect. Loosening is a later step; the skin already shows damage and needs to be assessed now.",
-    "Incorrect. The device is being used incorrectly and is causing harm; it cannot be documented as correct.",
-    "Correct. The device is causing pressure, so it must come off and the skin beneath it must be assessed.",
-    "Incorrect. Adding gauze under tight straps increases pressure and leaves the skin unassessed."
+    "Incorrect. Loosening the straps fixes the fit, but the deep indentations may already be injury that must be assessed now, not at the end of the shift.",
+    "Incorrect. The provider may need to know about any damage, but the nurse first removes the source of pressure and assesses the skin.",
+    "Correct. Removing the boots stops the pressure, and assessing the ankles and heels shows whether damage occurred before the device is refitted.",
+    "Incorrect. Padding may ease pressure, but it reapplies the boots without first checking the skin under the straps."
    ],
    "rationale": "Incorrect use of pressure-relieving devices is itself a risk factor for pressure injury. Heel protectors should float the heels without creating new pressure points, but straps fastened too tightly compress the tissue at the ankles. The nurse removes the boots, assesses the ankles and heels, and then refits the device correctly or floats the heels with pillows under the calves. Loosening the straps is tempting because it fixes the device, but the indentations show possible damage that must be assessed first.",
-   "takeaway": "A pressure-relief device used incorrectly can cause injury; remove it, assess the skin, and then refit it correctly."
+   "takeaway": "A pressure-relief device used incorrectly can cause injury; remove it, assess the skin, and then refit it correctly.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-033",
@@ -1206,21 +1227,22 @@
    "hintStrategy": "On evaluation items, choose the objective, measurable finding that moves in the expected direction.",
    "stem": "A 78-year-old client at high risk for pressure injury started high-protein supplements and a dietitian-guided meal plan 3 weeks ago. Which finding best indicates that the nutrition plan is effective?",
    "options": [
-    "Lymphocyte count has fallen from 1,800 to 1,200/mm³ since the plan began",
-    "The client says the supplements taste better when they are served cold",
-    "The client's hemoglobin has dropped from 12.4 to 10.8 g/dL over the 3 weeks",
+    "The client says her appetite is better and she has more energy",
+    "The client drinks all three supplements every day as planned",
+    "Hemoglobin is stable at 12.4 g/dL, and weight is unchanged",
     "Weight up 1.5 kg (3.3 lb); albumin up from 2.8 to 3.4 g/dL"
    ],
    "answer": 3,
    "priority": false,
    "optionRationales": [
-    "Incorrect. A falling lymphocyte count can reflect poorer nutrition and weaker defenses.",
-    "Incorrect. This is useful for adherence, but it does not measure nutritional status.",
-    "Incorrect. A falling hemoglobin suggests worsening, not improving, nutritional status.",
-    "Correct. Weight gain and a rising albumin both show improving protein and calorie status."
+    "Incorrect. Better appetite and energy are encouraging, but they are subjective reports; effectiveness is judged by objective outcomes such as weight and lab values.",
+    "Incorrect. Good intake is encouraging, but it shows adherence, not results; effectiveness is judged by objective outcomes.",
+    "Incorrect. Stable values show no decline, but a high-risk client on a build-up plan needs evidence of improvement, such as weight gain and a rising albumin.",
+    "Correct. Weight gain and a rising albumin are objective outcomes showing the client is getting enough protein and calories to build padding and repair tissue."
    ],
-   "rationale": "Nutritional status for pressure-injury prevention is tracked with weight, albumin, hemoglobin, and lymphocyte count. Gaining weight and a rising albumin show that the client is getting enough protein and calories to build padding and repair tissue. Falling hemoglobin or lymphocytes point the other way. The statement about taste is tempting because it suggests the client will keep drinking the supplements, but outcomes must be measured with objective data.",
-   "takeaway": "Evaluate nutrition with weight, albumin, hemoglobin, and lymphocytes; rising weight and albumin show the plan is working."
+   "rationale": "Nutritional status for pressure-injury prevention is tracked with weight, albumin, hemoglobin, and lymphocyte count. Gaining weight and a rising albumin show that the client is getting enough protein and calories to build padding and repair tissue. Stable values show no decline but no gain, and a better appetite is a subjective report. Drinking every supplement is tempting because it shows the client is following the plan, but intake is a process measure, and effectiveness must be judged with objective outcome data.",
+   "takeaway": "Evaluate nutrition with weight, albumin, hemoglobin, and lymphocytes; rising weight and albumin show the plan is working.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-034",
@@ -1239,20 +1261,21 @@
    "stem": "A 75-year-old client with limited mobility is placed on a pressure-redistribution overlay. The client's wife asks, \"What does this special mattress actually do?\" Which response by the nurse is most accurate?",
    "options": [
     "\"It holds him firmly in one position so the staff won't need to turn him as often.\"",
-    "\"It lifts the bony areas up into the air the same way a ring cushion does.\"",
+    "\"It is softer than a regular mattress, so he will be more comfortable lying in bed.\"",
     "\"It spreads his weight so pressure stays below what closes small blood vessels.\"",
-    "\"It gently heats the skin to improve blood flow to the areas that touch the bed.\""
+    "\"It keeps his skin cool and dry, and that is the main way it prevents sores.\""
    ],
    "answer": 2,
    "priority": false,
    "optionRationales": [
-    "Incorrect. Support surfaces add to turning; they never replace a turning schedule.",
-    "Incorrect. Ring cushions concentrate pressure and reduce blood flow; overlays spread pressure out.",
-    "Correct. Support surfaces aim to keep outside pressure below capillary pressure, about 32 mm Hg, so blood keeps flowing.",
-    "Incorrect. Heat raises the tissue's oxygen demand; overlays redistribute pressure rather than warm the skin."
+    "Incorrect. Families often hope the surface reduces turning, but it works alongside turning, not instead of it, and it does not hold the body in place.",
+    "Incorrect. Comfort may improve, but softness is not how it prevents injury; it works by spreading weight to keep pressure low.",
+    "Correct. Spreading weight over a larger area keeps pressure on any one spot below capillary pressure, so blood keeps reaching the tissue.",
+    "Incorrect. Some surfaces help manage heat and moisture, but that is a secondary feature; redistributing pressure is the main purpose."
    ],
    "rationale": "Support devices work by spreading the client's weight over a larger area, like snowshoes, so the pressure on any one spot stays below capillary pressure of about 32 mm Hg and blood can keep reaching the tissue. Support surfaces reduce pressure injuries substantially, but they work alongside turning, not instead of it. The statement about turning less often is tempting because families hope the mattress will make care easier, but it is the most dangerous misconception to leave uncorrected.",
-   "takeaway": "Support surfaces spread weight to keep pressure below capillary pressure; they never replace turning."
+   "takeaway": "Support surfaces spread weight to keep pressure below capillary pressure; they never replace turning.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-035",
@@ -1333,20 +1356,21 @@
    "stem": "An 87-year-old resident with intact but very dry, flaky skin on the arms, back, and legs is continent and at moderate risk for pressure injury. Which bathing plan should the nurse implement?",
    "options": [
     "Mild cleanser and warm water, pat dry, then apply lotion to the dry areas",
-    "Deodorant soap and hot water, then a brisk rub with a towel to stimulate blood flow",
+    "Mild cleanser and warm water, rub dry briskly, then apply lotion to dry areas",
     "Mild cleanser and warm water, then baby powder over the back to keep it dry",
-    "Warm water alone, then a petroleum-based ointment over all bony areas"
+    "Hot water and mild cleanser to loosen flakes, pat dry, then apply lotion"
    ],
    "answer": 0,
    "priority": false,
    "optionRationales": [
-    "Correct. Gentle cleansing, patting dry, and moisturizing protect fragile, dry skin from cracking.",
-    "Incorrect. Hot water and harsh soap strip oils, and brisk rubbing adds friction.",
-    "Incorrect. Powder clumps and irritates; dry skin needs moisture, not more drying.",
-    "Incorrect. Petroleum-based ointments are on the list of products to avoid."
+    "Correct. A mild cleanser and warm water protect natural oils, patting avoids friction, and lotion keeps dry skin from cracking.",
+    "Incorrect. The cleanser and lotion are right, but rubbing briskly adds friction to fragile older skin; the skin should be patted dry.",
+    "Incorrect. The cleansing step is right, but powder clumps, irritates, and does nothing to moisturize already dry skin.",
+    "Incorrect. Patting dry and lotion are right, but hot water strips natural oils and worsens dryness in older skin; warm water is gentler."
    ],
-   "rationale": "Skin should be kept clean, dry, and moisturized. For an older adult whose skin is already dry and flaky, that means a mild cleanser, warm rather than hot water, patting rather than rubbing, and lotion on the dry areas so the skin does not crack. Hot water and harsh soap strip away the skin's natural oils. The option with powder is tempting because it begins with the correct cleansing step, but powder clumps and irritates and does nothing for dry skin.",
-   "takeaway": "For dry skin: mild cleanser, warm water, pat dry, moisturize; no hot water, powder, or petroleum."
+   "rationale": "Skin should be kept clean, dry, and moisturized. For an older adult whose skin is already dry and flaky, that means a mild cleanser, warm rather than hot water, patting rather than rubbing, and lotion on the dry areas so the skin does not crack. Hot water strips natural oils, and rubbing adds friction that can tear fragile older skin. The option with powder is tempting because it begins with the correct cleansing step, but powder clumps and irritates and does nothing for dry skin.",
+   "takeaway": "For dry skin: mild cleanser, warm water, pat dry, moisturize; no hot water, powder, or petroleum.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-038",
@@ -1556,21 +1580,22 @@
    "hintStrategy": "For a newly found Stage 1, choose the action that removes pressure before anything else.",
    "stem": "An 8-month-old infant has been sedated in the pediatric intensive care unit for 3 days. When the nurse turns the infant's head, there is a 2-cm area of intact redness over the occiput that does not blanch when pressed. Which action should the nurse take first?",
    "options": [
-    "Massage the area gently to restore circulation to the scalp",
+    "Notify the provider of a new Stage 1 injury on the occiput",
     "Reposition the head off the occiput and recheck the area",
-    "Apply a ring-shaped cushion under the head so the occiput is lifted",
-    "Document normal reactive redness and continue the current positioning"
+    "Apply a foam dressing over the occiput and keep the head supine",
+    "Document a Stage 1 injury and reassess at the next scheduled turn"
    ],
    "answer": 1,
    "priority": true,
    "optionRationales": [
-    "Incorrect. Massage over damaged tissue can break fragile capillaries and worsen deep injury.",
-    "Correct. Nonblanchable redness is a Stage 1 injury; removing pressure from the site is the first step to let it recover.",
-    "Incorrect. Ring devices press on the surrounding tissue and reduce blood flow.",
-    "Incorrect. Redness that does not blanch is not normal reactive redness."
+    "Incorrect. The provider should be informed, but the head is still resting on the injury; relieving the pressure comes first.",
+    "Correct. Nonblanchable redness is a Stage 1 injury, so the first action is to take pressure off the occiput and recheck the area.",
+    "Incorrect. A foam dressing can protect the skin, but the head still rests on the injured area, so pressure continues.",
+    "Incorrect. Accurate documentation is needed, but waiting for the next turn leaves pressure on a Stage 1 injury."
    ],
-   "rationale": "Intact skin with redness that does not blanch is a Stage 1 pressure injury, and in infants the large head makes the occiput a common site when they are supine and sedated. Stage 1 is the last chance to stop the injury before the skin opens, so the first action is to keep pressure off the area and recheck it. Documenting normal redness is tempting because babies often look flushed, but the failed blanch test shows capillary damage. Ring devices and massage are never appropriate.",
-   "takeaway": "Nonblanchable redness on intact skin is Stage 1 at any age; offload the site first."
+   "rationale": "Intact skin with redness that does not blanch is a Stage 1 pressure injury, and in infants the large head makes the occiput a common site when they are supine and sedated. Stage 1 is the last chance to stop the injury before the skin opens, so the first action is to keep pressure off the area and recheck it. A foam dressing is tempting because it protects the skin, but the head would still rest on the injury. Notifying the provider and documenting follow once the pressure is relieved.",
+   "takeaway": "Nonblanchable redness on intact skin is Stage 1 at any age; offload the site first.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-044",
@@ -1588,21 +1613,22 @@
    "hintStrategy": "When an AP proposes an invasive or judgment-based action, the best response stops it and gives a safe alternative.",
    "stem": "The nurse has documented an intact, clear-fluid blister on the right heel of a 79-year-old client. An assistive personnel (AP) says, \"I'll pop that blister with a needle so the fluid drains and it heals faster.\" Which response by the nurse is best?",
    "options": [
-    "\"That's fine, as long as you wipe the heel with alcohol first.\"",
-    "\"Massage around the blister instead so the fluid can be reabsorbed.\"",
+    "\"Please leave it alone, and tell me right away if it breaks open.\"",
+    "\"Don't pop it. Cover it with a foam dressing to protect it instead.\"",
     "\"Please leave it intact. I'll float the heel to keep pressure off.\"",
-    "\"Go ahead, but use a sterile needle and cover it with tape afterward.\""
+    "\"Let me check it first, and I'll decide whether it needs to be drained.\""
    ],
    "answer": 2,
    "priority": true,
    "optionRationales": [
-    "Incorrect. Alcohol does not make puncturing safe, and the blister should stay intact.",
-    "Incorrect. Massage near a pressure injury can damage fragile tissue and does not speed healing.",
-    "Correct. An intact blister protects the tissue beneath it; the priority is to keep pressure off the heel.",
-    "Incorrect. Puncturing the blister opens a route for infection and is outside the AP's role."
+    "Incorrect. Stopping the AP is right, but this does nothing to remove the pressure that caused the blister.",
+    "Incorrect. Protecting the blister is reasonable, but dressing a wound is outside the AP's role here, and covering it does not relieve heel pressure.",
+    "Correct. The intact roof acts as a natural dressing, so the nurse keeps it intact and floats the heel to remove the pressure that caused it.",
+    "Incorrect. Assessment by the nurse is appropriate, but a clear-fluid blister should be left intact, not drained."
    ],
-   "rationale": "A clear-fluid blister, intact or broken, is a Stage 2 pressure injury because the epidermis has separated from the dermis. While it is intact, the roof acts like a natural dressing, so the nurse protects it and removes the pressure that caused it by floating the heel. Puncturing a blister is not an AP task and creates an opening for infection. The option suggesting a sterile needle is tempting because it sounds careful, but it still turns a closed wound into an open one.",
-   "takeaway": "An intact blister is Stage 2; keep it intact and offload the site."
+   "rationale": "A clear-fluid blister, intact or broken, is a Stage 2 pressure injury because the epidermis has separated from the dermis. While it is intact, the roof acts like a natural dressing, so the nurse protects it and removes the pressure that caused it by floating the heel. Puncturing a blister is not an AP task and creates an opening for infection. Telling the AP to leave it alone is tempting because it stops the harm, but it does nothing about the pressure that caused the blister.",
+   "takeaway": "An intact blister is Stage 2; keep it intact and offload the site.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-045",
@@ -1634,7 +1660,8 @@
     "Correct. Visible fat means full-thickness loss, and a wound that has deepened shows the plan is failing."
    ],
    "rationale": "Wounds are staged by the deepest tissue the nurse can see or feel. Yellow adipose tissue at the base, without muscle, tendon, or bone, means full-thickness loss into the subcutaneous layer, which is Stage 3. A wound that has become deeper is a red flag that the plan is not working, so the nurse notifies the provider and revises positioning, support surfaces, and nutrition. Calling it Stage 4 is tempting because the wound clearly worsened, but no structure below the fat is involved.",
-   "takeaway": "A wound that now shows fat is Stage 3, and any deepening means the plan is failing and must be revised."
+   "takeaway": "A wound that now shows fat is Stage 3, and any deepening means the plan is failing and must be revised.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-046",
@@ -1666,7 +1693,8 @@
     "Incorrect. Redness that now blanches shows the Stage 1 area is recovering."
    ],
    "rationale": "Deep pressure injuries can become infected, and exposed bone and deep tissue raise the risk of serious, spreading infection. Fever, increasing pain, and foul or purulent drainage from a Stage 3 or 4 wound must be reported to the provider promptly. The other residents show expected healing: a shrinking Stage 2, a Stage 1 that now blanches, and a Stage 3 with red granulation. The Stage 3 resident is tempting because the wound is deep, but its findings are healthy.",
-   "takeaway": "Fever plus foul or purulent drainage from a deep pressure injury signals infection and needs prompt provider follow-up."
+   "takeaway": "Fever plus foul or purulent drainage from a deep pressure injury signals infection and needs prompt provider follow-up.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-047",
@@ -1687,18 +1715,19 @@
     "Keep the client off the left hip and recheck the area in 30 minutes",
     "Apply a foam dressing and notify the provider of a new pressure injury",
     "Document a Stage 1 pressure injury over the left greater trochanter",
-    "Massage the area with lotion to speed the return of normal color"
+    "Apply a moisture barrier cream and continue the 2-hour turning schedule"
    ],
    "answer": 0,
    "priority": true,
    "optionRationales": [
     "Correct. Redness that blanches is reactive; offloading and rechecking confirm it fades as expected.",
-    "Incorrect. No pressure injury is present, so a dressing and notification are not needed.",
-    "Incorrect. Stage 1 requires nonblanchable redness; this area blanched.",
-    "Incorrect. Massage over a bony prominence can damage capillaries and is avoided."
+    "Incorrect. A foam dressing can help protect skin, but blanchable redness is not a pressure injury, so reporting a new injury is premature.",
+    "Incorrect. Documenting skin findings is important, but Stage 1 requires redness that does not blanch; this area blanches and refills quickly.",
+    "Incorrect. Barrier cream protects skin from moisture, but it does not relieve pressure on the hip or confirm that the redness fades."
    ],
    "rationale": "It is normal for skin to look red after it has been compressed; this reactive redness is blood rushing back into tissue. The blanch test separates normal from damaged: skin that whitens and refills quickly has working capillaries. The nurse keeps the client off the area and rechecks, since redness that fails to fade within about 30 minutes after pressure is removed needs further assessment. Documenting Stage 1 is tempting because the area is red, but Stage 1 requires redness that does not blanch.",
-   "takeaway": "Redness that blanches and refills is reactive, not Stage 1; offload and recheck."
+   "takeaway": "Redness that blanches and refills is reactive, not Stage 1; offload and recheck.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-048",
@@ -1716,21 +1745,22 @@
    "hintStrategy": "For Stage 1 items, choose the option that fully offloads the site, not one that reduces pressure while continuing to load it.",
    "stem": "A 43-year-old client with paraplegia who uses a wheelchair is found to have an area of nonblanchable redness on intact skin over the right ischial tuberosity. Which plan should the nurse implement?",
    "options": [
-    "Continue sitting as usual and increase wheelchair push-ups to every 5 minutes",
-    "Cover the area with a transparent dressing and resume normal sitting",
-    "Sit on a foam ring cushion so the ischium does not touch the seat",
+    "Increase wheelchair push-ups to every 15 minutes while up in the chair",
+    "Cover the area with a foam dressing and keep the usual sitting routine",
+    "Recheck the area with a blanch test after the client sits for 1 hour",
     "Limit sitting so no weight rests on the right ischium until it resolves"
    ],
    "answer": 3,
    "priority": true,
    "optionRationales": [
-    "Incorrect. Sitting still loads the injured ischium; more push-ups do not remove sustained pressure.",
-    "Incorrect. A dressing does not relieve pressure, which is what caused the injury.",
-    "Incorrect. Ring cushions reduce blood flow around the area and cause further injury.",
+    "Incorrect. Regular weight shifts are part of routine prevention, but they cannot offset sitting directly on tissue that is already injured.",
+    "Incorrect. A foam dressing can reduce friction and shear, but it does not remove the pressure that caused the injury.",
+    "Incorrect. Reassessment is part of care, but the redness is already known to be nonblanchable, and more sitting adds damage first.",
     "Correct. A Stage 1 injury needs pressure removed completely so the tissue can recover."
    ],
    "rationale": "Nonblanchable redness on intact skin is a Stage 1 pressure injury, a sign that tissue under the ischium is damaged even though the skin has not opened. Stage 1 can resolve if the pressure is removed, so the client must stay off the area, which means limiting sitting until it resolves. More frequent push-ups are tempting because weight shifts are part of the routine plan, but they cannot offset the sustained load of sitting directly on an injured site.",
-   "takeaway": "A Stage 1 injury needs complete pressure relief at that site; don't keep loading it."
+   "takeaway": "A Stage 1 injury needs complete pressure relief at that site; don't keep loading it.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-049",
@@ -1750,19 +1780,20 @@
    "options": [
     "Ask the AP to perform the blanch test on each bony area and report the results",
     "Assess the bony areas in bright light, comparing warmth, firmness, and tenderness",
-    "Document that the skin is intact with no pressure injury, based on the AP's report",
-    "Recheck the skin in 1 week, since redness is always the first sign of injury"
+    "Review with the AP how Stage 1 injuries can look different in dark skin",
+    "Complete a Braden scale to find out how high the client's risk is today"
    ],
    "answer": 1,
    "priority": true,
    "optionRationales": [
-    "Incorrect. Blanching is hard to see in dark skin, and assessment is the nurse's responsibility.",
+    "Incorrect. Blanch testing sounds thorough, but blanching is hard to see in dark skin, and skin assessment belongs to the nurse.",
     "Correct. In dark skin, Stage 1 may show as darkening rather than redness, so the nurse must palpate and compare.",
-    "Incorrect. The absence of redness does not rule out Stage 1 in darkly pigmented skin.",
-    "Incorrect. Waiting could allow a Stage 1 injury to progress; redness may never appear."
+    "Incorrect. Teaching the AP is helpful, but the client may already have an injury, so the nurse should assess the skin first.",
+    "Incorrect. The Braden scale measures risk, but it cannot show whether a pressure injury is already present on this client."
    ],
-   "rationale": "In darkly pigmented skin, a Stage 1 pressure injury may look like an area darker than the surrounding skin, sometimes with a bluish or purplish tone, and blanching may be impossible to see. The nurse inspects in natural or bright light and palpates, comparing temperature, firmness or bogginess, and pain with nearby skin. Accepting \"no redness\" as proof of healthy skin is the trap here. Asking the AP to do blanch tests is tempting, but the test is unreliable in dark skin and skin assessment belongs to the nurse.",
-   "takeaway": "In dark skin, absence of redness does not rule out Stage 1; inspect in bright light and palpate for warmth, firmness, and pain."
+   "rationale": "In darkly pigmented skin, a Stage 1 pressure injury may look like an area darker than the surrounding skin, sometimes with a bluish or purplish tone, and blanching may be impossible to see. The nurse inspects in natural or bright light and palpates, comparing temperature, firmness or bogginess, and pain with nearby skin. Accepting \"no redness\" as proof of healthy skin is the trap here. Teaching the AP and scoring risk are useful, but they come after the nurse checks for an existing injury. Asking the AP to do blanch tests is tempting, but the test is unreliable in dark skin and skin assessment belongs to the nurse.",
+   "takeaway": "In dark skin, absence of redness does not rule out Stage 1; inspect in bright light and palpate for warmth, firmness, and pain.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-050",
@@ -1780,21 +1811,22 @@
    "hintStrategy": "When intact skin shows a color deeper than red, consider the category beyond the four stages before choosing Stage 1.",
    "stem": "A 66-year-old client returned from a 9-hour cardiac surgery yesterday. Today the nurse finds an intact area of persistent maroon discoloration over the sacrum that does not blanch. Which action is most appropriate?",
    "options": [
-    "Document normal bruising from the operating table and continue routine care",
+    "Offload the sacrum, document a Stage 1 injury, and recheck it daily",
     "Offload the sacrum, document a deep tissue pressure injury, and report it",
-    "Document a Stage 1 pressure injury and recheck the area in 1 week",
-    "Apply a warm pack to the sacrum to improve circulation to the area"
+    "Offload the sacrum and reassess the area again at the next scheduled turn",
+    "Apply a foam dressing to the sacrum and continue turning every 2 hours"
    ],
    "answer": 1,
    "priority": true,
    "optionRationales": [
-    "Incorrect. Persistent nonblanchable maroon discoloration over a prominence is a pressure injury, not routine bruising.",
+    "Incorrect. Offloading and rechecking are right, but maroon, nonblanching intact skin is a deep tissue injury, not Stage 1, and it needs to be reported.",
     "Correct. Persistent maroon or purple discoloration of intact skin indicates a deep tissue pressure injury that must be offloaded and reported.",
-    "Incorrect. Deep maroon discoloration signals damage near the bone, not Stage 1, and needs closer follow-up.",
-    "Incorrect. Heat raises tissue oxygen demand and can worsen ischemic tissue."
+    "Incorrect. Offloading and reassessing are right, but the injury also needs accurate documentation and reporting because it can worsen quickly.",
+    "Incorrect. A foam dressing and turning help prevent injury, but they do not keep all pressure off the sacrum or get the finding reported."
    ],
    "rationale": "Beyond the four stages, an intact area of persistent deep red, maroon, or purple discoloration is classified as a deep tissue pressure injury. It reflects damage that started near the bone, often from long periods of immobility such as surgery, and it can evolve quickly into a deep wound. The nurse keeps all pressure off the area, documents it accurately, and reports it. Calling it Stage 1 is tempting because the skin is intact, but the maroon color signals deeper damage than Stage 1.",
-   "takeaway": "Intact maroon or purple nonblanching skin over a prominence is a deep tissue pressure injury, not Stage 1; offload and report."
+   "takeaway": "Intact maroon or purple nonblanching skin over a prominence is a deep tissue pressure injury, not Stage 1; offload and report.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-051",
@@ -1812,7 +1844,7 @@
    "hintStrategy": "For teaching priorities, choose the instruction that targets the most important abnormal finding, not a normal variation.",
    "stem": "A home health nurse is teaching the son of an 86-year-old woman who spends most of the day in bed. Which instruction about what to report is most important for the nurse to give?",
    "options": [
-    "\"Call me if her back feels warm right after her bath.\"",
+    "\"Call me if her skin is damp after she has been incontinent.\"",
     "\"Call me if her skin looks pink right after she's been turned.\"",
     "\"Call me if her skin looks dry or flaky on her legs after her bath.\"",
     "\"Call me if a red area hasn't faded 30 minutes after she's moved.\""
@@ -1820,13 +1852,14 @@
    "answer": 3,
    "priority": true,
    "optionRationales": [
-    "Incorrect. Skin often feels warm after a bath; this is not a reliable sign of pressure injury.",
+    "Incorrect. Moisture raises her risk, but the son can manage it by cleaning and drying the skin; it is not a sign of injury that needs a call.",
     "Incorrect. Brief pinkness after turning is normal reactive redness and fades quickly.",
     "Incorrect. Dry skin needs lotion, but it is not a sign of pressure injury.",
     "Correct. Redness that persists after pressure is relieved may be Stage 1 and needs assessment."
    ],
    "rationale": "Family caregivers need a simple, accurate signal for early damage. Normal reactive redness appears right after turning and fades quickly; redness that has not faded about 30 minutes after pressure is removed is a warning sign of possible Stage 1 injury. Teaching the son this rule helps him catch damage while it can still be reversed. The option about pink skin after turning is tempting because any redness seems worrying, but reporting normal redness every time would not help detect real injury.",
-   "takeaway": "Teach caregivers: redness that does not fade about 30 minutes after pressure relief needs to be reported."
+   "takeaway": "Teach caregivers: redness that does not fade about 30 minutes after pressure relief needs to be reported.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-052",
@@ -1927,7 +1960,8 @@
     "Incorrect. Bone is not required; exposed muscle or tendon also defines Stage 4."
    ],
    "rationale": "Always stage by the deepest tissue visible or palpable, not by what covers the largest area. Dark red, striated tissue at the base is muscle, which lies below the subcutaneous fat, so this is a Stage 4 injury even though fat lines most of the wound. Stage 4 includes damage to muscle, bone, or supporting structures such as tendons, so bone does not have to be present. The Stage 3 options are tempting because fat dominates the picture, but a single area of exposed muscle sets the stage.",
-   "takeaway": "Stage by the deepest tissue anywhere in the wound; exposed muscle alone makes it Stage 4."
+   "takeaway": "Stage by the deepest tissue anywhere in the wound; exposed muscle alone makes it Stage 4.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-054",
@@ -2007,21 +2041,22 @@
    "hintStrategy": "For technique items, choose the method that directly tests the feature that defines the diagnosis.",
    "stem": "A nurse is checking a red area over the sacrum of a 79-year-old client who was just turned onto the side. Which technique correctly tests whether the redness is a Stage 1 pressure injury?",
    "options": [
-    "Stroke the red area lightly for 1 minute and then see whether the color spreads",
+    "Palpate the red area and compare its warmth with the skin all around it",
     "Press firmly for a few seconds, release, and watch whether it whitens and refills",
-    "Hold an ice pack on the area for 5 minutes and see whether the redness fades away",
-    "Compare the red area with the same spot on the other side again after 24 hours"
+    "Inspect the area in bright light and measure its length and its width",
+    "Compare the red area with the same spot on the other side after 24 hours"
    ],
    "answer": 1,
    "priority": false,
    "optionRationales": [
-    "Incorrect. Stroking is a form of massage and does not test capillary function.",
+    "Incorrect. Checking warmth is a useful part of skin assessment, but it does not show whether the capillaries refill.",
     "Correct. This is the blanch test; skin that whitens and refills has working capillaries, while skin that stays red is Stage 1.",
-    "Incorrect. Cold constricts vessels and does not distinguish damaged from healthy capillaries.",
-    "Incorrect. Waiting a day delays recognition; the blanch test gives an answer now."
+    "Incorrect. Good light and measurements belong in the assessment, but they describe the area without testing whether it blanches.",
+    "Incorrect. Comparing sides is a reasonable check, but waiting 24 hours delays offloading an injury that may still be reversible."
    ],
-   "rationale": "The blanch test separates normal reactive redness from a Stage 1 pressure injury. The nurse presses firmly with a finger or a clear disk for a few seconds and releases: if the area turns pale and quickly refills with color, the capillaries are intact; if it stays red, the redness is nonblanchable and indicates a Stage 1 injury. Waiting 24 hours to compare is tempting as a cautious approach, but it delays offloading an injury that can still be reversed. Rubbing or stroking the area should be avoided.",
-   "takeaway": "Blanch test: press firmly, release, and watch; stays red = Stage 1, whitens and refills = normal."
+   "rationale": "The blanch test separates normal reactive redness from a Stage 1 pressure injury. The nurse presses firmly with a finger or a clear disk for a few seconds and releases: if the area turns pale and quickly refills with color, the capillaries are intact; if it stays red, the redness is nonblanchable and indicates a Stage 1 injury. Checking warmth, inspecting in good light, and measuring all add useful information, but none of them tests blanching. Waiting 24 hours to compare is tempting as a cautious approach, but it delays offloading an injury that can still be reversed. Rubbing the area should be avoided.",
+   "takeaway": "Blanch test: press firmly, release, and watch; stays red = Stage 1, whitens and refills = normal.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-057",
@@ -2038,20 +2073,21 @@
    "stem": "A 57-year-old client has a shallow, pink, moist Stage 2 pressure injury on the right ischium. The client says, \"This little sore hurts more than I expected. Is something wrong?\" Which response by the nurse is accurate?",
    "options": [
     "\"Shallow wounds like this expose nerve endings in the skin, so pain is common.\"",
-    "\"Pain in a Stage 2 wound means the damage has already reached the bone.\"",
-    "\"Shallow wounds shouldn't hurt, so the pain is probably from something else.\"",
-    "\"Pain means the wound is infected, so we'll start you on antibiotics right now.\""
+    "\"Pain is expected with this sore, so it only needs treatment if it worsens.\"",
+    "\"I'll ask your provider to order a stronger pain medicine for you today.\"",
+    "\"Pain can mean infection, so I'll ask the provider about a wound culture.\""
    ],
    "answer": 0,
    "priority": false,
    "optionRationales": [
     "Correct. Stage 2 injuries expose nerve endings in the dermis, which is why they are often painful.",
-    "Incorrect. Bone involvement would make it Stage 4; pain in Stage 2 comes from exposed dermal nerve endings.",
-    "Incorrect. This dismisses an expected symptom and is inaccurate.",
-    "Incorrect. Pain alone does not indicate infection, and antibiotics require a provider's prescription."
+    "Incorrect. Pain is expected, but it should still be rated and treated now, especially around dressing changes, not only if it worsens.",
+    "Incorrect. Pain relief matters, but the nurse has not yet rated the pain or answered the client's question about whether something is wrong.",
+    "Incorrect. Pain can signal infection, but no other signs are present, and pain alone is expected in an open Stage 2 wound."
    ],
    "rationale": "A Stage 2 pressure injury is partial-thickness skin loss involving the epidermis and possibly the dermis. Because the dermis contains nerve endings, exposing it makes these shallow wounds painful, much like a skinned knee. The nurse should validate the pain, assess it with a rating scale, and plan pain relief, especially around dressing changes. The infection response is tempting because pain is one sign of infection, but pain alone in a Stage 2 wound is expected.",
-   "takeaway": "Stage 2 injuries are often painful because dermal nerve endings are exposed."
+   "takeaway": "Stage 2 injuries are often painful because dermal nerve endings are exposed.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-058",
@@ -2101,21 +2137,22 @@
    "hintStrategy": "When a new finding changes the client's status, choose the option that updates the plan to match.",
    "stem": "A 76-year-old client on bed rest has had the nursing diagnosis \"potential for impaired skin integrity\" since admission. Today, the nurse finds intact skin with nonblanchable redness over the right heel. Which change to the plan of care is accurate?",
    "options": [
-    "Remove the skin diagnosis and replace it with underweight",
+    "Add impaired physical mobility as the new priority diagnosis",
     "Change it to impaired skin integrity and add the Stage 1 heel injury",
     "Keep potential for impaired skin integrity because the skin is still intact",
-    "Change the diagnosis to risk for infection because the heel is now open"
+    "Add risk for infection, since a heel injury is now present"
    ],
    "answer": 1,
    "priority": false,
    "optionRationales": [
-    "Incorrect. Nothing in the stem suggests weight loss, and the skin problem still needs a diagnosis.",
+    "Incorrect. Immobility contributes to the injury, but the new finding is actual skin damage, which the plan must now name.",
     "Correct. Nonblanchable redness is a Stage 1 injury, so damage is now present and the diagnosis changes.",
-    "Incorrect. Intact skin with nonblanchable redness is already a pressure injury, so the risk diagnosis no longer fits.",
-    "Incorrect. The skin is intact, so there is no open barrier yet."
+    "Incorrect. Keeping the risk diagnosis seems reasonable because the skin is intact, but nonblanchable redness is actual tissue damage, not just risk.",
+    "Incorrect. Risk for infection is relevant once the skin barrier is open, but a Stage 1 injury is intact skin."
    ],
    "rationale": "Potential for impaired skin integrity fits a client who is at risk but has intact skin with only blanchable redness. A Stage 1 injury is nonblanchable redness of intact skin, and it counts as actual tissue damage, so the diagnosis changes to impaired skin integrity. Keeping the risk diagnosis is tempting because the skin has not opened, but staging, not skin breakage, decides whether an injury exists. Risk for infection becomes relevant once the skin barrier is open.",
-   "takeaway": "Once any pressure injury, including Stage 1, is present, the diagnosis becomes impaired skin integrity."
+   "takeaway": "Once any pressure injury, including Stage 1, is present, the diagnosis becomes impaired skin integrity.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-060",
@@ -2548,7 +2585,8 @@
     "Correct. The culture must be collected before the first antibiotic dose so the results reflect the organisms in the wound."
    ],
    "rationale": "When a provider orders both a wound culture and an antibiotic, the culture is collected before the first dose. An antibiotic given first can suppress the organisms enough to produce a false or incomplete result, which can lead to the wrong drug choice. The antibiotic is then started without delay. Giving the antibiotic first is tempting because the client has a fever and infection needs treatment, but a few minutes to collect the culture protects the accuracy of the whole treatment plan.",
-   "takeaway": "Collect the culture before the first antibiotic dose."
+   "takeaway": "Collect the culture before the first antibiotic dose.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-069",
@@ -2627,21 +2665,22 @@
    },
    "stem": "Refer to the Repositioning Record and Nurse Notes. Which action should the nurse take first?",
    "options": [
-    "Massage the sacrum during each turn to restore circulation to the area",
+    "Recalculate the Braden score and document the new sacral injury",
     "Request a dietitian consult to improve the client's protein intake",
     "Address the overnight turning gaps with staff and revise the plan",
-    "Continue the current plan, since the client is already on a low-air-loss mattress"
+    "Continue the current plan, since a low-air-loss mattress is in use"
    ],
    "answer": 2,
    "priority": true,
    "optionRationales": [
-    "Incorrect. Massage over a reddened bony prominence can worsen deep tissue damage.",
+    "Incorrect. Updating the Braden score is reasonable, but the injury is already noted, and the 5-hour overnight turning gaps that caused it still need correcting.",
     "Incorrect. Nutrition matters, but the data point to missed repositioning as the cause.",
     "Correct. The record shows 5-hour gaps overnight, so the plan is not being carried out and must be corrected.",
     "Incorrect. A support surface never replaces turning, and a new Stage 1 injury shows the plan is failing."
    ],
    "rationale": "Evaluation includes checking whether the repositioning schedule is actually being followed. The record shows turns every 2 hours during the day but gaps of 5 hours overnight, and a new Stage 1 sacral injury appeared afterward. The nurse addresses the gaps with the staff and revises the plan so turns happen at least every 2 hours around the clock. Continuing the plan is tempting because a specialty mattress is in place, but support surfaces add to turning and never replace it.",
-   "takeaway": "When a new injury appears, check whether the plan is being carried out before assuming it is wrong."
+   "takeaway": "When a new injury appears, check whether the plan is being carried out before assuming it is wrong.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-070",
@@ -2658,7 +2697,7 @@
    "stem": "A 64-year-old client with a Stage 3 ischial pressure injury rated pain 7/10 during yesterday's dressing change. Oral oxycodone is prescribed as needed, and today's dressing change is scheduled in 1 hour. Which action should the nurse take?",
    "options": [
     "Give the prescribed analgesic about 30 minutes before the dressing change",
-    "Skip today's dressing change to spare the client from pain",
+    "Coach slow breathing during the change instead of giving the analgesic",
     "Complete the dressing change quickly and give the analgesic afterward",
     "Give the analgesic only if the client asks for it during the dressing change"
    ],
@@ -2666,12 +2705,13 @@
    "priority": true,
    "optionRationales": [
     "Correct. Premedicating so the drug peaks during the procedure prevents severe procedural pain.",
-    "Incorrect. Skipping prescribed wound care can delay healing and increase infection risk.",
+    "Incorrect. Relaxation breathing is a helpful add-on, but after 7/10 pain yesterday, it is not enough on its own to control procedural pain.",
     "Incorrect. Treating pain after the procedure leaves the client in pain during it.",
     "Incorrect. Waiting until pain is severe makes it harder to control during the procedure."
    ],
-   "rationale": "Pain is part of every wound assessment, including pain during dressing changes. When a client has had significant procedural pain, the nurse plans ahead by giving the prescribed analgesic so its effect peaks during the dressing change, then reassesses pain with a rating scale. Giving the drug only on request is tempting because the order is as needed, but waiting until pain is severe makes it much harder to control. Skipping the dressing change trades short-term comfort for delayed healing.",
-   "takeaway": "Premedicate before painful dressing changes so the analgesic peaks during the procedure."
+   "rationale": "Pain is part of every wound assessment, including pain during dressing changes. When a client has had significant procedural pain, the nurse plans ahead by giving the prescribed analgesic so its effect peaks during the dressing change, then reassesses pain with a rating scale. Giving the drug only on request is tempting because the order is as needed, but waiting until pain is severe makes it much harder to control. Breathing techniques help but add to medication rather than replace it, and giving the analgesic afterward misses the painful part entirely.",
+   "takeaway": "Premedicate before painful dressing changes so the analgesic peaks during the procedure.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-071",
@@ -2703,7 +2743,8 @@
     "Correct. An actual pressure injury is present and is the most immediate physical threat to the client."
    ],
    "rationale": "This client has several valid diagnoses, but an actual physical problem takes priority over contributing factors and psychosocial concerns. The Stage 2 injury is open skin, making impaired skin integrity the first diagnosis to address, with weight loss and incontinence as related factors. Compromised dignity is tempting because the client expressed distress, and the nurse should acknowledge it and provide private, respectful care, but it is not the first priority. Potential for impaired skin integrity applies only when the skin is still undamaged.",
-   "takeaway": "When an actual pressure injury exists, impaired skin integrity outranks risk, nutrition, and psychosocial diagnoses."
+   "takeaway": "When an actual pressure injury exists, impaired skin integrity outranks risk, nutrition, and psychosocial diagnoses.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-072",
@@ -2723,19 +2764,20 @@
    "options": [
     "Keep the scheduled visit and tell her to change the dressing twice as often",
     "Visit today to assess the wound and report findings to the provider",
-    "Reassure her that wounds often smell as they heal and need no action",
-    "Tell her to apply leftover antibiotic ointment from a previous illness"
+    "Call the provider now to report the change, then visit as scheduled",
+    "Ask her to measure the wound and call back with the results today"
    ],
    "answer": 1,
    "priority": true,
    "optionRationales": [
     "Incorrect. Waiting 4 days could allow a worsening wound or infection to progress.",
     "Correct. A larger wound with odor after cleansing suggests deterioration or infection and needs prompt assessment.",
-    "Incorrect. Odor after cleansing and increasing size are signs of deterioration, not normal healing.",
-    "Incorrect. Using leftover medication without a prescription is unsafe and does not address assessment."
+    "Incorrect. The provider does need to know, but the nurse must first assess the wound to report accurate findings, and a 4-day wait is too long.",
+    "Incorrect. Caregiver measurements can add information, but wound assessment is the nurse's role, and the odor needs a prompt visit."
    ],
    "rationale": "Signs that a pressure injury is deteriorating include larger or deeper measurements and odor, and odor that persists after cleansing raises concern for infection. These findings mean the plan is not working and the provider needs to know. Because the nurse must assess before deciding what to change, a prompt visit is needed rather than advice over the phone. Doubling dressing changes is tempting because it seems proactive, but it delays assessment of a possibly infected wound.",
-   "takeaway": "A wound that is larger or has odor after cleansing needs prompt nurse assessment and provider notification."
+   "takeaway": "A wound that is larger or has odor after cleansing needs prompt nurse assessment and provider notification.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-073",
@@ -2767,7 +2809,8 @@
     "Incorrect. Medication is premature before the cause of poor intake is assessed."
    ],
    "rationale": "Nutrition is a key part of pressure injury care, and the nurse assesses intake as part of the plan. When intake suddenly drops, the first step is to find out why: nausea, pain, difficulty chewing or swallowing, disliked foods, depression, or a new illness each lead to different interventions. The dietitian consult is tempting because supplements are often part of the plan, but it may not fix the actual cause.",
-   "takeaway": "When intake drops, assess the cause before choosing a nutrition intervention."
+   "takeaway": "When intake drops, assess the cause before choosing a nutrition intervention.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-074",
@@ -2783,21 +2826,22 @@
    "hintStrategy": "When an ABC problem appears in the middle of routine care, stop the routine and address the ABC.",
    "stem": "During a dressing change for a Stage 3 sacral pressure injury, the nurse notices that an 81-year-old client, who received an opioid 45 minutes ago, is difficult to arouse. Respirations are 8/min and shallow. Which action should the nurse take first?",
    "options": [
-    "Reposition the client onto the sacrum to complete the assessment",
+    "Leave to call the provider and request a prescription for naloxone",
     "Finish the dressing change quickly, then recheck the respiratory rate",
-    "Document the wound findings before the details are forgotten",
+    "Apply oxygen by nasal cannula and recheck the rate in 15 minutes",
     "Stop the dressing change, stimulate the client, and assess breathing"
    ],
    "answer": 3,
    "priority": true,
    "optionRationales": [
-    "Incorrect. Repositioning for the wound does not address the respiratory emergency.",
+    "Incorrect. The provider may need to be called, but leaving the bedside delays stimulating and assessing a client whose breathing is depressed.",
     "Incorrect. Continuing wound care delays response to a breathing emergency.",
-    "Incorrect. Documentation can wait; the client's breathing cannot.",
+    "Incorrect. Oxygen may help, but waiting 15 minutes to recheck a rate of 8/min delays stimulation and full assessment of breathing.",
     "Correct. Respiratory depression is a life-threatening problem that takes priority over wound care."
    ],
    "rationale": "Airway and breathing come before every other concern, including wound care. A respiratory rate of 8/min with decreased responsiveness after an opioid suggests opioid-induced respiratory depression. The nurse stops the procedure, stimulates the client, and assesses airway, breathing, and oxygen saturation, then follows the facility's protocol, which may include naloxone and notifying the provider. Finishing the dressing quickly is tempting because the wound is open, but a covered wound can wait while breathing cannot.",
-   "takeaway": "ABCs come first: stop wound care when a client shows signs of respiratory depression."
+   "takeaway": "ABCs come first: stop wound care when a client shows signs of respiratory depression.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-075",
@@ -2861,7 +2905,8 @@
     "Incorrect. Itching should be assessed, but it is not as urgent as ongoing pressure on an injury."
    ],
    "rationale": "The nurse prioritizes the client in whom harm is accumulating right now. Sitting directly on a Stage 1 ischial injury for 2 hours, when chair sitting is limited to about an hour, adds pressure to tissue that is already damaged and can turn a reversible Stage 1 into an open wound. The itchy heel is tempting because it is a new symptom, but it is not a sign of urgent harm and can be assessed next. Routine and stable concerns follow.",
-   "takeaway": "Ongoing pressure on an existing injury outranks stable or routine wound concerns."
+   "takeaway": "Ongoing pressure on an existing injury outranks stable or routine wound concerns.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-077",
@@ -2891,7 +2936,8 @@
     "Correct. Stool contamination introduces bacteria into an open wound, so the dressing must be changed now."
    ],
    "rationale": "An open pressure injury is a portal for infection, and preventing infection includes good hygiene and clean dressings. Stool under a dressing edge means bacteria have reached the wound, so the nurse removes the soiled dressing, cleanses the wound and surrounding skin, and applies a fresh dressing, then reviews moisture management. Leaving the dressing until the scheduled change is tempting because it follows the order, but dressings must be changed when soiled regardless of the schedule.",
-   "takeaway": "Change a wound dressing whenever it becomes soiled, regardless of the schedule."
+   "takeaway": "Change a wound dressing whenever it becomes soiled, regardless of the schedule.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-078",
@@ -2907,21 +2953,22 @@
    "hintStrategy": "In therapeutic communication items, eliminate reassurance, advice, and changing the subject; pick empathy plus action.",
    "stem": "During a dressing change for a Stage 4 ischial pressure injury, a 58-year-old client begins to cry and says, \"I hate that you have to see me like this.\" Which response by the nurse is most appropriate?",
    "options": [
-    "\"Don't worry. I've seen many wounds that are much worse than yours.\"",
-    "\"You should try to focus on getting well instead of on how the wound looks.\"",
+    "\"Many clients feel this way, and it's a very normal reaction.\"",
+    "\"Would you like me to ask the chaplain to come and talk with you?\"",
     "\"This is hard for you. I'll keep you covered, and we can pause anytime.\"",
-    "\"Let's just finish quickly so you won't have to think about it much.\""
+    "\"Your wound is starting to look better than it did last week.\""
    ],
    "answer": 2,
    "priority": false,
    "optionRationales": [
-    "Incorrect. This dismisses the client's feelings and offers false reassurance.",
-    "Incorrect. This tells the client how to feel and closes off further discussion.",
+    "Incorrect. Normalizing can comfort, but it shifts attention to other clients and does nothing to protect this client's dignity now.",
+    "Incorrect. A chaplain may help later, but offering a referral passes off the feeling instead of responding to it during care.",
     "Correct. This acknowledges the feeling and protects dignity with concrete actions the client controls.",
-    "Incorrect. Rushing ignores the client's distress and may compromise wound care."
+    "Incorrect. Sharing progress can encourage, but it offers false comfort and skips past the client's feeling of embarrassment."
    ],
-   "rationale": "Wounds, exposure during care, and loss of control can lead to compromised dignity and situational low self-esteem. A therapeutic response names the feeling and then offers concrete ways to protect the client's dignity, such as draping and letting the client control pauses. Saying the nurse has seen worse is tempting because it sounds comforting, but it minimizes the client's experience and shuts down the conversation.",
-   "takeaway": "Acknowledge feelings about a wound, then protect dignity with privacy and client control."
+   "rationale": "Wounds, exposure during care, and loss of control can lead to compromised dignity and situational low self-esteem. A therapeutic response names the feeling and then offers concrete ways to protect the client's dignity, such as draping and letting the client control pauses. Normalizing the feeling or pointing out wound progress is tempting because it sounds comforting, but it moves the focus away from what the client is feeling, and a chaplain referral hands off a concern the nurse can address right now.",
+   "takeaway": "Acknowledge feelings about a wound, then protect dignity with privacy and client control.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-079",
@@ -2942,7 +2989,7 @@
     "The client's Braden score has risen from 12 to 14",
     "All reddened areas over the sacrum and heels blanch and fade",
     "The client says the skin \"feels fine\" on the back and heels",
-    "A new area of redness over the right hip stays red when pressed"
+    "The repositioning record shows turns every 2 hours on all shifts"
    ],
    "answer": 1,
    "priority": false,
@@ -2950,10 +2997,11 @@
     "Incorrect. A better risk score is encouraging, but it does not measure the stated outcome.",
     "Correct. Redness that blanches and fades is normal reactive redness, so no new Stage 1 areas are present.",
     "Incorrect. The outcome requires an objective skin finding, not the client's report.",
-    "Incorrect. Redness that does not blanch is a new Stage 1 injury, so the outcome is not met."
+    "Incorrect. Consistent turning shows the plan was carried out, but it is an intervention, not proof that no new injury formed."
    ],
    "rationale": "Evaluation compares the client's current status with the exact wording of the expected outcome. This outcome concerns new nonblanchable redness, so the nurse looks at whether all red areas still blanch and fade. If they do, there are no new Stage 1 injuries and the outcome is met. The rising Braden score is tempting because it shows improvement, but it measures risk, not the presence of injury.",
-   "takeaway": "Evaluate an outcome by the data it names; for \"no new nonblanchable erythema,\" check that all redness blanches."
+   "takeaway": "Evaluate an outcome by the data it names; for \"no new nonblanchable erythema,\" check that all redness blanches.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-080",
@@ -2983,7 +3031,8 @@
     "Incorrect. \"Understand\" cannot be observed or measured."
    ],
    "rationale": "An expected outcome is client-centered, specific, measurable, realistic, and time-limited. \"Demonstrate the dressing change correctly before discharge\" can be observed and has a deadline. Statements about what the nurse will do are interventions, verbs like \"understand\" cannot be observed, and words like \"quickly\" cannot be measured. The nurse-teaching statement is tempting because it describes good care, but it states what the nurse does, not what the client will achieve.",
-   "takeaway": "Outcomes start with \"The client will,\" use an observable verb, and include a time frame."
+   "takeaway": "Outcomes start with \"The client will,\" use an observable verb, and include a time frame.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-081",
@@ -3104,7 +3153,7 @@
    },
    "stem": "A 71-year-old client with a Stage 2 sacral injury has the expected outcome \"The client will eat at least 75% of each meal by Friday.\" Refer to the Meal Record. Which conclusion by the nurse is accurate?",
    "options": [
-    "Remove the outcome; the client is unlikely to eat any more",
+    "Not met; continue the plan and evaluate again next week",
     "Met; the client is eating at least half of each meal",
     "Not met; reassess barriers to eating and revise the plan",
     "Met; the supplement makes up for the missing meal intake"
@@ -3112,13 +3161,14 @@
    "answer": 2,
    "priority": false,
    "optionRationales": [
-    "Incorrect. Abandoning a nutrition goal without reassessment leaves the wound without support.",
+    "Incorrect. The outcome is correctly judged not met, but repeating a plan that has not worked skips reassessing why the client eats so little.",
     "Incorrect. The outcome specifies 75%, not 50%.",
     "Correct. Intake is below the stated target, so the nurse looks for the cause and changes the plan.",
     "Incorrect. The outcome measures meal intake, and only half of the supplements are taken."
    ],
    "rationale": "Evaluation compares data with the measurable target in the outcome. The goal was 75% of each meal by the end of the week, and the client is eating about 50%, so the outcome is not met. When goals are not met, the nurse reassesses why, such as appetite, taste, dental problems, or fatigue, and modifies the plan, perhaps with a dietitian consult or different supplements. Counting the supplement as making up the difference is tempting, but the outcome measures meal intake and the client is taking only half of the supplements.",
-   "takeaway": "If the measured result falls short of the outcome's target, the outcome is not met and the plan must be revised."
+   "takeaway": "If the measured result falls short of the outcome's target, the outcome is not met and the plan must be revised.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-084",
@@ -3136,21 +3186,22 @@
    "hintStrategy": "On evaluation items, \"not worse\" is not the same as \"working\"; look for evidence of progress.",
    "stem": "A 76-year-old client's Stage 2 sacral pressure injury measured 2.0 cm × 1.5 cm on admission. After 2 weeks of the care plan, the wound still measures 2.0 cm × 1.5 cm with a pink, moist base, and there are no signs of infection. Which action should the nurse take?",
    "options": [
-    "Reclassify the wound as Stage 3, since it has failed to heal",
+    "Obtain a wound culture, since a stalled wound may be infected",
     "Continue the current plan unchanged, since the wound has not gotten worse",
-    "Stop the dressings, since the wound is stable and can heal on its own",
+    "Change the dressing more often to keep the wound bed clean",
     "Re-evaluate the plan with the team because the wound has stalled"
    ],
    "answer": 3,
    "priority": false,
    "optionRationales": [
-    "Incorrect. Staging depends on the deepest tissue, not on the speed of healing.",
+    "Incorrect. Infection can stall healing, but there are no signs of it, and the team must review all causes such as nutrition and pressure.",
     "Incorrect. Lack of progress is a reason to re-evaluate, even without deterioration.",
-    "Incorrect. Removing treatment from a stalled wound is not an appropriate response.",
+    "Incorrect. More frequent dressing changes may seem proactive, but the nurse should reassess first, since pressure or nutrition may be the real problem.",
     "Correct. A pressure injury that shows no progress over about 2 weeks calls for reassessment and plan revision."
    ],
    "rationale": "Evaluation looks for progress, not just the absence of worsening. Healing shows as smaller, shallower wounds with more granulation and new pink tissue at the edges. A wound that is the same size after about 2 weeks has stalled, so the nurse reassesses the client and wound, including nutrition, pressure relief, moisture, and the dressing, and works with the team to revise the plan. Continuing unchanged is tempting because nothing is worse, but a stalled wound means the current plan is not enough.",
-   "takeaway": "No progress in about 2 weeks means the plan needs re-evaluation, even if the wound is not worse."
+   "takeaway": "No progress in about 2 weeks means the plan needs re-evaluation, even if the wound is not worse.",
+   "bestAnswer": true
   },
   {
    "id": "m21-x4-085",

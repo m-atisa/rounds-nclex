@@ -64,7 +64,8 @@
    "rationale": "When the kidneys stop removing excess electrolytes, the problems show up all over the body, not just in the bladder. Nerves and muscles, including the heart, need potassium kept in a narrow range to fire normally. A potassium of 6.6 mEq/L can trigger a lethal dysrhythmia, so it outranks the other abnormal findings. The rising creatinine and BUN are tempting because they are the most dramatic numbers, but they describe how poorly the kidneys work rather than an immediate threat to life. Edema and hypertension matter, yet they come after the cardiac risk.",
    "takeaway": "In kidney failure, a high potassium level is the finding most likely to kill quickly because it affects heart muscle function.",
    "hintContent": "Think about which ion the kidneys normally clear that nerves and heart muscle depend on.",
-   "hintStrategy": "When every finding is abnormal, ask which one could cause death in the next few minutes; use ABCs, including circulation and cardiac rhythm."
+   "hintStrategy": "When every finding is abnormal, ask which one could cause death in the next few minutes; use ABCs, including circulation and cardiac rhythm.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-002",
@@ -94,7 +95,8 @@
    "rationale": "Altered urine production is judged by volume over time. Anuria is less than 100 mL of urine per day and oliguria is less than 400 mL per day or less than 30 mL/hr. A 24-hour total of 85 mL means the kidneys are barely producing urine, which is a serious finding that needs prompt attention. The polyuric client is tempting because the volume is clearly abnormal, but fluid loss can usually be replaced while the cause is found. Always do the weight-based math before deciding an output is low.",
    "takeaway": "Anuria (less than 100 mL/day) signals possible kidney failure and is reported promptly.",
    "hintContent": "Recall the daily volume cutoffs for oliguria and anuria and the 0.5 mL/kg/hr minimum.",
-   "hintStrategy": "Convert each output to a rate or a daily total, compare it with the expected value, and pick the client farthest from normal in the dangerous direction."
+   "hintStrategy": "Convert each output to a rate or a daily total, compare it with the expected value, and pick the client farthest from normal in the dangerous direction.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-003",
@@ -112,21 +114,22 @@
    "stem": "An 80-kg client with an indwelling urinary catheter has 150 mL of urine in the drainage bag at the end of an 8-hour shift. The client is alert and the vital signs are stable. What should the nurse do first?",
    "options": [
     "Notify the provider that the client has developed oliguria",
-    "Increase the IV infusion rate to boost urine output",
+    "Encourage oral fluids and recheck the output in 1 hour",
     "Irrigate the catheter with 60 mL of sterile saline",
     "Check the catheter and tubing for kinks or a dependent loop"
    ],
    "answer": 3,
    "optionRationales": [
     "Incorrect. The output is low and will need to be reported, but the nurse first makes sure the low reading is not caused by a blocked tube.",
-    "Incorrect. Changing the IV rate requires a provider order and could overload a client whose kidneys are failing.",
+    "Incorrect. Fluids may help a dry client, but this treats before finding the cause, and a kinked tube would still block drainage.",
     "Incorrect. Irrigation opens the closed system, raises infection risk, and needs an order; inspecting the tubing comes first.",
     "Correct. Before deciding the kidneys are making too little urine, the nurse rules out a simple mechanical cause that blocks drainage."
    ],
    "rationale": "The expected minimum for 80 kg is 0.5 × 80 = 40 mL/hr, or 320 mL over 8 hours, so 150 mL (about 19 mL/hr) is clearly low. Low output in a catheterized client can come from the kidneys or from the drainage system, and the system is the quickest thing to check. A kink, a clamp, or urine pooled in a loop of tubing can make a working kidney look like a failing one. Notifying the provider is tempting because the number is alarming, but the report is more useful once the nurse has ruled out a blocked tube and assessed fluid status.",
    "takeaway": "For low catheter output, check the tubing and drainage system before reporting kidney failure.",
    "hintContent": "Calculate the expected 8-hour minimum, then think about what besides the kidneys could make the bag look nearly empty.",
-   "hintStrategy": "Assess before you act: when a stable client has an abnormal reading, first check for an equipment cause the nurse can fix."
+   "hintStrategy": "Assess before you act: when a stable client has an abnormal reading, first check for an equipment cause the nurse can fix.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-004",
@@ -158,7 +161,8 @@
    "rationale": "Frequency, urgency, and dysuria together point to a urinary tract infection, so cues that fit that picture are expected. The nurse's job is to spot the cue that suggests something worse. Tenderness at the flank, below the ribs at the back, can suggest kidney infection, and a high fever adds to that concern. Cloudy urine and urgency are tempting because they are abnormal, but they are part of the usual bladder infection pattern. The finding that changes the urgency of care is the one that points to the kidney.",
    "takeaway": "Frequency, urgency, and dysuria suggest a bladder infection; fever with flank pain suggests the kidney is involved.",
    "hintContent": "Separate the findings that fit a lower urinary tract infection from one that suggests the infection has moved upward.",
-   "hintStrategy": "When most options fit the expected diagnosis, the priority is usually the cue that signals a complication or spread."
+   "hintStrategy": "When most options fit the expected diagnosis, the priority is usually the cue that signals a complication or spread.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-005",
@@ -174,21 +178,22 @@
    "stem": "A 19-year-old client with type 1 diabetes reports intense thirst, voiding large amounts of pale urine all day, and a 4-kg weight loss over 2 weeks. The client has a prescription for capillary blood glucose testing as needed. Which action should the nurse take first?",
    "options": [
     "Check the client's capillary blood glucose level",
-    "Limit oral fluids to reduce the amount of urine",
+    "Encourage oral fluids to replace the lost water",
     "Obtain a clean-catch specimen for urine culture",
     "Teach the client to avoid caffeine and alcohol"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. Polyuria with polydipsia and weight loss in a client with diabetes suggests high glucose, and the result guides every next step.",
-    "Incorrect. The client is losing water through the urine; restricting fluids would worsen dehydration rather than fix the cause.",
+    "Incorrect. Replacing fluid is reasonable for a dehydrated client, but it treats the symptom; checking glucose first identifies the cause driving the fluid loss.",
     "Incorrect. A culture looks for infection, but these cues point to glucose spilling into the urine, so it is not the first action.",
     "Incorrect. These drinks increase urine output, but teaching does not address the likely cause or the risk of dehydration now."
    ],
-   "rationale": "Polyuria is the production of abnormally large amounts of urine, and polydipsia is the extreme thirst that follows as the body tries to replace lost water. Together with weight loss, they warn of excessive fluid loss and possible dehydration. In a client with diabetes, uncontrolled blood glucose is the most likely cause, so checking glucose as ordered is the fastest way to confirm the problem. Restricting fluids is tempting because it seems to target the large urine volume, but it treats the symptom and makes the dehydration worse.",
+   "rationale": "Polyuria is the production of abnormally large amounts of urine, and polydipsia is the extreme thirst that follows as the body tries to replace lost water. Together with weight loss, they warn of excessive fluid loss and possible dehydration. In a client with diabetes, uncontrolled blood glucose is the most likely cause, so checking glucose as ordered is the fastest way to confirm the problem. Encouraging fluids is tempting because the client is clearly losing water, but it treats the symptom while the cause keeps driving the loss.",
    "takeaway": "Polyuria with polydipsia and weight loss means fluid loss; look for the cause, such as high blood glucose, and never restrict fluids to fix it.",
    "hintContent": "Link the large urine volume to the most likely cause in a client with diabetes.",
-   "hintStrategy": "Choose the assessment that confirms the suspected cause before choosing a treatment, and reject options that would worsen the client's fluid status."
+   "hintStrategy": "Choose the assessment that confirms the suspected cause before choosing a treatment, and reject options that would worsen the client's fluid status.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-006",
@@ -218,7 +223,8 @@
    "rationale": "The AP can measure and report output, but the nurse interprets it. The expected minimum is 0.5 mL/kg/hr, which is 35 mL/hr for a 70-kg client. Output of 20 mL/hr for 3 hours falls well below that minimum for more than an hour or two, which may signal poor kidney perfusion or failure. The dark amber void is tempting because it looks abnormal, but a single concentrated morning void usually reflects overnight fasting rather than a kidney problem. Sustained low hourly output is the cue that needs action now.",
    "takeaway": "Output below 0.5 mL/kg/hr for 2 or more hours needs the nurse's assessment and a report to the provider.",
    "hintContent": "Calculate each client's expected minimum hourly output and compare it with what the AP reported.",
-   "hintStrategy": "In delegation items, the AP collects data and the nurse decides; choose the report that shows a sustained, dangerous trend rather than a single odd value."
+   "hintStrategy": "In delegation items, the AP collects data and the nurse decides; choose the report that shows a sustained, dangerous trend rather than a single odd value.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-007",
@@ -238,19 +244,20 @@
     "Request an order for an indwelling urinary catheter",
     "Limit her fluid intake after the evening meal",
     "Offer toileting with assistance on a regular schedule",
-    "Apply an adult brief and change it every 8 hours"
+    "Apply an adult brief and check it every 2 hours"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. A catheter adds a major infection risk and does not address why she cannot reach the toilet.",
-    "Incorrect. Limiting fluids can cause dehydration and concentrated urine, and it does not fix the cognitive and mobility barriers.",
+    "Incorrect. A catheter keeps her dry, but it adds a major infection risk and does not address why she cannot reach the toilet.",
+    "Incorrect. Limiting evening fluids can reduce night wetting, but it risks dehydration and does not fix the cognitive and mobility barriers.",
     "Correct. Her kidneys and bladder appear normal; the problems are cognition and mobility, and scheduled assisted toileting addresses both.",
-    "Incorrect. A brief manages wetness but leaves her lying in urine and does nothing to restore voiding in the toilet."
+    "Incorrect. Frequent brief checks protect her skin, but they only contain the leaking and do nothing to help her void in the toilet."
    ],
    "rationale": "Urinary elimination depends on more than the kidneys and bladder. It also depends on cognition (knowing when and where to void) and mobility (getting to the toilet in time). With a normal urinalysis, this resident's leaking most likely comes from dementia and a new hip fracture, not a bladder disease. Scheduled toileting with help targets both problems directly. A catheter is tempting because it keeps her dry, but it trades a manageable problem for a high risk of infection.",
    "takeaway": "When a client's bladder is healthy but cognition or mobility is impaired, plan scheduled, assisted toileting rather than a device.",
    "hintContent": "Identify which related concepts, such as cognition and mobility, explain this client's wetness.",
-   "hintStrategy": "Pick the least invasive option that treats the actual cause; be wary of devices that add risk."
+   "hintStrategy": "Pick the least invasive option that treats the actual cause; be wary of devices that add risk.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-008",
@@ -280,7 +287,8 @@
    "rationale": "Urinary hesitancy is difficulty or delay in starting the stream, and it is common with an enlarged prostate. The male urethra is long and passes through the prostate, so prostate growth narrows the outflow channel. The bladder must push harder against that narrowing, so the stream starts slowly and stays weak. An overactive detrusor is the tempting answer because it is a bladder problem, but it produces urgency and frequency, not a weak stream. Knowing the anatomy lets you predict the symptom.",
    "takeaway": "An enlarged prostate squeezes the urethra and causes hesitancy and a weak stream.",
    "hintContent": "Trace the path urine takes out of the male body and where the prostate sits along it.",
-   "hintStrategy": "Match the symptom to the structure: problems starting or sustaining the stream point to the outflow, not to urine production."
+   "hintStrategy": "Match the symptom to the structure: problems starting or sustaining the stream point to the outflow, not to urine production.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-009",
@@ -312,7 +320,8 @@
    "rationale": "Frequency and polyuria are easy to confuse. Polyuria is about the total amount of urine produced, while frequency is about how often a person voids. A healthy adult makes roughly 1,200 to 1,500 mL per day depending on intake, so this client's total volume is normal. Voiding every hour with a normal total means each void is small, which points to a bladder emptying problem rather than a kidney production problem. Polyuria is tempting because the client voids so often, but the measured total rules it out.",
    "takeaway": "Polyuria is a large total volume; frequency is voiding often, often with a normal total.",
    "hintContent": "Compare the 24-hour total with the usual daily adult range before choosing a term.",
-   "hintStrategy": "When two terms seem to fit, look for the one data point in the stem, here the 24-hour total, that separates them."
+   "hintStrategy": "When two terms seem to fit, look for the one data point in the stem, here the 24-hour total, that separates them.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-010",
@@ -327,22 +336,23 @@
    "focus": "Client Teaching",
    "stem": "A 32-year-old woman with her third urinary tract infection this year asks, \"Why do I keep getting these when my husband never does?\" Which response by the nurse is most accurate?",
    "options": [
-    "\"Women's kidneys filter less blood, so bacteria are not flushed out.\"",
+    "\"Female hormones make the bladder lining easier for bacteria to infect.\"",
     "\"Women have a weaker detrusor muscle that cannot fully empty.\"",
-    "\"The male prostate makes urine that is too acidic for bacteria.\"",
+    "\"Drinking plenty of fluids helps flush bacteria from your bladder.\"",
     "\"A woman's urethra is short, so bacteria reach the bladder more easily.\""
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Kidney filtration does not differ by sex in a way that explains infection risk.",
-    "Incorrect. Detrusor strength is not the reason women have more urinary tract infections.",
-    "Incorrect. The prostate does not make urine, and this statement is not accurate.",
-    "Correct. The female urethra is about 4 cm long, so bacteria have a short trip to the bladder."
+    "Incorrect. Low estrogen after menopause does raise infection risk, but at 32 her hormones are not the main reason; the difference from her husband is anatomy.",
+    "Incorrect. Incomplete emptying does raise infection risk, but women do not have a weaker detrusor, so this does not explain why she gets more infections than her husband.",
+    "Incorrect. This is true and useful prevention teaching, but it does not explain why she gets infections more often than her husband.",
+    "Correct. The female urethra is about 4 cm long, so bacteria have a short trip to the bladder; this directly answers her question."
    ],
    "rationale": "Anatomy explains much of the difference in infection risk. The female urethra is short, about 4 cm, so bacteria from the perineum have a short path to the bladder. The male urethra is longer and passes through the prostate, which gives bacteria farther to travel. Answers about the kidneys or detrusor are tempting because they sound scientific, but they describe the wrong structure. Clear, accurate teaching helps the client understand why prevention habits such as good hygiene matter.",
    "takeaway": "The short female urethra (about 4 cm) is a key reason women get more urinary tract infections.",
    "hintContent": "Compare the length of the female and male urethra.",
-   "hintStrategy": "For teaching items, choose the statement that is both accurate and directly answers the client's question."
+   "hintStrategy": "For teaching items, choose the statement that is both accurate and directly answers the client's question.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-011",
@@ -390,19 +400,20 @@
     "Help the client to a bedside commode and close the curtain",
     "Insert a straight catheter to drain the bladder completely",
     "Ask the roommate to step out and offer the bedpan again",
-    "Give a PRN opioid to relax the client before voiding"
+    "Run water in the sink while the client stays on the bedpan"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. An upright position and privacy remove the psychosocial and positioning barriers that keep the client from starting the stream.",
     "Incorrect. Catheterization is invasive and carries infection risk; simple measures to help the client void come first.",
     "Incorrect. Privacy helps, but lying on a bedpan is still an awkward position that makes starting the stream hard.",
-    "Incorrect. Opioids slow bladder signals and can cause urinary retention, making the problem worse."
+    "Incorrect. Running water is a useful cue to void, but the client is still on a bedpan without privacy or a normal posture."
    ],
    "rationale": "Psychosocial factors such as anxiety, lack of privacy, or having to use a bedpan can make it hard to start voiding. Voiding normally requires the brain to allow the sphincters to relax, and embarrassment or an unnatural position interferes with that signal. Getting the client up to a commode with the curtain closed restores both privacy and a normal posture. Asking the roommate to leave is tempting because it addresses privacy, but it leaves the client in the hardest position for voiding. Catheterization is reserved for when noninvasive measures fail.",
    "takeaway": "Privacy and a normal voiding position are first-line measures before any catheter.",
    "hintContent": "Consider which factors affecting urinary elimination are present and which ones the nurse can change right now.",
-   "hintStrategy": "Choose the least invasive action that addresses all of the barriers in the stem, not just one."
+   "hintStrategy": "Choose the least invasive action that addresses all of the barriers in the stem, not just one.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-013",
@@ -418,21 +429,22 @@
    "stem": "A client with end-stage kidney disease has had anuria for several days and has not yet started dialysis. Which assessment finding should the nurse expect?",
    "options": [
     "A weight gain of 3 kg with edema in both legs",
-    "Large volumes of pale, dilute urine",
+    "A hemoglobin level above the normal range",
     "A serum potassium level of 3.0 mEq/L on morning labs",
     "Low blood pressure with flat neck veins"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. Kidneys that make no urine cannot remove excess water and sodium, so fluid builds up and causes weight gain and edema.",
-    "Incorrect. Anuria means less than 100 mL of urine per day, so large volumes would not occur.",
-    "Incorrect. Failing kidneys cannot excrete potassium, so the level tends to rise rather than fall.",
-    "Incorrect. Retained water and sodium raise blood pressure; flat neck veins suggest fluid deficit, not overload."
+    "Incorrect. Hemoglobin changes are common in kidney disease, but failing kidneys make less erythropoietin, so anemia, not a high level, is expected.",
+    "Incorrect. Potassium problems are common in kidney failure, but failing kidneys cannot excrete potassium, so the level tends to rise rather than fall.",
+    "Incorrect. Blood pressure does change, but retained water and sodium raise it; flat neck veins suggest fluid deficit, not overload."
    ],
    "rationale": "The kidneys control the concentration and composition of the blood by getting rid of excess fluid and electrolytes. When they stop making urine, water, sodium, and potassium all accumulate. Retained fluid shows up as rapid weight gain, edema, and rising blood pressure. A low potassium level is tempting if you remember potassium problems with kidney disease, but failing kidneys hold on to potassium, so the level climbs. Predicting these changes helps the nurse recognize fluid overload early.",
    "takeaway": "Anuria causes fluid and electrolyte buildup: weight gain, edema, hypertension, and high potassium.",
    "hintContent": "Think about what accumulates in the body when the kidneys stop removing water, sodium, and potassium.",
-   "hintStrategy": "For expected-finding items, work out the direction of each change (up or down) from the pathophysiology before reading the options."
+   "hintStrategy": "For expected-finding items, work out the direction of each change (up or down) from the pathophysiology before reading the options.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-014",
@@ -710,19 +722,20 @@
     "Keep the client flat and notify the provider immediately",
     "Encourage oral fluids and recheck vital signs in 1 hour",
     "Assist the client to the bathroom to collect a urine sample",
-    "Apply a warm pack to the biopsy site for comfort"
+    "Check the dressing and recheck vital signs in 15 minutes"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. A rising pulse and falling blood pressure after a kidney biopsy suggest bleeding, which needs immediate provider involvement.",
-    "Incorrect. Waiting an hour delays treatment of possible hemorrhage, and oral fluids will not correct active bleeding.",
-    "Incorrect. Getting up could worsen bleeding and cause a fall in a client who is lightheaded and hypotensive.",
-    "Incorrect. Warmth dilates vessels and could increase bleeding; comfort measures are not the priority."
+    "Incorrect. Fluids and monitoring are part of after-care, but waiting an hour delays treatment of possible hemorrhage.",
+    "Incorrect. Checking urine for blood is reasonable, but getting up could worsen bleeding and cause a fall in a lightheaded client.",
+    "Incorrect. Inspecting the site is reasonable, but kidney bleeding is often hidden, and the trend already shows the provider is needed now."
    ],
    "rationale": "The kidney is full of blood vessels, so bleeding is the main risk after a kidney biopsy. A steadily rising heart rate and falling blood pressure, along with lightheadedness, are classic signs of blood loss. The nurse keeps the client on bed rest and flat, checks the site and urine for blood, and notifies the provider at once. Rechecking in an hour is tempting because the client is still talking, but the trend is already clear and delay allows the bleeding to continue.",
    "takeaway": "After a kidney biopsy, rising pulse and falling BP mean bleeding until proven otherwise: keep the client flat and notify the provider.",
    "hintContent": "Recall the main complication after a needle is placed into a highly vascular organ.",
-   "hintStrategy": "Look at the trend, not one value. A worsening trend in circulation calls for immediate action, not more waiting."
+   "hintStrategy": "Look at the trend, not one value. A worsening trend in circulation calls for immediate action, not more waiting.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-021",
@@ -739,20 +752,21 @@
    "options": [
     "Document the reaction in the allergy section of the chart",
     "Stop the contrast infusion and stay with the client",
-    "Give oral diphenhydramine from the client's home supply",
+    "Give diphenhydramine as prescribed for the itching",
     "Ask the client whether they have ever eaten shellfish"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Documentation is important but comes after the client is safe.",
+    "Incorrect. Documenting the allergy is important for future care, but it comes after the client is safe.",
     "Correct. Stopping the source of the reaction is the first step; the nurse stays with the client and calls for help.",
-    "Incorrect. Oral medication is too slow for airway symptoms and requires an order.",
+    "Incorrect. An antihistamine may be part of treatment, but the dye is still flowing; removing the trigger comes first.",
     "Incorrect. Allergy history should have been obtained before the test; it does not treat the reaction now."
    ],
    "rationale": "Itching, hives, wheezing, or throat tightness during contrast injection signal an allergic reaction that can threaten the airway. The first action is to stop the infusion if possible, stay with the client, and call for help so emergency treatment can begin. Asking about shellfish is tempting because allergy history is part of IVP safety, but that screening belongs before the procedure. Once a reaction starts, the priority is removing the trigger and protecting the airway.",
    "takeaway": "Airway symptoms during contrast injection: stop the infusion, stay with the client, and call for help.",
    "hintContent": "Think about which of these cues involve the airway and what removes the cause fastest.",
-   "hintStrategy": "In an emergency, choose the action that stops the harm; history-taking and documentation come later."
+   "hintStrategy": "In an emergency, choose the action that stops the harm; history-taking and documentation come later.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-022",
@@ -784,7 +798,8 @@
    "rationale": "A urine culture grows bacteria from the specimen to identify the organism and the antibiotics that will work. If an antibiotic is given first, it starts killing the bacteria and the culture may come back falsely negative or misleading. New confusion is a common sign of urinary tract infection in older adults, so treatment matters, but a few minutes to collect the specimen will not harm the client. Starting the antibiotic is tempting because the drug is ready and the client is ill, yet a ruined culture can leave the team guessing about the right antibiotic.",
    "takeaway": "Collect the urine culture before the first antibiotic dose.",
    "hintContent": "Consider what the antibiotic will do to the bacteria the culture needs to grow.",
-   "hintStrategy": "When two actions are both ordered, decide which one becomes useless or inaccurate if done second."
+   "hintStrategy": "When two actions are both ordered, decide which one becomes useless or inaccurate if done second.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-023",
@@ -850,7 +865,8 @@
    "rationale": "Serum creatinine is normally 0.5 to 1.2 mg/dL and is the more specific marker of kidney function. A rise from 1.1 to 2.4 mg/dL in a week signals worsening kidney function. Contrast dye is filtered by the kidneys and can stress them further, so this result must reach the provider before the CT. The concentrated urine before the KUB is tempting because it is near the top of the range, but it is still normal after fasting, and a plain KUB x-ray uses no dye.",
    "takeaway": "Report worsening kidney labs before any study that uses IV contrast.",
    "hintContent": "Match each lab value to its normal range and think about which test puts stress on the kidneys.",
-   "hintStrategy": "Combine the abnormal result with the risk of the planned procedure; the priority is the abnormal value that makes the procedure dangerous."
+   "hintStrategy": "Combine the abnormal result with the risk of the planned procedure; the priority is the abnormal value that makes the procedure dangerous.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-024",
@@ -880,7 +896,8 @@
    "rationale": "A 24-hour urine collection for creatinine clearance compares the creatinine in the blood with the total amount cleared into the urine over 24 hours. Every void must be saved, so if one is thrown away the collection is incomplete and must be restarted. The nurse also notifies the lab and reinforces the procedure with the AP. Noting the missed void is tempting because it seems honest and saves time, but the calculation would still be based on incomplete urine.",
    "takeaway": "If any void is discarded during a 24-hour collection, restart the collection.",
    "hintContent": "Recall why the test needs every drop of urine over the full 24 hours.",
-   "hintStrategy": "Reject options that try to repair a test with an estimate; an inaccurate result can lead to wrong treatment."
+   "hintStrategy": "Reject options that try to repair a test with an estimate; an inaccurate result can lead to wrong treatment.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-025",
@@ -899,20 +916,21 @@
    "options": [
     "Tenderness at the left flank with a temperature of 38.8°C",
     "Redness of the perineal skin where the client's pad sits",
-    "Clear, pale yellow urine in the specimen cup with no odor",
-    "The client voids once each night, which is the usual pattern"
+    "Cloudy urine with a strong odor in the client's specimen cup",
+    "Burning and urgency each time the client voids on the unit"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. Flank tenderness with fever can suggest a kidney infection, which is more serious than a bladder infection.",
     "Incorrect. Skin irritation from urine contact needs skin care, but it is not as urgent as signs of kidney infection.",
-    "Incorrect. Clear, pale yellow urine is a normal finding.",
-    "Incorrect. A stable, usual pattern of voiding once at night does not need urgent follow-up."
+    "Incorrect. Cloudy, odorous urine is worth noting, but it fits the expected bladder infection picture and does not signal spread to the kidney.",
+    "Incorrect. Burning and urgency confirm the admitting complaint, but they are expected with dysuria and do not suggest a more serious infection."
    ],
    "rationale": "The physical exam includes the abdomen, flank, genitalia and perianal skin, the urethral meatus, the urine and feces, and fluid volume status. Tenderness at the flank, the back below the ribs, can suggest kidney infection, and fever supports that concern. Kidney infection can make a client very ill, so it is reported promptly. Perineal redness is tempting because it is abnormal and visible, but it is a local skin problem with a lower immediate risk.",
    "takeaway": "Flank tenderness with fever suggests kidney involvement and is reported promptly.",
    "hintContent": "Think about where the kidneys sit and which finding suggests infection has reached them.",
-   "hintStrategy": "Choose the abnormal finding with the greatest systemic risk over a local or normal finding."
+   "hintStrategy": "Choose the abnormal finding with the greatest systemic risk over a local or normal finding.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-026",
@@ -930,21 +948,22 @@
    "stem": "The nurse completes a pre-procedure checklist for a 63-year-old client scheduled for a kidney biopsy this morning. Which finding is most important to report to the provider before the procedure?",
    "options": [
     "The client has had nothing to eat or drink since midnight",
-    "The client's blood pressure is 132/80 mm Hg",
-    "The client voided 300 mL just before transport",
+    "The client is anxious and afraid of the needle",
+    "The client's hemoglobin is 11.8 g/dL on morning labs",
     "The client took warfarin last night and the INR is 2.6"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Being NPO is expected preparation for a procedure and does not need a report.",
-    "Incorrect. This blood pressure is acceptable and does not delay the procedure.",
-    "Incorrect. Voiding before a procedure is routine and expected.",
+    "Incorrect. Confirming NPO status is an important checklist item, but here it shows the client is prepared as expected, so there is nothing to report.",
+    "Incorrect. Anxiety deserves support and explanation, but it does not threaten safety the way a bleeding risk does.",
+    "Incorrect. A baseline hemoglobin matters because bleeding is the main risk, but a mildly low value is common in kidney disease and is far less dangerous than active anticoagulation.",
     "Correct. Bleeding is the main risk of a kidney biopsy, so an anticoagulant and a prolonged INR must be reported before the needle is placed."
    ],
    "rationale": "A kidney biopsy removes a small piece of tissue with a needle, and because the kidney is so vascular, bleeding is the major risk. Before the procedure, the nurse checks clotting labs as ordered and medications that affect clotting. An elevated INR in a client taking warfarin greatly increases the chance of hemorrhage, so the provider must decide whether to proceed. NPO status is tempting to report because it is often asked about, but it is expected preparation.",
    "takeaway": "Before a kidney biopsy, report anything that impairs clotting, such as anticoagulants or a high INR.",
    "hintContent": "Link the main risk of a kidney biopsy to the pre-procedure finding that would make it worse.",
-   "hintStrategy": "In pre-procedure checklists, the priority finding is the one that increases the procedure's main complication."
+   "hintStrategy": "In pre-procedure checklists, the priority finding is the one that increases the procedure's main complication.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-027",
@@ -961,14 +980,14 @@
    "focus": "Assessment Findings",
    "stem": "A 70-year-old woman at a routine checkup answers \"No\" when the nurse asks whether she has any bladder problems. Which follow-up question is most likely to identify a hidden urinary problem?",
    "options": [
-    "\"Are you sure? Many women your age have bladder trouble.\"",
-    "\"Would you like me to schedule a urinalysis to check?\"",
+    "\"Many women your age notice some bladder changes. Have you noticed any?\"",
+    "\"Would you like me to schedule a urinalysis so we can check for problems?\"",
     "\"Do you ever leak when you cough or laugh, or before you reach the toilet?\"",
     "\"Is your urine a normal color, and about the same amount each day?\""
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Challenging her answer can feel judgmental and may make her more defensive.",
+    "Incorrect. Normalizing the topic is supportive, but the question is still general, so she can easily say no again.",
     "Incorrect. A urinalysis may not reveal leaking, and it skips the verbal screening that finds these problems.",
     "Correct. Specific, matter-of-fact questions make it easier for clients to admit symptoms they are embarrassed about.",
     "Incorrect. This asks about urine production, not the leaking and voiding problems clients tend to hide."
@@ -976,7 +995,8 @@
    "rationale": "There are no standard screening procedures for urinary problems, so screening is verbal, especially for older adults. Many clients are embarrassed or assume leaking is part of aging, and they answer no to general questions. Asking specifically about leaking with coughing or laughing, or not reaching the bathroom in time, in a calm, matter-of-fact tone gives the client permission to say yes. Ordering a urinalysis is tempting because it seems objective, but it cannot replace a direct conversation about symptoms.",
    "takeaway": "Screen for urinary problems with direct, specific questions; clients rarely volunteer them.",
    "hintContent": "Consider why clients hide urinary symptoms and what kind of question makes it easier to answer honestly.",
-   "hintStrategy": "For communication items, choose the open, specific, nonjudgmental question that gathers the most accurate data."
+   "hintStrategy": "For communication items, choose the open, specific, nonjudgmental question that gathers the most accurate data.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-028",
@@ -994,21 +1014,22 @@
    "stem": "A client with type 2 diabetes had an IVP this morning and held metformin as directed. Tonight the client says, \"I feel fine. Can I take my metformin with dinner?\" The repeat creatinine has not been drawn yet. Which response by the nurse is best?",
    "options": [
     "\"Yes, the test is over, so you can restart your usual dose tonight.\"",
-    "\"You can take half of your usual dose tonight just to be safe.\"",
+    "\"You can restart it tomorrow morning if you still feel well.\"",
     "\"Metformin stays on hold until your kidney function has been rechecked.\"",
     "\"Drink extra water tonight, and then you can take the metformin.\""
    ],
    "answer": 2,
    "optionRationales": [
     "Incorrect. Restarting before kidney function is confirmed risks metformin buildup and lactic acidosis.",
-    "Incorrect. A lower dose still risks buildup if the kidneys are impaired, and the nurse cannot change the dose.",
+    "Incorrect. Delaying a restart is closer to right, but feeling well does not show the kidneys have recovered; the lab recheck decides.",
     "Correct. Metformin is held after contrast and restarted only after kidney function is rechecked and stable.",
     "Incorrect. Fluids help flush the dye, but they do not replace confirming kidney function before restarting."
    ],
    "rationale": "Contrast dye can stress the kidneys, and if the kidneys cannot clear metformin it can build up and cause lactic acidosis, a dangerous acid buildup. Current guidelines hold metformin at the time of the test and for 48 hours afterward, and it is not restarted until kidney function has been rechecked and is stable. Encouraging fluids is tempting because it is good after-care, but it does not prove the kidneys are working. The safe answer waits for the lab result and the provider's direction.",
    "takeaway": "After contrast, restart metformin only after kidney function is rechecked and stable.",
    "hintContent": "Think about why metformin and contrast are a dangerous combination when the kidneys are stressed.",
-   "hintStrategy": "Eliminate answers in which the nurse independently changes a dose or restarts a held drug."
+   "hintStrategy": "Eliminate answers in which the nurse independently changes a dose or restarts a held drug.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-029",
@@ -1040,7 +1061,8 @@
    "rationale": "Normal values are specific gravity 1.005 to 1.030, BUN 8 to 20 mg/dL, and creatinine 0.5 to 1.2 mg/dL. Both specific gravity and BUN rise with dehydration, while creatinine is the more specific marker of kidney function. A high specific gravity and BUN with a normal creatinine, in a client who has been vomiting, points to dehydration. Kidney disease is tempting because the BUN is high, but BUN rises with dehydration too; the normal creatinine is the clue that the kidneys themselves are working.",
    "takeaway": "High BUN and specific gravity with a normal creatinine suggest dehydration, not kidney damage.",
    "hintContent": "Compare each value with its normal range and remember which lab is most specific to the kidneys.",
-   "hintStrategy": "When labs disagree, decide which one is most specific; it usually breaks the tie between two interpretations."
+   "hintStrategy": "When labs disagree, decide which one is most specific; it usually breaks the tie between two interpretations.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-030",
@@ -1100,7 +1122,8 @@
    "rationale": "Each urinary test answers a different question. A urinary stress test checks whether urine leaks with increased abdominal pressure: the client has a full bladder and coughs or bears down while the examiner watches. It fits this client because her leaking happens with sneezing. The cystoscopy description is tempting because it is a common urinary procedure, but it looks inside the bladder rather than testing for leakage under pressure. Accurate teaching lowers anxiety and helps the client prepare.",
    "takeaway": "A urinary stress test checks for leakage when abdominal pressure rises with a full bladder.",
    "hintContent": "Match the client's symptom to the test designed to reproduce it.",
-   "hintStrategy": "When options describe different procedures, identify the question each procedure answers."
+   "hintStrategy": "When options describe different procedures, identify the question each procedure answers.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-032",
@@ -1394,19 +1417,20 @@
     "Give the dose with a glass of orange juice",
     "Give the dose and recheck the BP in 1 hour",
     "Hold the dose and notify the provider",
-    "Give half the dose and document the reason"
+    "Give the dose and ask for a potassium supplement"
    ],
    "answer": 2,
    "optionRationales": [
     "Incorrect. Orange juice adds a little potassium, but it does not make the dose safe with a potassium of 3.1 and low BP.",
-    "Incorrect. Giving the drug first exposes the client to further potassium loss and a lower blood pressure.",
+    "Incorrect. Monitoring BP is reasonable, but giving the drug first exposes the client to further potassium loss and a lower BP.",
     "Correct. Furosemide causes potassium loss and lowers BP; with a low potassium and low BP, another dose could cause harm.",
-    "Incorrect. The nurse cannot independently change the prescribed dose."
+    "Incorrect. A supplement addresses the low potassium, but the dose would still lower an already low blood pressure."
    ],
    "rationale": "Before giving a diuretic, the nurse checks BUN, creatinine, potassium, sodium, and blood pressure. Loop diuretics such as furosemide are strong and cause potassium loss, so a potassium of 3.1 mEq/L, which is already low, would drop further. The BP of 98/58 also puts the client at risk for dizziness and falls if more fluid is removed. Giving the dose with orange juice is tempting because it seems to fix the potassium, but it does not correct an existing deficit or the low BP.",
    "takeaway": "Hold a potassium-wasting diuretic and notify the provider when potassium or blood pressure is already low.",
    "hintContent": "Recall what furosemide does to potassium and blood pressure.",
-   "hintStrategy": "When pre-medication data are abnormal in the direction the drug would worsen, hold and notify."
+   "hintStrategy": "When pre-medication data are abnormal in the direction the drug would worsen, hold and notify.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-038",
@@ -1438,7 +1462,8 @@
    "rationale": "Anticholinergics such as oxybutynin block the signal that makes the detrusor contract, which reduces urgency but can cause the opposite problem: retention. The same blocking dries the mouth, slows the gut, and can cause confusion in older adults. The nurse holds the next dose, confirms the bladder volume with a scan, and notifies the provider. Giving a laxative is tempting because constipation is clearly present, but it treats one effect and ignores the drug that is causing all three.",
    "takeaway": "New confusion, constipation, or retention after starting an anticholinergic in an older adult: hold the drug, assess the bladder, and report.",
    "hintContent": "Link all three new findings to one cause.",
-   "hintStrategy": "When several new problems start together, look for a single cause, often a new medication, and address that first."
+   "hintStrategy": "When several new problems start together, look for a single cause, often a new medication, and address that first.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-039",
@@ -1468,7 +1493,8 @@
    "rationale": "Hemodialysis pumps blood through an external machine and returns it to the body, usually through a fistula or graft in the arm. A working fistula has a palpable thrill (buzz) and an audible bruit (whoosh). If both are absent, the fistula may be clotted, and the client cannot receive dialysis until it is restored, so the provider is notified immediately. Weight gain is tempting because it looks abnormal, but wastes and fluid build up between treatments, which is why dialysis must be done at frequent intervals.",
    "takeaway": "An absent thrill and bruit over a dialysis fistula needs immediate follow-up.",
    "hintContent": "Recall what the nurse feels and hears over a working fistula.",
-   "hintStrategy": "Separate findings expected between dialysis treatments from a finding that means the access has failed."
+   "hintStrategy": "Separate findings expected between dialysis treatments from a finding that means the access has failed.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-040",
@@ -1483,22 +1509,23 @@
    "focus": "Prioritization",
    "stem": "A home health nurse visits a 55-year-old client who performs peritoneal dialysis every day. Which finding should the nurse report to the provider immediately?",
    "options": [
-    "The drained fluid is clear and pale yellow, like the last exchange",
-    "The client feels mild fullness while the fluid dwells",
+    "The drained volume is 200 mL less than the amount instilled",
+    "The client feels mild fullness while the fluid dwells in the abdomen",
     "The drained fluid is cloudy and the client has abdominal pain",
-    "The client's weight is unchanged since yesterday"
+    "The client's weight is up 1 kg since yesterday's exchange"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Clear, pale yellow drainage is the expected appearance.",
+    "Incorrect. Poor drainage needs follow-up, such as repositioning and checking the line, but it is not as urgent as signs of infection.",
     "Incorrect. A feeling of fullness while solution is in the abdomen is common.",
-    "Correct. Cloudy drainage with abdominal pain suggests peritonitis, an infection of the abdominal lining.",
-    "Incorrect. A stable weight suggests fluid is being removed as planned."
+    "Correct. Cloudy drainage with abdominal pain suggests peritonitis, an infection of the abdominal lining, which needs prompt treatment.",
+    "Incorrect. Weight gain suggests fluid retention worth reporting, but a 1-kg change is less urgent than signs of peritonitis."
    ],
    "rationale": "In peritoneal dialysis, solution is instilled into the abdominal cavity, the abdominal lining acts as the filter, and the fluid is then drained. Because a catheter enters the abdomen, infection of the abdominal lining is a major risk, which is why strict aseptic technique is required. Cloudy drained fluid, fever, or abdominal pain suggests infection and must be reported promptly. Mild fullness is tempting because it involves the abdomen, but it is an expected sensation during a dwell.",
    "takeaway": "Cloudy peritoneal dialysis drainage, fever, or abdominal pain suggests infection; report it.",
    "hintContent": "Think about what normal drained fluid should look like and what the catheter puts the client at risk for.",
-   "hintStrategy": "Choose the finding that points to a complication of the therapy over sensations that are part of it."
+   "hintStrategy": "Choose the finding that points to a complication of the therapy over sensations that are part of it.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-041",
@@ -1550,22 +1577,23 @@
     ]
    },
    "options": [
-    "Increase the IV rate to stimulate more urine",
+    "Notify the provider of the low urine output",
     "Auscultate lung sounds and check for edema",
     "Encourage another 500 mL of oral fluid",
     "Document the totals and recheck next shift"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Adding fluid without an order could worsen overload when the kidneys are not keeping up.",
+    "Incorrect. The low output must be reported, but the report is more useful after the nurse assesses for fluid overload.",
     "Correct. A large positive balance with low output raises concern for fluid retention, so the nurse assesses for overload before reporting.",
-    "Incorrect. More fluid is not appropriate when intake already far exceeds output.",
-    "Incorrect. Output below the expected minimum is reported, not simply documented and watched."
+    "Incorrect. Fluids help when output is low from dehydration, but intake already far exceeds output here.",
+    "Incorrect. Accurate documentation is needed, but output below the expected minimum is reported, not simply watched."
    ],
    "rationale": "The expected minimum for 70 kg is 0.5 × 70 = 35 mL/hr, or 420 mL in 12 hours, so 360 mL is low. At the same time, intake exceeds output by more than 1,700 mL. The nurse first assesses for signs that fluid is being retained, such as lung crackles and edema, and then reports the low output and the imbalance to the provider. Documenting and rechecking is tempting because the client may look stable, but a gap this large needs action during this shift.",
    "takeaway": "Compare intake with output and with 0.5 mL/kg/hr; a large gap means assess for overload and report.",
    "hintContent": "Calculate the 12-hour minimum output and the difference between intake and output.",
-   "hintStrategy": "Assess before you report or act: gather the bedside findings that explain an abnormal total."
+   "hintStrategy": "Assess before you report or act: gather the bedside findings that explain an abnormal total.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-042",
@@ -1581,21 +1609,22 @@
    "stem": "A 68-year-old client with heart failure takes spironolactone (Aldactone) 25 mg daily. This morning's potassium is 5.8 mEq/L. Which action is most appropriate?",
    "options": [
     "Hold the dose and notify the provider of the result",
-    "Give the dose and offer a banana with breakfast",
+    "Give the dose and limit high-potassium foods today",
     "Give the dose and recheck the potassium tomorrow",
-    "Give the dose with the client's salt substitute"
+    "Hold the dose and recheck the potassium tomorrow"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Spironolactone keeps potassium in the body, so giving it with a high level could raise potassium further.",
-    "Incorrect. Bananas add potassium, which would make the high level worse.",
-    "Incorrect. Waiting a day exposes the client to rising potassium and cardiac risk.",
-    "Incorrect. Salt substitutes are made of potassium chloride and must be avoided with this drug."
+    "Correct. Spironolactone keeps potassium in the body, so giving it with a high level could raise potassium further; the provider must know now.",
+    "Incorrect. Limiting dietary potassium is reasonable teaching, but giving a potassium-sparing drug with a level of 5.8 can still raise it further.",
+    "Incorrect. Rechecking the level is reasonable, but giving the drug and waiting a day exposes the client to rising potassium and cardiac risk.",
+    "Incorrect. Holding the dose is right, but a potassium of 5.8 can affect heart rhythm and needs the provider's attention today."
    ],
    "rationale": "Spironolactone is a potassium-sparing diuretic: it removes water and sodium but keeps potassium. That is why the nurse checks potassium before each dose and teaches the client to avoid salt substitutes, which contain potassium chloride. A potassium of 5.8 mEq/L is already high, and another dose could push it higher and threaten heart rhythm. Rechecking tomorrow is tempting because the drug is a low dose, but the safe action is to hold and report now.",
    "takeaway": "Hold spironolactone and notify the provider when potassium is high.",
    "hintContent": "Recall whether this diuretic removes or keeps potassium.",
-   "hintStrategy": "Match the drug's effect on an electrolyte to the lab value; if the value is already off in that direction, hold and notify."
+   "hintStrategy": "Match the drug's effect on an electrolyte to the lab value; if the value is already off in that direction, hold and notify.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-043",
@@ -1613,19 +1642,20 @@
     "A client with a temperature of 38.8°C and new flank pain",
     "A client whose drainage bag is clipped to the bed rail",
     "A client who asks when the catheter will be removed",
-    "A client with clear yellow urine draining 50 mL/hr"
+    "A client whose urine is cloudy with a strong odor"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. Fever and flank pain suggest a catheter-associated infection that may involve the kidney.",
     "Incorrect. The bag needs to be repositioned, but this is a quick fix that does not reflect an active complication.",
-    "Incorrect. This is a reasonable question to address, but it is not urgent.",
-    "Incorrect. This is normal output and appearance."
+    "Incorrect. Early removal prevents infection and is worth addressing, but the question is not urgent.",
+    "Incorrect. Cloudy, odorous urine may signal infection and needs follow-up, but it lacks the systemic signs of the client with fever and flank pain."
    ],
    "rationale": "Urinary catheters are a leading source of health care-associated infections, because they give bacteria a direct path into the normally sterile bladder. Fever, flank pain, or cloudy, foul-smelling urine in a catheterized client suggests infection and should be reported. The client with fever and flank pain is showing systemic signs, so that client is seen first. The bag clipped to the bed rail is tempting because it is a real error that can cause backflow, but it is quickly corrected and has not yet caused harm.",
    "takeaway": "Fever and flank pain in a client with a catheter suggest infection and come before routine catheter fixes.",
    "hintContent": "Decide which client is showing signs that harm has already happened.",
-   "hintStrategy": "Actual problems with systemic signs come before potential problems the nurse can quickly correct."
+   "hintStrategy": "Actual problems with systemic signs come before potential problems the nurse can quickly correct.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-044",
@@ -1655,7 +1685,8 @@
    "rationale": "Each urinary drug has a key caution. Oxybutynin is an anticholinergic, and the same blocking action that relaxes the bladder can raise pressure in the eye, which is why it is avoided in glaucoma. That makes it the prescription to question. Mirabegron is tempting because it can raise blood pressure, but this client's pressure is normal, so the nurse simply monitors. The other prescriptions fit their usual purpose and have safe pre-dose data.",
    "takeaway": "Avoid oxybutynin (Ditropan) and other anticholinergics in clients with glaucoma.",
    "hintContent": "Recall the key caution for each urinary drug class.",
-   "hintStrategy": "For clarify-the-order items, look for a drug paired with a condition or value that makes it unsafe."
+   "hintStrategy": "For clarify-the-order items, look for a drug paired with a condition or value that makes it unsafe.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-045",
@@ -1685,7 +1716,8 @@
    "rationale": "Mirabegron is a urinary antispasmodic that relaxes the detrusor by acting as a beta-3 agonist. It has significant side effects, and it can notably raise blood pressure, so the nurse monitors BP. Each distractor belongs to a different urinary drug, which is exactly how these items test you. Intraocular pressure is tempting because it is a caution for another bladder-calming drug, but that concern belongs to anticholinergics.",
    "takeaway": "Mirabegron (Myrbetriq) can raise blood pressure; monitor BP.",
    "hintContent": "Match the drug to its own key caution rather than one from a related drug.",
-   "hintStrategy": "When distractors are cautions for other drugs in the same family, sort each one to its own drug before choosing."
+   "hintStrategy": "When distractors are cautions for other drugs in the same family, sort each one to its own drug before choosing.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-046",
@@ -1717,7 +1749,8 @@
    "rationale": "Diuretics increase urine output for several hours after a dose. Giving them in the morning when possible keeps the client from being up all night voiding. For an older adult, nighttime trips to the bathroom also raise fall risk, so timing is a safety issue. The bedtime answer is tempting because many medications are taken then, but it turns a helpful drug into a cause of nocturia and falls.",
    "takeaway": "Give diuretics in the morning to prevent nocturia and nighttime falls.",
    "hintContent": "Think about when the increased urine output will occur after a dose.",
-   "hintStrategy": "For timing questions, picture the drug's effect happening at that time of day and judge the safety impact."
+   "hintStrategy": "For timing questions, picture the drug's effect happening at that time of day and judge the safety impact.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-047",
@@ -1747,7 +1780,8 @@
    "rationale": "A catheter is a direct path for bacteria into the normally sterile bladder, and the longer it stays in, the higher the infection risk. The nurse should ask every day whether the catheter is still necessary and remind the provider when it may not be. This client is up and walking, so the original reason may no longer apply. Removing it immediately is tempting because it seems like the right outcome, but it requires an order, so the nurse advocates rather than acting outside scope.",
    "takeaway": "Ask daily whether a catheter is still needed and prompt the provider to remove it when it is not.",
    "hintContent": "Consider the single most effective way to prevent catheter-associated infection.",
-   "hintStrategy": "Choose the action that achieves the safe outcome within the nurse's scope of practice."
+   "hintStrategy": "Choose the action that achieves the safe outcome within the nurse's scope of practice.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-048",
@@ -1765,21 +1799,22 @@
    "stem": "A 75-year-old client recovering from a stroke is going home and has trouble getting on and off the toilet. The client will need grab bars, a raised toilet seat, and help with transfers. To which team member should the nurse request a referral?",
    "options": [
     "Occupational therapist",
-    "Wound and ostomy nurse",
+    "Hospital social worker",
     "Medical supply company",
-    "Registered dietitian"
+    "Home health aide service"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Occupational therapy helps clients toilet safely with transfers, adaptive clothing, raised seats, and grab bars.",
-    "Incorrect. This nurse helps with incontinence skin care and urinary diversions, not toileting equipment.",
-    "Incorrect. A supply company provides catheters and commodes but does not assess or train transfers.",
-    "Incorrect. A dietitian addresses nutrition, not toilet transfers or bathroom equipment."
+    "Correct. The occupational therapist assesses toileting and transfer safety, teaches safe technique, and recommends grab bars and a raised toilet seat for the home.",
+    "Incorrect. A social worker can help arrange resources and coverage for equipment, but does not assess toileting function or teach safe transfers.",
+    "Incorrect. A supply company can deliver a raised seat and grab bars, but it does not assess the home or teach the client how to transfer safely.",
+    "Incorrect. An aide can physically help with transfers, but cannot assess needs or choose equipment; the therapist's plan should come first."
    ],
    "rationale": "Many clients leave the hospital still managing a urinary problem, so referrals before or after discharge are part of collaborative care. The occupational therapist helps the client toilet safely: transfers, adaptive clothing, raised toilet seats, and grab bars. The medical supply company is tempting because it provides equipment, but it does not assess the home or teach safe transfers. Matching the need to the right team member prevents falls and keeps the client independent.",
    "takeaway": "Refer to occupational therapy for safe toileting, transfers, and bathroom equipment.",
    "hintContent": "Match the client's specific needs to the team member whose role covers them.",
-   "hintStrategy": "For referral items, look for the team member whose role includes assessment and teaching, not just supplies."
+   "hintStrategy": "For referral items, look for the team member whose role includes assessment and teaching, not just supplies.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-049",
@@ -1809,7 +1844,8 @@
    "rationale": "Phenazopyridine is a urinary analgesic that treats pain and burning; it discolors the urine orange or red and is slightly sedating. Because it masks symptoms, a client may feel cured while the infection is still present. Antibiotics must be taken for the full course even when symptoms improve, so stopping early is the dangerous misunderstanding. The orange urine is tempting to address because the client mentions it with concern, but it is an expected and harmless effect.",
    "takeaway": "Phenazopyridine masks pain but does not treat infection; the antibiotic must be finished.",
    "hintContent": "Separate the drug that relieves symptoms from the drug that treats the cause.",
-   "hintStrategy": "When a client reports several things, address the one that could cause harm before the one that is expected."
+   "hintStrategy": "When a client reports several things, address the one that could cause harm before the one that is expected.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-050",
@@ -2022,7 +2058,8 @@
    "rationale": "After birth, the bladder and urethra have been stretched and bruised, and an epidural may still dull sensation, so overdistention and incomplete emptying are common. Postpartum output also increases as the body sheds the extra fluid of pregnancy, so the bladder fills quickly. A full bladder pushes the uterus up and to one side and keeps it from contracting well, which can increase bleeding. Massaging the fundus is tempting because uterine position is abnormal, but this fundus is firm, and the cause of the displacement is the bladder. Helping her void comes first; a scan or catheter follows protocol only if she cannot.",
    "takeaway": "A postpartum fundus displaced to one side with a suprapubic bulge means a full bladder: help the client void first.",
    "hintContent": "Think about what pushes a firm uterus up and to the side after birth.",
-   "hintStrategy": "Treat the cause of the abnormal finding with the least invasive effective action."
+   "hintStrategy": "Treat the cause of the abnormal finding with the least invasive effective action.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-056",
@@ -2052,7 +2089,8 @@
    "rationale": "Healthy newborns void within the first 24 hours, and it is important to make sure the newborn voids within 48 hours after delivery. If not, the provider needs to know, because this may signal a problem with the kidneys or urinary tract. Cloudy urine and frequent small voids are both expected in a newborn. The 18-hour-old is tempting because no void has occurred yet, but that infant is still inside the normal time frame.",
    "takeaway": "Newborns void within 24 hours; no void by 48 hours is reported.",
    "hintContent": "Recall the expected time of the first void and the outer limit before it becomes a concern.",
-   "hintStrategy": "Compare each infant's age with the time benchmark; only the one past the limit needs a report."
+   "hintStrategy": "Compare each infant's age with the time benchmark; only the one past the limit needs a report.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-057",
@@ -2069,20 +2107,21 @@
    "options": [
     "A 6-year-old deep sleeper who wets the bed a few nights a week",
     "A 3-year-old who is dry all day but wets the bed most nights",
-    "A 4-year-old who forgets to flush and wash hands without reminders",
+    "A 4-year-old who has a daytime accident when very excited at play",
     "A 9-year-old who was dry for years and now wets during the school day"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Nocturnal enuresis in a deep sleeper this age is common and not considered a problem until after age 7.",
-    "Incorrect. Daytime control normally comes before nighttime control, so this is expected.",
-    "Incorrect. Young children need reminders about flushing and handwashing; this is part of toilet learning.",
-    "Correct. Daytime (diurnal) enuresis may be pathologic and can signal infection, constipation, a structural problem, or stress."
+    "Incorrect. Frequent bedwetting is worth discussing, but in a 6-year-old deep sleeper it is common and not considered a problem until after age 7.",
+    "Incorrect. Nighttime dryness develops after daytime control, so a 3-year-old who is dry by day but wet at night is developing normally.",
+    "Incorrect. Daytime wetting can be a concern, but urinary control develops through age 5, so an occasional accident during excited play at 4 is expected.",
+    "Correct. New daytime wetting after years of dryness in a school-age child may be pathologic, such as an infection, and needs evaluation."
    ],
    "rationale": "Most children develop urinary control between 2 and 5 years of age, and daytime control comes before nighttime control. Enuresis is common in school-age children, but the two types are interpreted differently. Bedwetting in deep sleepers is not a problem until after age 7, while daytime wetting may be pathologic and needs evaluation. The 6-year-old is tempting because the wetting happens several nights a week, but frequent bedwetting at that age in a deep sleeper still falls within normal.",
    "takeaway": "Bedwetting is not a concern until after age 7; new daytime wetting may be pathologic and needs evaluation.",
    "hintContent": "Separate nighttime wetting from daytime wetting and compare each child's age with the expected milestone.",
-   "hintStrategy": "In expected-versus-unexpected items, look for a change from the child's own baseline; regression is a red flag."
+   "hintStrategy": "In expected-versus-unexpected items, look for a change from the child's own baseline; regression is a red flag.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-058",
@@ -2135,21 +2174,22 @@
    },
    "options": [
     "Let the resident sleep this morning and reassess at lunchtime",
-    "Restrict evening fluids to prevent nighttime incontinence",
+    "Encourage a full glass of water now and recheck in an hour",
     "Report the change in mental status and findings to the provider",
     "Apply a bed alarm and document an increased risk for falls"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Drowsiness and confusion are a change from baseline and should not be watched without action.",
-    "Incorrect. Restricting fluids would worsen the dehydration this resident already shows.",
-    "Correct. New confusion with concentrated urine suggests dehydration, and a change in mental status is reported promptly.",
-    "Incorrect. Fall precautions are reasonable, but they do not address the likely cause of the confusion."
+    "Incorrect. Rest may seem kind, but new drowsiness and confusion are an acute change, and waiting until lunch delays care.",
+    "Incorrect. Fluids are part of the plan, but a drowsy resident may choke on a full glass, and new confusion can have other causes, such as infection, so the change must be reported.",
+    "Correct. New confusion with dark, concentrated urine and dry membranes suggests dehydration or another acute problem. The nurse offers fluids and reports the change so the cause can be evaluated.",
+    "Incorrect. A bed alarm addresses one consequence of the confusion, but it does nothing to identify or treat the cause."
    ],
    "rationale": "Older adults lose the ability to concentrate urine well, so they become dehydrated more easily, and signs of trouble may be subtle. New confusion, weakness, or a fall may be the first sign of dehydration or infection instead of thirst or burning. A full pitcher, dark amber urine, dry mucous membranes, and a specific gravity above 1.030 all support dehydration. The nurse offers fluids and reports the change in mental status. A bed alarm is tempting because the resident is confused, but it protects against one consequence without treating the cause.",
    "takeaway": "In an older adult, new confusion may be the first sign of dehydration; report the change and address fluids.",
    "hintContent": "Combine the intake, urine, and lab cues to identify the most likely cause of the confusion.",
-   "hintStrategy": "Choose the action that addresses the cause and communicates a change in condition, rather than one that only manages a symptom."
+   "hintStrategy": "Choose the action that addresses the cause and communicates a change in condition, rather than one that only manages a symptom.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-059",
@@ -2167,21 +2207,22 @@
    "stem": "An 86-year-old client who takes HCTZ every morning gets up three times a night to void and has had two near-falls on the way to the bathroom. Which intervention is the priority?",
    "options": [
     "Place a bedside commode and night-light, with the call light in reach",
-    "Restrict all fluids after 1200 to prevent nighttime voiding",
-    "Ask the provider to move the HCTZ dose to bedtime instead",
-    "Request an indwelling catheter for use during the night hours"
+    "Restrict all fluids after 1200 to prevent voiding during the night",
+    "Ask the provider to move the morning HCTZ dose to bedtime instead",
+    "Teach the client to sit at the bed edge for a minute before standing"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Nocturia raises fall risk, so making the trip short, lighted, and supported is the most important safety step.",
-    "Incorrect. Cutting fluids so early could cause dehydration in a client who already loses water easily.",
-    "Incorrect. A bedtime diuretic dose would increase nighttime voiding.",
-    "Incorrect. A catheter adds infection risk and is not indicated for nocturia."
+    "Correct. Shortening the trip, lighting the way, and keeping help in reach directly reduce the fall risk the client is already showing.",
+    "Incorrect. Tapering evening fluids is reasonable, but stopping all fluids at noon risks dehydration in an older adult.",
+    "Incorrect. Reviewing diuretic timing is reasonable, but a bedtime dose would increase nighttime voiding and falls.",
+    "Incorrect. Dangling before standing helps prevent orthostatic dizziness, but it does not shorten the walk to the bathroom or provide light and help, so it is incomplete."
    ],
    "rationale": "Aging kidneys excrete more fluid and electrolytes at night, so older adults often wake to void, and diuretics can make the problem worse. Nocturia is a safety issue because of falls on the way to the bathroom. A bedside commode, a night-light, a clear path, and a call light within reach reduce that risk right away. Restricting fluids is tempting because it seems to target the cause, but tapering fluids in the evening is appropriate, while cutting them off at noon risks dehydration.",
    "takeaway": "For nocturia in an older adult, prevent falls with a commode, night-light, clear path, and call light.",
    "hintContent": "Identify the most immediate physical risk created by this client's nighttime voiding.",
-   "hintStrategy": "When a client has had near-falls, safety interventions usually take priority over changes that take longer to work."
+   "hintStrategy": "When a client has had near-falls, safety interventions usually take priority over changes that take longer to work.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-060",
@@ -2213,7 +2254,8 @@
    "rationale": "Blood flow to the aging kidney decreases and GFR falls, so the kidneys clear wastes and drugs more slowly. That raises the risk of drug overdose and adverse effects, and doses often need to be lower. Normal creatinine clearance is 80 to 140 mL/min, so 38 mL/min shows significantly reduced function. Giving the dose and monitoring is tempting because the drug is prescribed, but the nurse is responsible for questioning a dose that the client's kidneys may not be able to clear.",
    "takeaway": "Older adults clear kidney-excreted drugs more slowly; question standard adult doses when kidney function is low.",
    "hintContent": "Compare the creatinine clearance with the normal range and think about what that means for drug excretion.",
-   "hintStrategy": "When a lab value suggests a dose may be unsafe, clarify before giving rather than giving and watching."
+   "hintStrategy": "When a lab value suggests a dose may be unsafe, clarify before giving rather than giving and watching.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-061",
@@ -2243,7 +2285,8 @@
    "rationale": "A newborn's GFR is lower than an adult's, and newborns have limited ability to concentrate and dilute urine. They cannot get rid of extra water quickly, so a small IV error has a big effect, and monitoring for overhydration is essential. The first step is to stop the harm by correcting the rate; then the nurse assesses the infant, notifies the provider, and documents. Weighing the infant is tempting because it measures the problem, but measuring while the excess fluid keeps running delays the most important action.",
    "takeaway": "Newborn kidneys cannot quickly excrete extra fluid; stop an IV error first, then assess and report.",
    "hintContent": "Recall what limits a newborn's ability to handle extra fluid.",
-   "hintStrategy": "When harm is ongoing, the first action stops it; assessment and reporting follow."
+   "hintStrategy": "When harm is ongoing, the first action stops it; assessment and reporting follow.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-062",
@@ -2273,7 +2316,8 @@
    "rationale": "Enuresis is common in school-age children, and nocturnal enuresis is especially prevalent in deep sleepers who do not wake to the signal of a full bladder. It is not considered a problem until after age 7, and most children outgrow it. The nurse reassures the parent and suggests limiting drinks in the evening and voiding before bed. Urging an infection workup is tempting because wetting can be a symptom, but daytime dryness and deep sleep point to normal development.",
    "takeaway": "Bedwetting in a deep sleeper under age 7 is common; reassure and suggest evening fluid limits and voiding before bed.",
    "hintContent": "Compare the child's age and pattern with the age at which bedwetting becomes a concern.",
-   "hintStrategy": "For parent-teaching items, the best answer is accurate, reassuring when appropriate, and gives a practical next step."
+   "hintStrategy": "For parent-teaching items, the best answer is accurate, reassuring when appropriate, and gives a practical next step.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-063",
@@ -2303,7 +2347,8 @@
    "rationale": "Postpartum risks include overdistention, incomplete emptying, residual urine, and urinary tract infection, but urinary output also increases in the early postpartum period. Large voids and a firm, midline fundus show the bladder is filling quickly and emptying well. The nurse reassures the client and encourages her to void often because the bladder fills fast. Polyuria from diabetes is tempting because the volumes are large, but the timing and normal fundus point to expected diuresis.",
    "takeaway": "Large voids on the first postpartum day are expected diuresis when the fundus is firm and midline.",
    "hintContent": "Think about what happens to the extra fluid of pregnancy after birth.",
-   "hintStrategy": "Use the paired finding (a firm, midline fundus) to decide whether a striking value is expected or a problem."
+   "hintStrategy": "Use the paired finding (a firm, midline fundus) to decide whether a striking value is expected or a problem.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-064",
@@ -2353,21 +2398,22 @@
    "stem": "A 79-year-old client who takes a thiazide diuretic for hypertension has a serum sodium of 128 mEq/L. Which explanation best accounts for this finding?",
    "options": [
     "The client is retaining sodium because the kidneys filter less",
-    "The aging bladder holds more urine and reabsorbs sodium from it",
+    "A low-salt diet for high blood pressure has depleted the sodium",
     "Older kidneys concentrate urine well, which pulls sodium out",
     "Aging kidneys regulate sodium poorly, and the diuretic adds to the loss"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Retained sodium would raise the level, not lower it.",
-    "Incorrect. The bladder stores urine; it does not regulate blood sodium.",
-    "Incorrect. Aging kidneys concentrate urine less well, not better.",
-    "Correct. Older adults have trouble regulating sodium and water, and diuretics make these problems worse."
+    "Incorrect. GFR does fall with age, but sodium retention would raise the serum sodium, not lower it.",
+    "Incorrect. A low-salt diet is common with hypertension, but kidneys conserve sodium when intake falls, so diet alone rarely drops sodium this low.",
+    "Incorrect. Aging kidneys concentrate urine less well, not better, so this does not explain the finding.",
+    "Correct. Aging kidneys have trouble regulating sodium and water, and the thiazide adds to the loss; together they best explain a sodium of 128 mEq/L."
    ],
    "rationale": "Aging kidneys have trouble regulating sodium and water, which raises the risk of hyponatremia, a low blood sodium. Prescription diuretics, often taken for high blood pressure, add to the kidneys' trouble regulating electrolytes. The combination explains a sodium of 128 mEq/L in this client. Sodium retention from a lower GFR is tempting because GFR does fall with age, but retention would push sodium up rather than down.",
    "takeaway": "Older adults on diuretics are at high risk for hyponatremia.",
    "hintContent": "Combine two factors: age-related changes in sodium handling and the effect of the medication.",
-   "hintStrategy": "For explanation items, choose the option that accounts for every cue in the stem, including the medication."
+   "hintStrategy": "For explanation items, choose the option that accounts for every cue in the stem, including the medication.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-066",
@@ -2387,19 +2433,20 @@
     "\"Leaking is not a normal part of aging; let's look for a treatable cause.\"",
     "\"You're right; most women your age leak, so pads are the best option.\"",
     "\"Drinking less water during the day should stop most of the leaking.\"",
-    "\"Many older adults feel embarrassed, so let's talk about something else.\""
+    "\"Kegel exercises usually fix this, so start doing them every day.\""
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Incontinence is never normal at any age and often signals another problem that can be treated.",
-    "Incorrect. This reinforces a false belief and closes off evaluation.",
-    "Incorrect. Restricting fluids can cause dehydration and concentrated, irritating urine.",
-    "Incorrect. Changing the subject misses the chance to assess a real problem."
+    "Correct. Incontinence is never a normal part of aging. Correcting the belief and seeking a cause, such as infection, medication, or constipation, comes before choosing a treatment.",
+    "Incorrect. Pads can protect skin and feel supportive, but agreeing that leaking is normal leaves a treatable problem unexamined.",
+    "Incorrect. Some clients limit fluids to control leaking, but less water concentrates urine, irritates the bladder, and risks dehydration.",
+    "Incorrect. Pelvic floor exercises help many women with stress incontinence, but the cause has not been evaluated yet, so recommending a treatment is premature."
    ],
    "rationale": "Even with the age-related changes of a smaller, stiffer bladder and weaker pelvic floor, incontinence and retention are never a normal part of aging. They often indicate another medical problem, such as an infection, a medication effect, or constipation. The nurse corrects the belief kindly and encourages evaluation. Agreeing and suggesting pads is tempting because it feels supportive, but it leaves a treatable problem unexamined.",
    "takeaway": "Incontinence is never a normal part of aging; encourage evaluation for a cause.",
    "hintContent": "Recall whether incontinence is ever considered normal, at any age.",
-   "hintStrategy": "For therapeutic communication, choose the response that is accurate and moves the client toward care, not one that simply agrees."
+   "hintStrategy": "For therapeutic communication, choose the response that is accurate and moves the client toward care, not one that simply agrees.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-067",
@@ -2429,7 +2476,8 @@
    "rationale": "Newborn kidneys are immature, with a lower GFR and limited ability to concentrate and dilute urine. Urine may be cloudy in the newborn and becomes straw-colored in early infancy. This infant is feeding well and voiding, so the cloudy urine is an expected finding. Interpreting it as infection is tempting because cloudy urine suggests infection in adults, but normal findings differ by age.",
    "takeaway": "Cloudy urine can be normal in a newborn; it becomes straw-colored in early infancy.",
    "hintContent": "Think about how newborn urine differs from adult urine.",
-   "hintStrategy": "Ask whether a finding that is abnormal in adults might be normal for this age group."
+   "hintStrategy": "Ask whether a finding that is abnormal in adults might be normal for this age group.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-068",
@@ -2682,7 +2730,8 @@
    "rationale": "A paralytic ileus is a functional obstruction in which the intestinal muscles stop moving, often after surgery or drugs such as anesthesia and opioids. Fluid, gas, and stool build up, the bowel stretches, and pressure can cut off blood flow, leading to necrosis and perforation. Distention, nausea, no flatus, and absent bowel sounds call for keeping the client NPO as ordered and reporting promptly; a nasogastric tube is often ordered. Ambulation is tempting because it does promote peristalsis, but it does not replace prompt reporting of a likely obstruction.",
    "takeaway": "Post-op distention, no flatus, and absent bowel sounds suggest paralytic ileus: keep NPO and notify the provider.",
    "hintContent": "Identify which type of obstruction is likely after surgery and what adding anything by mouth would do.",
-   "hintStrategy": "When the bowel has stopped moving, eliminate any option that puts more into the gut."
+   "hintStrategy": "When the bowel has stopped moving, eliminate any option that puts more into the gut.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-075",
@@ -2699,20 +2748,21 @@
    "options": [
     "Risk for perianal skin breakdown",
     "Fluid and electrolyte loss",
-    "Embarrassment about stool frequency",
-    "Risk for constipation after diarrhea"
+    "Risk for falls when standing",
+    "Risk for spreading infection"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Skin protection is important with diarrhea but is less urgent than the circulating fluid deficit.",
-    "Correct. Dizziness and very low urine output show significant fluid loss, which can quickly become dangerous in an older adult.",
-    "Incorrect. Emotional needs matter, but physiologic threats come first.",
-    "Incorrect. This is not a current problem and does not reflect the findings in the stem."
+    "Incorrect. Skin breakdown is a real risk with diarrhea, but it is a potential problem and not life-threatening right now.",
+    "Correct. Dizziness on standing and only 150 mL of urine in 8 hours show an actual fluid deficit that is already affecting circulation in an older adult.",
+    "Incorrect. Fall risk matters with orthostatic dizziness, but the dizziness is caused by fluid loss; correcting circulation addresses the root problem.",
+    "Incorrect. Infection control matters if the diarrhea is infectious, but it is a potential problem and less urgent than the client's actual fluid loss."
    ],
    "rationale": "Diarrhea is the passage of liquid feces with increased frequency, and it brings two big nursing risks: fluid and electrolyte loss and skin breakdown. Water, sodium, and potassium leave with the stool, and infants and older adults become dehydrated fastest. Dizziness on standing and low urine output show the loss is already affecting circulation. Skin breakdown is tempting because it is a known risk of diarrhea, but it is not life-threatening right now.",
    "takeaway": "With diarrhea, fluid and electrolyte loss comes before skin care, especially in older adults.",
    "hintContent": "Look for cues showing the diarrhea is already affecting circulation.",
-   "hintStrategy": "Use Maslow and ABCs: a physiologic threat to circulation outranks skin and psychosocial needs."
+   "hintStrategy": "Use Maslow and ABCs: a physiologic threat to circulation outranks skin and psychosocial needs.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-076",
@@ -2774,7 +2824,8 @@
    "rationale": "Constipation that goes untreated can build into a fecal impaction. A client with an impaction may pass small amounts of liquid stool that seeps around the hard mass, which looks like diarrhea even though the real problem is a blockage. Six days without a formed stool followed by liquid leakage fits that pattern. Giving the antidiarrheal is tempting because the stool is liquid, but it would slow the bowel further and worsen the impaction. The nurse assesses before acting.",
    "takeaway": "Liquid stool after days without a formed stool suggests impaction; assess before giving an antidiarrheal.",
    "hintContent": "Think about what can cause liquid stool in a client who has not had a formed stool for days.",
-   "hintStrategy": "When a request seems routine, check whether the history points to a different problem that the requested drug would worsen."
+   "hintStrategy": "When a request seems routine, check whether the history points to a different problem that the requested drug would worsen.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-078",
@@ -2792,19 +2843,20 @@
     "Record the number of stools on the flow sheet each shift",
     "Encourage the client to delay toileting until a set time",
     "Keep the commode at the bedside and answer the call light at once",
-    "Offer the client a warm drink with each meal to soothe the bowel"
+    "Put an incontinence brief on the client to protect the bed linens"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Accurate records help, but they are not the most important safety step.",
-    "Incorrect. A client with diarrhea cannot reliably delay defecation, and waiting leads to accidents and falls.",
-    "Correct. The urge with diarrhea is hard to control, so quick access prevents falls from rushing and episodes of incontinence.",
-    "Incorrect. Warm drinks can stimulate the bowel and do not address safety."
+    "Incorrect. Accurate stool counts are useful data, but physical safety comes first when the client has an urgent need to toilet.",
+    "Incorrect. Scheduled toileting helps some continence problems, but diarrhea makes the urge hard to control, so delaying risks accidents.",
+    "Correct. With diarrhea the urge is hard to control, so a commode in reach and a prompt response prevent falls and incontinence episodes.",
+    "Incorrect. A brief may seem practical, but it traps liquid stool against the skin, raises the risk of breakdown, and does not help the client reach the toilet."
    ],
    "rationale": "With diarrhea, the urge to defecate is difficult or impossible to control, so clients may not make it to the bathroom. Keeping the call light, bedpan, or commode within reach and answering quickly prevents both falls and incontinence episodes. Recording stools is tempting because accurate data matter, but physical safety comes first. Asking the client to hold stool until a scheduled time ignores how diarrhea affects control.",
    "takeaway": "For clients with diarrhea, keep toileting equipment within reach and answer calls quickly.",
    "hintContent": "Think about what diarrhea does to the client's ability to wait.",
-   "hintStrategy": "When delegating, the priority instruction usually prevents the most immediate physical harm."
+   "hintStrategy": "When delegating, the priority instruction usually prevents the most immediate physical harm.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-079",
@@ -2834,7 +2886,8 @@
    "rationale": "Hernias are a mechanical cause of bowel obstruction: a loop of bowel becomes trapped in a weak spot. A hernia that becomes firm and painful with vomiting suggests the bowel is trapped and may lose blood flow, leading to necrosis and perforation. That makes it the priority. The postoperative client on opioids is tempting because two days without a stool sounds concerning, but slowed bowel function is an expected effect that can be managed.",
    "takeaway": "A hernia that becomes firm and painful with vomiting suggests mechanical obstruction and needs immediate assessment.",
    "hintContent": "Identify the client whose bowel may be losing its blood supply.",
-   "hintStrategy": "Acute and unstable comes before chronic or expected; look for the client with new, worsening symptoms."
+   "hintStrategy": "Acute and unstable comes before chronic or expected; look for the client with new, worsening symptoms.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-080",
@@ -2866,7 +2919,8 @@
    "rationale": "Flatulence is excessive gas in the intestines or colon, and abdominal surgery is one cause because peristalsis slows afterward. Activity stimulates peristalsis, so walking as allowed helps move the gas along. Carbonated drinks and straws are tempting comfort measures, but both add swallowed air, which is another cause of gas. Bed rest seems restful but slows the bowel further.",
    "takeaway": "After abdominal surgery, walking as allowed helps relieve gas by stimulating peristalsis.",
    "hintContent": "Think about what stimulates peristalsis and what adds swallowed air.",
-   "hintStrategy": "Eliminate options that add to the cause of the problem, then choose the one that restores normal function."
+   "hintStrategy": "Eliminate options that add to the cause of the problem, then choose the one that restores normal function.",
+   "bestAnswer": true
   },
   {
    "id": "m5-x1-081",

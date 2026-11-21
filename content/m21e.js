@@ -60,25 +60,26 @@ window.NURSE_DATA.push({
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "stem": "An 83-year-old client on bed rest for pneumonia has a 2 × 2 cm area of intact, nonblanchable redness over the right heel that feels spongy on palpation. The left heel has an intact 1 × 1 cm blister filled with clear fluid. Both heels are resting directly on the mattress. Which action should the nurse take first?",
    "options": [
-    "Document both heel findings as reactive redness and recheck them at the next turn",
-    "Open the left heel blister with a sterile needle so the fluid can drain",
+    "Complete a head-to-toe skin assessment and calculate the Braden score",
+    "Apply a protective foam dressing over the intact blister on the left heel",
     "Float both heels off the mattress with pillows placed lengthwise under the calves",
-    "Massage the right heel gently to restore circulation to the boggy tissue"
+    "Notify the provider and wound care nurse of the two new heel injuries"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Reactive redness blanches and fades; nonblanchable redness is a Stage 1 injury and a clear-fluid blister is Stage 2. Neither is normal.",
-    "Incorrect. A clear-fluid blister is a Stage 2 injury; opening it creates an open wound and infection risk and does not remove the cause.",
-    "Correct. The right heel is Stage 1 and the left is Stage 2. Both were caused by unrelieved pressure, so offloading the heels is the immediate priority to prevent progression.",
-    "Incorrect. Massage over reddened bony prominences damages fragile capillaries and worsens deep tissue injury."
+    "Incorrect. A full skin assessment and Braden score are appropriate, but the cause of both injuries is already clear, and assessing first leaves the heels under pressure.",
+    "Incorrect. Protecting the intact blister is appropriate wound care, but it does not remove the pressure that caused both injuries, so it is not first.",
+    "Correct. Both injuries share one cause: heels resting on the mattress. Floating the heels removes that pressure right away; assessment, dressings, and notification follow.",
+    "Incorrect. The provider and wound care nurse should be informed, but the nurse can relieve the pressure independently, and calling first delays the action that stops further damage."
    ],
-   "rationale": "Staging comes first: intact nonblanchable redness with bogginess is Stage 1, and an intact clear-fluid blister is Stage 2. Both injuries share a cause, which is the heels resting on the mattress. The first action is to remove that pressure by floating the heels. Documentation, wound care, and care-plan changes follow. Massage and opening the blister cause more harm.",
+   "rationale": "Staging comes first: intact nonblanchable redness with bogginess is Stage 1, and an intact clear-fluid blister is Stage 2. Both injuries share a cause, which is the heels resting on the mattress. The first action is to remove that pressure by floating the heels. A full skin assessment, a protective dressing, and notifying the provider and wound care nurse are all appropriate, but they follow; until the heels are offloaded, the pressure causing both injuries continues.",
    "takeaway": "Stage it, then remove the cause: heels with Stage 1 or 2 injuries get floated off the bed right away.",
    "cjmm": "Take Action",
    "focus": "Prioritization",
    "hintContent": "Recall what nonblanchable redness and a clear-fluid blister mean for staging, and what caused both injuries in this client.",
    "hintStrategy": "First decide the stage of each heel, then ask which option stops the process that is still happening. Rule out any option that adds trauma.",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21e-003",
@@ -93,17 +94,17 @@ window.NURSE_DATA.push({
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "stem": "A client's Braden subscale scores are sensory perception 2, moisture 2, activity 1, mobility 2, nutrition 1, and friction & shear 1. Over the left ischial tuberosity there is a 1.5 × 1 cm shallow, open area with a pink, moist bed and no slough or visible fat. Which statement by the nurse identifies the priority problems for the plan of care?",
    "options": [
-    "“The total of 13 is moderate risk, and the ischial area is a Stage 1 injury, so the focus is potential for impaired skin integrity.”",
+    "“The total of 9 is very high risk; the ischial area is a Stage 2 open wound, so the focus is potential for impaired skin integrity.”",
     "“The total of 9 is very high risk; the ischial area is a Stage 2 open wound, so impaired skin integrity and infection risk apply.”",
-    "“The total of 9 is mild risk, and the ischial area is a Stage 2 open wound, so the focus is situational low self-esteem.”",
-    "“The total of 9 is very high risk, but the ischial area is Stage 3, so the focus is potential for impaired skin integrity.”"
+    "“The total of 9 is very high risk; the ischial area is a Stage 2 open wound, so the focus is situational low self-esteem.”",
+    "“The total of 9 is very high risk; the ischial area is a Stage 1 injury, so the focus is potential for impaired skin integrity.”"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. The subscales total 9, not 13, and an open wound is not Stage 1. Potential for impaired skin integrity applies only when the skin is still intact.",
-    "Correct. The subscales total 9 (very high risk). A shallow, pink, moist open area is partial-thickness loss (Stage 2). An actual wound means impaired skin integrity, and a broken barrier adds risk for infection.",
-    "Incorrect. On the Braden scale, a low score means high risk, so 9 is not mild risk. Low self-esteem is not the physiologic priority here.",
-    "Incorrect. No fat is visible, so the wound is not Stage 3. And because the skin is already open, the problem is actual impaired skin integrity, not potential."
+    "Incorrect. The total and the stage are right, but once an open wound exists the problem is actual, not potential, impaired skin integrity.",
+    "Correct. The subscales total 9 (very high risk), a shallow pink open area without fat is Stage 2, and an actual open wound means impaired skin integrity plus infection risk.",
+    "Incorrect. The total and the stage are right, and body-image concerns can occur, but a psychosocial diagnosis is lower priority than the actual physiologic skin breakdown.",
+    "Incorrect. The total is right, but an open, shallow pink area is Stage 2, not Stage 1, so the skin is already broken and the problem is actual, not potential."
    ],
    "rationale": "This item combines three skills. First, the six subscales total 9, and because the Braden scale is inverse, 9 is very high risk. Second, a shallow, pink, moist open area without fat is a Stage 2 (partial-thickness) injury. Third, once injury exists, the diagnosis changes from potential to actual impaired skin integrity, and an open barrier adds risk for infection. These actual physiologic problems take priority over psychosocial diagnoses.",
    "takeaway": "Low Braden = high risk; open skin = actual impaired skin integrity + risk for infection.",
@@ -111,7 +112,8 @@ window.NURSE_DATA.push({
    "focus": "Assessment Findings",
    "hintContent": "Recall the Braden range and its direction, the depth of tissue loss in each stage, and when the slide diagnoses change from potential to actual.",
    "hintStrategy": "Add the subscales yourself, stage the wound from its description, then pick the option in which all three parts are correct. Any single wrong part eliminates an option.",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21e-004",
@@ -166,25 +168,26 @@ window.NURSE_DATA.push({
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
    "stem": "A client with pneumonia and a Stage 1 sacral pressure injury finished breakfast at 0800 and has an order to keep the head of the bed at 30° or higher for 1 hour after meals. At 1030 the nurse finds the head of the bed at 60° and the client slid down toward the foot of the bed. Which action should the nurse take first?",
    "options": [
-    "Keep the head of the bed at 60° until lunch to prevent any aspiration",
-    "Ask the UAP to pull the client up in bed by the arms after lunch",
-    "Apply cornstarch to the sacrum to reduce friction against the sheets",
+    "Lower the head of the bed to 30° and leave the client in place",
+    "Assess the sacral skin for new damage before moving the client",
+    "Ask the UAP to lift the client up with a draw sheet at noon",
     "Lift the client with a draw sheet and two staff; set the HOB at 30°"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. The 1-hour post-meal window has passed; keeping the HOB at 60° continues the shear that is damaging the sacrum.",
-    "Incorrect. Pulling by the arms drags the skin across the sheet (friction and shear), and delaying leaves the client sliding.",
-    "Incorrect. Cornstarch clumps when wet and irritates the skin; it is on the slides' avoid list and does not fix shear.",
-    "Correct. Sliding with the HOB high causes sacral shear over an existing Stage 1 injury. Lifting with a draw sheet avoids friction, and 30° meets the post-meal order while reducing shear."
+    "Incorrect. Lowering the head of the bed reduces shear, but the client stays slid down with the sacrum under strain, so this is only part of the fix.",
+    "Incorrect. The sacrum should be assessed, but shear is happening now, and assessing before repositioning lets the damage continue.",
+    "Incorrect. A draw-sheet lift by the UAP is appropriate, but waiting until noon leaves the injured sacrum under shear for another 90 minutes.",
+    "Correct. The 1-hour post-meal window has passed, so the nurse lifts the client with a draw sheet and a second person and lowers the HOB to 30° to stop shear now."
    ],
-   "rationale": "A client sliding down a bed raised to 60° has shear: the sacral skin stays fixed to the sheet while the skeleton slides, tearing deep vessels under an area that is already injured. The aspiration-prevention window ended at 0900, so the nurse lifts the client with a draw sheet and a second staff member and lowers the HOB to 30°. Dragging and powders add damage.",
+   "rationale": "A client sliding down a bed raised to 60° has shear: the sacral skin stays fixed to the sheet while the skeleton slides, tearing deep vessels under an area that is already injured. The aspiration-prevention window ended at 0900, so the nurse lifts the client with a draw sheet and a second staff member and lowers the HOB to 30°. Lowering the HOB alone leaves the client slid down, assessing first lets the shear continue, and waiting until noon delays relief.",
    "takeaway": "Sliding + high HOB = shear: lift (never drag) and bring the HOB to ≤ 30° once aspiration precautions allow.",
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "hintContent": "Recall what happens to deep sacral tissue when the HOB is high and the client slides, and how long the post-meal HOB order applies.",
    "hintStrategy": "Check the times in the stem first to see whether the aspiration order still applies. Then choose the action that removes the damaging force without adding friction.",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21e-006",
@@ -217,7 +220,8 @@ window.NURSE_DATA.push({
    "focus": "Prioritization",
    "hintContent": "Recall the tissue depth that defines each stage and the labs used to evaluate nutrition.",
    "hintStrategy": "For each option, compare it with the admission finding and ask: better, same, or worse? Revise the plan for the finding that is worse.",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21e-007",
@@ -296,15 +300,15 @@ window.NURSE_DATA.push({
    "options": [
     "Obtain the wound culture as prescribed",
     "Administer the first dose of the prescribed IV antibiotic",
-    "Arrange for a replacement pressure-redistribution cushion for the client's wheelchair",
-    "Massage the indurated skin around the wound to improve local blood flow"
+    "Arrange a new pressure-redistribution wheelchair cushion",
+    "Request the wound care nurse consult as prescribed"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. The findings indicate an infected pressure injury. The culture is collected before the first antibiotic dose so the results accurately identify the organism.",
-    "Incorrect. The antibiotic is ordered now and should not be delayed, but a dose given before the culture is collected can make the culture inaccurate. Collect the culture first, then give the dose right away.",
-    "Incorrect. The old cushion should be addressed before discharge, but the client is on bed rest with no sitting; treating the infection comes first.",
-    "Incorrect. Massaging inflamed tissue causes further damage."
+    "Correct. The culture must be collected before the first antibiotic dose so the results identify the organism accurately; the antibiotic then follows without delay.",
+    "Incorrect. The antibiotic is urgent, but giving it before the culture can alter the results and hide the causative organism.",
+    "Incorrect. A worn 6-year-old cushion contributed to the injury and should be replaced, but the client is on bed rest with no sitting, and the infection is the priority.",
+    "Incorrect. The wound care consult is appropriate and prescribed, but it does not treat the active infection and can follow the culture and antibiotic."
    ],
    "rationale": "The cue cluster points to an infected Stage 3 pressure injury: increased pain, purulent foul-smelling drainage, spreading warm redness, fever, and a WBC of 15,800/mm³. High glucose and low albumin also slow healing. The culture must be collected before the first antibiotic dose so the results identify the organism accurately; then the antibiotic is given without delay. The nurse evaluates response by trending temperature, WBC, and the marked border of redness, while pressure relief continues.",
    "takeaway": "Infected pressure injury: culture first, then the antibiotic — and keep pressure off the wound.",
@@ -312,7 +316,8 @@ window.NURSE_DATA.push({
    "focus": "Prioritization",
    "hintContent": "Recall the signs of an infected wound, why culture timing matters when antibiotics are ordered, and how glucose and albumin affect healing.",
    "hintStrategy": "Name the problem from the cue cluster first. Then look at the Orders tab and ask which prescribed action has to happen before another can be done correctly.",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21e-008",
@@ -522,23 +527,24 @@ window.NURSE_DATA.push({
    "options": [
     "“Fever dilates skin vessels and raises capillary pressure, so turning every 4 hours is enough.”",
     "“Fever matters mainly through sweating, so once the gown and linens are dry, the usual risk applies.”",
-    "“Fever affects only open wounds, because heat helps bacteria grow in damaged tissue.”",
+    "“Fever raises the metabolic rate, so space out turns to let the client rest and recover.”",
     "“Fever raises oxygen demand, so compressed tissue becomes ischemic sooner; keep turning.”"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Fever does not protect tissue from pressure, and 4 hours is too long between turns for a bed-bound client; the danger is higher oxygen demand.",
-    "Incorrect. Sweat adds moisture, but the slides’ reason fever is a risk factor is the higher metabolic rate and oxygen demand, which continues while the client is febrile even when the skin is dry.",
-    "Incorrect. Fever raises pressure-injury risk on intact skin, because tissue under pressure runs out of oxygen sooner.",
-    "Correct. Heat raises the metabolic rate and oxygen demand, so tissue under pressure runs out of oxygen sooner. Repositioning at least every 2 hours is even more important."
+    "Incorrect. Fever does dilate skin vessels, but it does not protect tissue; higher oxygen demand makes compressed tissue ischemic faster, so turns should not be stretched out.",
+    "Incorrect. Sweating does add moisture risk, but fever also raises oxygen demand, so risk stays higher even when the skin and linens are dry.",
+    "Incorrect. Fever does raise the metabolic rate, and rest matters, but the higher demand makes compressed tissue ischemic sooner, so turns must stay on schedule.",
+    "Correct. Fever raises metabolic rate and oxygen demand, so tissue compressed over a bony prominence becomes ischemic faster; scheduled repositioning must continue."
    ],
-   "rationale": "Excessive body heat is a slide risk factor because it raises the metabolic rate and oxygen demand. Tissue already squeezed over a bony prominence becomes ischemic faster, and that effect lasts as long as the fever does, whether or not the skin is damp. The prevention response is to keep up scheduled repositioning, not stretch it out.",
+   "rationale": "Excessive body heat is a risk factor for pressure injury because it raises the metabolic rate and oxygen demand. Tissue already squeezed over a bony prominence becomes ischemic faster, and that effect lasts as long as the fever does, whether or not the skin is damp. The prevention response is to keep up scheduled repositioning, not stretch it out.",
    "takeaway": "Fever speeds ischemia under pressure, so never let the turning schedule slip in a febrile client.",
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
    "hintContent": "Recall how temperature affects cellular metabolism and oxygen demand, and the repositioning schedule for bed-bound clients.",
    "hintStrategy": "Each option has two parts, a mechanism and an action. Both parts must be correct.",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m21e-013",
@@ -571,7 +577,8 @@ window.NURSE_DATA.push({
    "focus": "Prioritization",
    "hintContent": "Recall the slide risk factors (immobility, decreased mental status, diminished sensation, moisture, nutrition, fever, age) and the normal albumin level.",
    "hintStrategy": "List the risk factors for each client, then cross off any the client is already offsetting. The client with the most unopposed factors is the priority.",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21e-014",
@@ -586,16 +593,16 @@ window.NURSE_DATA.push({
    "stem": "A 72-year-old client was found on the floor at home after lying on the right side for about 10 hours. The skin over the right hip is intact and red, and it does not blanch when pressed. Which explanation by the nurse to the family is accurate?",
    "options": [
     "“Pressure above capillary pressure cut off blood flow; this Stage 1 injury can still heal.”",
-    "“Pressure made fluid build up and thickened the skin; this is normal redness that will fade soon.”",
-    "“The redness means the tissue is already recovering; this is a Stage 2 injury because the skin is red.”",
-    "“Lying still let collagen collect in the hip; this is a Stage 3 injury because the redness is deep.”"
+    "“Pressure cut off blood flow for a while; this is normal reactive redness that will fade.”",
+    "“Pressure cut off blood flow to the hip; this is a Stage 2 injury because the skin is damaged.”",
+    "“Pressure squeezed the skin against the bone; this Stage 1 injury is now permanent.”"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. External pressure above about 32 mm Hg closed the capillaries, and the tissue became ischemic. Intact, nonblanchable redness is Stage 1, which can resolve if pressure is relieved.",
-    "Incorrect. Pressure does not strengthen skin, and redness that does not blanch is not normal reactive redness.",
-    "Incorrect. Nonblanchable redness signals damage, not recovery. Stage 2 requires partial-thickness skin loss or a blister.",
-    "Incorrect. Collagen does not collect from immobility, and Stage 3 requires full-thickness loss into fat."
+    "Correct. Pressure above capillary pressure caused ischemia, and nonblanchable redness on intact skin is a Stage 1 injury, which can still reverse if pressure is kept off.",
+    "Incorrect. The mechanism is right, but reactive redness blanches and fades; redness that does not blanch is a Stage 1 injury, not a normal finding.",
+    "Incorrect. The mechanism is right, but Stage 2 requires partial-thickness skin loss or a blister; this skin is intact, so it is Stage 1.",
+    "Incorrect. The stage is right, but Stage 1 is the last reversible point; keeping pressure off the area lets it heal."
    ],
    "rationale": "The explanation combines pathophysiology and staging. Prolonged pressure greater than capillary pressure (about 32 mm Hg) reduces blood flow, causing ischemia; unrelieved, this leads to necrosis and ulceration. On intact skin, redness that does not blanch is a Stage 1 injury. It is the last point at which the injury can be reversed by keeping pressure off the area.",
    "takeaway": "Pressure > 32 mm Hg → ischemia; nonblanchable redness on intact skin = Stage 1, still reversible.",
@@ -603,7 +610,8 @@ window.NURSE_DATA.push({
    "focus": "Pathophysiology",
    "hintContent": "Recall the capillary pressure value, the pressure → ischemia → necrosis → ulcer pathway, and what defines Stage 1.",
    "hintStrategy": "Check both halves of each option: the mechanism and the stage. Eliminate an option if either half is wrong.",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m21e-015",
@@ -707,7 +715,8 @@ window.NURSE_DATA.push({
    "focus": "Nursing Interventions",
    "hintContent": "Recall which bony prominence bears weight in each position and the stage of each of this client's injuries.",
    "hintStrategy": "Identify both injured sites first, then eliminate any position that loads either one.",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m21e-018",
@@ -768,10 +777,10 @@ window.NURSE_DATA.push({
    ],
    "answer": 2,
    "optionRationales": [
-    "Appropriate. Keeping the HOB at 30° or lower reduces shear.",
-    "Appropriate. Lifting with a draw sheet avoids friction and shear.",
-    "Requires intervention. Rubbing is friction that scrapes the outer skin layer; after cleansing, the skin is patted dry.",
-    "Appropriate. Barrier creams such as dimethicone protect skin from moisture."
+    "Incorrect. Appropriate. Keeping the HOB at 30° or lower reduces shear.",
+    "Incorrect. Appropriate. Lifting with a draw sheet avoids friction and shear.",
+    "Correct. Requires intervention. Rubbing is friction that scrapes the outer skin layer; after cleansing, the skin is patted dry.",
+    "Incorrect. Appropriate. Barrier creams such as dimethicone protect skin from moisture."
    ],
    "rationale": "The RN supervises care assigned to the LPN and corrects practice that could injure the skin. The slides’ hygiene routine is gentle cleansing, then patting the skin dry, because rubbing is friction that removes the top layer of skin and leaves it more likely to break down. The other actions follow prevention guidelines: HOB at 30° after meals, lifting with a draw sheet, and a dimethicone barrier.",
    "takeaway": "Pat, don’t rub: rubbing skin dry is friction, and the RN corrects it.",
@@ -794,25 +803,26 @@ window.NURSE_DATA.push({
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
    "stem": "A 74-year-old client has a Stage 3 sacral pressure injury, eats about 50% of meals, and has lost 4 kg (8.8 lb) in a month. Serum albumin is 2.9 g/dL, and kidney function is normal. Which intervention is the priority to support wound healing?",
    "options": [
-    "Restrict fluids to 1,000 mL/day so the wound produces less drainage",
+    "Encourage 2,000 mL of fluid daily to support tissue perfusion",
     "Offer high-calorie, high-protein supplements between meals",
     "Add a vitamin C–rich juice to each tray and recheck the albumin in 1 week",
-    "Keep the client in bed after meals so calories are saved for healing"
+    "Start a 3-day calorie count before changing the diet"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Limiting fluids does not usefully dry a wound; adequate hydration keeps tissue perfused and supple.",
-    "Correct. Weight loss, poor intake, and an albumin below 3.5 g/dL show protein-calorie malnutrition. Supplements between meals directly add the protein and calories the wound needs.",
-    "Incorrect. Vitamin C supports collagen, but juice does not correct the protein and calorie deficit shown by the weight loss and low albumin, and waiting a week delays treatment.",
-    "Incorrect. Inactivity reduces circulation to the wound and adds pressure; exercise and movement support healing."
+    "Incorrect. Adequate fluid supports perfusion and healing, but this client’s main deficit is protein and calories, which fluids do not replace.",
+    "Correct. Low albumin, weight loss, and 50% intake show protein-calorie malnutrition; high-calorie, high-protein supplements directly close that gap to support healing.",
+    "Incorrect. Vitamin C supports collagen formation, but it does not correct the protein-calorie deficit that is delaying healing.",
+    "Incorrect. A calorie count gives useful data, but weight loss, low albumin, and poor intake already confirm malnutrition, so waiting delays treatment."
    ],
-   "rationale": "The low albumin, weight loss, and poor intake together show protein-calorie malnutrition, which delays healing. The slides call for more protein, calories, vitamins A and C, zinc, and iron, with supplements when intake is poor and a dietitian consult. Vitamin C alone is helpful but does not close the protein-calorie gap; fluid restriction and bed rest work against healing.",
+   "rationale": "The low albumin, weight loss, and poor intake together show protein-calorie malnutrition, which delays healing. The slides call for more protein, calories, vitamins A and C, zinc, and iron, with supplements when intake is poor and a dietitian consult. Vitamin C alone and extra fluid are helpful but do not close the protein-calorie gap, and a calorie count only delays treatment when malnutrition is already clear.",
    "takeaway": "Protein-calorie malnutrition with a wound → supplements between meals now; vitamin C alone is not enough.",
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "hintContent": "Recall the albumin threshold for delayed healing and the nutrients a healing wound needs.",
    "hintStrategy": "Interpret the lab and weight data first and name the deficit. Then pick the option that corrects that deficit most directly, not one that helps only a little.",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21e-022",
@@ -952,7 +962,8 @@ window.NURSE_DATA.push({
    "focus": "Nursing Interventions",
    "hintContent": "Recall the sequence of incontinence care that protects the skin from moisture and enzymes.",
    "hintStrategy": "All four actions belong in the procedure. Pick the one that must be done before the others make sense.",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21e-026",
@@ -984,7 +995,8 @@ window.NURSE_DATA.push({
    "focus": "Assessment Findings",
    "hintContent": "Recall the tissue that defines Stage 3 versus Stage 4 and the RYB goal for each color.",
    "hintStrategy": "Answer two questions separately, what stage and what goal, then find the option that gets both right.",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m21e-027",
@@ -1017,7 +1029,8 @@ window.NURSE_DATA.push({
    "focus": "Assessment Findings",
    "hintContent": "Recall what blanchable redness means for staging, how the slide diagnoses differ for intact versus injured skin, and the normal BMI range.",
    "hintStrategy": "Test each diagnosis against the data: is there evidence that the problem actually exists now, or only that the client is at risk?",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m21e-029",
@@ -1069,16 +1082,16 @@ window.NURSE_DATA.push({
    "stem": "The nurse is reviewing pressure-redistribution devices with a newly hired UAP who will care for a client at high risk for pressure injury. Which instruction should the nurse give the UAP?",
    "options": [
     "“Place a doughnut (ring) cushion under the sacrum when the client sits up.”",
-    "“Wrap the client's ankles snugly with elastic bandages to protect the heels.”",
-    "“Place a rolled towel directly under each heel so it is cushioned against the surface of the bed.”",
+    "“With the air mattress overlay in place, the heels can rest flat on the bed.”",
+    "“Place a rolled towel under each heel so each heel is cushioned on the bed.”",
     "“Use heel protectors or pillows under the calves so the heels are lifted off the bed.”"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Doughnut devices reduce blood flow to the surrounding tissue and cause injury.",
-    "Incorrect. Tight wraps around the ankles impair circulation and do not offload the heels.",
-    "Incorrect. A towel under the heel still concentrates pressure on the heel.",
-    "Correct. Heel protectors or pillows that float the heels offload these high-risk pressure points."
+    "Incorrect. Cushioning the sacrum seems protective, but a ring device compresses surrounding tissue and reduces blood flow, so it is avoided.",
+    "Incorrect. A pressure-redistribution overlay helps, but heels have little padding and should still be floated off the surface even on a specialty mattress.",
+    "Incorrect. Padding the heel seems helpful, but a towel under the heel still loads it; the heel must be lifted off the surface entirely.",
+    "Correct. Heel protectors or pillows under the calves float the heels so pressure on them drops below capillary pressure."
    ],
    "rationale": "The goal of supportive devices is to keep external pressure below capillary pressure (32 mm Hg). Overlays, specialty beds, pillows, wedges, and heel protectors offload pressure points and reduce pressure injuries by about 60%. Doughnut devices reduce blood flow and cause injury, so they are avoided.",
    "takeaway": "Keep pressure < 32 mm Hg; float heels; no doughnuts.",
@@ -1086,7 +1099,8 @@ window.NURSE_DATA.push({
    "focus": "Nursing Interventions",
    "hintContent": "Recall which supportive devices offload pressure points and which device the slides say to avoid.",
    "hintStrategy": "Ask whether each device removes pressure from the skin or concentrates or restricts it.",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m21e-031",
@@ -1146,10 +1160,10 @@ window.NURSE_DATA.push({
    ],
    "answer": 3,
    "optionRationales": [
-    "Not first. A rolled edge needs attention soon but is not life-threatening.",
-    "Not first. This client needs repositioning promptly (which can be delegated), but the condition is not an immediate threat to life.",
-    "Not first. A routine scheduled dressing change is stable care.",
-    "First. New confusion, tachycardia, and hypotension in a client with a deep wound suggest a spreading, systemic infection — a life-threatening complication."
+    "Incorrect. Not first. A rolled edge needs attention soon but is not life-threatening.",
+    "Incorrect. Not first. This client needs repositioning promptly (which can be delegated), but the condition is not an immediate threat to life.",
+    "Incorrect. Not first. A routine scheduled dressing change is stable care.",
+    "Correct. First. New confusion, tachycardia, and hypotension in a client with a deep wound suggest a spreading, systemic infection — a life-threatening complication."
    ],
    "rationale": "Unstable before stable. New confusion, tachycardia, and hypotension in a client with a deep pressure injury suggest the wound infection is spreading through the body, and this is a threat to perfusion. The complications lesson teaches that infection shows up as systemic signs, so this client is assessed first and the provider notified. The overdue turn can be delegated to the UAP, and the rolled dressing edge and routine dressing change can wait.",
    "takeaway": "Deep wound + new confusion + low BP + tachycardia = possible spreading infection → assess first.",
@@ -1157,7 +1171,8 @@ window.NURSE_DATA.push({
    "focus": "Prioritization",
    "hintContent": "Recall the systemic signs of a spreading wound infection and the unstable-before-stable principle.",
    "hintStrategy": "Look for abnormal vital signs and a change in mental status. That is the client who cannot wait.",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21e-033",
@@ -1189,7 +1204,8 @@ window.NURSE_DATA.push({
    "focus": "Delegation & Safety",
    "hintContent": "Recall which parts of pressure-injury care require RN judgment (assess, stage, plan, evaluate).",
    "hintStrategy": "Eliminate any task that involves first-time assessment, staging, or planning.",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m21e-034",
@@ -1238,17 +1254,17 @@ window.NURSE_DATA.push({
    "clientNeed": "Psychosocial Integrity",
    "stem": "A 67-year-old client with a Stage 4 sacral pressure injury tells the nurse, “I can smell my own wound. I don't want my grandchildren to visit anymore.” Which response by the nurse is most appropriate?",
    "options": [
-    "“The odor comes from bacteria, so it's safer if the children don't visit for now.”",
-    "“Try not to worry. Most visitors don't notice the smell at all.”",
+    "“I can change your dressing right before they visit to cut down the odor.”",
+    "“Try not to worry. Most visitors don't notice the smell of a wound at all.”",
     "“You sound embarrassed. Let's plan ways to control the odor before they visit.”",
-    "“I'll spray some air freshener around the room before your visitors arrive.”"
+    "“Many people with wounds feel this way; it is a very normal reaction to have.”"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. This reinforces isolation and is not accurate; standard precautions and a covered wound protect visitors.",
-    "Incorrect. False reassurance dismisses the client’s feelings and closes communication.",
-    "Correct. Reflecting the feeling acknowledges compromised dignity, and planning odor control (timely cleansing and dressing changes) addresses the cause.",
-    "Incorrect. Masking odor does not address the client’s feelings or the source of odor, and sprays can irritate."
+    "Incorrect. A fresh dressing does help control odor, but the response skips the client’s feelings and plans for the client rather than with the client.",
+    "Incorrect. Reassurance is meant to comfort, but it dismisses the client’s concern and is false reassurance.",
+    "Correct. Naming the feeling acknowledges the client’s embarrassment, and inviting the client to plan odor control supports dignity and keeps family contact.",
+    "Incorrect. Normalizing the feeling is supportive, but it does not explore the feeling or help solve the problem keeping the grandchildren away."
    ],
    "rationale": "Pressure injuries can cause compromised dignity and situational low self-esteem. Therapeutic communication acknowledges the feeling and involves the client in solutions such as timely wound cleansing and dressing changes.",
    "takeaway": "Acknowledge the feeling, then solve the problem together.",
@@ -1256,7 +1272,8 @@ window.NURSE_DATA.push({
    "focus": "Nursing Interventions",
    "hintContent": "Recall the psychosocial nursing diagnoses associated with pressure injuries and the features of therapeutic responses.",
    "hintStrategy": "Eliminate responses that give false reassurance, change the subject, or promote isolation.",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m21e-037",
@@ -1310,17 +1327,17 @@ window.NURSE_DATA.push({
    },
    "stem": "Refer to the Wound Measurements and Care Plan for a client with a Stage 3 sacral pressure injury. Based on the nurse's evaluation, which action is the priority?",
    "options": [
-    "Continue the current plan unchanged for another month",
+    "Continue the current plan and remeasure the wound again in 1 week",
     "Reassess the client and wound and collaborate with the team to revise the plan",
-    "Switch to a doughnut cushion to fully offload the sacrum",
-    "Document that the wound is healing by primary intention and continue weekly monitoring as expected"
+    "Increase the dressing changes to twice daily and recheck in 1 week",
+    "Report the lack of progress to the provider at the next scheduled visit"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. The wound has deteriorated over 2 weeks; continuing an ineffective plan delays healing.",
-    "Correct. When goals are not met, the nurse reassesses and modifies the care plan; no progress over about 2 weeks calls for this.",
-    "Incorrect. Doughnut cushions reduce blood flow to surrounding tissue and are harmful.",
-    "Incorrect. Pressure injuries heal by secondary intention, and this wound is getting worse, not healing."
+    "Incorrect. Weekly measurement is appropriate monitoring, but the wound has worsened for 2 weeks, so continuing unchanged lets it keep deteriorating.",
+    "Correct. The wound is larger, deeper, and has more slough and drainage, so goals are unmet; the nurse reassesses pressure, support surface, and nutrition and revises the plan with the team.",
+    "Incorrect. Changing the dressing may be part of the answer, but changing one element without reassessing may miss the real cause, such as pressure or nutrition.",
+    "Incorrect. The provider should know, but waiting for the next visit delays action, and reporting alone does not include reassessment of the client and wound."
    ],
    "rationale": "Over 2 weeks the wound has grown larger and deeper, the yellow slough has increased from 20% to 40% (less healthy red tissue by RYB standards), and drainage has increased. A pressure injury heals by secondary intention and should be getting smaller and redder. When goals are not met, the nurse reassesses the client and wound, including positioning, the support surface, and nutrition, and works with the team to revise the plan.",
    "takeaway": "Bigger, deeper, more slough over 2 weeks = the plan is failing; reassess and revise.",
@@ -1328,7 +1345,8 @@ window.NURSE_DATA.push({
    "focus": "Assessment Findings",
    "hintContent": "Recall what a healing secondary-intention wound should look like over time and what increasing slough means in the RYB system.",
    "hintStrategy": "Compare week 1 with week 3 for size, color, and drainage. Decide the trend, then pick the action that fits it.",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m21e-039",
@@ -1350,10 +1368,10 @@ window.NURSE_DATA.push({
    ],
    "answer": 3,
    "optionRationales": [
-    "Appropriate. Repositioning at least every 2 hours with positioning devices is a standard outcome and intervention.",
-    "Appropriate. Supplements and dietitian input support healing when intake is poor.",
-    "Appropriate. Heel protectors offload the heels.",
-    "Clarify. Wet-to-dry is mechanical, nonselective debridement meant for wounds containing dead tissue. A shallow, pink Stage 2 bed has nothing to debride, and the drying gauze would pull off healthy tissue."
+    "Incorrect. Appropriate. Repositioning at least every 2 hours with positioning devices is a standard outcome and intervention.",
+    "Incorrect. Appropriate. Supplements and dietitian input support healing when intake is poor.",
+    "Incorrect. Appropriate. Heel protectors offload the heels.",
+    "Correct. Clarify. Wet-to-dry is mechanical, nonselective debridement meant for wounds containing dead tissue. A shallow, pink Stage 2 bed has nothing to debride, and the drying gauze would pull off healthy tissue."
    ],
    "rationale": "The wet-to-dry prescription does not match the wound. A Stage 2 injury is partial-thickness loss with a pink, moist bed — living tissue that the RYB guide says to protect and keep moist. Wet-to-dry gauze dries into the wound and strips whatever it touches when removed, so it is reserved for wounds with slough or eschar. Repositioning with pillows and wedges, a dietitian consult, and heel protectors are appropriate prevention.",
    "takeaway": "Wet-to-dry is for dead tissue only; question it for a pink, clean wound.",
@@ -1375,17 +1393,17 @@ window.NURSE_DATA.push({
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "stem": "A client has a nonhealing Stage 4 pressure injury on the right heel with necrotic tissue and adequate arterial blood flow. The provider recommends biosurgery with sterile maggots. After teaching, which statement by the client indicates understanding?",
    "options": [
-    "“The maggots will eat into healthy tissue too, so I'll need a skin graft after.”",
+    "“The larvae digest dead tissue, so I can stop floating my heel now.”",
     "“The larvae digest dead tissue and do little harm to healthy tissue.”",
-    "“The maggots stay in place permanently until my wound has fully closed.”",
-    "“This treatment means I no longer have to keep pressure off my heel.”"
+    "“The larvae clean the wound, so they stay in until it fully closes.”",
+    "“The larvae clean the wound, so I won't need a dressing over them.”"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Medical larvae digest necrotic tissue and cause minimal damage to healthy tissue.",
-    "Correct. Biosurgery uses sterile larvae to selectively digest necrotic tissue.",
-    "Incorrect. Larvae are applied for a limited treatment period and then removed; they do not stay in the wound until it closes.",
-    "Incorrect. Offloading remains essential; debridement does not remove the cause of the injury."
+    "Incorrect. The larvae do digest dead tissue, but they do not remove the cause; the heel must still be floated to keep pressure off.",
+    "Correct. Sterile larvae digest necrotic tissue selectively and do little harm to healthy tissue, which is how biosurgery debrides the wound.",
+    "Incorrect. The larvae do clean the wound, but they are removed after the treatment period rather than left until the wound closes.",
+    "Incorrect. The larvae do clean the wound, but they are kept contained under a dressing, and wound care continues during treatment."
    ],
    "rationale": "Biosurgery uses sterile maggots to digest dead tissue with minimal harm to healthy tissue. It treats the necrotic wound, but it does not remove the cause. Pressure relief (floating the heel) and nutrition support must continue, and the larvae are removed after treatment rather than left in place until the wound closes.",
    "takeaway": "Maggots eat dead tissue, not healthy tissue — and heel offloading continues.",
@@ -1393,7 +1411,8 @@ window.NURSE_DATA.push({
    "focus": "Client Teaching",
    "hintContent": "Recall how biosurgery works and that debridement does not replace prevention measures.",
    "hintStrategy": "Check each statement for accuracy about the larvae AND about ongoing pressure relief.",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m21e-043",

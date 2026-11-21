@@ -80,6 +80,15 @@ describe('content integrity', () => {
     for (const m of MODULES) expect(m.questions.length, m.id).toBeGreaterThanOrEqual(3 * (baseline[m.id] ?? 0));
   });
 
+  it('has mostly best-answer single-choice items (all options plausible, key most right)', () => {
+    for (const m of MODULES) {
+      const mcq = m.questions.filter((q) => q.type === 'mcq');
+      const best = mcq.filter((q) => q.bestAnswer);
+      expect(best.length / mcq.length, m.id).toBeGreaterThanOrEqual(0.7);
+      for (const q of best) if (q.type === 'mcq') q.optionRationales?.forEach((r, i) => i !== q.answer && expect(r, q.id).toMatch(/^Incorrect\./));
+    }
+  });
+
   it('has plain-language lessons with a key idea for every section', () => {
     for (const m of MODULES)
       for (const t of m.topics) {

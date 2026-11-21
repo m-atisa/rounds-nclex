@@ -31,7 +31,8 @@
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Physiological Adaptation"
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-002",
@@ -42,15 +43,15 @@
    "options": [
     "Turn off the oxygen until the client is fully awake and oriented.",
     "Lower the oxygen flow until the SpO2 is back within 88–92%.",
-    "Increase the oxygen flow to improve the client’s level of alertness.",
-    "Let the client sleep and recheck the mental status in 2 hours."
+    "Notify the provider and request an arterial blood gas right away.",
+    "Raise the head of the bed and encourage the client to deep breathe."
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Abruptly stopping oxygen can cause rebound hypoxemia; the goal is the target range, not zero oxygen.",
-    "Correct. Over-oxygenation can raise PaCO2 in hypercapnic COPD; titrating down to the ordered target is the first step, followed by provider notification and an ABG.",
-    "Incorrect. More oxygen worsens the problem; new drowsiness with an SpO2 above target suggests rising CO2.",
-    "Incorrect. New drowsiness is a warning sign of CO2 retention and must not be dismissed as normal sleep."
+    "Incorrect. Reducing oxygen is the right direction, but stopping it completely risks rebound hypoxemia; the fix is controlled titration, not withdrawal.",
+    "Correct. The SpO2 is above the ordered target and new drowsiness suggests rising PaCO2. Titrating down to 88–92% corrects the cause now; reporting and an ABG follow.",
+    "Incorrect. The provider and an ABG are needed, but the nurse already has an order to titrate and should correct the oversaturation first.",
+    "Incorrect. Positioning and deep breathing support ventilation, but they do not remove the cause, which is too much oxygen for this client."
    ],
    "rationale": "Evidence-based oxygen therapy in COPD titrates to a target saturation of about 88–92% rather than giving as much oxygen as possible. Uncontrolled high-flow oxygen can raise PaCO2 through ventilation-perfusion changes and the Haldane effect, and new drowsiness is a key warning sign. The nurse lowers the flow into the ordered range, then reports the change and obtains an ABG. Turning the oxygen off is tempting because it seems to remove the cause, but it risks rebound hypoxemia; the fix is controlled titration, not withdrawal.",
    "takeaway": "In COPD, titrate oxygen to the ordered target; both too little and too much are unsafe.",
@@ -61,7 +62,8 @@
    "cjmm": "Take Action",
    "focus": "Pathophysiology",
    "difficulty": 3,
-   "clientNeed": "Physiological Integrity: Physiological Adaptation"
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-003",
@@ -71,16 +73,16 @@
    "stem": "In a long-term care facility, the nurse finds a nurse aide firmly rubbing lotion into a resident’s reddened sacrum. The redness does not blanch with light pressure. The aide says, “We always massage red spots to get the blood flowing.” Which action should the nurse take first?",
    "options": [
     "Ask the aide to stop and help reposition the resident off the sacrum.",
-    "Let the aide finish, then document the reddened area in the chart.",
+    "Assess the reddened area for blisters, warmth, and skin breakdown.",
     "Schedule an in-service for aides on current pressure-injury guidelines.",
-    "Apply a warm compress to the area to improve local circulation."
+    "Apply a protective foam dressing over the resident’s reddened sacrum."
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Massage can further damage stressed tissue; stopping it and offloading pressure protects the skin immediately.",
-    "Incorrect. Allowing the massage to continue lets harm continue; documentation comes after protecting the tissue.",
-    "Incorrect. Education is a good follow-up for a unit-wide habit, but it does not stop the harm happening now.",
-    "Incorrect. Heat is not evidence-based treatment for nonblanchable redness and can increase tissue damage."
+    "Correct. Massage of nonblanchable redness damages stressed tissue. Stopping the harm and offloading the sacrum comes first; assessment, dressings, and teaching follow.",
+    "Incorrect. A full skin assessment is needed, but the massage is causing harm right now and must be stopped before the nurse assesses.",
+    "Incorrect. An in-service addresses the unit-wide habit, but it does not stop the harm happening to this resident now.",
+    "Incorrect. A foam dressing can help protect the skin, but it does not stop the massage or relieve pressure on the sacrum."
    ],
    "rationale": "Nonblanchable redness over a bony prominence signals tissue injury, and current guidelines advise against massaging reddened bony areas because rubbing can damage stressed tissue. The evidence-based response is to stop the massage, offload the area, and reassess the skin. The aide’s statement “we always” signals tradition rather than evidence. An in-service is tempting because the habit is likely unit-wide, but the first priority is stopping the harm to this resident; teaching comes afterward.",
    "takeaway": "Stop a harmful traditional practice at the bedside first, then use education to change the habit.",
@@ -91,7 +93,8 @@
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Reduction of Risk Potential"
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-004",
@@ -101,16 +104,16 @@
    "stem": "A 24-year-old client with type 1 diabetes tells the clinic nurse, “I stopped my insulin 2 days ago. I read that cinnamon capsules work just as well.” The fingerstick glucose is 388 mg/dL. The client reports nausea and abdominal pain, and the breath has a fruity odor. Which action should the nurse take first?",
    "options": [
     "Explain what current research shows about cinnamon supplements.",
-    "Document the client’s informed choice to stop taking insulin.",
+    "Encourage oral fluids and recheck the glucose in 1 hour.",
     "Notify the provider of the client’s findings right away.",
-    "Ask the client to bring the supplement bottle to the next visit."
+    "Tell the client to restart insulin at the usual dose today."
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Nonjudgmental teaching is needed, but it comes after the client’s urgent physiologic problem is addressed.",
-    "Incorrect. Autonomy matters, but this client is showing signs of a life-threatening complication that must be treated now.",
-    "Correct. Hyperglycemia with nausea, abdominal pain, and fruity breath after stopping insulin suggests diabetic ketoacidosis, which needs urgent provider-directed treatment.",
-    "Incorrect. Delaying any action until a future visit ignores signs of a dangerous complication."
+    "Incorrect. Teaching about the evidence is needed, but the client has signs of diabetic ketoacidosis, and physiologic danger comes before teaching.",
+    "Incorrect. Fluids help in hyperglycemia, but nausea limits intake and waiting an hour delays treatment of likely ketoacidosis.",
+    "Correct. A glucose of 388 mg/dL with nausea, abdominal pain, and fruity breath suggests DKA, an emergency that needs prompt provider evaluation and treatment.",
+    "Incorrect. The client does need insulin, but home dosing will not manage likely DKA, and insulin orders come from the provider."
    ],
    "rationale": "Integrative products may be added to conventional care, but replacing insulin in type 1 diabetes with an unproven supplement is a red flag. This client’s glucose of 388 mg/dL with nausea, abdominal pain, and fruity breath suggests diabetic ketoacidosis, an emergency that the provider must treat immediately. Teaching about the evidence is tempting because the cause is a misunderstanding, but physiologic danger is addressed first. Once the client is safe, the nurse teaches without judgment and explores why the client chose the supplement.",
    "takeaway": "When a client replaces essential therapy with an unproven product and shows physiologic danger, treat the danger first and teach afterward.",
@@ -121,7 +124,8 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
    "difficulty": 3,
-   "clientNeed": "Physiological Integrity: Physiological Adaptation"
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-005",
@@ -151,7 +155,8 @@
    "cjmm": "Recognize Cues",
    "focus": "Pharmacology",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies"
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-006",
@@ -190,17 +195,17 @@
    "priority": true,
    "stem": "A 58-year-old client with severe coronary artery disease is alert and oriented. After meeting with the cardiac surgeon, he tells the nurse, “I’ve decided not to have the bypass surgery. I’d rather manage this with medicines.” Which action should the nurse take first?",
    "options": [
-    "Call the client’s adult children so they can help persuade him to have surgery.",
-    "Refer the client’s decision to the ethics committee for review.",
+    "Notify the surgeon that the client has decided to decline the surgery.",
+    "Document the client’s decision to decline surgery in the medical record.",
     "Ask the client what he understands about the risks of declining surgery.",
     "Tell the client that the research clearly shows surgery is the better choice."
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Recruiting family to pressure a capable adult undermines autonomy.",
-    "Incorrect. A capable adult’s informed refusal does not need ethics committee review; that would be premature.",
-    "Correct. Confirming that the refusal is informed is the first step in honoring it; the nurse assesses understanding before acting.",
-    "Incorrect. Repeating the evidence as a verdict ignores the client’s values and can feel coercive."
+    "Incorrect. The surgeon must be told, but the nurse first confirms the refusal is informed so the right follow-up (re-explaining or accepting) is requested.",
+    "Incorrect. Documentation is required, but recording the decision before confirming it is informed is incomplete and mistimed.",
+    "Correct. A capable adult may refuse treatment. The nurse first verifies that the decision is informed, then notifies the provider and documents.",
+    "Incorrect. Sharing evidence has a place, but evidence is only one EBP component and does not override an informed client’s values."
    ],
    "rationale": "Autonomy means a capable adult may accept or refuse treatment, and honoring an informed refusal is part of EBP, not a failure of it. The nurse’s first step is to verify that the decision is informed by asking the client to explain what he understands about the risks. If understanding is incomplete, the nurse involves the provider to re-explain; if it is complete, the nurse notifies the provider, documents, and supports acceptable alternatives. Restating the evidence is tempting, but evidence is only one of three EBP components and does not override the client’s values.",
    "takeaway": "Honor an informed refusal, and confirm that it is informed before anything else.",
@@ -211,7 +216,8 @@
    "cjmm": "Recognize Cues",
    "focus": "Nursing Interventions",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-008",
@@ -222,15 +228,15 @@
    "options": [
     "Increase the flow to 4 L/min to bring the saturation above 95%.",
     "Lower the flow to 1 L/min to protect the client’s drive to breathe.",
-    "Switch to a non-rebreather mask to maximize oxygen delivery.",
+    "Remove the oxygen now that the client’s breathing has improved.",
     "Maintain the current flow and continue monitoring the client."
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Raising oxygen above the target in hypercapnic COPD risks rising PaCO2 and offers no added benefit.",
-    "Incorrect. Lowering the flow would push the SpO2 below target; the hypoxic drive theory is outdated.",
-    "Incorrect. High-concentration oxygen is not indicated and can cause CO2 retention in this client.",
-    "Correct. The SpO2 is within the target range and the client has improved, so the current therapy is working."
+    "Incorrect. Higher saturation seems better, but in hypercapnic COPD the target is 88–92%, and overshooting can raise PaCO2.",
+    "Incorrect. Avoiding excess oxygen is sound, but the SpO2 is already in range, and lowering the flow could cause hypoxemia.",
+    "Incorrect. Weaning is a future goal, but the improvement depends on the oxygen; removing it now would likely drop the SpO2 below target.",
+    "Correct. The SpO2 is within the ordered range and breathing and mentation have improved, so the plan is working; the nurse maintains it and monitors."
    ],
    "rationale": "Evaluating outcomes means comparing the client’s response to the goal. This client’s SpO2 of 90% is inside the ordered 88–92% range, and breathing and mentation have improved, so the evidence-based plan is working. The nurse maintains the current flow and continues to monitor SpO2, ABGs, mental status, and work of breathing. Increasing the flow is tempting because 100% seems better, but in hypercapnic COPD the target is controlled oxygen, not the highest possible saturation.",
    "takeaway": "In COPD, an SpO2 within the ordered target with improving symptoms means the oxygen therapy is working; do not chase 100%.",
@@ -241,7 +247,8 @@
    "cjmm": "Evaluate Outcomes",
    "focus": "Assessment Findings",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Physiological Adaptation"
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-009",
@@ -250,17 +257,17 @@
    "priority": true,
    "stem": "Three months after a medical unit adopted a new evidence-based protocol for oral care in clients at risk for aspiration, audits show that day shift follows it consistently but night shift rarely does. What should the nurse manager do first?",
    "options": [
-    "Issue written warnings to night-shift nurses who skip the protocol.",
-    "Return the unit to the old oral-care routine for night shift only.",
-    "Require night-shift nurses to repeat the full training on their own time.",
+    "Assign a protocol champion to support the nurses on the night shift.",
+    "Post reminder signs about the protocol at the night-shift nurses' station.",
+    "Require night-shift nurses to repeat the full oral-care protocol training.",
     "Ask night-shift nurses what is making the protocol hard to follow."
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Discipline before understanding the barrier is unlikely to change practice and damages trust.",
-    "Incorrect. Abandoning an evidence-based practice for one shift creates inconsistent, lower-quality care.",
-    "Incorrect. Retraining may not address the actual barrier and is chosen before any assessment.",
-    "Correct. Assessing barriers first, such as time, supplies, or training gaps, lets the manager choose a fix that works."
+    "Incorrect. Champions are an effective strategy, but choosing one before knowing the barrier may not fix the real problem.",
+    "Incorrect. Reminders can help when staff forget, but they will not help if the barrier is staffing, time, or supplies.",
+    "Incorrect. Retraining fits a knowledge gap, but it assumes the barrier before assessing it; the problem may be staffing or supplies.",
+    "Correct. Barriers such as time, resources, skills, or tradition each need a different fix, so the manager first assesses why night shift is not following the protocol."
    ],
    "rationale": "Common barriers to adopting evidence include tradition, lack of time, skills, or resources, and fear that the change is unsafe. Each barrier has a different fix, such as champions, education, leader support, or a pilot, so the manager first assesses why night shift is not following the protocol. Only then can the manager choose the right strategy. Mandatory retraining is tempting because it looks like a solution, but it assumes the barrier is knowledge when it may be staffing or supplies.",
    "takeaway": "When a practice change stalls, identify the specific barrier before choosing a strategy.",
@@ -271,7 +278,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Prioritization",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-010",
@@ -347,16 +355,16 @@
    "stem": "A 52-year-old Muslim client with type 2 diabetes who takes a sulfonylurea tells the clinic nurse that she plans to fast from dawn to sunset during Ramadan, as she does every year. Which action by the nurse is best?",
    "options": [
     "Tell the client that fasting is unsafe with diabetes and she must not fast this year.",
-    "Advise the client to skip all diabetes medicines during the fasting month.",
+    "Teach the client to check her glucose more often during the fasting hours.",
     "Work with the provider on medication timing and teach hypoglycemia signs.",
-    "Document that the client is choosing to be nonadherent with the treatment plan."
+    "Advise the client to take her usual sulfonylurea dose with the predawn meal."
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Dismissing a deeply held practice ignores client preference and is likely to damage trust and adherence.",
-    "Incorrect. Stopping medicines without a plan risks severe hyperglycemia and is not an evidence-based approach.",
-    "Correct. This respects the client’s values and applies evidence to make fasting as safe as possible.",
-    "Incorrect. Labeling a religious practice as nonadherence fails to help the client fast safely."
+    "Incorrect. The concern about hypoglycemia is valid, but forbidding the fast ignores the client’s values and makes unsafe, unsupported fasting more likely.",
+    "Incorrect. More frequent glucose checks are part of a safe plan, but they do not address the sulfonylurea dosing that drives the hypoglycemia risk.",
+    "Correct. This supports the client’s religious choice while reducing risk: the provider adjusts medication timing or dose and the nurse teaches hypoglycemia signs and when to break the fast.",
+    "Incorrect. Medication timing matters, but a usual dose before a day-long fast raises hypoglycemia risk, and dose changes require the provider."
    ],
    "rationale": "EBP blends the best evidence with clinical judgment and the client’s values, culture, and spirituality. A capable client who chooses to fast for religious reasons should be supported with a plan that reduces risk, such as adjusting the timing or dose of medicines with the provider, monitoring glucose, and teaching hypoglycemia signs and when to break the fast. Forbidding the fast is tempting because sulfonylureas raise hypoglycemia risk, but ignoring the client’s preference removes one of the three legs of EBP and makes harm more likely.",
    "takeaway": "Respect cultural and religious choices by building evidence-based safety measures around them, not by overriding them.",
@@ -367,7 +375,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Lifespan & Diversity",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-012",
@@ -377,16 +386,16 @@
    "stem": "A nurse manager on a surgical unit notices that nurses use four different methods to care for surgical drains, depending on who trained them. Two clients developed drain-site infections this month. Which action by the manager is best?",
    "options": [
     "Ask the practice council to develop one evidence-based protocol.",
-    "Let each nurse continue using the method that works best in their experience.",
+    "Review the two infection cases with the nurses who gave the care.",
     "Adopt the method used by the nurse with the most years of experience.",
     "Ask the surgeons which method they personally prefer and use that one."
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Standardizing care around current evidence reduces unnecessary variation, which is how EBP prevents harm.",
-    "Incorrect. Leaving variation in place keeps the inconsistency that may be contributing to infections.",
-    "Incorrect. Seniority reflects experience, not evidence, and is not a sound basis for a unit standard.",
-    "Incorrect. Personal preference is opinion, the weakest form of evidence, and skips the review process."
+    "Correct. Variation based on who trained each nurse is a system problem. A council review of current evidence produces one standard protocol for all nurses.",
+    "Incorrect. Case review can reveal contributing factors, but it focuses on individuals and does not end the variation across the unit.",
+    "Incorrect. Standardizing is the right idea, but experience alone ranks low as evidence and cannot replace a review of the research.",
+    "Incorrect. Surgeon input is valuable, but personal preference is expert opinion, not a systematic review of current evidence."
    ],
    "rationale": "The IOM’s Crossing the Quality Chasm report found that U.S. health care caused preventable harm and urged EBP to reduce inappropriate variation and standardize safe care. When nurses use several methods based on who trained them, the fix is to review current evidence through the organization’s practice council and build one standard protocol. Choosing the most experienced nurse’s method is tempting because experience matters, but experience alone ranks low as evidence and cannot replace a review of the research.",
    "takeaway": "Use EBP to reduce unnecessary practice variation by standardizing care around current evidence.",
@@ -399,7 +408,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Nursing Interventions",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-013",
@@ -408,17 +418,17 @@
    "priority": false,
    "stem": "On a postpartum unit, a grandmother places her 2-day-old grandson on his stomach in the bassinet and says, “I raised five children this way, and they all slept better on their tummies.” Which response by the nurse is best?",
    "options": [
-    "“That was the advice years ago, so it is fine for a baby who sleeps well that way.”",
+    "“Let’s ask his pediatrician which sleep position is best for him at home.”",
     "“Your experience matters. Research now shows back sleeping lowers SIDS risk.”",
     "“The hospital has a rule, so he has to stay on his back while he is here with us.”",
     "“Let’s place him on his side, propped with a blanket, as a compromise.”"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Prone sleeping increases the risk of sudden infant death, so the nurse must not endorse it.",
-    "Correct. This acknowledges her experience while sharing current evidence, and the nurse then returns the infant to his back.",
-    "Incorrect. Citing a rule without the reason misses a chance to teach and is unlikely to change practice at home.",
-    "Incorrect. Side-lying with loose bedding is not a safe sleep position and adds a suffocation hazard."
+    "Incorrect. The pediatrician will reinforce safe sleep, but this is standard teaching the nurse should give now while the infant is prone.",
+    "Correct. This respects the grandmother’s experience and gives the current evidence and the reason, so she can apply it at home.",
+    "Incorrect. The rule is accurate, but citing it skips the teaching that makes back sleeping continue after discharge.",
+    "Incorrect. Side sleeping was once advised and seems like a middle ground, but it is unstable, and soft items in the bassinet raise SIDS risk."
    ],
    "rationale": "Placing infants on their backs to sleep is a classic example of evidence replacing tradition, and the grandmother’s statement reflects experience, not evidence. The best response respects her experience while clearly sharing the current evidence and the reason, back sleeping lowers SIDS risk, so she can apply it at home. Citing the hospital rule is tempting because it is accurate, but it skips the teaching that makes the change last after discharge. A propped side position is never a safe compromise.",
    "takeaway": "Respect a family member’s experience, but teach the current evidence and the reason behind it.",
@@ -429,7 +439,8 @@
    "cjmm": "Take Action",
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
-   "clientNeed": "Health Promotion and Maintenance"
+   "clientNeed": "Health Promotion and Maintenance",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-014",
@@ -459,7 +470,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Nursing Interventions",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-015",
@@ -521,7 +533,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Nursing Interventions",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-017",
@@ -551,7 +564,8 @@
    "cjmm": "Evaluate Outcomes",
    "focus": "Client Teaching",
    "difficulty": 2,
-   "clientNeed": "Health Promotion and Maintenance"
+   "clientNeed": "Health Promotion and Maintenance",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-018",
@@ -581,7 +595,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
-   "clientNeed": "Health Promotion and Maintenance"
+   "clientNeed": "Health Promotion and Maintenance",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-019",
@@ -643,7 +658,8 @@
    "cjmm": "Evaluate Outcomes",
    "focus": "Nursing Interventions",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-021",
@@ -655,14 +671,14 @@
     "“Ceremonies aren’t evidence-based, so the hospital can’t allow them.”",
     "“The ceremony will need to wait until after you are discharged home.”",
     "“I’ll work with the team to schedule the ceremony before your surgery.”",
-    "“You’ll need to choose between having the ceremony and having the surgery.”"
+    "“Your healer may visit, but only during regular visiting hours.”"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Dismissing a spiritual practice ignores client values, a required leg of EBP.",
-    "Incorrect. Delaying the ceremony without a safety reason disregards what is meaningful to the client.",
-    "Correct. This honors the client’s cultural and spiritual preferences while keeping the evidence-based surgical plan.",
-    "Incorrect. Framing it as either-or is false; the practices can be combined."
+    "Incorrect. EBP does emphasize research, but it integrates client values with evidence rather than excluding practices that matter to the client.",
+    "Incorrect. Delaying until discharge avoids scheduling conflicts, but the client asked for the ceremony before surgery, when it matters to her.",
+    "Correct. A ceremony that does not affect surgical safety can be coordinated so the client receives both evidence-based surgery and culturally meaningful care.",
+    "Incorrect. Allowing the visit is supportive, but limiting it to visiting hours without coordinating with the team may not meet the ceremony’s needs."
    ],
    "rationale": "Health beliefs, culture, spirituality, and traditions shape what clients accept, and client preference is one of the three components of EBP. A ceremony that does not interfere with surgical safety can be coordinated with the team so the client receives both evidence-based surgery and culturally meaningful care. Saying ceremonies are not evidence-based is tempting because EBP emphasizes research, but EBP integrates client values with evidence rather than excluding practices that matter to the client.",
    "takeaway": "Integrate cultural and spiritual practices with evidence-based care whenever they are safe.",
@@ -673,7 +689,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-022",
@@ -682,17 +699,17 @@
    "priority": false,
    "stem": "A 74-year-old client with heart failure is being discharged with teaching to weigh himself every morning. He tells the nurse, “I can’t afford a scale, and I won’t be able to do that.” Which action by the nurse best reflects cost-conscious, evidence-based care?",
    "options": [
-    "Tell the client daily weights are optional if money is tight.",
+    "Teach the client to watch for swelling in his ankles and feet.",
     "Ask the social worker about obtaining a free or low-cost scale.",
     "Advise the client to weigh himself at a pharmacy once a month.",
-    "Document that the client is unwilling to follow discharge instructions."
+    "Ask a family member to buy a scale for him before discharge."
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Daily weights are a key evidence-based way to catch fluid gain early, so they should not be dropped.",
-    "Correct. This keeps the evidence-based monitoring plan while removing the cost barrier.",
-    "Incorrect. Monthly weights miss the rapid fluid gains that daily weights are meant to catch.",
-    "Incorrect. The client is not unwilling; he has a cost barrier that the nurse can help solve."
+    "Incorrect. Edema is a useful sign to teach, but it appears later than weight gain, so it does not replace daily weights.",
+    "Correct. This keeps the evidence-based practice of daily weights while removing the cost barrier through a free or low-cost scale.",
+    "Incorrect. Pharmacy weights cost nothing, but monthly checks are too infrequent to catch the rapid gains that signal worsening heart failure.",
+    "Incorrect. Family help may work, but it assumes the family can afford a scale instead of using resources designed for this barrier."
    ],
    "rationale": "Cost-conscious, or high-value, care chooses what works while asking whether it is available, covered, and affordable. Daily weights help detect fluid retention early in heart failure, so the goal is to keep that evidence-based practice while removing the barrier. A referral to the social worker or case manager can provide a free or low-cost scale. Monthly pharmacy weights are tempting because they cost nothing, but they are too infrequent to detect the rapid gains that signal worsening heart failure.",
    "takeaway": "When cost blocks an evidence-based plan, remove the barrier rather than dropping the plan.",
@@ -703,7 +720,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Client Teaching",
    "difficulty": 2,
-   "clientNeed": "Health Promotion and Maintenance"
+   "clientNeed": "Health Promotion and Maintenance",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-023",
@@ -1059,7 +1077,8 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Physiological Adaptation"
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-033",
@@ -1069,16 +1088,16 @@
    "stem": "A nurse working in a state correctional facility overhears a study recruiter tell an inmate, “If you sign up for this drug trial, it will look good at your parole hearing.” What is the most appropriate action by the nurse?",
    "options": [
     "Report the recruiter’s statement to the IRB overseeing the study.",
-    "Tell the inmate that joining is a reasonable way to improve his parole chances.",
+    "Tell the inmate privately that joining cannot help his parole case.",
     "Stay out of the matter because recruitment is the research team’s responsibility.",
     "Ask the recruiter to have the inmate sign the consent form in front of a witness."
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Linking parole to participation is coercion of a vulnerable group, and the IRB monitors studies to protect participants.",
-    "Incorrect. This reinforces the coercion and misleads the inmate.",
-    "Incorrect. Nurses have an ethical duty to protect research participants and cannot ignore coercion.",
-    "Incorrect. A witness does not fix a decision that is not voluntary."
+    "Correct. Offering parole benefits is coercion of a vulnerable group. The IRB oversees the study and can stop the practice for all prisoners being recruited.",
+    "Incorrect. Correcting the misinformation helps this inmate, but it does not stop the recruiter from coercing others; the IRB must be told.",
+    "Incorrect. The nurse is not on the research team, but the ANA Code of Ethics makes protecting research participants a nursing duty.",
+    "Incorrect. A witness documents the signature, but it does not make consent voluntary when coercion has already occurred."
    ],
    "rationale": "Prisoners are a vulnerable population because restricted liberty makes pressure easy, and offering parole benefits for joining a study is coercion that violates respect for persons. The IRB reviews studies before they start and monitors them during the study to protect participants, so the nurse reports the concern. Staying out of it is tempting because the nurse is not part of the research team, but the ANA Code of Ethics makes protecting research participants a nursing duty.",
    "takeaway": "Coercion of a vulnerable participant must be reported to those who oversee the study, such as the IRB.",
@@ -1089,7 +1108,8 @@
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-034",
@@ -1098,17 +1118,17 @@
    "priority": true,
    "stem": "An 81-year-old man with moderate dementia was enrolled in a memory study with his daughter’s permission. During a research-only blood draw, he pulls his arm away and says, “No, no. Stop.” What should the nurse do first?",
    "options": [
-    "Ask his daughter to come and calm him so the draw can be finished.",
-    "Finish the draw quickly because his legal representative gave permission.",
-    "Notify the investigator that he is no longer able to take part in the study.",
+    "Ask his daughter to calm him so the draw can be finished.",
+    "Reassure him and explain why the blood is needed.",
+    "Notify the investigator that he can no longer take part.",
     "Stop the research blood draw."
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Using a family member to overcome his refusal disregards his dissent.",
-    "Incorrect. A representative’s permission does not cancel a participant’s dissent to research procedures.",
-    "Incorrect. The investigator should be told, but the procedure is stopped first.",
-    "Correct. His dissent is respected for research-only procedures, so the draw is stopped immediately."
+    "Incorrect. Involving his representative is reasonable later, but using her to continue overrides his dissent to a research-only procedure.",
+    "Incorrect. Reassurance is supportive, but continuing to persuade after a clear refusal does not honor his dissent.",
+    "Incorrect. The investigator must be notified, but the immediate action is stopping the procedure he is refusing.",
+    "Correct. Respect for persons means honoring dissent to research-only procedures even when the representative gave permission. Notifying and documenting follow."
    ],
    "rationale": "People with cognitive impairment are a vulnerable group: they need a legal representative’s permission plus their own assent when able. Respect for persons means honoring a participant’s dissent to research-only procedures, even when the representative has signed. The nurse stops the draw, then notifies the investigator and documents the client’s words. Notifying the investigator is tempting because the team must know, but the immediate action is stopping the procedure he is refusing.",
    "takeaway": "A vulnerable participant’s dissent stops a research-only procedure, even if a representative gave permission.",
@@ -1119,7 +1139,8 @@
    "cjmm": "Take Action",
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-035",
@@ -1128,17 +1149,17 @@
    "priority": true,
    "stem": "A principal investigator asks the nurse to bring a research consent form to a postoperative client so the client can sign it now. The client received IV morphine 20 minutes ago, is drowsy, and keeps falling asleep mid-sentence. What is the best action by the nurse?",
    "options": [
-    "Bring the form now and have the client sign before falling more deeply asleep.",
+    "Wake the client fully, then go over the form together slowly.",
     "Ask the client’s spouse to sign the form on the client’s behalf instead.",
     "Tell the investigator that consent must wait until the client is alert.",
     "Read the form aloud to the client and have the client initial each page."
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Obtaining a signature from a sedated client produces invalid consent.",
-    "Incorrect. The client is expected to regain capacity soon, so a surrogate signature is not appropriate.",
-    "Correct. Consent must be informed and voluntary; a client who cannot stay awake cannot understand the study.",
-    "Incorrect. Reading aloud does not make a sedated client able to understand and decide."
+    "Incorrect. Waking the client seems to let the client take part, but someone briefly roused under opioid effect cannot reliably understand and weigh the study.",
+    "Incorrect. Surrogates can consent for people without capacity, but this client’s impairment is temporary, so consent should wait for the client.",
+    "Correct. A client drowsy from opioids cannot understand and voluntarily agree, so the nurse advocates by having consent wait until the client is alert.",
+    "Incorrect. Reading aloud helps clients with reading limits, but it does not create understanding in a client who keeps falling asleep."
    ],
    "rationale": "Research consent is both legal and ethical: the volunteer must understand the study’s purpose, procedures, length, expectations, benefits, and risks, and must decide voluntarily before the study begins. A client who is drowsy from opioids cannot meet that standard, so the nurse advocates by telling the investigator to wait until the client is alert. Asking the spouse to sign is tempting because surrogates can consent for people without capacity, but this client’s impairment is temporary, so consent should wait for the client.",
    "takeaway": "Do not obtain research consent from a temporarily sedated client; wait until the client can understand and decide.",
@@ -1149,7 +1170,8 @@
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-036",
@@ -1160,15 +1182,15 @@
    "options": [
     "Ask the assistant to stop discussing the participant here.",
     "Report the breach to the principal investigator after the shift ends.",
-    "Ask the assistant which unit the participant is on to check on him.",
-    "Ignore the comment because research staff manage their own data."
+    "Notify the hospital privacy officer about the breach right away.",
+    "Complete an incident report describing the overheard comment."
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Stopping the ongoing disclosure protects the participant’s confidentiality immediately.",
-    "Incorrect. Reporting is appropriate, but the disclosure is happening now and must be stopped first.",
-    "Incorrect. This invites more disclosure in a public space.",
-    "Incorrect. Every nurse must protect confidentiality, including in research."
+    "Correct. The disclosure is happening now, so the nurse first stops it, then reports the breach per policy.",
+    "Incorrect. The breach must be reported formally, but waiting until after the shift lets the disclosure continue.",
+    "Incorrect. Reporting to the privacy officer is appropriate, but the conversation is still going on and must be stopped first.",
+    "Incorrect. An incident report is part of follow-up, but documenting does not stop the ongoing disclosure."
    ],
    "rationale": "Confidentiality means researchers know who participants are but protect their identity and data, and the HIPAA Privacy Rule protects identifiable health information in research as well. A disclosure in a crowded elevator is an active breach, so the nurse first stops it by asking the assistant to stop the conversation, then reports the breach per policy. Reporting to the investigator is tempting because the breach must be addressed formally, but waiting until after the shift allows the disclosure to continue.",
    "takeaway": "Stop an active privacy breach first, then report it.",
@@ -1179,7 +1201,8 @@
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-037",
@@ -1209,7 +1232,8 @@
    "cjmm": "Recognize Cues",
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-038",
@@ -1239,7 +1263,8 @@
    "cjmm": "Take Action",
    "focus": "Prioritization",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Physiological Adaptation"
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-039",
@@ -1279,16 +1304,16 @@
    "stem": "A client in a heart-failure study tells the nurse she is thinking about leaving the study. The nurse then overhears a colleague tell the client, “If you drop out, Dr. Mendez may not want to keep you as a patient.” The client looks upset. What should the nurse do first?",
    "options": [
     "Report the colleague’s comment to the nurse manager at the end of the shift.",
-    "Encourage the client to stay in the study to avoid upsetting the provider.",
+    "Notify the principal investigator about the colleague’s comment.",
     "Tell the client that leaving the study will not change her usual care.",
     "Tell the colleague privately that the comment was not appropriate."
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. The comment should be reported, but the client is being pressured now and needs accurate information first.",
-    "Incorrect. This reinforces the coercion and disrespects her right to withdraw.",
-    "Correct. Correcting the false threat with the client restores the voluntary nature of her decision right away.",
-    "Incorrect. Coaching the colleague is needed, but the client’s rights come first."
+    "Incorrect. Reporting per policy is required, but waiting until the end of the shift leaves the client upset and misinformed now.",
+    "Incorrect. The research team must know, but the client’s decision is being distorted right now and she needs accurate information first.",
+    "Correct. The right to withdraw without penalty is central to respect for persons. Reassuring the client first undoes the coercion; reporting follows.",
+    "Incorrect. Correcting the colleague addresses the source, but the client is the one whose decision is being distorted right now."
    ],
    "rationale": "Respect for persons protects free, informed choice and the right to withdraw at any time without penalty or loss of usual care. Telling a participant that care will suffer if she leaves is coercion. The nurse first reassures the client with accurate information, then notifies the research team, addresses the colleague, and reports per policy. Correcting the colleague privately is tempting because it addresses the source, but the client is the one whose decision is being distorted right now.",
    "takeaway": "When a participant is pressured, protect the participant first by restating the right to withdraw without loss of care.",
@@ -1299,7 +1324,8 @@
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-041",
@@ -1309,16 +1335,16 @@
    "stem": "During a qualitative interview study about surviving intimate partner violence, a 34-year-old participant begins sobbing, shaking, and says, “I can’t stop seeing it.” The nurse researcher conducting the interview should take which action first?",
    "options": [
     "Pause the interview and attend to the participant’s distress.",
-    "Continue the questions gently, since emotional responses are expected in this type of study.",
-    "Remind the participant that she agreed to finish the interview when she signed consent.",
+    "Continue gently, since strong emotions are expected in this kind of study.",
+    "Ask her whether she would like to continue with the interview.",
     "Turn off the recorder and schedule the rest of the interview for tomorrow."
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Protecting the participant from psychological harm comes before collecting data.",
-    "Incorrect. Pushing through acute distress places data over the participant’s well-being.",
-    "Incorrect. Consent does not remove the right to stop; this statement is coercive.",
-    "Incorrect. Rescheduling without first addressing her distress ignores her immediate needs."
+    "Correct. Beneficence protects participants from psychological harm. Pausing to support her comes first; she keeps the right to stop, and referral follows as needed.",
+    "Incorrect. Strong emotions are common in qualitative research, but data collection never outranks a participant’s psychological safety.",
+    "Incorrect. Respecting her choice matters, but asking about continuing while she is acutely distressed is mistimed; support comes first.",
+    "Incorrect. Stopping the recording helps, but rescheduling before attending to her acute distress puts the study ahead of her needs."
    ],
    "rationale": "Beneficence protects participants from physical, psychological, and economic harm. Qualitative studies often explore painful experiences, and a participant who becomes acutely distressed needs the interview paused and support provided, including referral to counseling resources if needed. Continuing gently is tempting because strong emotions are common in qualitative research, but data collection never outranks the participant’s psychological safety, and she keeps the right to stop at any time.",
    "takeaway": "When a research participant shows acute psychological distress, stop data collection and care for the person.",
@@ -1329,7 +1355,8 @@
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "difficulty": 2,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-042",
@@ -1373,17 +1400,17 @@
     ]
    },
    "options": [
-    "The client’s temperature and blood pressure are within normal limits.",
-    "The client asked a question about the schedule of study visits.",
-    "The study coordinator scheduled a follow-up visit in 2 weeks.",
+    "The client asked about study visits after already receiving a dose.",
+    "The study drug was given by the research nurse, not the bedside nurse.",
+    "The follow-up visit is set for 2 weeks after the first study dose.",
     "The first study dose was given before the consent form was signed."
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Normal vital signs are expected and need no action.",
-    "Incorrect. Asking questions is part of ongoing consent and is expected; the investigator can answer it.",
-    "Incorrect. A scheduled follow-up visit is routine study management.",
-    "Correct. Research consent must be obtained before the study begins; giving a study drug before consent is a serious violation."
+    "Incorrect. A question after dosing may hint at gaps in understanding worth clarifying, but asking questions is a normal part of ongoing consent and is less serious than research done without consent.",
+    "Incorrect. Checking who gives study drugs is reasonable, but trained research nurses routinely give study medications, so this entry is appropriate.",
+    "Incorrect. Checking that follow-up is timely is reasonable, but the visit schedule is set by the study protocol and is routine; giving a study drug before consent is the serious violation.",
+    "Correct. The first dose was given at 0800 but consent was signed at 1030, so the client was exposed to research risk without informed consent. The nurse holds further study procedures and notifies the investigator."
    ],
    "rationale": "Research consent is usually written and must come before the study starts, and no study activity should begin until the participant has agreed. The record shows the first study dose at 0800 but the consent signature at 1030, so the participant was exposed to research risk without informed consent. The nurse holds further study procedures, notifies the investigator, and reports through the proper channels, which may include the IRB. The client’s question may draw attention, but asking questions is a normal part of ongoing consent.",
    "takeaway": "No study procedure may begin before informed consent is obtained.",
@@ -1394,7 +1421,8 @@
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-043",
@@ -1403,17 +1431,17 @@
    "priority": true,
    "stem": "A hospitalist asks a staff nurse to draw an extra tube of blood from several clients with pneumonia “for a little study I’m putting together.” When the nurse asks about paperwork, the hospitalist says, “We don’t need all that; it’s just one tube.” What is the best action by the nurse?",
    "options": [
-    "Collect the samples, since one extra tube adds little risk for the clients.",
+    "Draw the tube only for clients who give verbal permission.",
     "Collect the samples but leave the clients’ names off the tubes.",
     "Decline until IRB approval and participant consent are confirmed.",
-    "Ask the clients’ families whether the extra tube can be drawn."
+    "Draw the tube only along with the client’s routine morning labs."
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Low risk does not replace IRB review or the clients’ right to decide.",
-    "Incorrect. Removing names does not substitute for IRB approval and consent.",
-    "Correct. Research with human participants requires IRB approval and informed consent before any data are collected.",
-    "Incorrect. Families cannot consent for capable adults, and IRB approval is still required."
+    "Incorrect. Asking permission respects client choice, but verbal agreement is not informed consent and does not replace IRB approval of the study.",
+    "Incorrect. Removing names sounds like it protects privacy, but deidentifying samples does not replace IRB review or the clients’ right to choose.",
+    "Correct. Collecting blood for a study is research, so it needs IRB approval and informed consent first. The nurse declines until both are confirmed and uses the chain of command if pressured.",
+    "Incorrect. Avoiding an extra needlestick reduces harm, but the sample is still collected for research without IRB approval or the clients’ consent."
    ],
    "rationale": "No study with human participants should start without IRB approval, and participants must give informed consent before any research procedure. An extra blood tube collected for a study is research, even if the risk seems small. The nurse protects clients by declining until approval and consent are documented, using the chain of command if pressured. Leaving names off the tubes is tempting because it sounds like it protects privacy, but deidentifying samples does not replace IRB review or the clients’ right to choose.",
    "takeaway": "No IRB approval and no consent means no research procedures, no matter how small.",
@@ -1424,7 +1452,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-044",
@@ -1454,7 +1483,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-045",
@@ -1466,14 +1496,14 @@
     "“No one, not even the researchers, can ever link your answers to you.”",
     "“The team knows who you are, but they must keep your answers private.”",
     "“Your answers will be shared with your provider so they can update your chart.”",
-    "“Your name will be published with the results so others can learn from you.”"
+    "“Results are reported only as group data, so you will be anonymous.”"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. This describes anonymity, which is not possible when the team has the participant’s name on file.",
-    "Correct. This describes confidentiality: identity is known to researchers but protected.",
-    "Incorrect. Research data are not shared with the care team unless the participant agrees.",
-    "Incorrect. Publishing names violates confidentiality and research privacy rules."
+    "Incorrect. This sounds the most reassuring, but it describes anonymity, and a study that keeps names and phone numbers on file cannot promise it.",
+    "Correct. The study collects names and phone numbers, so it offers confidentiality: the team knows who the participant is but must protect that identity and the data.",
+    "Incorrect. Sharing information with the care team can sound helpful, but research data are kept confidential and are not placed in the chart without the participant’s consent.",
+    "Incorrect. Reporting group data is a real way to protect privacy, but it is confidentiality, not anonymity; the team can still link answers to the participant."
    ],
    "rationale": "Confidentiality means researchers know who the participant is but protect that identity and the data. Anonymity means no one, including the researchers, can link the data to a person, as with an unsigned survey with no codes. Because this study collects names and phone numbers, it can promise confidentiality but not anonymity. The anonymity response is tempting because it sounds the most reassuring, but promising something the study cannot deliver is misleading.",
    "takeaway": "A study that collects names can promise confidentiality, not anonymity.",
@@ -1484,7 +1514,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Client Teaching",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-046",
@@ -1496,14 +1527,14 @@
     "Justice",
     "Beneficence",
     "Respect for persons",
-    "Anonymity"
+    "Veracity"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Justice concerns fair selection and treatment of groups, not harm to this participant from continued dosing.",
-    "Correct. Continuing a study drug after a serious adverse effect exposes the participant to harm, which beneficence forbids.",
-    "Incorrect. Respect for persons concerns informed, voluntary choice; the problem here is exposure to harm.",
-    "Incorrect. Anonymity concerns whether data can be linked to a person, which is not the issue here."
+    "Incorrect. Justice is a Belmont principle, but it concerns fair selection and treatment of participants, which is not the issue here.",
+    "Correct. Beneficence protects participants from harm. Giving another dose after severe neutropenia with fever, just to keep data complete, puts research goals above the participant’s safety.",
+    "Incorrect. The participant’s rights are involved, but respect for persons protects free, informed choice; the core problem here is the risk of physical harm.",
+    "Incorrect. Veracity, or truthfulness, is a real ethical principle, but nothing suggests the participant was misled; the problem is exposure to harm."
    ],
    "rationale": "The Belmont Report sets three principles: respect for persons protects free, informed choice; beneficence protects participants from physical, psychological, and economic harm; and justice protects fair selection and treatment. Giving another dose of a drug that caused severe neutropenia with fever, just to keep the data complete, places research goals above the participant’s safety and violates beneficence. Respect for persons is tempting because the participant’s rights are involved, but the core problem is the risk of harm, not a lack of choice.",
    "takeaway": "Continuing a study intervention after a serious adverse effect violates beneficence.",
@@ -1514,7 +1545,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Pharmacology",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-047",
@@ -1578,16 +1610,16 @@
    },
    "options": [
     "The client is eligible because he meets all of the inclusion criteria.",
-    "The client is eligible if the provider agrees to waive the dialysis rule.",
-    "The client is not eligible because of his age.",
+    "The client is eligible once his dialysis schedule is stable.",
+    "The client is not eligible until his ejection fraction is rechecked.",
     "The client is not eligible because he meets an exclusion criterion."
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Meeting inclusion criteria is not enough if any exclusion criterion applies.",
-    "Incorrect. Eligibility criteria are set in the approved protocol and are not waived by an individual provider.",
-    "Incorrect. At 68, he falls within the 40–75 age range.",
-    "Correct. He meets every inclusion criterion, but receiving dialysis rules him out."
+    "Incorrect. It is true that he meets every inclusion criterion, but a single exclusion criterion is enough to rule a person out.",
+    "Incorrect. Waiting for stability is sensible in many care decisions, but the exclusion is receiving dialysis at all, not unstable dialysis.",
+    "Incorrect. Confirming key data is reasonable, but an ejection fraction of 30% already meets the inclusion criterion; the problem is the exclusion.",
+    "Correct. He meets all inclusion criteria, but he started hemodialysis this month, and receiving dialysis is an exclusion criterion, so he is not eligible."
    ],
    "rationale": "Inclusion criteria define who may join a study, and exclusion criteria rule people out, often for safety or to keep results valid. A person must meet all inclusion criteria and have no exclusion criteria. This client is within the age range and has heart failure with a qualifying ejection fraction, but he started dialysis, which is listed as an exclusion. Concluding he is eligible is tempting because every inclusion criterion is met, but a single exclusion criterion is enough to rule a person out.",
    "takeaway": "A participant must meet every inclusion criterion and no exclusion criterion.",
@@ -1598,7 +1630,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Assessment Findings",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-048",
@@ -1628,7 +1661,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Nursing Interventions",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-049",
@@ -1668,16 +1702,16 @@
    "stem": "An investigator running a wound-care study is behind schedule and asks a staff nurse, who has not been trained on the study, to explain the study to a client and obtain the client’s signature. Which response by the nurse is most appropriate?",
    "options": [
     "“The research staff should obtain consent; I can check understanding.”",
-    "“I can get the signature now and you can answer the client’s questions tomorrow.”",
+    "“I’ll explain the study if you give me a quick overview first.”",
     "“I’ll read the consent form to the client and have the client sign it.”",
-    "“The client’s provider should sign the consent form since the client is in the hospital.”"
+    "“I’ll obtain consent if another nurse witnesses the signature.”"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. This keeps consent with the people who know the study and keeps the nurse in the advocate role.",
-    "Incorrect. Consent must be informed before signing; delaying explanation makes it invalid.",
-    "Incorrect. Reading a form does not make the nurse able to answer study questions or obtain informed consent.",
-    "Incorrect. The provider cannot consent on behalf of a capable client."
+    "Correct. Research consent is obtained by the investigator or trained research staff who can explain the study fully and answer questions. The bedside nurse checks understanding, advocates, and reports concerns.",
+    "Incorrect. Wanting more information shows good intent, but a quick overview is not study training, and the nurse still could not fully answer the client’s questions.",
+    "Incorrect. Reading the form aloud seems helpful, but it cannot ensure informed consent when the nurse cannot answer questions about the protocol.",
+    "Incorrect. A witness adds a safeguard for the signature, but it does not make an untrained nurse able to explain the study and obtain informed consent."
    ],
    "rationale": "Research consent is obtained by the principal investigator or trained research staff, who can fully explain the study’s purpose, procedures, risks, and benefits and answer questions. The bedside nurse’s role is to check understanding and voluntariness, advocate, and report concerns. A nurse who is untrained on the study should not obtain consent. Reading the form aloud is tempting because it seems helpful, but it cannot ensure informed consent when the nurse cannot answer the client’s questions about the protocol.",
    "takeaway": "The investigator obtains research consent; the nurse verifies understanding and advocates.",
@@ -1688,7 +1722,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-051",
@@ -1699,15 +1734,15 @@
    "options": [
     "“The IRB is the right resource because it reviews all ethical questions.”",
     "“This is a care dilemma, so the ethics committee is the right resource.”",
-    "“The risk management office should decide what the family must accept.”",
-    "“The nurse practice act tells us whether to continue treatment.”"
+    "“Risk management is the right resource because of the legal concerns.”",
+    "“The nurse manager should resolve this disagreement with the family.”"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. The IRB approves and monitors research studies, not bedside care decisions.",
-    "Correct. Ethics committees advise on clinical care dilemmas; IRBs oversee research.",
-    "Incorrect. Risk management addresses liability; it does not resolve care-goal conflicts with families.",
-    "Incorrect. The nurse practice act defines nursing scope, not decisions about a client’s treatment goals."
+    "Incorrect. Both groups deal with ethics, but the IRB reviews research to protect participants; this client is not in a study.",
+    "Correct. An ethics committee advises on care dilemmas, such as disagreements about continuing life-sustaining treatment, so it is the right resource here.",
+    "Incorrect. Risk management addresses liability and safety events, but it does not guide ethical decisions about continuing treatment.",
+    "Incorrect. The manager can support staff and help arrange meetings, but a treatment dilemma like this needs interprofessional ethics consultation."
    ],
    "rationale": "An institutional review board reviews and monitors research before and during a study to protect participants’ rights and welfare. An ethics committee advises on care dilemmas, such as disagreements about continuing life-sustaining treatment. Because this client is not in a study, the ethics committee is the right resource. The IRB option is tempting because both groups deal with ethics, but the IRB’s role is limited to research.",
    "takeaway": "IRBs oversee research; ethics committees advise on clinical care dilemmas.",
@@ -1718,7 +1753,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-052",
@@ -1748,7 +1784,8 @@
    "cjmm": "Recognize Cues",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-053",
@@ -1757,17 +1794,17 @@
    "priority": false,
    "stem": "A participant in a pain-management study asks the bedside nurse detailed questions about how participants are assigned to groups and why she cannot choose her group. Which action by the nurse is best?",
    "options": [
-    "Explain the full statistical design of the study in detail so the participant understands it.",
-    "Tell the participant the questions do not matter now that she has signed the consent form.",
+    "Explain the study’s design in detail so she fully understands it.",
+    "Remind her that group assignment was explained when she signed consent.",
     "Answer basic questions, then ask the investigator to explain in full.",
-    "Advise the participant to withdraw if she is unhappy with not choosing her group."
+    "Remind her that she may withdraw from the study at any time."
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Detailed protocol explanations are the research team’s job and risk inaccurate information.",
-    "Incorrect. Consent is ongoing; participants may ask questions at any time.",
-    "Correct. The nurse supports understanding within her knowledge and refers protocol details to the research team.",
-    "Incorrect. Suggesting withdrawal does not answer her questions and may steer her decision."
+    "Incorrect. Thorough answers seem helpful, but explaining the protocol in depth is the research team’s role, and the nurse may give inaccurate details.",
+    "Incorrect. It may be true that assignment was explained, but consent is ongoing, and the participant still deserves answers to new questions.",
+    "Correct. The nurse answers basic questions within her knowledge, such as the general idea of random assignment, and asks the investigator to give full information, because consent is ongoing.",
+    "Incorrect. The right to withdraw is true and important, but it does not answer her questions about how groups are assigned."
    ],
    "rationale": "Consent is ongoing: participants may ask questions or withdraw at any time. The bedside nurse answers basic questions within her knowledge, such as the general idea of random assignment, and asks the investigator to provide full information, because explaining the protocol in depth is the research team’s responsibility. Explaining the full design is tempting because it seems thorough and helpful, but the nurse may give inaccurate details about a protocol she did not design.",
    "takeaway": "Answer basic research questions, then refer protocol details to the investigator; consent is ongoing.",
@@ -1778,7 +1815,8 @@
    "cjmm": "Take Action",
    "focus": "Client Teaching",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-054",
@@ -2194,7 +2232,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Pharmacology",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies"
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-065",
@@ -2203,17 +2242,17 @@
    "priority": true,
    "stem": "A client receiving radiation for head and neck cancer tells the nurse she has started rubbing a product from a friend on her irritated neck skin. The nurse checks the unit’s evidence summary, which rates this product red. Which action should the nurse take first?",
    "options": [
-    "Tell the client the product is approved for use because she finds it soothing.",
+    "Teach the client why products rated red should be avoided.",
     "Assess the neck skin and ask how often she has applied the product.",
-    "Document the use and plan to discuss it at the next weekly visit.",
+    "Notify the provider that the client is using a red-rated product.",
     "Tell the client the evidence is not yet clear, so she may continue for now."
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. A red rating means strong evidence the product is ineffective or harmful, so it should not be endorsed.",
-    "Correct. Assessing the extent of use and the skin comes first, and it guides teaching and the report to the provider.",
-    "Incorrect. Waiting a week leaves a possibly harmful product in use on irritated skin.",
-    "Incorrect. This describes a yellow rating, not red."
+    "Incorrect. Teaching about the red rating will be needed, but the nurse first assesses the skin and how the product was used so the teaching and the report to the provider fit this client.",
+    "Correct. Assessing the skin and how often the product was used comes first; the findings guide teaching about the red rating and what the nurse reports to the provider.",
+    "Incorrect. Involving the provider is appropriate, but the nurse should assess the skin and the product use first so the report includes the client’s findings.",
+    "Incorrect. Leaving the choice to the client sounds respectful, but “not yet clear” describes a yellow rating; red means strong evidence of no benefit or harm."
    ],
    "rationale": "The Oncology Nursing Society’s Putting Evidence into Practice resource uses a stoplight: green means strong evidence that an intervention is likely effective, yellow means not enough evidence to know, and red means strong evidence that it is likely ineffective or harmful. A red-rated product should be avoided, and the nurse teaches why and involves the provider. The first step is to assess how the client has been using it and the condition of her skin. Telling her the evidence is unclear is tempting, but that is the meaning of yellow, not red.",
    "takeaway": "Red means stop: assess the client’s use, teach why to avoid it, and involve the provider.",
@@ -2224,7 +2263,8 @@
    "cjmm": "Recognize Cues",
    "focus": "Client Teaching",
    "difficulty": 3,
-   "clientNeed": "Physiological Integrity: Reduction of Risk Potential"
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-066",
@@ -2234,16 +2274,16 @@
    "stem": "Four months after a unit adopted an evidence-based protocol to prevent ventilator-associated pneumonia, the pneumonia rate has not changed. An audit shows that nurses document the oral-care step on only about half of the required occasions. What should the EBP team do first?",
    "options": [
     "Conclude the protocol is ineffective and return to the previous practice.",
-    "Expand the protocol to the other ICUs to collect a larger sample.",
-    "Present the results at a regional conference as a failed intervention.",
+    "Re-educate all staff on the oral-care step right away.",
+    "Continue the protocol 4 more months and recheck the rate.",
     "Check whether the protocol is being carried out as designed."
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Rejecting the protocol without checking fidelity may discard an effective practice.",
-    "Incorrect. Spreading a protocol that is not being followed will not show whether it works.",
-    "Incorrect. Sharing results before checking fidelity would spread a misleading conclusion.",
-    "Correct. Checking fidelity comes before judging the protocol; poor adherence can explain the lack of improvement."
+    "Incorrect. Outcomes have not improved, but the protocol has not truly been tested because a key step is often missed.",
+    "Incorrect. Education may be part of the fix, but the team should first find out why the step is missed, such as time, supplies, or training.",
+    "Incorrect. Giving a change more time can be reasonable, but waiting ignores the known gap in carrying out the protocol.",
+    "Correct. When outcomes do not improve, the team first checks fidelity: whether the protocol is carried out as designed and, if not, why. The audit points to the missed oral-care step."
    ],
    "rationale": "In Step 4, the team checks fidelity, measures outcomes, watches for unexpected effects, and then decides to accept, reject, or modify the change. If the outcome does not improve, the first question is whether the intervention was actually carried out as the evidence describes. Here the audit shows the oral-care step is often missed, so the team examines why, such as time, supplies, or training. Concluding the protocol is ineffective is tempting because outcomes have not changed, but the protocol has not truly been tested yet.",
    "takeaway": "Before deciding that an evidence-based change failed, confirm it was carried out as designed.",
@@ -2254,7 +2294,8 @@
    "cjmm": "Evaluate Outcomes",
    "focus": "Prioritization",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-067",
@@ -2263,19 +2304,19 @@
    "priority": true,
    "stem": "A staff nurse on a medical unit where catheter-associated urinary tract infection (CAUTI) rates are twice the hospital benchmark reads several studies showing that nurse-driven catheter removal protocols reduce CAUTIs. The unit does not have such a protocol. What should the nurse do first?",
    "options": [
-    "Begin removing catheters without orders when clients seem ready.",
+    "Write a nurse-driven removal protocol for the unit to follow.",
     "Ask each provider to write catheter-removal orders sooner.",
     "Share the evidence with the manager and practice council.",
     "Post a summary of the studies in the staff break room."
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Removing catheters without an order or an approved protocol is outside policy and scope.",
-    "Incorrect. This may help some clients but bypasses the process needed for a lasting, unit-wide change.",
-    "Correct. A unit-wide change to how catheters are removed requires the organizational EBP process.",
-    "Incorrect. Raising awareness is useful, but it does not start the formal process for changing practice."
+    "Incorrect. Drafting a protocol may become part of the project, but a new unit protocol needs leadership approval and the organizational EBP process before staff use it.",
+    "Incorrect. Prompting providers can help individual clients, but it does not fix the unit-wide practice gap the evidence addresses.",
+    "Correct. A new protocol is an organizational change, so the nurse brings the evidence to the manager and practice council to start the approval process.",
+    "Incorrect. Sharing evidence with peers builds interest, but it does not start the formal process needed to change unit practice."
    ],
-   "rationale": "An individual nurse can adjust their own practice within scope and current policy, but changes to a protocol, product, policy, or form need the organizational process: leadership approval, an interprofessional team, stakeholder buy-in, and policy revision. Bringing the evidence to the manager and practice council starts that process. Removing catheters independently is tempting because the evidence is strong, but acting without an order or approved protocol is outside policy.",
+   "rationale": "An individual nurse can adjust their own practice within scope and current policy, but changes to a protocol, product, policy, or form need the organizational process: leadership approval, an interprofessional team, stakeholder buy-in, and policy revision. Bringing the evidence to the manager and practice council starts that process. Writing a protocol for the unit to follow is tempting because the evidence is strong, but a protocol cannot be used until it goes through approval.",
    "takeaway": "Strong evidence for a unit-wide change goes to the manager and practice council, not straight to the bedside.",
    "hintContent": "Can one nurse change how a unit removes catheters on her own?",
    "hintStrategy": "Distinguish individual practice from organizational change; protocol-level changes need the formal channel.",
@@ -2284,7 +2325,8 @@
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-068",
@@ -2294,18 +2336,18 @@
    "stem": "During a pilot of a new evidence-based oral-care product for clients receiving chemotherapy, a 59-year-old client reports burning in his mouth. The nurse finds new red, raw patches on his inner cheeks that were not present before the product was started. Which action should the nurse take first?",
    "options": [
     "Hold the product for this client and notify the provider.",
-    "Continue the product because the evidence supporting it is strong.",
-    "Document the findings and wait for the pilot’s 3-month review.",
+    "Report the findings to the pilot project team.",
+    "Rate the client’s mouth pain using a 0-to-10 scale.",
     "Ask the team to switch the whole unit to a different product."
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. A possible reaction in an individual client is addressed right away, and the provider must evaluate it.",
-    "Incorrect. Strong evidence for a group does not outweigh signs of harm in this client.",
-    "Incorrect. Waiting for a scheduled review leaves the client exposed to possible harm.",
-    "Incorrect. A unit-wide change is premature based on one client and comes after individual care."
+    "Correct. New raw patches and burning after starting the product suggest a possible reaction, so the nurse first protects this client by holding the product and notifying the provider.",
+    "Incorrect. The project team needs to track unexpected outcomes, but reporting to them comes after protecting this client.",
+    "Incorrect. Rating pain is useful, but the findings already point to a possible reaction, and more assessment delays stopping the product.",
+    "Incorrect. A unit-wide change may be considered later, but one client’s reaction calls for action for that client first, not an immediate unit decision."
    ],
-   "rationale": "Step 4 blends evidence with the nurse’s assessment and watches for unexpected outcomes. Research shows what usually works for groups, but the nurse’s assessment decides whether it fits this client. New raw patches and burning after starting the product suggest a possible reaction, so the nurse holds the product for this client and notifies the provider, then reports it to the project team so it can be tracked. Continuing because the evidence is strong is tempting, but clinical findings in the individual client always come first.",
+   "rationale": "Step 4 blends evidence with the nurse’s assessment and watches for unexpected outcomes. Research shows what usually works for groups, but the nurse’s assessment decides whether it fits this client. New raw patches and burning after starting the product suggest a possible reaction, so the nurse holds the product for this client and notifies the provider, then reports it to the project team so it can be tracked. Reporting to the project team first is tempting because it is a pilot, but the individual client’s safety always comes first.",
    "takeaway": "Evidence guides care for groups; an individual client’s new harm is acted on immediately.",
    "hintContent": "What does the nurse’s assessment show about this client’s response?",
    "hintStrategy": "When a protocol and a client’s condition conflict, protect the client first; unit-wide decisions come later.",
@@ -2314,7 +2356,8 @@
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Physiological Adaptation"
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-069",
@@ -2344,7 +2387,8 @@
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-070",
@@ -2415,7 +2459,8 @@
    "cjmm": "Evaluate Outcomes",
    "focus": "Assessment Findings",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-071",
@@ -2425,15 +2470,15 @@
    "stem": "A unit is piloting an evidence-based sepsis screening tool. At 1000, the nurse reviews screening results for four clients. Which client should the nurse assess first?",
    "options": [
     "A client with a positive screen whose temperature is 100.6°F (38.1°C) and BP is 128/80 mm Hg",
-    "A client with a negative screen who asks when the next pain medicine is due",
-    "A client with a negative screen whose white blood cell count is 8,200/mm³",
+    "A client with a negative screen who reports new chills and feels warm",
+    "A client with a negative screen whose heart rate is 104/min after walking",
     "A client with a positive screen whose blood pressure has dropped to 84/50 mm Hg"
    ],
    "answer": 3,
    "optionRationales": [
     "Incorrect. A positive screen with stable vital signs needs follow-up but is less urgent than hypotension.",
-    "Incorrect. Pain needs attention, but this client is stable with a negative screen.",
-    "Incorrect. A WBC of 8,200/mm³ is within the normal range and is not urgent.",
+    "Incorrect. New chills deserve a recheck and possibly a repeat screen, but this client has no sign of poor perfusion and is less urgent than a client with hypotension.",
+    "Incorrect. A fast heart rate can be an early sepsis sign, but a rate of 104/min right after walking is expected and less urgent than hypotension with a positive screen.",
     "Correct. A positive screen with hypotension suggests possible septic shock and needs immediate assessment."
    ],
    "rationale": "A screening tool is evidence that supports nursing judgment; it does not replace it. Among clients who screen positive, the nurse uses ABCs and acute-versus-stable reasoning to decide who is most at risk. A positive screen with a blood pressure of 84/50 mm Hg suggests poor perfusion and possible septic shock, so that client is seen first. The febrile client with a positive screen is tempting because fever is a classic sepsis sign, but stable blood pressure makes that client less urgent.",
@@ -2445,7 +2490,8 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Physiological Adaptation"
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-072",
@@ -2455,14 +2501,14 @@
    "stem": "Hospital leadership and the interprofessional practice committee have approved a new evidence-based fall-prevention bundle for all medical units. Which action should the project team take first?",
    "options": [
     "Launch the bundle on every medical unit on the same day.",
-    "Begin a quality and safety audit of fall rates on all units.",
+    "Audit staff use of the bundle on every medical unit.",
     "Remove the old fall-prevention supplies from every unit.",
     "Prepare peer champions and educate staff on the bundle."
    ],
    "answer": 3,
    "optionRationales": [
     "Incorrect. A hospital-wide launch without a pilot risks errors and makes problems harder to detect.",
-    "Incorrect. Audits measure the change after it is in place; they do not prepare staff to use it.",
+    "Incorrect. Audits are part of rollout and check whether the bundle is used correctly, but they come after staff are trained and the bundle is in use.",
     "Incorrect. Removing supplies before staff are trained can leave units without a working process.",
     "Correct. Champions and education prepare staff before the pilot so the change is carried out correctly."
    ],
@@ -2475,7 +2521,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-073",
@@ -2484,17 +2531,17 @@
    "priority": true,
    "stem": "A surgical unit has adopted an evidence-based enhanced-recovery protocol that calls for starting clear liquids 6 hours after colon surgery. At the 6-hour mark, the client has vomited twice, reports nausea, and has a firm, distended abdomen. What should the nurse do first?",
    "options": [
-    "Start the clear liquids because the protocol is based on strong evidence.",
+    "Give the prescribed antiemetic, then start the clear liquids.",
     "Offer small sips of clear liquid to see whether the client tolerates them.",
     "Hold the clear liquids and notify the surgeon of the findings.",
     "Document that the protocol could not be followed and recheck in 6 hours."
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. A protocol supports judgment but never replaces it when the client shows signs of intolerance.",
-    "Incorrect. Giving liquids to a vomiting client with a distended abdomen increases the risk of aspiration.",
-    "Correct. The client’s assessment shows intolerance, so the protocol step is held and the provider is informed.",
-    "Incorrect. Waiting 6 hours without notifying the surgeon ignores findings that need evaluation."
+    "Incorrect. Treating nausea is appropriate, but a firm, distended abdomen with vomiting suggests the client cannot tolerate oral intake yet, and the surgeon needs to know.",
+    "Incorrect. Small sips seem like a gentle compromise, but they still place fluid in a vomiting client at risk of aspiration.",
+    "Correct. A protocol supports judgment but does not replace it. Vomiting, nausea, and a firm, distended abdomen mean the nurse holds the liquids and notifies the surgeon.",
+    "Incorrect. Holding the liquids and documenting is partly right, but these findings need to be reported to the surgeon now, not rechecked later."
    ],
    "rationale": "Step 4 blends evidence with the nurse’s assessment and the client’s condition. A protocol supports RN judgment but never replaces it: the RN still assesses and evaluates each client. Vomiting, nausea, and a firm, distended abdomen suggest the client cannot tolerate oral intake now, so the nurse holds the liquids and notifies the surgeon. Offering small sips is tempting because it seems like a gentle compromise, but it still places fluid in a client who is vomiting and at risk of aspiration.",
    "takeaway": "Follow a protocol only when the client’s assessment supports it; stop and report when the client is unsafe.",
@@ -2505,7 +2552,8 @@
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Reduction of Risk Potential"
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-074",
@@ -2574,7 +2622,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Lifespan & Diversity",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-075",
@@ -2604,7 +2653,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Nursing Interventions",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-076",
@@ -2634,7 +2684,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Nursing Interventions",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-077",
@@ -2664,7 +2715,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Nursing Interventions",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-078",
@@ -2694,7 +2746,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Nursing Interventions",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-079",
@@ -2724,7 +2777,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Assessment Findings",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-080",
@@ -2754,7 +2808,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Client Teaching",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-081",
@@ -2784,7 +2839,8 @@
    "cjmm": "Recognize Cues",
    "focus": "Nursing Interventions",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-082",
@@ -2814,7 +2870,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-083",
@@ -2844,7 +2901,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Pathophysiology",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m45-x1-084",

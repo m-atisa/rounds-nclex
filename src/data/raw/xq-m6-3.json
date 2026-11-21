@@ -33,7 +33,8 @@
    "rationale": "Before giving potassium, the nurse confirms that the client is making at least 0.5 mL/kg/hr of urine, because the kidneys are the route that removes excess potassium. For a 70-kg client that minimum is 35 mL/hr, so 80 mL in 4 hours (20 mL/hr) is below it. Giving potassium now could swing the client from hypokalemia into hyperkalemia, which affects cardiac rhythm. The most tempting wrong choice is starting the infusion because 3.1 mEq/L is clearly low, but the safety check on urine output comes before any potassium replacement.",
    "takeaway": "No adequate urine output, no potassium: hold the replacement and notify the provider.",
    "hintContent": "Think about which organ removes potassium from the body and calculate this client's minimum hourly output.",
-   "hintStrategy": "When a stem gives you a number that seems unrelated to the order, calculate it; a hidden abnormal value often changes the safe action."
+   "hintStrategy": "When a stem gives you a number that seems unrelated to the order, calculate it; a hidden abnormal value often changes the safe action.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x3-002",
@@ -63,7 +64,8 @@
    "rationale": "Diabetes is one of the chronic conditions that places a client at risk for fluid imbalance. When blood glucose is very high, glucose spills into the urine and drags water with it, causing large urine volumes and a fluid volume deficit even when the client drinks a lot. The dry mouth and heavy urination are cues that output is outpacing intake. The tempting wrong answer is that the kidneys are retaining water, but the frequent, large voids show the kidneys are losing water, not saving it.",
    "takeaway": "High blood glucose pulls water out through the urine, so uncontrolled diabetes leads to fluid loss.",
    "hintContent": "Consider what happens to water when large amounts of glucose end up in the urine.",
-   "hintStrategy": "Match each explanation to the cues in the stem; an explanation that contradicts a stated finding (large urine output) can be eliminated."
+   "hintStrategy": "Match each explanation to the cues in the stem; an explanation that contradicts a stated finding (large urine output) can be eliminated.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x3-003",
@@ -163,7 +165,8 @@
    "rationale": "GI losses such as vomiting and NG suction remove fluid and electrolytes before they can be absorbed, so this client is at clear risk for imbalance. Of the results, only potassium falls outside the normal range, and potassium controls cardiac rhythm, so a value outside 3.5–5.0 mEq/L is reported promptly. The urine output of 420 mL over 8 hours is above this client's minimum of 300 mL (0.5 mL/kg/hr), so it is not the concern. The tempting distractors are the low-normal chloride and magnesium, which deserve trending, but a value that is actually abnormal outranks values still within range.",
    "takeaway": "With ongoing GI losses, a potassium below 3.5 mEq/L is the result to report first.",
    "hintContent": "Compare each value with its normal range and remember which electrolyte is called the cardiac electrolyte.",
-   "hintStrategy": "In an exhibit, check every value against its range first; an abnormal result usually outranks a borderline-normal one."
+   "hintStrategy": "In an exhibit, check every value against its range first; an abnormal result usually outranks a borderline-normal one.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x3-004",
@@ -195,7 +198,8 @@
    "rationale": "Assistive personnel can perform routine tasks with predictable outcomes, such as measuring and recording intake and output, for a stable client. Teaching, planning, and evaluating require nursing judgment, so the RN keeps them. For a fluid restriction, accurate counting of every drink is essential, and AP can collect that data while the nurse interprets it. The tempting choice is having the AP explain the restriction, since it seems simple, but explaining a treatment is teaching and stays with the nurse.",
    "takeaway": "AP can measure and record intake; the nurse teaches, plans, and evaluates.",
    "hintContent": "Sort each task into collecting data versus teaching, planning, or judging the response.",
-   "hintStrategy": "For delegation, eliminate any option that uses the words explain, decide, or evaluate; those signal nursing judgment."
+   "hintStrategy": "For delegation, eliminate any option that uses the words explain, decide, or evaluate; those signal nursing judgment.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x3-005",
@@ -214,20 +218,21 @@
    "options": [
     "Teach the couple which seasonings are made mainly of potassium",
     "Replace the salt substitute with a salt-free herb blend",
-    "Encourage the client to drink more fluids to dilute the potassium",
+    "Give the 0900 dose, then report the result to the provider",
     "Hold the spironolactone and notify the provider of the result"
    ],
    "answer": 3,
    "optionRationales": [
     "Incorrect. Teaching about hidden potassium is needed, but it does not address a high potassium level that is affecting the client now.",
     "Incorrect. Removing the salt substitute is appropriate, yet it does nothing about the scheduled drug that is also raising potassium.",
-    "Incorrect. Extra fluid does not correct hyperkalemia and may be unsafe for a client with heart failure.",
-    "Correct. A potassium above 5.0 mEq/L is hyperkalemia, and spironolactone makes the body keep potassium. Holding the dose and reporting the value prevents further rise and gets treatment started."
+    "Incorrect. Reporting the result is needed, but giving a potassium-sparing drug first would push an already high potassium even higher.",
+    "Correct. A potassium above 5.0 mEq/L with new weakness is hyperkalemia, and spironolactone makes the body keep potassium. Holding the dose and reporting stops further rise, which teaching or swapping seasonings cannot do right now."
    ],
    "rationale": "Spironolactone is a potassium-sparing diuretic, and most salt substitutes are made mainly of potassium chloride, so together they can push potassium to dangerous levels. A level of 5.8 mEq/L with new weakness signals hyperkalemia, which can affect cardiac rhythm. The first action is to withhold the drug that is adding to the problem and contact the provider with the result. Teaching about the salt substitute is the most tempting choice because it addresses the cause, but teaching comes after the immediate physical risk is handled.",
    "takeaway": "High potassium on spironolactone: hold the dose and notify the provider, then teach about salt substitutes.",
    "hintContent": "Recall whether spironolactone removes or keeps potassium and what most salt substitutes contain.",
-   "hintStrategy": "When an abnormal lab affects the client now, choose the action that stops more harm before the action that teaches."
+   "hintStrategy": "When an abnormal lab affects the client now, choose the action that stops more harm before the action that teaches.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x3-006",
@@ -287,7 +292,8 @@
    "rationale": "Infants are at the highest risk for rapid fluid loss because they have a higher percentage of body water, a large surface area for their size, immature kidneys, and no way to signal thirst except by crying. Vomiting plus diarrhea with a sharp drop in wet diapers points to a developing fluid volume deficit that can become serious within hours. The older adult is the most tempting distractor because age is a risk factor, but the data given (scheduled intake, pale urine) show the risk is being managed. Always rank the client with active, unstable losses ahead of stable clients with chronic risks.",
    "takeaway": "An infant with ongoing vomiting or diarrhea and fewer wet diapers is a priority call.",
    "hintContent": "Think about which age group has the least fluid reserve and the fastest changes in balance.",
-   "hintStrategy": "Prioritize the client whose problem is active and getting worse over clients whose risk is stable or already controlled."
+   "hintStrategy": "Prioritize the client whose problem is active and getting worse over clients whose risk is stable or already controlled.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x3-008",
@@ -356,7 +362,8 @@
    "rationale": "Furosemide and hydrochlorothiazide are potassium-wasting diuretics, while spironolactone spares potassium. Salt substitutes are mostly potassium chloride, and the kidneys are the main route for removing extra potassium. A client with kidney disease who takes spironolactone and uses a salt substitute has three stacked risks for hyperkalemia. The tempting distractor is the client taking a potassium supplement, but that supplement is prescribed to replace what the thiazide removes, so the overall effect is balance rather than buildup.",
    "takeaway": "Spironolactone plus extra potassium plus weak kidneys is the setup for hyperkalemia.",
    "hintContent": "Sort each drug as potassium-wasting or potassium-sparing, then add any other potassium sources or excretion problems.",
-   "hintStrategy": "When comparing clients for one risk, count how many factors each has that push in the same direction."
+   "hintStrategy": "When comparing clients for one risk, count how many factors each has that push in the same direction.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x3-010",
@@ -388,7 +395,8 @@
    "rationale": "Head injuries are an acute risk factor for fluid imbalance because the brain controls thirst and the release of ADH. When ADH is disrupted, the kidneys cannot conserve water, and the client produces very large amounts of dilute urine that can quickly lead to a fluid volume deficit and a rising sodium level. An output of 400 mL/hr is far above normal and must be reported right away. The tempting distractor is the sodium of 142 mEq/L, which might be the start of a rise, but it is still normal, while the urine output is already abnormal now.",
    "takeaway": "A sudden large output of dilute urine after a head injury suggests ADH disruption and needs immediate reporting.",
    "hintContent": "Recall which hormone tells the kidneys to save water and which organ controls its release.",
-   "hintStrategy": "Calculate the expected range for outputs in the stem; a value far outside it, in either direction, is the finding to report."
+   "hintStrategy": "Calculate the expected range for outputs in the stem; a value far outside it, in either direction, is the finding to report.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x3-011",
@@ -460,7 +468,8 @@
    "rationale": "Electrolytes run the brain, nerves, and muscles, so a client with a low sodium, potassium, or calcium level may be weak, unsteady, or confused. Safety and comfort come first among nursing interventions: the call light within reach, the bed low, help with walking, and frequent checks. When the client is already trying to stand and is swaying, the immediate risk is a fall, so the nurse stays and assists. Calling the provider is tempting because the finding is new, but it can be done once the client is safe.",
    "takeaway": "A client with an abnormal electrolyte level who is unsteady needs hands-on fall prevention first.",
    "hintContent": "Think about how a low sodium level affects the nervous system and muscles.",
-   "hintStrategy": "When a client is in immediate physical danger, choose the action that keeps them safe now; reporting and reviewing can follow."
+   "hintStrategy": "When a client is in immediate physical danger, choose the action that keeps them safe now; reporting and reviewing can follow.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x3-013",
@@ -478,19 +487,20 @@
     "\"The blood test shows how well the medicine is lowering your pressure.\"",
     "\"This medicine makes your kidneys lose potassium, so we check your level.\"",
     "\"This medicine can make your potassium build up too high in your blood.\"",
-    "\"If you keep feeling fine, the lab visit is optional and can be skipped.\""
+    "\"Feeling fine is good, but some side effects show up only on labs.\""
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Blood pressure is measured with a cuff, not a blood test; the lab work monitors electrolytes.",
-    "Correct. Hydrochlorothiazide is a potassium-wasting diuretic, and the body does not store potassium, so levels can fall without symptoms at first.",
+    "Incorrect. Lowering pressure is the goal of the drug, but that is checked with a cuff, not a blood test; the lab work monitors potassium.",
+    "Correct. Hydrochlorothiazide is a potassium-wasting diuretic, and the body does not store potassium, so levels can fall without symptoms. This answer names the specific risk the lab work checks.",
     "Incorrect. A rising potassium describes a potassium-sparing diuretic such as spironolactone, not a thiazide.",
-    "Incorrect. Low potassium can develop before the client feels any symptoms, so follow-up labs are important."
+    "Incorrect. This is true and supportive, but it does not tell the client what is being checked or why this drug needs it."
    ],
    "rationale": "Hydrochlorothiazide and furosemide remove fluid and cause potassium to be lost in the urine. Because the body does not store potassium, the level can drop below 3.5 mEq/L, often before symptoms appear, so follow-up labs are part of safe therapy. The nurse also encourages potassium-rich foods unless restricted. The tempting wrong answer says potassium builds up, which mixes up thiazides with spironolactone, the potassium-sparing diuretic.",
    "takeaway": "Thiazide and loop diuretics waste potassium, so teach clients why lab follow-up matters even when they feel well.",
    "hintContent": "Recall whether hydrochlorothiazide is potassium-wasting or potassium-sparing.",
-   "hintStrategy": "For best-response questions, choose the answer that is both accurate and directly addresses the client's question."
+   "hintStrategy": "For best-response questions, choose the answer that is both accurate and directly addresses the client's question.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x3-014",
@@ -559,7 +569,8 @@
    "rationale": "Vomiting and diarrhea pour fluid out of the GI tract, and this client now shows signs of a significant volume deficit: low blood pressure, a fast heart rate, and dry mucous membranes. Using the ABCs, circulation is the problem, so the first action is the one that restores circulating volume most quickly, an isotonic IV bolus. Oral rehydration is the tempting choice because it is the least invasive option, but the least invasive choice must also be effective, and a hypotensive client who is still vomiting cannot drink enough fast enough. The specimen and baseline weight are important but can follow.",
    "takeaway": "Hypotension from GI losses calls for IV volume first; the least invasive option is only right when it will work.",
    "hintContent": "Identify which vital signs point to a circulation problem and which prescription treats it fastest.",
-   "hintStrategy": "Apply the ABCs, then choose the least invasive option only if it can actually fix the problem in time."
+   "hintStrategy": "Apply the ABCs, then choose the least invasive option only if it can actually fix the problem in time.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x3-016",
@@ -591,7 +602,8 @@
    "rationale": "Older adults may be dehydrated without feeling thirsty, so a scheduled fluid plan is evaluated with objective findings rather than thirst. Moist mucous membranes and light yellow urine show that intake now meets the body's needs. A falling weight and a rising urine specific gravity both point toward a fluid deficit, not improvement. The tempting answer is the resident reporting thirst, which may seem like a return of a normal signal, but thirst means the body wants more fluid and is not a reliable outcome measure in this age group.",
    "takeaway": "Evaluate hydration in older adults with objective findings such as mucous membranes, urine color, and weight, not thirst.",
    "hintContent": "Think about which findings change when a client's fluid intake becomes adequate.",
-   "hintStrategy": "For evaluation items, choose the finding that shows the goal has been met, and eliminate findings that show the problem is worsening."
+   "hintStrategy": "For evaluation items, choose the finding that shows the goal has been met, and eliminate findings that show the problem is worsening.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x3-017",
@@ -646,21 +658,22 @@
    "stem": "The daughter of an 83-year-old client receiving 0.9% sodium chloride at 100 mL/hr calls the nurse to the room and says, \"My mom seems to be breathing harder than she was this morning.\" Which action should the nurse take first?",
    "options": [
     "Auscultate the lungs and check the oxygen saturation",
-    "Stop the infusion and remove the IV catheter",
+    "Review the intake and output totals for the shift",
     "Call the provider to request an order for a diuretic",
-    "Reassure the daughter that the fluids prevent dehydration"
+    "Ask the daughter when she first noticed the change"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. A family report of harder breathing in an older adult on IV fluids raises concern for fluid overload, and the nurse must gather data before acting.",
-    "Incorrect. Removing the catheter eliminates IV access that may be needed, and acting before assessing is not justified by a report alone.",
+    "Correct. Harder breathing in an older adult on IV fluids raises concern for fluid overload. Listening to the lungs and checking oxygen saturation gives direct, current data on breathing, which comes before chart review, history, or calling the provider.",
+    "Incorrect. Intake and output totals help show fluid overload, but they are secondary data; direct assessment of breathing comes first.",
     "Incorrect. The provider will need assessment data, and requesting a specific drug before assessing is premature.",
-    "Incorrect. Dismissing the concern could miss early fluid overload in a high-risk client."
+    "Incorrect. Asking about onset adds useful history, but the client's breathing must be assessed directly before talking further with family."
    ],
    "rationale": "Older adults are at greater risk for fluid overload with IV fluids because their heart and kidneys handle extra volume less well. A report that the client is breathing harder is a cue to assess right away: lung sounds for crackles, oxygen saturation, respiratory rate, and work of breathing. Those findings determine whether to raise the head of the bed, slow the infusion per policy, and notify the provider. Calling for a diuretic is tempting because it targets the suspected problem, but the nurse needs data to report and must confirm the problem first.",
    "takeaway": "A reported breathing change during IV therapy calls for immediate focused assessment before intervening.",
    "hintContent": "Consider what complication of IV fluids is most likely in an older adult and how to confirm it.",
-   "hintStrategy": "When the stem gives a report rather than measured findings, assess first unless the situation is clearly an emergency."
+   "hintStrategy": "When the stem gives a report rather than measured findings, assess first unless the situation is clearly an emergency.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x3-019",
@@ -717,22 +730,23 @@
    "focus": "Pharmacology",
    "stem": "During an admission medication history, a 66-year-old client with chronic kidney disease says, \"I buy potassium tablets at the health food store for my leg cramps.\" The client's serum potassium is 5.3 mEq/L. Which action by the nurse is most appropriate?",
    "options": [
-    "Tell the client to take the tablets every other day from now on",
-    "Suggest a salt substitute as a gentler daily source of potassium",
+    "Ask what else might be causing the leg cramps",
+    "Teach the client which foods are high in potassium",
     "Document the tablets as a home medication and continue the history",
     "Report the self-prescribed supplement and result to the provider"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Adjusting the dose of a supplement is outside the nurse's scope and still adds potassium the kidneys cannot clear.",
-    "Incorrect. Salt substitutes are mainly potassium and would add to the problem.",
+    "Incorrect. Exploring the leg cramps is reasonable assessment, but it does not address the high potassium and the unprescribed supplement causing it.",
+    "Incorrect. Teaching about high-potassium foods is useful for kidney disease, but teaching follows reporting, and it leaves the provider unaware of the supplement.",
     "Incorrect. Documentation alone ignores an above-normal potassium linked to a self-prescribed product.",
-    "Correct. The potassium is above 5.0 mEq/L, and the client is self-medicating with a supplement the kidneys cannot clear. The provider needs this information to adjust care."
+    "Correct. The potassium is above 5.0 mEq/L, and the client is self-medicating with a supplement the kidneys cannot clear. The provider needs this information first; teaching and further assessment follow."
    ],
    "rationale": "A key question in any medication history is whether electrolyte supplements are prescribed or self-medicated. This client's damaged kidneys cannot excrete potassium well, and the self-prescribed tablets have helped push the level above 5.0 mEq/L. The nurse reports both the supplement and the result to the provider, then teaches the client not to take potassium products without approval. Simply documenting is tempting because it records the information, but an abnormal value tied to an unprescribed product requires communication, not just charting.",
    "takeaway": "Always ask whether a supplement is self-prescribed, and report it when it is linked to an abnormal level.",
    "hintContent": "Consider how kidney disease affects potassium excretion and why self-medication matters here.",
-   "hintStrategy": "Eliminate options that change a treatment without an order or that only document an abnormal finding."
+   "hintStrategy": "Eliminate options that change a treatment without an order or that only document an abnormal finding.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x3-021",
@@ -799,7 +813,8 @@
    "rationale": "Burns and trauma are acute risk factors for fluid imbalance because damaged skin allows fluid to leak and evaporate from the wound. This client's tachycardia and low blood pressure are signs that circulating volume is already falling, making it an acute, unstable problem. The other clients have chronic conditions with data that are stable or within range. The kidney disease client is tempting because potassium and kidneys are a high-risk pair, but a value of 4.9 mEq/L is still normal, while the burn client shows active circulatory changes.",
    "takeaway": "An acute injury with signs of falling volume outranks chronic conditions with stable data.",
    "hintContent": "Look for the client whose vital signs show a circulation problem happening now.",
-   "hintStrategy": "Rank acute and unstable over chronic and stable, and check whether each lab value is actually outside its range."
+   "hintStrategy": "Rank acute and unstable over chronic and stable, and check whether each lab value is actually outside its range.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x3-023",
@@ -818,20 +833,21 @@
    "options": [
     "\"His liver is breaking down too much sodium, so water builds up.\"",
     "\"Low albumin lets fluid leak out of his blood vessels into tissue.\"",
-    "\"His kidneys have stopped making urine, so the fluid stays put.\"",
-    "\"The swelling comes from drinking too much water with his meals.\""
+    "\"His heart is too weak to pump fluid back up from his legs.\"",
+    "\"Sitting for long periods lets fluid pool in his lower legs.\""
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. The liver's role here is making albumin, not breaking down sodium.",
-    "Correct. The liver makes albumin, which holds fluid inside the vessels. When albumin is low, fluid shifts out into the tissues and causes edema.",
-    "Incorrect. Nothing in the stem suggests the kidneys have stopped working; the cue is a low albumin.",
-    "Incorrect. Normal drinking does not explain swelling in a client with a known albumin problem."
+    "Incorrect. Liver disease does upset fluid balance, but the liver does not break down sodium; low albumin is what lets fluid leave the vessels.",
+    "Correct. The liver makes albumin, which holds fluid inside the vessels. When albumin is low, fluid shifts into the tissues. This explains the swelling better than posture or heart function.",
+    "Incorrect. A weak heart causes leg edema in heart failure, but this client has cirrhosis and low albumin, which explain the swelling.",
+    "Incorrect. Sitting can worsen dependent swelling, but it does not explain edema in a client with low albumin and little salt intake."
    ],
    "rationale": "Liver disease is a chronic risk factor for fluid imbalance because the liver makes albumin, the protein that keeps fluid inside the blood vessels. When albumin is low, fluid leaks out of the vessels into the tissues, causing edema even when sodium intake is low. The key cue in the stem is the low serum albumin. The tempting wrong answer blames sodium, because many students link all swelling to salt, but this edema comes from a loss of the protein that holds fluid in the vessels.",
    "takeaway": "In liver disease, low albumin lets fluid leak from the vessels into the tissues.",
    "hintContent": "Recall which protein the liver makes and what that protein does for fluid in the vessels.",
-   "hintStrategy": "Tie your answer to the specific lab cue in the stem rather than to a general rule about swelling."
+   "hintStrategy": "Tie your answer to the specific lab cue in the stem rather than to a general rule about swelling.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x3-024",

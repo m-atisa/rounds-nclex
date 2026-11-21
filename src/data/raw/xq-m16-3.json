@@ -31,7 +31,8 @@
    ],
    "rationale": "The adult resuscitation sequence is: check responsiveness, shout for help and activate the emergency response system, check breathing and carotid pulse together for no more than 10 seconds, then start compressions if there is no pulse. Calling for help first gets the AED/defibrillator and the team moving, which matters because early defibrillation is what restores a shockable rhythm. The most tempting wrong answer is checking the pulse, because it feels like 'assess before act,' but an unresponsive client is an emergency and the pulse check is the very next step, not the first. Rescue breaths are never the opening move in adult CPR.",
    "takeaway": "Unresponsive adult: call for help and activate the emergency system, then check pulse and breathing (10 seconds or less), then compress.",
-   "alsoTests": []
+   "alsoTests": [],
+   "bestAnswer": true
   },
   {
    "id": "m16-x3-002",
@@ -84,23 +85,24 @@
    "hintStrategy": "When a prevention measure appears as an option, ask whether the problem is still preventable or has already happened; the action changes once it has.",
    "stem": "On postoperative day 3 after a knee replacement, a 63-year-old client says, \"My left calf has been cramping since this morning. Could you rub it for me?\" The nurse finds the left calf warm, swollen, and tender compared with the right. Which action should the nurse take first?",
    "options": [
-    "Gently massage the calf to relieve the muscle cramp",
+    "Measure both calves and reassess the leg in 1 hour",
     "Walk the client in the hallway to improve venous return",
     "Keep the client on bed rest and notify the provider",
     "Apply a compression stocking snugly over the left calf"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. A warm, swollen, tender calf suggests a clot; massage could dislodge it and cause a pulmonary embolism.",
-    "Incorrect. Walking prevents clots, but once a clot is suspected, movement may break it loose before it is evaluated.",
-    "Correct. These findings suggest a venous thrombosis, so the nurse limits movement and reports promptly for diagnostic testing and treatment.",
-    "Incorrect. Compression helps prevent clots but is not applied over a suspected new clot without evaluation and orders."
+    "Incorrect. Measuring calf circumference is a useful assessment, but the one-sided warmth, swelling, and tenderness already suggest a clot, and waiting an hour delays treatment.",
+    "Incorrect. Early ambulation prevents clots after surgery, but once a clot is suspected, walking could dislodge it and cause a pulmonary embolism.",
+    "Correct. One-sided calf warmth, swelling, and tenderness suggest a venous thrombosis. Bed rest limits the risk of the clot breaking loose, and the provider must be notified promptly for diagnostic testing and anticoagulation.",
+    "Incorrect. Compression stockings help prevent clots, but a snug stocking is not applied over a suspected clot before provider evaluation, and it delays reporting the findings."
    ],
-   "rationale": "A client who is less mobile after surgery is at risk for venous stasis and clot formation. One-sided calf warmth, swelling, and tenderness are classic signs of a venous thrombosis, even when the client calls it a cramp. The nurse should not massage the leg, because massage could dislodge the clot and send it to the lungs; the client stays on bed rest while the provider is notified. The most tempting wrong answer is walking the client, because early ambulation is the right way to prevent clots, but prevention measures change once a clot is suspected.",
+   "rationale": "A client who is less mobile after surgery is at risk for venous stasis and clot formation. One-sided calf warmth, swelling, and tenderness are classic signs of a venous thrombosis, even when the client calls it a cramp. The nurse should not rub the leg as the client asks, because massage could dislodge the clot and send it to the lungs; the client stays on bed rest while the provider is notified. Measuring the calves is a reasonable assessment, but the findings are already clear enough to report now. The most tempting wrong answer is walking the client, because early ambulation is the right way to prevent clots, but prevention measures change once a clot is suspected.",
    "takeaway": "Prevent clots with ambulation and ankle pumps, but a suspected clot means no massage, limit movement, and notify the provider.",
    "alsoTests": [
     "hemostasis"
-   ]
+   ],
+   "bestAnswer": true
   },
   {
    "id": "m16-x3-004",
@@ -214,21 +216,22 @@
    "hintStrategy": "When the stem stresses that modifiable factors are already ideal, look for the answer that addresses the remaining nonmodifiable cause.",
    "stem": "A 36-year-old client at a community health fair has a total cholesterol of 312 mg/dL and an LDL of 244 mg/dL. The client exercises regularly, does not smoke, and has a BMI of 23. The client's mother and an uncle both had heart attacks before age 50. In addition to lifestyle teaching, which action by the nurse is most appropriate?",
    "options": [
-    "Reassure the client that a normal BMI offsets the high cholesterol",
-    "Advise the client to recheck the lipid profile in 5 years",
-    "Explain that family history is a risk the client can modify",
+    "Refer the client to a dietitian to lower saturated fat intake",
+    "Recheck the lipid profile in 3 months after diet changes",
+    "Check the client’s blood pressure and blood glucose today",
     "Recommend referral for genetic testing, counseling, and evaluation"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. A healthy weight does not cancel out a very high LDL, especially with early heart disease in the family.",
-    "Incorrect. Waiting 5 years delays care for a client whose findings suggest an inherited disorder.",
-    "Incorrect. Family history is a nonmodifiable risk factor.",
-    "Correct. Very high cholesterol in a young, healthy-living client with relatives who had early heart attacks suggests an inherited disorder, so genetic referral is indicated."
+    "Incorrect. Diet counseling is reasonable, but this client already lives a healthy lifestyle, and diet alone will not explain or correct an inherited LDL level this high.",
+    "Incorrect. Rechecking lipids is reasonable follow-up, but waiting 3 months on diet alone delays evaluation of a likely inherited disorder in a client with early family heart disease.",
+    "Incorrect. Screening other risk factors is reasonable, but it does not address the very high LDL and early family heart attacks that point to an inherited cause.",
+    "Correct. Very high LDL despite healthy habits plus relatives with heart attacks before 50 suggests an inherited lipid disorder. Referral for genetic testing, counseling, and evaluation addresses the cause, which diet, rechecks, or other screening do not."
    ],
-   "rationale": "Family history, especially of high cholesterol or early-onset coronary artery disease, is a nonmodifiable risk factor. When a young client has very high cholesterol despite healthy habits and several relatives had heart attacks before 50, the pattern suggests an inherited lipid disorder. The nurse should refer the client for genetic testing, counseling, and evaluation along with lifestyle teaching. The most tempting wrong answer is reassurance about the normal BMI, because the client is doing everything right, but lifestyle alone does not explain or fix this level of LDL.",
+   "rationale": "Family history, especially of high cholesterol or early-onset coronary artery disease, is a nonmodifiable risk factor. When a young client has very high cholesterol despite healthy habits and several relatives had heart attacks before 50, the pattern suggests an inherited lipid disorder. The nurse should refer the client for genetic testing, counseling, and evaluation along with lifestyle teaching. The most tempting wrong answers are more diet counseling or a lipid recheck after diet changes, because they are routine steps, but lifestyle alone does not explain or fix this level of LDL, and waiting delays evaluation.",
    "takeaway": "Very high cholesterol in a young client plus early heart disease in relatives means refer for genetic testing and counseling.",
-   "alsoTests": []
+   "alsoTests": [],
+   "bestAnswer": true
   },
   {
    "id": "m16-x3-007",
@@ -277,20 +280,21 @@
    "stem": "A 49-year-old client recovering from a stroke works with physical therapy each day. During evening care, the client says quietly, \"What's the point of all this therapy? My wife has to help me with everything now. I'm just a burden.\" Which response by the nurse is most appropriate?",
    "options": [
     "Your wife loves you, so I'm sure she doesn't see you as a burden.",
-    "Keep working hard in therapy and you'll be back to normal soon.",
+    "Therapy can help you learn to do more things for yourself again.",
     "You're feeling like a burden to your wife. Tell me more about that.",
-    "Let's focus on the exercises you'll be doing in therapy tomorrow."
+    "Would you like me to ask the social worker to talk with you?"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. This dismisses the client's feeling and speaks for the wife, which ends the conversation.",
-    "Incorrect. This is false reassurance; the nurse cannot promise a full recovery.",
-    "Correct. Reflecting the feeling and inviting the client to say more encourages expression and lets the nurse assess for depression.",
-    "Incorrect. Changing the subject to exercises avoids the client's emotional concern."
+    "Incorrect. This sounds kind, but it is false reassurance that minimizes the client’s feeling and closes the conversation.",
+    "Incorrect. This is true and encouraging, but it responds to the therapy question rather than the feeling of being a burden, so the client’s concern goes unexplored.",
+    "Correct. Reflecting the feeling and inviting the client to say more is the therapeutic response. It shows acceptance, keeps the conversation open, and lets the nurse screen for depression before deciding on referrals.",
+    "Incorrect. A social work referral may help later, but offering it now passes the concern to someone else before the nurse has explored what the client is feeling."
    ],
    "rationale": "Psychosocial support is an independent nursing intervention for clients whose lives have been changed by heart disease or stroke. Clients often feel anxious, depressed, or like a burden, and the therapeutic response acknowledges the feeling and invites the client to talk. Reflection plus an open invitation also helps the nurse screen for depression, which is common after stroke. The most tempting wrong answer is reassuring the client that his wife loves him, because it sounds kind, but it minimizes his feeling and closes the discussion.",
    "takeaway": "Acknowledge the feeling and invite the client to talk; avoid false reassurance, minimizing, and changing the subject.",
-   "alsoTests": []
+   "alsoTests": [],
+   "bestAnswer": true
   },
   {
    "id": "m16-x3-009",
@@ -322,7 +326,8 @@
    "takeaway": "In heart failure, a 2–3 lb gain in a day or new breathlessness at night is fluid overload and gets the first call.",
    "alsoTests": [
     "perfusion-emergencies"
-   ]
+   ],
+   "bestAnswer": true
   },
   {
    "id": "m16-x3-010",
@@ -455,7 +460,8 @@
    "takeaway": "If a compression device is impairing circulation, remove or loosen it first, then reassess.",
    "alsoTests": [
     "peripheral-assessment"
-   ]
+   ],
+   "bestAnswer": true
   },
   {
    "id": "m16-x3-013",
@@ -485,7 +491,8 @@
    ],
    "rationale": "Chelation therapy gives a substance that binds metals in the blood; it is not a proven heart treatment and carries risks such as low calcium and kidney injury. Tingling around the mouth and muscle cramps are signs of hypocalcemia, which can cause dangerous heart rhythms, so this statement is the priority. The client's failure to tell the cardiologist is tempting because supplements and alternative therapies should always be reviewed with the provider, and the nurse will address it, but a physical sign of a complication comes first. Interest in natural remedies and mild fatigue are lower priorities.",
    "takeaway": "Ask about alternative therapies like chelation, and watch for low calcium (tingling, cramps) and kidney injury.",
-   "alsoTests": []
+   "alsoTests": [],
+   "bestAnswer": true
   },
   {
    "id": "m16-x3-014",
@@ -502,20 +509,21 @@
    "stem": "A 60-year-old client who had coronary artery bypass surgery is being discharged with a referral to cardiac rehabilitation. The client says, \"I don't need rehab. I can just lift weights in my garage.\" Which response by the nurse is best?",
    "options": [
     "Lifting weights at home is fine as long as you stop when tired.",
-    "Rehab is only needed if you start having chest pain at home.",
-    "You can skip rehab if your surgeon says the bypass went well.",
+    "You can start lifting weights once your incision has healed.",
+    "Ask your surgeon when it is safe to lift weights at home.",
     "Rehab gives you supervised exercise, education, and counseling."
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Unsupervised heavy lifting after heart surgery is unsafe, and stopping when tired is not an adequate safety plan.",
-    "Incorrect. Rehab is for every client recovering from a heart event or surgery, not only those with symptoms.",
-    "Incorrect. A successful surgery does not replace the exercise, education, and support rehab provides.",
-    "Correct. This explains what cardiac rehab offers that home exercise does not: monitored exercise plus teaching and emotional support."
+    "Incorrect. This supports the client’s motivation, but home lifting has no monitoring, and “stop when tired” gives no safe limits after chest surgery.",
+    "Incorrect. This sets a limit on lifting, but a healed skin incision does not mean the sternum has healed, and it still endorses skipping supervised rehab.",
+    "Incorrect. The surgeon can clarify activity limits, but this redirects the question and leaves the client’s misunderstanding about rehab uncorrected.",
+    "Correct. This corrects the misunderstanding by explaining what rehab adds: monitored exercise plus teaching on risk factors and medications and support for emotional recovery, which home lifting cannot provide."
    ],
    "rationale": "Cardiac rehabilitation is a collaborative therapy: a supervised program of exercise, education, and counseling that helps clients safely rebuild strength and confidence after a heart event or surgery. Home weight lifting lacks monitoring and the teaching about risk factors, medications, and emotional recovery. The most tempting wrong answer allows home exercise with a 'stop when tired' rule, because it supports the client's motivation, but it leaves the client without safe limits. The best response corrects the misunderstanding by explaining the benefits of rehab.",
    "takeaway": "Cardiac rehab = supervised exercise + education + counseling after a heart event or surgery.",
-   "alsoTests": []
+   "alsoTests": [],
+   "bestAnswer": true
   },
   {
    "id": "m16-x3-015",
@@ -545,7 +553,8 @@
    ],
    "rationale": "Daily weights are the best measure of fluid gain or loss in heart failure, but only if each weight is taken the same way: same scale, same time (before breakfast), and similar clothing. A change in scale, timing, or clothing can create a false gain or loss of a kilogram or more, which could lead to the wrong treatment decision. Switching to a standing scale is tempting because it seems more accurate or more active, but consistency matters more than the type of scale. Weighing a stable client is a routine task that is appropriate to delegate.",
    "takeaway": "Daily weights: same scale, same time before breakfast, similar clothing.",
-   "alsoTests": []
+   "alsoTests": [],
+   "bestAnswer": true
   },
   {
    "id": "m16-x3-016",
@@ -650,7 +659,8 @@
    ],
    "rationale": "Children respond to severe hypoxemia with bradycardia rather than the tachycardia seen in adults, and cardiac arrest in children usually follows breathing failure. An infant with bronchiolitis whose SpO₂ is low and whose heart rate is falling is not improving; this is a sign that arrest is near and needs immediate ventilation support. The most tempting distractor is the toddler with a heart rate of 150, but crying after a vaccine explains that number. The newborn murmur and the thigh BP difference are expected findings for age.",
    "takeaway": "A hypoxic infant or child whose heart rate is dropping is near arrest, not getting better.",
-   "alsoTests": []
+   "alsoTests": [],
+   "bestAnswer": true
   },
   {
    "id": "m16-x3-019",
@@ -669,20 +679,21 @@
     "Document the murmur and report it to the provider for evaluation",
     "Tell the parent the murmur is innocent and needs no further follow-up",
     "Give blow-by oxygen to the infant while notifying the provider",
-    "Tell the parent the infant most likely has a congenital heart defect"
+    "Ask the parent about any family history of heart defects"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Many newborn murmurs are innocent, but any murmur is documented and reported so the provider can decide on follow-up.",
-    "Incorrect. The nurse cannot decide that a murmur is innocent; that requires provider evaluation.",
-    "Incorrect. The infant is pink with a normal SpO₂, so oxygen is not indicated.",
-    "Incorrect. This causes needless alarm and goes beyond the data; most newborn murmurs are nonpathologic."
+    "Correct. Many newborn murmurs are innocent, but congenital heart disease is a leading cause of death in infancy, so every murmur is documented and reported for provider evaluation.",
+    "Incorrect. The murmur may well be innocent, but deciding that is outside the nurse’s scope and could miss a heart defect.",
+    "Incorrect. Notifying the provider is right, but the infant is pink with an SpO₂ of 98%, so oxygen is not indicated.",
+    "Incorrect. Family history is useful assessment data, but it does not replace documenting and reporting the murmur for provider evaluation."
    ],
    "rationale": "Newborns often have nonpathologic (innocent) murmurs as their circulation shifts from fetal to newborn patterns. Even so, congenital heart disease is the leading cause of death in the first year of life (excluding prematurity), so every murmur is documented and reported for provider evaluation. The most tempting wrong answer tells the parent the murmur is innocent, which may well be true, but deciding that is outside the nurse's scope and could miss a defect. With normal color, SpO₂, and feeding, there is no indication for oxygen.",
    "takeaway": "Newborn murmurs are often innocent, but always document and report them for provider evaluation.",
    "alsoTests": [
     "heart-sounds"
-   ]
+   ],
+   "bestAnswer": true
   },
   {
    "id": "m16-x3-020",
@@ -750,7 +761,8 @@
    ],
    "rationale": "An infant's heart is more sensitive to volume and pressure overload than an adult's, so children have a greater risk of heart failure, especially with a congenital defect. Tachypnea, tachycardia, and crackles after excess IV fluid indicate fluid overload. The first action is to stop the source of the problem and position the infant to ease breathing, and then notify the provider. Calling the provider is tempting because the situation is serious, but the nurse can stop the infusion immediately and should not let more fluid run while making the call.",
    "takeaway": "Signs of fluid overload during an infusion: stop the fluid and position upright first, then notify the provider.",
-   "alsoTests": []
+   "alsoTests": [],
+   "bestAnswer": true
   },
   {
    "id": "m16-x3-022",
@@ -821,7 +833,8 @@
    "takeaway": "Measure a child's vital signs before painful procedures; if taken during distress, recheck when calm.",
    "alsoTests": [
     "blood-pressure"
-   ]
+   ],
+   "bestAnswer": true
   },
   {
    "id": "m16-x3-024",
@@ -853,7 +866,8 @@
    "takeaway": "In pregnancy, a higher pulse, lower mid-pregnancy BP, and higher WBC are expected; a swollen, painful calf is not.",
    "alsoTests": [
     "hemostasis"
-   ]
+   ],
+   "bestAnswer": true
   },
   {
    "id": "m16-x3-025",
@@ -870,20 +884,21 @@
    "stem": "At a 28-week prenatal visit, a client's hematocrit is 34%; before pregnancy it was 39%. She has no bleeding or other symptoms and asks, \"Does this mean I'm losing blood somewhere?\" Which response by the nurse is most accurate?",
    "options": [
     "\"A falling hematocrit often means bleeding, so you'll need more tests.\"",
-    "\"Drinking less water will help bring your hematocrit back up to normal.\"",
+    "\"This is a normal change in pregnancy, so no changes are needed.\"",
     "\"Your plasma rises more than red cells, so eat more iron-rich foods.\"",
-    "\"You should stop your prenatal vitamins until the level comes back up.\""
+    "\"We'll recheck it at your next visit to see if it keeps dropping.\""
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. A slight drop in hematocrit is expected in pregnancy and, without symptoms, does not suggest bleeding.",
-    "Incorrect. Limiting fluids does not correct the normal dilution and could cause dehydration.",
-    "Correct. Plasma volume increases more than red cell mass, diluting the hematocrit, and extra iron is needed to build the added red cells.",
-    "Incorrect. Prenatal vitamins, including iron, support the increased red cell production and should be continued."
+    "Incorrect. Outside pregnancy a falling hematocrit can mean bleeding, but in an asymptomatic pregnant client a mild drop reflects dilution, not blood loss.",
+    "Incorrect. The drop is expected, but saying no changes are needed misses that her iron needs rise to make the extra red cells.",
+    "Correct. This explains the dilution effect that answers her worry and teaches the extra iron intake she needs to build more red cells, which the other responses leave out.",
+    "Incorrect. Monitoring is reasonable, but this does not answer her question about blood loss or teach her about the iron her body now needs."
    ],
    "rationale": "Blood volume rises 40% to 50% in pregnancy, and both plasma and red cells increase. Because plasma increases more than red cells, the hematocrit drops slightly, which is an expected finding rather than a sign of blood loss. The woman needs more iron in her diet to make the extra red cells. The bleeding explanation is tempting because a falling hematocrit outside pregnancy often means blood loss, but in an asymptomatic pregnant client a mild drop reflects dilution.",
    "takeaway": "A slightly lower hematocrit in pregnancy reflects plasma expansion; teach iron-rich foods.",
-   "alsoTests": []
+   "alsoTests": [],
+   "bestAnswer": true
   },
   {
    "id": "m16-x3-026",
@@ -952,7 +967,8 @@
    "takeaway": "Supine hypotension in late pregnancy: displace the uterus to the left; if she must stay on a board, tilt the board.",
    "alsoTests": [
     "cardiac-output"
-   ]
+   ],
+   "bestAnswer": true
   },
   {
    "id": "m16-x3-028",
@@ -969,20 +985,21 @@
    "stem": "An 86-year-old resident of a long-term care facility who has heart failure and mild dementia has been unusually agitated since morning, pulling at her gown and trying to climb out of bed. Her daughter says, \"This is just her dementia getting worse.\" Which action should the nurse take first?",
    "options": [
     "Ask the provider for a PRN medication to calm the resident",
-    "Explain to the daughter that agitation is a normal part of aging",
+    "Ask the daughter whether this behavior is new for her mother",
     "Reorient the resident and dim the lights to reduce stimulation",
     "Check the resident's vital signs, SpO₂, and skin perfusion"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Sedating the resident could mask a physical cause and worsen poor perfusion or breathing.",
-    "Incorrect. New agitation is not a normal part of aging and may signal a physical problem.",
-    "Incorrect. Calming measures help later, but the cause of the sudden change must be assessed first.",
-    "Correct. In older adults, new agitation or confusion may be the first sign of a cardiac or oxygenation problem, so the nurse assesses perfusion first."
+    "Incorrect. Medication may be needed for safety later, but sedating the resident before finding the cause could mask hypoxia or poor perfusion.",
+    "Incorrect. History from the family is useful, but the staff already know the change began this morning, and a physical assessment for low oxygen or perfusion is more urgent.",
+    "Incorrect. Calming measures are appropriate for dementia-related agitation, but they treat the behavior without checking for a physical cause.",
+    "Correct. A sudden behavior change in an older adult with heart failure may be the first sign of hypoxia or poor brain perfusion. Checking vital signs, SpO₂, and perfusion finds the cause before the behavior is treated."
    ],
    "rationale": "Older adults often present with heart problems atypically: instead of chest pain, the first sign may be mental status changes, agitation, or falls. A sudden change in behavior in a resident with heart failure could reflect low oxygen or poor perfusion to the brain. The nurse assesses vital signs, oxygen saturation, and skin perfusion before treating the behavior. Attributing the change to dementia is tempting because the resident has a known diagnosis, but a new, acute change is never assumed to be the chronic condition.",
    "takeaway": "New confusion, agitation, or falls in an older adult may be the first sign of a heart problem; assess perfusion first.",
-   "alsoTests": []
+   "alsoTests": [],
+   "bestAnswer": true
   },
   {
    "id": "m16-x3-029",
@@ -1037,18 +1054,19 @@
     "The elevated PaCO₂ signals a pathologic problem that needs follow-up",
     "Both the PaO₂ and PaCO₂ are expected results for the client's age",
     "The low PaO₂ is the most concerning result in this report",
-    "The results reflect normal aging of the chest wall and airways"
+    "The HCO₃⁻ shows the kidneys have fully compensated for the acidosis"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. Aging does not raise PaCO₂; an elevated level means the client is not ventilating adequately and needs follow-up.",
     "Incorrect. A slightly lower PaO₂ can be expected with aging, but an elevated PaCO₂ is not.",
     "Incorrect. A PaO₂ slightly below the adult range is expected in older adults; the PaCO₂ is the more significant finding.",
-    "Incorrect. Age-related lung changes explain a slightly lower PaO₂ but never a high PaCO₂."
+    "Incorrect. The HCO₃⁻ is at the top of normal, but the pH is still low, so the acidosis is not compensated; this points to an acute ventilation problem."
    ],
    "rationale": "With aging, chest wall compliance decreases, the anteroposterior diameter increases, residual volume rises, and dependent airways close, so a slightly lower PaO₂ is expected. These changes do not cause carbon dioxide retention, so an elevated PaCO₂ always indicates a pathologic problem such as respiratory failure. With a low pH, this client has an acute ventilation problem that needs prompt follow-up. The low PaO₂ is tempting because low oxygen feels most dangerous, but a mildly reduced PaO₂ is expected for age while the high PaCO₂ is not.",
    "takeaway": "Older adults: a slightly low PaO₂ can be normal aging; an elevated PaCO₂ is always pathology.",
-   "alsoTests": []
+   "alsoTests": [],
+   "bestAnswer": true
   },
   {
    "id": "m16-x3-030",
@@ -1102,23 +1120,24 @@
    "hintStrategy": "Before giving a scheduled drug, check whether today's assessment makes it unsafe; holding it and assessing comes before giving or documenting.",
    "stem": "An 88-year-old client admitted with pneumonia has a scheduled dose of metoprolol due. The heart rate was 76/min on admission. The telemetry monitor now shows a heart rate of 44/min with dropped beats, and the client says, \"I feel woozy.\" Which action should the nurse take first?",
    "options": [
-    "Give the metoprolol as scheduled and recheck the heart rate in 1 hour",
+    "Notify the provider of the new heart rate and rhythm",
     "Document the rhythm as an expected result of an aging AV node",
     "Hold the metoprolol and assess BP and level of consciousness",
-    "Help the client walk in the room to increase the heart rate"
+    "Obtain a 12-lead ECG to identify the type of AV block"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Metoprolol slows the heart rate and AV conduction and would worsen this bradycardia.",
-    "Incorrect. Fibrosis of the AV node makes block more likely with age, but a new symptomatic slow rhythm is not 'expected' and needs action.",
-    "Correct. The nurse withholds the drug that slows conduction and assesses whether the slow rate is reducing perfusion, then reports.",
-    "Incorrect. Walking a dizzy client with a heart rate of 44 risks a fall and does not treat the cause."
+    "Incorrect. The provider must be notified, but the nurse should first hold the drug and gather BP and mental status data to report a complete picture.",
+    "Incorrect. AV node fibrosis is common with aging, but a new, symptomatic change from baseline is never assumed to be normal aging.",
+    "Correct. Holding the beta blocker prevents further slowing of the rate and AV conduction, and checking BP and consciousness shows how well the client is perfusing before the provider is called.",
+    "Incorrect. A 12-lead ECG helps classify the block, but it does not protect the client from the next dose or show whether perfusion is adequate right now."
    ],
    "rationale": "With aging, the AV node develops fibrosis, which makes AV block more likely, and the stress of an illness such as pneumonia can trigger conduction problems. A new heart rate of 44 with dropped beats and dizziness is a symptomatic change from baseline. The nurse holds the beta blocker, which would further slow the rate and AV conduction, and assesses BP and mental status to judge perfusion before notifying the provider. Documenting the rhythm as normal aging is tempting because AV node changes are expected with age, but a new, symptomatic change is never 'just aging.'",
    "takeaway": "AV node fibrosis makes heart block more likely in older adults, especially during illness; hold rate-slowing drugs and assess perfusion.",
    "alsoTests": [
     "conduction-system"
-   ]
+   ],
+   "bestAnswer": true
   },
   {
    "id": "m16-x3-032",
@@ -1148,7 +1167,8 @@
    ],
    "rationale": "Fatigue, decreased activity, sleep disturbance, and pain are not a normal part of aging, and in older adults they may be the main or only sign of a cardiac problem. Older adults frequently present atypically, without chest pain. A sudden drop in activity in a client with coronary artery disease needs assessment, not reassurance. The response that ties the heart to chest pain is tempting because chest pain is the classic cardiac symptom, but relying on it misses many older adults with heart problems.",
    "takeaway": "New fatigue, decreased activity, or sleep changes in an older adult are not normal aging; investigate them.",
-   "alsoTests": []
+   "alsoTests": [],
+   "bestAnswer": true
   },
   {
    "id": "m16-x3-033",

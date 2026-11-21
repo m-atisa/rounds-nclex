@@ -23,21 +23,22 @@ window.NURSE_DATA.push({
     "“The monitor shows how full your red cells are, but too few cells means too little oxygen reaches your body.”",
     "“The monitor is reading falsely high because your pale, cool fingers are blocking the light from the finger probe.”",
     "“Your lungs are not moving enough air, so carbon dioxide is building up and making you breathe faster.”",
-    "“Your oxygen level is normal, so the shortness of breath is most likely anxiety about the bleeding.”"
+    "“Your heart is racing to make up for the blood loss, and that fast rate is what is making you short of breath.”"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. SpO₂ is the percentage of hemoglobin carrying oxygen. The little hemoglobin present is saturated, but there is too little of it to carry enough oxygen, so the tissues become hypoxic and the heart and lungs speed up to compensate.",
-    "Pallor and poor perfusion can weaken the signal, but nothing here suggests a false reading; the reading is accurate and simply does not measure oxygen-carrying capacity.",
-    "The problem is oxygen carrying, not ventilation. Nothing suggests hypoventilation, and CO₂ retention would slow and depress breathing rather than cause exertional dyspnea with a normal SpO₂.",
-    "Tachycardia and tachypnea with exertional dyspnea are compensatory signs of low oxygen delivery; labeling them anxiety misses tissue hypoxia."
+    "Incorrect. Pallor and poor perfusion can weaken the probe signal, but nothing here suggests a false reading; the reading is accurate and simply does not measure oxygen-carrying capacity.",
+    "Incorrect. Fast breathing is a real finding, but nothing suggests hypoventilation; rapid breathing blows off CO₂ rather than retaining it. The problem is too little hemoglobin to carry oxygen, not airflow.",
+    "Incorrect. The tachycardia is real compensation for the low hemoglobin, but it is a result, not the cause, of the breathlessness, and it does not explain why the SpO₂ looks normal."
    ],
    "rationale": "Oxygen delivery needs ventilated alveoli, perfused capillaries, and enough hemoglobin to carry the oxygen. Pulse oximetry reports only the percentage of hemoglobin that is saturated, so a severely anemic client can read 98% while the total oxygen delivered is low. The tachycardia, tachypnea, and fatigue are the body’s compensation for tissue hypoxia — the nurse must treat the client, not the number.",
    "takeaway": "A normal SpO₂ does not rule out hypoxia when hemoglobin is low — the “trucks” are full but too few.",
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
    "hintContent": "Connect what a pulse oximeter actually measures with the role of hemoglobin in carrying oxygen and the body’s compensatory signs of hypoxia.",
-   "hintStrategy": "Ask what the SpO₂ number can and cannot tell you, then match that to the lab value that is abnormal."
+   "hintStrategy": "Ask what the SpO₂ number can and cannot tell you, then match that to the lab value that is abnormal.",
+   "bestAnswer": true
   },
   {
    "id": "m15c-002",
@@ -60,17 +61,18 @@ window.NURSE_DATA.push({
    ],
    "answer": 1,
    "optionRationales": [
-    "Atelectasis is an airflow problem that typically produces diminished breath sounds or crackles in the bases, not clear lungs.",
+    "Incorrect. Atelectasis is an airflow problem that typically produces diminished breath sounds or crackles in the bases, not clear lungs.",
     "Correct. Clear, equal breath sounds and symmetric expansion show that air is reaching the alveoli. Sudden hypoxemia after surgery and immobility points to a perfusion problem, such as a clot blocking pulmonary blood flow.",
-    "A pneumothorax causes decreased or absent breath sounds and asymmetric chest movement on the affected side; this client’s findings are symmetric.",
-    "Fluid-filled alveoli (pulmonary edema or pneumonia) produce crackles, which are absent here."
+    "Incorrect. A pneumothorax causes decreased or absent breath sounds and asymmetric chest movement on the affected side; this client’s findings are symmetric.",
+    "Incorrect. Fluid-filled alveoli (pulmonary edema or pneumonia) produce crackles, which are absent here."
    ],
    "rationale": "V/Q mismatch can come from blocked airflow (sputum, atelectasis, fluid) or blocked blood flow (clots). The assessment sorts them: airflow problems and pneumothorax change what you hear and see over the chest, whereas a perfusion problem leaves the lungs clear and the chest symmetric. Sudden hypoxemia with clear lungs in a postoperative, immobile client points to blood flow — act immediately and notify the provider.",
    "takeaway": "Sudden hypoxemia with clear, symmetric lungs = think perfusion (a clot), not airway.",
    "cjmm": "Prioritize Hypotheses",
    "focus": "Pathophysiology",
    "hintContent": "Link the two sides of V/Q mismatch to the chest findings each one produces, and recall how a pneumothorax changes breath sounds and chest movement.",
-   "hintStrategy": "Use the normal chest findings to rule out every option that would change breath sounds or symmetry."
+   "hintStrategy": "Use the normal chest findings to rule out every option that would change breath sounds or symmetry.",
+   "bestAnswer": true
   },
   {
    "id": "m15c-003",
@@ -93,17 +95,18 @@ window.NURSE_DATA.push({
    ],
    "answer": 2,
    "optionRationales": [
-    "The pH and PaCO₂ are normal, so there is no respiratory acidosis.",
-    "A normal pH and PaCO₂ describe acid–base balance only; the low PaO₂ and SaO₂ show that oxygenation is impaired.",
+    "Incorrect. The pH and PaCO₂ are normal, so there is no respiratory acidosis.",
+    "Incorrect. A normal pH and PaCO₂ describe acid–base balance only; the low PaO₂ and SaO₂ show that oxygenation is impaired.",
     "Correct. PaO₂ 58 and SaO₂ 89% are low — hypoxemia. Pneumonia fills alveoli with exudate, so blood passes alveoli without fresh air (a ventilation-side V/Q mismatch). Irritability and fatigue are early signs that the tissues, especially the brain, are becoming hypoxic.",
-    "Hypocarbia means PaCO₂ below 35 mm Hg; this PaCO₂ of 36 is normal."
+    "Incorrect. Hypocarbia means PaCO₂ below 35 mm Hg; this PaCO₂ of 36 is normal."
    ],
    "rationale": "An ABG answers two questions: acid–base (pH, PaCO₂, HCO₃⁻ — all normal here) and oxygenation (PaO₂, SaO₂ — both low). Consolidation in pneumonia blocks airflow into the alveoli, producing hypoxemia. Untreated hypoxemia progresses to hypoxia, and the earliest clues are behavioral — irritability, fatigue, restlessness.",
    "takeaway": "Normal pH and CO₂ do not mean normal oxygenation — always read the PaO₂ and SaO₂ too.",
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
    "hintContent": "Separate the acid–base values from the oxygenation values, then connect consolidation to the type of V/Q problem and the early signs of hypoxia.",
-   "hintStrategy": "Check each value against its normal range before choosing a label; reject any option whose label contradicts a normal value."
+   "hintStrategy": "Check each value against its normal range before choosing a label; reject any option whose label contradicts a normal value.",
+   "bestAnswer": true
   },
   {
    "id": "m15c-004",
@@ -126,9 +129,9 @@ window.NURSE_DATA.push({
    ],
    "answer": 3,
    "optionRationales": [
-    "Noninvasive oxygen cannot reach the alveoli through an obstructed airway; more flow does not fix the obstruction.",
-    "Naloxone may be considered later if opioid-induced hypoventilation persists, but the snoring and retractions show a mechanical obstruction that must be opened first.",
-    "A different device still depends on a patent airway; changing the mask delays opening it.",
+    "Incorrect. Noninvasive oxygen cannot reach the alveoli through an obstructed airway; more flow does not fix the obstruction.",
+    "Incorrect. Naloxone may be considered later if opioid-induced hypoventilation persists, but the snoring and retractions show a mechanical obstruction that must be opened first.",
+    "Incorrect. A different device still depends on a patent airway; changing the mask delays opening it.",
     "Correct. Snoring respirations, retractions, and little chest rise in a drowsy client mean the relaxed tongue is obstructing the upper airway. Opening the airway (head-tilt/chin-lift or jaw thrust) comes first; then breathing and SpO₂ are reassessed."
    ],
    "rationale": "Gas exchange requires air to reach the alveoli. The assessment cues (snoring, suprasternal retractions, minimal chest rise) point to upper airway obstruction, and the oxygen-therapy principle that noninvasive devices require a patent airway explains why increasing oxygen or changing the device will not help. Airway comes first.",
@@ -136,7 +139,8 @@ window.NURSE_DATA.push({
    "cjmm": "Take Action",
    "focus": "Prioritization",
    "hintContent": "Link the sounds and chest movement you observe to where the problem is, and recall what noninvasive oxygen devices need in order to work.",
-   "hintStrategy": "Apply airway-breathing-circulation: find the option that removes the cause rather than one that adds more oxygen above it."
+   "hintStrategy": "Apply airway-breathing-circulation: find the option that removes the cause rather than one that adds more oxygen above it.",
+   "bestAnswer": true
   },
   {
    "id": "m15c-005",
@@ -160,16 +164,17 @@ window.NURSE_DATA.push({
    "answer": 0,
    "optionRationales": [
     "Correct. A clot blocks blood flow through the capillaries; the alveoli are ventilated (clear lungs) but little blood arrives to pick up oxygen — a perfusion problem.",
-    "Pneumonia fills alveoli with exudate, blocking airflow into them — a ventilation problem.",
-    "Atelectasis means collapsed alveoli with no air in them — a ventilation problem, usually from shallow breathing or an obstructed airway.",
-    "A mucus plug blocks airflow to the alveoli beyond it — a ventilation (airway patency) problem that can lead to atelectasis."
+    "Incorrect. Pneumonia fills alveoli with exudate, blocking airflow into them — a ventilation problem.",
+    "Incorrect. Atelectasis means collapsed alveoli with no air in them — a ventilation problem, usually from shallow breathing or an obstructed airway.",
+    "Incorrect. A mucus plug blocks airflow to the alveoli beyond it — a ventilation (airway patency) problem that can lead to atelectasis."
    ],
    "rationale": "The slides list two causes of V/Q mismatch: airflow into the alveolus blocked (sputum, inflammation, atelectasis, fluid) and blood flow through the capillary blocked (clots, plaque, emphysematous alveoli). Pneumonia, atelectasis, and mucus plugs are all airflow problems that the nurse treats with airway clearance; a clot is a perfusion problem, and the clear lungs are the clue.",
    "takeaway": "Sputum, fluid, atelectasis = airflow blocked; clots = blood flow blocked.",
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
    "hintContent": "Place each disease process on one side of the V/Q relationship: is air failing to reach the alveolus, or is blood failing to reach it?",
-   "hintStrategy": "Three options share a common mechanism; find the one that works differently."
+   "hintStrategy": "Three options share a common mechanism; find the one that works differently.",
+   "bestAnswer": true
   },
   {
    "id": "m15c-007",
@@ -246,24 +251,25 @@ window.NURSE_DATA.push({
    },
    "stem": "The nurse is caring for a client who had an open cholecystectomy 2 days ago. Refer to the Nurses’ Notes, Vital Signs, and Laboratory Results. Which action should the nurse take first to address the client’s condition?",
    "options": [
-    "Obtain a chest tube insertion tray for the bedside",
+    "Notify the provider of the findings and request a chest x-ray",
     "Give the prescribed analgesic, then coach incentive spirometry",
-    "Place the client flat supine to reduce tension on the incision",
-    "Assist the client to walk the full length of the hallway right away"
+    "Splint the incision with a pillow and coach deep breathing and coughing",
+    "Assist the client to walk in the hallway right away to expand the lungs"
    ],
    "answer": 1,
    "optionRationales": [
-    "Findings are bilateral with symmetric expansion — not a pneumothorax — so a chest tube is not indicated.",
-    "Correct. Pain → shallow, splinted breathing → low IS volumes and diminished bases → atelectasis with falling SpO₂ and a low-grade temperature. Treating the pain first lets the client breathe deeply and use the incentive spirometer to re-expand the alveoli.",
-    "Lying flat pushes the abdominal contents against the diaphragm and worsens lung expansion; the client needs the head of the bed raised.",
-    "Walking helps re-expand the lungs, but a client in 7/10 pain who declined walking this morning is unlikely to ambulate effectively until the pain is treated."
+    "Incorrect. The provider may need an update, but the cause is clear and within nursing scope; an x-ray does not re-expand the alveoli, and waiting delays the pain relief the client needs now.",
+    "Correct. Pain → shallow, splinted breathing → low IS volumes and diminished bases → atelectasis with falling SpO₂. Treating the pain first lets the client breathe deeply, use the spirometer, cough, and walk; splinting or walking alone fails while pain is 7/10.",
+    "Incorrect. Splinted deep breathing and coughing help, but with 7/10 pain and no analgesic for 7 hours the client cannot take the deep breaths needed; pain must be treated first.",
+    "Incorrect. Walking helps re-expand the lungs, but a client in 7/10 pain who declined walking this morning is unlikely to ambulate effectively until the pain is treated."
    ],
    "rationale": "The cues connect in a chain: incisional pain with no analgesic for 7 hours leads to shallow, splinted breathing; shallow breathing leads to collapsed alveoli (atelectasis); collapsed alveoli create an airflow-side V/Q mismatch, so SpO₂ falls to 89% and HR and RR rise. The fix addresses the cause first — analgesia — so the client can take deep breaths, use the IS, cough, and walk.",
    "takeaway": "Post-op atelectasis: treat the pain first, then expand the lungs.",
    "cjmm": "Take Action",
    "focus": "Prioritization",
    "hintContent": "Connect the pain, the breathing pattern, the IS volume, and the breath sounds into one cause-and-effect chain that ends in a low SpO₂.",
-   "hintStrategy": "Identify what is driving the problem, then choose the action that removes that driver so the other interventions can work."
+   "hintStrategy": "Identify what is driving the problem, then choose the action that removes that driver so the other interventions can work.",
+   "bestAnswer": true
   },
   {
    "id": "m15c-008",
@@ -325,17 +331,18 @@ window.NURSE_DATA.push({
    ],
    "answer": 2,
    "optionRationales": [
-    "Stridor is high-pitched and inspiratory, from upper airway narrowing, and does not change with coughing.",
-    "Wheezes are high-pitched and musical, and coughing is not harmful; the sound described is low-pitched and clears with coughing.",
+    "Incorrect. Stridor is high-pitched and inspiratory, from upper airway narrowing, and does not change with coughing.",
+    "Incorrect. Wheezes are high-pitched and musical, and coughing is not harmful; the sound described is low-pitched and clears with coughing.",
     "Correct. Low-pitched snoring sounds over the large airways that change with coughing are rhonchi from secretions. Chronic bronchitis produces excess mucus, so the nurse promotes secretion clearance with coughing and deep breathing.",
-    "A friction rub is a localized grating sound on both inspiration and expiration that does not change with coughing."
+    "Incorrect. A friction rub is a localized grating sound on both inspiration and expiration that does not change with coughing."
    ],
    "rationale": "Chronic bronchitis inflames the airways and increases mucus. Mucus in the large airways produces rhonchi — low-pitched, snoring sounds that shift when the client coughs because the secretions move. Recognizing the sound tells the nurse the intervention: independent airway-clearance measures such as coughing, deep breathing, and hydration.",
    "takeaway": "Rhonchi = secretions in large airways; they change with coughing, so help the client clear them.",
    "cjmm": "Analyze Cues",
    "focus": "Assessment Findings",
    "hintContent": "Match the pitch, location, timing, and response to coughing with the adventitious sound, then link that sound to the disease and the intervention it calls for.",
-   "hintStrategy": "Both halves of the correct option must be right — eliminate any option whose sound or action does not fit."
+   "hintStrategy": "Both halves of the correct option must be right — eliminate any option whose sound or action does not fit.",
+   "bestAnswer": true
   },
   {
    "id": "m15c-014",
@@ -398,9 +405,9 @@ window.NURSE_DATA.push({
    ],
    "answer": 3,
    "optionRationales": [
-    "A sedative can depress breathing and mask the warning signs of hypoxia; the cause of the new behavior must be assessed first.",
-    "Emotional support is reasonable later, but new restlessness with tachycardia and tachypnea may be hypoxia and needs assessment now.",
-    "Reducing stimulation does not address a possible oxygenation problem and delays assessment.",
+    "Incorrect. A sedative can depress breathing and mask the warning signs of hypoxia; the cause of the new behavior must be assessed first.",
+    "Incorrect. Emotional support is reasonable later, but new restlessness with tachycardia and tachypnea may be hypoxia and needs assessment now.",
+    "Incorrect. Reducing stimulation does not address a possible oxygenation problem and delays assessment.",
     "Correct. New restlessness and irritability with a fast heart rate and fast breathing are early signs of hypoxia. The nurse checks SpO₂ and lung sounds before a sedative that could slow breathing (hypoventilation) and hide the problem."
    ],
    "rationale": "The brain has little oxygen reserve, so early hypoxia shows up as restlessness, irritability, and anxiety, with compensatory tachycardia and tachypnea. A post-op client is at risk for atelectasis and other causes of hypoxemia. Giving a sedative first could cause hypoventilation and CO₂ retention while masking the cues. Assess oxygenation first.",
@@ -408,7 +415,8 @@ window.NURSE_DATA.push({
    "cjmm": "Take Action",
    "focus": "Prioritization",
    "hintContent": "Connect the early signs of hypoxia with what a sedative does to respiratory rate and depth.",
-   "hintStrategy": "Before treating a symptom, ask whether it could be a sign of a physiological problem — assessment comes before intervention."
+   "hintStrategy": "Before treating a symptom, ask whether it could be a sign of a physiological problem — assessment comes before intervention.",
+   "bestAnswer": true
   },
   {
    "id": "m15c-016",
@@ -431,16 +439,17 @@ window.NURSE_DATA.push({
    "answer": 0,
    "optionRationales": [
     "Correct. Shallow, irregular breaths with unpredictable apnea are Biot respirations, seen in CNS disorders. Together with a falling GCS, the change signals a worsening brain injury that requires immediate provider notification.",
-    "Cheyne-Stokes is a regular crescendo–decrescendo cycle followed by apnea, and a change in pattern with a falling GCS is never simply expected.",
-    "Kussmaul breathing is deep, rapid, and regular; this pattern is shallow and irregular.",
-    "Hyperventilation is rapid and deep; this pattern includes apnea and occurs with declining consciousness, not pain."
+    "Incorrect. Cheyne-Stokes is a regular crescendo–decrescendo cycle followed by apnea, and a change in pattern with a falling GCS is never simply expected.",
+    "Incorrect. Kussmaul breathing is deep, rapid, and regular; this pattern is shallow and irregular.",
+    "Incorrect. Hyperventilation is rapid and deep; this pattern includes apnea and occurs with declining consciousness, not pain."
    ],
    "rationale": "Identifying the pattern (shallow, chaotic, unpredictable apnea = Biot) and linking it to its cause (CNS disorder) makes sense of the falling GCS — both cues point to deterioration of the brain. Alterations in breathing patterns should be addressed immediately, so the nurse notifies the provider now rather than documenting or treating an unrelated cause.",
    "takeaway": "New Biot breathing plus a falling GCS = the brain is getting worse; notify the provider immediately.",
    "cjmm": "Prioritize Hypotheses",
    "focus": "Assessment Findings",
    "hintContent": "Compare the rate, depth, and rhythm of Kussmaul, Cheyne-Stokes, and Biot patterns, and link a change in level of consciousness to the pattern.",
-   "hintStrategy": "Name the pattern first from its rhythm, then check whether the action in each option fits the pattern’s cause."
+   "hintStrategy": "Name the pattern first from its rhythm, then check whether the action in each option fits the pattern’s cause.",
+   "bestAnswer": true
   },
   {
    "id": "m15c-017",
@@ -538,17 +547,18 @@ window.NURSE_DATA.push({
    ],
    "answer": 1,
    "optionRationales": [
-    "Low pH with low HCO₃⁻ is metabolic acidosis; the deep, rapid, regular breathing is Kussmaul respirations — the lungs blowing off CO₂ to compensate.",
+    "Incorrect. Low pH with low HCO₃⁻ is metabolic acidosis; the deep, rapid, regular breathing is Kussmaul respirations — the lungs blowing off CO₂ to compensate.",
     "Correct. Shallow breathing with irregular, unpredictable apnea in a CNS disorder (meningitis) is Biot respirations.",
-    "A regular crescendo–decrescendo cycle followed by apnea is Cheyne-Stokes respirations, which occur with increased ICP.",
-    "A repeating waxing-and-waning cycle with apnea is Cheyne-Stokes, which can occur with drug overdoses."
+    "Incorrect. A regular crescendo–decrescendo cycle followed by apnea is Cheyne-Stokes respirations, which occur with increased ICP.",
+    "Incorrect. A repeating waxing-and-waning cycle with apnea is Cheyne-Stokes, which can occur with drug overdoses."
    ],
    "rationale": "Each named pattern links to its cause: Kussmaul (deep, rapid, regular) compensates for metabolic acidosis — confirmed by the low pH and low bicarbonate; Cheyne-Stokes (regular crescendo–decrescendo with apnea) occurs in heart failure, increased ICP, and overdoses; Biot (shallow and chaotic with apnea) occurs in CNS disorders.",
    "takeaway": "Kussmaul = acidosis compensation; Cheyne-Stokes = regular wave + pause; Biot = shallow and chaotic with apnea.",
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
    "hintContent": "Connect each breathing pattern’s rhythm to its typical cause, and use the ABG values to recognize the acid–base disorder in one option.",
-   "hintStrategy": "Decide whether each pattern is regular, cyclic, or chaotic before matching it to a name."
+   "hintStrategy": "Decide whether each pattern is regular, cyclic, or chaotic before matching it to a name.",
+   "bestAnswer": true
   },
   {
    "id": "m15c-021",
@@ -564,24 +574,25 @@ window.NURSE_DATA.push({
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
    "stem": "A client with three fractured ribs on the left is taking shallow breaths at 26/min and splinting the chest. The client rates pain 8/10. SpO₂ is 92% on room air, and breath sounds are diminished in the left base. Which action should the nurse take first to improve the client’s breathing pattern?",
    "options": [
-    "Apply a tight elastic binder around the chest to stabilize the fractures",
-    "Keep the client supine on bed rest until the pain is better controlled",
+    "Apply oxygen by nasal cannula and recheck the SpO₂ in 15 minutes",
+    "Coach hourly deep breathing and coughing with a splinting pillow",
     "Give the prescribed analgesic, then coach deep breathing with splinting",
-    "Limit deep breaths so that the fractured ribs are not displaced further"
+    "Raise the head of the bed to high Fowler’s to help lung expansion"
    ],
    "answer": 2,
    "optionRationales": [
-    "Binding the chest restricts expansion and worsens shallow breathing and atelectasis.",
-    "Lying flat and immobile reduces lung expansion and promotes secretion pooling.",
-    "Correct. Pain is driving the shallow breathing, and shallow breathing is collapsing alveoli in the left base. Analgesia allows deep breaths that re-expand the alveoli and improve gas exchange.",
-    "Avoiding deep breaths promotes atelectasis and pneumonia."
+    "Incorrect. Oxygen may raise the SpO₂ number, but it does not change the shallow, splinted breathing that is collapsing the alveoli; the pain driving the pattern must be treated.",
+    "Incorrect. Deep breathing and splinted coughing are the right exercises, but with pain at 8/10 the client cannot breathe deeply; without analgesia first, the coaching will not work.",
+    "Correct. Pain is driving the shallow breathing, and shallow breathing is collapsing alveoli in the left base. Analgesia allows deep breaths that re-expand the alveoli; oxygen, positioning, or coaching alone leaves the cause untreated.",
+    "Incorrect. Upright positioning helps chest expansion, but it does not relieve the pain that keeps the client from breathing deeply, so the breathing pattern stays shallow."
    ],
-   "rationale": "The chain is pain → shallow, splinted breathing → collapsed alveoli (atelectasis) in the base → airflow-side V/Q mismatch → falling SpO₂. Treating pain first enables the independent interventions — deep breathing, splinted coughing, incentive spirometry — that re-open the alveoli. Binding the chest or restricting breaths would worsen the problem.",
+   "rationale": "The chain is pain → shallow, splinted breathing → collapsed alveoli (atelectasis) in the base → airflow-side V/Q mismatch → falling SpO₂. Treating pain first enables the independent interventions — deep breathing, splinted coughing, incentive spirometry — that re-open the alveoli. Oxygen, positioning, or coaching without analgesia helps only partly because it leaves the cause untreated.",
    "takeaway": "Rib fractures: treat the pain so the client can breathe deeply; never bind the chest.",
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "hintContent": "Link pain, the breathing pattern, and diminished breath sounds in the base to the mechanism of atelectasis.",
-   "hintStrategy": "Choose the action that breaks the chain at its start and makes deep breathing possible."
+   "hintStrategy": "Choose the action that breaks the chain at its start and makes deep breathing possible.",
+   "bestAnswer": true
   },
   {
    "id": "m15c-024",
@@ -595,15 +606,15 @@ window.NURSE_DATA.push({
    "stem": "A client who is receiving anticoagulant therapy just had a radial arterial blood gas drawn. The respiratory therapist is called away to an emergency and asks the nurse to finish caring for the puncture site. Which action is the priority?",
    "options": [
     "Hold firm direct pressure for 5 minutes, then apply an adhesive bandage",
-    "Elevate the arm above the heart and apply light pressure for 1 minute",
-    "Apply a warm compress to the site to promote circulation to the hand",
+    "Apply a tight pressure dressing right away, then check the hand",
+    "Check the radial pulse and hand color first, then hold pressure",
     "Hold firm direct pressure for at least 10 minutes, then check the hand"
    ],
    "answer": 3,
    "optionRationales": [
-    "Five minutes of firm pressure is the minimum for a client who is not anticoagulated. On an anticoagulant, the nurse holds pressure for 10 minutes or longer and then checks circulation to the hand.",
-    "Arterial blood is under high pressure; light pressure for 1 minute is not enough, especially with an anticoagulant.",
-    "Warmth dilates vessels and increases bleeding from an arterial puncture.",
+    "Incorrect. Five minutes of firm pressure is the standard minimum, but on an anticoagulant the nurse holds pressure for 10 minutes or longer and then checks circulation to the hand.",
+    "Incorrect. A pressure dressing is used after hemostasis, but it cannot replace manual pressure on a fresh arterial puncture, and a tight dressing can impair circulation to the hand.",
+    "Incorrect. Checking circulation to the hand is needed, but it comes after hemostasis; delaying pressure on an arterial puncture in an anticoagulated client allows bleeding and a hematoma.",
     "Correct. Arterial punctures bleed under high pressure. With an anticoagulant, the nurse holds firm direct pressure for 10 minutes or longer, then checks the site and the hand’s circulation (color, warmth, capillary refill, pulse)."
    ],
    "rationale": "ABGs are drawn from an artery, so bleeding is the main risk afterward. Firm pressure for at least 5 minutes is standard, extended to 10 minutes or more when the client takes an anticoagulant, followed by assessment of the site and circulation to the hand.",
@@ -611,7 +622,8 @@ window.NURSE_DATA.push({
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
    "hintContent": "Consider the pressure inside an artery and how an anticoagulant changes clotting at a puncture site.",
-   "hintStrategy": "Choose the option that controls arterial bleeding for this client's clotting status, then confirms the hand is still perfused."
+   "hintStrategy": "Choose the option that controls arterial bleeding for this client's clotting status, then confirms the hand is still perfused.",
+   "bestAnswer": true
   },
   {
    "id": "m15c-025",
@@ -752,16 +764,17 @@ window.NURSE_DATA.push({
    "answer": 0,
    "optionRationales": [
     "Correct. Inspiratory stridor signals upper airway narrowing from laryngeal swelling after the scope — an airway emergency that can progress to complete obstruction and comes before breathing problems.",
-    "A mild sore throat and hoarseness are expected after a scope has passed through the throat; they are monitored, not treated first.",
-    "Drowsiness that is easily reversed is expected after moderate sedation.",
-    "Small blood streaks are expected after a biopsy."
+    "Incorrect. A mild sore throat and hoarseness are expected after a scope has passed through the throat; they are monitored, not treated first.",
+    "Incorrect. Drowsiness that is easily reversed is expected after moderate sedation.",
+    "Incorrect. Small blood streaks are expected after a biopsy."
    ],
    "rationale": "After bronchoscopy, a sore throat, drowsiness, and blood-streaked sputum are expected, while stridor, new chest pain, tachypnea, and falling SpO₂ are red flags. Here, drowsiness that reverses easily, a mild sore throat, and small blood streaks are expected; stridor is not. Stridor signals laryngeal swelling that can progress to complete obstruction, and it explains the rising RR and falling SpO₂, so the nurse responds to it first by calling for help and supporting the airway.",
    "takeaway": "After bronchoscopy, sore throat, drowsiness, and blood-streaked sputum are expected; stridor is an airway emergency.",
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
    "hintContent": "Sort each finding as expected or unexpected after bronchoscopy, then rank the unexpected ones by airway, breathing, circulation.",
-   "hintStrategy": "Eliminate expected findings first; among the rest, pick the one that threatens the airway."
+   "hintStrategy": "Eliminate expected findings first; among the rest, pick the one that threatens the airway.",
+   "bestAnswer": true
   },
   {
    "id": "m15c-031",
@@ -780,21 +793,22 @@ window.NURSE_DATA.push({
     "Raise the head of the bed and apply a nonrebreather mask",
     "Reduce the oxygen to the prescribed target and notify the provider",
     "Turn off the oxygen until the client is fully awake and alert again",
-    "Allow the client to rest, because the SpO₂ shows adequate oxygenation"
+    "Request an ABG to confirm CO₂ retention before changing the oxygen"
    ],
    "answer": 1,
    "optionRationales": [
-    "More oxygen would raise the CO₂ further in this CO₂ retainer.",
+    "Incorrect. Raising the head of the bed is reasonable, but a nonrebreather delivers even more oxygen and would raise the CO₂ further in this CO₂ retainer.",
     "Correct. Excess oxygen in a client with chronic CO₂ retention can raise the PaCO₂ and cause CO₂ narcosis (new drowsiness). The nurse titrates back to the 88–92% target and notifies the provider, anticipating an ABG.",
-    "Oxygen should never be withheld entirely from a client who needs it; low oxygen kills faster than high CO₂.",
-    "A high SpO₂ says nothing about CO₂; the new drowsiness is a warning sign, not rest."
+    "Incorrect. Reducing the oxygen is the right direction, but stopping it entirely is unsafe in a client who needs it; low oxygen kills faster than high CO₂.",
+    "Incorrect. An ABG is expected, but the cause is clear and the client is worsening; waiting for results before returning to the prescribed target delays correction."
    ],
    "rationale": "Clients with COPD and chronic CO₂ retention are titrated to 88–92%. When oxygen is turned up beyond the target, CO₂ can rise and cause narcosis — drowsiness and slowed breathing — even while SpO₂ looks excellent, because pulse oximetry does not measure CO₂. The fix is to return to the prescribed target (not turn oxygen off), notify the provider, and check an ABG.",
    "takeaway": "COPD client drowsy after an O₂ increase: titrate back to 88–92%, notify, check CO₂ — never just turn it off.",
    "cjmm": "Take Action",
    "focus": "Prioritization",
    "hintContent": "Connect chronic CO₂ retention, the effect of excess oxygen, and what pulse oximetry cannot measure.",
-   "hintStrategy": "Compare the client’s current SpO₂ with the prescribed range and look for the option that both corrects it safely and gets the CO₂ checked."
+   "hintStrategy": "Compare the client’s current SpO₂ with the prescribed range and look for the option that both corrects it safely and gets the CO₂ checked.",
+   "bestAnswer": true
   },
   {
    "id": "m15c-032",
@@ -814,17 +828,18 @@ window.NURSE_DATA.push({
    ],
    "answer": 2,
    "optionRationales": [
-    "Device-related skin injury needs padding and follow-up, but it is not causing the falling SpO₂.",
-    "Petroleum products near oxygen are a fire hazard and must be corrected, but the interrupted oxygen flow is causing a physiologic decline now.",
+    "Incorrect. Device-related skin injury needs padding and follow-up, but it is not causing the falling SpO₂.",
+    "Incorrect. Petroleum products near oxygen are a fire hazard and must be corrected, but the interrupted oxygen flow is causing a physiologic decline now.",
     "Correct. Pinched tubing interrupts oxygen delivery and explains the drop in SpO₂. Freeing it restores the prescribed oxygen immediately.",
-    "Mouth breathing with a nasal cannula is acceptable; oxygen still pools in the nasopharynx and is inhaled."
+    "Incorrect. Mouth breathing with a nasal cannula is acceptable; oxygen still pools in the nasopharynx and is inhaled."
    ],
    "rationale": "On every round the nurse checks the whole system from wall to client. Several findings here need correction, but the priority is the one that explains the client’s physiological decline: pinched tubing stops the prescribed oxygen, and SpO₂ is already falling. The skin and petroleum balm are addressed right after.",
    "takeaway": "When SpO₂ falls on oxygen, trace the system from the wall to the client — fix the delivery problem first.",
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
    "hintContent": "Link each equipment finding to whether it is interrupting oxygen delivery or creating a different risk.",
-   "hintStrategy": "Several findings need action — choose the one that explains the change in the client’s condition."
+   "hintStrategy": "Several findings need action — choose the one that explains the change in the client’s condition.",
+   "bestAnswer": true
   },
   {
    "id": "m15c-036",
@@ -884,9 +899,9 @@ window.NURSE_DATA.push({
    ],
    "answer": 3,
    "optionRationales": [
-    "Abdominal thrusts are not used in infants because the liver is easily injured.",
-    "Blind finger sweeps can push the object deeper and are not recommended.",
-    "CPR begins only if the infant becomes unresponsive; this infant is still conscious.",
+    "Incorrect. Abdominal thrusts are not used in infants because the liver is easily injured.",
+    "Incorrect. Blind finger sweeps can push the object deeper and are not recommended.",
+    "Incorrect. CPR begins only if the infant becomes unresponsive; this infant is still conscious.",
     "Correct. Inability to cry or cough with cyanosis means complete airway obstruction. For a conscious infant, give up to 5 back blows face down with the head lower than the chest, then up to 5 chest thrusts, and repeat."
    ],
    "rationale": "Children have short, narrow airways and a high risk of foreign-body obstruction. Recognizing complete obstruction (no cry, no cough, cyanosis) calls for immediate action, and in infants that means back blows and chest thrusts with the head down — never abdominal thrusts or blind sweeps.",
@@ -894,7 +909,8 @@ window.NURSE_DATA.push({
    "cjmm": "Take Action",
    "focus": "Lifespan & Diversity",
    "hintContent": "Connect the signs of complete airway obstruction with infant anatomy and why some rescue maneuvers are unsafe at this age.",
-   "hintStrategy": "Check the infant’s responsiveness in the stem, then pick the age-appropriate first maneuver."
+   "hintStrategy": "Check the infant’s responsiveness in the stem, then pick the age-appropriate first maneuver.",
+   "bestAnswer": true
   },
   {
    "id": "m15c-038",
@@ -918,16 +934,17 @@ window.NURSE_DATA.push({
    "answer": 0,
    "optionRationales": [
     "Correct. A sudden choking episode while eating, followed by one-sided wheezing and diminished sounds in the right lower lobe, fits an object lodged in the right bronchus, which is shorter, wider, and straighter than the left.",
-    "A viral URI would not cause a sudden onset during eating or localized right-sided findings, and there is no illness history.",
-    "Asthma causes diffuse, bilateral wheezing, not wheezing on one side only.",
-    "Pneumonia would typically include fever and develop over a longer time; the choking episode and afebrile, localized wheeze point to aspiration."
+    "Incorrect. A viral URI would not cause a sudden onset during eating or localized right-sided findings, and there is no illness history.",
+    "Incorrect. Asthma causes diffuse, bilateral wheezing, not wheezing on one side only.",
+    "Incorrect. Pneumonia would typically include fever and develop over a longer time; the choking episode and afebrile, localized wheeze point to aspiration."
    ],
    "rationale": "Anatomy explains the location: the right mainstem bronchus is shorter, wider, and more vertical, so aspirated objects usually go right. Assessment explains the diagnosis: a localized (one-sided) wheeze and diminished sounds suggest a local obstruction, while asthma is diffuse. Young children are at high risk for foreign-body aspiration, and the child needs imaging and removal even though they look stable.",
    "takeaway": "Sudden choking + one-sided wheeze in a toddler = foreign body (usually right side) until proven otherwise.",
    "cjmm": "Prioritize Hypotheses",
    "focus": "Lifespan & Diversity",
    "hintContent": "Link the anatomy of the mainstem bronchi with the difference between localized and diffuse breath-sound findings.",
-   "hintStrategy": "Use the timing of onset and whether the findings are one-sided or diffuse to rule out the other conditions."
+   "hintStrategy": "Use the timing of onset and whether the findings are one-sided or diffuse to rule out the other conditions.",
+   "bestAnswer": true
   },
   {
    "id": "m15c-040",
@@ -991,10 +1008,10 @@ window.NURSE_DATA.push({
    ],
    "answer": 1,
    "optionRationales": [
-    "Incentive spirometry and deep coughing keep the lungs expanded and clear secretions — correct teaching for a weak cough.",
+    "Incorrect. Incentive spirometry and deep coughing keep the lungs expanded and clear secretions — correct teaching for a weak cough.",
     "Correct. Lying down right after eating increases reflux and, with a weak cough reflex, the risk of aspirating stomach contents; the client should stay upright after meals.",
-    "Elevating the head of the bed at night reduces nighttime reflux and aspiration — correct teaching.",
-    "Small bites and not talking while chewing reduce choking and aspiration — correct teaching."
+    "Incorrect. Elevating the head of the bed at night reduces nighttime reflux and aspiration — correct teaching.",
+    "Incorrect. Small bites and not talking while chewing reduce choking and aspiration — correct teaching."
    ],
    "rationale": "Aging brings more GERD and a weaker cough reflex, both of which increase aspiration and pneumonia risk. Teaching combines aspiration precautions (upright during and after meals, head of bed elevated, small bites) with airway clearance (incentive spirometry, enhanced coughing). Lying flat after a meal undoes those precautions.",
    "takeaway": "GERD + weak cough in an older adult: stay upright after meals and keep the lungs clear.",
@@ -1062,10 +1079,10 @@ window.NURSE_DATA.push({
    ],
    "answer": 2,
    "optionRationales": [
-    "A rate of 30–60/min with irregular breathing and brief pauses under 20 seconds is normal for a newborn.",
-    "Acrocyanosis (blue hands and feet, pink trunk) is expected in the first hours after birth.",
+    "Incorrect. A rate of 30–60/min with irregular breathing and brief pauses under 20 seconds is normal for a newborn.",
+    "Incorrect. Acrocyanosis (blue hands and feet, pink trunk) is expected in the first hours after birth.",
     "Correct. Grunting and nasal flaring are signs of respiratory distress and require immediate assessment and intervention.",
-    "Newborns breathe mainly with the diaphragm, so abdominal movement is expected."
+    "Incorrect. Newborns breathe mainly with the diaphragm, so abdominal movement is expected."
    ],
    "rationale": "Newborn norms differ from adult norms: 30–60 breaths/min, irregular rhythm with short pauses, diaphragmatic breathing, and acrocyanosis are all expected. Grunting and nasal flaring signal increased work of breathing — the infant is struggling to keep alveoli open — and require immediate follow-up.",
    "takeaway": "Newborn: irregular 30–60/min, belly breathing, and acrocyanosis are normal; grunting and flaring are distress.",
@@ -1177,9 +1194,9 @@ window.NURSE_DATA.push({
    ],
    "answer": 3,
    "optionRationales": [
-    "New confusion with tachycardia, tachypnea, hypoxemia, and localized crackles points to an acute infection, not dementia.",
-    "A pulmonary embolism typically leaves the lungs clear; localized crackles that do not clear point to consolidation.",
-    "Expected aging findings do not include new confusion, hypoxemia, or localized crackles that persist after coughing.",
+    "Incorrect. New confusion with tachycardia, tachypnea, hypoxemia, and localized crackles points to an acute infection, not dementia.",
+    "Incorrect. A pulmonary embolism typically leaves the lungs clear; localized crackles that do not clear point to consolidation.",
+    "Incorrect. Expected aging findings do not include new confusion, hypoxemia, or localized crackles that persist after coughing.",
     "Correct. GERD and a weak cough increase aspiration risk; the right bronchus is shorter and straighter, so aspirated material often reaches the right lower lobe. New confusion without fever is a typical older-adult presentation of pneumonia."
    ],
    "rationale": "Several pieces connect: aging increases GERD and weakens the cough reflex (aspiration risk); anatomy sends aspirated material to the right lower lobe; pneumonia consolidates alveoli, causing localized crackles and hypoxemia; and older adults often show confusion, anorexia, tachycardia, and tachypnea rather than fever.",
@@ -1187,7 +1204,8 @@ window.NURSE_DATA.push({
    "cjmm": "Prioritize Hypotheses",
    "focus": "Pathophysiology",
    "hintContent": "Link the aspiration risk factors of aging, the anatomy of the right bronchus, and the atypical presentation of pneumonia in older adults.",
-   "hintStrategy": "Test each conclusion against the localized lung findings and the history of choking."
+   "hintStrategy": "Test each conclusion against the localized lung findings and the history of choking.",
+   "bestAnswer": true
   },
   {
    "id": "m15c-047",
@@ -1211,16 +1229,17 @@ window.NURSE_DATA.push({
    "answer": 0,
    "optionRationales": [
     "Correct. A water rinse limits contamination without killing organisms, deep breaths strengthen a weak cough to bring up lower-airway sputum, and collecting before the first dose keeps the culture accurate — then the antibiotic is given without delay.",
-    "Antiseptic mouthwash can kill organisms and distort the culture.",
-    "Early-morning specimens are preferred, but antibiotics given first can prevent the organism from growing; the specimen is collected before the first dose.",
-    "Saliva does not reflect the organism in the lungs; the client needs coaching to cough deeply."
+    "Incorrect. Antiseptic mouthwash can kill organisms and distort the culture.",
+    "Incorrect. Early-morning specimens are preferred, but antibiotics given first can prevent the organism from growing; the specimen is collected before the first dose.",
+    "Incorrect. Saliva does not reflect the organism in the lungs; the client needs coaching to cough deeply."
    ],
    "rationale": "The culture identifies the organism, so the specimen must come from the lungs and be collected before antibiotics. An older adult’s weak cough is overcome with coaching (deep breaths, then a deep cough) rather than by accepting saliva. Pneumonia care then requires the first antibiotic dose promptly.",
    "takeaway": "Specimen before antibiotic — but never delay the antibiotic; coach a weak cough, don’t accept saliva.",
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "hintContent": "Connect how a sputum culture is kept accurate with the older adult’s weak cough and the timing of the first antibiotic dose.",
-   "hintStrategy": "Check each option for three things: specimen source, what could spoil the culture, and whether treatment is delayed."
+   "hintStrategy": "Check each option for three things: specimen source, what could spoil the culture, and whether treatment is delayed.",
+   "bestAnswer": true
   },
   {
    "id": "m15c-048",
@@ -1280,22 +1299,23 @@ window.NURSE_DATA.push({
    "options": [
     "Increase the oxygen to 4 L/min and recheck the SpO₂ in 15 minutes",
     "Suction the mouth and pharynx with a Yankauer catheter, then reassess",
-    "Offer small sips of water to help the client clear the throat",
+    "Coach the client to cough forcefully to clear the secretions",
     "Notify the provider to request a repeat portable chest x-ray this morning"
    ],
    "answer": 1,
    "optionRationales": [
-    "Oxygen cannot reach the alveoli effectively through an airway filled with secretions; the airway must be cleared first.",
+    "Incorrect. More oxygen seems logical for an SpO₂ of 87%, but secretions pooled in the airway keep oxygen from reaching the alveoli; the airway must be cleared first, then oxygen adjusted if still needed.",
     "Correct. Gurgling and pooled secretions with a weak cough mean the client cannot clear the airway. Oropharyngeal suction opens the airway so oxygen can work and reduces further aspiration; the nurse then reassesses SpO₂ and breathing.",
-    "Oral fluids in a drowsy client with pooled secretions and a weak cough increase aspiration risk.",
-    "Imaging may be needed later, but the airway problem requires action now."
+    "Incorrect. Coughing is the body’s own airway clearance, but this drowsy client has a weak cough that is not clearing the pooled secretions; suction is needed now.",
+    "Incorrect. A falling SpO₂ in pneumonia may warrant provider follow-up and imaging, but a chest x-ray does not clear the secretions blocking the airway now."
    ],
    "rationale": "Older adults have a decreased gag and cough reflex and often need suctioning. Noninvasive oxygen requires a patent airway, so increasing the flow does not help while secretions block it. Clearing the airway first, then reassessing, addresses both the hypoxemia and the risk of further aspiration.",
    "takeaway": "Gurgling with pooled secretions and a weak cough: suction first, then reassess oxygenation.",
    "cjmm": "Take Action",
    "focus": "Prioritization",
    "hintContent": "Link the older adult’s weak cough reflex, the sound of gurgling, and what an oxygen device needs in order to work.",
-   "hintStrategy": "Apply airway first: choose the action that removes the obstruction before adding more oxygen."
+   "hintStrategy": "Apply airway first: choose the action that removes the obstruction before adding more oxygen.",
+   "bestAnswer": true
   },
   {
    "id": "m15c-050",

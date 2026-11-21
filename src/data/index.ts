@@ -109,8 +109,8 @@ export interface Unit {
 const ALL_UNITS: Unit[] = [
   {
     slug: 'unit-7',
-    label: 'Unit 7',
-    title: 'Ethics, Legalities in Nursing',
+    label: 'Ethics & Law',
+    title: 'Ethics & Law',
     eyebrow: 'Unit 7 · Modules 42, 44 & 49',
     overview:
       'Accountability and competence, ethics and morality, ethical dilemmas and patient rights, and the law: torts and malpractice, nurse practice acts and licensure, advance directives, HIPAA privacy, and mandatory reporting — taught from your Unit 7 slides and handouts, with North Carolina practice notes.',
@@ -120,9 +120,9 @@ const ALL_UNITS: Unit[] = [
   },
   {
     slug: 'professional',
-    label: 'Professional Nursing',
-    title: 'Professional Nursing Concepts',
-    eyebrow: 'Modules 37, 39, 43, 45–47 & 50',
+    label: 'Leadership & Quality',
+    title: 'Leadership & Quality',
+    eyebrow: 'Professional Nursing · Modules 37, 39, 43, 45–47 & 50',
     overview:
       'Collaboration, managing care, advocacy, evidence-based practice, healthcare systems, health policy, and quality improvement — the judgment behind delegation, prioritization, advocacy, and safe systems, with North Carolina practice notes.',
     color: 'var(--brand)',
@@ -131,8 +131,8 @@ const ALL_UNITS: Unit[] = [
   },
   {
     slug: 'unit-6',
-    label: 'Unit 6',
-    title: UNIT_6.title,
+    label: 'Health & Communication',
+    title: 'Health & Communication',
     eyebrow: 'Unit 6 · Modules 7, 23, 29, 38 & 41',
     overview: UNIT_6.overview,
     color: 'var(--brand)',
@@ -140,9 +140,9 @@ const ALL_UNITS: Unit[] = [
   },
   {
     slug: 'core',
-    label: 'Core concepts',
-    title: 'Physiological Concepts',
-    eyebrow: 'Modules 5, 6, 10, 15, 16 & 21',
+    label: 'Physiology & Body Systems',
+    title: 'Physiology & Body Systems',
+    eyebrow: 'Physiological Concepts · Modules 5, 6, 10, 15, 16 & 21',
     overview: 'Elimination, fluids and electrolytes, inflammation, oxygenation, perfusion, and tissue integrity — the physiology behind priority-setting at the bedside.',
     color: 'var(--brand)',
     moduleIds: ['m5', 'm6', 'm10', 'm15', 'm16', 'm21'],

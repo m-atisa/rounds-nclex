@@ -10,19 +10,19 @@
    "priority": true,
    "stem": "A nursing student is caring for a 68-year-old client who had a hip replacement yesterday. The client has not voided in 8 hours, reports lower abdominal discomfort, and a bladder scan shows 650 mL. The provider orders a straight catheterization. The staff nurse asks the student to do it, but the student has not yet been checked off on this skill and the clinical instructor is in a meeting off the unit. Which action should the student take?",
    "options": [
-    "Perform the catheterization carefully, following the agency procedure manual.",
+    "Page her instructor and ask permission to perform it herself.",
     "Tell the staff nurse she has not learned it and ask her to perform it.",
-    "Ask a classmate who has done a catheterization to coach her through it.",
+    "Rescan the bladder to confirm the volume before doing anything.",
     "Wait for the instructor to return, then perform it with supervision."
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. A manual does not make a student competent; performing a skill she has not learned is practice outside her preparation.",
+    "Incorrect. Contacting the instructor is reasonable, but phone permission does not make her competent in a skill she has not learned, and reaching the instructor may delay care.",
     "Correct. The student speaks up before acting, and a licensed nurse who is competent does the procedure so the client is not harmed or delayed.",
-    "Incorrect. Another student is not a qualified supervisor and cannot make the procedure safe for the client.",
+    "Incorrect. Assessing before acting is often right, but 650 mL with discomfort already confirms retention, and rescanning only delays relief.",
     "Incorrect. The client has 650 mL of retained urine and discomfort; waiting an unknown time delays needed care when a staff nurse is available."
    ],
-   "rationale": "Students are accountable to perform only the skills they have learned and to seek help before trying an unfamiliar procedure. When the instructor is not available, the safe plan is to let the staff nurse perform the skill while the student observes. Waiting for the instructor is tempting because it sounds cautious, but this client has urinary retention with discomfort, so a long delay is its own risk. Acting alone or with a classmate puts the client at risk and does not meet the standard of care, which for a student is the same as for an RN.",
+   "rationale": "Students are accountable to perform only the skills they have learned and to seek help before trying an unfamiliar procedure. When the instructor is not available, the safe plan is to let the staff nurse perform the skill while the student observes. Waiting for the instructor or calling for permission is tempting because it sounds cautious, but this client has urinary retention with discomfort, so a delay is its own risk, and permission does not create competence. The bladder scan already confirms retention, so rescanning adds nothing. Students are held to the same standard of care as an RN.",
    "takeaway": "If a skill is new and the instructor is unavailable, the student does not do it; the staff nurse performs it.",
    "hintContent": "Think about who on the unit is both available now and competent to do this procedure.",
    "hintStrategy": "When a student faces an unlearned skill, eliminate any option where the student performs it without a qualified supervisor, then weigh delay against client need.",
@@ -31,7 +31,8 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "bestAnswer": true
   },
   {
    "id": "m49-lr-002",
@@ -40,19 +41,19 @@
    "priority": true,
    "stem": "A student nurse is assigned to a 74-year-old client with heart failure. At 0800 she is about to give the scheduled digoxin and realizes she does not know why the client takes it or what to check before giving it. The client’s apical pulse, counted a few minutes ago, is 56/min. What should the student do first?",
    "options": [
-    "Give the dose, because the instructor approved her medication plan yesterday.",
-    "Ask the client what the pill is for and give it if he takes it daily.",
+    "Hold the dose and document the slow apical pulse as the reason.",
+    "Recount the apical pulse for one full minute, then give the dose.",
     "Stop, look up the drug, and review it and the pulse with her instructor.",
     "Ask the staff nurse to give it so that the dose is not late."
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Yesterday’s plan does not replace knowing the drug today, and a pulse of 56/min may be a reason to hold digoxin.",
-    "Incorrect. The client’s routine does not tell the student whether today’s pulse makes the dose unsafe.",
+    "Incorrect. Holding is likely needed with a pulse under 60/min, but she cannot make that call alone on a drug she does not know, and the finding must be reported to her instructor.",
+    "Incorrect. Rechecking the pulse is a sound step for digoxin, but she still does not know the drug, and a pulse under 60/min is not a reason to give it.",
     "Correct. The student must understand each medication before giving it, and a slow pulse with digoxin needs her instructor’s input before any dose.",
     "Incorrect. Handing off the dose avoids the problem but skips the student’s duty to recognize and report a finding that may change the plan."
    ],
-   "rationale": "Students are accountable to be prepared: they must know each client’s condition, medications, and planned interventions before giving care. Digoxin slows the heart rate, so an apical pulse below 60/min is a cue that the dose may need to be held and the prescriber or nurse consulted. Asking the staff nurse to give the drug is tempting because it seems to keep the client on schedule, but it hides the student’s knowledge gap and the abnormal finding. The safe move is to stop, look up the drug, and review the finding with the instructor before any dose is given.",
+   "rationale": "Students are accountable to be prepared: they must know each client’s condition, medications, and planned interventions before giving care. Digoxin slows the heart rate, so an apical pulse below 60/min is a cue that the dose may need to be held and the prescriber or nurse consulted. Asking the staff nurse to give the drug is tempting because it seems to keep the client on schedule, but it hides the student’s knowledge gap and the abnormal finding. Holding the dose on her own or simply recounting the pulse skips the real problem: she does not yet understand the drug. The safe move is to stop, look up the drug, and review the finding with the instructor before any decision about the dose.",
    "takeaway": "Never give a medication you cannot explain; stop and review it with your instructor first.",
    "hintContent": "Consider what a heart rate under 60/min means for a drug that slows the heart.",
    "hintStrategy": "When a student is unprepared and there is an abnormal finding, choose the option that pauses the action and brings in the supervising instructor.",
@@ -61,7 +62,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Pharmacology",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies"
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "bestAnswer": true
   },
   {
    "id": "m49-lr-003",
@@ -91,7 +93,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Prioritization",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-lr-004",
@@ -121,7 +124,8 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "bestAnswer": true
   },
   {
    "id": "m49-lr-005",
@@ -132,14 +136,14 @@
    "options": [
     "Follow the restraint-check schedule she learned at her previous agency.",
     "Review this hospital’s restraint policy with her instructor.",
-    "Remove both restraints so that she can give care without them.",
+    "Check the skin and circulation under each restraint first.",
     "Ask the nursing assistant how often the restraints are checked here."
    ],
    "answer": 1,
    "optionRationales": [
     "Incorrect. Policies differ between agencies, and the student is accountable to this hospital’s policy.",
     "Correct. Students must know facility and program policies before giving care, especially for a high-risk intervention like restraints.",
-    "Incorrect. Removing restraints without an order or a plan may put this client with delirium at risk.",
+    "Incorrect. Checking skin and circulation is part of restraint care, but the hands are already warm with brisk refill, and she still will not know this hospital’s required schedule.",
     "Incorrect. Assistive personnel may not know the full policy; the student should go to the policy itself and her instructor."
    ],
    "rationale": "Students are accountable to know facility and program policies before their assignments. Restraints are a high-risk intervention with strict rules about checks, release, and documentation, and those rules vary by agency. Using the old agency’s schedule is tempting because it feels familiar, but the standard is this hospital’s policy. The student reviews the policy and confirms the plan with her instructor before giving care, since the client is currently stable and safe.",
@@ -151,7 +155,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Nursing Interventions",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "bestAnswer": true
   },
   {
    "id": "m49-lr-006",
@@ -181,7 +186,8 @@
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-lr-007",
@@ -213,7 +219,8 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-lr-008",
@@ -243,7 +250,8 @@
    "cjmm": "Recognize Cues",
    "focus": "Prioritization",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "bestAnswer": true
   },
   {
    "id": "m49-lr-009",
@@ -255,14 +263,14 @@
     "Answer no, because a no-contest plea is not an admission of guilt.",
     "Answer yes and give a brief, honest explanation of the plea.",
     "Answer no, because the charge was a misdemeanor rather than a felony.",
-    "Leave the question blank and discuss it only if the Board asks."
+    "Call the Board first to ask whether the plea must be reported."
    ],
    "answer": 1,
    "optionRationales": [
     "Incorrect. Boards treat a no-contest plea much like a guilty plea, so leaving it off is a false answer.",
     "Correct. Honest disclosure lets the Board judge the event; hiding it could be treated as fraud.",
     "Incorrect. The question asks about convictions and no-contest pleas, not only felonies.",
-    "Incorrect. An incomplete answer on an official application is not honest disclosure and may delay or deny the license."
+    "Incorrect. Asking the Board when unsure is reasonable, but the application asks about no-contest pleas directly, so the answer is already clear and should simply be given honestly."
    ],
    "rationale": "Nolo contendere means “I do not wish to contend.” The person does not admit guilt but accepts the punishment, and Boards of Nursing treat it much like a guilty plea. The tempting thought is that no admission of guilt means nothing to report, but the application asks about no-contest pleas directly. Lying on or omitting facts from a license application is itself a ground for denial or discipline. The safe and honest action is to answer yes and explain briefly.",
    "takeaway": "A nolo contendere plea is treated like a guilty plea by the Board, so always disclose it.",
@@ -273,7 +281,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-lr-010",
@@ -340,7 +349,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Assessment Findings",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-lr-011",
@@ -370,7 +380,8 @@
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-lr-012",
@@ -379,19 +390,19 @@
    "priority": true,
    "stem": "A 45-year-old client scheduled for a cholecystectomy is ready to sign the surgical consent. The surgeon has explained the procedure, and the staff nurse asks the nursing student to sign as the witness. The student’s program policy states that students may not witness legal documents. Which response by the student is best?",
    "options": [
-    "“I’ll sign it, since the surgeon already explained the surgery.”",
+    "“Let me check with my instructor whether I may sign this.”",
     "“I’ll sign it if you initial next to my name as the licensed nurse.”",
-    "“I’ll ask the client if he is comfortable with me as the witness.”",
+    "“I can sign, since a witness only confirms that it is his signature.”",
     "“I’m not allowed to witness consents. Could you find a witness?”"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. The surgeon’s explanation does not change the program policy that bars students from witnessing.",
+    "Incorrect. Checking with the instructor is wise when unsure, but the policy is already clear, and the delay holds up the client’s consent.",
     "Incorrect. A nurse’s initials do not make it acceptable for the student to act against policy.",
-    "Incorrect. The client’s comfort does not override the program’s policy on witnessing legal documents.",
+    "Incorrect. It is true that a witness confirms only that the client signed, but program policy still forbids students from witnessing legal documents.",
     "Correct. The student follows policy and helps the client sign without delay by involving a qualified witness."
    ],
-   "rationale": "Students are accountable to know and follow program and facility policies before their assignments. Witnessing a consent is a legal act, and many programs do not allow students to do it. Signing with a nurse’s initials is tempting because it seems to add oversight, but it still breaks the policy. The best response is a polite, clear statement of the limit plus a solution that keeps the client’s surgery on schedule.",
+   "rationale": "Students are accountable to know and follow program and facility policies before their assignments. Witnessing a consent is a legal act, and many programs do not allow students to do it. Signing with a nurse’s initials, or reasoning that a witness only confirms the signature, is tempting because it seems low risk, but either way the student still breaks the policy. The best response is a polite, clear statement of the limit plus a solution that keeps the client’s surgery on schedule.",
    "takeaway": "Students follow program policy on legal documents and redirect the task to a qualified person.",
    "hintContent": "Think about whose rules the student must follow, even when a staff nurse asks.",
    "hintStrategy": "For best-response items, choose the option that sets a clear limit and still offers a way to meet the client’s need.",
@@ -402,7 +413,8 @@
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-lr-013",
@@ -411,19 +423,19 @@
    "priority": true,
    "stem": "During a break, an RN on an oncology unit tells a coworker, “I’ve been taking home oxycodone that clients refused, just to get through my shifts. If anyone finds out, I’ll lose my license.” Which response by the coworker is best?",
    "options": [
-    "“I’ll keep this between us as long as you stop taking it before your shifts.”",
+    "“You need to report yourself to the Board before someone else does.”",
     "“I care about you. We must tell our manager; Board treatment programs exist.”",
-    "“You should resign now so that the Board never has a reason to look into this.”",
-    "“If you only take it at home, it does not affect your nursing license at all.”"
+    "“I’m worried about you. Have you thought about calling a recovery hotline?”",
+    "“Taking refused doses is diversion, so I have to tell our manager.”"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Keeping diverted opioids secret puts clients at risk and fails the duty to report.",
+    "Incorrect. Self-reporting can be part of recovery, but this sounds threatening, and the coworker still has her own duty to report through the chain of command now.",
     "Correct. The coworker shows concern, offers hope through alternative-to-discipline programs, and is honest that this must be reported.",
-    "Incorrect. Resigning does not stop a Board from acting and leaves the nurse without treatment.",
-    "Incorrect. Taking clients’ medications is drug diversion, a ground for discipline wherever the drug is used."
+    "Incorrect. Showing concern and suggesting help are supportive, but this leaves the diversion unreported and clients at risk.",
+    "Incorrect. This is honest and the right action, but it offers no caring or hope of treatment, so it is less therapeutic than the best response."
    ],
-   "rationale": "Taking a client’s medication for personal use is drug diversion, which is a ground for Board discipline and must be reported through the chain of command. Many Boards, including the North Carolina Board of Nursing, offer alternative-to-discipline programs that give monitored treatment instead of formal discipline. Promising secrecy is tempting because it feels supportive, but it leaves clients at risk and makes the coworker complicit. The best response combines empathy with an honest statement that the problem must be reported.",
+   "rationale": "Taking a client’s medication for personal use is drug diversion, which is a ground for Board discipline and must be reported through the chain of command. Many Boards, including the North Carolina Board of Nursing, offer alternative-to-discipline programs that give monitored treatment instead of formal discipline. Suggesting a hotline is tempting because it feels supportive, but it leaves the diversion unreported and clients at risk. Stating the duty to report is correct but cold, and urging self-report alone does not meet the coworker’s own duty. The best response combines empathy, hope through treatment, and an honest statement that the problem must be reported.",
    "takeaway": "Respond to a colleague’s diversion with empathy and honesty: treatment programs exist, and it must be reported.",
    "hintContent": "Consider both the colleague’s need for help and the clients’ need for safety.",
    "hintStrategy": "For best-response items about a colleague, choose the answer that is caring and also meets the legal duty.",
@@ -434,7 +446,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Nursing Interventions",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-lr-014",
@@ -464,7 +477,8 @@
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-lr-015",
@@ -494,7 +508,8 @@
    "cjmm": "Recognize Cues",
    "focus": "Nursing Interventions",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-lr-016",
@@ -560,7 +575,8 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Delegation & Safety",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-lr-017",
@@ -590,7 +606,8 @@
    "cjmm": "Recognize Cues",
    "focus": "Client Teaching",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-lr-018",
@@ -600,16 +617,16 @@
    "stem": "After a near-miss in which she almost gave a double dose of heparin to a client with a pulmonary embolism, a nursing student tells her classmate, “If I make one real mistake, the NCSBN will take my license away before I even get it.” Which response by the classmate is accurate?",
    "options": [
     "“Only the state Board licenses and disciplines; the NCSBN writes the NCLEX.”",
-    "“That’s right; the NCSBN reviews every student error before approving the NCLEX.”",
+    "“The NCSBN can bar you from the NCLEX if a school reports errors.”",
     "“Students can’t be disciplined, because they practice under the instructor’s license.”",
-    "“Only the hospital’s risk manager can decide whether you may become a nurse.”"
+    "“A near-miss isn’t an error, so there’s nothing for anyone to discipline.”"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. The state Board enforces the Nurse Practice Act; the NCSBN develops the exam and offers guidance.",
-    "Incorrect. The NCSBN does not review student errors or approve individual candidates.",
+    "Incorrect. The NCSBN does write the NCLEX, but the state Board, not the NCSBN, decides who may take it and who is licensed.",
     "Incorrect. Students practice under supervision but are accountable for their own actions and held to the RN standard.",
-    "Incorrect. Risk management handles the agency’s response to errors but does not grant or deny a license."
+    "Incorrect. It is true no harm occurred, but near-misses are still reported, and this does not correct her belief about who licenses nurses."
    ],
    "rationale": "The National Council of State Boards of Nursing is a national nonprofit made up of the state boards. It develops the NCLEX-RN and NCLEX-PN and provides research and policy guidance, but it does not issue or revoke licenses. The state Board of Nursing decides who may take the NCLEX, grants the license, and disciplines nurses. Saying students practice under the instructor’s license is a tempting comfort, but students are accountable for their own actions and held to the same standard as an RN.",
    "takeaway": "The NCSBN writes the NCLEX; the state Board of Nursing licenses and disciplines.",
@@ -620,7 +637,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Client Teaching",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-lr-019",
@@ -680,7 +698,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Nursing Interventions",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-lr-021",
@@ -689,19 +708,19 @@
    "priority": false,
    "stem": "A unit practice council is revising its policy on delegating tasks to assistive personnel after a client fell while being transferred. The council wants national, research-based guidance on safe delegation to add to the state Board of Nursing rules. Which resource best meets this need?",
    "options": [
-    "The content outline for a critical care certification exam",
+    "The state Nurse Practice Act’s rules on delegation",
     "The NCSBN’s national guidelines and research on delegation",
-    "The hospital’s current job description for assistive personnel",
-    "The state Board of Nursing’s public list of disciplined nurses"
+    "The unit’s fall reports and incident data from this year",
+    "A recent research article on preventing falls in older adults"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. A certification outline lists exam topics; it is not policy guidance on delegation.",
+    "Incorrect. The state rules set the legal limits the council already uses, but they are not national, research-based guidance.",
     "Correct. The NCSBN provides research and policy guidance for safe nursing practice, including national delegation guidelines.",
-    "Incorrect. The job description is what the council is reviewing; it is not an outside evidence source.",
-    "Incorrect. Discipline records show past violations but do not give research-based guidance on safe delegation."
+    "Incorrect. Local data shows where the problem is, but it is not national guidance on how to delegate safely.",
+    "Incorrect. This is research-based, but it addresses falls, not the delegation decisions the policy covers."
    ],
-   "rationale": "Besides developing the NCLEX, the National Council of State Boards of Nursing provides continuing education, research, and policy guidance for safe nursing practice, including national guidelines for nursing delegation. The state Board’s rules remain the legal limits, and national guidance helps an agency build safe policy within them. The job description is tempting because it is specific to the unit, but it is the very policy under review and is not research-based. Certification outlines and discipline lists do not guide delegation decisions.",
+   "rationale": "Besides developing the NCLEX, the National Council of State Boards of Nursing provides continuing education, research, and policy guidance for safe nursing practice, including national guidelines for nursing delegation. The state Board’s rules remain the legal limits, and national guidance helps an agency build safe policy within them. The state rules are tempting because they address delegation directly, but the council already has them and needs national, research-based guidance in addition. Unit fall data and a fall-prevention study are useful but do not guide delegation decisions.",
    "takeaway": "The NCSBN offers research and policy guidance for safe practice; the state Board sets the legal rules.",
    "hintContent": "Think about which national group does research and writes guidance for the boards.",
    "hintStrategy": "Match the need (research-based national guidance) to the organization whose job is to provide it.",
@@ -710,7 +729,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-lr-022",
@@ -740,7 +760,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Delegation & Safety",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-lr-023",
@@ -770,7 +791,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-lr-024",
@@ -802,7 +824,8 @@
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-lr-025",
@@ -832,7 +855,8 @@
    "cjmm": "Evaluate Outcomes",
    "focus": "Client Teaching",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-lr-026",
@@ -864,7 +888,8 @@
    "cjmm": "Evaluate Outcomes",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "bestAnswer": true
   },
   {
    "id": "m49-lr-027",
@@ -896,7 +921,8 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Delegation & Safety",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-lr-028",
@@ -926,7 +952,8 @@
    "cjmm": "Take Action",
    "focus": "Client Teaching",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-lr-029",
@@ -936,18 +963,18 @@
    "stem": "On her last clinical day, a nursing student felt unprepared when her client with diabetic ketoacidosis was started on an insulin infusion, and the instructor reviewed student expectations with her. Which action by the student at the next clinical day shows that the teaching was effective?",
    "options": [
     "She asks the staff nurse to explain the client’s drugs at the bedside.",
-    "She plans to try new skills on the unit so she is checked off faster.",
+    "She tells her instructor right away when she feels unsure during care.",
     "She asks the client to explain his diagnosis during her first assessment.",
     "She reviews the client’s condition, drugs, and plan before the shift."
    ],
    "answer": 3,
    "optionRationales": [
     "Incorrect. Learning the medications at the bedside means she is not prepared before giving care.",
-    "Incorrect. Attempting unlearned skills is unsafe; students perform only skills they have learned.",
+    "Incorrect. Speaking up when unsure is important, but it is reactive; the teaching was about being prepared before care begins.",
     "Incorrect. The client’s view is useful, but she should already understand the condition before care.",
     "Correct. Students are accountable to understand the client’s condition, medications, and interventions before giving care."
    ],
-   "rationale": "Students are accountable to be prepared: they must understand each client’s condition, medications, and planned interventions before giving care. Preparation is what turns knowledge into safe action, such as recognizing early changes and knowing what to report. Asking the staff nurse to explain the medications is tempting because it is still a way of learning, but it moves preparation to the bedside when it should come first. Trying new skills to get checked off faster is never safe.",
+   "rationale": "Students are accountable to be prepared: they must understand each client’s condition, medications, and planned interventions before giving care. Preparation is what turns knowledge into safe action, such as recognizing early changes and knowing what to report. Asking the staff nurse to explain the medications is tempting because it is still a way of learning, but it moves preparation to the bedside when it should come first. Telling the instructor when unsure is important, but it is a response to a gap that preparation should prevent.",
    "takeaway": "A prepared student knows the client’s condition, medications, and planned care before the shift begins.",
    "hintContent": "Look for the action that happens before the student meets the client.",
    "hintStrategy": "For evaluate-the-teaching items, choose the behavior that matches the expected standard, not one that only sounds eager.",
@@ -956,7 +983,8 @@
    "cjmm": "Evaluate Outcomes",
    "focus": "Pathophysiology",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-lr-030",

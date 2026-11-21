@@ -72,7 +72,8 @@
    "takeaway": "Pericardial fluid plus falling BP, rising HR, and distended neck veins means the heart cannot fill: escalate immediately.",
    "alsoTests": [
     "diagnostics"
-   ]
+   ],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-002",
@@ -89,22 +90,23 @@
    "stem": "The nurse is teaching a 47-year-old client who has a pericardial effusion and is scheduled for pericardiocentesis. Which statement by the client indicates understanding of where the fluid is and why it matters?",
    "options": [
     "\"The fluid is inside the thick muscle layer, so my heart squeezes less.\"",
-    "\"The fluid is inside my left ventricle, so less blood fits into it.\"",
-    "\"The fluid is in the lining of my lungs, so it presses on my heart.\"",
+    "\"The fluid is between the two layers of the sac, so my heart beats slower.\"",
+    "\"The fluid is around my heart, so the doctor will drain it with a needle.\"",
     "\"The fluid is between the two layers of the sac, so my heart can't fill well.\""
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. The myocardium is the muscle layer; effusion fluid collects outside the heart wall, not within the muscle.",
-    "Incorrect. Blood belongs inside the ventricle; effusion fluid is outside the heart in the pericardial sac.",
-    "Incorrect. Fluid around the lungs is a pleural effusion; a pericardial effusion is in the sac around the heart.",
-    "Correct. Effusion fluid collects in the pericardial cavity between the parietal and visceral layers, and because the sac fits snugly, extra fluid keeps the heart from filling."
+    "Incorrect. A weaker squeeze sounds plausible, but the fluid is not within the myocardium; the problem is compression of the heart from outside.",
+    "Incorrect. The location is correct, but the consequence is wrong; compression limits filling, and the heart rate usually rises to compensate rather than slowing.",
+    "Incorrect. This is true and shows the client knows the plan, but it does not explain where the fluid sits or why it limits the heart's filling.",
+    "Correct. The fluid collects in the pericardial cavity between the parietal and visceral layers, and because the sac fits snugly, it compresses the heart and limits filling. This statement names both the location and why it matters."
    ],
    "rationale": "The pericardium is a double-layered sac: the parietal layer lines the sac, the visceral layer lies on the heart surface, and the thin pericardial cavity between them normally holds a small amount of serous fluid for smooth gliding. In an effusion, extra fluid builds up in that cavity. Because the sac fits snugly, the fluid presses on the heart and limits how much the chambers can fill. The muscle-layer answer is tempting because a weaker squeeze sounds plausible, but the problem is compression from outside, not fluid within the myocardium.",
    "takeaway": "Pericardial fluid sits between the parietal and visceral layers and limits filling by compressing the heart from outside.",
    "alsoTests": [
     "diagnostics"
-   ]
+   ],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-003",
@@ -121,20 +123,21 @@
    "stem": "An unlicensed assistive personnel (UAP) is giving a bed bath to a 71-year-old client with coronary artery disease. The UAP reports that the client's heart rate on the monitor rose from 78/min to 136/min and the client says his chest \"feels tight.\" Which instruction should the nurse give the UAP first?",
    "options": [
     "\"Stop the bath and stay with him while I come in.\"",
-    "\"Give him a few sips of cool water to help him relax.\"",
+    "\"Stop the bath and let him rest for a few minutes.\"",
     "\"Recheck his pulse in 15 minutes and let me know.\"",
-    "\"Finish the bath quickly so he can rest afterward.\""
+    "\"Take his blood pressure and call me with the result.\""
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Stopping the activity lets the rate slow so the coronary arteries can fill, and the nurse, not the UAP, must assess the chest pain right away.",
-    "Incorrect. Fluids do not address the cause; the heart muscle needs the activity stopped and a nursing assessment.",
-    "Incorrect. Waiting 15 minutes delays assessment of possible myocardial ischemia, and the UAP cannot assess chest pain.",
-    "Incorrect. Continuing the activity keeps the heart rate high and the coronary filling time short, which worsens the oxygen shortage."
+    "Correct. Stopping the activity removes the cause of the increased oxygen demand, and staying with the client keeps him safe while the nurse comes to assess the chest tightness, which is outside the UAP's scope.",
+    "Incorrect. Stopping the bath is the right start, but new chest tightness with a rate of 136/min needs the nurse's assessment now, not just rest.",
+    "Incorrect. Monitoring the pulse is within the UAP's role, but waiting 15 minutes delays assessment of possible ischemia while the bath may continue.",
+    "Incorrect. A blood pressure adds useful data, but it does not stop the activity driving the ischemia or bring the nurse to the bedside."
    ],
-   "rationale": "The coronary arteries fill mainly during diastole, when the heart muscle relaxes and stops squeezing its own vessels. A rate of 136/min shortens diastole, so narrowed coronary arteries deliver even less oxygen just as demand rises, which produces chest tightness. The first step is to remove the cause by stopping the activity and keeping the client safe while the nurse comes to assess. Finishing the bath quickly may feel efficient, but it prolongs the workload, and chest pain assessment is outside the UAP's scope.",
+   "rationale": "The coronary arteries fill mainly during diastole, when the heart muscle relaxes and stops squeezing its own vessels. A rate of 136/min shortens diastole, so narrowed coronary arteries deliver even less oxygen just as demand rises, which produces chest tightness. The first step is to remove the cause by stopping the activity and keeping the client safe while the nurse comes to assess. Letting the client rest or gathering a vital sign is reasonable, but chest pain assessment is outside the UAP's scope and cannot wait.",
    "takeaway": "Chest tightness with tachycardia in coronary disease: stop the activity first, then the RN assesses.",
-   "alsoTests": []
+   "alsoTests": [],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-004",
@@ -203,7 +206,8 @@
    "takeaway": "Left-sided failure backs up into the lungs: treat the breathing problem first with upright positioning.",
    "alsoTests": [
     "perfusion-emergencies"
-   ]
+   ],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-006",
@@ -220,20 +224,21 @@
    "stem": "A 39-year-old client is admitted with a large clot lodged in a branch of the pulmonary artery. The client's spouse asks which part of the heart is most strained by the clot. Which response by the nurse is accurate?",
    "options": [
     "\"The right ventricle, because it pumps blood into the pulmonary artery.\"",
-    "\"The left ventricle, because it pumps blood into the arteries of the lungs.\"",
-    "\"The left atrium, because it sends blood straight into the pulmonary artery.\"",
-    "\"The right atrium, because it pumps blood directly through the lungs.\""
+    "\"The right atrium, because it collects blood returning from the body.\"",
+    "\"The left ventricle, because it is the strongest pump in the heart.\"",
+    "\"The left atrium, because it receives blood coming back from the lungs.\""
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. The right ventricle pumps through the pulmonic valve into the pulmonary artery, so a blockage there raises the resistance the right ventricle must overcome.",
-    "Incorrect. The left ventricle pumps into the aorta and systemic circulation, not the pulmonary artery.",
-    "Incorrect. The left atrium receives oxygen-rich blood from the pulmonary veins and sends it to the left ventricle.",
-    "Incorrect. The right atrium is a receiving chamber that passes blood to the right ventricle; it does not pump blood through the lungs."
+    "Correct. The right ventricle pumps through the pulmonic valve into the pulmonary artery, so a clot there blocks its outflow and forces it to push harder.",
+    "Incorrect. The right atrium does collect systemic venous blood and may feel the effects later, but it sits upstream; the chamber pumping directly against the clot is the right ventricle.",
+    "Incorrect. The left ventricle is the strongest pump, but it pumps into the aorta on the systemic loop, not against a clot in the pulmonary artery.",
+    "Incorrect. The left atrium does receive blood from the lungs, but it lies past the clot, so it receives less blood rather than pushing against the blockage."
    ],
    "rationale": "Blood returning from the body enters the right atrium, passes through the tricuspid valve to the right ventricle, and is pumped through the pulmonic valve into the pulmonary artery. A clot in the pulmonary artery therefore blocks the outflow of the right ventricle, which must push harder against it. If the right ventricle fails, blood backs up into the systemic veins, causing jugular vein distention and edema. The left ventricle is the tempting answer because it is the \"strong pump,\" but it sits on the other loop and pumps into the aorta.",
    "takeaway": "Pulmonary artery problems strain the right ventricle, which pumps into it.",
-   "alsoTests": []
+   "alsoTests": [],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-007",
@@ -294,7 +299,8 @@
    ],
    "rationale": "Prioritize the client whose findings are new and threaten perfusion of a vital organ. Client B has narrowed coronary arteries and a heart rate fast enough to shorten diastole, the phase when the coronaries fill, and now reports new chest pressure, which signals possible myocardial ischemia. The post-procedure client is tempting because pericardiocentesis is invasive, but stable vital signs and mild site soreness are expected the next day. Stable chronic edema and teaching needs come after an acute change.",
    "takeaway": "New chest pressure with tachycardia in coronary artery disease outranks stable or expected findings.",
-   "alsoTests": []
+   "alsoTests": [],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-008",
@@ -310,23 +316,24 @@
    "hintStrategy": "When two options name branches from the same parent vessel, both are probably wrong if that parent is not the blocked one.",
    "stem": "A 63-year-old client's angiogram shows a severe blockage at the start of the right coronary artery. The client asks which other artery will get less blood because of this blockage. Which response by the nurse is accurate?",
    "options": [
-    "\"The circumflex artery, which branches from the right coronary.\"",
+    "\"The circumflex artery, which supplies the side of the left ventricle.\"",
     "\"The posterior descending artery, which branches from the right coronary.\"",
-    "\"The pulmonary artery, which the right coronary artery supplies.\"",
-    "\"The left anterior descending artery, a branch of the right coronary.\""
+    "\"The left main coronary artery, which divides into two large branches.\"",
+    "\"The left anterior descending, which supplies the front of the heart.\""
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. The circumflex artery branches from the left main coronary artery.",
-    "Correct. The right coronary artery gives rise to the posterior descending artery, so a blockage at its start reduces flow downstream to that branch.",
-    "Incorrect. The pulmonary artery is a great vessel carrying blood from the right ventricle to the lungs; it is not a branch of the coronary circulation.",
-    "Incorrect. The left anterior descending artery also arises from the left main coronary artery."
+    "Incorrect. The circumflex does supply the lateral left ventricle, but it branches from the left main coronary artery, so a right coronary blockage does not reduce its flow.",
+    "Correct. The posterior descending artery arises from the right coronary artery, so a blockage at the origin of the right coronary reduces flow to it and the myocardium it feeds.",
+    "Incorrect. The left main does divide into two large branches, but it arises separately from the aorta and is not downstream of the right coronary artery.",
+    "Incorrect. The left anterior descending does supply the front of the heart, but it branches from the left main, not the right coronary artery."
    ],
    "rationale": "The coronary circulation supplies the heart muscle itself. The left main coronary artery divides into the left anterior descending and circumflex arteries, which feed much of the left ventricle. The right coronary artery gives rise to the posterior descending artery. A blockage at the origin of a vessel reduces flow to every branch downstream, so knowing the branching pattern predicts which areas of myocardium are at risk. The left-sided branches are tempting because they are the most familiar names, but they come from the left main, not the right coronary artery.",
    "takeaway": "Left main → LAD + circumflex; right coronary → posterior descending.",
    "alsoTests": [
     "diagnostics"
-   ]
+   ],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-009",
@@ -419,20 +426,21 @@
     "Damaged right ventricular muscle is backing blood up into the systemic veins",
     "Fluid has collected between the layers of the pericardium and is compressing the lungs",
     "Damaged left ventricular muscle is pumping weakly, so blood backs up into the lungs",
-    "The endocardium has been injured, so blood is leaking out of the ventricles"
+    "A clot from bed rest has traveled to the lungs and is blocking blood flow"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Right-sided backup causes JVD and peripheral edema, not crackles, and the left anterior descending artery mainly supplies the left ventricle.",
-    "Incorrect. Pericardial fluid compresses the heart and limits filling; it does not produce crackles by pressing on the lungs.",
-    "Correct. The left anterior descending artery feeds much of the left ventricle; damaged myocardium pumps weakly, so blood backs up into the pulmonary circulation.",
-    "Incorrect. The endocardium is the smooth inner lining; injury to it does not cause blood to leak out of the chambers."
+    "Incorrect. Right ventricular damage is a real complication of myocardial infarction, but right-sided backup shows up as jugular vein distention and edema, not crackles in the lungs.",
+    "Incorrect. Pericardial fluid can follow a myocardial infarction, but it compresses the heart, not the lungs, and it does not explain bilateral crackles.",
+    "Correct. The left anterior descending artery supplies much of the left ventricle, so damaged muscle pumps weakly and blood backs up into the pulmonary circulation, causing crackles, dyspnea, and lower SpO₂.",
+    "Incorrect. A pulmonary embolism can cause sudden dyspnea after bed rest, but it usually leaves the lungs clear; bilateral crackles after a large anterior infarction point to left ventricular failure."
    ],
-   "rationale": "The left main coronary artery branches into the left anterior descending and circumflex arteries, which supply much of the left ventricle. When the artery is blocked, the myocardium it feeds is damaged and contracts weakly. Because the pulmonary and systemic circulations are connected in series, a weak left ventricle backs blood up into the lungs, producing crackles, dyspnea, and lower SpO₂. The right ventricle answer is tempting because \"heart failure\" brings edema to mind, but right-sided backup appears in the body, not the lungs.",
+   "rationale": "The left anterior descending artery supplies much of the left ventricle. When it is blocked, that muscle is damaged and contracts weakly. Because the pulmonary and systemic circulations are connected in series, a weak left ventricle backs blood up into the lungs, producing crackles, dyspnea, and lower SpO₂. Right ventricular backup appears in the body as jugular vein distention and edema, and pericardial fluid compresses the heart rather than the lungs.",
    "takeaway": "LAD blockage damages the left ventricle, and a weak left ventricle backs blood into the lungs.",
    "alsoTests": [
     "perfusion-emergencies"
-   ]
+   ],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-012",
@@ -494,7 +502,8 @@
    "takeaway": "A leaky mitral valve backs blood into the left atrium and lungs; monitor breathing first.",
    "alsoTests": [
     "heart-sounds"
-   ]
+   ],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-014",
@@ -526,7 +535,8 @@
    "takeaway": "After an MI, new crackles with low SpO₂ signal left ventricular backup and need immediate action.",
    "alsoTests": [
     "diagnostics"
-   ]
+   ],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-015",
@@ -649,22 +659,23 @@
    "stem": "A 72-year-old client has had left ventricular failure for 6 years and has always had crackles without peripheral edema. This month the client has new jugular vein distention, 2+ ankle edema, and a 3-kg weight gain. Which explanation best accounts for the new findings?",
    "options": [
     "Fluid from the lungs has drained down into the legs and neck veins",
-    "The pericardium has stretched and is letting the heart overfill with blood",
-    "The left ventricle has recovered and is now pushing extra blood into the veins",
+    "Extra sodium in the diet is making the body hold on to more and more fluid",
+    "The left ventricle has weakened further and now pumps even less blood",
     "Long-standing backup in the lungs has strained the right ventricle into failure"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Fluid in the lungs does not drain into the legs; edema forms from pressure in the systemic veins.",
-    "Incorrect. The findings reflect systemic venous backup, not a change in the pericardial sac.",
-    "Incorrect. Recovery of the left ventricle would improve, not worsen, congestion; new JVD and edema signal decline.",
-    "Correct. The loops are in series; chronic pulmonary congestion raises the pressure the right ventricle pumps against, and when it fails, blood backs up into the systemic veins."
+    "Incorrect. Gravity sounds logical, but fluid does not drain from the lungs into the legs; systemic edema comes from rising pressure in the venous system.",
+    "Incorrect. Excess sodium can worsen fluid retention, but it does not explain why signs of systemic backup appear for the first time after years of lung-only findings.",
+    "Incorrect. Worsening left ventricular function is possible, but it would mainly increase lung congestion rather than produce new jugular vein distention and ankle edema.",
+    "Correct. Years of pulmonary backup force the right ventricle to pump against high pressure until it fails, and blood then backs up into the systemic veins, causing jugular vein distention, edema, and weight gain."
    ],
    "rationale": "The pulmonary and systemic circulations are connected one after the other. Years of left ventricular failure keep blood backed up in the lungs, and the right ventricle must pump into that high-pressure pulmonary circulation. Eventually the right ventricle fails too, and blood backs up into the systemic veins, causing jugular vein distention, peripheral edema, and weight gain. The drainage answer is tempting because it sounds like gravity, but edema comes from pressure in the venous system, not from fluid moving down from the lungs.",
    "takeaway": "Long-standing left-sided failure can lead to right-sided failure because the two loops are connected in series.",
    "alsoTests": [
     "cardiac-output"
-   ]
+   ],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-019",
@@ -682,21 +693,22 @@
    "options": [
     "Direct the staff member to move both hands to the center of the chest",
     "Wait until the next rhythm check, then teach the correct hand position",
-    "Report the staff member to the unit educator after the code ends",
-    "Tell the staff member to deliver compressions faster to make up for the hand position"
+    "Ask the code leader to switch in a different person for compressions",
+    "Feel for a femoral pulse to see whether compressions are effective"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. The heart lies in the mediastinum between the sternum and the spine, so compressions on the lower half of the sternum squeeze it effectively.",
-    "Incorrect. Each minute of poorly placed compressions reduces blood flow; the correction should happen now.",
-    "Incorrect. Follow-up education is reasonable later, but it does not fix the compressions happening now.",
-    "Incorrect. A faster rate does not correct compressions applied in the wrong place."
+    "Correct. Compressions over the lower half of the sternum press the heart between the sternum and spine; a direct, immediate correction restores effective compressions with no delay.",
+    "Incorrect. Waiting avoids disrupting the team, but ineffective compressions lower brain and heart perfusion every second they continue.",
+    "Incorrect. Rotating compressors is a normal part of a code, but routing the problem through the leader takes longer than a direct correction the nurse can give now.",
+    "Incorrect. Checking a pulse can gauge compression quality, but the hand position is already clearly wrong, so assessing first only delays the fix."
    ],
    "rationale": "The heart sits in the mediastinum, between the sternum in front and the vertebral column behind, with a lung on each side; only the apex tilts toward the left. Compressions over the center of the chest on the lower half of the sternum press the heart between those two firm structures to generate blood flow. Compressions over the left chest push mostly on the lung and ribs. Delaying the correction until a rhythm check is tempting to avoid disrupting the team, but ineffective compressions lower perfusion to the brain and heart every second they continue.",
    "takeaway": "The heart lies behind the sternum, so effective compressions are centered on the lower half of the sternum.",
    "alsoTests": [
     "promotion-interventions"
-   ]
+   ],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-020",
@@ -728,7 +740,8 @@
    "takeaway": "Ischemia risk peaks when tachycardia meets narrowed coronary arteries.",
    "alsoTests": [
     "cardiac-output"
-   ]
+   ],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-021",
@@ -873,7 +886,8 @@
    ],
    "rationale": "The endocardium is the thin, innermost layer of the heart wall; its surface is made of smooth endothelial cells that line the chambers and valves. That smoothness lets blood flow without sticking or clotting. When the lining is roughened, blood can cling to it and form clots that may break loose. The muscle-layer option is tempting because any heart damage sounds like a pumping problem, but the endocardium's job is a smooth surface, not contraction.",
    "takeaway": "The endocardium's smooth lining keeps blood from sticking; damage to it promotes clots.",
-   "alsoTests": []
+   "alsoTests": [],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-025",
@@ -890,22 +904,23 @@
    "stem": "A 74-year-old client with left-sided heart failure had crackles to the mid-lung fields and SpO₂ of 88% on admission. IV diuretic therapy was started 12 hours ago. Which finding best indicates that the backup into the pulmonary circulation is improving?",
    "options": [
     "Ankle edema has decreased from 2+ to 1+",
-    "Heart rate has increased from 88/min to 104/min",
-    "Urine output is 25 mL/hr for the past 2 hours",
+    "Weight is down 1 kg (2.2 lb) since admission",
+    "Urine output totals 1,600 mL over 12 hours",
     "Crackles only in the bases with SpO₂ of 95%"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Less ankle edema reflects improvement in the systemic veins, not the lungs.",
-    "Incorrect. A rising heart rate suggests the body is still compensating, not recovering.",
-    "Incorrect. Low urine output suggests poor perfusion or inadequate diuresis, not improvement.",
-    "Correct. Crackles receding toward the bases and a higher SpO₂ show less fluid backed up in the lungs."
+    "Incorrect. Less ankle edema is a real improvement, but it reflects the systemic side and does not show whether the lungs are less congested.",
+    "Incorrect. Weight loss shows that total body fluid is decreasing, but it does not directly show that the pulmonary congestion has cleared.",
+    "Incorrect. A large urine output shows the diuretic is working, but it does not confirm that crackles and oxygenation have improved.",
+    "Correct. A failing left ventricle backs blood into the lungs, so the most direct evidence of improvement is in the lungs: crackles receding to the bases and SpO₂ rising from 88% to 95%."
    ],
-   "rationale": "A failing left ventricle backs blood up into the pulmonary circulation, so the best measures of improvement are in the lungs: fewer crackles and better oxygenation. Crackles that recede from the mid-lung fields to the bases, with SpO₂ rising from 88% to 95%, show that the congestion is clearing. Reduced ankle edema is tempting because it is a real improvement, but it reflects the systemic side and does not answer whether the lungs are better. A faster heart rate or low urine output points to worsening perfusion.",
+   "rationale": "A failing left ventricle backs blood up into the pulmonary circulation, so the best measures of improvement are in the lungs: fewer crackles and better oxygenation. Crackles that recede from the mid-lung fields to the bases, with SpO₂ rising from 88% to 95%, show that the congestion is clearing. Reduced ankle edema, weight loss, and a good urine output are all tempting because they are real signs the diuretic is working, but they reflect total body fluid and do not answer whether the lungs are better.",
    "takeaway": "Judge left-sided improvement by the lungs: fewer crackles and higher SpO₂.",
    "alsoTests": [
     "perfusion-emergencies"
-   ]
+   ],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-026",
@@ -923,21 +938,22 @@
    "options": [
     "\"Hang up and call 911 now; do not drive yourself.\"",
     "\"Lie down for another 20 minutes and call back.\"",
-    "\"Come to the clinic this afternoon for an ECG.\"",
-    "\"Take a warm shower to help your muscles relax.\""
+    "\"Have someone drive you to the emergency department.\"",
+    "\"Chew an aspirin and rest until the pressure eases.\""
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Chest pressure that persists despite rest suggests the myocardium is not getting enough oxygen, which needs emergency evaluation now.",
-    "Incorrect. Waiting longer delays treatment of possible heart muscle injury.",
-    "Incorrect. An afternoon visit is too late for unrelieved chest pressure.",
-    "Incorrect. Treating the symptom as a muscle strain delays emergency care and adds exertion."
+    "Correct. Chest pressure unrelieved by 20 minutes of rest suggests ongoing ischemia; calling 911 brings care, ECG, and monitoring to the client fastest, and EMS can treat arrhythmias on the way.",
+    "Incorrect. Rest often eases exertional discomfort, but 20 minutes of unrelieved pressure has already ruled that out, and more waiting risks heart muscle loss.",
+    "Incorrect. Going to the emergency department is the right destination, but private transport delays treatment and offers no help if a dangerous rhythm develops on the way.",
+    "Incorrect. Aspirin can be part of early care for a heart attack, but resting at home without calling for help delays definitive treatment."
    ],
    "rationale": "Heavy exertion in the cold raises the heart's oxygen demand and heart rate, and a faster rate shortens diastole, the phase when the coronary arteries fill. Chest pressure that does not ease with rest suggests the heart muscle is not getting enough oxygen and could be injured. Every minute matters, so the client should call emergency services rather than drive. Resting longer is tempting because exertional discomfort often eases with rest, but 20 minutes of unrelieved pressure has already ruled that out.",
    "takeaway": "Chest pressure that does not ease with rest needs emergency services immediately.",
    "alsoTests": [
     "promotion-interventions"
-   ]
+   ],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-027",
@@ -955,21 +971,22 @@
    "options": [
     "Call the provider to request an urgent echocardiogram",
     "Document and report the murmur; continue routine monitoring",
-    "Apply blow-by oxygen and recheck the murmur in 1 hour",
-    "Hold the next feeding to reduce the infant's cardiac workload"
+    "Document the murmur and recheck it before discharge",
+    "Tell the parents the murmur is harmless and will go away"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. An urgent study is not needed when the infant shows no signs of poor perfusion or oxygenation.",
-    "Correct. Newborns often have innocent murmurs as their circulation adjusts after birth; with normal color, feeding, and SpO₂, it is documented and reported routinely so the provider can decide on follow-up, without emergency measures.",
-    "Incorrect. Oxygen is not indicated with an SpO₂ of 98% and pink color.",
-    "Incorrect. Withholding feedings is unnecessary and could harm a well newborn."
+    "Incorrect. Reporting is appropriate, but requesting an urgent study treats a well-perfused newborn as unstable and adds no benefit.",
+    "Correct. A pink infant who feeds well with normal SpO₂ and heart rate is perfusing well; the murmur is documented and reported routinely so the provider can decide on follow-up, while routine monitoring continues.",
+    "Incorrect. Documenting and rechecking are reasonable, but the provider still needs to know about the murmur to decide whether follow-up is needed.",
+    "Incorrect. Reassurance is supportive and many newborn murmurs are innocent, but the nurse cannot conclude that before the provider evaluates it."
    ],
    "rationale": "A murmur is a swishing sound caused by disrupted blood flow. In newborns, nonpathologic (innocent) murmurs are common as the circulation changes after birth. The context is what matters: a pink infant who feeds well with a normal SpO₂ and heart rate is perfusing well, so the murmur is documented and reported routinely (not urgently) so the provider can decide on follow-up, and routine monitoring continues. Calling for an urgent study is tempting because \"murmur\" sounds alarming, but treating a well newborn as sick adds no benefit.",
    "takeaway": "A soft murmur in a pink, well-feeding newborn with normal SpO₂ is usually innocent: document, report routinely, and monitor.",
    "alsoTests": [
     "lifespan"
-   ]
+   ],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-028",
@@ -1001,7 +1018,8 @@
    "takeaway": "S4 is never considered normal in a child, even an athletic one; report it.",
    "alsoTests": [
     "lifespan"
-   ]
+   ],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-029",
@@ -1033,7 +1051,8 @@
    "takeaway": "A familiar sound does not make a new symptom safe; act on new chest pressure.",
    "alsoTests": [
     "cardiac-anatomy"
-   ]
+   ],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-030",
@@ -1050,20 +1069,21 @@
    "stem": "The nurse suspects a 69-year-old client with heart failure has developed an S3, but hears only S1 and S2 at the apex with the bell pressed firmly against the chest. Which action should the nurse take next?",
    "options": [
     "Listen again at the apex with the bell held lightly on the skin",
-    "Document that no extra heart sounds are present",
+    "Document that no S3 or other extra heart sounds are present",
     "Listen at the aortic area with the diaphragm pressed firmly",
-    "Palpate the carotid pulse to identify S2 at the apex"
+    "Palpate the carotid pulse while listening again at the apex"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Light pressure keeps the bell working as a bell; pressing hard stretches the skin into a diaphragm and filters out low-pitched sounds like S3.",
-    "Incorrect. The technique was faulty, so the absence of an S3 has not been confirmed.",
-    "Incorrect. S3 is a low-pitched sound heard best at the apex with the bell, not at the aortic area with the diaphragm.",
-    "Incorrect. Palpating the carotid helps identify S1 when sounds are hard to tell apart, but it does not fix the technique error."
+    "Correct. Light pressure keeps the bell working as a bell; pressing it firmly stretches the skin into a diaphragm that filters out low-pitched sounds like S3, so the technique must be fixed first.",
+    "Incorrect. Documenting what was heard is reasonable, but the bell was pressed too firmly, so the absence of an S3 has not been confirmed and a missed S3 could hide volume overload.",
+    "Incorrect. Trying another approach is reasonable, but S3 is a low-pitched sound heard best at the apex with the bell; the aortic area and a firm diaphragm make it even harder to hear.",
+    "Incorrect. Timing with the carotid pulse helps tell S1 from S2, but the bell is still pressed firmly, so low-pitched sounds such as S3 remain filtered out."
    ],
    "rationale": "S3 and S4 are soft, low-pitched sounds best heard at the apex with the bell. The bell must rest lightly on the skin; pressing it firmly stretches the skin taut so it acts like a diaphragm, which filters out low-pitched sounds. The nurse should correct the technique before drawing a conclusion. Documenting \"no extra sounds\" is tempting because nothing was heard, but a negative finding from faulty technique is not reliable, especially in a client with heart failure where S3 can signal volume overload.",
    "takeaway": "Use the bell with light pressure at the apex to hear S3 and S4.",
-   "alsoTests": []
+   "alsoTests": [],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-031",
@@ -1095,7 +1115,8 @@
    "takeaway": "Cardiovascular exam order: inspect, palpate, percuss, then auscultate.",
    "alsoTests": [
     "peripheral-assessment"
-   ]
+   ],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-032",
@@ -1127,7 +1148,8 @@
    "takeaway": "Palpate the carotid pulses one side at a time.",
    "alsoTests": [
     "peripheral-assessment"
-   ]
+   ],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-033",
@@ -1144,23 +1166,24 @@
    "stem": "A 30-year-old client at 36 weeks' gestation has an S3 at the apex. She reports that over the past 2 days she has become short of breath lying down. Fine crackles are heard in both lung bases, SpO₂ is 91% on room air, and HR is 112/min. Which action by the nurse is most appropriate?",
    "options": [
     "Document the S3 as an expected finding in the third trimester",
-    "Encourage the client to lie flat on her back to rest",
+    "Teach her to sleep propped up on two or three pillows at night",
     "Reassess the client at the next routine prenatal visit",
     "Notify the provider of the S3 with crackles and low SpO₂"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. An S3 can be expected in the third trimester only when the rest of the assessment is normal.",
-    "Incorrect. Lying supine worsens orthopnea and can compress the vena cava late in pregnancy.",
-    "Incorrect. Waiting until a routine visit delays care for a client with abnormal oxygenation.",
-    "Correct. An S3 with orthopnea, crackles, tachycardia, and low SpO₂ suggests fluid overload and needs prompt evaluation."
+    "Incorrect. An S3 can be normal in the third trimester, but only without symptoms; orthopnea, crackles, and low SpO₂ change its meaning.",
+    "Incorrect. Sleeping upright may ease orthopnea, but it only treats the symptom and leaves possible pulmonary congestion unreported.",
+    "Incorrect. Follow-up at a routine visit is appropriate for an asymptomatic S3, but new crackles and an SpO₂ of 91% cannot wait.",
+    "Correct. An S3 with orthopnea, crackles, tachycardia, and SpO₂ of 91% points to fluid backing up into the lungs, so the provider must be notified promptly."
    ],
-   "rationale": "An S3 can be normal in the third trimester because blood volume is high and the ventricle is compliant, but only when the client has no symptoms and normal findings. This client has orthopnea, crackles, tachycardia, and an SpO₂ of 91%, which point to fluid backing up into the lungs. The same sound now carries a different meaning and must be reported. Documenting it as expected is tempting because the pregnancy fits the \"may be normal\" group, but the abnormal respiratory findings override that rule.",
+   "rationale": "An S3 can be normal in the third trimester because blood volume is high and the ventricle is compliant, but only when the client has no symptoms and normal findings. This client has orthopnea, crackles, tachycardia, and an SpO₂ of 91%, which point to fluid backing up into the lungs. The same sound now carries a different meaning and must be reported. Documenting it as expected is tempting because the pregnancy fits the \"may be normal\" group, and propping her up on pillows eases the symptom, but the abnormal respiratory findings require the provider to evaluate her.",
    "takeaway": "An S3 is expected in pregnancy only when everything else is normal; with crackles and low SpO₂, report it.",
    "alsoTests": [
     "lifespan",
     "perfusion-emergencies"
-   ]
+   ],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-034",
@@ -1192,7 +1215,8 @@
    "takeaway": "New S3 plus weight gain in heart failure: assess lungs and oxygenation, then report.",
    "alsoTests": [
     "perfusion-emergencies"
-   ]
+   ],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-035",
@@ -1260,7 +1284,8 @@
    "takeaway": "New sound plus new symptoms (syncope, hypotension) means unstable; see that client first.",
    "alsoTests": [
     "perfusion-emergencies"
-   ]
+   ],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-036",
@@ -1292,7 +1317,8 @@
    "takeaway": "S4 = just before S1 = stiff ventricle; S3 = just after S2 = volume.",
    "alsoTests": [
     "cardiac-output"
-   ]
+   ],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-037",
@@ -1354,7 +1380,8 @@
    ],
    "rationale": "During inspiration, more blood returns to the right side of the heart, so the pulmonic valve closes slightly after the aortic valve and S2 splits; on expiration it becomes single again. The split is best heard at the pulmonic area, the 2nd ICS at the left sternal border. S2 is high-pitched, so the diaphragm is used. The client must breathe normally so the nurse can compare inspiration and expiration. The aortic area is tempting because it is also a \"base\" area for S2, but the split comes from the pulmonic valve.",
    "takeaway": "Listen for a physiologic split S2 at the pulmonic area with the diaphragm during normal breathing.",
-   "alsoTests": []
+   "alsoTests": [],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-039",
@@ -1384,7 +1411,8 @@
    ],
    "rationale": "During inspiration, more blood returns to the right side of the heart, so the right ventricle takes slightly longer to empty and the pulmonic valve closes just after the aortic valve. S2 is then heard as two quick sounds, which merge again on expiration. A split that comes and goes with breathing in a client without symptoms is expected. Notifying the provider is tempting because any change in a heart sound feels abnormal, but that would treat a normal finding as a problem.",
    "takeaway": "A split S2 that varies with breathing is normal.",
-   "alsoTests": []
+   "alsoTests": [],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-040",
@@ -1400,21 +1428,22 @@
    "hintStrategy": "For \"best response\" teaching items, choose the answer that is accurate, simple, and not falsely alarming or falsely reassuring.",
    "stem": "A 58-year-old client is told by the provider that a new murmur was heard. The client asks the nurse, \"What is a murmur, anyway?\" Which response by the nurse is best?",
    "options": [
-    "\"It is the normal sound of your heart valves opening between beats.\"",
+    "\"It is something your provider will explain after more tests are done.\"",
     "\"It is a swishing sound made when blood flow through the heart is disrupted.\"",
-    "\"It is an extra beat caused by your heart's electrical system firing early.\"",
-    "\"It is a sound that means your heart muscle has been permanently damaged.\""
+    "\"It is an extra heart sound, like a gallop, heard between your beats.\"",
+    "\"It is a sign that one of your heart valves may need to be replaced.\""
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Normal heart sounds come from valves closing, and a murmur is not a normal opening sound.",
-    "Correct. A murmur is a swishing or blowing sound from disrupted, turbulent flow, such as through a narrowed or leaky valve.",
-    "Incorrect. An early electrical beat is a rhythm problem, not a murmur.",
-    "Incorrect. A murmur reflects disrupted flow, not necessarily muscle damage, and this response may cause unnecessary fear."
+    "Incorrect. Encouraging questions for the provider is reasonable, but the client asked a basic question the nurse can answer accurately now; deferring it leaves the client uninformed.",
+    "Correct. A murmur is a swishing or blowing sound made by turbulent blood flow, such as flow through a narrowed or leaky valve. This clear, accurate explanation answers what the client asked.",
+    "Incorrect. A murmur is an extra sound, but it is a swishing sound of turbulent flow, not a gallop such as S3 or S4, so this explanation confuses two findings.",
+    "Incorrect. Some murmurs do come from valve disease, but many are harmless, and suggesting surgery before evaluation is premature and alarming."
    ],
-   "rationale": "Smooth blood flow is quiet; turbulent flow makes noise. A murmur is a swishing or blowing sound produced when blood flow is disrupted, for example when blood squeezes through a narrowed valve or leaks backward through one that does not close. A clear, accurate explanation helps the client understand why further evaluation may be needed. Linking a murmur to permanent muscle damage is tempting because it sounds serious, but it is inaccurate and alarming.",
+   "rationale": "Smooth blood flow is quiet; turbulent flow makes noise. A murmur is a swishing or blowing sound produced when blood flow is disrupted, for example when blood squeezes through a narrowed valve or leaks backward through one that does not close. A clear, accurate explanation helps the client understand why further evaluation may be needed. Linking a murmur to valve replacement is tempting because some murmurs come from valve disease, but it is premature and alarming.",
    "takeaway": "A murmur is the sound of disrupted, turbulent blood flow.",
-   "alsoTests": []
+   "alsoTests": [],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-041",
@@ -1446,7 +1475,8 @@
    "takeaway": "Volume overload is resolving when weight drops and the lungs clear.",
    "alsoTests": [
     "perfusion-emergencies"
-   ]
+   ],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-042",
@@ -1462,23 +1492,24 @@
    "hintStrategy": "In therapeutic communication items, eliminate \"don't worry,\" deferring to others, and responses that end the conversation.",
    "stem": "A 29-year-old client at 34 weeks' gestation overhears the nurse mention an \"extra heart sound.\" Her vital signs are normal, her lungs are clear, and she has no shortness of breath. She asks anxiously, \"Is something wrong with my heart?\" Which response by the nurse is best?",
    "options": [
-    "\"Don't worry; the doctor will explain everything to you later.\"",
-    "\"An extra sound can mean heart failure, so we will keep a close eye on it.\"",
-    "\"Many pregnant clients have extra sounds, so there is nothing to discuss.\"",
+    "\"I will ask your provider to come in and explain the extra sound to you.\"",
+    "\"Your blood pressure, pulse, and lungs all sound normal to me today.\"",
+    "\"It is very common to worry about your heart this late in pregnancy.\"",
     "\"This sound is common late in pregnancy, and your other findings are normal.\""
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Telling the client not to worry and deferring to the provider dismisses her concern and gives no information.",
-    "Incorrect. Linking the sound to heart failure is inaccurate in this context and increases anxiety.",
-    "Incorrect. This response is partly accurate but shuts down the conversation instead of addressing her concern.",
-    "Correct. An S3 is expected in the third trimester because blood volume is higher, and her normal findings support that; this answer is accurate and addresses her fear."
+    "Incorrect. Involving the provider is reasonable, but explaining an expected finding is within the nurse's scope, and deferring leaves the client anxious without an answer.",
+    "Incorrect. This is true and somewhat reassuring, but it does not explain the extra sound she is asking about.",
+    "Incorrect. Acknowledging her worry is supportive, but it does not answer her question or correct her fear with accurate information.",
+    "Correct. An S3 is expected in the third trimester because blood volume is higher, and her normal findings support that; unlike the other responses, this one is accurate, explains the sound, and addresses her fear."
    ],
-   "rationale": "An S3 can be a normal finding in the third trimester, when blood volume is much higher and the ventricle fills rapidly. With normal vital signs, clear lungs, and no dyspnea, the nurse can honestly explain that the sound is expected. Therapeutic communication gives accurate information and addresses the client's feelings. \"Don't worry\" is tempting because it sounds kind, but it is false reassurance that dismisses her concern without explaining anything.",
+   "rationale": "An S3 can be a normal finding in the third trimester, when blood volume is much higher and the ventricle fills rapidly. With normal vital signs, clear lungs, and no dyspnea, the nurse can honestly explain that the sound is expected. Therapeutic communication gives accurate information and addresses the client's feelings. Acknowledging her worry is tempting because it is supportive, but it does not answer her question; referring her to the provider delays information the nurse can give now.",
    "takeaway": "Address the client's fear with accurate information, not false reassurance.",
    "alsoTests": [
     "lifespan"
-   ]
+   ],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-043",
@@ -1762,20 +1793,21 @@
    "stem": "Eight hours after abdominal surgery, a 66-year-old client's urine output has been 18 mL/hr for the past 2 hours. The client is newly restless, and the hands and feet are cool and clammy. BP is 98/62 mm Hg (baseline 132/80) and HR is 116/min. Which action should the nurse take first?",
    "options": [
     "Notify the provider of the signs of low cardiac output",
-    "Encourage the client to drink a glass of water each hour",
-    "Recheck urine output in 2 hours before calling anyone",
-    "Apply warm blankets to improve circulation to the feet"
+    "Check the urinary catheter tubing for kinks or a clot",
+    "Recheck the blood pressure and heart rate in 15 minutes",
+    "Apply warm blankets to the cool hands and feet"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Low urine output, new restlessness, cool clammy skin, falling BP, and tachycardia are signs of inadequate cardiac output that need prompt treatment.",
-    "Incorrect. Oral intake does not address the cause and may be unsafe soon after abdominal surgery.",
-    "Incorrect. Waiting 2 more hours delays treatment while organs are underperfused.",
-    "Incorrect. Warming the skin does not correct inadequate blood flow from the heart."
+    "Correct. Low urine output, new restlessness, cool clammy skin, falling BP, and tachycardia together are signs of inadequate cardiac output that need prompt treatment by the provider.",
+    "Incorrect. Checking catheter patency is reasonable for low urine output, but the restlessness, cool skin, hypotension, and tachycardia point to poor perfusion, not a blocked catheter.",
+    "Incorrect. Trending vital signs is reasonable, but the trend is already clear across several systems, and waiting delays treatment.",
+    "Incorrect. Warmth adds comfort, but it does not correct inadequate blood flow from the heart."
    ],
-   "rationale": "Cardiac output is judged by end-organ perfusion: brain, kidneys, and skin. This client shows all three: new restlessness, urine output below 30 mL/hr, and cool, clammy extremities, along with a falling BP and a compensatory rising heart rate. Together these signal inadequate cardiac output, which needs prompt provider notification and treatment. Rechecking in 2 hours is tempting because it gathers more data, but 2 hours of low output have already been confirmed.",
+   "rationale": "Cardiac output is judged by end-organ perfusion: brain, kidneys, and skin. This client shows all three: new restlessness, urine output below 30 mL/hr, and cool, clammy extremities, along with a falling BP and a compensatory rising heart rate. Together these signal inadequate cardiac output, which needs prompt provider notification and treatment. Checking the catheter is tempting because low urine output can come from a blocked tube, but the other findings show the whole body is underperfused.",
    "takeaway": "Brain, kidneys, and skin all showing poor perfusion means low cardiac output: report now.",
-   "alsoTests": []
+   "alsoTests": [],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-051",
@@ -1838,7 +1870,8 @@
    "takeaway": "Prioritize new signs of end-organ hypoperfusion over a chronic low EF with good perfusion.",
    "alsoTests": [
     "perfusion-emergencies"
-   ]
+   ],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-052",
@@ -1857,20 +1890,21 @@
     "Raise the head of the bed to 90 degrees",
     "Turn the client onto her left side",
     "Increase the rate of her IV fluids",
-    "Have the client take several deep breaths"
+    "Notify the provider of the drop in BP"
    ],
    "answer": 1,
    "optionRationales": [
     "Incorrect. Sitting her straight up does not reliably relieve uterine pressure on the vena cava and may worsen dizziness.",
-    "Correct. The pregnant uterus compresses the vena cava when she lies supine; turning her to the side restores venous return and preload.",
+    "Correct. The pregnant uterus compresses the vena cava when she lies supine; turning her to the side restores venous return and preload right away.",
     "Incorrect. IV fluid changes require a prescription and do not remove the compression causing the problem.",
-    "Incorrect. Deep breathing does not relieve pressure on the vena cava."
+    "Incorrect. Reporting the change is appropriate, but the nurse can fix the cause immediately by repositioning, and the call should come after that."
    ],
    "rationale": "Preload depends on venous return. Late in pregnancy, the heavy uterus can compress the inferior vena cava when the client lies flat on her back, reducing the blood returning to the heart. Less preload means a smaller stroke volume, lower cardiac output, and hypotension with dizziness. Turning her to the left side lifts the uterus off the vena cava and quickly restores venous return. Increasing IV fluids is tempting because more volume raises preload, but it does not remove the obstruction and requires a prescription.",
    "takeaway": "Supine hypotension in late pregnancy: turn the client to her left side to restore venous return.",
    "alsoTests": [
     "lifespan"
-   ]
+   ],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-053",
@@ -1889,20 +1923,21 @@
     "Increase the oxygen and finish the bolus",
     "Auscultate the heart to listen for a new S3",
     "Stop the infusion and keep the IV line open",
-    "Weigh the client to measure fluid gained"
+    "Notify the provider of the change in breathing"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Finishing the bolus adds more volume to a heart already backing fluid into the lungs.",
+    "Incorrect. Oxygen helps the low SpO₂, but finishing the bolus adds more volume to a heart already backing fluid into the lungs.",
     "Incorrect. Listening for an S3 adds data but does not stop the fluid that is causing the problem.",
-    "Correct. The bolus has raised preload beyond what the weak ventricle can handle; stopping it prevents further overload.",
-    "Incorrect. A weight does not change the client's condition and delays stopping the cause."
+    "Correct. The bolus has raised preload beyond what the weak ventricle can handle; stopping it first prevents further overload, and then the nurse can notify the provider.",
+    "Incorrect. The provider must be notified, but stopping the source of excess fluid comes first because it takes only seconds and prevents more harm."
    ],
    "rationale": "Rapid IV fluids raise preload. A moderate stretch helps the ventricle pump, but a weakened heart that is overstretched contracts ineffectively, and blood backs up into the lungs. New crackles, dyspnea, and falling SpO₂ during a bolus mean the client is becoming fluid overloaded, so the first action is to stop the source of excess volume while keeping IV access. Oxygen is tempting because it treats the low SpO₂, but continuing the bolus keeps adding to the problem.",
    "takeaway": "Signs of overload during an IV bolus: stop the fluid first.",
    "alsoTests": [
     "perfusion-emergencies"
-   ]
+   ],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-054",
@@ -1918,23 +1953,24 @@
    "hintStrategy": "If a medication is the likely cause of a dangerous change, stopping it per protocol usually comes first.",
    "stem": "A 64-year-old client with a hypertensive emergency is receiving a continuous IV arterial vasodilator with a titration protocol. One hour after a rate increase, BP has dropped from 186/104 to 84/48 mm Hg and the client reports feeling lightheaded. Which action should the nurse take first?",
    "options": [
-    "Recheck the BP in 30 minutes",
-    "Increase the infusion rate",
-    "Have the client sit at the edge of the bed",
+    "Recheck the BP with a manual cuff",
+    "Notify the provider of the low BP",
+    "Help the client lie flat in bed",
     "Stop the infusion per the protocol"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Waiting allows the dangerously low pressure to continue reducing organ perfusion.",
-    "Incorrect. Increasing the vasodilator would lower afterload and BP even further.",
-    "Incorrect. Sitting up with a low BP increases dizziness and the risk of falling.",
-    "Correct. Afterload has dropped too far to push blood to the organs; stopping the vasodilator allows vascular tone and BP to recover."
+    "Incorrect. Verifying an unexpected reading is reasonable, but the client's lightheadedness confirms the low BP, and the drug keeps lowering it while the nurse rechecks.",
+    "Incorrect. The provider needs to know, but the protocol lets the nurse stop the drug now, and that should happen before the call.",
+    "Incorrect. Lying flat is a safe supportive step, but it does not remove the vasodilator that is causing the low BP.",
+    "Correct. Afterload has dropped too far to push blood to the organs; stopping the vasodilator removes the cause and allows vascular tone and BP to recover."
    ],
-   "rationale": "An arterial vasodilator lowers afterload, the resistance the ventricle pumps against, which reduces the heart's workload. But afterload can be lowered too much: when vessels are widely dilated, pressure falls too low to push blood to the organs, and the client becomes lightheaded. Because the drop followed a rate increase, the first action is to stop the infusion per protocol and then notify the provider. Rechecking in 30 minutes is tempting as a confirmation step, but the reading and symptoms already show the drug is causing harm.",
+   "rationale": "An arterial vasodilator lowers afterload, the resistance the ventricle pumps against, which reduces the heart's workload. But afterload can be lowered too much: when vessels are widely dilated, pressure falls too low to push blood to the organs, and the client becomes lightheaded. Because the drop followed a rate increase, the first action is to stop the infusion per protocol and then notify the provider. Rechecking the BP is tempting as a confirmation step, but the reading and symptoms already show the drug is causing harm.",
    "takeaway": "A vasodilator can drop afterload too far; stop it when BP and perfusion fall.",
    "alsoTests": [
     "blood-pressure"
-   ]
+   ],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-055",
@@ -1951,20 +1987,21 @@
    "stem": "Four hours after a hip replacement, a 70-year-old client's dressing is saturated with bright red blood that is pooling on the sheet. HR has risen from 84 to 128/min and BP is 92/70 mm Hg. Which action should the nurse take first?",
    "options": [
     "Apply firm, direct pressure over the bleeding site",
-    "Raise the head of the bed to improve breathing",
-    "Reinforce the dressing and recheck it in 1 hour",
-    "Document the amount of drainage on the flow sheet"
+    "Reinforce the dressing with extra gauze and tape",
+    "Recheck the blood pressure and heart rate right away",
+    "Increase the rate of the IV fluids to replace volume"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. Stopping the blood loss protects preload; the rising heart rate shows the body is already compensating for lost volume.",
-    "Incorrect. Raising the head of the bed does not stop the bleeding and may lower BP further.",
-    "Incorrect. Reinforcing and waiting allows the active blood loss to continue.",
-    "Incorrect. Documentation is necessary but does not address active bleeding."
+    "Incorrect. Reinforcing is a routine response to drainage, but it absorbs blood without stopping active bleeding.",
+    "Incorrect. More vital signs add data, but the trend is already clear and the bleeding continues while the nurse measures.",
+    "Incorrect. Replacing volume may be needed, but it requires a prescription and does not stop the ongoing loss."
    ],
    "rationale": "Bleeding lowers preload: less blood returns to the heart, so each beat ejects a smaller stroke volume. Baroreceptors sense the falling pressure and the sympathetic nervous system speeds up the heart to protect cardiac output, which explains the rising heart rate and narrowing pulse pressure. The first priority is to stop the loss with direct pressure, then summon help. Reinforcing the dressing is tempting because it is a routine response, but it does not stop the hemorrhage that is draining preload.",
    "takeaway": "Active bleeding drains preload; stop the loss first with direct pressure.",
-   "alsoTests": []
+   "alsoTests": [],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-056",
@@ -1983,18 +2020,19 @@
     "\"Record the color of the urine in the chart each hour.\"",
     "\"Tell me right away if any hour is under 30 mL.\"",
     "\"Make sure the bag is emptied before it is half full.\"",
-    "\"Keep the drainage bag clipped to the side rail.\""
+    "\"Keep the bag below the level of the bladder.\""
    ],
    "answer": 1,
    "optionRationales": [
     "Incorrect. Urine color is useful, but the volume is the key indicator of kidney perfusion.",
-    "Correct. Urine output below 30 mL/hr in an adult is often one of the earliest objective signs that cardiac output is inadequate.",
+    "Correct. Urine output below 30 mL/hr in an adult is often one of the earliest objective signs that cardiac output is inadequate, and a clear report parameter lets the nurse act quickly.",
     "Incorrect. Emptying the bag is routine; this does not identify a change the nurse must act on.",
-    "Incorrect. The bag should hang below the bladder on the bed frame, not on a side rail that moves."
+    "Incorrect. This is correct catheter care that prevents backflow, but it does not tell the UAP when a finding signals low cardiac output."
    ],
    "rationale": "The kidneys are sensitive indicators of cardiac output. In adults, urine output of about 30 mL/hr or more suggests adequate kidney perfusion, and a drop is often one of the earliest objective signs that output is falling. When delegating, the nurse must give the UAP a specific parameter to report so that the nurse can assess and act promptly. Recording urine color is tempting because it sounds thorough, but it does not give the UAP a clear threshold that signals danger.",
    "takeaway": "When delegating urine output, give a specific report parameter: less than 30 mL/hr.",
-   "alsoTests": []
+   "alsoTests": [],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-057",
@@ -2010,14 +2048,14 @@
    "hintStrategy": "Separate chronic baseline findings from new findings, then pick the new one that signals a new organ problem.",
    "stem": "A 74-year-old client with long-standing lung disease and chronic respiratory acidosis is admitted with an exacerbation. Which new finding is most important for the nurse to report to the provider?",
    "options": [
-    "Barrel-shaped chest on inspection",
+    "Increased cough with thick white sputum",
     "Scattered expiratory wheezes bilaterally",
     "Jugular vein distention at 45 degrees",
     "SpO₂ of 90% (usual 89–91%)"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. A barrel chest is a chronic finding in long-standing lung disease.",
+    "Incorrect. More sputum is worth noting, but it is an expected feature of a lung disease exacerbation and does not signal a new cardiac complication.",
     "Incorrect. Wheezes are expected during an exacerbation of chronic lung disease and are not a new cardiac sign.",
     "Correct. Acidosis constricts pulmonary vessels and raises right ventricular afterload; new JVD suggests the right ventricle is failing.",
     "Incorrect. This SpO₂ is within the client's usual range."
@@ -2026,7 +2064,8 @@
    "takeaway": "In chronic acidosis, new JVD suggests right ventricular failure from increased pulmonary afterload.",
    "alsoTests": [
     "cardiac-anatomy"
-   ]
+   ],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-058",
@@ -2087,7 +2126,8 @@
    ],
    "rationale": "Cardiac output equals heart rate times stroke volume. Now: 125/min × 40 mL = 5,000 mL/min, or 5.0 L/min, which is within the normal 4–8 L/min. However, stroke volume has fallen from 72 to 40 mL because bleeding reduced preload, and the heart rate has climbed to compensate. A normal output number is tempting to read as \"the client is fine,\" but it is being maintained only by tachycardia, which cannot continue indefinitely and shortens filling time.",
    "takeaway": "A normal cardiac output can hide a low stroke volume when tachycardia is compensating.",
-   "alsoTests": []
+   "alsoTests": [],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-059",
@@ -2165,7 +2205,8 @@
    "takeaway": "Follow the prescribed hold parameters and the client's perfusion, not a general number.",
    "alsoTests": [
     "conduction-system"
-   ]
+   ],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-060",
@@ -2281,20 +2322,21 @@
     "\"A little stretch helps your heart, but too much weakens each squeeze.\"",
     "\"Limiting fluids helps your heart squeeze harder by lowering resistance.\"",
     "\"More fluid always helps, but your kidneys can't handle it right now.\"",
-    "\"Fluids have no effect on how well your heart pumps, only on BP.\""
+    "\"Limiting fluids keeps your blood pressure from rising too high.\""
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Moderate stretch strengthens contraction, but continuous overstretching makes contraction ineffective, especially in a weak heart.",
-    "Incorrect. Fluid volume affects preload, not resistance (afterload).",
-    "Incorrect. More fluid does not always help; excess preload makes contraction less effective.",
-    "Incorrect. Fluid volume directly affects preload, which affects stroke volume."
+    "Correct. Moderate stretch improves contraction, but overstretching a failing ventricle makes contraction ineffective; this directly corrects the client's misconception.",
+    "Incorrect. Resistance is afterload; limiting fluids changes preload, not the resistance the heart pumps against.",
+    "Incorrect. This repeats the misconception that more fluid always helps the heart pump.",
+    "Incorrect. Extra fluid can raise BP, but that is not the main concern in heart failure, and it does not correct the belief that more blood always helps the heart pump."
    ],
    "rationale": "Preload is the stretch of ventricular fibers at the end of diastole. A moderate stretch helps the ventricle contract more forcefully, which is why some fluid can improve stroke volume. But continuous overstretching of the fibers, as in fluid overload, makes contraction ineffective, and a failing heart reaches that point quickly. The kidney answer is tempting because it sounds reasonable, but it repeats the client's misconception that more fluid always helps.",
    "takeaway": "Moderate preload helps; too much preload overstretches and weakens the heart.",
    "alsoTests": [
     "perfusion-emergencies"
-   ]
+   ],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-064",
@@ -2555,7 +2597,8 @@
    "takeaway": "Chaotic rhythm plus an unresponsive, pulseless client: call for help and start CPR.",
    "alsoTests": [
     "promotion-interventions"
-   ]
+   ],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-071",
@@ -2571,23 +2614,24 @@
    "hintStrategy": "New rhythm plus symptoms equals unstable; choose the action that brings help fastest.",
    "stem": "A 76-year-old client's monitor now shows a regular rhythm at 32/min with wide QRS complexes and no P waves. The client is newly confused, BP is 74/40 mm Hg, and the skin is cool and pale. Which action should the nurse take first?",
    "options": [
-    "Obtain a 12-lead ECG before notifying anyone",
-    "Assist the client to a chair to ease breathing",
+    "Obtain a 12-lead ECG to confirm the rhythm",
+    "Apply oxygen by nasal cannula and raise the bed",
     "Call the rapid response team to the bedside",
-    "Recheck the vital signs in 15 minutes"
+    "Recheck the blood pressure with a manual cuff"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. An ECG can be obtained as ordered, but delaying help for an unstable client is unsafe.",
-    "Incorrect. Getting up with a BP of 74/40 risks syncope and falls; the problem is the heart rate, not breathing.",
-    "Correct. A ventricular backup rhythm at 32/min is too slow to maintain cardiac output, and the client shows hypoperfusion of the brain and skin.",
-    "Incorrect. Waiting delays treatment of a rhythm that is already causing poor perfusion."
+    "Incorrect. A 12-lead ECG documents the rhythm, but it delays treatment of a client who is already unstable.",
+    "Incorrect. Oxygen and positioning are reasonable supportive steps, but they do not raise the slow rate that is causing poor perfusion.",
+    "Correct. A ventricular escape rhythm at 32/min with confusion, hypotension, and cool skin shows perfusion is failing now; the team can bring rate support quickly.",
+    "Incorrect. Verifying the BP is reasonable, but the confusion and cool, pale skin already confirm poor perfusion, so waiting delays help."
    ],
    "rationale": "When higher pacemakers fail, the ventricles (Purkinje fibers) can take over at 20–40/min, producing wide QRS complexes and no P waves. This last backup is often too slow to keep cardiac output adequate. This client is newly confused, hypotensive, and cool and pale, so perfusion is failing now and rapid help is needed. Obtaining an ECG is tempting because it documents the rhythm, but it delays treatment of a client who is already unstable.",
    "takeaway": "A ventricular backup rhythm with signs of hypoperfusion needs immediate rapid response.",
    "alsoTests": [
     "cardiac-output"
-   ]
+   ],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-072",
@@ -2721,7 +2765,8 @@
    "takeaway": "New rhythm with symptoms of poor perfusion outranks stable or chronic rhythms.",
    "alsoTests": [
     "cardiac-output"
-   ]
+   ],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-074",
@@ -2785,23 +2830,24 @@
     ]
    },
    "options": [
-    "Give the dose and recheck the strip in 4 hours",
+    "Check the BP before deciding about the dose",
     "Give half the dose and monitor the heart rate",
     "Hold the dose and resume it at the next scheduled time",
     "Hold the dose and notify the provider of the changes"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Giving the drug would further slow AV conduction in a client already showing a lengthened PR and symptoms.",
-    "Incorrect. The nurse cannot independently change the prescribed dose.",
-    "Incorrect. Holding without reporting leaves the provider unaware of a significant conduction change.",
-    "Correct. The PR interval has lengthened markedly and the rate has slowed with new symptoms, so the dose should be held and the provider notified."
+    "Incorrect. A BP adds useful data, but the slower rate, long PR interval, and wooziness already show the dose should be held and reported.",
+    "Incorrect. The nurse cannot change a prescribed dose independently, and any amount may slow conduction further.",
+    "Incorrect. Holding prevents harm today, but resuming without telling the prescriber leaves therapy unchanged.",
+    "Correct. The PR interval jumped to 0.30 seconds and the rate slowed with new symptoms; holding protects the client, and the provider needs the data to adjust therapy."
    ],
    "rationale": "The PR interval measures the time it takes the impulse to travel from the atria through the AV node, normally 0.12–0.20 seconds. A jump from 0.18 to 0.30 seconds, with a normal QRS, means conduction through the AV node has slowed considerably, likely from the medication. With a slower rate and new wooziness, the nurse withholds the dose and notifies the provider. Simply holding the dose is tempting because it prevents harm today, but the prescriber needs the information to adjust therapy.",
    "takeaway": "A lengthening PR interval with symptoms before an AV-node-slowing drug: hold and notify.",
    "alsoTests": [
     "cardiac-output"
-   ]
+   ],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-075",
@@ -2850,20 +2896,21 @@
     "Check the client's BP while standing",
     "Help the client sit or lie down right away",
     "Call the provider to report the rhythm",
-    "Print a rhythm strip for the chart"
+    "Walk the client back to bed with assistance"
    ],
    "answer": 1,
    "optionRationales": [
     "Incorrect. A standing BP delays protecting a client who may faint at any moment.",
     "Correct. A slow rate is lowering cardiac output and the client is near syncope; getting the client down prevents a fall and improves blood flow to the brain.",
     "Incorrect. The provider must be notified, but client safety comes first.",
-    "Incorrect. Documentation does not protect the client from falling."
+    "Incorrect. Getting the client to bed is a reasonable goal, but walking while near fainting risks a fall; sitting or lying down right where the client is protects the client faster."
    ],
    "rationale": "A heart rate of 42/min lowers cardiac output because there are fewer beats each minute. Standing makes it harder to perfuse the brain, so this client is about to faint. The first action is to prevent injury by helping the client sit or lie down, which also improves blood flow to the brain. Then the nurse assesses vital signs and notifies the provider. Calling the provider is tempting because the rhythm is new, but a client who falls while the nurse is on the phone could be seriously injured.",
    "takeaway": "Near-syncope from a slow rhythm: get the client down safely before anything else.",
    "alsoTests": [
     "cardiac-output"
-   ]
+   ],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-077",
@@ -2879,23 +2926,24 @@
    "hintStrategy": "Chain of command questions reward escalation when a client is unsafe; avoid options that wait or shift responsibility.",
    "stem": "At 0200 the nurse reports to the on-call provider that a 70-year-old client has a new heart rate of 38/min, BP 80/46 mm Hg, and dizziness. The provider says, \"Just watch him and call me in the morning.\" Thirty minutes later the client is more confused. Which action should the nurse take next?",
    "options": [
-    "Document the provider's response and recheck the client at 0600",
-    "Repeat the same information to the provider in 1 hour",
+    "Document the provider's response and check vital signs every 15 minutes",
+    "Apply oxygen and keep the client on strict bed rest with fall precautions",
     "Notify the charge nurse and escalate through the chain of command",
-    "Ask the family to request that a different provider see the client"
+    "Complete an incident report describing the provider's unsafe response"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Waiting until morning while the client deteriorates is unsafe.",
-    "Incorrect. Waiting another hour delays care for a client whose perfusion is worsening.",
-    "Correct. When a provider's response does not meet the client's needs and the client worsens, the nurse escalates through the chain of command.",
-    "Incorrect. Placing the responsibility on the family is inappropriate; escalation is the nurse's duty."
+    "Incorrect. Documenting and monitoring are needed, but they do not get treatment for a client whose perfusion is worsening.",
+    "Incorrect. Oxygen, bed rest, and fall precautions are reasonable supportive steps, but they do not correct the slow rate causing poor brain perfusion.",
+    "Correct. The provider's plan does not address a deteriorating client; escalating through the chain of command gets the client timely treatment.",
+    "Incorrect. An incident report may be appropriate later, but it does not get the client care now."
    ],
-   "rationale": "A heart rate of 38/min with hypotension and increasing confusion shows the slow rhythm is lowering cardiac output enough to underperfuse the brain. The nurse is accountable for advocating for the client. When the provider's plan does not address a deteriorating client, the nurse escalates through the chain of command, starting with the charge nurse or supervisor, and uses the rapid response system per policy. Documenting and waiting is tempting because the nurse did follow instructions, but following an unsafe plan does not protect the client.",
+   "rationale": "A heart rate of 38/min with hypotension and increasing confusion shows the slow rhythm is lowering cardiac output enough to underperfuse the brain. The nurse is accountable for advocating for the client. When the provider's plan does not address a deteriorating client, the nurse escalates through the chain of command, starting with the charge nurse or supervisor, and uses the rapid response system per policy. Documenting and monitoring closely is tempting because the nurse did follow instructions, but following an unsafe plan does not protect the client.",
    "takeaway": "If the provider's response is inadequate and the client is worsening, escalate through the chain of command.",
    "alsoTests": [
     "cardiac-output"
-   ]
+   ],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-078",
@@ -2928,7 +2976,8 @@
    "alsoTests": [
     "peripheral-assessment",
     "cardiac-output"
-   ]
+   ],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-079",
@@ -3048,7 +3097,8 @@
    ],
    "rationale": "Each part of the ECG maps to a part of the conduction pathway. The P wave shows atrial depolarization, the PR interval shows travel time through the AV node (0.12–0.20 seconds), and the QRS shows ventricular depolarization through the bundle branches and Purkinje fibers (normally under 0.12 seconds). Here the P waves and PR interval are normal, but the QRS is wide, so the delay is below the AV node. The AV node answer is tempting because a \"long\" interval often points there, but the PR interval is normal.",
    "takeaway": "Long PR = AV node delay; wide QRS = bundle branch or ventricular delay.",
-   "alsoTests": []
+   "alsoTests": [],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-083",
@@ -3111,7 +3161,8 @@
    "alsoTests": [
     "cardiac-output",
     "peripheral-assessment"
-   ]
+   ],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-085",
@@ -3190,20 +3241,21 @@
    "stem": "A 68-year-old client with frequent irregular beats on the monitor and a potassium level of 3.0 mEq/L received prescribed potassium replacement. Which finding best indicates that the treatment was effective?",
    "options": [
     "Potassium of 4.2 mEq/L and a regular rhythm",
-    "Potassium of 3.3 mEq/L and frequent irregular beats",
+    "Potassium of 3.6 mEq/L and frequent irregular beats",
     "Potassium of 5.8 mEq/L and a regular rhythm",
     "Potassium of 4.0 mEq/L and new dizziness"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. A potassium level in the normal range with resolution of the irregular beats shows the treatment corrected both the lab value and its effect on the rhythm.",
-    "Incorrect. Potassium is still below the 3.5–5.0 mEq/L range, and the dysrhythmia persists.",
+    "Incorrect. The level is now in range, but the irregular beats persist, so the treatment has not yet corrected its effect on the rhythm.",
     "Incorrect. A level of 5.8 mEq/L is above the normal range, which can also cause dysrhythmias.",
     "Incorrect. The level is normal, but new dizziness suggests a perfusion problem that needs follow-up."
    ],
    "rationale": "Potassium movement is a key part of the action potential, especially repolarization, so a low level can cause irregular beats. Effective replacement brings potassium back into the 3.5–5.0 mEq/L range and resolves the rhythm problem it caused. Overcorrection is also dangerous because a high potassium level can cause dysrhythmias too. The option with a regular rhythm but a level of 5.8 mEq/L is tempting because the rhythm improved, but the overcorrected level creates a new risk.",
    "takeaway": "Effective potassium replacement means a normal level and a resolved rhythm problem.",
-   "alsoTests": []
+   "alsoTests": [],
+   "bestAnswer": true
   },
   {
    "id": "m16-x1-088",

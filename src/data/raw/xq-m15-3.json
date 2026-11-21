@@ -14,24 +14,25 @@
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
    "stem": "A client with a left chest tube to water-seal drainage for a spontaneous pneumothorax is leaving for a CT scan. The transporter picks up a pair of hemostats and says, \"I'll clamp the tube so nothing spills on the way.\" Which action by the nurse is most appropriate?",
    "options": [
-    "Allow the clamping as long as the clamps come off when the client returns",
-    "Clamp the tube but send a bottle of sterile water along with the client",
+    "Tape each tubing connection before the client leaves the unit",
+    "Send sterile water with the client in case the tube disconnects",
     "Stop the clamping; keep the unit upright and below the chest",
-    "Disconnect the drainage unit and cap the end of the chest tube instead"
+    "Ask the provider whether the tube may be clamped for the trip"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Even a short clamp on a tube that is still removing air traps that air in the pleural space and can cause a tension pneumothorax.",
-    "Incorrect. The sterile water bottle is for an accidental disconnection; it does not make clamping safe.",
-    "Correct. A chest tube is not clamped for transport; an upright unit kept below the chest preserves the water seal and lets air keep escaping.",
-    "Incorrect. Disconnecting removes the one-way water seal, so air can be drawn back into the chest."
+    "Incorrect. Taped connections help prevent disconnection, but this lets the transporter go ahead and clamp a tube that is still removing air.",
+    "Incorrect. Sterile water is kept nearby for an accidental disconnection, but it does nothing to stop the unsafe clamping about to happen.",
+    "Correct. A chest tube is not clamped for transport; stopping the clamp and keeping the unit upright and below the chest preserves the water seal and lets air keep escaping.",
+    "Incorrect. Clamping is done only for specific reasons such as locating a leak; transport is not one, so calling delays the step the nurse can take now."
    ],
-   "rationale": "The water seal works only while the system stays open, upright, and below the chest. A clamped tube that is still removing air turns the pleural space into a closed pocket: air keeps leaking from the lung but has no exit, pressure builds, and a simple pneumothorax can become a tension pneumothorax. Clamping is done only briefly and only per order or policy, such as to locate a leak, change the unit, or perform a provider-ordered trial before removal. The tempting choice, clamping just for the trip, feels protective, but a spill is a small risk compared with trapped air.",
+   "rationale": "The water seal works only while the system stays open, upright, and below the chest. A clamped tube that is still removing air turns the pleural space into a closed pocket: air keeps leaking from the lung but has no exit, pressure builds, and a simple pneumothorax can become a tension pneumothorax. Clamping is done only briefly and only per order or policy, such as to locate a leak, change the unit, or perform a provider-ordered trial before removal. Taping connections and sending sterile water are reasonable transport precautions, but neither stops the clamp, and a spill is a small risk compared with trapped air.",
    "takeaway": "Never clamp a chest tube for transport; keep the unit upright and below chest level.",
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
    "hintContent": "Think about where air leaking from the lung goes if the tube is closed off.",
-   "hintStrategy": "When an option prevents a mess but blocks a safety system, choose the option that keeps the safety system working."
+   "hintStrategy": "When an option prevents a mess but blocks a safety system, choose the option that keeps the safety system working.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x3-002",
@@ -47,21 +48,22 @@
     "Auscultate breath sounds and check the tubing for kinks",
     "Document that the right lung has now fully re-expanded",
     "Milk the tubing firmly from the chest toward the drainage unit",
-    "Increase the suction setting until the tidaling returns"
+    "Notify the provider and request a chest x-ray"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. Absent tidaling can mean re-expansion or an obstruction, so the nurse assesses the client and the tubing before deciding which.",
     "Incorrect. Re-expansion is one possibility, but it cannot be concluded until the tubing is checked and the lung is assessed (and usually confirmed by x-ray).",
     "Incorrect. Routine milking or stripping is not done; tubing is squeezed gently only per policy to move clots.",
-    "Incorrect. Tidaling is seen in the water seal, and changing suction does not address a possible kink or clot."
+    "Incorrect. An x-ray may later confirm re-expansion, but the client is stable and the nurse should first assess breath sounds and check for a kink the nurse can fix."
    ],
    "rationale": "Tidaling shows that the tube is open to the pleural space. When it stops, there are two opposite explanations: good news (the lung has re-expanded and the pleural space has closed) or bad news (a kink, clot, dependent loop, or clamp is blocking the tube). Because the stable vital signs do not tell the nurse which one is happening, the first step is to assess breath sounds and trace the tubing. The tempting answer is to document re-expansion, but charting a conclusion without assessing could miss a blocked tube that is about to trap air.",
    "takeaway": "No tidaling means re-expanded OR blocked; assess the client and the tubing before concluding.",
    "cjmm": "Analyze Cues",
    "focus": "Assessment Findings",
    "hintContent": "Name the two very different reasons tidaling can stop.",
-   "hintStrategy": "When a finding has more than one possible cause, the first action is the assessment that tells them apart."
+   "hintStrategy": "When a finding has more than one possible cause, the first action is the assessment that tells them apart.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x3-003",
@@ -74,24 +76,25 @@
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
    "stem": "A UAP tells the nurse that a client's chest drainage unit has \"water bubbling the whole time\" in the chamber connected to wall suction. The nurse confirms gentle, continuous bubbling in the wet suction control chamber and no bubbling in the water seal chamber. Which response by the nurse is most appropriate?",
    "options": [
-    "\"That bubbling means there is an air leak, so I will clamp the tube.\"",
-    "\"Please turn the wall suction off so the water stops bubbling.\"",
-    "\"That means the lung has collapsed again; I will call the provider.\"",
+    "\"Thank you. I will let the provider know about the bubbling.\"",
+    "\"Thank you. Please keep checking the unit every hour for me.\"",
+    "\"I will lower the wall suction so the bubbling is quieter.\"",
     "\"That gentle bubbling is expected; it shows the suction is working.\""
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. An air leak shows as continuous bubbling in the water seal chamber, not the suction chamber, and clamping is not the fix.",
-    "Incorrect. Turning off prescribed suction changes the treatment without cause; the bubbling is expected.",
-    "Incorrect. Suction-chamber bubbling says nothing about lung collapse; the water seal shows no leak.",
-    "Correct. Gentle, continuous bubbling in a wet suction control chamber is the normal sign that suction is being applied."
+    "Incorrect. Thanking the UAP is good, but gentle suction-chamber bubbling is an expected finding, so notifying the provider is unnecessary escalation.",
+    "Incorrect. Encouraging reports is helpful, but assessing a drainage unit is the nurse's role, and this leaves the UAP without an explanation of the finding.",
+    "Incorrect. Suction is adjusted when bubbling is vigorous; gentle bubbling means the prescribed suction is working and should not be changed.",
+    "Correct. Gentle, continuous bubbling in a wet suction control chamber is the normal sign that suction is applied; explaining this also teaches the UAP what to report."
    ],
-   "rationale": "Each chamber of a chest drainage unit has its own job, and bubbling means different things in each. In a wet suction control chamber, gentle continuous bubbling means suction is working; only vigorous bubbling needs adjustment per policy. In the water seal chamber, continuous bubbling signals an air leak. The tempting answer treats all bubbling as a leak, which is the most common chest tube trap; the nurse should confirm which chamber is bubbling before acting and then reinforce the UAP's good reporting.",
+   "rationale": "Each chamber of a chest drainage unit has its own job, and bubbling means different things in each. In a wet suction control chamber, gentle continuous bubbling means suction is working; only vigorous bubbling needs adjustment per policy. In the water seal chamber, continuous bubbling signals an air leak. The tempting answers treat expected bubbling as a problem to report or fix; the nurse should confirm which chamber is bubbling, explain the expected finding, and reinforce the UAP's good reporting.",
    "takeaway": "Bubbling is normal in the wet suction chamber and a warning sign only when continuous in the water seal.",
    "cjmm": "Analyze Cues",
    "focus": "Delegation & Safety",
    "hintContent": "Ask which chamber is bubbling and what that chamber's job is.",
-   "hintStrategy": "For equipment questions, match the finding to the specific part of the system before deciding whether it is normal."
+   "hintStrategy": "For equipment questions, match the finding to the specific part of the system before deciding whether it is normal.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x3-004",
@@ -194,7 +197,8 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
    "hintContent": "For each client, decide whether the finding is expected for that situation.",
-   "hintStrategy": "In multi-client priority items, eliminate every client whose findings are expected; the one left with an unexplained acute change goes first."
+   "hintStrategy": "In multi-client priority items, eliminate every client whose findings are expected; the one left with an unexplained acute change goes first.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x3-006",
@@ -224,7 +228,8 @@
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "hintContent": "Identify which part of the system a tipped unit puts at risk.",
-   "hintStrategy": "Match the action to the exact event: tipped, disconnected, and pulled out each have their own fix."
+   "hintStrategy": "Match the action to the exact event: tipped, disconnected, and pulled out each have their own fix.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x3-007",
@@ -358,7 +363,8 @@
    "cjmm": "Take Action",
    "focus": "Prioritization",
    "hintContent": "Name what the cluster of findings after removal most likely means.",
-   "hintStrategy": "With acute hypoxemia, choose the action that improves oxygenation now; reassessment and comfort measures come after."
+   "hintStrategy": "With acute hypoxemia, choose the action that improves oxygenation now; reassessment and comfort measures come after.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x3-011",
@@ -469,14 +475,14 @@
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "stem": "A client with a left chest tube for a pneumothorax was repositioned by the UAP 30 minutes ago. Now the client is more short of breath, SpO₂ has dropped from 95% to 90%, and there is no tidaling in the water seal. The nurse finds the tubing pinned under the client's hip. Which action should the nurse take first?",
    "options": [
-    "Increase the suction on the control dial",
+    "Notify the provider of the drop in SpO₂",
     "Squeeze the tubing toward the drainage unit",
     "Reposition the client to free the tubing",
     "Request a STAT portable chest x-ray"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. More suction cannot work through a compressed tube and does not remove the cause.",
+    "Incorrect. The provider should hear about the change if the client does not improve, but the nurse can relieve the obvious cause right now.",
     "Incorrect. Squeezing is used only per policy to move clots; this obstruction is external compression.",
     "Correct. Relieving the compression reopens the path for air and fluid to leave the chest; the nurse then reassesses.",
     "Incorrect. Imaging delays the simple fix for an obvious mechanical cause."
@@ -486,7 +492,8 @@
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "hintContent": "Ask what is stopping air from leaving the chest right now.",
-   "hintStrategy": "If you can see a simple, reversible cause of deterioration, the first action is to reverse it."
+   "hintStrategy": "If you can see a simple, reversible cause of deterioration, the first action is to reverse it.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x3-015",
@@ -516,7 +523,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Assessment Findings",
    "hintContent": "Consider why air would move out of the chest only during exhalation or a cough.",
-   "hintStrategy": "For drainage-system findings, ask both where the bubbling is and when it happens."
+   "hintStrategy": "For drainage-system findings, ask both where the bubbling is and when it happens.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x3-016",
@@ -570,23 +578,24 @@
    "stem": "A 58-year-old client with a chest tube after rib fractures is splinting the chest and refuses to cough or use the incentive spirometer because \"it hurts too much.\" Respirations are shallow at 24/min, SpO₂ is 92% on 2 L/min, and pain is rated 8/10. Which action is most appropriate?",
    "options": [
     "Give the ordered analgesic, then coach coughing and the IS",
-    "Let the client skip coughing until the chest tube is removed",
+    "Give the ordered analgesic and recheck pain in 30 minutes",
     "Increase the oxygen flow and let the client rest undisturbed",
-    "Clamp the chest tube for a short time so coughing hurts less"
+    "Coach coughing and the IS first, then give the analgesic"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Pain control lets the client breathe deeply and cough, which helps the lung re-expand and prevents atelectasis.",
-    "Incorrect. Skipping lung-expansion exercises raises the risk of atelectasis and slows re-expansion.",
-    "Incorrect. More oxygen treats the number but not the shallow breathing that causes it.",
-    "Incorrect. Clamping is not a pain intervention and can trap air in the chest."
+    "Correct. Pain control comes first so the client can breathe deeply and cough, which helps the lung re-expand and prevents atelectasis.",
+    "Incorrect. The analgesic is needed, but stopping there treats only the pain; the goal is lung expansion through coughing and the IS.",
+    "Incorrect. Oxygen is ordered, but raising it treats the low SpO₂, not the shallow breathing that causes it.",
+    "Incorrect. Both steps belong in the plan, but at 8/10 pain the client will keep splinting; the analgesic must come first."
    ],
    "rationale": "Shallow, splinted breathing after chest trauma leads to atelectasis and poor re-expansion. The lesson's rule is to give pain medicine so the client can cough, deep breathe, use the IS, and walk, because these activities help the lung re-expand. The analgesic is the means and the breathing exercises are the goal, so the best action includes both. The tempting option is extra oxygen and rest, which raises the SpO₂ briefly but leaves the underlying hypoventilation untreated.",
    "takeaway": "Treat pain so the client with a chest tube can cough, deep breathe, and use the IS.",
    "cjmm": "Generate Solutions",
    "focus": "Nursing Interventions",
    "hintContent": "Ask what is causing the shallow breathing and what removes that barrier.",
-   "hintStrategy": "Prefer the option that treats the cause and achieves the therapeutic goal over one that only changes a number."
+   "hintStrategy": "Prefer the option that treats the cause and achieves the therapeutic goal over one that only changes a number.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x3-018",
@@ -616,7 +625,8 @@
    "cjmm": "Take Action",
    "focus": "Prioritization",
    "hintContent": "Decide which ABC problem is present right now.",
-   "hintStrategy": "When the provider is already notified, choose the nursing action that treats the airway or breathing problem before preparing for procedures."
+   "hintStrategy": "When the provider is already notified, choose the nursing action that treats the airway or breathing problem before preparing for procedures.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x3-019",
@@ -683,7 +693,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
    "hintContent": "Think about which side of the clamp the leaking air must be coming from.",
-   "hintStrategy": "For troubleshooting items, trace the air path and ask what the test isolates."
+   "hintStrategy": "For troubleshooting items, trace the air path and ask what the test isolates.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x3-021",
@@ -759,7 +770,8 @@
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
    "hintContent": "Look for the point where the trend reverses instead of improving.",
-   "hintStrategy": "With flowsheet exhibits, compare each row with the one before it; the unexpected change is the priority."
+   "hintStrategy": "With flowsheet exhibits, compare each row with the one before it; the unexpected change is the priority.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x3-022",
@@ -777,21 +789,22 @@
     "Turn the oxygen off until the client becomes more alert",
     "Reduce the oxygen flow rate and notify the provider",
     "Let the client sleep, because the SpO₂ is now excellent",
-    "Switch to a nonrebreather mask to improve oxygen delivery"
+    "Notify the provider and request an arterial blood gas"
    ],
    "answer": 1,
    "optionRationales": [
     "Incorrect. Oxygen the client needs is never withheld; it is titrated, not stopped.",
     "Correct. Drowsiness with an SpO₂ above target suggests CO₂ narcosis; titrating to the prescribed target and reporting the change (for an ABG) addresses it.",
     "Incorrect. New drowsiness in a CO₂ retainer is a red flag, not restful sleep.",
-    "Incorrect. Even more oxygen would push the SpO₂ further above target and is not indicated."
+    "Incorrect. Reporting and an ABG are needed, but the oxygen keeps driving CO₂ retention until the nurse lowers it to the prescribed target."
    ],
    "rationale": "In clients with COPD who chronically retain CO₂, oxygen is titrated to a prescribed target, often 88–92%. This client is far above target and newly drowsy with a slowing respiratory rate, which suggests rising CO₂ and possible CO₂ narcosis. The nurse brings the oxygen down to the prescribed range (not off) and notifies the provider so an ABG can be obtained. The tempting answer is to let the client rest because 99% looks reassuring, but in this client a high SpO₂ with a falling level of consciousness is a warning sign, not a success.",
    "takeaway": "COPD client who becomes drowsy on high-flow oxygen: titrate to the prescribed target, never off, and notify the provider.",
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "hintContent": "Compare the SpO₂ with the prescribed target, then connect it to the change in alertness.",
-   "hintStrategy": "Eliminate extremes (stop it completely or give much more) and choose the action that matches the prescribed target."
+   "hintStrategy": "Eliminate extremes (stop it completely or give much more) and choose the action that matches the prescribed target.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x3-023",
@@ -821,7 +834,8 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
    "hintContent": "Separate chronic, expected findings from an acute change in breathing.",
-   "hintStrategy": "In 'see first' items, pick the client with an acute, unstable airway or breathing problem over clients with expected or chronic findings."
+   "hintStrategy": "In 'see first' items, pick the client with an acute, unstable airway or breathing problem over clients with expected or chronic findings.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x3-024",
@@ -836,15 +850,15 @@
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "stem": "A school nurse responds to the gym for a 15-year-old student with asthma. The student is sitting forward, using neck muscles to breathe, speaking 2–3 words at a time, and has used the albuterol inhaler twice in 20 minutes without relief. Peak flow is 45% of personal best. Which action should the nurse take first?",
    "options": [
-    "Call a parent to take the student home to rest",
-    "Move the student to lie down in a quiet room",
+    "Give more albuterol and recheck in 10 minutes",
+    "Call her parent and her provider right away",
     "Recheck the peak flow in 20 minutes to compare",
     "Call emergency services and remain with her"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Sending the student home delays emergency care for a severe exacerbation.",
-    "Incorrect. Lying down makes breathing harder; the student should stay upright.",
+    "Incorrect. More rescue medicine may be given while help comes, but two doses have failed, and waiting to recheck delays emergency care.",
+    "Incorrect. The parent and provider should be informed, but neither can treat a red-zone attack now; emergency services can.",
     "Incorrect. Waiting 20 minutes delays care while the student may be tiring.",
     "Correct. Red-zone peak flow, few-word speech, and a rescue inhaler that is not working call for emergency help now."
    ],
@@ -853,7 +867,8 @@
    "cjmm": "Take Action",
    "focus": "Lifespan & Diversity",
    "hintContent": "Calculate which action-plan zone the peak flow falls in.",
-   "hintStrategy": "When the data already meet the criteria for emergency care, more assessment is a distractor."
+   "hintStrategy": "When the data already meet the criteria for emergency care, more assessment is a distractor.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x3-025",
@@ -885,7 +900,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Client Teaching",
    "hintContent": "Divide today's reading by her personal best.",
-   "hintStrategy": "For action-plan items, calculate the zone first; the zone tells you the action."
+   "hintStrategy": "For action-plan items, calculate the zone first; the zone tells you the action.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x3-026",
@@ -951,7 +967,8 @@
    "cjmm": "Evaluate Outcomes",
    "focus": "Assessment Findings",
    "hintContent": "Remember what a nearly silent chest means in asthma.",
-   "hintStrategy": "When evaluating a response, read all of the cues together; one finding can mislead if judged alone."
+   "hintStrategy": "When evaluating a response, read all of the cues together; one finding can mislead if judged alone.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x3-027",
@@ -1130,7 +1147,8 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Delegation & Safety",
    "hintContent": "Ask which finding could injure the client today.",
-   "hintStrategy": "Use Maslow and safety: an immediate physical hazard outranks prevention and chronic risk factors."
+   "hintStrategy": "Use Maslow and safety: an immediate physical hazard outranks prevention and chronic risk factors.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x3-031",
@@ -1162,7 +1180,8 @@
    "cjmm": "Recognize Cues",
    "focus": "Pharmacology",
    "hintContent": "Recall which medication classes slow breathing.",
-   "hintStrategy": "Apply the ABCs: an airway or breathing threat outranks expected side effects and comfort needs."
+   "hintStrategy": "Apply the ABCs: an airway or breathing threat outranks expected side effects and comfort needs.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x3-032",
@@ -1192,7 +1211,8 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Pharmacology",
    "hintContent": "Sort each report into expected withdrawal or a medication effect that is too strong.",
-   "hintStrategy": "In call-back priority items, eliminate the expected findings; the unexpected physiological change goes first."
+   "hintStrategy": "In call-back priority items, eliminate the expected findings; the unexpected physiological change goes first.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x3-033",
@@ -1222,7 +1242,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Nursing Interventions",
    "hintContent": "Recall the order of the brief tobacco intervention.",
-   "hintStrategy": "For 'next step' items, identify where the nurse is in a known sequence and pick the following step."
+   "hintStrategy": "For 'next step' items, identify where the nurse is in a known sequence and pick the following step.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x3-034",
@@ -1252,7 +1273,8 @@
    "cjmm": "Take Action",
    "focus": "Client Teaching",
    "hintContent": "Think about what smoke does to already-damaged airways.",
-   "hintStrategy": "When an exposure is avoidable, choose avoidance over options that only lessen the damage."
+   "hintStrategy": "When an exposure is avoidable, choose avoidance over options that only lessen the damage.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x3-035",
@@ -1268,23 +1290,24 @@
    "stem": "A UAP tells the nurse that a hospitalized client with COPD who is receiving oxygen at 2 L/min asked for a lighter so he can \"have a quick smoke in the bathroom.\" Which action should the nurse take first?",
    "options": [
     "Go to the client to address the fire risk and offer to request NRT",
-    "Tell the UAP to remove all personal belongings from the client's room",
-    "Document the request and report it at the next change of shift",
-    "Tell the client the provider will discharge him if he smokes"
+    "Ask the UAP to stay with the client and remind him not to smoke",
+    "Notify the provider right away that the client wants to smoke",
+    "Remove all smoking materials and post a no-smoking sign outside"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. The nurse addresses the immediate fire hazard in person and offers nicotine replacement to manage cravings.",
-    "Incorrect. Searching and removing belongings is not the first step and does not address the client's needs.",
-    "Incorrect. Waiting until shift change leaves an active fire risk unaddressed.",
-    "Incorrect. Threats are not therapeutic and do not reduce the risk."
+    "Correct. The nurse addresses the immediate fire hazard in person and offers nicotine replacement to manage the craving behind the request.",
+    "Incorrect. Staying with the client adds safety, but teaching and addressing cravings are the nurse's responsibility, not the UAP's.",
+    "Incorrect. The provider may need to order NRT, but the fire risk needs the nurse's in-person response first.",
+    "Incorrect. Removing smoking materials improves safety, but it does not teach the client or address his craving."
    ],
-   "rationale": "Smoking near oxygen is a fire and burn hazard, so the nurse responds right away and in person rather than delegating or delaying. The best approach combines safety and support: explain why smoking with oxygen is dangerous and offer to ask the provider for nicotine replacement, since cravings are expected in a hospitalized smoker. Threats damage trust and do not address the underlying craving, which makes them the tempting but wrong choice for a nurse focused only on stopping the behavior.",
+   "rationale": "Smoking near oxygen is a fire and burn hazard, so the nurse responds right away and in person rather than delegating or delaying. The best approach combines safety and support: explain why smoking with oxygen is dangerous and offer to ask the provider for nicotine replacement, since cravings are expected in a hospitalized smoker. Removing smoking materials or handing the problem to the UAP or provider each covers only part of the response and leaves the underlying craving unaddressed.",
    "takeaway": "A client on oxygen who wants to smoke needs an immediate, in-person safety talk and an offer of NRT, not threats.",
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
    "hintContent": "Identify the immediate hazard and the need behind the client's request.",
-   "hintStrategy": "Prefer the option where the RN acts now and addresses both safety and the client's need; reject threats and delays."
+   "hintStrategy": "Prefer the option where the RN acts now and addresses both safety and the client's need; reject threats and delays.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x3-036",
@@ -1297,14 +1320,14 @@
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
    "stem": "A 50-year-old client who is starting a 21-mg nicotine patch says, \"I'll keep smoking a few cigarettes a day until I get used to the patch.\" Which response by the nurse is most important?",
    "options": [
-    "\"That is a good way to taper off over the next several months.\"",
+    "\"Apply each new patch to clean, dry, hairless skin each morning.\"",
     "\"Put each new patch on a different spot to protect your skin.\"",
     "\"You can remove the patch at night if it causes vivid dreams.\"",
     "\"Smoking while wearing the patch can give you too much nicotine.\""
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Supporting continued smoking delays quitting and adds to the nicotine dose.",
+    "Incorrect. This is correct application teaching, but it does not address the unsafe plan to keep smoking while on the patch.",
     "Incorrect. Rotating sites is correct teaching, but it does not address the unsafe plan the client just stated.",
     "Incorrect. This is correct teaching about side effects, but it is less important than the safety risk.",
     "Correct. Smoking on top of NRT can cause nicotine excess (nausea, dizziness, palpitations, headache)."
@@ -1314,7 +1337,8 @@
    "cjmm": "Take Action",
    "focus": "Pharmacology",
    "hintContent": "Listen to what the client said they plan to do and what risk it creates.",
-   "hintStrategy": "When several options are true, choose the one that addresses the client's stated unsafe plan."
+   "hintStrategy": "When several options are true, choose the one that addresses the client's stated unsafe plan.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x3-037",
@@ -1344,7 +1368,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Pharmacology",
    "hintContent": "Recall where nicotine from gum is meant to be absorbed.",
-   "hintStrategy": "Match the specific symptoms to the specific technique error the client described."
+   "hintStrategy": "Match the specific symptoms to the specific technique error the client described.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x3-038",
@@ -1357,24 +1382,25 @@
    "clientNeed": "Health Promotion and Maintenance",
    "stem": "A 44-year-old client who is ready to quit says, \"I'll just buy the patches at the pharmacy. I don't need counseling or any of those quitline calls.\" Which response by the nurse is best?",
    "options": [
-    "\"The patch works just as well alone, so counseling adds little.\"",
+    "\"That's your choice, and the patch alone will ease your cravings.\"",
     "\"Using the patch along with counseling improves your chance of success.\"",
     "\"You will need to finish counseling before you are allowed to use the patch.\"",
-    "\"Patches rarely help anyone quit, so counseling is the better choice.\""
+    "\"Be sure to follow the package directions closely when you start.\""
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. This understates the proven added benefit of counseling.",
-    "Correct. NRT combined with behavioral counseling increases the likelihood of staying quit, and the client keeps the choice.",
+    "Incorrect. Respecting the choice is right, but this misses the chance to share that counseling adds to the patch's effect.",
+    "Correct. NRT combined with counseling increases the likelihood of staying quit, and the client still keeps the choice.",
     "Incorrect. Counseling is not a requirement for using NRT; this response is inaccurate and controlling.",
-    "Incorrect. NRT is effective; this response discourages a useful aid."
+    "Incorrect. Following directions is correct teaching, but it does not respond to the client's plan to skip counseling."
    ],
-   "rationale": "Nicotine replacement eases cravings and withdrawal, while counseling helps the client manage triggers and habits, so combining them works better than either alone. The nurse shares this evidence and still respects that the client makes the final decision. Saying counseling is required is the tempting overcorrection, but it is inaccurate and takes the choice away from the client. Calling patches ineffective or counseling pointless both misstate the evidence.",
+   "rationale": "Nicotine replacement eases cravings and withdrawal, while counseling helps the client manage triggers and habits, so combining them works better than either alone. The nurse shares this evidence and still respects that the client makes the final decision. Saying counseling is required is the tempting overcorrection, but it is inaccurate and takes the choice away from the client. Simply accepting the choice or giving patch directions is supportive but leaves out the evidence the client needs to decide.",
    "takeaway": "NRT plus behavioral counseling gives a better chance of quitting than either alone.",
    "cjmm": "Generate Solutions",
    "focus": "Client Teaching",
    "hintContent": "Recall what increases the likelihood of long-term abstinence.",
-   "hintStrategy": "For best-response items, choose the accurate statement that informs without forcing the client."
+   "hintStrategy": "For best-response items, choose the accurate statement that informs without forcing the client.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x3-039",
@@ -1387,24 +1413,25 @@
    "clientNeed": "Psychosocial Integrity",
    "stem": "A 57-year-old client who quit smoking 3 weeks ago tells the clinic nurse, \"I smoked half a pack this weekend after my brother's funeral. I'm a failure, so I might as well give up.\" Which response by the nurse is best?",
    "options": [
-    "\"Why did you smoke when you knew it would undo all your hard work?\"",
-    "\"You'll need to start over and set a new quit date in a few months.\"",
-    "\"A few cigarettes during a stressful time won't hurt your lungs at all.\"",
+    "\"I'm sorry about your brother. Grief can make cravings much stronger.\"",
+    "\"Let's restart your nicotine patch today so the cravings ease up.\"",
+    "\"Going 3 weeks without smoking is real progress to be proud of.\"",
     "\"Slips are common. Let's look at what triggered it and plan for next time.\""
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. A \"why\" question sounds judgmental and creates defensiveness.",
-    "Incorrect. Delaying the next attempt for months loses momentum the client already has.",
-    "Incorrect. This is false reassurance and minimizes the harm of smoking.",
-    "Correct. Relapse is common, and most people need several attempts; learning from the trigger supports the next attempt."
+    "Incorrect. Acknowledging grief is empathic, but it does not address the client's belief that he has failed or plan for the next trigger.",
+    "Incorrect. NRT may help, but jumping to a fix skips exploring the trigger and the client's sense of failure.",
+    "Incorrect. Praising the effort is supportive, but it does not reframe the slip or help the client plan for the next stressful time.",
+    "Correct. Normalizing the slip counters the client's sense of failure, and learning from the trigger builds a plan for the next attempt."
    ],
-   "rationale": "Relapse is a common part of quitting; most people need several attempts before they succeed. The nurse's job is to normalize the slip, praise the effort, and help the client learn from what triggered it so the next attempt is stronger. The most tempting wrong answer is the reassurance that a few cigarettes will not hurt, which sounds kind but is inaccurate and can encourage a return to smoking. \"Why\" questions and long delays both undermine the client's motivation.",
+   "rationale": "Relapse is a common part of quitting; most people need several attempts before they succeed. The nurse's job is to normalize the slip, praise the effort, and help the client learn from what triggered it so the next attempt is stronger. Acknowledging grief, praising the 3 weeks, and restarting NRT are each supportive, but each covers only one piece. The best response reframes the slip and turns it into a plan, which directly answers the client's urge to give up.",
    "takeaway": "Treat a relapse as a learning step: normalize it, identify the trigger, and plan the next attempt.",
    "cjmm": "Generate Solutions",
    "focus": "Client Teaching",
    "hintContent": "Think about how common relapse is and what helps the next attempt succeed.",
-   "hintStrategy": "For therapeutic communication, eliminate 'why' questions, false reassurance, and responses that delay action."
+   "hintStrategy": "For therapeutic communication, eliminate 'why' questions, false reassurance, and responses that delay action.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x3-040",
@@ -1436,7 +1463,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
    "hintContent": "Recall what carries most of the oxygen in the blood and what SpO₂ actually measures.",
-   "hintStrategy": "When findings seem to conflict, look for the explanation that accounts for all of them."
+   "hintStrategy": "When findings seem to conflict, look for the explanation that accounts for all of them.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x3-041",
@@ -1507,7 +1535,8 @@
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
    "hintContent": "Multiply packs per day by years for each client.",
-   "hintStrategy": "For calculation comparisons, work out every option instead of judging by the largest single number."
+   "hintStrategy": "For calculation comparisons, work out every option instead of judging by the largest single number.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x3-042",
@@ -1521,15 +1550,15 @@
    "stem": "A 33-year-old client who smokes a pack a day has had three chest infections this winter and asks why she \"keeps catching everything.\" Which explanation by the nurse is most accurate?",
    "options": [
     "\"Smoke dries the airways so they make less protective mucus.\"",
-    "\"Nicotine lowers your white blood cell count to unsafe levels.\"",
+    "\"Smoke slows the cilia, but your mucus amount stays the same.\"",
     "\"Smoke speeds up the cilia so mucus leaves your lungs too fast.\"",
     "\"Smoke increases mucus and slows the cilia that sweep germs out.\""
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Smoke increases, rather than decreases, mucus production.",
-    "Incorrect. This is not how smoking causes repeated respiratory infections.",
-    "Incorrect. Smoke reduces cilia action; it does not speed it up.",
+    "Incorrect. Mucus does help trap germs, but smoke increases mucus production rather than drying the airways.",
+    "Incorrect. Slowed cilia are part of the answer, but smoke also increases mucus, and the extra mucus that cannot be cleared traps germs.",
+    "Incorrect. Cilia do move mucus out of the lungs, but smoke slows them; it does not speed them up.",
     "Correct. More mucus plus less ciliary clearance traps germs in the airways and leads to repeated infections."
    ],
    "rationale": "Tobacco smoke irritates the airways, which respond by making more and thicker mucus. At the same time, smoke reduces cilia action, so the tiny hairs that sweep mucus and trapped germs out of the airways slow down and become damaged. More mucus that is cleared less effectively leads to a chronic cough, trapped germs, and repeated infections. The tempting distractors reverse one half of this mechanism, so the nurse must know both directions: mucus goes up and clearance goes down.",
@@ -1537,7 +1566,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
    "hintContent": "Recall what smoke does to mucus production and to the cilia.",
-   "hintStrategy": "For mechanism items, check the direction of each change; distractors often reverse one part."
+   "hintStrategy": "For mechanism items, check the direction of each change; distractors often reverse one part.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x3-043",
@@ -1553,21 +1583,22 @@
     "Apply a second 21-mg patch on days when cravings are strongest",
     "Stop the patch and switch to the gum alone for better control",
     "Ask the provider about adding gum or lozenges for cravings",
-    "Smoke one cigarette after meals until the cravings settle down"
+    "Use sugarless gum or carrot sticks after meals instead"
    ],
    "answer": 2,
    "optionRationales": [
     "Incorrect. Doubling the patch on her own risks nicotine excess.",
     "Incorrect. Dropping the patch removes the steady baseline dose that is controlling most of her day.",
     "Correct. A patch for a steady level plus a short-acting form for breakthrough cravings works better than the patch alone.",
-    "Incorrect. Smoking while on NRT risks nicotine excess and undermines quitting."
+    "Incorrect. Oral substitutes are a helpful behavioral strategy, but they do not deliver nicotine and are less effective than adding short-acting NRT."
    ],
    "rationale": "The patch provides a steady nicotine level, but it cannot respond quickly to cravings triggered by situations such as meals or driving. Combining the patch with a short-acting form such as gum or a lozenge for breakthrough cravings is more effective than the patch alone. The tempting option is a second patch, which adds nicotine but stays slow-acting and risks excess without provider guidance. Switching entirely to gum gives up the steady baseline that is already working.",
    "takeaway": "Patch plus a short-acting NRT form for breakthrough cravings beats the patch alone.",
    "cjmm": "Generate Solutions",
    "focus": "Pharmacology",
    "hintContent": "Compare how quickly each NRT form works.",
-   "hintStrategy": "When a treatment works partly, look for the option that adds to it rather than replacing it or overdosing it."
+   "hintStrategy": "When a treatment works partly, look for the option that adds to it rather than replacing it or overdosing it.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x3-044",
@@ -1580,24 +1611,25 @@
    "clientNeed": "Health Promotion and Maintenance",
    "stem": "A 69-year-old client with COPD declines the influenza vaccine, saying, \"With my weak lungs, I'm afraid the shot will make me sick.\" Which response by the nurse is best?",
    "options": [
-    "\"You're right; people with COPD are usually advised to skip flu shots.\"",
+    "\"The flu shot can't give you the flu, so there's nothing to fear.\"",
     "\"COPD makes the flu riskier for you. What worries you about the shot?\"",
-    "\"You had one a few years ago, so you should still be protected now.\"",
-    "\"Your provider may stop treating you if you keep refusing vaccines.\""
+    "\"I'll let your provider know you are declining it this season.\"",
+    "\"That is your right. Would you like written information on it?\""
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Chronic lung disease is a reason to get the influenza vaccine, not to avoid it.",
-    "Correct. This gives accurate information (chronic lung disease is a reason to vaccinate) and explores the client's concern.",
-    "Incorrect. Influenza vaccine is needed every year because protection fades and the virus changes.",
-    "Incorrect. Threats are coercive and damage the therapeutic relationship."
+    "Incorrect. The fact is accurate, but telling the client there is nothing to fear dismisses the concern instead of exploring it.",
+    "Correct. This gives accurate information (COPD is a reason to vaccinate) and invites the client to share the specific fear.",
+    "Incorrect. Reporting a refusal is appropriate later, but accepting it now skips the teaching that could change the decision.",
+    "Incorrect. Respecting autonomy and offering materials is supportive, but it does not explore the fear or correct the misconception."
    ],
-   "rationale": "Respiratory infections are a common trigger for COPD exacerbations, so having COPD is a reason to get the influenza vaccine every year. The best response corrects the misconception and then invites the client to share the specific fear, which respects autonomy and opens the door to accurate teaching. The tempting distractor agrees with the client to avoid conflict, but it gives false and harmful information. Past vaccination does not protect this season, and threats are never therapeutic.",
+   "rationale": "Respiratory infections are a common trigger for COPD exacerbations, so having COPD is a reason to get the influenza vaccine every year. The best response corrects the misconception and then invites the client to share the specific fear, which respects autonomy and opens the door to accurate teaching. Reassuring the client that there is nothing to fear dismisses the concern, and accepting the refusal or offering handouts skips the conversation that could change the decision.",
    "takeaway": "Chronic lung disease is a reason to vaccinate; correct the misconception and explore the client's concern.",
    "cjmm": "Take Action",
    "focus": "Client Teaching",
    "hintContent": "Think about who is at highest risk from influenza.",
-   "hintStrategy": "The best therapeutic response is accurate and invites the client to talk; reject agreement with a misconception and threats."
+   "hintStrategy": "The best therapeutic response is accurate and invites the client to talk; reject agreement with a misconception and threats.",
+   "bestAnswer": true
   },
   {
    "id": "m15-x3-045",

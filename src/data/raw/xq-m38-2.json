@@ -31,7 +31,8 @@
    "focus": "Prioritization",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m38-x2-002",
@@ -61,7 +62,8 @@
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m38-x2-003",
@@ -109,14 +111,14 @@
     "“I’m worried about him and just wanted to make you aware of it.”",
     "“He has heart failure and takes furosemide at home every morning.”",
     "“Please come assess him within 30 minutes and review his diuretic.”",
-    "“Whatever you think is best is fine, since you make the decisions.”"
+    "“Please review his chart when you have a chance and call me back.”"
    ],
    "answer": 2,
    "optionRationales": [
     "Incorrect. Expressing worry without a request leaves the needed response and urgency unclear.",
-    "Incorrect. This is background context, not a recommendation.",
+    "Incorrect. Home diuretic use is relevant Background, but it is not a recommendation and asks the provider for no action.",
     "Correct. It names a specific action, a time frame, and the treatment the nurse wants reviewed.",
-    "Incorrect. This passive statement abandons the nurse’s responsibility to state what the client needs."
+    "Incorrect. Asking for a callback is a request, but it names no time frame or specific action, so the provider cannot tell that this client is deteriorating and needs prompt evaluation."
    ],
    "rationale": "The Recommendation tells the receiver what the nurse needs next and how urgently. Nurses do not write medical orders, but they can and should request a bedside assessment, a review of treatment, or clarification. A statement of concern with no request is the most tempting distractor because it sounds polite, yet it leaves the provider guessing about urgency. A specific request with a time frame makes the next step clear and lets the nurse recognize whether it actually happened.",
    "takeaway": "A strong Recommendation states a specific requested action and its urgency.",
@@ -130,7 +132,8 @@
    "focus": "Nursing Interventions",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m38-x2-005",
@@ -140,14 +143,14 @@
    "options": [
     "Page the provider a third time and wait another 15 minutes.",
     "Document “provider paged twice” and continue to monitor.",
-    "Wait for the morning team to arrive and report it during rounds.",
+    "Recheck the vital signs and reassess the client before escalating.",
     "Notify the charge nurse and use the facility’s escalation pathway."
    ],
    "answer": 3,
    "optionRationales": [
     "Incorrect. Repeating an approach that has already failed twice delays care for a client with worsening breathing.",
     "Incorrect. Documenting attempts does not obtain the assessment the client needs.",
-    "Incorrect. Waiting hours for rounds leaves an unstable client without needed evaluation.",
+    "Incorrect. Reassessing is reasonable, but the client is already known to be unstable and unchanged; gathering more data delays the escalation the client needs now.",
     "Correct. When an urgent concern is not addressed, the nurse escalates through the chain of command or rapid response pathway."
    ],
    "rationale": "The nurse remains responsible for following up when a communication does not produce the needed response. New confusion with tachypnea and low oxygen saturation is not a concern that can wait, so after unanswered pages the nurse moves to the next level of support, such as the charge nurse, supervisor, or rapid response team, according to policy. Paging again is tempting because it seems persistent, but it repeats a channel that has already failed. Documentation matters, yet writing that the provider was paged does not mean anyone acted.",
@@ -160,7 +163,8 @@
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m38-x2-006",
@@ -209,18 +213,18 @@
    "stem": "After a bedside handoff for a client with type 1 diabetes, the receiving nurse summarizes what was heard. Which statement indicates the handoff was effective?",
    "options": [
     "“So I recheck glucose at 1700 and follow up the pending potassium.”",
-    "“I’ll assume the potassium was normal since nobody called.”",
-    "“Okay, got it. Everything else I need will be in the chart.”",
-    "“Thanks. I’ll read the full history when I have some free time.”"
+    "“So he was admitted with DKA and his glucose has been stable today.”",
+    "“Got it. I’ll review his labs and orders in the chart after report.”",
+    "“So his last glucose was 162 and he ate most of his lunch today.”"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. The receiver accurately restates the timed reassessment and the pending result, showing shared understanding.",
-    "Incorrect. A pending result must not be assumed normal; this shows the handoff failed to transfer an unresolved item.",
-    "Incorrect. A general acknowledgment does not show the receiver knows the priorities or pending items.",
-    "Incorrect. Planning to read the history later does not confirm the immediate priorities were understood."
+    "Incorrect. This recap of background is accurate, but it names no pending task or timed reassessment, so it does not show the nurse knows what must happen next.",
+    "Incorrect. Reviewing the chart is good practice, but this reply gives no evidence the nurse heard the priorities, such as the pending potassium and the timed glucose check.",
+    "Incorrect. Restating recent data shows some listening, but it omits the unresolved items the nurse now owns: the 1700 glucose recheck and the pending potassium."
    ],
-   "rationale": "A handoff is evaluated by whether the receiving nurse can identify the immediate priority, unresolved tasks, and required reassessments. Repeating the timed glucose check and the pending potassium shows the loop was closed. A brief acknowledgment such as “Okay, got it” is the tempting choice because it sounds agreeable, but it provides no evidence of understanding. Assuming that a pending result is normal is a common and dangerous handoff failure.",
+   "rationale": "A handoff is evaluated by whether the receiving nurse can identify the immediate priority, unresolved tasks, and required reassessments. Repeating the timed glucose check and the pending potassium shows the loop was closed. Restating the admission history or the last glucose value is tempting because it is accurate, but it shows nothing about what must be done next. Planning to review the chart later provides no evidence of understanding, and a pending result must never be assumed normal just because no one called.",
    "takeaway": "An effective handoff is shown when the receiver can restate priorities, timing, and pending items.",
    "hintContent": "Look for the statement that proves the receiver knows what must happen next.",
    "hintStrategy": "For evaluation items, choose the response that demonstrates understanding rather than one that merely agrees.",
@@ -230,7 +234,8 @@
    "focus": "Nursing Interventions",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m38-x2-008",
@@ -271,16 +276,16 @@
     "Record the order as heard and give it after the read-back is confirmed.",
     "Accept the order and ask the pharmacist to adjust the dose later.",
     "Question the dose with the provider before accepting the order.",
-    "Give the dose the nurse believes the provider intended to order."
+    "End the call and check a drug reference for the safe dose range."
    ],
    "answer": 2,
    "optionRationales": [
     "Incorrect. Read-back confirms what was said, not whether it is safe; an apparently unsafe dose must be clarified.",
     "Incorrect. Accepting an unsafe order and deferring the problem leaves the error in the record and the plan.",
     "Correct. An apparently unsafe dose is clarified with the prescriber while still on the call, before it is accepted or given.",
-    "Incorrect. The nurse must never silently change an order based on a guess about intent."
+    "Incorrect. Verifying the safe range is reasonable, but this dose is clearly excessive for 20 kg and the prescriber who can clarify it is on the line now; ending the call delays clarification."
    ],
-   "rationale": "Read-back is verification, not a substitute for clinical judgment. A nurse can accurately repeat an unsafe order, so an apparently excessive dose must be questioned and clarified with the prescriber before the order is accepted. The nurse should not silently correct the dose or pass the problem to someone else. The read-back option is most tempting because read-back is a required step, but confirming a misheard or unsafe number does not make it safe.",
+   "rationale": "Read-back is verification, not a substitute for clinical judgment. A nurse can accurately repeat an unsafe order, so an apparently excessive dose must be questioned and clarified with the prescriber before the order is accepted. The nurse should not accept the order and pass the problem to the pharmacist, and should not end the call to look up a reference while the prescriber who can clarify is still on the line. The read-back option is most tempting because read-back is a required step, but confirming a misheard or unsafe number does not make it safe.",
    "takeaway": "Clarify an apparently unsafe telephone order before accepting it; read-back does not replace judgment.",
    "hintContent": "Compare the ordered amount with what a 20-kg child could safely receive.",
    "hintStrategy": "When an order looks unsafe, choose clarification with the prescriber over any option that accepts, guesses, or delegates the problem.",
@@ -290,7 +295,8 @@
    "focus": "Pharmacology",
    "difficulty": 3,
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m38-x2-010",
@@ -389,7 +395,8 @@
    "focus": "Prioritization",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m38-x2-012",
@@ -470,15 +477,15 @@
    "options": [
     "Call the provider right away and report the reading given by the AP.",
     "Go to the client, assess, and recheck the blood pressure personally.",
-    "Document the reading and ask the AP to recheck it again in 1 hour.",
+    "Ask the AP to recheck the blood pressure manually and report back.",
     "Ask the AP to obtain the client’s most recent hemoglobin from the chart."
    ],
    "answer": 1,
    "optionRationales": [
     "Incorrect. Calling without current nursing assessment data gives the provider an unverified number and no focused findings.",
     "Correct. The nurse verifies the value and gathers focused findings, such as heart rate, skin, dressing, and mental status, before an SBAR call.",
-    "Incorrect. A 1-hour delay could miss bleeding or worsening hypotension.",
-    "Incorrect. Lab data can help, but it does not replace assessing the client now, and interpreting data is the nurse’s role."
+    "Incorrect. Verifying the reading is reasonable, but a sudden drop in a postoperative client needs the RN’s own assessment, not just a repeat number from the AP.",
+    "Incorrect. Lab data can help explain the drop, but a past hemoglobin value does not replace the nurse assessing the client now."
    ],
    "rationale": "Before calling, the nurse assesses the client and gathers the current data needed for a meaningful report. Here the client is alert and talking, so there is time to verify the reading and perform a focused assessment that will support the Assessment and Recommendation. Calling immediately is tempting because the number is low, but reporting an unverified value without findings leaves the provider unable to judge urgency. If the assessment showed the client was unstable, the nurse would activate urgent help rather than finishing a full report.",
    "takeaway": "Assess and verify before an SBAR call unless the client is unstable and needs urgent help.",
@@ -490,7 +497,8 @@
    "focus": "Assessment Findings",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m38-x2-015",
@@ -499,16 +507,16 @@
    "stem": "During an SBAR call about a client receiving IV vancomycin, the provider asks for the client’s most recent serum creatinine. The nurse does not have the result in view. Which response by the nurse is best?",
    "options": [
     "“I think it was about 1.1, so it’s probably still in normal range.”",
-    "“Nurses don’t usually track creatinine; you can look it up later.”",
+    "“I’ll ask the pharmacist to call you with the result shortly.”",
     "“I don’t have it in front of me. Let me check and tell you now.”",
-    "“It was normal yesterday, so I’m sure today’s will be fine too.”"
+    "“I’ll look it up after we finish and call you back with it.”"
    ],
    "answer": 2,
    "optionRationales": [
     "Incorrect. Estimating a value can lead to a dosing decision based on a number that may be wrong.",
-    "Incorrect. Relevant laboratory data are part of the nurse’s report, and this response delays a needed decision.",
+    "Incorrect. The pharmacist can help with vancomycin dosing, but the nurse can verify the result now; handing it off adds delay and another handoff.",
     "Correct. The nurse admits the gap and verifies the actual value from the record rather than inventing one.",
-    "Incorrect. Yesterday’s value cannot be assumed for today, especially with a drug that can affect kidney function."
+    "Incorrect. Being honest and planning to verify is reasonable, but the provider needs the value to decide now; checking during the call is faster and closes the loop."
    ],
    "rationale": "During a call the nurse answers questions from the record. If a fact is not known, the nurse says so and verifies it rather than guessing. A guessed creatinine could lead to an inappropriate vancomycin dose, because this drug can harm the kidneys and its dosing depends on kidney function. The estimate is the tempting choice because it sounds helpful and keeps the call moving, but an invented number is more dangerous than a short pause to check.",
    "takeaway": "If you do not know a value during a report, say so and verify it; never guess.",
@@ -520,7 +528,8 @@
    "focus": "Pharmacology",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m38-x2-016",
@@ -589,7 +598,8 @@
    "focus": "Prioritization",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m38-x2-018",
@@ -600,16 +610,16 @@
     "“Kim, RN, on 5 West: Mia Lopez, age 4, has had no urine for 8 hours.”",
     "“Mia was admitted 2 days ago with vomiting and diarrhea from daycare.”",
     "“Mia’s heart rate is 150/min and her capillary refill is 3 seconds.”",
-    "“Hi, I’m calling about one of the patients on the unit tonight.”"
+    "“I’d like you to see Mia and consider an IV fluid bolus for her.”"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. It identifies the caller, the client, and the immediate concern that prompted the call.",
-    "Incorrect. Admission details are Background.",
-    "Incorrect. Vital signs and focused findings belong in Assessment.",
-    "Incorrect. It does not identify the nurse, the client, or the concern."
+    "Incorrect. The admission details are accurate and useful, but they are Background and do not state why the nurse is calling now.",
+    "Incorrect. These findings support the concern, but vital signs and focused findings belong in Assessment, not the opening Situation.",
+    "Incorrect. This is a reasonable Recommendation for a dehydrated child, but it belongs at the end of SBAR; opening with it leaves the provider without the who and why."
    ],
-   "rationale": "The Situation states who is calling, which client is involved, and why the nurse is calling now. Opening with this lets the provider immediately understand the concern before hearing details. The vital-sign statement is the tempting choice because the findings are alarming, but measurements are Assessment data that support the concern rather than introduce it. Admission history is Background, and a vague greeting wastes time.",
+   "rationale": "The Situation states who is calling, which client is involved, and why the nurse is calling now. Opening with this lets the provider immediately understand the concern before hearing details. The vital-sign statement is the tempting choice because the findings are alarming, but measurements are Assessment data that support the concern rather than introduce it. Admission history is Background, and a request for IV fluids is the Recommendation, which comes last.",
    "takeaway": "Situation identifies the caller, the client, and the immediate reason for calling.",
    "hintContent": "Situation answers “What is happening now, and who is this about?”",
    "hintStrategy": "Match each statement to its SBAR element; the opening must identify the people and the problem.",
@@ -619,7 +629,8 @@
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m38-x2-019",
@@ -669,14 +680,14 @@
    "options": [
     "Give hydralazine now, since the prescriber has stated the drug.",
     "Correct the recorded order, read it back again, and get confirmation.",
-    "Ask the pharmacist to decide which of the two drugs was intended.",
+    "Ask the pharmacist to verify hydralazine is safe for the client.",
     "Hold both drugs until the prescriber can enter the order personally."
    ],
    "answer": 1,
    "optionRationales": [
     "Incorrect. The corrected order has not been recorded completely and read back, so the loop is not closed.",
     "Correct. The corrected order is recorded, then read back in full, and the prescriber confirms it, closing the loop.",
-    "Incorrect. Only the prescriber can confirm the intended drug; the pharmacist cannot resolve the order.",
+    "Incorrect. Pharmacist review is a useful later check, but the order itself is still unverified; the nurse must record and read back the corrected order with the prescriber first.",
     "Incorrect. A properly verified telephone order can be implemented; holding needlessly delays treatment."
    ],
    "rationale": "Closed-loop communication means the sender confirms or corrects the message and the receiver verifies the final version. When read-back reveals an error, the nurse records the corrected order and reads it back again until the prescriber confirms it; spelling the drug name helps with sound-alike medications. Giving hydralazine right away is tempting because the prescriber has just stated the drug, but the dose, route, and timing of the corrected order have not been verified. Read-back has done its job here by catching the error, and the process continues until the plan is clear.",
@@ -689,7 +700,8 @@
    "focus": "Pharmacology",
    "difficulty": 3,
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m38-x2-021",
@@ -736,18 +748,18 @@
    "stem": "A nurse on a telemetry unit receives a telephone report from the emergency department about a client being admitted. The ED nurse says, “Her potassium was 2.9, and replacement is running.” Which response by the receiving nurse is best?",
    "options": [
     "“Okay. I’ll find the rest of the details in the record when she arrives.”",
-    "“Can you just send everything in the electronic record instead of calling?”",
+    "“Okay, 2.9. What was her potassium level before this most recent result?”",
     "“2.9, with replacement running. How much has infused, and when is the recheck?”",
-    "“That value is close enough to normal; we’ll look at it in the morning.”"
+    "“2.9, okay. Does she have any other abnormal lab results I should know?”"
    ],
    "answer": 2,
    "optionRationales": [
     "Incorrect. It accepts the report without confirming the critical detail or asking about unresolved items.",
-    "Incorrect. An electronic record does not replace an interactive report with a chance to clarify.",
+    "Incorrect. Repeating the value and asking about the trend is reasonable, but it does not clarify how much replacement has infused or when the recheck is due.",
     "Correct. The nurse repeats the value to confirm it and asks about the treatment status and pending follow-up.",
-    "Incorrect. A potassium of 2.9 mEq/L is below the 3.5–5.0 mEq/L range and needs active follow-up."
+    "Incorrect. Asking about other labs is reasonable, but it does not address the unresolved replacement and recheck the receiving nurse will own."
    ],
-   "rationale": "When receiving a report, the nurse records the date, time, caller, and content, repeats important information to confirm it, and asks clarifying questions before responsibility transfers. Asking how much replacement has infused and when the recheck is due identifies the unresolved items the receiving nurse will own. Saying the details will be found in the record is the tempting choice because it seems efficient, but it gives up the chance to clarify. A potassium of 2.9 mEq/L is significantly low and can cause dysrhythmias, so it cannot wait until morning.",
+   "rationale": "When receiving a report, the nurse records the date, time, caller, and content, repeats important information to confirm it, and asks clarifying questions before responsibility transfers. Asking how much replacement has infused and when the recheck is due identifies the unresolved items the receiving nurse will own. Saying the details will be found in the record is the tempting choice because it seems efficient, but it gives up the chance to clarify. Questions about earlier or other lab values are reasonable but miss the active problem: a potassium of 2.9 mEq/L is significantly low and can cause dysrhythmias.",
    "takeaway": "When receiving a report, repeat key values and ask about treatment status and pending follow-up.",
    "hintContent": "What does the receiving nurse need to know to continue the potassium treatment safely?",
    "hintStrategy": "Choose the response that both confirms the message and clarifies what remains to be done.",
@@ -757,7 +769,8 @@
    "focus": "Nursing Interventions",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m38-x2-023",
@@ -797,19 +810,19 @@
     ]
    },
    "options": [
-    "Report the trend to the oncoming nurse at change of shift.",
+    "Raise the head of the bed and recheck the SpO2 in 15 minutes.",
     "Document the findings and recheck the client again in 1 hour.",
     "Continue the current plan because oxygen was increased as ordered.",
     "Call the provider back now and request bedside evaluation."
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Handing off a deteriorating client delays action that is needed now.",
+    "Incorrect. Positioning is a helpful nursing measure, but the ordered oxygen increase has already failed and the client is worsening, so waiting 15 minutes delays the needed callback.",
     "Incorrect. Waiting an hour risks further deterioration in a client who is getting worse.",
     "Incorrect. Completing the order does not mean the problem is solved; the outcome shows it is not.",
     "Correct. The client has worsened despite the intervention, which is exactly the condition for calling back; urgent evaluation is needed."
    ],
-   "rationale": "Communication does not complete care; the nurse must evaluate whether the expected response occurred. After oxygen was increased, the heart rate, respiratory rate, and restlessness all worsened and SpO2 dropped, so the intervention failed and the provider must be called back promptly, with escalation if the response is delayed. Continuing the plan is the tempting choice because the order was carried out correctly, but carrying out an order is not the same as achieving the outcome. Passing the problem to the next shift postpones needed action. Because new restlessness, an RR of 32/min, and an SpO2 of 87% on oxygen often meet rapid response criteria, the nurse should activate the rapid response team per policy if the provider cannot come promptly.",
+   "rationale": "Communication does not complete care; the nurse must evaluate whether the expected response occurred. After oxygen was increased, the heart rate, respiratory rate, and restlessness all worsened and SpO2 dropped, so the intervention failed and the provider must be called back promptly, with escalation if the response is delayed. Continuing the plan is the tempting choice because the order was carried out correctly, but carrying out an order is not the same as achieving the outcome. Repositioning is a helpful nursing measure, but it does not replace calling back when the ordered intervention has failed. Because new restlessness, an RR of 32/min, and an SpO2 of 87% on oxygen often meet rapid response criteria, the nurse should activate the rapid response team per policy if the provider cannot come promptly.",
    "takeaway": "Reassess after an intervention, and call back or escalate when the client does not improve.",
    "hintContent": "Compare the two rows: is the client better, the same, or worse?",
    "hintStrategy": "For evaluation items, judge the outcome data, not whether the intervention was completed.",
@@ -819,7 +832,8 @@
    "focus": "Assessment Findings",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m38-x2-024",
@@ -829,14 +843,14 @@
    "options": [
     "“I’m concerned these changes suggest his infection is worsening.”",
     "“He has septic shock and needs a vasopressor started right away.”",
-    "“His vital signs are a little different, but I can’t say what it means.”",
+    "“His temp is 39°C, HR 122, BP 90/54, and he is newly confused.”",
     "“He seems off to me tonight, though I can’t really explain why.”"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. The nurse states a clear clinical concern based on the findings without making a medical diagnosis.",
     "Incorrect. Declaring a medical diagnosis and prescribing a treatment goes beyond the nurse’s role in the Assessment.",
-    "Incorrect. Withholding interpretation leaves the provider without the nurse’s judgment about urgency.",
+    "Incorrect. Accurate findings belong in the Assessment, but listing data without interpretation leaves the provider to connect them; the nurse should also state the concern.",
     "Incorrect. A vague impression without supporting detail does not communicate the concern."
    ],
    "rationale": "The Assessment section includes findings and the nurse’s interpretation within the nursing role. Fever, tachycardia, hypotension compared with baseline, and new confusion together suggest worsening infection with possible effects on perfusion. Stating a concern links the data to a clinical picture and signals urgency. The definite diagnosis with a specific treatment is tempting because it sounds confident, but diagnosing and ordering medications is not the nurse’s role; vague statements such as “he seems off” fail in the opposite direction.",
@@ -849,7 +863,8 @@
    "focus": "Pathophysiology",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m38-x2-025",
@@ -932,15 +947,15 @@
    "options": [
     "Read back the order as written and ask the prescriber to confirm it.",
     "Ask the prescriber to state the route, then read back the complete order.",
-    "Give the dose IV because the client has an IV line in place.",
-    "End the call and ask pharmacy to choose the most suitable route."
+    "Ask the prescriber for the route and write it on the order record.",
+    "Ask the prescriber to enter the order electronically instead of by phone."
    ],
    "answer": 1,
    "optionRationales": [
     "Incorrect. Reading back an incomplete order would confirm it without resolving the missing route.",
     "Correct. The order is missing a route, which must be clarified before the complete order is read back and confirmed.",
-    "Incorrect. The nurse must not choose a route the prescriber did not order.",
-    "Incorrect. Ending the call loses the chance to clarify directly with the prescriber, who is responsible for the order."
+    "Incorrect. Getting the route is necessary, but recording it without reading back the complete order skips the verification step that closes the loop.",
+    "Incorrect. Electronic entry is preferred when possible, but the prescriber is on the line now and the client is nauseated; clarifying and reading back the order is faster."
    ],
    "rationale": "A complete medication order includes the drug, dose, route, and frequency, and this record lacks a route. Because the client has both an IV line and can take sips, either route is plausible, so the nurse must not guess. Clarifying while still on the call and then reading back the complete order closes the loop. Reading back the order as written is the tempting choice because read-back is required, but repeating an incomplete order does not make it complete.",
    "takeaway": "Check that a telephone order is complete before read-back; clarify missing elements with the prescriber.",
@@ -952,7 +967,8 @@
    "focus": "Delegation & Safety",
    "difficulty": 3,
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   }
  ]
 }

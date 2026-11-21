@@ -1,6 +1,6 @@
 import { motion, useScroll, useSpring } from 'motion/react';
 import { Link, useParams } from 'react-router-dom';
-import { MODULE_BY_ID, UNGROUPED_MODULES, UNITS, UNIT_BY_SLUG, readingMinutes, topicKey, unitModules, unitOf } from '../data';
+import { MODULE_BY_ID, UNGROUPED_MODULES, UNITS, UNIT_BY_SLUG, isNewModule, readingMinutes, topicKey, unitModules, unitOf } from '../data';
 import type { Module, Topic } from '../data/types';
 import { Icon } from '../components/Icon';
 import { TopicArticle, sectionId } from '../components/TopicArticle';
@@ -16,20 +16,21 @@ export function ModuleCard({ m }: { m: Module; label?: string }) {
   const read = useProgress((s) => s.read);
   const done = m.topics.filter((t) => read[topicKey(m.id, t.id)]).length;
   return (
-    <Link to={`/learn/${m.id}`} className="row-link">
-      <div className="row-main">
-        <span className="row-kicker">
-          Module {m.number}
+    <Link to={`/learn/${m.id}`} className={cx('mod-card', isNewModule(m.id) && 'is-new')}>
+      <span className="uc-top">
+        <span className="uc-eyebrow">Module {m.number}</span>
+        {isNewModule(m.id) && <span className="uc-new">New</span>}
+      </span>
+      <h3>{m.title}</h3>
+      {m.tagline && <p className="uc-desc">{m.tagline}</p>}
+      <span className="uc-foot">
+        <span className="uc-bar" aria-hidden="true">
+          <i style={{ width: `${(done / Math.max(1, m.topics.length)) * 100}%` }} />
         </span>
-        <strong>{m.title}</strong>
-        <span className="row-sub">
-          {m.topics.length} lesson{m.topics.length === 1 ? '' : 's'} · {m.questions.length} questions · {done}/{m.topics.length} read
+        <span>
+          {m.topics.length} lesson{m.topics.length === 1 ? '' : 's'} · {m.questions.length} questions · {done} read
         </span>
-      </div>
-      <div className="row-progress" aria-hidden="true">
-        <i style={{ width: `${(done / Math.max(1, m.topics.length)) * 100}%` }} />
-      </div>
-      <Icon name="chevronRight" className="row-chev" />
+      </span>
     </Link>
   );
 }
@@ -50,16 +51,14 @@ export function Learn() {
               <h2>{u.title}</h2>
             </div>
             <Link to={`/learn/${u.slug}`} className="btn btn-ghost btn-sm">
-              {u.label} overview <Icon name="arrowRight" />
+              Unit overview <Icon name="arrowRight" />
             </Link>
           </div>
-          <ul className="row-list">
+          <div className="card-grid">
             {unitModules(u).map((m) => (
-              <li key={m.id}>
-                <ModuleCard m={m} />
-              </li>
+              <ModuleCard key={m.id} m={m} />
             ))}
-          </ul>
+          </div>
         </section>
       ))}
       {UNGROUPED_MODULES.length > 0 && (
@@ -102,11 +101,11 @@ export function UnitPage({ slug }: { slug: string }) {
       </header>
       <section className="section">
         <h2 className="list-title">Modules</h2>
-        <ul className="row-list">
+        <div className="card-grid">
           {mods.map((m) => (
-            <li key={m.id}><ModuleCard m={m} /></li>
+            <ModuleCard key={m.id} m={m} />
           ))}
-        </ul>
+        </div>
       </section>
       <Footer />
     </div>
@@ -170,14 +169,14 @@ export function ModulePage() {
       {groupTopics(m).map(([group, topics]) => (
         <section className="section" key={group}>
           <h2 className="list-title">{group}</h2>
-          <ol className="row-list lesson-list">
+          <ol className="lesson-cards">
             {topics.map((t) => {
               idx++;
               const done = !!read[topicKey(m.id, t.id)];
               const n = m.questions.filter((q) => q.topic === t.id).length;
               return (
                 <li key={t.id}>
-                  <Link to={`/learn/${m.id}/${t.id}`} className={cx('row-link', done && 'done')}>
+                  <Link to={`/learn/${m.id}/${t.id}`} className={cx('lesson-card', done && 'done')}>
                     <span className="row-num">{done ? <Icon name="check" width={16} /> : idx}</span>
                     <div className="row-main">
                       <strong>{t.title}</strong>

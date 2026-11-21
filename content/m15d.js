@@ -68,17 +68,18 @@ window.NURSE_DATA.push({
    ],
    "answer": 2,
    "optionRationales": [
-    "Diffuse expiratory wheezes come from narrowed small airways throughout the lungs — the asthma, not a single consolidated lobe.",
-    "Localized crackles and bronchial sounds over one lobe reflect consolidation — the pneumonia.",
+    "Incorrect. Diffuse expiratory wheezes come from narrowed small airways throughout the lungs — the asthma, not a single consolidated lobe.",
+    "Incorrect. Localized crackles and bronchial sounds over one lobe reflect consolidation — the pneumonia.",
     "Correct. Both conditions cause a ventilation–perfusion mismatch: bronchospasm and mucus keep air from alveoli throughout the lungs, and consolidation fills alveoli in one lobe. Either one lowers the PaO₂ and SpO₂.",
-    "Fever reflects the infection (pneumonia); an asthma exacerbation alone does not cause fever."
+    "Incorrect. Fever reflects the infection (pneumonia); an asthma exacerbation alone does not cause fever."
    ],
    "rationale": "Sorting findings requires linking the breath sounds and the physiology. Diffuse findings point to the airways (asthma): wheezes everywhere. Localized findings point to one lobe (pneumonia): crackles, bronchial sounds, and fever from infection. Hypoxemia is the shared result, because each process blocks airflow to perfused alveoli — a V/Q mismatch.",
    "takeaway": "Diffuse wheezes = asthma; localized crackles = pneumonia; hypoxemia = the V/Q mismatch they share.",
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
    "hintContent": "Diffuse versus localized findings, what a V/Q mismatch does to oxygen levels, and which findings come from infection.",
-   "hintStrategy": "For each option, ask which condition produces it; the answer is the one both could produce."
+   "hintStrategy": "For each option, ask which condition produces it; the answer is the one both could produce.",
+   "bestAnswer": true
   },
   {
    "id": "m15d-003",
@@ -101,17 +102,18 @@ window.NURSE_DATA.push({
    ],
    "answer": 1,
    "optionRationales": [
-    "Tachycardia with fever needs treatment, but it is an expected response to infection and hypoxemia, not the most immediate threat.",
+    "Incorrect. Tachycardia with fever needs treatment, but it is an expected response to infection and hypoxemia, not the most immediate threat.",
     "Correct. Tachypnea should lower the PaCO₂. A PaCO₂ climbing into the hypercarbic range while the client breathes faster means air trapping and respiratory muscle fatigue — impending respiratory failure.",
-    "An elevated WBC reflects infection and the known effect of corticosteroids; it does not threaten the airway right now.",
-    "Mild pleuritic soreness with coughing is common in pneumonia and is not an immediate threat."
+    "Incorrect. An elevated WBC reflects infection and the known effect of corticosteroids; it does not threaten the airway right now.",
+    "Incorrect. Mild pleuritic soreness with coughing is common in pneumonia and is not an immediate threat."
    ],
    "rationale": "Interpreting the ABG requires linking it to the breathing pattern. Early in an asthma attack, fast breathing blows off CO₂ (low PaCO₂). When the PaCO₂ returns to \"normal\" or rises while the rate stays high, the client can no longer move enough air — she is tiring. That trend predicts respiratory acidosis and failure, so it outranks fever, tachycardia, WBC, and mild pain.",
    "takeaway": "A rising PaCO₂ with a high respiratory rate in acute asthma is an alarm, not a normal value.",
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
    "hintContent": "What happens to CO₂ when a client breathes fast, and what it means when that expected change reverses.",
-   "hintStrategy": "Look for the trend that signals the client is losing the ability to breathe effectively; that threatens breathing (the B in ABC)."
+   "hintStrategy": "Look for the trend that signals the client is losing the ability to breathe effectively; that threatens breathing (the B in ABC).",
+   "bestAnswer": true
   },
   {
    "id": "m15d-004",
@@ -168,24 +170,25 @@ window.NURSE_DATA.push({
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "stem": "Thirty minutes after an albuterol nebulizer treatment and an increase in oxygen, a client with a severe asthma exacerbation is drowsy and closes the eyes during questioning. Breath sounds are markedly diminished bilaterally with only faint wheezing. The respiratory rate has fallen from 32 to 14/min and is shallow, SpO₂ is 84% on 6 L/min, and the lips are dusky. Which action should the nurse take first?",
    "options": [
-    "Allow the client to rest, because the slower rate and quieter wheezing show the treatment worked",
-    "Obtain a repeat arterial blood gas and wait for the results before calling for help",
+    "Increase the oxygen flow and recheck the SpO₂ in 15 minutes",
+    "Obtain a STAT arterial blood gas to check the CO₂ level",
     "Activate the rapid response team and stay with the client",
-    "Give the next methylprednisolone dose early to reduce airway inflammation"
+    "Give another albuterol nebulizer treatment right away"
    ],
    "answer": 2,
    "optionRationales": [
-    "Quieter wheezing with a slower, shallow rate and drowsiness means little air is moving (silent chest) — exhaustion, not improvement.",
-    "An ABG will likely confirm rising CO₂, but waiting delays life-saving help for a client in respiratory failure.",
-    "Correct. Drowsiness, a silent chest, slowing shallow respirations, cyanosis, and falling SpO₂ despite more oxygen signal impending respiratory arrest. The client needs the rapid response team now, and the nurse stays to support the airway.",
-    "Steroids take hours to work and will not reverse failure that is happening now."
+    "Incorrect. More oxygen seems logical with an SpO₂ of 84%, but the problem is tiring and hypoventilation; oxygen alone cannot fix that, and waiting 15 minutes delays help.",
+    "Incorrect. An ABG will likely confirm rising CO₂, but the clinical picture already shows respiratory failure; testing first delays life-saving support.",
+    "Correct. Drowsiness, a silent chest, slowing shallow respirations, cyanosis, and falling SpO₂ despite more oxygen signal impending respiratory arrest. Unlike more oxygen, a nebulizer, or an ABG, the rapid response team can provide ventilatory support now.",
+    "Incorrect. A repeat bronchodilator is reasonable in an asthma flare, but this client is too fatigued to move air and needs ventilatory support, not just another treatment."
    ],
    "rationale": "Assessment cues must be read together: a slower rate and quieter wheezes look like improvement, but with drowsiness, dusky lips, and SpO₂ falling on higher-flow oxygen, they mean the client is tiring and moving very little air. Oxygen that no longer raises the saturation also signals failure. The priority is immediate escalation for ventilatory support.",
    "takeaway": "A quiet chest with drowsiness in asthma is a pre-arrest sign — call for help, don't wait for labs.",
    "cjmm": "Take Action",
    "focus": "Prioritization",
    "hintContent": "What a \"silent chest\" means, the late signs of hypoxia, and what it means when SpO₂ falls despite more oxygen.",
-   "hintStrategy": "Decide whether the client is improving or failing before choosing; then pick the action that gets help fastest."
+   "hintStrategy": "Decide whether the client is improving or failing before choosing; then pick the action that gets help fastest.",
+   "bestAnswer": true
   },
   {
    "id": "m15d-006",
@@ -209,16 +212,17 @@ window.NURSE_DATA.push({
    "answer": 0,
    "optionRationales": [
     "Correct. Frequent rescue-drug use and orthopnea (needing 3 pillows) mean her asthma is not controlled. These are the same warning signs that came before her collapse and must be reported before discharge.",
-    "Full sentences and walking without distress show improved airflow.",
-    "A normal temperature and WBC show the pneumonia is resolving.",
-    "An SpO₂ of 93%–95% on room air meets her discharge oxygenation goal."
+    "Incorrect. Full sentences and walking without distress show improved airflow.",
+    "Incorrect. A normal temperature and WBC show the pneumonia is resolving.",
+    "Incorrect. An SpO₂ of 93%–95% on room air meets her discharge oxygenation goal."
    ],
    "rationale": "Evaluating outcomes means looking at the asthma and the infection separately. The pneumonia markers (temperature, WBC) have improved, and oxygenation is adequate. But needing the rescue bronchodilator 4 times overnight shows poor control, and orthopnea is a breathing-pattern warning sign. Together they mean the plan is not fully effective, and the provider needs to know before discharge.",
    "takeaway": "Increased rescue-inhaler use and new orthopnea mean asthma is not controlled, even when infection markers look good.",
    "cjmm": "Evaluate Outcomes",
    "focus": "Assessment Findings",
    "hintContent": "What frequent rescue-drug use says about asthma control, and what orthopnea means.",
-   "hintStrategy": "Separate the infection findings from the airway-control findings, and ask which one still shows a problem."
+   "hintStrategy": "Separate the infection findings from the airway-control findings, and ask which one still shows a problem.",
+   "bestAnswer": true
   },
   {
    "id": "m15d-007",
@@ -273,21 +277,22 @@ window.NURSE_DATA.push({
     "Milk and strip the chest tube toward the drainage unit",
     "Remove the clamp from the chest tube",
     "Obtain a STAT portable chest x-ray before intervening",
-    "Lower the head of the bed flat to raise the blood pressure"
+    "Notify the provider of a possible tension pneumothorax"
    ],
    "answer": 1,
    "optionRationales": [
-    "Routine milking or stripping is not recommended, and the tube is not blocked by clots — it is clamped.",
-    "Correct. The clamp traps air in the pleural space. Tracheal shift to the left, absent right breath sounds, JVD, hypotension, and no tidaling point to a tension pneumothorax; unclamping lets the air escape.",
-    "Tension pneumothorax is a clinical diagnosis; waiting for an x-ray delays treatment of a life-threatening emergency.",
-    "The hypotension is caused by pressure on the great vessels, not low volume; lying flat worsens breathing and does not fix the cause."
+    "Incorrect. Milking can clear clots from a blocked tube, but routine stripping is not recommended and the tube here is not clotted; it is clamped.",
+    "Correct. The clamp traps air in the pleural space. Tracheal shift to the left, absent right breath sounds, JVD, hypotension, and no tidaling point to a tension pneumothorax; unclamping lets the air escape immediately, then the nurse calls the provider.",
+    "Incorrect. Tension pneumothorax is a clinical diagnosis; waiting for an x-ray delays treatment of a life-threatening emergency.",
+    "Incorrect. The provider must be called, but the nurse can remove the cause right now; calling first leaves air trapped while the client deteriorates."
    ],
    "rationale": "The nurse must connect the assessment findings to the physiology. Air from the injured lung has no exit while the tube is clamped, so pressure builds in the pleural space, the lung collapses, and the mediastinum is pushed toward the left, kinking the great veins (JVD, hypotension). Removing the clamp restores the one-way escape route. Then the nurse calls for help and reassesses tracheal position, breath sounds, and vital signs.",
    "takeaway": "Never clamp a chest tube for transport — a clamped tube can create a tension pneumothorax; unclamp first.",
    "cjmm": "Take Action",
    "focus": "Prioritization",
    "hintContent": "Negative pleural pressure, what happens when trapped air cannot leave the pleural space, and the signs of tension pneumothorax.",
-   "hintStrategy": "Look for what in the notes changed just before the client worsened, and choose the action that removes that cause."
+   "hintStrategy": "Look for what in the notes changed just before the client worsened, and choose the action that removes that cause.",
+   "bestAnswer": true
   },
   {
    "id": "m15d-008",
@@ -532,9 +537,9 @@ window.NURSE_DATA.push({
    ],
    "answer": 3,
    "optionRationales": [
-    "Mild tremor and jitteriness are expected beta-agonist effects.",
-    "Mild tachycardia around 100–110 is an expected effect of frequent albuterol.",
-    "Hoarseness is a local effect of an inhaled corticosteroid; rinsing and spitting helps.",
+    "Incorrect. Mild tremor and jitteriness are expected beta-agonist effects.",
+    "Incorrect. Mild tachycardia around 100–110 is an expected effect of frequent albuterol.",
+    "Incorrect. Hoarseness is a local effect of an inhaled corticosteroid; rinsing and spitting helps.",
     "Correct. Frequent albuterol shifts potassium into cells, and systemic steroids increase potassium loss. With a K⁺ of 3.0, a new irregular pulse suggests a hypokalemia-related dysrhythmia."
    ],
    "rationale": "The treatment for the asthma flare (albuterol every 2 hours plus IV methylprednisolone) creates the risk. Beta-agonists move potassium into cells and steroids promote its loss, so the K⁺ fell to 3.0. Tremor and mild tachycardia are expected beta-agonist effects; an irregular pulse with low potassium is a dangerous dysrhythmia risk that needs the provider now.",
@@ -542,7 +547,8 @@ window.NURSE_DATA.push({
    "cjmm": "Analyze Cues",
    "focus": "Pharmacology",
    "hintContent": "Expected versus dangerous effects of beta-agonists, and how albuterol and systemic steroids affect potassium.",
-   "hintStrategy": "Sort each finding into \"expected side effect\" or \"sign of a dangerous complication,\" using the lab values as a clue."
+   "hintStrategy": "Sort each finding into \"expected side effect\" or \"sign of a dangerous complication,\" using the lab values as a clue.",
+   "bestAnswer": true
   },
   {
    "id": "m15d-014",
@@ -604,17 +610,18 @@ window.NURSE_DATA.push({
    ],
    "answer": 2,
    "optionRationales": [
-    "Percussion uses cupped hands over the ribs; the spine, sternum, and area below the ribs are avoided.",
-    "The mucolytic is given before PVD so the loosened secretions can be drained and coughed out.",
+    "Incorrect. Percussion uses cupped hands over the ribs; the spine, sternum, and area below the ribs are avoided.",
+    "Incorrect. The mucolytic is given before PVD so the loosened secretions can be drained and coughed out.",
     "Correct. The bronchodilator opens the airways (and prevents acetylcysteine-induced bronchospasm), the mucolytic thins the mucus, and PVD before meals reduces the risk of vomiting and aspiration.",
-    "PVD after meals can cause vomiting and aspiration; it is scheduled before meals."
+    "Incorrect. PVD after meals can cause vomiting and aspiration; it is scheduled before meals."
    ],
    "rationale": "The correct sequence combines pharmacology and airway clearance: open (albuterol) → thin (acetylcysteine) → drain, percuss, and vibrate → cough and spit, all before meals. Acetylcysteine can trigger bronchospasm in asthma, which is why the bronchodilator comes first.",
    "takeaway": "Open–Thin–Drain–Cough, before meals: albuterol → acetylcysteine → PVD → cough.",
    "cjmm": "Evaluate Outcomes",
    "focus": "Client Teaching",
    "hintContent": "Why a bronchodilator comes before a mucolytic, where percussion is done, and when PVD is scheduled.",
-   "hintStrategy": "Check each statement for the right sequence, the right location, and the right timing; only one gets all three right."
+   "hintStrategy": "Check each statement for the right sequence, the right location, and the right timing; only one gets all three right.",
+   "bestAnswer": true
   },
   {
    "id": "m15d-019",
@@ -629,24 +636,25 @@ window.NURSE_DATA.push({
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
    "stem": "At a follow-up visit, a client with persistent asthma says, \"I only use my fluticasone/salmeterol inhaler every few days because the copay is $85 a month, and I also have to buy albuterol. Lately I need the albuterol almost every day.\" Which response by the nurse is best?",
    "options": [
-    "\"Using it every few days is fine as long as your albuterol keeps working for you.\"",
-    "\"You can use your albuterol every 4 hours instead, so you won't need the controller at all.\"",
-    "\"Your controller matters most, so you can stop buying the albuterol inhaler for now.\"",
+    "\"Your controller inhaler works only if you use it every day, even when you feel well.\"",
+    "\"Needing albuterol almost every day means your asthma is not well controlled.\"",
+    "\"Let's review how you use both inhalers to be sure you get the full dose.\"",
     "\"Let's ask your provider and pharmacist about lower-cost options and aid programs.\""
    ],
    "answer": 3,
    "optionRationales": [
-    "A controller must be taken daily to suppress airway inflammation; near-daily albuterol use already shows poor control.",
-    "Albuterol relieves bronchospasm but does not treat inflammation; relying on it lets the asthma worsen.",
-    "The client must always have a rescue inhaler for sudden symptoms.",
-    "Correct. Cost is a real barrier to adherence. Connecting the client with the provider and pharmacist for generics or assistance programs addresses the cause of her poor control."
+    "Incorrect. Daily use is the right teaching point, but the client said doses are skipped because of cost; repeating instructions does not remove that barrier.",
+    "Incorrect. This is true and important, but it only names the problem; it does not help the client afford the controller that is needed.",
+    "Incorrect. Checking technique is a good habit, but poor technique is not the problem here; the client is skipping doses because of cost.",
+    "Correct. Cost is the barrier the client named. Connecting the client with the provider and pharmacist for generics or assistance programs addresses the cause of poor control, while teaching or technique review alone does not."
    ],
-   "rationale": "This item links pharmacology to disease control. Skipping a daily LABA + ICS controller lets airway inflammation return, which is why the client now needs her rescue inhaler almost every day — a sign of poorly controlled asthma. The nurse addresses the adherence barrier (expense) without judging, instead of approving unsafe substitutions.",
+   "rationale": "This item links pharmacology to disease control. Skipping a daily LABA + ICS controller lets airway inflammation return, which is why the client now needs the rescue inhaler almost every day — a sign of poorly controlled asthma. Teaching and technique review are useful, but the best response addresses the adherence barrier the client named (expense) without judging.",
    "takeaway": "Rising rescue-inhaler use often traces back to a skipped controller — ask about cost and connect the client with help.",
    "cjmm": "Take Action",
    "focus": "Client Teaching",
    "hintContent": "Controller versus rescue medications, what frequent rescue use means, and cost as a barrier to adherence.",
-   "hintStrategy": "Find the response that keeps both medications in use and solves the reason the controller is being skipped."
+   "hintStrategy": "Find the response that keeps both medications in use and solves the reason the controller is being skipped.",
+   "bestAnswer": true
   },
   {
    "id": "m15d-022",
@@ -667,9 +675,9 @@ window.NURSE_DATA.push({
    "answer": 0,
    "optionRationales": [
     "Correct. Exhaling into a dry powder inhaler adds moisture that clumps the powder and can blow the dose out. The client should exhale away from the device.",
-    "Holding the device level after loading keeps the powder in place; this is correct.",
-    "A DPI has no propellant, so a quick, deep breath is needed to pull the powder into the lungs; this is correct.",
-    "Rinsing and spitting after an inhaled corticosteroid prevents thrush and hoarseness; this is correct."
+    "Incorrect. Holding the device level after loading keeps the powder in place; this is correct.",
+    "Incorrect. A DPI has no propellant, so a quick, deep breath is needed to pull the powder into the lungs; this is correct.",
+    "Incorrect. Rinsing and spitting after an inhaled corticosteroid prevents thrush and hoarseness; this is correct."
    ],
    "rationale": "A dry powder inhaler depends on the client's own fast, deep inhalation and on dry powder. Exhaling into it ruins the dose. Loading it level, inhaling quickly, and rinsing after the steroid component are all correct technique.",
    "takeaway": "DPI: don't shake it, don't exhale into it, breathe in fast and deep, then rinse and spit.",
@@ -693,22 +701,23 @@ window.NURSE_DATA.push({
    "options": [
     "Administer an oral antihistamine and observe for 30 minutes",
     "Administer the client's albuterol inhaler, 2 puffs",
-    "Apply ice to the injection site to slow absorption",
+    "Start an IV and infuse normal saline rapidly",
     "Administer epinephrine intramuscularly per protocol"
    ],
    "answer": 3,
    "optionRationales": [
-    "Antihistamines help itching and hives but do not reverse airway swelling or shock; they are not first-line.",
-    "Albuterol treats bronchospasm alone; the wheezing here is part of a systemic anaphylactic reaction with hypotension.",
-    "Local measures do not treat a systemic reaction.",
-    "Correct. Throat tightness, hives, wheezing, tachycardia, and hypotension after an allergen injection are anaphylaxis; IM epinephrine is the first-line drug."
+    "Incorrect. Antihistamines help itching and hives but do not reverse airway swelling or shock; they are an add-on, not first-line.",
+    "Incorrect. Albuterol treats bronchospasm alone; the wheezing here is part of a systemic anaphylactic reaction with hypotension and throat swelling.",
+    "Incorrect. IV fluids are needed for hypotension in anaphylaxis, but starting a line takes time and does not reverse airway swelling; epinephrine comes first.",
+    "Correct. Throat tightness, hives, wheezing, tachycardia, and hypotension after an allergen injection are anaphylaxis. IM epinephrine is first-line; fluids, antihistamines, and bronchodilators follow."
    ],
    "rationale": "The nurse must tell an ordinary asthma flare from anaphylaxis. Wheezing alone might call for albuterol, but wheezing plus throat tightness, hives, and hypotension minutes after an allergen injection is a systemic reaction. Epinephrine reverses airway swelling, bronchospasm, and vasodilation; then the nurse calls for help and gives oxygen.",
    "takeaway": "Wheezing + hives + hypotension after an allergy shot = anaphylaxis: IM epinephrine first.",
    "cjmm": "Take Action",
    "focus": "Pharmacology",
    "hintContent": "The difference between an asthma flare and anaphylaxis, and the first-line drug for anaphylaxis.",
-   "hintStrategy": "Name the condition from the whole cluster of findings, then choose the one drug that treats all of it."
+   "hintStrategy": "Name the condition from the whole cluster of findings, then choose the one drug that treats all of it.",
+   "bestAnswer": true
   },
   {
    "id": "m15d-025",
@@ -762,22 +771,23 @@ window.NURSE_DATA.push({
    "options": [
     "Teach the client to hold the inhaler 2 inches from the open mouth",
     "Request a prescription for a spacer (valved holding chamber)",
-    "Tell the client to take 4 puffs instead of 2 to make up the dose",
-    "Suggest that the client inhale the dose through the nose instead"
+    "Have the client practice until the press-and-breathe timing is right",
+    "Teach the client to exhale fully before spraying the dose"
    ],
    "answer": 1,
    "optionRationales": [
-    "The open-mouth technique needs even better hand-breath coordination, which this client lacks.",
-    "Correct. A spacer holds the medication so the client can inhale it slowly without precise timing, delivering more drug to the lungs.",
-    "Doubling the puffs increases side effects such as tachycardia and tremor without fixing the technique.",
-    "An MDI is designed for oral inhalation; nasal use does not deliver the drug to the lower airways."
+    "Incorrect. The open-mouth technique is an accepted method, but it needs even better hand-breath coordination, which this client lacks.",
+    "Correct. A spacer holds the medication so the client can inhale it slowly without precise timing. This removes the coordination barrier that practice and extra teaching cannot overcome with arthritic hands.",
+    "Incorrect. Practice helps many clients, but arthritis limits this client's hand coordination, so more practice is unlikely to fix the timing problem.",
+    "Incorrect. Exhaling fully first is a correct step, but it does not fix the delay between spraying and inhaling that is wasting the dose."
    ],
    "rationale": "Older adults with arthritis often cannot coordinate pressing the canister with inhaling. A visible mist and a delayed breath show the drug is being lost. A spacer removes the timing problem, which connects inhaler teaching with lifespan considerations such as assessing barriers to adherence in older adults.",
    "takeaway": "Poor MDI timing or visible mist → request a spacer; don't double the puffs.",
    "cjmm": "Take Action",
    "focus": "Client Teaching",
    "hintContent": "Coordination problems in older adults and how a spacer changes MDI technique.",
-   "hintStrategy": "Identify why the dose is being lost, then pick the option that removes that cause safely."
+   "hintStrategy": "Identify why the dose is being lost, then pick the option that removes that cause safely.",
+   "bestAnswer": true
   },
   {
    "id": "m15d-029",
@@ -798,16 +808,17 @@ window.NURSE_DATA.push({
    "answer": 0,
    "optionRationales": [
     "Correct. Continuous water-seal bubbling in a stable client suggests an air leak; the nurse checks from the insertion site toward the unit to find it.",
-    "Prolonged clamping can trap air in the pleural space and cause a tension pneumothorax.",
-    "Continuous bubbling is a change from intermittent bubbling and is not expected.",
-    "Raising the suction does not fix a leak and is not a nursing decision without an order."
+    "Incorrect. Prolonged clamping can trap air in the pleural space and cause a tension pneumothorax.",
+    "Incorrect. Continuous bubbling is a change from intermittent bubbling and is not expected.",
+    "Incorrect. Raising the suction does not fix a leak and is not a nursing decision without an order."
    ],
    "rationale": "Intermittent bubbling with exhalation is expected while air leaves the pleural space. Continuous bubbling in the water seal means air is entering the system — at the client or at a connection. Because the client is stable, the nurse first looks for and fixes the leak, then notifies the provider if it continues.",
    "takeaway": "Continuous water-seal bubbling = air leak; check from the client toward the unit.",
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "hintContent": "Expected versus unexpected bubbling in each chamber of a chest drainage system.",
-   "hintStrategy": "Decide whether the finding is expected; if not, choose the safe assessment that finds the cause."
+   "hintStrategy": "Decide whether the finding is expected; if not, choose the safe assessment that finds the cause.",
+   "bestAnswer": true
   },
   {
    "id": "m15d-031",
@@ -868,17 +879,18 @@ window.NURSE_DATA.push({
    ],
    "answer": 2,
    "optionRationales": [
-    "Pulmonary edema causes bilateral crackles and orthopnea, not sudden one-sided pleuritic pain with unequal chest movement.",
-    "A clot causes sudden dyspnea, but breath sounds and chest movement are usually equal because airflow is not blocked.",
+    "Incorrect. Pulmonary edema causes bilateral crackles and orthopnea, not sudden one-sided pleuritic pain with unequal chest movement.",
+    "Incorrect. A clot causes sudden dyspnea, but breath sounds and chest movement are usually equal because airflow is not blocked.",
     "Correct. Emphysema creates enlarged, weakened air sacs (bullae) that can rupture during coughing. Air in the pleural space removes negative pressure, and the lung collapses on that side.",
-    "An effusion develops gradually and causes dullness; it does not usually begin suddenly after a cough."
+    "Incorrect. An effusion develops gradually and causes dullness; it does not usually begin suddenly after a cough."
    ],
    "rationale": "Linking the disease to the assessment gives the answer. Emphysema damages alveolar walls into bullae; a coughing spell can rupture one (a secondary spontaneous pneumothorax). The findings — sudden pleuritic pain, one-sided diminished breath sounds, asymmetric chest movement, tachypnea, and hypoxemia — match loss of negative pleural pressure on one side.",
    "takeaway": "Emphysema + coughing spell + sudden one-sided pleuritic pain and diminished sounds = ruptured bulla with pneumothorax.",
    "cjmm": "Prioritize Hypotheses",
    "focus": "Pathophysiology",
    "hintContent": "How emphysema changes the alveoli, and which conditions cause one-sided versus bilateral findings.",
-   "hintStrategy": "Match the timing (sudden, after coughing) and the one-sided findings to a single mechanism."
+   "hintStrategy": "Match the timing (sudden, after coughing) and the one-sided findings to a single mechanism.",
+   "bestAnswer": true
   },
   {
    "id": "m15d-037",
@@ -970,17 +982,18 @@ window.NURSE_DATA.push({
    ],
    "answer": 2,
    "optionRationales": [
-    "The fever should be treated, but it does not change the need to collect cultures before antibiotics.",
-    "The antibiotic should be given without delay, but only after cultures are drawn so the organism can still be identified.",
+    "Incorrect. The fever should be treated, but it does not change the need to collect cultures before antibiotics.",
+    "Incorrect. The antibiotic should be given without delay, but only after cultures are drawn so the organism can still be identified.",
     "Correct. Cultures are obtained before the first antibiotic dose so results are not affected; then antibiotics are given promptly.",
-    "Azithromycin also must wait until the cultures have been collected."
+    "Incorrect. Azithromycin also must wait until the cultures have been collected."
    ],
    "rationale": "Diagnostic accuracy and treatment timing go together: antibiotics given first can prevent the organism from growing in culture, leaving the team without guidance on the right drug. So the nurse collects cultures first and then gives the first antibiotic doses without delay.",
    "takeaway": "Cultures before antibiotics — then give the antibiotics without delay.",
    "cjmm": "Take Action",
    "focus": "Prioritization",
    "hintContent": "How antibiotics affect culture results and why the first dose should not be delayed.",
-   "hintStrategy": "Think about which order would be ruined if another were done first."
+   "hintStrategy": "Think about which order would be ruined if another were done first.",
+   "bestAnswer": true
   },
   {
    "id": "m15d-039",
@@ -1042,9 +1055,9 @@ window.NURSE_DATA.push({
    ],
    "answer": 3,
    "optionRationales": [
-    "340 L/min is 85% of personal best — the green zone.",
-    "210 L/min is about 53% — still the yellow zone. The client adds quick-relief medication per the plan and calls the provider if not improving.",
-    "300 L/min is 75% — the yellow zone; night waking is a caution sign.",
+    "Incorrect. 340 L/min is 85% of personal best — the green zone.",
+    "Incorrect. 210 L/min is about 53% — still the yellow zone. The client adds quick-relief medication per the plan and calls the provider if not improving.",
+    "Incorrect. 300 L/min is 75% — the yellow zone; night waking is a caution sign.",
     "Correct. 190 L/min is about 48% of personal best — the red zone. A red-zone reading calls for rescue medication and emergency care even when the symptoms seem mild."
    ],
    "rationale": "Applying the PEFR diagnostic to the action plan: green is 80% or more, yellow is 50%–79%, and red is below 50% of personal best. The zone is set by the number, not by how the client feels, so a red-zone reading needs emergency care even with mild symptoms. Waiting for trouble talking or cyanosis is unsafe because those are late signs.",
@@ -1052,7 +1065,8 @@ window.NURSE_DATA.push({
    "cjmm": "Analyze Cues",
    "focus": "Prioritization",
    "hintContent": "Peak flow zone cutoffs as a percentage of personal best and the symptoms that go with each zone.",
-   "hintStrategy": "Convert each reading to a percentage of 400, then match it to a zone."
+   "hintStrategy": "Convert each reading to a percentage of 400, then match it to a zone.",
+   "bestAnswer": true
   },
   {
    "id": "m15d-041",
@@ -1075,10 +1089,10 @@ window.NURSE_DATA.push({
    ],
    "answer": 1,
    "optionRationales": [
-    "Prolonged supine positioning can compress major vessels and reduce blood flow to the placenta, and lying flat worsens breathing.",
+    "Incorrect. Prolonged supine positioning can compress major vessels and reduce blood flow to the placenta, and lying flat worsens breathing.",
     "Correct. The slides direct the nurse to check all medications before giving them to a pregnant client, because some are unsafe for the fetus.",
-    "Care should involve both the pulmonologist and the obstetrician from the start.",
-    "An SpO₂ below 95% in pregnancy needs follow-up; the fetus depends on the mother's oxygenation, so oxygen is continued."
+    "Incorrect. Care should involve both the pulmonologist and the obstetrician from the start.",
+    "Incorrect. An SpO₂ below 95% in pregnancy needs follow-up; the fetus depends on the mother's oxygenation, so oxygen is continued."
    ],
    "rationale": "Pregnancy reduces residual capacity, so the client desaturates faster, and the fetus depends on her oxygen. Asthma care must be adapted: keep oxygen on to target, avoid supine positioning, involve both specialties, and check each medication for pregnancy safety.",
    "takeaway": "Pregnant client with asthma: keep her oxygenated and off her back, involve OB and pulmonology, and check every drug first.",
@@ -1154,17 +1168,18 @@ window.NURSE_DATA.push({
    ],
    "answer": 1,
    "optionRationales": [
-    "The steroid is important but works over hours; it comes after immediate airway measures.",
+    "Incorrect. The steroid is important but works over hours; it comes after immediate airway measures.",
     "Correct. Sitting upright is immediate, takes seconds, and improves lung expansion while oxygen and albuterol are set up.",
-    "Albuterol is the key drug, but positioning takes only a moment and is done first.",
-    "Reassessment follows the interventions to evaluate their effect."
+    "Incorrect. Albuterol is the key drug, but positioning takes only a moment and is done first.",
+    "Incorrect. Reassessment follows the interventions to evaluate their effect."
    ],
    "rationale": "The acute asthma order is sit up → O₂ → SABA → steroid → reassess. Positioning is the fastest action, lowers the diaphragm, and helps every other treatment work. Then oxygen to target, the rescue bronchodilator, the systemic steroid, and reassessment follow.",
    "takeaway": "Acute asthma: sit up → O₂ → SABA → steroid → reassess.",
    "cjmm": "Take Action",
    "focus": "Prioritization",
    "hintContent": "The sequence of acute asthma care and how quickly each intervention works.",
-   "hintStrategy": "Choose the action that can be done immediately and helps the others work better."
+   "hintStrategy": "Choose the action that can be done immediately and helps the others work better.",
+   "bestAnswer": true
   },
   {
    "id": "m15d-044",
@@ -1178,23 +1193,24 @@ window.NURSE_DATA.push({
    "stem": "During an annual visit, a 46-year-old client who smokes 1 pack per day says, \"My dad just had a heart attack. I want to quit within the next month, but I've failed before.\" Which action by the nurse is most appropriate?",
    "options": [
     "Help the client set a quit date and choose cessation aids",
-    "Explain the long-term consequences of smoking in detail, including heart disease",
+    "Explain in detail how smoking leads to heart disease and cancer",
     "Encourage the client to cut down gradually over the next year",
-    "Document the smoking status and revisit it at the next annual visit"
+    "Advise the client firmly to quit smoking as soon as possible"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. The client is ready; the nurse helps build a plan (quit date, aids such as NRT) and provides a referral.",
-    "The client already knows the risks and is motivated; a lecture delays action.",
-    "Cutting down over a year delays quitting for a client who is ready now.",
-    "Waiting a year misses the moment of readiness."
+    "Correct. The client is ready; the nurse helps build a plan (quit date, aids such as NRT) and provides a referral. Advice and education alone do not give the client a plan.",
+    "Incorrect. Education about risk is reasonable, but the client already knows the risks and is motivated; a lecture delays action.",
+    "Incorrect. Cutting down is a step some clients take, but a year-long taper delays quitting for a client who is ready now.",
+    "Incorrect. Clear advice to quit is part of brief intervention, but this client already wants to quit; the client needs help with a plan, not more advice."
    ],
    "rationale": "When a client expresses interest in quitting, the slides direct the nurse to help develop a plan and provide a referral. Past relapse is common and is not a reason to delay; each attempt raises the chance of success.",
    "takeaway": "Ready to quit → set a date, choose aids, refer. Don't lecture a motivated client.",
    "cjmm": "Take Action",
    "focus": "Client Teaching",
    "hintContent": "Matching the nurse's response to the client's stage of readiness to quit.",
-   "hintStrategy": "Decide whether the client is ready, then pick the response that turns readiness into action."
+   "hintStrategy": "Decide whether the client is ready, then pick the response that turns readiness into action.",
+   "bestAnswer": true
   },
   {
    "id": "m15d-046",
@@ -1250,24 +1266,25 @@ window.NURSE_DATA.push({
    "clientNeed": "Health Promotion and Maintenance",
    "stem": "The nurse is caring for a 4-year-old client with asthma who has had three ED visits this year. The parent says, \"I only smoke in the car with the windows down or outside, never around my child.\" Which response by the nurse is most appropriate?",
    "options": [
-    "\"That's a good plan. Smoking outside the home and away from your child fully protects the lungs.\"",
-    "\"Opening the car windows is enough to clear the smoke before your child rides.\"",
-    "\"Your child should use the rescue inhaler before riding in the car.\"",
+    "\"Smoking outside is a good step. Changing your shirt afterward also lowers exposure.\"",
+    "\"Smoking only outside the home, never in the car, would better protect your child.\"",
+    "\"Let's review your child's asthma action plan and when to use the rescue inhaler.\"",
     "\"Smoke residue in the car and on clothes can still trigger asthma. Can we talk about quitting?\""
    ],
    "answer": 3,
    "optionRationales": [
-    "Smoke residue on surfaces, clothes, and hair still exposes the child; this is not full protection.",
-    "Open windows do not remove residue left in the car.",
-    "Premedicating treats the symptom but leaves the trigger in place.",
-    "Correct. Smoke is an airborne irritant that inflames a child's small airways. The nurse gives accurate information and opens a conversation about quitting."
+    "Incorrect. Changing clothes does reduce thirdhand smoke, but this praise implies the current plan is enough and does not address quitting.",
+    "Incorrect. Keeping smoke out of the car would help, but residue on clothes and hair still exposes the child; it is partial protection.",
+    "Incorrect. Reviewing the action plan is useful with frequent ED visits, but it treats symptoms and leaves the trigger in place.",
+    "Correct. Smoke is an irritant that inflames a child's small airways, and residue persists after smoking. The nurse corrects the misconception and opens a conversation about quitting, which removes the trigger instead of reducing it."
    ],
    "rationale": "Children have shorter, narrower airways, so irritant-induced swelling and mucus raise airway resistance sharply. Secondhand and residual smoke trigger asthma, and repeated ED visits show poor control. The best response corrects the misconception without judgment and offers help to quit.",
    "takeaway": "There is no safe place to smoke around a child with asthma — residue still triggers attacks.",
    "cjmm": "Take Action",
    "focus": "Client Teaching",
    "hintContent": "Why children's airways are vulnerable, airborne irritants as asthma triggers, and secondhand smoke.",
-   "hintStrategy": "Choose the response that is accurate and removes the trigger rather than masking it."
+   "hintStrategy": "Choose the response that is accurate and removes the trigger rather than masking it.",
+   "bestAnswer": true
   },
   {
    "id": "m15d-048",
@@ -1325,9 +1342,9 @@ window.NURSE_DATA.push({
    ],
    "answer": 3,
    "optionRationales": [
-    "The calculation is wrong (1.5 × 20 = 30), and no pack-year level is safe.",
-    "The calculation is right, but the conclusion is not. The lungs have large reserve, so loss of function is often noticed only after the damage is permanent; feeling well does not show the lungs are healthy.",
-    "Smoke slows and damages the cilia; it does not speed them up.",
+    "Incorrect. The calculation is wrong (1.5 × 20 = 30), and no pack-year level is safe.",
+    "Incorrect. The calculation is right, but the conclusion is not. The lungs have large reserve, so loss of function is often noticed only after the damage is permanent; feeling well does not show the lungs are healthy.",
+    "Incorrect. Smoke slows and damages the cilia; it does not speed them up.",
     "Correct. Pack-years = packs/day × years = 30. Smoke increases mucus and reduces cilia action, and loss of lung function often becomes noticeable only after the damage is permanent."
    ],
    "rationale": "Calculating exposure and explaining the airway defenses go together. The upper and lower airways rely on cilia to clear mucus; smoke increases mucus while slowing the cilia. Because the lungs have large reserve, decline in function often appears only after irreversible damage, so feeling fine does not mean the lungs are healthy.",
@@ -1349,23 +1366,24 @@ window.NURSE_DATA.push({
    "stem": "A client who stopped smoking 4 days ago calls the clinic reporting irritability, trouble concentrating, increased appetite, and a cough that seems \"worse than when I smoked.\" The client asks whether to start smoking again. Which response by the nurse is best?",
    "options": [
     "\"These are expected withdrawal effects, and coughing often increases as your airways clear.\"",
-    "\"Your symptoms mean you quit too quickly; cutting back gradually over months would work better.\"",
-    "\"These are signs of a respiratory infection, so come in today to be started on antibiotics.\"",
-    "\"A worsening cough after quitting usually means permanent lung damage has already occurred.\""
+    "\"Irritability is expected, but see your provider soon to have the worsening cough checked.\"",
+    "\"Many people feel this way at first. A quit line can give you support when it gets hard.\"",
+    "\"Cravings are strongest in the first few days, so keep busy when the urge to smoke hits.\""
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Irritability, poor concentration, increased appetite, and cravings are expected, temporary withdrawal effects. A temporarily worse cough is common as recovering cilia clear old mucus.",
-    "Symptoms are not a sign of quitting too fast; gradual reduction delays the benefits.",
-    "Nothing suggests infection (no fever or change in sputum); these are withdrawal effects.",
-    "The worsening cough reflects healing airways, not permanent damage."
+    "Correct. Irritability, poor concentration, increased appetite, and cravings are expected, temporary withdrawal effects. A temporarily worse cough is common as recovering cilia clear old mucus. This explains every symptom the client is worried about.",
+    "Incorrect. Caution about a cough is reasonable, but this one is expected as cilia recover; framing it as a problem may push the client back to smoking.",
+    "Incorrect. Quit-line support is helpful, but it does not explain the symptoms or reassure the client about the cough that is driving the urge to smoke.",
+    "Incorrect. This is true and practical advice, but it addresses only cravings and leaves the client's concern about the worsening cough unanswered."
    ],
    "rationale": "Nicotine withdrawal causes predictable, temporary symptoms. As the cilia recover, they sweep out mucus that built up while smoking, so cough may increase for a while. Reassuring the client and reviewing the NRT and support plan helps prevent relapse.",
    "takeaway": "A worse cough after quitting is a sign of healing — encourage the client to stay quit.",
    "cjmm": "Evaluate Outcomes",
    "focus": "Client Teaching",
    "hintContent": "Expected nicotine withdrawal effects and what happens to the cilia after quitting.",
-   "hintStrategy": "Decide whether the symptoms are expected or a new problem, then choose the supportive, accurate reply."
+   "hintStrategy": "Decide whether the symptoms are expected or a new problem, then choose the supportive, accurate reply.",
+   "bestAnswer": true
   }
  ]
 });

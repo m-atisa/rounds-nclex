@@ -398,7 +398,8 @@ window.NURSE_DATA.push({
       "focus": "Lifespan & Diversity",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m50-pro-002",
@@ -428,7 +429,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m50-pro-003",
@@ -473,19 +475,19 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "The nurse is preparing to administer a unit of packed red blood cells to a client who has been on the unit for a week and is well known to the staff. Which action best meets The Joint Commission National Patient Safety Goal for client identification?",
       "options": [
-        "Confirm that the client’s room and bed number match those on the blood bank requisition",
-        "Ask the client, “Are you Mr. Lee?” and proceed with the transfusion when he answers yes",
+        "Match the name and record number on the band to the blood bank requisition",
+        "Have the client state his name and match it to the band and the blood label",
         "Have the client state his name and birth date and match both to the band and blood label",
-        "Ask the charge nurse, who has cared for the client all week, to confirm his identity"
+        "Have a second RN check the blood label against the provider’s transfusion prescription"
       ],
       "answer": 2,
       "optionRationales": [
-        "Incorrect. A room or bed number is never an acceptable identifier because clients move and beds change.",
-        "Incorrect. A yes/no question invites agreement from a confused or hard-of-hearing client; the client should state his identifiers.",
+        "Incorrect. Two identifiers on the band are appropriate, but the requisition is a paper request, not the product; the band must be matched to the blood label itself.",
+        "Incorrect. Having the client state his name is good practice, but one identifier does not meet the NPSG requirement for at least two.",
         "Correct. Two client-specific identifiers stated by the client and matched to the wristband and the product meet the NPSG and prevent wrong-client transfusion.",
-        "Incorrect. Familiarity is not identification; wrong-client errors often occur when staff rely on knowing the client."
+        "Incorrect. A second verifier checking the product against the prescription is part of safe transfusion, but it confirms the right product, not the right client."
       ],
-      "rationale": "The NPSG for identification requires at least two client-specific identifiers, such as full name and date of birth, matched to the client’s band and to the medication or blood product. Having the client state the identifiers avoids the false agreement that a yes/no question can produce. Room numbers are location, not identity, and relying on a colleague’s familiarity is precisely how wrong-client errors occur. For blood, the product label is also verified against the client with a second qualified verifier per policy.",
+      "rationale": "The NPSG for identification requires at least two client-specific identifiers, such as full name and date of birth, matched to the client’s band and to the medication or blood product. Having the client state the identifiers avoids the false agreement that a yes/no question can produce. Stating only one identifier, or matching the band to a requisition instead of the product, leaves the check incomplete, and checking the label against the prescription confirms the product, not the client. For blood, the product label is also verified against the client with a second qualified verifier per policy.",
       "takeaway": "Use two client-specific identifiers stated by the client and matched to the band and the product, every time, regardless of familiarity.",
       "hintContent": "Think about which option would still work if the client were confused or the staff were mistaken about who is in the bed.",
       "hintStrategy": "For safety-goal items, eliminate options that rely on location, assumptions, or someone else’s memory; choose the standardized verification.",
@@ -497,7 +499,8 @@ window.NURSE_DATA.push({
       "focus": "Delegation & Safety",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m50-pro-005",
@@ -505,19 +508,19 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "A hospital is being penalized under the Affordable Care Act for excess 30-day readmissions of clients with heart failure. The nurse is preparing a client with heart failure for discharge. Which nursing action most directly reduces this client’s risk of readmission?",
       "options": [
-        "Reviewing the hospital’s heart failure readmission statistics with the client and family",
+        "Giving the client and family a written heart failure booklet to review at home after discharge",
         "Providing a printed list of all discharge medications as the client leaves the unit",
-        "Recommending that the client stay one more day to receive an additional diuretic dose",
+        "Explaining the low-sodium diet in detail to the client on the morning of discharge",
         "Using teach-back to confirm the client can explain daily weights and when to call the provider"
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. Organizational statistics do not change the client’s self-care knowledge or behavior.",
-        "Incorrect. A printed list given at departure does not verify understanding or ability to follow the regimen.",
-        "Incorrect. An extra day adds cost and hospital risk without addressing the knowledge and self-care gaps that drive readmission.",
+        "Incorrect. Written materials support learning at home, but handing them out does not confirm that the client understands what to monitor or when to seek help.",
+        "Incorrect. A medication list is useful, but a printed list given at departure does not verify understanding or ability to follow the regimen.",
+        "Incorrect. Sodium restriction is important teaching, but one-way explanation of a single topic does not confirm understanding or address early warning signs.",
         "Correct. Teach-back confirms understanding of self-monitoring and early warning signs, which addresses a leading cause of heart failure readmission."
       ],
-      "rationale": "The ACA created financial incentives to reduce 30-day readmissions, which makes discharge preparation a quality measure. Many heart failure readmissions result from unrecognized fluid gain and late reporting of symptoms, so confirming the client can explain daily weights and when to call the provider targets the mechanism directly. A printed medication list is the most tempting distractor, but information without verified understanding is weak teaching. Keeping a client longer is neither efficient nor effective in addressing the cause.",
+      "rationale": "The ACA created financial incentives to reduce 30-day readmissions, which makes discharge preparation a quality measure. Many heart failure readmissions result from unrecognized fluid gain and late reporting of symptoms, so confirming the client can explain daily weights and when to call the provider targets the mechanism directly. A printed medication list, a booklet, and diet teaching are all useful, but information without verified understanding is weak teaching. Teach-back closes that gap.",
       "takeaway": "To reduce readmissions, verify the client’s understanding of self-monitoring and when to seek help (teach-back), and coordinate follow-up.",
       "hintContent": "Identify what usually brings heart failure clients back to the hospital and which option prevents it.",
       "hintStrategy": "When a stem names a quality measure, choose the intervention that acts on the measure’s cause, not one that only provides information or adds resources.",
@@ -527,7 +530,8 @@ window.NURSE_DATA.push({
       "focus": "Client Teaching",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m50-pro-006",
@@ -559,7 +563,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m50-pro-007",
@@ -567,19 +572,19 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "Results of the AHRQ Patient Safety Culture Survey show that most nurses on a unit would not report a near miss because they fear being written up. Which action by the nurse manager is most appropriate?",
       "options": [
-        "Require each nurse to submit at least one near-miss report every month",
+        "Schedule an in-service so staff can review how to complete a near-miss report",
         "Establish a nonpunitive reporting process and share the fixes that reports produce",
-        "Remind staff at the next meeting that failing to report errors violates policy",
-        "Repeat the survey next year to determine whether the results have improved"
+        "Share the survey results with staff and invite discussion at the next meeting",
+        "Repeat the survey in 6 months to see whether staff perceptions have improved"
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. Quotas produce low-value reports and do not remove the fear that suppresses honest reporting.",
+        "Incorrect. Education on the reporting process is helpful, but staff are not reporting because of fear, not because they lack knowledge of the form.",
         "Correct. Removing fear of punishment and showing that reports lead to system improvements directly addresses the cause of underreporting.",
-        "Incorrect. Threatening policy violations reinforces the fear of punishment that the survey identified.",
-        "Incorrect. Waiting a year without intervention leaves hidden system hazards unaddressed."
+        "Incorrect. Sharing results is a reasonable start, but discussion alone does not change the punitive response that staff fear.",
+        "Incorrect. Remeasuring is part of evaluation, but resurveying without first intervening leaves the fear and hidden hazards in place."
       ],
-      "rationale": "The AHRQ survey assesses whether staff feel comfortable reporting errors. When fear of punishment suppresses near-miss reporting, the organization loses its best early warnings of system weakness. The effective response is a nonpunitive reporting process combined with visible feedback that reports lead to fixes, which builds trust. The reminder about policy is tempting because reporting is required, but it increases the very fear that caused the problem.",
+      "rationale": "The AHRQ survey assesses whether staff feel comfortable reporting errors. When fear of punishment suppresses near-miss reporting, the organization loses its best early warnings of system weakness. The effective response is a nonpunitive reporting process combined with visible feedback that reports lead to fixes, which builds trust. Education, discussion, and remeasurement are all reasonable parts of improvement, but none removes the fear that caused the problem.",
       "takeaway": "Low reporting caused by fear is fixed by making reporting safe and showing that it produces improvements, not by mandates or threats.",
       "hintContent": "Identify the cause of the low reporting in the stem and choose the action that removes it.",
       "hintStrategy": "For culture items, eliminate options that rely on pressure or punishment; choose the one that builds trust and closes the feedback loop.",
@@ -591,7 +596,8 @@ window.NURSE_DATA.push({
       "focus": "Delegation & Safety",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m50-pro-008",
@@ -600,18 +606,18 @@ window.NURSE_DATA.push({
       "stem": "A 6-year-old client has severe bleeding after a bicycle accident, and the provider states that a blood transfusion is lifesaving. The parents refuse the transfusion for religious reasons. Which action by the nurse is most appropriate?",
       "options": [
         "Inform the provider of the refusal and initiate the facility’s ethics and legal process",
-        "Administer the blood while the parents are out of the room to protect the child",
-        "Tell the parents they will lose custody of the child if they continue to refuse",
+        "Ask the parents whether volume expanders or other blood alternatives are acceptable",
+        "Ask the hospital chaplain to talk with the parents about their religious concerns",
         "Document the parents’ refusal and continue to monitor the child’s vital signs"
       ],
       "answer": 0,
       "optionRationales": [
         "Correct. Prompt notification lets the provider and the organization pursue emergency legal authority while the nurse advocates for the child.",
-        "Incorrect. Transfusing secretly without valid authority violates law and trust; emergency authority must come through the provider and legal process.",
-        "Incorrect. Threatening the parents is coercive and not within the nurse’s role or knowledge.",
-        "Incorrect. Documenting alone accepts a surrogate decision that may cost the child’s life without advocating for the child."
+        "Incorrect. Exploring acceptable alternatives respects the family, but the provider states blood is lifesaving, so alternatives cannot replace it and delay is dangerous.",
+        "Incorrect. Spiritual support is appropriate for the family, but it does not secure the lifesaving treatment the child needs now.",
+        "Incorrect. Documenting and monitoring are required, but doing only this accepts a surrogate decision that may cost the child’s life."
       ],
-      "rationale": "Ethics is a concept related to quality: clients have a right to the best quality of care, and nurses must recognize preferences that are not ethical to honor, such as a surrogate refusing lifesaving blood for a minor. An adult with capacity may refuse a transfusion for themselves, but parents generally cannot refuse lifesaving treatment for a child. The nurse advocates by notifying the provider and initiating the ethics and legal process so emergency authorization can be obtained. Documenting and monitoring is tempting because it respects the family, but it fails the child, and acting secretly or coercively is never appropriate.",
+      "rationale": "Ethics is a concept related to quality: clients have a right to the best quality of care, and nurses must recognize preferences that are not ethical to honor, such as a surrogate refusing lifesaving blood for a minor. An adult with capacity may refuse a transfusion for themselves, but parents generally cannot refuse lifesaving treatment for a child. The nurse advocates by notifying the provider and initiating the ethics and legal process so emergency authorization can be obtained. Documenting, exploring alternatives, and offering spiritual support all respect the family, but none of them secures the care the child needs.",
       "takeaway": "When a surrogate refuses lifesaving care for a minor, advocate through the provider and the ethics and legal chain; do not ignore the refusal or act without authority.",
       "hintContent": "Consider who the client is, who is making the decision, and what limits apply to surrogate decisions for a child.",
       "hintStrategy": "For ethical-dilemma items, choose the option that advocates for the client through proper channels; reject options that are passive, secretive, or coercive.",
@@ -621,7 +627,8 @@ window.NURSE_DATA.push({
       "focus": "Lifespan & Diversity",
       "difficulty": 3,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m50-pro-009",
@@ -689,7 +696,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m50-pro-011",
@@ -700,16 +708,16 @@ window.NURSE_DATA.push({
         "“Quality is measured mainly by how satisfied clients are when they leave the unit.”",
         "“Quality means that every client achieves exactly the outcome he or she wanted.”",
         "“Skills count, but so do communication, shared decisions, and cultural sensitivity.”",
-        "“Quality is best shown by whether the unit stays within its yearly supply budget.”"
+        "“Quality is shown mainly by low rates of falls and infections on our unit.”"
       ],
       "answer": 2,
       "optionRationales": [
         "Incorrect. Satisfaction is one useful indicator, but the IOM defines quality by the likelihood of desired outcomes and consistency with current professional knowledge, not by satisfaction alone.",
         "Incorrect. The IOM definition is about increasing the likelihood of desired outcomes; no care can guarantee every outcome, so this statement overstates the definition.",
         "Correct. Technical competence is only one part of quality; the IOM definition also includes good communication, shared decision-making, and cultural sensitivity, and care consistent with current knowledge.",
-        "Incorrect. Staying within budget relates to efficiency and affordability; it is not the definition of quality."
+        "Incorrect. Fall and infection rates are valid outcome indicators, but like skills they are single measures and miss the relational and cultural parts of quality."
       ],
-      "rationale": "The IOM defines quality as the degree to which health services increase the likelihood of desired health outcomes and are consistent with current professional knowledge. Quality includes technically competent care, but also good communication, shared decision-making, and cultural sensitivity. The staff nurse equates quality with one component (skills), so the best response affirms skills while adding the missing relational and cultural dimensions. The “every client achieves the outcome” statement is the most tempting distractor because outcomes matter, but the definition speaks of likelihood, not guarantees; satisfaction and budget are single measures, not the definition.",
+      "rationale": "The IOM defines quality as the degree to which health services increase the likelihood of desired health outcomes and are consistent with current professional knowledge. Quality includes technically competent care, but also good communication, shared decision-making, and cultural sensitivity. The staff nurse equates quality with one component (skills), so the best response affirms skills while adding the missing relational and cultural dimensions. The “every client achieves the outcome” statement is the most tempting distractor because outcomes matter, but the definition speaks of likelihood, not guarantees; satisfaction and adverse-event rates are single measures, not the definition.",
       "takeaway": "Quality is broader than technical skill: it makes desired outcomes more likely, matches current knowledge, and includes communication, shared decision-making, and cultural sensitivity.",
       "hintContent": "The staff nurse named only one ingredient of quality. Which response adds what is missing without overstating the definition?",
       "hintStrategy": "For “best response” items about a definition, choose the option that corrects an incomplete idea accurately; reject options that swap in a different single measure or promise a guarantee.",
@@ -719,7 +727,8 @@ window.NURSE_DATA.push({
       "focus": "Client Teaching",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m50-pro-012",
@@ -763,18 +772,18 @@ window.NURSE_DATA.push({
       "stem": "A new graduate nurse tells a preceptor, “The nurse who gave the wrong dose last week should be fired. Errors happen because people are careless.” Which response by the preceptor is most appropriate?",
       "options": [
         "“Most errors come from system weaknesses, so we report them and fix the process.”",
-        "“You’re right. Nurses who are careful do not make medication errors.”",
-        "“Errors are rare, so one mistake should not be discussed with the staff.”",
-        "“As long as the client was not harmed, the error does not need reporting.”"
+        "“Individual accountability matters, so the manager will decide on any discipline.”",
+        "“The priority after any error is to assess the client and notify the provider.”",
+        "“It sounds like this error really worried you. Tell me more about that.”"
       ],
       "answer": 0,
       "optionRationales": [
         "Correct. This reflects the central finding of To Err Is Human: most errors arise from faulty systems, so reporting and process redesign prevent recurrence.",
-        "Incorrect. This reinforces the misconception that error is a character flaw rather than a system problem.",
-        "Incorrect. Medication errors are common (median rates of about 20% to 25% in studies), and discussing them supports learning.",
-        "Incorrect. Errors and near misses should be reported regardless of harm so that system weaknesses can be fixed."
+        "Incorrect. Accountability is part of Just Culture, but this reply leaves the belief that errors come from carelessness uncorrected.",
+        "Incorrect. This is true about responding to an error, but it does not address the new graduate’s misconception about why errors happen.",
+        "Incorrect. Exploring feelings is supportive, but the new graduate holds a misconception that calls for teaching about system causes of error."
       ],
-      "rationale": "To Err Is Human concluded that most errors result from faulty systems, processes, and conditions rather than individual carelessness. The appropriate response corrects the misconception and models the expected behavior: report errors and fix the system. Saying that errors without harm need not be reported is a dangerous misconception, because those events reveal the same weaknesses that later cause harm. Medication errors are common, which is why systems such as barcode scanning are needed.",
+      "rationale": "To Err Is Human concluded that most errors result from faulty systems, processes, and conditions rather than individual carelessness. The appropriate response corrects the misconception and models the expected behavior: report errors and fix the system. Replies about accountability, the immediate response to an error, or the graduate’s feelings may be true or supportive, but they leave the misconception in place. Medication errors are common, which is why systems such as barcode scanning are needed.",
       "takeaway": "Respond to errors with reporting and system redesign; blame drives errors underground.",
       "hintContent": "Recall what the landmark IOM report concluded about why errors happen.",
       "hintStrategy": "For “best response” items about quality, choose the option that corrects a misconception and states the correct principle.",
@@ -786,7 +795,8 @@ window.NURSE_DATA.push({
       "focus": "Delegation & Safety",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m50-pro-014",
@@ -856,7 +866,8 @@ window.NURSE_DATA.push({
       "focus": "Assessment Findings",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m50-pro-016",
@@ -865,14 +876,14 @@ window.NURSE_DATA.push({
       "stem": "A 74-year-old client calls the surgery clinic 1 day after a carpal tunnel repair. She says she removed her dressing because she thought the instructions told her to, and the incision has slight bleeding and redness. Which action should the nurse take first?",
       "options": [
         "Submit the case for a quality review of the clinic’s discharge instructions",
-        "Instruct the client to reapply the original dressing until her next appointment",
+        "Instruct the client to apply pressure and cover the incision with a clean dressing",
         "Reread the original discharge instructions to the client over the telephone",
         "Ask about the amount of bleeding, wound appearance, fever, and hand sensation"
       ],
       "answer": 3,
       "optionRationales": [
         "Incorrect. A QI review is appropriate later, but the client’s current wound status must be assessed first.",
-        "Incorrect. Reapplying a removed, possibly contaminated dressing is unsafe and is advice given without assessment.",
+        "Incorrect. Pressure and a clean dressing may be appropriate advice, but the bleeding is slight and the nurse needs assessment data before deciding what care to give.",
         "Incorrect. Re-teaching may be needed, but it should follow assessment of the wound.",
         "Correct. Assessing the bleeding, signs of infection, and neurovascular status of the hand determines how urgent the problem is and what care she needs."
       ],
@@ -886,7 +897,8 @@ window.NURSE_DATA.push({
       "focus": "Assessment Findings",
       "difficulty": 2,
       "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m50-pro-017",
@@ -918,7 +930,8 @@ window.NURSE_DATA.push({
       "focus": "Delegation & Safety",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m50-pro-018",
@@ -948,7 +961,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m50-pro-019",
@@ -993,19 +1007,19 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "A utilization review on a medical unit finds that many ambulatory clients with incontinence have indwelling urinary catheters without a documented indication. Which action by the nurse best addresses this finding?",
       "options": [
-        "Keep the catheters in place because they lower the clients’ risk of skin breakdown from incontinence",
+        "Ask each provider to document an indication for the catheter in the client’s medical record",
         "Use a nurse-driven protocol to review indications daily and remove catheters that do not meet criteria",
-        "Change each indwelling catheter every 3 days to lower the clients’ risk of urinary tract infection",
-        "Limit the clients’ fluid intake in the evening so that they need to use the bathroom less often"
+        "Provide perineal and catheter care every shift to lower each client’s risk of urinary infection",
+        "Report the finding to infection prevention so that CAUTI rates on the unit can be monitored"
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. Incontinence alone is not an indication for an indwelling catheter; the catheter adds infection risk.",
+        "Incorrect. Documented indications are required, but asking for documentation does not remove catheters that are not needed; it may simply justify overuse.",
         "Correct. Daily review and protocol-based removal directly corrects the overuse identified and reduces CAUTI risk.",
-        "Incorrect. Routine catheter changes do not prevent CAUTI and do not address the lack of indication.",
-        "Incorrect. Fluid restriction can cause dehydration and concentrated urine and does not address the overuse."
+        "Incorrect. Catheter care is part of the CAUTI bundle, but it lowers risk only while the catheter is in place and does not address the lack of indication.",
+        "Incorrect. Surveillance is useful, but tracking infections does not correct the overuse; the nurse can act on it directly."
       ],
-      "rationale": "Utilization review identifies overuse, misuse, and underuse of resources. Indwelling catheters in ambulatory incontinent clients without an indication are overuse, and overuse here is also a safety problem because catheters cause CAUTI. A nurse-driven protocol to assess the need daily and remove catheters that do not meet criteria, with alternatives such as scheduled toileting and bladder scanning, corrects the problem. Keeping catheters for skin protection is the most tempting distractor, but incontinence care with barrier products is the appropriate alternative.",
+      "rationale": "Utilization review identifies overuse, misuse, and underuse of resources. Indwelling catheters in ambulatory incontinent clients without an indication are overuse, and overuse here is also a safety problem because catheters cause CAUTI. A nurse-driven protocol to assess the need daily and remove catheters that do not meet criteria, with alternatives such as scheduled toileting and bladder scanning, corrects the problem. Catheter care, documentation, and surveillance are all reasonable, but the most effective way to prevent CAUTI is to remove catheters that are not needed.",
       "takeaway": "Respond to a utilization finding of overuse by changing the process (for example, daily indication review and prompt removal), not by maintaining the overused resource.",
       "hintContent": "Identify whether the finding is overuse, misuse, or underuse, and what risk the overused resource creates.",
       "hintStrategy": "When a QI finding shows that care is not evidence-based, choose the option that brings practice back in line with evidence and lowers risk.",
@@ -1017,7 +1031,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m50-pro-021",
@@ -1086,7 +1101,8 @@ window.NURSE_DATA.push({
       "focus": "Assessment Findings",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m50-pro-023",
@@ -1116,7 +1132,8 @@ window.NURSE_DATA.push({
       "focus": "Assessment Findings",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m50-pro-024",
@@ -1187,7 +1204,8 @@ window.NURSE_DATA.push({
       "focus": "Prioritization",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m50-pro-025",
@@ -1217,7 +1235,8 @@ window.NURSE_DATA.push({
       "focus": "Prioritization",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m50-pro-026",
@@ -1287,7 +1306,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 1,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m50-pro-028",
@@ -1317,7 +1337,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m50-pro-029",
@@ -1400,14 +1421,14 @@ window.NURSE_DATA.push({
       "stem": "An 84-year-old resident with Alzheimer’s disease left an extended care facility at night without being detected and was fatally injured by a car. During the root cause analysis (RCA2), which question is most consistent with RCA2 principles?",
       "options": [
         "Which staff member was assigned to check on the resident that night?",
-        "Should the night nursing assistant be terminated because of this event?",
+        "Did the night nursing assistant follow the policy for hourly resident checks?",
         "Why did the exit alarms and night checks fail to detect the resident leaving?",
         "Did the family tell the staff that the resident wandered while at home?"
       ],
       "answer": 2,
       "optionRationales": [
-        "Incorrect. Identifying an individual to blame focuses on performance rather than on the system that allowed the event.",
-        "Incorrect. Disciplinary decisions are not the purpose of RCA2, which focuses on systems.",
+        "Incorrect. Knowing the assignment is a fact the team may gather, but as a guiding question it focuses on a person rather than the system that allowed the event.",
+        "Incorrect. Policy compliance may be reviewed, but this question judges one worker’s performance; RCA2 asks why the process allowed the failure.",
         "Correct. RCA2 asks how systems and processes (alarms, check schedules, staffing) failed so they can be redesigned.",
         "Incorrect. History may be relevant, but this question shifts responsibility rather than examining the facility’s safeguards."
       ],
@@ -1421,7 +1442,8 @@ window.NURSE_DATA.push({
       "focus": "Delegation & Safety",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m50-pro-032",
@@ -1491,7 +1513,8 @@ window.NURSE_DATA.push({
       "focus": "Pharmacology",
       "difficulty": 3,
       "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m50-pro-034",
@@ -1499,19 +1522,19 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "A nurse realizes that metoprolol 50 mg intended for another client was given to a client 15 minutes ago. Which action should the nurse take first?",
       "options": [
-        "Complete an incident report while the details are still clear",
-        "Notify the charge nurse that a medication error has occurred",
-        "Document in the medical record that an incident report was filed",
+        "Complete an incident report now while the details of the error are still clear",
+        "Notify the charge nurse that a medication error has occurred on the unit",
+        "Notify the provider of the error and request orders for monitoring",
         "Check the client’s heart rate, blood pressure, and level of consciousness"
       ],
       "answer": 3,
       "optionRationales": [
         "Incorrect. The incident report is completed after the client is assessed and safe.",
         "Incorrect. The charge nurse should be notified, but the client’s physiologic status comes first.",
-        "Incorrect. An incident report is never referenced in the medical record.",
+        "Incorrect. The provider must be notified promptly, but the nurse first assesses the client so the report includes current vital signs and status.",
         "Correct. Metoprolol can cause bradycardia and hypotension; assessing the client identifies any immediate danger."
       ],
-      "rationale": "After a medication error, the first priority is the client: assess for the drug’s expected effects, which for a beta blocker are bradycardia and hypotension. The nurse then notifies the provider and charge nurse, follows orders, documents the facts of the event and the client’s condition in the chart, and completes an incident report. Notifying the charge nurse is the most tempting distractor because escalation is important, but it does not protect the client in the next few minutes. Writing that an incident report was filed is never appropriate in the medical record.",
+      "rationale": "After a medication error, the first priority is the client: assess for the drug’s expected effects, which for a beta blocker are bradycardia and hypotension. The nurse then notifies the provider and charge nurse, follows orders, documents the facts of the event and the client’s condition in the chart, and completes an incident report. Notifying the provider or charge nurse is tempting because escalation is important, but it does not protect the client in the next few minutes, and the provider will need the assessment findings. The incident report is never mentioned in the medical record.",
       "takeaway": "After a medication error: assess the client first, then notify, document facts, and complete the incident report.",
       "hintContent": "Think about what metoprolol does and what could be happening to the client right now.",
       "hintStrategy": "When an error has already reached the client, choose physiologic assessment before communication or paperwork.",
@@ -1521,7 +1544,8 @@ window.NURSE_DATA.push({
       "focus": "Prioritization",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m50-pro-035",
@@ -1569,14 +1593,14 @@ window.NURSE_DATA.push({
         "Console the nurse, because the slow scanner caused an inadvertent slip",
         "Begin disciplinary action, because the nurse’s behavior was reckless",
         "Coach the nurse about the risk and have the slow scanner repaired",
-        "Take no action, because no client was harmed by the shortcut"
+        "Remind all staff at the next meeting that barcode scanning is required"
       ],
       "answer": 2,
       "optionRationales": [
         "Incorrect. Consoling is the response to human error; this was a deliberate shortcut, not an inadvertent slip.",
         "Incorrect. Reckless behavior is a conscious disregard of a substantial, unjustifiable risk; this nurse believes the shortcut is safe, which is typical of at-risk behavior.",
         "Correct. A shortcut taken with an unrecognized risk is at-risk behavior; the response is coaching plus removing the barrier that encourages it.",
-        "Incorrect. Just Culture judges the behavior, not the outcome; the absence of harm does not make the shortcut acceptable."
+        "Incorrect. Reinforcing the rule is reasonable, but it does not coach this nurse about the risk or fix the slow scanner that drives the shortcut."
       ],
       "rationale": "Just Culture distinguishes human error (console), at-risk behavior (coach), and reckless behavior (discipline). Skipping scanning “because everyone does it” while believing it is safe is a classic at-risk drift from the rules. The manager coaches the nurse and fixes the slow scanner so the safe behavior becomes the easy one. Disciplinary action is tempting because the shortcut is dangerous, but the nurse does not consciously disregard a known substantial risk; the behavior is common on the unit, which also signals a system problem.",
       "takeaway": "Shortcuts with unrecognized risk are at-risk behavior: coach the person and fix the barrier that drives the workaround.",
@@ -1588,7 +1612,8 @@ window.NURSE_DATA.push({
       "focus": "Delegation & Safety",
       "difficulty": 3,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m50-pro-037",
@@ -1598,17 +1623,17 @@ window.NURSE_DATA.push({
       "options": [
         "Count the opioids in the dispensing cabinet with the nurse at the end of the shift",
         "Relieve the nurse of the client assignment and notify the nursing supervisor",
-        "Ask the nurse’s clients to report any further doses they do not receive",
-        "Report the nurse directly to the Board of Nursing before speaking with anyone"
+        "Ask the nurse privately whether they feel ill or have taken any medication",
+        "Report the nurse to the Board of Nursing for suspected drug diversion"
       ],
       "answer": 1,
       "optionRationales": [
         "Incorrect. Waiting until the end of the shift leaves clients at risk from an impaired nurse and without pain relief.",
         "Correct. Signs of impairment and possible diversion require immediate removal from client care to protect clients, followed by escalation through the chain of command.",
-        "Incorrect. Relying on clients to monitor the nurse does not protect them from an impaired caregiver.",
+        "Incorrect. A private conversation is respectful, but the signs of impairment already threaten clients, so removing the nurse from care cannot wait for this discussion.",
         "Incorrect. Board reporting is expected for diversion or impairment, but it follows facility policy after clients are protected and the supervisor is notified."
       ],
-      "rationale": "Working while impaired is reckless behavior under Just Culture and an immediate threat to client safety, and the undelivered documented doses suggest possible drug diversion. The first priority is to remove the nurse from client care and notify the supervisor so the facility can follow its policy (assessment, testing, investigation, and reporting). Conduct issues such as diversion and impairment are reported to the Board of Nursing, but that is not the first action while clients are at risk. Counting at the end of the shift is tempting because it gathers evidence, but it delays protecting clients.",
+      "rationale": "Working while impaired is reckless behavior under Just Culture and an immediate threat to client safety, and the undelivered documented doses suggest possible drug diversion. The first priority is to remove the nurse from client care and notify the supervisor so the facility can follow its policy (assessment, testing, investigation, and reporting). Conduct issues such as diversion and impairment are reported to the Board of Nursing, but that is not the first action while clients are at risk. Counting at the end of the shift or first talking with the nurse is tempting because it gathers information, but it delays protecting clients.",
       "takeaway": "Suspected impairment or diversion: remove the nurse from client care immediately and escalate through the chain of command.",
       "hintContent": "Consider who is at risk right now and what action ends that risk fastest.",
       "hintStrategy": "For impaired-colleague items, choose immediate client protection plus chain-of-command escalation over evidence gathering or delayed reporting.",
@@ -1618,7 +1643,8 @@ window.NURSE_DATA.push({
       "focus": "Prioritization",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m50-pro-038",
@@ -1753,7 +1779,8 @@ window.NURSE_DATA.push({
       "focus": "Delegation & Safety",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m50-pro-042",
@@ -1761,19 +1788,19 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "A client says to the nurse, “I pressed my call light 30 minutes ago and nobody came. This place is terrible, and I’m going to call a lawyer.” Which response by the nurse is most appropriate?",
       "options": [
-        "“Our staff were busy with an emergency, so there was nothing we could do.”",
+        "“Another client needed me urgently, but I am here to help you now.”",
         "“I will ask the charge nurse to talk with you about your complaint later today.”",
-        "“You have the right to call a lawyer, and I can get you the number for legal aid.”",
+        "“I will report this delay so the unit can review call light response times.”",
         "“I’m sorry you had to wait so long. What do you need right now?”"
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. A defensive explanation dismisses the client’s experience and increases dissatisfaction.",
+        "Incorrect. Offering help now is appropriate, but explaining the delay sounds defensive and does not acknowledge or apologize for the client’s experience.",
         "Incorrect. Involving the charge nurse may be appropriate, but delaying a response leaves the client’s immediate need and feelings unaddressed.",
-        "Incorrect. Focusing on legal action ignores the client’s unmet need and escalates conflict.",
+        "Incorrect. Reporting the delay addresses the system problem and should happen, but it does not meet the client’s need now.",
         "Correct. Acknowledging the concern and meeting the immediate need shows respect and addresses dissatisfaction, a major liability risk."
       ],
-      "rationale": "Client dissatisfaction is a major risk factor for liability. The most effective risk-reduction response is therapeutic: acknowledge the client’s experience, apologize for the wait, and meet the immediate need. After that, the nurse can involve the charge nurse or patient advocate and report the delay so that the system issue is addressed. Deferring to the charge nurse later is tempting because escalation can help, but it postpones the response the client needs now. Defensive or legalistic replies increase dissatisfaction.",
+      "rationale": "Client dissatisfaction is a major risk factor for liability. The most effective risk-reduction response is therapeutic: acknowledge the client’s experience, apologize for the wait, and meet the immediate need. After that, the nurse can involve the charge nurse or patient advocate and report the delay so that the system issue is addressed. Deferring to the charge nurse or promising to report the delay is tempting because both help, but they postpone the response the client needs now; excusing the delay, even while offering help, sounds defensive.",
       "takeaway": "Reduce liability by listening, acknowledging, and meeting the client’s need first; defensiveness increases risk.",
       "hintContent": "Identify the response that addresses both the client’s feelings and the immediate need.",
       "hintStrategy": "For therapeutic communication items, choose the response that acknowledges feelings and focuses on the client; reject defensive, dismissive, or delaying replies.",
@@ -1783,7 +1810,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m50-pro-043",
@@ -1793,17 +1821,17 @@ window.NURSE_DATA.push({
       "options": [
         "Replacing some RN positions with nursing assistants to increase total nursing hours",
         "Floating nurses from other specialties to cover vacancies as needed",
-        "Scheduling nurses for 16-hour shifts to reduce the number of handoffs",
+        "Adding a unit secretary to take over nurses’ clerical tasks",
         "Increasing the proportion of nursing care hours provided by RNs"
       ],
       "answer": 3,
       "optionRationales": [
         "Incorrect. More nursing assistant hours lowers RN skill mix; assistants cannot perform the assessment needed to recognize deterioration.",
-        "Incorrect. Nurses unfamiliar with the specialty may miss early warning signs; this does not address skill mix.",
-        "Incorrect. Extended shifts increase fatigue and error risk.",
+        "Incorrect. Filling vacancies is better than working short, but nurses unfamiliar with the specialty may miss early warning signs.",
+        "Incorrect. Clerical support may free some nursing time, but it does not add the RN assessment and surveillance that prevent failure to rescue.",
         "Correct. A higher RN skill mix is associated with lower failure to rescue because RNs recognize and respond to early deterioration."
       ],
-      "rationale": "Failure to rescue is death after a complication that could have been recognized and treated in time, and it is sensitive to nursing surveillance. Evidence links higher RN skill mix (the proportion of nursing hours provided by RNs) and more nursing hours with fewer adverse outcomes, including failure to rescue. Replacing RNs with assistants is tempting because total hours rise, but assessment and clinical judgment cannot be delegated, so surveillance declines. Long shifts and frequent floating introduce fatigue and unfamiliarity.",
+      "rationale": "Failure to rescue is death after a complication that could have been recognized and treated in time, and it is sensitive to nursing surveillance. Evidence links higher RN skill mix (the proportion of nursing hours provided by RNs) and more nursing hours with fewer adverse outcomes, including failure to rescue. Replacing RNs with assistants is tempting because total hours rise, but assessment and clinical judgment cannot be delegated, so surveillance declines. Floating and clerical support help with workload but do not add the RN surveillance that rescues clients.",
       "takeaway": "RN skill mix, not just total nursing hours, drives outcomes such as failure to rescue.",
       "hintContent": "Think about which nursing function prevents an unrecognized complication from becoming a death.",
       "hintStrategy": "For staffing items, choose the option that strengthens RN assessment and surveillance; extra hours from staff who cannot assess do not substitute for it.",
@@ -1815,7 +1843,8 @@ window.NURSE_DATA.push({
       "focus": "Delegation & Safety",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m50-pro-044",
@@ -1825,15 +1854,15 @@ window.NURSE_DATA.push({
       "options": [
         "Perform the removal carefully while following the facility’s procedure manual",
         "Explain that they have not performed the skill and notify the clinical instructor",
-        "Ask another student who has done the procedure to help remove the catheter",
-        "Remove the catheter, then ask the staff nurse to check the site afterward"
+        "Ask the staff nurse to stay and supervise while the student removes the catheter",
+        "Decline and tell the staff nurse that students are not allowed to remove lines"
       ],
       "answer": 1,
       "optionRationales": [
         "Incorrect. Reading the procedure does not make the student competent; central line removal carries a risk of air embolism and bleeding.",
         "Correct. Students and nurses must never perform an act they are uncertain how to perform; the student declines and seeks supervision through the instructor.",
-        "Incorrect. Another student is not an appropriate supervisor and may not be competent either.",
-        "Incorrect. Checking the site afterward does not prevent harm during an unsupervised procedure."
+        "Incorrect. Seeking supervision is safer, but a first-time skill is performed under the clinical instructor, who is responsible for the student’s practice.",
+        "Incorrect. Declining is safe, but stating a blanket rule may be inaccurate and misses the chance to involve the instructor, who decides what the student can do."
       ],
       "rationale": "Personal responsibility in quality care requires that nursing students and nurses never perform an act they are uncertain how to perform, that they follow facility policies, and that they report errors properly. Central venous catheter removal carries risks such as air embolism, so the student should explain the limitation and involve the clinical instructor, who decides whether supervised performance is appropriate. Following the procedure manual is the most tempting distractor because it sounds careful, but competence requires instruction and supervised practice, not just reading.",
       "takeaway": "Never perform a skill you are uncertain how to do; state your limits and seek supervision.",
@@ -1845,7 +1874,8 @@ window.NURSE_DATA.push({
       "focus": "Delegation & Safety",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m50-pro-045",
@@ -1855,17 +1885,17 @@ window.NURSE_DATA.push({
       "options": [
         "The increase reflects common-cause variation that needs no specific investigation",
         "The increase suggests special-cause variation that should be investigated promptly",
-        "The increase shows that the unit’s night nurses need disciplinary action",
+        "The increase proves the new order set caused the falls and it must be removed",
         "The increase is a sentinel event because more than five falls occurred in a month"
       ],
       "answer": 1,
       "optionRationales": [
         "Incorrect. Common-cause variation is the normal range of the system; a jump from 2–3 to 9 is well beyond it.",
         "Correct. A sudden change beyond normal variation, linked to a specific new factor, is special-cause variation and warrants a focused investigation.",
-        "Incorrect. RCA principles focus on systems; there is no evidence of reckless behavior that would justify discipline.",
+        "Incorrect. The order set is a likely cause to examine first, but the timing alone does not prove it; investigation should confirm the cause before changes are made.",
         "Incorrect. Sentinel events are defined by death or serious harm, not by a count of falls."
       ],
-      "rationale": "Root cause analysis distinguishes special-cause variation (beyond what is normal, usually linked to a specific change) from common-cause variation (normal variation within the system). A tripling of falls, clustered at night after a new sedative-hypnotic order set, points to a special cause that should be investigated promptly, beginning with the order set. Common-cause variation is the main look-alike; it would apply if falls stayed in their usual range. Disciplining staff and calling the cluster a sentinel event both misapply the definitions.",
+      "rationale": "Root cause analysis distinguishes special-cause variation (beyond what is normal, usually linked to a specific change) from common-cause variation (normal variation within the system). A tripling of falls, clustered at night after a new sedative-hypnotic order set, points to a special cause that should be investigated promptly, beginning with the order set. Common-cause variation is the main look-alike; it would apply if falls stayed in their usual range. Concluding that the order set is proven to be the cause skips the investigation, and calling the cluster a sentinel event misapplies the definition.",
       "takeaway": "A sudden spike after a new factor is special-cause variation; stable but poor performance is common-cause variation requiring system redesign.",
       "hintContent": "Compare the new count with the usual range and look for something that changed.",
       "hintStrategy": "For data-interpretation items, decide whether the result is within the system’s normal range before choosing a response.",
@@ -1877,7 +1907,8 @@ window.NURSE_DATA.push({
       "focus": "Prioritization",
       "difficulty": 3,
       "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     }
   ]
 });

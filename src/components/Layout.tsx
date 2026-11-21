@@ -107,7 +107,7 @@ function Sidebar({ isActive }: { isActive: (to: string) => boolean }) {
         <span className="side-title">Units</span>
         {UNITS.map((u) => (
           <NavLink key={u.slug} to={`/learn/${u.slug}`} className={({ isActive: a }) => cx('side-link side-unit-link', a && 'active')}>
-            <span>{u.label === 'Core concepts' ? 'Core concepts' : u.label}</span>
+            <span>{u.label}</span>
             {u.isNew && <span className="side-new">New</span>}
           </NavLink>
         ))}

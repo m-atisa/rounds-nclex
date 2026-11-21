@@ -130,6 +130,9 @@ export function Feedback({ q, score, extra }: { q: Question; score: Score; extra
         )}
       </div>
       {extra}
+      {q.bestAnswer && !score.correct && (
+        <p className="fb-best">Every choice here was partly right. The question asks for the <b>best</b> one: read why each choice falls short below.</p>
+      )}
       <h4 className="fb-sub">Rationale</h4>
       <Html as="p" html={q.rationale} />
       {q.takeaway && (

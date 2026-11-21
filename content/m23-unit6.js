@@ -160,7 +160,8 @@ window.NURSE_DATA.push({
       "focus": "Prioritization",
       "difficulty": 3,
       "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m23-u6-002",
@@ -219,7 +220,8 @@ window.NURSE_DATA.push({
             }
           }
         ]
-      }
+      },
+      "bestAnswer": true
     },
     {
       "id": "m23-u6-003",
@@ -265,17 +267,17 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "A client cannot name a cup but follows a direction to point to it and accurately selects pictures for basic needs. Which interpretation is best?",
       "options": [
-        "Impaired comprehension despite preserved naming and fluent speech.",
-        "Global loss of decision-making ability from speech difficulty.",
-        "Deliberate refusal despite adequate naming and comprehension ability.",
+        "Impaired comprehension despite preserved naming and fluent spontaneous speech.",
+        "Visual agnosia preventing recognition of common objects such as the cup.",
+        "Hearing loss limiting understanding of the spoken request to name the cup.",
         "Impaired naming with some comprehension and alternative communication preserved."
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. The client cannot name the object but follows the direction.",
-        "Incorrect. Specific language findings cannot establish global incapacity.",
-        "Incorrect. Successful use of the board and directions gives no evidence of deliberate refusal.",
-        "Correct. The pattern distinguishes expression from observed understanding and alternative communication."
+        "Incorrect. Comprehension problems are a real language deficit, but this client follows directions and selects pictures, and it is naming that fails, so this reverses the findings.",
+        "Incorrect. Agnosia is a real cause of failing to name objects, but the client points to the cup correctly and chooses pictures, so recognition is intact.",
+        "Incorrect. Checking hearing is reasonable when a client cannot answer, but this client follows a spoken direction, so hearing is not the barrier.",
+        "Correct. The client cannot name the cup but can follow a direction and use pictures, which shows impaired naming with preserved comprehension and a usable communication method."
       ],
       "rationale": "Difficulty naming an object suggests a language-expression problem such as anomia, while following directions and selecting pictures show useful preserved abilities. Assess domains separately and use the successful method.",
       "takeaway": "Assess what the person understands separately from what they can say.",
@@ -289,7 +291,8 @@ window.NURSE_DATA.push({
       "focus": "Assessment Findings",
       "difficulty": 2,
       "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m23-u6-005",
@@ -337,15 +340,15 @@ window.NURSE_DATA.push({
       "options": [
         "Gradual progression of the established dementia pattern.",
         "Acute delirium superimposed on the existing dementia.",
-        "Isolated impairment of long-term autobiographical memory retrieval.",
-        "Expected sensory decline associated with increasing age."
+        "Depression causing withdrawal and reduced engagement with staff.",
+        "Sundowning behavior linked to a late-day dementia pattern."
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. A marked two-hour change is not safely attributed to gradual progression.",
-        "Correct. Acute fluctuation, inattention, and altered alertness suggest a new acute process on the chronic baseline.",
-        "Incorrect. The new findings involve attention and responsiveness, not remote memory alone.",
-        "Incorrect. Sensory changes do not explain the abrupt altered alertness."
+        "Incorrect. Dementia does progress, but it changes over months to years, not over two hours with a sudden loss of attention.",
+        "Correct. A sudden drop in attention and alertness over hours, against a stable dementia baseline, suggests delirium superimposed on dementia and needs prompt assessment for causes.",
+        "Incorrect. Depression can reduce engagement, but it develops over weeks and does not cause a sudden loss of attention and alertness within hours.",
+        "Incorrect. Sundowning is a recurring late-day pattern, usually with agitation, but this is a new change from yesterday with reduced alertness, which points to delirium."
       ],
       "rationale": "The acute change in attention and alertness on an established chronic baseline suggests delirium superimposed on dementia. This is a priority hypothesis requiring immediate physiologic assessment and evaluation for causes; the pattern is not a final etiologic diagnosis.",
       "takeaway": "Dementia does not rule out superimposed delirium.",
@@ -387,7 +390,8 @@ window.NURSE_DATA.push({
             }
           }
         ]
-      }
+      },
+      "bestAnswer": true
     },
     {
       "id": "m23-u6-007",
@@ -395,19 +399,19 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "A child with a diagnosed auditory processing difficulty struggles with rapid verbal instructions but performs well after a visual demonstration. Which plan is most appropriate?",
       "options": [
-        "Lower all goals based on presumed developmental limitations.",
-        "Repeat slower verbal directions without adding visual supports.",
+        "Give directions in a quiet room to reduce background noise.",
+        "Repeat directions more slowly and have the child restate them.",
         "Use visual cues, demonstrate, and verify the child’s performance.",
-        "Have the parent perform while the child observes."
+        "Demonstrate the skill to the parent for practice at home."
       ],
       "answer": 2,
       "optionRationales": [
-        "Incorrect. A processing difference does not establish a global developmental limit.",
-        "Incorrect. The client has already shown improved performance with visual demonstration.",
-        "Correct. This adapts the method to the demonstrated access need and strength.",
-        "Incorrect. This may limit the child’s opportunity to learn and demonstrate ability."
+        "Incorrect. A quiet room helps a child with auditory processing problems, but it still relies on verbal directions and does not use the visual strength or check performance.",
+        "Incorrect. Slower speech and restating are reasonable, but they still depend on the weaker auditory channel and restating words does not show the child can do the skill.",
+        "Correct. Visual cues and demonstration use the child’s shown strength, and watching the child perform verifies learning better than verbal-only or parent-only approaches.",
+        "Incorrect. Involving the parent is helpful, but the child needs to learn and show the skill directly; teaching only the parent leaves the child’s learning unverified."
       ],
-      "rationale": "Adapt the method to the assessed barrier and preserved strengths. Visual cues and demonstration can improve access, while observed performance verifies learning. Do not equate a processing difference with a global inability to learn.",
+      "rationale": "Adapt the method to the assessed barrier and preserved strengths. Visual cues and demonstration can improve access, while observed performance verifies learning. Quieter settings, slower speech, and parent teaching can support learning, but they do not replace using the child’s visual strength and checking the child’s own performance.",
       "takeaway": "A specific processing barrier calls for an adapted method.",
       "hintContent": "Use the evidence of improved performance rather than a global label.",
       "hintStrategy": "Use the specific cues in the scenario to compare all options; choose the one that best meets the stated goal.",
@@ -419,7 +423,8 @@ window.NURSE_DATA.push({
       "focus": "Lifespan & Diversity",
       "difficulty": 2,
       "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m23-u6-008",
@@ -490,7 +495,8 @@ window.NURSE_DATA.push({
       "focus": "Prioritization",
       "difficulty": 3,
       "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m23-u6-010",
@@ -537,15 +543,15 @@ window.NURSE_DATA.push({
       "options": [
         "Review medications before obtaining current vital signs.",
         "Provide orientation support and repeat assessment later.",
-        "Obtain family history before assessing current breathing.",
+        "Report the change to the provider before checking vital signs.",
         "Assess physiology while arranging prompt clinical evaluation."
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. Medication review is important but should not delay direct physiologic assessment.",
-        "Incorrect. Supportive measures do not replace immediate evaluation of new drowsiness.",
-        "Incorrect. Baseline information should be gathered without postponing immediate safety assessment.",
-        "Correct. The new inattention and altered alertness can represent hypoactive delirium and an urgent cause."
+        "Incorrect. Medications can cause drowsiness and are worth reviewing, but breathing, oxygenation, and vital signs come first in a newly drowsy postoperative client.",
+        "Incorrect. Orientation support helps clients with delirium, but delaying assessment of a new drop in alertness could miss hypoxia, oversedation, or infection.",
+        "Incorrect. The provider does need to know, but the nurse should gather current vital signs and focused findings so the report is useful and urgent problems are found.",
+        "Correct. New drowsiness and inattention suggest hypoactive delirium; assessing breathing, oxygenation, and vital signs while arranging prompt evaluation addresses immediate safety and the cause."
       ],
       "rationale": "Hypoactive delirium can present with drowsiness and inattention. It may signal hypoxia, medication effects, infection, or another cause. Assess immediate physiologic safety and escalate; supportive orientation can occur alongside cause-directed care.",
       "takeaway": "Quiet delirium still demands prompt assessment.",
@@ -583,7 +589,8 @@ window.NURSE_DATA.push({
             }
           }
         ]
-      }
+      },
+      "bestAnswer": true
     },
     {
       "id": "m23-u6-012",
@@ -591,17 +598,17 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "A trained nurse uses a validated delirium screen for a client who was attentive yesterday. Today the client’s attention fluctuates, conversation is disorganized, and alertness alternates between usual and drowsy. Which interpretation should guide the nurse?",
       "options": [
-        "Normal orientation at one point excludes delirium despite the other new findings.",
+        "Fluctuating alertness suggests fatigue; repeat the screen after the client rests.",
         "The pattern supports suspected delirium and requires prompt clinical evaluation.",
-        "The findings establish gradual dementia progression without a new acute process.",
-        "The findings support waiting for a second day of symptoms before evaluation."
+        "The findings suggest new dementia and warrant outpatient memory testing.",
+        "Report the findings if a second screen at the next shift is also positive."
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. A brief period of correct orientation does not exclude fluctuating delirium.",
-        "Correct. Acute change and inattention with disorganized thinking or altered alertness support the classic delirium pattern and require cause evaluation.",
-        "Incorrect. The acute onset and fluctuation are not safely explained by gradual chronic decline.",
-        "Incorrect. Acute changes may signal urgent causes; evaluation should not wait for an arbitrary duration."
+        "Incorrect. Rest and rescreening seem reasonable, but fluctuating alertness with inattention is a hallmark of delirium, and waiting delays evaluation of the cause.",
+        "Correct. Acute change, fluctuating attention, disorganized thinking, and altered alertness support suspected delirium, which needs prompt clinical evaluation rather than waiting or outpatient follow-up.",
+        "Incorrect. Memory testing evaluates dementia, but these findings began since yesterday and fluctuate, which points to delirium, a potentially urgent problem.",
+        "Incorrect. Repeated screening tracks the course, but a positive validated screen with a new change should be reported now, not after another shift."
       ],
       "rationale": "The client has acute change/fluctuation and inattention with disorganized thinking and altered alertness. These support suspected delirium when assessed with the appropriate validated tool. Screening identifies the concern; it does not establish its cause or replace physiologic assessment and clinical evaluation.",
       "takeaway": "Use acute attention and awareness changes to recognize delirium and seek its cause.",
@@ -615,7 +622,8 @@ window.NURSE_DATA.push({
       "focus": "Assessment Findings",
       "difficulty": 3,
       "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m23-u6-013",
@@ -663,17 +671,17 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "The family of a client with new delirium asks why an antipsychotic has not automatically been prescribed. The client is currently safe with supportive care while causes are being investigated. Which explanation should the nurse give?",
       "options": [
-        "Give routine medication before assessing the underlying cause.",
-        "Use antipsychotics to correct whichever physiologic trigger develops.",
+        "Avoid antipsychotics entirely because of their risks in older adults.",
+        "Start an antipsychotic once delirium lasts longer than three days.",
         "Assess causes and reserve medication for selected severe symptoms.",
-        "Use environmental measures exclusively regardless of distress severity."
+        "Rely on reorientation and family visits to resolve the delirium."
       ],
       "answer": 2,
       "optionRationales": [
-        "Incorrect. Medication does not replace cause assessment and adds risk.",
-        "Incorrect. Antipsychotics do not correct infection, hypoxia, or retention.",
-        "Correct. Nonpharmacologic measures and cause treatment are central; a prescriber weighs selective symptom-control risks.",
-        "Incorrect. Selected severe distress or danger may warrant prescribed short-term treatment."
+        "Incorrect. Antipsychotics do carry risks such as oversedation and falls, but they are not banned; a prescriber may use one short term for severe distress or danger, and this omits finding the cause.",
+        "Incorrect. Duration alone is not the reason to medicate; medication does not treat the cause and is reserved for selected severe symptoms.",
+        "Correct. Treatment focuses on finding and correcting the cause with supportive care, and medication is reserved for selected severe distress or danger after weighing risks.",
+        "Incorrect. Reorientation and family presence are important supportive measures, but they do not treat underlying causes such as hypoxia or infection."
       ],
       "rationale": "Delirium treatment prioritizes assessment and management of the cause with nonpharmacologic support. Antipsychotics do not correct hypoxia, infection, or retention. A prescriber may consider short-term medication for selected persistent severe distress or danger after weighing risks; it is not automatic treatment for every client.",
       "takeaway": "A medication list is not a universal delirium treatment plan.",
@@ -687,7 +695,8 @@ window.NURSE_DATA.push({
       "focus": "Pharmacology",
       "difficulty": 3,
       "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m23-u6-015",
@@ -719,7 +728,8 @@ window.NURSE_DATA.push({
       "focus": "Prioritization",
       "difficulty": 3,
       "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m23-u6-016",
@@ -751,7 +761,8 @@ window.NURSE_DATA.push({
       "focus": "Assessment Findings",
       "difficulty": 2,
       "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m23-u6-017",
@@ -761,14 +772,14 @@ window.NURSE_DATA.push({
       "options": [
         "Pauses briefly before recalling a new neighbor’s name.",
         "Uses a written list to track the day’s therapy times.",
-        "Asks to complete crossword puzzles in a quiet room.",
+        "Needs the walker steps repeated twice to learn them.",
         "Has new word-finding trouble and right-hand weakness."
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. Mild slowing in retrieving a name can occur with aging and is not an acute change.",
-        "Incorrect. Using an external memory aid is an effective compensatory strategy, not a warning sign.",
-        "Incorrect. Preferring a quiet setting for a focused task is not a concerning finding.",
+        "Incorrect. Slowed recall is worth noting, but mild slowing in retrieving a new name is common with aging and is not an acute change.",
+        "Incorrect. Memory concerns deserve attention, but using a written list is an effective compensatory strategy, not a warning sign.",
+        "Incorrect. Needing repetition is reasonable to note, but older adults often learn new motor skills more slowly, and the client then learns them, so this is not an acute change.",
         "Correct. A new language change with one-sided weakness is an acute focal neurologic change that needs immediate assessment and escalation."
       ],
       "rationale": "Separate expected age-related changes and healthy compensation from acute change. Slower name retrieval and use of reminder lists are common and do not threaten safety. New word-finding difficulty combined with one-sided weakness that began within hours is a focal neurologic change that may signal an emergency such as stroke. The nurse performs a focused neurologic assessment and activates the rapid response or stroke protocol according to facility policy.",
@@ -783,7 +794,8 @@ window.NURSE_DATA.push({
       "focus": "Prioritization",
       "difficulty": 2,
       "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m23-u6-018",
@@ -854,7 +866,8 @@ window.NURSE_DATA.push({
       "focus": "Assessment Findings",
       "difficulty": 2,
       "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m23-u6-020",
@@ -862,17 +875,17 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "stem": "A client who lives alone is preparing for discharge and will self-administer insulin. A cognitive screen this morning was within the expected range. During a return demonstration with the insulin pen, the client skips the priming step and dials the wrong dose on two attempts. Which action is most appropriate?",
       "options": [
-        "Proceed with discharge because the screen result supports safe self-management.",
+        "Repeat the cognitive screen to confirm this morning’s normal result.",
         "Give written pen instructions for the client to review at home tonight.",
         "Report the observed errors and plan a supported method before discharge.",
-        "Arrange for a relative to give all doses without further assessment."
+        "Request a home health visit to check insulin technique after discharge."
       ],
       "answer": 2,
       "optionRationales": [
-        "Incorrect. A screen samples abilities; it does not establish that the client can safely perform this specific task.",
-        "Incorrect. Written material does not correct an observed sequencing problem, and learning has not been verified.",
-        "Correct. Observed performance shows the task is unsafe, so the team must arrange support and verify a safe method before discharge.",
-        "Incorrect. A helper’s availability, understanding, and capacity must be assessed, and the plan should use the least assistance that is safe."
+        "Incorrect. Screening has value, but the return demonstration already shows unsafe performance, and a repeat screen cannot show whether the client can use the pen safely.",
+        "Incorrect. Written instructions can reinforce teaching, but this client has a sequencing problem and would be unsupervised with insulin tonight.",
+        "Correct. The observed errors show the client cannot yet safely self-administer insulin; reporting them and planning a supported method that is checked before discharge prevents harm at home.",
+        "Incorrect. Home health follow-up is useful, but it occurs after the client has already given doses alone; the unsafe technique must be addressed before discharge."
       ],
       "rationale": "Functional safety depends on the actual task, not on a screening score. The client’s repeated omission and dosing errors show a sequencing problem that could cause harm at home. The nurse communicates the specific observed deficit and works with the team on a supported approach, such as further teaching with cues, adapted devices, or assistance within the care plan. The revised method should be observed again before discharge rather than accepted on a verbal promise.",
       "takeaway": "Watch the real task; a passing screen does not prove safe self-management.",
@@ -884,7 +897,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 3,
       "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m23-u6-021",
@@ -954,7 +968,8 @@ window.NURSE_DATA.push({
       "focus": "Assessment Findings",
       "difficulty": 2,
       "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m23-u6-023",
@@ -984,7 +999,8 @@ window.NURSE_DATA.push({
       "focus": "Prioritization",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m23-u6-024",
@@ -1016,7 +1032,8 @@ window.NURSE_DATA.push({
       "focus": "Assessment Findings",
       "difficulty": 3,
       "clientNeed": "Psychosocial Integrity",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m23-u6-025",
@@ -1065,15 +1082,15 @@ window.NURSE_DATA.push({
       "options": [
         "“Your children are grown now, and you live here at the care center.”",
         "“You sound worried about them. Let’s walk and get a snack together.”",
-        "“If you keep trying to leave, I will need to keep you inside your room.”",
-        "“Your children are fine. Please go sit down and watch television now.”"
+        "“It is almost dinnertime, so let me walk you back to your room now.”",
+        "“Tell me about your children. What are their names and ages now?”"
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. Repeatedly confronting her with facts she cannot retain may increase distress without meeting the underlying need.",
-        "Correct. The nurse acknowledges the feeling, responds to the need, and redirects her to a safe, supervised activity.",
-        "Incorrect. Threatening confinement is coercive, undignified, and not a least-restrictive approach.",
-        "Incorrect. Reassurance the nurse cannot verify, paired with a command, dismisses her concern and offers no meaningful redirection."
+        "Incorrect. Reality orientation is true and well meant, but she cannot retain the correction and arguing with the belief often increases distress.",
+        "Correct. Naming her worry validates the emotion behind the statement, and walking for a snack redirects her to a safe, supervised activity without arguing.",
+        "Incorrect. Redirecting away from the exit is helpful, but it ignores the worry she expressed, so her distress and urge to leave may continue.",
+        "Incorrect. Inviting her to talk shows interest, but it focuses on facts she may not recall and does not acknowledge her worry or move her away from the exit."
       ],
       "rationale": "This is a long-standing pattern with no acute change, so the priority is safety and dignity rather than urgent medical evaluation. When memory cannot hold a correction, repeatedly arguing with the belief tends to increase distress. Acknowledging the emotion behind the statement and redirecting her to a supervised, meaningful activity meets the need and keeps her safe. Afternoon or evening worsening is descriptive only, and any new change in alertness or attention would require assessment.",
       "takeaway": "Respond to the feeling and redirect instead of repeatedly confronting.",
@@ -1087,7 +1104,8 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 2,
       "clientNeed": "Psychosocial Integrity",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m23-u6-027",
@@ -1149,7 +1167,8 @@ window.NURSE_DATA.push({
       "focus": "Prioritization",
       "difficulty": 2,
       "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m23-u6-029",
@@ -1228,14 +1247,14 @@ window.NURSE_DATA.push({
         "Apply bilateral wrist restraints until the client is calm.",
         "Stay with the client and assess oxygenation and pain.",
         "Request an order for a sedative to control the agitation.",
-        "Dim the lights, close the door, and let the client rest alone."
+        "Call the family to come and sit at the bedside with the client."
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. Restraints are not a default response and can increase agitation and injury; least-restrictive measures and cause assessment come first.",
-        "Correct. Staying with the client protects immediate safety while the nurse assesses physiologic triggers such as hypoxia and pain.",
-        "Incorrect. Sedation does not treat the underlying cause and should not precede assessment.",
-        "Incorrect. Leaving an unsafe client alone in a dark, isolated room increases fall risk and removes orientation cues."
+        "Incorrect. Preventing the client from pulling lines is important, but restraints are a last resort and can increase agitation, injury, and delirium.",
+        "Correct. Staying prevents an immediate fall or line removal, and checking oxygenation and pain looks for treatable triggers before restrictive measures are considered.",
+        "Incorrect. Medication may be considered later for severe danger, but it is not first-line and can worsen delirium; physiologic causes must be assessed first.",
+        "Incorrect. Family presence can calm a client with delirium, but the client is at risk of falling right now and needs a staff member present immediately."
       ],
       "rationale": "An agitated client attempting to climb out of bed needs someone present immediately to prevent injury. While staying, the nurse assesses for physiologic triggers such as hypoxia, pain, urinary retention, and abnormal vital signs and escalates findings. Restraints and sedation are not first-line responses and can worsen delirium or cause harm. Calm, brief communication and least-restrictive safety measures support the client while the cause is investigated.",
       "takeaway": "Stay, protect, and assess the cause before restraints or sedation.",
@@ -1247,7 +1266,8 @@ window.NURSE_DATA.push({
       "focus": "Prioritization",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m23-u6-032",
@@ -1296,14 +1316,14 @@ window.NURSE_DATA.push({
         "Assess vital signs and mental status, and promptly notify the provider.",
         "Encourage uninterrupted sleep and reassess her mental status in the morning.",
         "Teach the partner ways to share nighttime newborn care to reduce fatigue.",
-        "Request a lactation consult to help shorten nighttime feeding sessions."
+        "Reorient her to time and place, and reassess in one hour."
       ],
       "answer": 0,
       "optionRationales": [
-        "Correct. An acute mental-status change after birth can signal serious illness and needs urgent assessment and escalation.",
-        "Incorrect. Delaying assessment risks missing an emergency such as hemorrhage, infection, or a hypertensive disorder.",
-        "Incorrect. Fatigue support may help later but does not address the acute change.",
-        "Incorrect. Feeding support does not address a new disturbance in attention and orientation."
+        "Correct. An acute mental-status change after birth can signal serious illness such as hemorrhage, infection, or preeclampsia and needs urgent assessment and escalation.",
+        "Incorrect. Sleep deprivation is real after birth, but delaying assessment until morning risks missing an emergency such as hemorrhage, infection, or a hypertensive disorder.",
+        "Incorrect. Sharing night care is helpful fatigue support, but it accepts the partner’s explanation and does not address the acute change in orientation.",
+        "Incorrect. Reorientation is supportive for confusion, but it delays assessment of vital signs and the cause of a new postpartum mental-status change."
       ],
       "rationale": "A sudden change in orientation and attention during pregnancy or postpartum is a red flag that requires urgent evaluation rather than reassurance about stress or fatigue. Possible causes include hemorrhage, infection, hypertensive disorders such as postpartum preeclampsia, and other serious conditions. The nurse assesses immediate physiologic status, including vital signs and focused findings, and notifies the provider promptly. Sleep and newborn-care support can follow once the acute cause is evaluated.",
       "takeaway": "New postpartum confusion is urgent until proven otherwise.",
@@ -1317,7 +1337,8 @@ window.NURSE_DATA.push({
       "focus": "Lifespan & Diversity",
       "difficulty": 3,
       "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     },
     {
       "id": "m23-u6-034",
@@ -1349,7 +1370,8 @@ window.NURSE_DATA.push({
       "focus": "Assessment Findings",
       "difficulty": 2,
       "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-      "priority": false
+      "priority": false,
+      "bestAnswer": true
     },
     {
       "id": "m23-u6-035",
@@ -1396,15 +1418,15 @@ window.NURSE_DATA.push({
       "options": [
         "Give the dose and monitor closely for extrapyramidal effects.",
         "Contact the prescriber to discuss the Parkinson disease history.",
-        "Hold all scheduled medications until the delirium has resolved.",
-        "Give the dose and discontinue the sitter once the client is calm."
+        "Give half the ordered dose and monitor for increased rigidity.",
+        "Hold the dose and document the reason in the medical record."
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. Haloperidol can markedly worsen motor symptoms in Parkinson disease, so the concern should be raised before administration, not only monitored afterward.",
-        "Correct. Clarifying the order lets the prescriber weigh this client’s heightened risk and consider alternatives before the drug is given.",
-        "Incorrect. Stopping all medications, including Parkinson medications, can cause harm and is outside the nurse’s independent scope.",
-        "Incorrect. Calm behavior after medication is not proof of safety, and observation is still needed."
+        "Incorrect. Monitoring for extrapyramidal effects is appropriate after haloperidol, but this client’s Parkinson disease makes the drug high risk, so the order needs clarification first.",
+        "Correct. Haloperidol can severely worsen Parkinson symptoms, so the nurse clarifies the order with the prescriber before giving it.",
+        "Incorrect. Concern about the risk is valid, but changing the dose is outside the nurse’s scope and still exposes the client to the drug without the prescriber’s review.",
+        "Incorrect. Holding a high-risk dose is reasonable, but holding without notifying the prescriber leaves the client’s severe distress unaddressed and the plan unresolved."
       ],
       "rationale": "Clients with Parkinson disease or Lewy body dementia are particularly sensitive to haloperidol and similar dopamine-blocking drugs, which can severely worsen rigidity, mobility, and function. When an order carries a significant risk for this client, the nurse clarifies it with the prescriber before giving it. If short-term medication is still chosen after risks are weighed, the nurse monitors for sedation, cardiac and neurologic adverse effects, falls, and response. Cause-directed and supportive care continue throughout.",
       "takeaway": "Clarify haloperidol orders for clients with Parkinson disease or Lewy body dementia.",
@@ -1418,7 +1440,8 @@ window.NURSE_DATA.push({
       "focus": "Pharmacology",
       "difficulty": 3,
       "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-      "priority": true
+      "priority": true,
+      "bestAnswer": true
     }
   ]
 });

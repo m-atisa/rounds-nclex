@@ -9,17 +9,17 @@
    "type": "mcq",
    "stem": "A 38-year-old client in a teaching hospital is recovering from a hysterectomy. She tells the nurse, “I don’t want any nursing students in my room. I feel like a practice dummy.” A student has been assigned to her for the day. Which action by the nurse is best?",
    "options": [
-    "Explain that students take part in every client’s care in a teaching hospital.",
+    "Explore what makes her feel this way before changing the assignment.",
     "Honor the request and tell the instructor so the student is reassigned.",
     "Ask her to let the student stay because the instructor supervises closely.",
     "Let the student observe quietly from the doorway without giving care."
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. A teaching hospital setting does not remove a client’s right to decline student involvement.",
-    "Correct. Respecting the client’s choice and arranging other care protects her dignity and autonomy.",
-    "Incorrect. Asking her to reconsider after she has clearly declined is pressure, even when it sounds reassuring.",
-    "Incorrect. Watching from the doorway still involves the student in her care against her stated wishes."
+    "Incorrect. Exploring her feelings is therapeutic, but her request is already clear, and she should not have to justify a right before it is honored.",
+    "Correct. A client may decline student involvement even in a teaching hospital. The nurse honors the request, tells the instructor so the student is reassigned, and makes sure the client still gets full care.",
+    "Incorrect. Close supervision is true and addresses safety, but not her right to choose who takes part in her care; asking again after a clear no is pressure.",
+    "Incorrect. Limiting the student to observing seems like a compromise, but watching from the doorway is still involvement she has refused."
    ],
    "priority": true,
    "rationale": "Respect, dignity, and autonomy are core principles of patient rights, and they include the right to decide who takes part in one’s care. A client may decline student involvement even in a teaching hospital. The nurse honors the request, tells the instructor and charge nurse, and makes sure the client still gets full care. The most tempting wrong answer is asking her to let the student stay because of close supervision; supervision addresses safety, not her right to choose, and repeated asking after a clear no is pressure.",
@@ -33,7 +33,8 @@
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-pr-002",
@@ -116,20 +117,20 @@
    "type": "mcq",
    "stem": "A 29-year-old client arrives unresponsive after a motorcycle crash with a distended abdomen, blood pressure 72/40 mm Hg, and heart rate 138/min. The surgeon plans emergency surgery for a suspected splenic rupture. The client has no identification, and no family can be reached. What is the nurse’s best action?",
    "options": [
-    "Delay surgery until the hospital locates the client’s next of kin.",
+    "Notify security to help identify the client and reach his family.",
     "Have two nurses sign the consent form on the client’s behalf.",
-    "Ask the hospital attorney to obtain a court order for the surgery.",
+    "Ask a second physician to confirm that the surgery is an emergency.",
     "Prepare him for surgery under the emergency consent exception."
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Waiting for family while the client is in hemorrhagic shock threatens his life.",
-    "Incorrect. Nurses cannot consent for a client; two witnesses are used for telephone consent from a surrogate.",
-    "Incorrect. A court order is not needed in a true emergency and would cause a dangerous delay.",
-    "Correct. When delay would threaten life and the client cannot consent, consent is implied for emergency care."
+    "Incorrect. Efforts to identify him and reach family should continue, but they must not delay surgery for a client in hemorrhagic shock.",
+    "Incorrect. Two-person witnessing is used when a surrogate gives consent by phone; nurses never consent on a client’s behalf.",
+    "Incorrect. Some facilities ask for documentation of the emergency, but that is the physician’s task and must not delay lifesaving surgery.",
+    "Correct. Consent is implied when the client cannot consent and delay would threaten life. The nurse prepares him for surgery and documents the emergency and efforts to reach family."
    ],
    "priority": true,
-   "rationale": "Consent is implied in an emergency when the client cannot consent and delay would threaten life or limb. This client shows hemorrhagic shock, so the nurse prepares him for surgery and documents the emergency and the efforts to reach family. Waiting for next of kin or a court order is a delay the client cannot survive. The most tempting wrong answer is having two nurses sign; two-person witnessing is used when a surrogate gives consent by phone, and nurses never consent on a client’s behalf.",
+   "rationale": "Consent is implied in an emergency when the client cannot consent and delay would threaten life or limb. This client shows hemorrhagic shock, so the nurse prepares him for surgery and documents the emergency and the efforts to reach family. Efforts to identify him and reach family continue, but they must not delay surgery, and confirming the emergency is the physician’s task. The most tempting wrong answer is having two nurses sign; two-person witnessing is used when a surrogate gives consent by phone, and nurses never consent on a client’s behalf.",
    "takeaway": "In a life-threatening emergency with no one able to consent, consent is implied; treat and document.",
    "hintContent": "Look at the vital signs and ask what waiting would cost.",
    "hintStrategy": "When a stem shows instability, eliminate any option that delays lifesaving care for paperwork.",
@@ -138,7 +139,8 @@
    "cjmm": "Take Action",
    "focus": "Prioritization",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-pr-005",
@@ -148,15 +150,15 @@
    "options": [
     "Request a qualified medical interpreter, in person or by video.",
     "Thank the son and have him interpret since the client trusts him.",
-    "Give the client the English consent form to review with his son.",
+    "Give the client a consent form printed in Vietnamese to read first.",
     "Ask the cardiologist to use simple words and speak more slowly."
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Clients with limited English have a right to a free, qualified interpreter, which consent requires.",
-    "Incorrect. A minor family member may leave out or soften details, and the client may not ask questions freely.",
-    "Incorrect. Reviewing an English form with a child does not ensure the client understands the risks.",
-    "Incorrect. Simpler English still may not reach a client who does not speak the language well."
+    "Correct. Federal law requires free, qualified interpreters for clients with limited English, and consent is valid only if the client understands the explanation.",
+    "Incorrect. The son is fluent and trusted, but minors and relatives make errors, may filter frightening details, and carry a heavy burden; a qualified interpreter is required.",
+    "Incorrect. A translated form is helpful, but it does not replace an interpreted discussion where the client can ask the cardiologist questions.",
+    "Incorrect. Plain language is good practice, but slower, simpler English does not solve a language barrier."
    ],
    "priority": true,
    "rationale": "Federal civil rights laws (Title VI and ACA Section 1557) require free, qualified interpreters for clients with limited English, and informed consent is not valid without comprehension. A qualified medical interpreter, in person or by video, is the correct first step before the cardiologist explains. Using a child is tempting because he is fluent and trusted, but minors and relatives make errors, may filter frightening details, and place a heavy burden on the child. Slower, simpler English does not solve a language barrier.",
@@ -168,7 +170,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-pr-006",
@@ -198,7 +201,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Lifespan & Diversity",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-pr-007",
@@ -207,19 +211,19 @@
    "stem": "During admission for pneumonia, a 77-year-old client tells the nurse, “I never made one of those living will papers. Will the hospital still treat me if I don’t sign one?” Which response by the nurse is best?",
    "options": [
     "Yes. Your care won’t change either way, and I can share information if you’d like.",
-    "You must complete one before tomorrow so the team will know your wishes.",
-    "Your family will decide for you, so there’s really no need to worry about the form.",
-    "Most people your age choose a DNR, so we can start with that form for you today."
+    "Yes, but you’ll need to sign one before discharge so the team knows your wishes.",
+    "What worries you about signing a living will while you’re here in the hospital?",
+    "Yes. If you ever can’t decide for yourself, your next of kin would decide for you."
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. The PSDA forbids treating clients differently based on whether they have an advance directive, and offering information respects choice.",
-    "Incorrect. An advance directive is never required for admission or treatment.",
-    "Incorrect. The client is capable and makes her own decisions; family does not take over.",
-    "Incorrect. Age alone never decides code status, and this statement pressures the client."
+    "Correct. The Patient Self-Determination Act requires informing clients of their right to an advance directive and forbids conditioning care on having one. This answers his question and offers information.",
+    "Incorrect. Encouraging a directive sounds proactive, but stating he must sign one is false; the law requires informing and asking, never forcing.",
+    "Incorrect. Exploring feelings can be therapeutic, but he asked a direct factual question and deserves a clear answer first.",
+    "Incorrect. A surrogate may decide when a client lacks capacity, but this answer skips reassuring him about care and offering information about directives."
    ],
    "priority": false,
-   "rationale": "The Patient Self-Determination Act requires facilities paid by Medicare or Medicaid to inform adults of their right to make advance directives, ask whether they have one, and document the answer. It also forbids conditioning care or discriminating based on whether a client has one. The nurse reassures the client and offers information. Requiring a directive by tomorrow is tempting because it sounds proactive, but the law requires informing and asking, never forcing.",
+   "rationale": "The Patient Self-Determination Act requires facilities paid by Medicare or Medicaid to inform adults of their right to make advance directives, ask whether they have one, and document the answer. It also forbids conditioning care or discriminating based on whether a client has one. The nurse reassures the client and offers information. Saying he must sign one before discharge is tempting because it sounds proactive, but the law requires informing and asking, never forcing.",
    "takeaway": "The PSDA means inform, ask, and document; no client is required to have an advance directive.",
    "hintContent": "Recall what the PSDA requires of facilities and what it never requires of clients.",
    "hintStrategy": "In advance directive questions, choose the option that informs and respects choice; reject any that require, pressure, or bypass the client.",
@@ -228,7 +232,8 @@
    "cjmm": "Take Action",
    "focus": "Client Teaching",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-pr-008",
@@ -274,14 +279,14 @@
     "As his agent, your decision now overrides what your father wants.",
     "Your father’s own decision guides care while he is able to make it.",
     "The ethics committee will have to decide, because the two of you disagree.",
-    "Dialysis will start because the provider has the final legal say."
+    "His refusal stands only if he signs a new living will saying so."
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. An agent has no authority to override a capable client.",
-    "Correct. A health care agent decides only when the client lacks capacity to make the decision himself.",
-    "Incorrect. An ethics committee advises and supports; it does not override a capable client’s choice.",
-    "Incorrect. The provider recommends treatment, but a capable client may refuse it."
+    "Incorrect. Many families believe signing the document transfers authority right away, but an agent acts only when the client cannot decide.",
+    "Correct. A health care power of attorney takes effect only when the client cannot make or communicate decisions. This client has capacity, so his refusal stands.",
+    "Incorrect. The ethics committee is a useful resource for conflict, but it does not make decisions for a capable adult.",
+    "Incorrect. A living will records wishes for when he cannot speak for himself; a capable client’s spoken refusal is valid without any new document."
    ],
    "priority": false,
    "rationale": "A health care power of attorney names an agent who acts only when the client cannot make or communicate the decision. This client has capacity, so his refusal stands, and the nurse documents, notifies the provider, and can offer support for a family conversation. The most tempting wrong answer is that the agent’s decision overrides his; many families believe signing the document transfers authority right away. The ethics committee is a resource for conflict, not a decision-maker over a capable adult.",
@@ -295,7 +300,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Client Teaching",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-pr-010",
@@ -334,19 +340,19 @@
    "stem": "A 90-year-old nursing home resident in North Carolina is admitted to the hospital with pneumonia. She arrives with a completed, provider-signed MOST form (Medical Orders for Scope of Treatment) marked “Do Not Attempt Resuscitation” and “limited additional interventions.” What should the admitting nurse do?",
    "options": [
     "Set the form aside because only hospital orders are valid on admission.",
-    "Ask the resident to complete a new living will before any care begins.",
+    "File the form in her chart so staff can find it if she arrests.",
     "Notify the provider so the form can guide the admission orders.",
     "Treat her as full code until a lawyer confirms that the form is legal."
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. A portable medical order form is designed to travel with the client across settings.",
-    "Incorrect. A new living will is not needed; her wishes are already documented as medical orders.",
-    "Correct. The provider reviews the portable orders promptly so admission orders reflect her wishes.",
-    "Incorrect. Legal review is not required, and ignoring valid orders could force unwanted resuscitation."
+    "Incorrect. The hospital does need its own admission orders, but the MOST form is a valid portable order that should shape them, not be set aside.",
+    "Incorrect. Keeping the form in the chart is reasonable, but staff need provider orders that reflect it; filing it alone does not make her code status clear.",
+    "Correct. The MOST form is a portable, provider-signed medical order. The nurse brings it to the provider right away so the admission orders match her documented wishes.",
+    "Incorrect. Full code feels like the safe default, but it disregards her documented wishes and could lead to unwanted CPR."
    ],
    "priority": false,
-   "rationale": "North Carolina’s MOST form is a portable medical order, part of the national POLST approach, signed by a provider and meant to travel with the client between settings. The nurse brings it to the provider right away so admission orders match it, and reviews it with the client or surrogate as her condition changes. Treating her as full code until a lawyer checks it is the most tempting wrong answer because it feels safe, but it disregards her documented wishes and could lead to unwanted CPR. A new living will is unnecessary.",
+   "rationale": "North Carolina’s MOST form is a portable medical order, part of the national POLST approach, signed by a provider and meant to travel with the client between settings. The nurse brings it to the provider right away so admission orders match it, and reviews it with the client or surrogate as her condition changes. Treating her as full code until a lawyer checks it is the most tempting wrong answer because it feels safe, but it disregards her documented wishes and could lead to unwanted CPR. Simply filing the form is not enough; it must be reflected in provider orders.",
    "takeaway": "Portable medical order forms like MOST or POLST travel with the client; bring them to the provider to guide orders.",
    "hintContent": "Recall who signs a portable medical order form and why it exists.",
    "hintStrategy": "When a valid document states the client’s wishes, choose the action that honors and acts on it, not one that ignores it until later.",
@@ -355,7 +361,8 @@
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-pr-012",
@@ -403,19 +410,19 @@
    },
    "options": [
     "Call the county hospital to arrange a transfer for the client.",
-    "Ask a financial counselor to meet with the client before triage.",
+    "Report the clerk’s suggestion to the charge nurse as an EMTALA concern.",
     "Start the medical screening exam, including a 12-lead ECG, now.",
-    "Have the client sign a form agreeing to pay before he is seen."
+    "Place him on a cardiac monitor and recheck vital signs in 15 minutes."
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Transferring an unscreened, unstable client violates EMTALA and endangers his life.",
-    "Incorrect. Questions about payment may not delay the screening exam.",
-    "Correct. EMTALA requires screening and stabilizing care regardless of ability to pay, and his symptoms suggest acute coronary syndrome.",
-    "Incorrect. Requiring payment agreement before care delays treatment and violates EMTALA."
+    "Incorrect. The county hospital may serve uninsured clients, but transferring before screening and stabilization is illegal under EMTALA and unsafe.",
+    "Incorrect. The suggestion should be reported, but that can wait; a client with likely acute coronary syndrome needs care first.",
+    "Correct. EMTALA requires a medical screening exam regardless of ability to pay, and chest pain with diaphoresis and low SpO2 calls for a 12-lead ECG within minutes.",
+    "Incorrect. Cardiac monitoring is appropriate, but it is only part of the screening, and waiting 15 minutes delays the ECG he needs now."
    ],
    "priority": true,
-   "rationale": "EMTALA, a 1986 federal law, requires hospital emergency departments to provide a medical screening exam and stabilizing treatment to anyone with an emergency condition, whether or not they can pay. This client’s chest pain, tachycardia, diaphoresis, and low SpO2 point to acute coronary syndrome, so a 12-lead ECG belongs within minutes of arrival. Transfer is the most tempting wrong answer because the county hospital may serve uninsured clients, but transferring before screening and stabilization is illegal and unsafe. Financial questions come after care has started.",
+   "rationale": "EMTALA, a 1986 federal law, requires hospital emergency departments to provide a medical screening exam and stabilizing treatment to anyone with an emergency condition, whether or not they can pay. This client’s chest pain, tachycardia, diaphoresis, and low SpO2 point to acute coronary syndrome, so a 12-lead ECG belongs within minutes of arrival. Transfer is the most tempting wrong answer because the county hospital may serve uninsured clients, but transferring before screening and stabilization is illegal and unsafe. A monitor alone is incomplete, and reporting the clerk’s suggestion comes after care has started.",
    "takeaway": "EMTALA: screen and stabilize every emergency client first; payment questions never come first.",
    "hintContent": "Focus on the client’s condition, then on what federal law requires of an emergency department.",
    "hintStrategy": "When an unstable client and a financial or administrative issue appear together, care for the client first.",
@@ -424,7 +431,8 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-pr-013",
@@ -434,15 +442,15 @@
    "options": [
     "Arrange an ambulance to the hospital where she is more likely to deliver.",
     "Begin a screening exam that includes contractions and fetal heart rate.",
-    "Ask her to call her family about payment before she is evaluated.",
-    "Give her a list of low-cost prenatal clinics and discharge her home."
+    "Obtain her full history, including prior births and any substance use.",
+    "Ask a social worker to help her apply for pregnancy Medicaid today."
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Transferring a client in labor before screening and stabilization violates EMTALA and risks birth en route.",
-    "Correct. Contractions are an emergency condition under EMTALA, so screening, including fetal assessment, comes first.",
-    "Incorrect. Payment questions may not delay the screening exam.",
-    "Incorrect. Discharging her without evaluation ignores the emergency and her right to care."
+    "Incorrect. Sending her somewhere more suitable sounds reasonable, but EMTALA requires screening and stabilization before any transfer.",
+    "Correct. EMTALA requires the hospital to screen a client in labor and provide stabilizing care. Assessing contractions and fetal heart rate comes first.",
+    "Incorrect. Her history matters, especially with no prenatal care, but contractions and fetal heart rate are assessed first.",
+    "Incorrect. Linking her to coverage is helpful, but financial needs come after she has been screened and stabilized."
    ],
    "priority": true,
    "rationale": "EMTALA protects a pregnant client having contractions: the hospital must screen her and provide stabilizing care, which can include delivery, before any transfer. Her lack of prenatal care raises her risk, so assessing contractions and fetal heart rate is urgent. Transferring her to another hospital is the most tempting wrong answer because it sounds like sending her somewhere more suitable, but it is unsafe and unlawful before screening. After the birth, the nurse links her to care, supporting her right to prenatal and postpartum care in a future pregnancy.",
@@ -454,7 +462,8 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
    "difficulty": 3,
-   "clientNeed": "Health Promotion and Maintenance"
+   "clientNeed": "Health Promotion and Maintenance",
+   "bestAnswer": true
   },
   {
    "id": "m44-pr-014",
@@ -499,17 +508,17 @@
    "type": "mcq",
    "stem": "A caller tells the nurse he is the brother of a 41-year-old client admitted for alcohol withdrawal and asks how she is doing. The client’s privacy form lists only her wife as someone who may receive information. Which response by the nurse is best?",
    "options": [
-    "She is stable now, but please don’t share that update with anyone else.",
+    "I can tell her you called if you’d like to leave your name and number.",
     "Since you are family, I can give you a brief general update.",
     "Please call back after her wife gives me permission to talk.",
     "I’m not able to share information about any client without permission."
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Sharing her condition with someone she did not authorize is a privacy breach.",
-    "Incorrect. Being family does not give a right to information the client has not authorized.",
-    "Incorrect. Only the capable client, not her wife, decides who receives her information.",
-    "Correct. This protects her privacy without confirming she is a patient."
+    "Incorrect. Offering to pass on a message sounds polite, but it confirms she is admitted, which she has not authorized.",
+    "Incorrect. Relatives are often included, but a family tie does not override the client’s choice of who may receive information.",
+    "Incorrect. This sounds like following the privacy form, but only the client can grant permission, and the reply confirms she is a client.",
+    "Correct. A capable client decides who receives her information. The nurse neither confirms nor denies that she is admitted, which matters even more in substance use care."
    ],
    "priority": true,
    "rationale": "Under HIPAA, a capable client decides who may receive her health information, and she named only her wife. The nurse neither confirms nor denies that the client is admitted, which matters even more for substance use care. Giving family a general update is the most tempting wrong answer because relatives are often included, but a family tie does not override the client’s choice. Asking the wife to grant permission also misses the point, since the right belongs to the client.",
@@ -521,7 +530,8 @@
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-pr-016",
@@ -530,16 +540,16 @@
    "stem": "A 55-year-old client tells the nurse, “Twice last night nobody answered my call light for more than 30 minutes, and the aide was rude to me. I want to make a formal complaint.” Which response by the nurse is best?",
    "options": [
     "I’ll explain the grievance process and contact the patient advocate for you.",
-    "Filing a complaint may change how the staff treat you, so please think it over.",
+    "I’m sorry that happened; I’ll speak to the aide and the night nurse myself.",
     "Please wait and write about it on the survey you get after discharge.",
     "The night shift was very busy, so delays like that are hard to avoid."
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. CMS rules require hospitals to have a grievance process, and the patient advocate helps clients use it.",
-    "Incorrect. Hinting at retaliation discourages the client from using a protected right.",
-    "Incorrect. Delaying the complaint until after discharge denies a timely response to a safety issue.",
-    "Incorrect. Excusing the delay dismisses the client’s concern and does not protect the right to complain."
+    "Correct. Hospitals must have a grievance process. The nurse supports her choice to complain and also reports the call light delays as a safety concern.",
+    "Incorrect. Apologizing and following up with staff are supportive, but the client asked to make a formal complaint, and this response replaces her right with an informal fix.",
+    "Incorrect. Surveys collect feedback, but they are not a grievance process and delay a response to a current safety concern.",
+    "Incorrect. This sounds understanding, but it excuses the delays and quietly discourages her complaint."
    ],
    "priority": false,
    "rationale": "Protection under law and organizational policy means clients can voice complaints and be heard. CMS Conditions of Participation require hospitals to have a grievance process, and many have a patient advocate or patient relations office. The nurse supports the client’s choice and also reports the call light delays through the chain of command, since they are a safety concern. Explaining that the night was busy is tempting because it sounds understanding, but it dismisses the concern and quietly discourages the complaint.",
@@ -551,7 +561,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Nursing Interventions",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-pr-017",
@@ -634,15 +645,15 @@
    "options": [
     "Skipping insulin doesn’t remove his right to safe care, so I’ll see him first.",
     "You’re right that he should take responsibility, so I’ll see him after the others.",
-    "Let’s ask the provider to discharge him if he won’t follow his plan.",
-    "I’ll tell him he may lose his place on the unit if he skips insulin again."
+    "Let’s have the diabetes educator see him today to work on his insulin use.",
+    "I’ll report your comment to the charge nurse before I see any clients."
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Not meeting a responsibility does not remove the right to safe care, and DKA makes him a priority.",
-    "Incorrect. Delaying care for an unstable client as a response to past behavior is unsafe and unjust.",
-    "Incorrect. Discharging an unstable client because of nonadherence abandons him.",
-    "Incorrect. Threats are coercive and do not address the reasons he skips insulin."
+    "Correct. Failing to meet a responsibility does not remove a client’s rights. Diabetic ketoacidosis is acute and unstable, so he is seen first.",
+    "Incorrect. Clients do have responsibilities, but using that as a reason to delay care for an unstable client is unsafe and unfair.",
+    "Incorrect. Teaching about insulin is needed, but only after he is stable; it does not address his urgent priority now.",
+    "Incorrect. A biased comment may need follow-up, but reporting it first delays care for an unstable client."
    ],
    "priority": false,
    "rationale": "Clients have responsibilities, such as following the plan they agreed to, but failing to meet one does not remove any right, including access to safe, quality care. Diabetic ketoacidosis is acute and unstable, so this client is a priority regardless of his history. Once he is stable, the nurse explores barriers such as cost, knowledge, or depression. The most tempting wrong answer agrees that he should take responsibility, which is true, but then uses that as a reason to delay urgent care.",
@@ -654,7 +665,8 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-pr-020",
@@ -663,19 +675,19 @@
    "stem": "A 70-year-old client on bed rest after a stroke refuses his subcutaneous heparin. The nurse explains that it helps prevent blood clots in the legs and lungs. The client, who is alert and oriented, says, “I understand, but I hate the shots. I still don’t want it.” What is the nurse’s best action?",
    "options": [
     "Give the heparin, since the provider’s order must be followed.",
-    "Ask his wife to persuade him to take the injection today.",
+    "Explain the risks again and ask him to try just one dose today.",
     "Document the refusal and teaching, and notify the provider.",
-    "Have him sign a form saying he is leaving against advice."
+    "Apply compression devices and document that he declined heparin."
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Giving a treatment a capable client has refused is battery.",
-    "Incorrect. Recruiting family to persuade him after an informed refusal is pressure.",
-    "Correct. The nurse respects the informed refusal, records it, and informs the provider, who may offer alternatives.",
-    "Incorrect. An against-advice form is for leaving the facility, not for declining one treatment."
+    "Incorrect. Orders are usually followed, but an order does not override a capable client’s informed refusal.",
+    "Incorrect. Teaching was appropriate, but he already understands the risks; repeating them to change his mind becomes pressure.",
+    "Correct. A capable client may refuse treatment. The nurse documents the refusal and teaching and notifies the provider, who may order alternatives.",
+    "Incorrect. Compression devices are a reasonable alternative, but they need a provider order, so the provider must be notified first."
    ],
    "priority": true,
-   "rationale": "A capable client may refuse any treatment, and one client responsibility is accepting the results of that refusal. The nurse has confirmed he understands the purpose and risk, so the next step is to document the refusal and the teaching and notify the provider, who may discuss alternatives such as mechanical compression devices. The most tempting wrong answer is giving the heparin because it is ordered; an order does not override an informed refusal. Asking his wife to persuade him undermines his free choice.",
+   "rationale": "A capable client may refuse any treatment, and one client responsibility is accepting the results of that refusal. The nurse has confirmed he understands the purpose and risk, so the next step is to document the refusal and the teaching and notify the provider, who may discuss alternatives such as mechanical compression devices. The most tempting wrong answer is giving the heparin because it is ordered; an order does not override an informed refusal. Repeating the risks to change his mind undermines his free choice.",
    "takeaway": "After an informed refusal, document the refusal and teaching and notify the provider.",
    "hintContent": "Check whether the client understands and whether he has capacity.",
    "hintStrategy": "When a capable client refuses after teaching, choose document-and-notify over force or persuasion.",
@@ -686,7 +698,8 @@
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-pr-021",
@@ -695,16 +708,16 @@
    "stem": "A 3-year-old with dehydration needs a peripheral IV. Her father asks, “Can I stay with her? She gets so scared without me.” The unit’s habit has been for parents to wait in the hallway during procedures. What is the nurse’s best response?",
    "options": [
     "It’s better to wait outside so she won’t connect you with the pain.",
-    "You may watch from the doorway as long as you don’t talk to her.",
+    "Yes, and you can help by holding her arm still during the IV start.",
     "Our routine is for parents to wait outside, but I’ll come get you after.",
     "Yes. You can stay and comfort her by holding her on your lap."
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. This is an outdated belief; separation increases a toddler’s fear.",
-    "Incorrect. A parent kept at a distance cannot comfort the child.",
-    "Incorrect. Unit habit does not override family-centered care principles.",
-    "Correct. Parents are partners in care, and a comfort position on a parent’s lap reduces distress."
+    "Incorrect. This was once common practice, but separation raises a toddler’s anxiety, which peaks at this age.",
+    "Incorrect. Letting him stay is right, but the parent’s role is comfort, not restraining the child.",
+    "Incorrect. Reuniting after is kind, but a unit habit does not override family-centered care, and separation increases her fear.",
+    "Correct. Family-centered care treats parents as partners. A toddler held in a comfort position by a parent is less frightened during the procedure."
    ],
    "priority": true,
    "rationale": "Family-centered care, promoted by the ACCH, treats the family as the constant in a child’s life and parents as partners, not visitors. Parents should be allowed to stay during procedures when possible, and a toddler held in a comfort position by a parent is less frightened. Sending the parent out so the child will not link him with pain is the most tempting wrong answer because it was once common practice, but it raises separation anxiety, which peaks in toddlers. The parent’s role is comfort, not holding the child down.",
@@ -716,7 +729,8 @@
    "cjmm": "Take Action",
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
-   "clientNeed": "Health Promotion and Maintenance"
+   "clientNeed": "Health Promotion and Maintenance",
+   "bestAnswer": true
   },
   {
    "id": "m44-pr-022",
@@ -760,19 +774,19 @@
    "stem": "A 9-year-old with suspected appendicitis needs blood drawn. His mother has given consent, but the boy pulls his arm away and cries, “No! I don’t want a needle!” His vital signs are stable. What should the nurse do first?",
    "options": [
     "Have two staff members hold his arm still so the draw goes quickly.",
-    "Tell him the draw will not hurt at all if he holds still for the nurse.",
+    "Ask his mother to explain why he needs the test and calm him down.",
     "Explain the draw in simple words and let him choose which arm to use.",
     "Cancel the blood draw and tell the provider the child has refused it."
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Physical holding is not the least restrictive first step for a stable child.",
-    "Incorrect. Saying it will not hurt is untrue and damages trust.",
-    "Correct. A school-age child understands simple explanations, and offering choices gives control and supports assent.",
-    "Incorrect. The parent has consented to a needed test; the child’s fear calls for support, not cancellation."
+    "Incorrect. Holding may sometimes be needed, but it skips less restrictive steps such as explaining and offering choices.",
+    "Incorrect. A parent’s support helps, but the nurse should seek the child’s assent directly with an honest explanation at his level.",
+    "Correct. Nurses seek a child’s assent by explaining care at his developmental level and offering real choices, which gives a school-age child a sense of control.",
+    "Incorrect. This looks like respecting his refusal, but his mother has consented to a needed test, and assent should be sought first."
    ],
    "priority": true,
-   "rationale": "Children cannot give legal consent, but nurses seek their assent by explaining care at their developmental level and offering real choices. A school-age child responds well to honest, concrete explanations and a sense of control, such as choosing which arm. Canceling the draw is the most tempting wrong answer because it looks like respecting his refusal, but a parent has consented to a needed diagnostic test. Holding him down skips less restrictive steps, and promising no pain is dishonest.",
+   "rationale": "Children cannot give legal consent, but nurses seek their assent by explaining care at their developmental level and offering real choices. A school-age child responds well to honest, concrete explanations and a sense of control, such as choosing which arm. Canceling the draw is the most tempting wrong answer because it looks like respecting his refusal, but a parent has consented to a needed diagnostic test. Holding him down skips less restrictive steps, and leaving the explanation to his mother misses the chance to seek his own assent.",
    "takeaway": "Seek a child’s assent with honest, age-appropriate explanations and real choices.",
    "hintContent": "Think about what a school-age child needs to cooperate.",
    "hintStrategy": "Choose the least restrictive, developmentally appropriate action before force or cancellation.",
@@ -781,7 +795,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
-   "clientNeed": "Health Promotion and Maintenance"
+   "clientNeed": "Health Promotion and Maintenance",
+   "bestAnswer": true
   },
   {
    "id": "m44-pr-024",
@@ -825,19 +840,19 @@
    "stem": "During a private interview at an outpatient clinic, a 15-year-old being treated for depression tells the nurse, “I’ve been saving my pills so I can take them all at once. Please don’t tell anyone.” What should the nurse do first?",
    "options": [
     "Stay with her and notify the provider about her plan right away.",
-    "Promise to keep the secret so she continues to trust the nurse.",
+    "Explain that you must share this, and ask who she wants told first.",
     "Call her parents and ask them to remove the pills from the home.",
     "Ask her to sign a no-suicide contract before she leaves the clinic."
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. A suicide plan with a method is an emergency; keeping her safe and notifying the provider come first.",
-    "Incorrect. Confidentiality for teens does not cover imminent danger to self.",
-    "Incorrect. Parents will need to help secure the pills, but that comes after she is kept safe and the provider is notified.",
-    "Incorrect. No-suicide contracts do not keep clients safe and delay real intervention."
+    "Correct. Confidentiality ends when there is a risk of serious harm. A teen with a plan and stockpiled pills is at high risk, so the nurse stays with her and gets the provider now.",
+    "Incorrect. Being honest about the limits of confidentiality is right, but letting her direct who is told delays an urgent safety evaluation.",
+    "Incorrect. Her parents must help secure the pills, but that is a later step the team arranges once she is safe.",
+    "Incorrect. No-suicide contracts are common in practice, but they do not keep a client safe and are not a substitute for evaluation."
    ],
    "priority": true,
-   "rationale": "Adolescents are entitled to confidential mental health care, but confidentiality ends when there is a risk of serious harm to self or others. A teen with a plan and stockpiled pills is at high risk, so the nurse stays with her and notifies the provider immediately for a safety evaluation. Calling the parents is tempting because they must help secure the pills, but it is a later step that the team arranges once she is safe. Promises of secrecy and no-suicide contracts are never appropriate responses.",
+   "rationale": "Adolescents are entitled to confidential mental health care, but confidentiality ends when there is a risk of serious harm to self or others. A teen with a plan and stockpiled pills is at high risk, so the nurse stays with her and notifies the provider immediately for a safety evaluation. Calling the parents is tempting because they must help secure the pills, but it is a later step that the team arranges once she is safe. Letting her choose who is told delays care, and no-suicide contracts do not keep a client safe.",
    "takeaway": "Teen confidentiality ends at danger to self; stay with the client and get help immediately.",
    "hintContent": "Weigh confidentiality against the client’s immediate safety.",
    "hintStrategy": "When a client reports a suicide plan, choose the option that keeps the client safe right now.",
@@ -846,7 +861,8 @@
    "cjmm": "Take Action",
    "focus": "Prioritization",
    "difficulty": 2,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m44-pr-026",
@@ -914,7 +930,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-pr-028",
@@ -979,7 +996,8 @@
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
    "difficulty": 2,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m44-pr-029",
@@ -987,17 +1005,17 @@
    "type": "mcq",
    "stem": "A home health nurse visits a 46-year-old client with cerebral palsy who depends on her cousin for meals and money management. The client has lost 6 kg (13 lb) in 2 months, the refrigerator is nearly empty, and she says her cousin keeps her disability check. Which action should the nurse take?",
    "options": [
-    "Confront the cousin directly and ask where the client’s disability money has gone.",
+    "Arrange home-delivered meals and weigh her again at the next visit.",
     "Wait to report until the weight loss is confirmed at the next visit.",
     "Ask the client to keep a food diary before reporting any concerns.",
     "Report the situation to adult protective services at the county DSS."
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Confronting a possible abuser can increase the risk to the client and is not the nurse’s role.",
-    "Incorrect. Reasonable cause is enough to report; waiting leaves her without food.",
-    "Incorrect. A diary delays protection and puts the burden on the client.",
-    "Correct. Signs of neglect and financial exploitation of a disabled adult must be reported to protective services."
+    "Incorrect. Meeting her food needs is important, but it does not address suspected neglect and financial exploitation, which must be reported.",
+    "Incorrect. Confirming findings seems careful, but the duty is to report reasonable suspicion and let the agency investigate.",
+    "Incorrect. A food diary is a useful assessment tool, but it delays a required report of suspected exploitation.",
+    "Correct. Weight loss, no food, and a caregiver keeping her income suggest neglect and exploitation. Nurses report suspicion to adult protective services; good-faith reporters are immune."
    ],
    "priority": false,
    "rationale": "A disabled adult with weight loss, no food, and a caregiver who keeps her income shows signs of neglect and financial exploitation. Nurses report reasonable suspicion to adult protective services; in North Carolina, any person with reasonable cause reports to the county DSS director, and good-faith reporters are immune. The nurse also notifies the provider and addresses her immediate need for food. Waiting to confirm the weight loss is the most tempting wrong answer because it seems careful, but the duty is to report suspicion and let the agency investigate.",
@@ -1009,7 +1027,8 @@
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m44-pr-030",
@@ -1019,15 +1038,15 @@
    "options": [
     "Reassure her that the provider knows when she is ready to go home.",
     "Explain her right to appeal using the Medicare notice she received.",
-    "Tell her she will have to pay the full bill if she stays any longer.",
-    "Ask her daughter to convince her that going home is the best plan."
+    "Ask the case manager to arrange home health visits after discharge.",
+    "Teach her energy-saving tips to use at home when she feels tired."
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. This dismisses her concern and ignores her right to challenge the discharge.",
-    "Correct. The Important Message from Medicare explains her right to a fast appeal of a discharge she believes is too soon.",
-    "Incorrect. This is inaccurate and discourages her from using a protected right.",
-    "Incorrect. Talking to the family instead of the capable client bypasses her rights."
+    "Incorrect. This sounds supportive, but it shuts down a legitimate concern and a legal right.",
+    "Correct. The Important Message from Medicare explains her right to appeal a discharge she thinks is too soon. The nurse explains this right and shares her concerns with the team.",
+    "Incorrect. Home health may help, but it assumes the discharge will happen and does not address her right to challenge it.",
+    "Incorrect. Energy conservation teaching is useful, but it does not respond to her concern that she is not ready to go home."
    ],
    "priority": true,
    "rationale": "CMS protections for older adults include the Important Message from Medicare About Your Rights, given within 2 days of admission and again before discharge. It explains the right to appeal a discharge the client thinks is too soon by contacting the Quality Improvement Organization listed on it. The nurse explains this right and tells the provider and case manager about her concerns living alone. Reassuring her that the provider knows best is the most tempting wrong answer because it sounds supportive, but it shuts down a legitimate concern and a legal right.",
@@ -1039,7 +1058,8 @@
    "cjmm": "Take Action",
    "focus": "Lifespan & Diversity",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-pr-031",
@@ -1084,20 +1104,20 @@
    "type": "mcq",
    "stem": "The daughter of an 88-year-old nursing home resident tells the nurse, “Mom says her call light goes unanswered for an hour at night, but she’s afraid the staff will be mean to her if she complains.” Which response by the nurse is best?",
    "options": [
-    "It may be wiser to wait until your mother moves to another unit.",
-    "Night staff are stretched thin, so long waits are expected at night.",
+    "Ask your mother to use her call light earlier, before needs become urgent.",
+    "I’m sorry; I’ll let the night staff know she is worried about this.",
     "Residents can complain without retaliation, and the ombudsman can help.",
     "I’ll talk to the night aides, so there’s no need for a formal complaint."
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Waiting leaves an unsafe situation in place and discourages a protected right.",
-    "Incorrect. Excusing an hour-long wait normalizes neglect.",
-    "Correct. Residents have the right to voice grievances without punishment, and the long-term care ombudsman advocates for them.",
-    "Incorrect. An informal talk may help, but it should not replace the resident’s right to a formal complaint."
+    "Incorrect. Planning ahead can help, but it puts the burden on the resident and ignores her fear of retaliation.",
+    "Incorrect. Passing her concern along seems helpful, but telling the night staff exposes her to the retaliation she fears and skips her right to a formal complaint.",
+    "Correct. Residents may voice complaints without fear of punishment, and the long-term care ombudsman helps protect their rights.",
+    "Incorrect. Quick action sounds helpful, but it steers the family away from a formal process that tracks and fixes problems."
    ],
    "priority": false,
-   "rationale": "CMS residents’ rights include voicing complaints without fear of punishment, and the long-term care ombudsman helps residents and families resolve concerns and protect their rights. The nurse reassures the family about these protections and also reports the call light delays, which are a safety issue. Talking to the night aides informally is the most tempting wrong answer because it sounds like quick action, but it steers the family away from a formal process that tracks and fixes problems. Excusing the delay or waiting leaves the resident at risk.",
+   "rationale": "CMS residents’ rights include voicing complaints without fear of punishment, and the long-term care ombudsman helps residents and families resolve concerns and protect their rights. The nurse reassures the family about these protections and also reports the call light delays, which are a safety issue. Talking to the night aides informally is the most tempting wrong answer because it sounds like quick action, but it steers the family away from a formal process that tracks and fixes problems. Telling the night staff about her worry exposes her to the retaliation she fears, and asking the resident to adapt shifts the burden to her.",
    "takeaway": "Residents may complain without retaliation; connect fearful families to the long-term care ombudsman.",
    "hintContent": "Recall the advocate available to nursing home residents and their families.",
    "hintStrategy": "Choose the answer that supports the right to complain, not one that replaces or discourages it.",
@@ -1106,7 +1126,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m44-pr-033",
@@ -1116,15 +1137,15 @@
    "options": [
     "That’s a good idea; I’ll call the provider for a PRN sedative tonight.",
     "Let’s keep her in a geri-chair at the nurses’ station while we finish charting.",
-    "We can lock her door at night so that she stays safe inside her own room.",
+    "Let’s turn on her bed alarm so we know right away if she gets up.",
     "A drug given so staff can work is a restraint; let’s learn why she walks."
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. A sedative given for staff convenience is a chemical restraint and raises fall risk.",
-    "Incorrect. A geri-chair used to keep her still is a physical restraint for convenience.",
-    "Incorrect. Locking her in is seclusion and creates a safety hazard.",
-    "Correct. CMS rules forbid chemical restraints for convenience, and assessing the cause of night walking guides safe care."
+    "Incorrect. Calling the provider follows scope, but a sedative given for staff convenience is a chemical restraint and raises fall risk.",
+    "Incorrect. Keeping her close seems safe, but restricting her movement for convenience is a physical restraint.",
+    "Incorrect. A bed alarm can alert staff, but it does not address the request for sedation or the cause of her night walking.",
+    "Correct. Residents have the right to be free from restraints used for staff convenience. The nurse assesses causes such as pain, toileting, hunger, or sundowning."
    ],
    "priority": false,
    "rationale": "CMS and OBRA residents’ rights include freedom from physical or chemical restraints used for discipline or staff convenience. A sedative so staff can chart is a chemical restraint, and in older adults with dementia it raises the risk of falls and confusion. The nurse assesses causes of night walking, such as pain, toileting needs, hunger, or sundowning, and plans safe walking space and calming routines. The geri-chair is tempting because it seems to keep her safe and close, but restricting her movement for convenience is a physical restraint.",
@@ -1136,7 +1157,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Pharmacology",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "bestAnswer": true
   },
   {
    "id": "m44-pr-034",
@@ -1144,20 +1166,20 @@
    "type": "mcq",
    "stem": "At a 28-week prenatal visit, a 31-year-old client with a low-risk pregnancy says, “I’ve decided to have my baby at home with a certified nurse-midwife.” What is the nurse’s best response?",
    "options": [
-    "Hospital births are the only safe choice, so I hope you’ll reconsider.",
-    "I’ll need to document that you’re going against medical advice.",
-    "Your insurance probably won’t cover it, so a hospital birth is easier.",
+    "Hospitals and birth centers are safest, so I can share why if you like.",
+    "Let’s make sure you have a plan for getting to a hospital if needed.",
+    "That’s your choice, and certified nurse-midwives are well trained.",
     "Tell me more about your plan and what you know about home birth."
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. This pressures her and dismisses her right to choose a birth setting.",
-    "Incorrect. Labeling an informed choice as going against advice is judgmental and inaccurate.",
-    "Incorrect. Steering her by cost assumptions does not respect or inform her choice.",
-    "Correct. Exploring her plan comes first so the nurse can give accurate information and support an informed choice."
+    "Incorrect. Balanced information is part of good care, but giving it before learning her plan and knowledge is premature and can feel like pressure.",
+    "Incorrect. A transfer plan is essential, but the nurse first explores her plan and what she already knows.",
+    "Incorrect. Respecting her choice is right, but this closes the conversation before the nurse learns what she knows.",
+    "Correct. Clients may choose their birth setting. The nurse first explores her plan and knowledge, then gives balanced information, risk criteria, and a transfer plan."
    ],
    "priority": true,
-   "rationale": "Pregnant clients have the right to prenatal care, to choose their provider, and to choose their birth setting. The nurse first explores the client’s plan and knowledge, then gives balanced information, including that ACOG considers hospitals and accredited birth centers the safest settings, risk criteria, and a transfer plan. The most tempting wrong answer tells her hospitals are the only safe choice; it sounds protective but is coercive and closes the conversation. Respect means informing without pressure.",
+   "rationale": "Pregnant clients have the right to prenatal care, to choose their provider, and to choose their birth setting. The nurse first explores the client’s plan and knowledge, then gives balanced information, including that ACOG considers hospitals and accredited birth centers the safest settings, risk criteria, and a transfer plan. Leading with safety data or a transfer plan is tempting because both matter, but they come after the nurse understands her plan; simply affirming her choice closes the conversation. Respect means informing without pressure.",
    "takeaway": "Support a pregnant client’s birth setting choice by exploring her plan and giving balanced information.",
    "hintContent": "Think about which response opens a conversation and which ones close it.",
    "hintStrategy": "For best-response items about a client’s choice, pick the open, exploring answer over one that pressures or labels.",
@@ -1166,7 +1188,8 @@
    "cjmm": "Recognize Cues",
    "focus": "Client Teaching",
    "difficulty": 2,
-   "clientNeed": "Health Promotion and Maintenance"
+   "clientNeed": "Health Promotion and Maintenance",
+   "bestAnswer": true
   },
   {
    "id": "m44-pr-035",
@@ -1214,15 +1237,15 @@
    "options": [
     "Make sure the provider explains the options, and support her decision.",
     "Prepare the amnihook, since a birth plan is only a list of the client’s wishes.",
-    "Ask her partner to sign the consent if she remains undecided.",
-    "Tell her the birth plan no longer applies once labor has slowed."
+    "Encourage her to accept the amniotomy since it may shorten her labor.",
+    "Document her refusal of amniotomy in the record and notify the provider."
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. A capable laboring client gives or withholds consent after hearing risks, benefits, and alternatives.",
-    "Incorrect. A procedure the client has declined may not be done without her consent.",
-    "Incorrect. A partner cannot consent for a capable adult.",
-    "Incorrect. A change in labor is a reason to discuss options, not to cancel her plan."
+    "Correct. Clients keep the right to consent to or refuse procedures in labor. The provider explains risks, benefits, and alternatives, and the nurse supports her informed choice.",
+    "Incorrect. A birth plan is not a legal order, but a procedure still needs her consent after an explanation.",
+    "Incorrect. Amniotomy may shorten labor, but persuading her undermines a free, informed choice.",
+    "Incorrect. Documenting her choice is part of care, but she has not yet heard the provider’s reasons, so a refusal is not yet informed."
    ],
    "priority": false,
    "rationale": "Pregnant clients keep the right to consent to or refuse exams and procedures during labor. When the plan may change, the provider explains why and discusses risks, benefits, and alternatives, and the client decides; the nurse advocates for that discussion and documents her choice. Preparing the amnihook is tempting because the provider recommended it and a birth plan is not a legal order, but a procedure still needs her consent. With stable maternal and fetal status, there is time for an informed choice.",
@@ -1234,7 +1257,8 @@
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "difficulty": 2,
-   "clientNeed": "Health Promotion and Maintenance"
+   "clientNeed": "Health Promotion and Maintenance",
+   "bestAnswer": true
   },
   {
    "id": "m44-pr-037",
@@ -1280,17 +1304,17 @@
     ]
    },
    "options": [
-    "Have the client sign now while the surgeon is still on the unit.",
+    "Check his sedation level again in 15 minutes, then witness his signature.",
     "Ask the client’s wife to sign the form since he is drowsy.",
     "Tell the surgeon the client cannot give valid consent right now.",
     "Wake the client fully, read him the form, and witness his signature."
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. A client sedated by an opioid lacks the capacity to give valid consent.",
-    "Incorrect. The procedure is elective, and the client will regain capacity, so a surrogate is not appropriate.",
-    "Correct. The opioid has impaired his capacity, so consent must wait until he can understand and decide.",
-    "Incorrect. Briefly waking a sedated client does not restore his capacity to weigh risks."
+    "Incorrect. Rechecking sedation is reasonable, but IV hydromorphone lasts hours, and the surgeon must be told that consent has to wait.",
+    "Incorrect. A surrogate signs only when the client lacks capacity and the decision cannot wait; this surgery is elective.",
+    "Correct. He received IV hydromorphone 35 minutes ago and is falling asleep mid-sentence, so he lacks capacity now. Because surgery is elective, consent waits until the drug wears off.",
+    "Incorrect. This seems to involve him, but a sedated client cannot reason through risks even when briefly awake."
    ],
    "priority": true,
    "rationale": "Valid consent requires capacity, and this client received IV hydromorphone 35 minutes ago and now falls asleep mid-sentence. Because the surgery is elective, the nurse tells the surgeon that consent must wait until the drug’s effects wear off; the surgeon then explains and obtains consent, and the nurse witnesses. Waking him and reading the form is the most tempting wrong answer because it seems to involve him, but a sedated client cannot reason through risks. A surrogate signs only when the client lacks capacity and the decision cannot wait.",
@@ -1302,7 +1326,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Assessment Findings",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-pr-038",
@@ -1386,17 +1411,17 @@
    "type": "mcq",
    "stem": "A nurse sees a coworker, who is not assigned to the client, scrolling through the electronic record of a local news anchor admitted to the unit. The coworker says, “I’m just curious about why she’s here.” What is the nurse’s best action?",
    "options": [
-    "Ignore it, since the coworker works on this unit and has system access.",
+    "Remind the coworker about HIPAA and trust her to close the record.",
     "Tell the coworker to close the record, and report the access per policy.",
     "Ask the coworker to keep anything she learned away from other staff.",
-    "Call the client’s family to let them know that someone else viewed her chart."
+    "Report the access to the privacy officer at the end of the shift."
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. System access does not equal permission; only staff with a care-related need may view a record.",
-    "Correct. Stopping the breach and reporting it through the chain of command protects the client’s privacy.",
-    "Incorrect. Limiting gossip does not undo or address a breach that has already occurred.",
-    "Incorrect. Notifying the client of a breach is handled by the privacy officer, not by calling family."
+    "Incorrect. A reminder may stop the access, but it is incomplete; unauthorized access must be reported per policy.",
+    "Correct. HIPAA limits access to staff with a care-related need. The nurse stops the breach and reports it so the facility can investigate.",
+    "Incorrect. This seems to contain the harm, but it hides a violation that the facility must address.",
+    "Incorrect. Reporting is required, but waiting until the end of shift lets the breach continue now."
    ],
    "priority": true,
    "rationale": "HIPAA limits access to health information to staff with a care-related need, and curiosity is not a need. The nurse stops the breach and reports it to the charge nurse or privacy officer, who investigates and handles any required notice. Confidentiality breaches are also conduct issues that may be reported to the board of nursing; in North Carolina, the NCBON. Asking the coworker to keep quiet is the most tempting wrong answer because it seems to contain the harm, but it hides a violation that the facility must address.",
@@ -1408,7 +1433,8 @@
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-pr-040",
@@ -1510,7 +1536,8 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Assessment Findings",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   }
  ]
 }

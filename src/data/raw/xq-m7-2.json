@@ -31,7 +31,8 @@
    "focus": "Delegation & Safety",
    "difficulty": 3,
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m7-x2-002",
@@ -41,15 +42,15 @@
    "options": [
     "Suction the mouth and oropharynx to clear retained fluid.",
     "Notify the provider about the drop in oxygen saturation.",
-    "Recheck the oxygen saturation in 15 minutes for a trend.",
-    "Document the client's response to the oral-care procedure."
+    "Raise the head of the bed to make breathing easier.",
+    "Apply oxygen by nasal cannula at 2 L/min to raise saturation."
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Gurgling with falling saturation after oral care suggests pooled fluid or secretions in the airway, and suction clears it immediately.",
+    "Correct. Gurgling with falling saturation after oral care suggests pooled fluid or secretions in the airway, and suctioning clears the cause immediately.",
     "Incorrect. The provider should be informed, but the nurse can clear the airway first, which is the immediate need.",
-    "Incorrect. Waiting leaves a likely airway obstruction untreated while the client desaturates.",
-    "Incorrect. Documentation follows the intervention and does nothing for the current airway problem."
+    "Incorrect. Raising the head of the bed can ease breathing, but it does not remove the fluid already pooled in the oropharynx.",
+    "Incorrect. Oxygen supports saturation, but it does not remove the fluid blocking the airway, so the cause of the drop remains."
    ],
    "rationale": "Gurgling respirations right after oral care in a client who cannot manage secretions point to fluid or secretions pooled in the oropharynx, and the saturation drop shows it is affecting gas exchange. Airway comes first, and the nurse has an immediate independent action available: suctioning the mouth and oropharynx. Notifying the provider is the most tempting choice because the change is significant, but calling before clearing a visible airway problem delays the one action that can reverse it. After suctioning, the nurse reassesses breathing and saturation and reports the event.",
    "takeaway": "Gurgling and desaturation after oral care signal an airway problem; clear the airway before calling or documenting.",
@@ -61,7 +62,8 @@
    "focus": "Nursing Interventions",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m7-x2-003",
@@ -91,7 +93,8 @@
    "focus": "Prioritization",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m7-x2-004",
@@ -101,15 +104,15 @@
    "options": [
     "\"Foam swabs are a good choice, since they are much gentler on bleeding gums.\"",
     "\"I'll check his gums and brushing technique before we change his care.\"",
-    "\"Use a firmer brush so the plaque comes off more completely next time.\"",
-    "\"A little gum bleeding is normal in older adults, so just keep going.\""
+    "\"Have him rinse with warm salt water after you brush his teeth.\"",
+    "\"Mention the bleeding to his dentist at his next routine checkup.\""
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Swabs do not remove plaque well, so switching may worsen the gum inflammation causing the bleeding.",
-    "Correct. Bleeding gums call for nursing assessment of the tissue and technique, not for abandoning effective brushing.",
-    "Incorrect. A firm brush adds trauma to inflamed gums; a soft brush is the standard.",
-    "Incorrect. Gum bleeding is a sign of inflammation that needs assessment, not a normal finding of age."
+    "Incorrect. Swabs sound gentle, but they remove plaque poorly, and plaque is what drives gum inflammation and bleeding.",
+    "Correct. Gum bleeding needs RN assessment of the tissue and the brushing technique before the care plan is changed.",
+    "Incorrect. Salt-water rinses can soothe gums, but adding a comfort measure skips the assessment of why the gums are bleeding.",
+    "Incorrect. Dental follow-up may be needed, but waiting for a routine visit delays the RN assessment that should happen now."
    ],
    "rationale": "Gum bleeding during brushing usually signals inflammation such as gingivitis, and the appropriate response is to assess the tissue, review the technique, and arrange dental referral as indicated. Assessment is the RN's responsibility, so the nurse examines the client rather than accepting or rejecting the UAP's plan on the spot. Switching to foam swabs is the most tempting answer because it sounds gentle, but swabs remove plaque poorly, and plaque is what drives gum inflammation. Abandoning hygiene can make the bleeding worse.",
    "takeaway": "Bleeding gums require assessment and better technique, not abandonment of brushing.",
@@ -121,7 +124,8 @@
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m7-x2-005",
@@ -151,7 +155,8 @@
    "focus": "Assessment Findings",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m7-x2-006",
@@ -161,15 +166,15 @@
    "options": [
     "Offer ice chips freely, since melted ice is not counted as intake.",
     "Ask the provider to lift the fluid restriction to relieve his thirst.",
-    "Explain that a dry mouth is to be expected while his fluids are limited.",
+    "Spread his fluid allowance into small sips over the whole day.",
     "Give oral care and offer a saliva substitute within the fluid plan."
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Ice chips are fluid and must be counted toward the restriction.",
-    "Incorrect. The restriction treats his heart failure; comfort measures within the plan should be tried first.",
-    "Incorrect. Accepting the discomfort ignores safe measures that can relieve it.",
-    "Correct. Cleansing and saliva substitutes relieve dryness without adding fluid beyond the prescribed restriction."
+    "Incorrect. Ice chips feel soothing, but melted ice is fluid and must count toward his 1,500 mL limit.",
+    "Incorrect. Lifting the restriction would ease thirst, but the limit protects him from fluid overload and nonfluid comfort measures have not been tried.",
+    "Incorrect. Pacing fluids is a useful long-term strategy, but it does not clean the coated tongue or relieve the dryness he has right now.",
+    "Correct. Oral care removes the coating and a saliva substitute adds moisture without counting against the fluid limit."
    ],
    "rationale": "A fluid restriction changes how dryness is managed, not whether it is managed. Oral care removes the coating and refreshes the mouth, and saliva substitutes provide moisture without counting against the fluid limit. Asking to lift the restriction is tempting because it seems to fix the thirst directly, but the restriction protects him from fluid overload, and nonfluid comfort measures have not yet been tried. Ice chips are a common trap; they are fluid and count toward intake.",
    "takeaway": "When fluids are restricted, relieve dry mouth with oral care and moisture support that stays within the fluid plan.",
@@ -181,7 +186,8 @@
    "focus": "Nursing Interventions",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m7-x2-007",
@@ -242,7 +248,8 @@
       }
      }
     ]
-   }
+   },
+   "bestAnswer": true
   },
   {
    "id": "m7-x2-008",
@@ -251,18 +258,18 @@
    "stem": "At a well-child visit, a 2-year-old has chalky white bands and brown spots along the gumline of the upper front teeth. The parent says the child has never seen a dentist and still falls asleep with a bottle of apple juice. Which action is the nurse's priority?",
    "options": [
     "Teach the parent to dilute the bedtime juice with water.",
-    "Reassure the parent that baby teeth will soon be replaced.",
+    "Recheck the teeth at the next well-child visit.",
     "Arrange a dental evaluation and a dental home.",
-    "Recommend brushing with plain water until age 3 years."
+    "Teach twice-daily brushing with fluoride toothpaste."
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Diluted juice still bathes the teeth in sugar overnight and does not treat existing lesions.",
-    "Incorrect. Primary teeth support chewing, speech, and alignment for years, and decay can cause pain and infection.",
-    "Correct. Visible lesions need professional evaluation, and this child has no dental home yet.",
-    "Incorrect. Current guidance is a rice-sized smear of fluoride toothpaste from the first tooth."
+    "Incorrect. Diluting juice reduces sugar somewhat, but the teeth are still bathed in sugar overnight; the bedtime bottle should stop, and visible lesions still need a dentist.",
+    "Incorrect. Monitoring is reasonable for a low-risk child, but these teeth already show decay, and waiting lets it progress.",
+    "Correct. Visible caries in a child with no dentist require dental evaluation and an ongoing dental home, which should have started by age 1.",
+    "Incorrect. A smear of fluoride toothpaste twice daily is correct teaching, but it is incomplete because existing lesions need dental treatment."
    ],
-   "rationale": "Chalky white bands and brown spots at the gumline are signs of early childhood caries, and repeated bedtime exposure to juice is a major risk. Because lesions are already visible and the child has no dentist, the priority is a dental evaluation that also establishes a dental home, which should have happened by the first birthday. Teaching the parent to stop the bedtime bottle is essential too, but diluting juice is the tempting half-measure that still exposes the teeth to sugar. Water-only brushing reflects outdated advice.",
+   "rationale": "Chalky white bands and brown spots at the gumline are signs of early childhood caries, and repeated bedtime exposure to juice is a major risk. Because lesions are already visible and the child has no dentist, the priority is a dental evaluation that also establishes a dental home, which should have happened by the first birthday. Teaching the parent to stop the bedtime bottle and to brush with a smear of fluoride toothpaste is essential too, but home care cannot reverse decay that is already visible. Diluting juice is the tempting half-measure that still exposes the teeth to sugar, and waiting for the next visit lets the decay progress.",
    "takeaway": "Visible caries in a young child calls for dental evaluation and a dental home, plus removal of sugary bedtime bottles.",
    "hintContent": "Ask whether the teeth are only at risk or already show damage.",
    "hintStrategy": "When disease is already present, choose the option that gets it evaluated rather than one that only lowers future risk.",
@@ -272,7 +279,8 @@
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m7-x2-009",
@@ -338,7 +346,8 @@
       }
      }
     ]
-   }
+   },
+   "bestAnswer": true
   },
   {
    "id": "m7-x2-010",
@@ -348,15 +357,15 @@
    "options": [
     "Report the dryness and its timing to the provider for review.",
     "Tell the client to stop taking the oxybutynin until she sees the provider.",
-    "Reassure the client that a dry mouth is a normal part of aging.",
-    "Advise sucking on sweetened hard candy throughout the day."
+    "Suggest frequent sips of water and a saliva substitute.",
+    "Refer her to a dentist to check for decay from the dryness."
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. The dryness began after a drug with drying effects was started, so the provider should review the regimen.",
-    "Incorrect. The nurse should not independently discontinue a prescribed medication.",
-    "Incorrect. Dryness should be assessed for causes rather than assumed to be normal aging.",
-    "Incorrect. Frequent sugar exposure raises caries risk, especially when saliva is reduced."
+    "Correct. The dryness began soon after an anticholinergic drug was started, so the provider needs this information to review the medication.",
+    "Incorrect. Oxybutynin is a likely cause, but the nurse does not independently discontinue a prescribed medication.",
+    "Incorrect. Sips of water and saliva substitutes are good comfort measures, but they treat the symptom while the likely drug cause goes unreported.",
+    "Incorrect. Dry mouth raises decay risk, so dental follow-up is reasonable, but it does not address the medication causing the dryness."
    ],
    "rationale": "Dry mouth is not an inevitable part of aging, so the nurse looks for a cause. The timing is a strong cue: the dryness began shortly after oxybutynin, an anticholinergic drug known to reduce saliva, was started. The appropriate action is to report the finding and its timing to the provider for medication review while supporting safe moisture measures. Telling her to stop the drug is the tempting error because it seems to fix the cause, but the nurse does not discontinue a prescribed medication independently.",
    "takeaway": "Link new dry mouth to recently started drugs and report it for review; do not stop a prescribed medication independently.",
@@ -399,7 +408,8 @@
       }
      }
     ]
-   }
+   },
+   "bestAnswer": true
   },
   {
    "id": "m7-x2-011",
@@ -429,7 +439,8 @@
    "focus": "Pathophysiology",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m7-x2-012",
@@ -498,16 +509,16 @@
    "stem": "A 52-year-old client at a free community clinic has two broken teeth and has not seen a dentist in 6 years. She says, \"I can't afford it, and the only dental office I know of is two bus transfers away.\" Which response by the nurse is most appropriate?",
    "options": [
     "\"Your teeth affect your whole health, so dental care has to come first.\"",
-    "\"If you brush and floss well, you can put off seeing a dentist for now.\"",
-    "\"Many people put off the dentist, so try not to feel bad about it.\"",
+    "\"Using fluoride toothpaste will help protect your other teeth for now.\"",
+    "\"I can refer you to the dental office that you mentioned before.\"",
     "\"Let's look at low-cost dental clinics you could reach more easily.\""
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Lecturing about importance assumes she does not value care and ignores the barriers she named.",
-    "Incorrect. Broken teeth need dental evaluation; home care cannot repair them.",
-    "Incorrect. Reassurance does not address the access problem or the broken teeth.",
-    "Correct. The client named cost and transportation barriers, and connecting her with accessible services addresses them."
+    "Incorrect. Oral health does affect overall health, but this treats the issue as motivation when her barriers are cost and travel.",
+    "Incorrect. Fluoride toothpaste is good advice, but it cannot fix broken teeth and does not address her access barriers.",
+    "Incorrect. A referral is a step toward care, but this office is the one she cannot afford or easily reach, so she is unlikely to go.",
+    "Correct. She named cost and transportation, so connecting her with affordable, reachable services addresses the real barriers."
    ],
    "rationale": "When a client has not received dental care, the nurse assesses for resource barriers rather than assuming the client does not value oral health. This client has clearly identified cost and transportation, so the most helpful response connects her with services she can afford and reach, such as sliding-scale or community dental programs. The lecture about whole-body health is tempting because oral and systemic health are linked, but it overstates the problem and treats the issue as motivation when it is access.",
    "takeaway": "When cost or transportation blocks dental care, connect the client with accessible services rather than lecturing about importance.",
@@ -521,7 +532,8 @@
    "focus": "Lifespan & Diversity",
    "difficulty": 3,
    "clientNeed": "Psychosocial Integrity",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m7-x2-015",
@@ -551,7 +563,8 @@
    "focus": "Client Teaching",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m7-x2-016",
@@ -589,19 +602,19 @@
    "type": "mcq",
    "stem": "A 60-year-old client has been NPO with IV fluids for 3 days after bowel surgery. His lips are cracked and his tongue is coated with thick secretions. The unlicensed assistive personnel (UAP) says, \"He isn't eating anything, so he doesn't need mouth care.\" Which response by the nurse is most appropriate?",
    "options": [
-    "\"That's right. Focus on his IV site and output for now instead.\"",
-    "\"Let him rinse and swallow water whenever his mouth feels dry.\"",
+    "\"I'll take over his mouth care myself from now on, since he is NPO.\"",
+    "\"I'll ask the provider whether he can have some ice chips for his mouth.\"",
     "\"Clients who can't eat still need oral care; let's add it to his care.\"",
-    "\"Ask his family to bring in some lip balm the next time they come to visit him.\""
+    "\"Ask his family to bring in some lip balm the next time they come to visit.\""
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Agreeing leaves dry, coated tissues untreated and reinforces a misconception.",
-    "Incorrect. Swallowing water violates his NPO order.",
-    "Correct. Clients who are NPO lose the cleansing effect of eating and drinking, so they need regular oral care.",
-    "Incorrect. Lip balm alone does not clean the tongue or address oral hygiene, and it delays care."
+    "Incorrect. Taking over the task shows the care matters, but oral care for a stable NPO client is within the UAP's role, and the misconception goes uncorrected.",
+    "Incorrect. Ice chips may ease dryness if allowed, but they do not clean the coated tongue or correct the UAP's misunderstanding.",
+    "Correct. NPO clients still need oral care; the nurse corrects the misconception and makes regular oral care part of the plan.",
+    "Incorrect. Lip balm helps cracked lips, but it leaves the coated tongue and dry mucosa untreated and delays care."
    ],
-   "rationale": "Clients who cannot eat still need oral care. Without chewing, swallowing, and fluids, saliva and debris accumulate, the mucosa dries, and the tongue becomes coated, increasing discomfort and oral-health risk. The nurse corrects the UAP's misconception and makes sure oral care is part of the plan, with the frequency set by the client's needs. Letting him rinse and swallow is the tempting comfort measure, but it violates his NPO order.",
+   "rationale": "Clients who cannot eat still need oral care. Without chewing, swallowing, and fluids, saliva and debris accumulate, the mucosa dries, and the tongue becomes coated, increasing discomfort and oral-health risk. The nurse corrects the UAP's misconception and makes sure oral care is part of the plan, with the frequency set by the client's needs. Asking about ice chips or lip balm is tempting because each targets dryness, but neither cleans the mouth, and taking over the task leaves the UAP's misunderstanding in place.",
    "takeaway": "NPO status changes how oral care is done, not whether it is needed.",
    "hintContent": "Think about what eating and drinking normally do to keep the mouth clean.",
    "hintStrategy": "When a staff member states a misconception, choose the response that corrects it and keeps the client's care safe.",
@@ -611,7 +624,8 @@
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m7-x2-018",
@@ -875,18 +889,18 @@
    "stem": "At 0350, an unlicensed assistive personnel (UAP) tells the nurse, \"The man in room 12 finally fell asleep. I'll skip his 0400 vital signs so he can rest.\" The client is 1 day postoperative and is receiving opioid analgesia through a PCA pump. Which response by the nurse is best?",
    "options": [
     "\"Take his 0400 vital signs quietly, using only a dim light.\"",
-    "\"Skip them this once, since he has been stable all evening.\"",
-    "\"Wait and take them at 0600 when he wakes up for breakfast.\"",
+    "\"Watch his breathing from the doorway so you don't wake him.\"",
+    "\"Check only his oxygen saturation so the check is quicker.\"",
     "\"The PCA dose history will show us whether he is stable.\""
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Required monitoring continues, and quiet technique limits the disruption to his sleep.",
-    "Incorrect. Opioid PCA carries a risk of respiratory depression that can develop during sleep.",
-    "Incorrect. Delaying prescribed monitoring for 2 hours omits a required safety check.",
-    "Incorrect. A pump record shows doses given, not the client's breathing or vital signs."
+    "Correct. A client on PCA opioids needs scheduled monitoring during sleep, and quiet technique with dim light protects his rest.",
+    "Incorrect. Observing breathing is part of the check, but a glance from the doorway misses rate, depth, and other vital signs.",
+    "Incorrect. Pulse oximetry is useful, but saturation can stay normal early in respiratory depression, so rate and sedation level are needed.",
+    "Incorrect. The PCA history shows how much opioid he received, but not how he is responding to it."
    ],
-   "rationale": "Sleep promotion never replaces essential monitoring. A client receiving opioids by PCA can develop respiratory depression, and sleep is exactly when it may go unnoticed, so the 0400 vital signs must be done. The nurse protects rest by using quiet technique, minimal light, and clustering any other care at the same time. Skipping the check because he has been stable is the tempting answer, but stability earlier in the night does not rule out opioid-related changes later.",
+   "rationale": "Sleep promotion never replaces essential monitoring. A client receiving opioids by PCA can develop respiratory depression, and sleep is exactly when it may go unnoticed, so the 0400 vital signs must be done. The nurse protects rest by using quiet technique, minimal light, and clustering any other care at the same time. Watching from the doorway or checking only saturation is tempting because it avoids waking him, but a partial check can miss early opioid-related changes.",
    "takeaway": "Cluster and quiet required overnight monitoring, but never omit it to protect sleep.",
    "hintContent": "Consider what medication he is receiving and when its main risk tends to show up.",
    "hintStrategy": "When comfort conflicts with a prescribed safety check, choose the option that keeps the check and minimizes the disruption.",
@@ -896,7 +910,8 @@
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m7-x2-026",
@@ -957,7 +972,8 @@
       }
      }
     ]
-   }
+   },
+   "bestAnswer": true
   },
   {
    "id": "m7-x2-027",
@@ -965,17 +981,17 @@
    "type": "mcq",
    "stem": "At 2330, a client scheduled for a mastectomy in the morning calls the nurse and says, \"I can't fall asleep. Can I have something to knock me out?\" Her voice is shaky, and she is twisting the edge of the sheet. Which response should the nurse make first?",
    "options": [
-    "\"Everyone gets nervous before surgery. Try to relax.\"",
+    "\"I can call your surgeon to answer the questions you have.\"",
     "\"You seem worried tonight. What's on your mind?\"",
     "\"I'll check whether a sleeping pill is ordered for you.\"",
     "\"Turning off the TV and closing your eyes will help.\""
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. This minimizes her feelings and offers generic advice instead of assessment.",
-    "Correct. An open, observation-based response invites her to share the worry that appears to be keeping her awake.",
-    "Incorrect. Medication may be appropriate later, but the cause of her wakefulness has not been assessed.",
-    "Incorrect. Generic advice ignores the anxiety cues she is showing."
+    "Incorrect. Her surgeon may help later, but the nurse does not yet know what is worrying her, and a late-night call skips that assessment.",
+    "Correct. Naming her visible worry with an open-ended question helps the nurse assess the cause before choosing an intervention.",
+    "Incorrect. Medication may be appropriate later, but it is not the first response when cues point to anxiety that has not been explored.",
+    "Incorrect. A calm environment supports sleep, but it does not address the anxiety her shaky voice and restlessness suggest."
    ],
    "rationale": "Her shaky voice and twisting the sheet are cues that anxiety, not simply sleeplessness, is the problem. The nurse assesses the cause before choosing an intervention, and an open-ended response that names the observed emotion encourages her to talk. Checking for a sleeping pill is tempting because she asked for one and the request may be reasonable later, but medication is not the automatic first response to every sleep complaint. Addressing her worry may relieve the insomnia or clarify what else she needs.",
    "takeaway": "Assess the cause of sleeplessness, such as anxiety, before reaching for a sedative.",
@@ -987,7 +1003,8 @@
    "focus": "Nursing Interventions",
    "difficulty": 2,
    "clientNeed": "Psychosocial Integrity",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m7-x2-028",
@@ -1017,7 +1034,8 @@
    "focus": "Pathophysiology",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m7-x2-029",
@@ -1025,19 +1043,19 @@
    "type": "mcq",
    "stem": "An 84-year-old client received a first dose of a prescribed sedative-hypnotic at 2200. At 0230, the nurse finds the client confused, trying to climb over the bed rails, and pulling at the IV line. Which action should the nurse take first?",
    "options": [
-    "Give the second PRN dose so the client can settle back to sleep.",
+    "Call the provider right away to report the new confusion.",
     "Apply wrist restraints to protect the IV line from being removed.",
-    "Document the behavior and check on the client at the next round.",
+    "Ask the family to come in and stay with the client tonight.",
     "Stay with the client and assess orientation and vital signs."
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. More sedative may worsen confusion and raise fall and respiratory risk.",
-    "Incorrect. Restraints are a last resort and do not address the cause of the new confusion.",
-    "Incorrect. Leaving a confused client climbing out of bed risks an immediate fall.",
-    "Correct. The client is in immediate danger of falling, and new confusion after a sedative needs prompt assessment."
+    "Incorrect. The provider must be told, but leaving to call now leaves a confused client climbing over rails, and assessment data are needed for the report.",
+    "Incorrect. Restraints are a last resort; they can increase agitation and injury and do not address why the client became confused.",
+    "Incorrect. Family presence can calm a confused client, but it takes time to arrange and the fall risk is immediate.",
+    "Correct. Staying keeps the client safe from a fall right now while the nurse assesses for the cause of the new confusion."
    ],
-   "rationale": "New confusion after a sedative-hypnotic in an older adult is an adverse effect that requires prompt assessment, and the immediate danger is a fall from climbing over the rails. Staying with the client keeps the client safe while the nurse assesses orientation, vital signs, oxygen saturation, and other causes, then reports the change. Restraints are the tempting choice because the client is pulling at the IV, but they are a last resort, can increase agitation and injury, and do not address why the client became confused. A second dose would compound the problem.",
+   "rationale": "New confusion after a sedative-hypnotic in an older adult is an adverse effect that requires prompt assessment, and the immediate danger is a fall from climbing over the rails. Staying with the client keeps the client safe while the nurse assesses orientation, vital signs, oxygen saturation, and other causes, then reports the change. Restraints are the tempting choice because the client is pulling at the IV, but they are a last resort, can increase agitation and injury, and do not address why the client became confused. Calling the provider or the family is appropriate after the client is safe and assessed.",
    "takeaway": "New confusion after a sedative is an adverse effect: keep the client safe, assess, and report rather than sedate or restrain.",
    "hintContent": "Link the timing of the confusion to what happened at 2200.",
    "hintStrategy": "When a client is in immediate danger, choose the option that keeps the client safe while you assess; restraints and more medication are rarely first.",
@@ -1047,7 +1065,8 @@
    "focus": "Delegation & Safety",
    "difficulty": 3,
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m7-x2-030",
@@ -1056,18 +1075,18 @@
    "stem": "At 0300, a 57-year-old postoperative client asks for the PRN sedative-hypnotic prescribed for sleep. The client received IV hydromorphone at 0130. The client's respiratory rate is 10/min and SpO2 is 91% on room air; the client is drowsy but answers questions. Which action is most appropriate?",
    "options": [
     "Withhold the hypnotic, reassess breathing, and notify the provider.",
-    "Give the hypnotic, since the client is awake and able to answer questions.",
+    "Withhold the hypnotic and offer a back rub and a quiet room.",
     "Give half of the prescribed dose and then recheck the client in 1 hour.",
-    "Give the hypnotic once the SpO2 rises to at least 92% on room air."
+    "Apply oxygen, then give the hypnotic once the SpO2 reaches 95%."
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Slowed breathing and lower saturation after an opioid make additional sedation unsafe.",
-    "Incorrect. Being arousable does not offset a slowed respiratory rate after an opioid.",
-    "Incorrect. The nurse cannot change the prescribed dose, and any added sedation is unsafe now.",
-    "Incorrect. A small saturation change does not make combining sedatives with this breathing pattern safe."
+    "Correct. With RR 10/min and SpO2 91% after hydromorphone, the hypnotic would deepen respiratory depression; the nurse withholds it, monitors breathing, and reports.",
+    "Incorrect. Withholding the drug and offering comfort measures are right, but this skips close respiratory monitoring and reporting the depressed breathing.",
+    "Incorrect. A smaller dose still adds a CNS depressant to a client already showing opioid respiratory effects.",
+    "Incorrect. Oxygen may raise the SpO2, but it masks hypoventilation, and the low respiratory rate makes any sedative unsafe."
    ],
-   "rationale": "Before giving any sedating medication, the nurse checks respiratory status and other recent central nervous system depressants. A respiratory rate of 10/min and SpO2 of 91% after IV hydromorphone show the client is already experiencing opioid effects, and a sedative-hypnotic would add to the respiratory depression. The safe action is to withhold the hypnotic, monitor breathing closely, and report to the provider. Giving the drug because the client is answering questions is the tempting error, but arousability does not mean breathing is adequate.",
+   "rationale": "Before giving any sedating medication, the nurse checks respiratory status and other recent central nervous system depressants. A respiratory rate of 10/min and SpO2 of 91% after IV hydromorphone show the client is already experiencing opioid effects, and a sedative-hypnotic would add to the respiratory depression. The safe action is to withhold the hypnotic, monitor breathing closely, and report to the provider. Giving the drug once oxygen raises the saturation is the tempting error, because a better SpO2 can hide a slow respiratory rate. Comfort measures are helpful but do not replace monitoring and reporting.",
    "takeaway": "Assess respiratory status and recent opioids before any sedative; withhold sedation when breathing is already depressed.",
    "hintContent": "Consider what two sedating drugs together do to breathing.",
    "hintStrategy": "For PRN medication questions, check the assessment data that would make the drug unsafe before deciding to give it.",
@@ -1077,7 +1096,8 @@
    "focus": "Pharmacology",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m7-x2-031",
@@ -1107,7 +1127,8 @@
    "focus": "Assessment Findings",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m7-x2-032",
@@ -1116,16 +1137,16 @@
    "stem": "At 1300, an unlicensed assistive personnel (UAP) reports, \"Mrs. Lin is in a really deep sleep. I couldn't wake her for lunch, so I let her rest.\" Mrs. Lin has type 1 diabetes, received her rapid-acting insulin at breakfast, and was talkative at 1000. Which action should the nurse take first?",
    "options": [
     "Ask the UAP to try waking her again in about 30 minutes.",
-    "Keep her lunch tray warm so she can eat once she wakes up.",
+    "Ask the UAP to check her blood glucose with the meter.",
     "Go assess her responsiveness and blood glucose now.",
-    "Tell the UAP that afternoon rest is helpful for her healing."
+    "Have the UAP bring a glass of juice to her room now."
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Delaying assessment of a client who cannot be awakened is unsafe.",
-    "Incorrect. This assumes normal sleep and delays assessment of a potential emergency.",
-    "Correct. A newly unarousable client with diabetes on insulin needs immediate assessment for hypoglycemia and other causes.",
-    "Incorrect. Inability to arouse a client is not normal sleep and must be evaluated."
+    "Incorrect. Letting her rest sounds respectful, but a client who cannot be awakened needs assessment now, and waiting delays care.",
+    "Incorrect. Checking glucose is important, but a new decrease in responsiveness requires RN assessment, not delegation.",
+    "Correct. A client who was alert and received insulin but cannot be awakened may be hypoglycemic, so the nurse assesses her now.",
+    "Incorrect. Juice treats hypoglycemia in an alert client, but a client who cannot be awakened cannot safely swallow, and the cause is not yet confirmed."
    ],
    "rationale": "Normal sleep is reversible: a sleeping person can be awakened. A client who cannot be awakened, especially one who was alert 3 hours earlier and received insulin, may have hypoglycemia or another acute change. The nurse goes immediately to assess responsiveness, vital signs, and blood glucose. Asking the UAP to try again later is the tempting option because it seems respectful of rest, but it delays recognition of a possible emergency. A new reduction in responsiveness should never be explained away as deep sleep.",
    "takeaway": "A client who cannot be awakened is not simply sleeping; assess immediately for causes such as hypoglycemia.",
@@ -1137,7 +1158,8 @@
    "focus": "Delegation & Safety",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m7-x2-033",
@@ -1206,7 +1228,8 @@
       }
      }
     ]
-   }
+   },
+   "bestAnswer": true
   },
   {
    "id": "m7-x2-034",
@@ -1236,7 +1259,8 @@
    "focus": "Nursing Interventions",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m7-x2-035",
@@ -1276,17 +1300,17 @@
    "options": [
     "\"He should be sleeping through by now. Let's arrange a referral.\"",
     "\"Babies vary. Tell me about his feedings and bedtime routine.\"",
-    "\"Try adding cereal to his bottle so he stays full longer at night.\"",
-    "\"Keep him awake more during the day so he sleeps all night long.\""
+    "\"Start a set bedtime routine to help him sleep through tonight.\"",
+    "\"Lots of babies wake at this age, so try not to worry about it.\""
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Not every infant sleeps through the night by a particular age, and he is developing normally.",
-    "Correct. This normalizes individual variation while assessing feeding and routines that affect infant sleep.",
-    "Incorrect. Cereal in a bottle is not a recommended sleep strategy and can create feeding risks.",
-    "Incorrect. An overtired infant does not reliably sleep longer, and this ignores his routines."
+    "Incorrect. Referral responds to her worry, but this infant is growing well, and comparing him with another baby is not evidence of a problem.",
+    "Correct. The nurse acknowledges normal variation and assesses feeding and routines before suggesting changes.",
+    "Incorrect. A consistent routine is good advice, but offering it before learning his current routine skips assessment.",
+    "Incorrect. The reassurance is accurate, but it dismisses her concern and gathers no information about his sleep."
    ],
-   "rationale": "Infant sleep consolidates gradually, and there is wide normal variation; not every infant sleeps through the night by a particular month. Because this infant is growing and developing as expected, the nurse acknowledges normal variation and assesses feeding, routines, and caregiver expectations. The referral option is tempting because the mother is worried, but comparing one baby with another is not evidence of a problem. Cereal in the bottle and keeping the infant awake are common myths that do not improve sleep safely.",
+   "rationale": "Infant sleep consolidates gradually, and there is wide normal variation; not every infant sleeps through the night by a particular month. Because this infant is growing and developing as expected, the nurse acknowledges normal variation and assesses feeding, routines, and caregiver expectations. The referral option is tempting because the mother is worried, but comparing one baby with another is not evidence of a problem. Advising a bedtime routine or simply reassuring her may help, but each skips the assessment that guides individualized teaching.",
    "takeaway": "Infant sleep varies widely; assess feeding, routines, and expectations rather than comparing babies.",
    "hintContent": "Focus on the detail that he is growing and developing as expected.",
    "hintStrategy": "Choose the response that both addresses the parent's concern and gathers more assessment data.",
@@ -1296,7 +1320,8 @@
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m7-x2-037",
@@ -1335,18 +1360,18 @@
    "stem": "A 31-year-old paramedic recently switched to permanent night shifts and asks the nurse how to sleep better during the day. Which instruction should the nurse include?",
    "options": [
     "\"Darken your bedroom and sleep at the same time after each shift.\"",
-    "\"Have a large meal and a beer to help you wind down before bed.\"",
+    "\"Get some bright sunlight on your drive home to help you unwind.\"",
     "\"Drink coffee near the end of your shift to stay alert for driving.\"",
-    "\"Change your sleep times on days off to keep your body flexible.\""
+    "\"Switch back to night sleep on days off to rest with your family.\""
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Darkness and a consistent schedule support sleep that is out of step with daylight.",
-    "Incorrect. Alcohol disrupts later sleep, and a heavy meal before bed can interfere with rest.",
-    "Incorrect. Caffeine late in the shift promotes wakefulness when the client needs to sleep.",
-    "Incorrect. Irregular timing further misaligns the circadian rhythm."
+    "Correct. A dark bedroom and a consistent sleep period recreate night conditions and help the body adapt to day sleep.",
+    "Incorrect. Daylight is a healthy cue, but morning light signals daytime and makes sleeping afterward harder; sunglasses are advised.",
+    "Incorrect. Safe driving matters, but caffeine late in the shift can keep the client awake during the planned sleep period.",
+    "Incorrect. Family time matters, but flipping schedules on days off keeps the body clock from adjusting to night work."
    ],
-   "rationale": "Shift work misaligns sleep with the natural light-dark cycle, so the plan creates the conditions of night when the client sleeps. A dark, quiet bedroom and a consistent sleep period after each shift help the body adapt. Caffeine near the end of the shift is the tempting distractor because driving home safely matters, but caffeine taken then promotes wakefulness during the planned sleep period. Alcohol and irregular days off undermine sleep further.",
+   "rationale": "Shift work misaligns sleep with the natural light-dark cycle, so the plan creates the conditions of night when the client sleeps. A dark, quiet bedroom and a consistent sleep period after each shift help the body adapt. Caffeine near the end of the shift is the tempting distractor because driving home safely matters, but caffeine taken then promotes wakefulness during the planned sleep period. Bright morning light on the drive home and switching schedules on days off also undermine adaptation.",
    "takeaway": "For shift workers, create darkness and a consistent sleep period, and avoid caffeine and alcohol before sleep.",
    "hintContent": "Think about what cues tell the body it is time to sleep, regardless of the clock.",
    "hintStrategy": "For teaching items, eliminate any option that uses a substance to fix a sleep problem.",
@@ -1356,7 +1381,8 @@
    "focus": "Client Teaching",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m7-x2-039",
@@ -1364,19 +1390,19 @@
    "type": "mcq",
    "stem": "The parent of a 9-year-old says the child takes more than an hour to fall asleep and has become irritable at school. The child plays games on a tablet in bed until 2130 and drinks cola with dinner. Which recommendation by the nurse is most appropriate?",
    "options": [
-    "Let the child stay up until feeling sleepy, then go straight to bed.",
-    "Give an over-the-counter antihistamine at bedtime for several weeks.",
+    "Use the tablet's night mode while the child plays in bed.",
+    "Serve a caffeine-free drink with dinner instead of cola.",
     "Set a screen-free hour before bed and offer a caffeine-free drink.",
     "Allow a long nap after school to reduce the child's irritability."
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. This removes routine and does not address screens or caffeine.",
-    "Incorrect. Medication is not a first-line response and ignores the identified causes.",
-    "Correct. This targets the two identified barriers: evening screen use and caffeine.",
-    "Incorrect. Long afternoon naps can make it even harder to fall asleep at night."
+    "Incorrect. Night mode reduces blue light, but the stimulating game in bed right up to bedtime still delays sleep, and the caffeine is unaddressed.",
+    "Incorrect. Removing caffeine helps, but it addresses only one of the two barriers and leaves screen use in bed.",
+    "Correct. This targets both barriers: stimulating screen use right before bed and caffeine at dinner.",
+    "Incorrect. A nap may ease irritability, but it reduces sleep pressure at bedtime and can lengthen the delay in falling asleep."
    ],
-   "rationale": "For school-age children, assessment focuses on schedule, screens, caffeine, and school demands. This child has two clear barriers to falling asleep: stimulating screen use in bed right up to bedtime and caffeine from cola at dinner. The best recommendation targets both. A long nap after school is tempting because the child is irritable, but it reduces sleep pressure at bedtime and can worsen the delay in falling asleep. Medication should not be the first response.",
+   "rationale": "For school-age children, assessment focuses on schedule, screens, caffeine, and school demands. This child has two clear barriers to falling asleep: stimulating screen use in bed right up to bedtime and caffeine from cola at dinner. The best recommendation targets both. A long nap after school is tempting because the child is irritable, but it reduces sleep pressure at bedtime and can worsen the delay in falling asleep. Night mode or swapping the drink alone each fixes only part of the problem.",
    "takeaway": "Target the identified causes of a child's sleep delay, such as evening screens and caffeine.",
    "hintContent": "List the two habits in the stem that could keep a child awake.",
    "hintStrategy": "Choose the intervention that addresses the specific causes named in the stem.",
@@ -1386,7 +1412,8 @@
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m7-x2-040",
@@ -1416,7 +1443,8 @@
    "focus": "Assessment Findings",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m7-x2-041",
@@ -1425,16 +1453,16 @@
    "stem": "A 72-year-old Filipino client admitted with pneumonia tells the nurse that at home she always prays the rosary and drinks a cup of warm ginger tea before sleep. She has no fluid restriction and can swallow safely. Which action best supports her sleep?",
    "options": [
     "Build quiet prayer time and a warm ginger tea into her bedtime plan.",
-    "Explain that hospital routines will need to replace her home habits.",
+    "Offer warm milk at bedtime as a familiar, calming sleep aid.",
     "Offer a PRN sleep medication at 2100 to help set a new sleep schedule.",
     "Arrange for the chaplain to visit her in the morning instead of at night."
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Preserving familiar, safe bedtime rituals supports sleep and respects her beliefs.",
-    "Incorrect. Familiar routines should be preserved where safe, not replaced.",
-    "Incorrect. Medication is not the first response when a safe home routine exists.",
-    "Incorrect. A morning visit does not support the bedtime ritual that helps her sleep."
+    "Correct. Her prayer and ginger tea are safe, culturally meaningful sleep cues, and preserving them individualizes care.",
+    "Incorrect. A warm drink can help sleep, but warm milk is a generic choice; her own ritual of ginger tea and prayer is the stronger cue.",
+    "Incorrect. Medication is not the automatic first response, especially in an older adult with a safe, familiar routine available.",
+    "Incorrect. Spiritual support is valuable, but a morning visit does not preserve the bedtime prayer that cues her sleep."
    ],
    "rationale": "Familiar bedtime routines are powerful sleep cues, and preserving them when safe is a core nursing intervention. Her prayer and warm caffeine-free tea are culturally meaningful and safe, given no fluid restriction and safe swallowing. Offering a PRN sleep medication is the tempting option because it seems efficient, but medication is not the automatic first response, especially in an older adult. Asking what the client finds comforting individualizes the plan.",
    "takeaway": "Incorporate the client's safe, familiar bedtime rituals into the hospital sleep plan.",
@@ -1446,7 +1474,8 @@
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
    "clientNeed": "Psychosocial Integrity",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m7-x2-042",

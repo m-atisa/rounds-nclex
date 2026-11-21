@@ -32,7 +32,8 @@ window.NURSE_DATA.push({
       "cjmm": "Prioritize Hypotheses",
       "focus": "Prioritization",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-002",
@@ -98,7 +99,8 @@ window.NURSE_DATA.push({
             }
           }
         ]
-      }
+      },
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-003",
@@ -108,18 +110,18 @@ window.NURSE_DATA.push({
       "stem": "A client enrolled in an HMO calls the nurse advice line while visiting relatives 200 miles from home. The client reports crushing chest pressure and sweating and asks whether to drive home to an in-network hospital. Which instruction should the nurse give first?",
       "options": [
         "Call 911 now and go to the nearest emergency department",
-        "Drive back home so that the hospital visit stays within the plan's network",
-        "Call your primary care provider for a referral first",
-        "Take an aspirin and call back if the pain continues"
+        "Have a relative drive you to the nearest emergency department",
+        "Call your primary care provider for an ER referral first",
+        "Chew an aspirin now and call back if the pain continues"
       ],
       "answer": 0,
       "optionRationales": [
-        "Correct. Symptoms suggest acute coronary syndrome, and HMOs generally cover true emergencies out of network, so the client needs emergency care immediately.",
-        "Incorrect. A 200-mile drive delays treatment and could be fatal; network rules do not apply to emergencies.",
-        "Incorrect. Gatekeeper referrals apply to specialty care, not emergencies, and calling first delays treatment.",
-        "Incorrect. Waiting to see whether the pain continues delays emergency evaluation of a possible heart attack."
+        "Correct. Symptoms suggest acute coronary syndrome, and HMOs generally cover true emergencies out of network. EMS can begin treatment and monitoring on the way to the nearest hospital.",
+        "Incorrect. The nearest ED is the right destination, but a private car delays care, and no one can treat a dysrhythmia or arrest on the way.",
+        "Incorrect. Calling the primary provider respects the HMO gatekeeper, but referrals apply to specialty care, not emergencies, and the call delays treatment.",
+        "Incorrect. Aspirin is often part of early care for chest pain, but waiting to see whether the pain continues delays emergency evaluation of a possible heart attack."
       ],
-      "rationale": "HMOs use a restricted network and a primary care gatekeeper, but emergencies are generally covered out of network. Chest pressure with sweating may be a myocardial infarction, so physiological safety outranks any insurance rule. The referral option is tempting because HMO clients usually need gatekeeper approval, but that rule applies to specialist visits, not emergencies. The nurse directs the client to emergency services now; billing questions can be handled later.",
+      "rationale": "HMOs use a restricted network and a primary care gatekeeper, but emergencies are generally covered out of network. Chest pressure with sweating may be a myocardial infarction, so physiological safety outranks any insurance rule. The referral option is tempting because HMO clients usually need gatekeeper approval, but that rule applies to specialist visits, not emergencies. Driving to the nearest ED or taking aspirin and waiting are partial steps that delay EMS care. The nurse directs the client to emergency services now; billing questions can be handled later.",
       "takeaway": "Network rules never delay emergency care; HMOs generally cover true emergencies out of network.",
       "hintContent": "Do HMO referral rules apply to a possible heart attack?",
       "hintStrategy": "When a stem mixes insurance rules with a physical threat, address the physical threat first.",
@@ -128,7 +130,8 @@ window.NURSE_DATA.push({
       "cjmm": "Take Action",
       "focus": "Prioritization",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-004",
@@ -225,7 +228,8 @@ window.NURSE_DATA.push({
       "cjmm": "Generate Solutions",
       "focus": "Nursing Interventions",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-007",
@@ -255,7 +259,8 @@ window.NURSE_DATA.push({
       "cjmm": "Analyze Cues",
       "focus": "Delegation & Safety",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-008",
@@ -301,19 +306,19 @@ window.NURSE_DATA.push({
       "priority": true,
       "stem": "A client receiving a continuous heparin infusion for a deep vein thrombosis tells the nurse, “Unhook this IV for 20 minutes. I’m going outside to smoke, and it’s my right.” Which response by the nurse is best?",
       "options": [
-        "“You may go for 10 minutes if you promise to come straight back up to the unit afterward.”",
-        "“Hospital policy does not allow smoking, so I cannot discuss this request.”",
-        "“If you leave the unit, you will have to sign out against medical advice.”",
+        "“Pausing heparin could let the clot grow, so I can't unhook your IV right now.”",
+        "“I'll ask your provider about a nicotine patch to help with your cravings.”",
+        "“Smoking slows healing and harms your veins. Have you thought about quitting?”",
         "“Pausing heparin could let the clot grow. Would a nicotine patch ease the craving?”"
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. Interrupting a heparin infusion is unsafe; the nurse cannot take part in care that risks harm.",
-        "Incorrect. Citing policy shuts down the conversation and ignores the craving behind the request.",
-        "Incorrect. Threatening AMA status is coercive and skips exploring the reason for the request.",
-        "Correct. It explains the risk calmly and offers a safe alternative that meets the real need; the nurse can request nicotine replacement from the provider."
+        "Incorrect. Explaining the risk is accurate and the nurse should not stop the heparin, but this response ignores the craving behind the request, so the client may leave anyway.",
+        "Incorrect. Offering nicotine replacement meets the underlying need, but the client is not told why stopping heparin is dangerous, so the client cannot make an informed choice.",
+        "Incorrect. Smoking-cessation teaching is valid, but it is mistimed; it does not address the immediate risk of stopping heparin or the craving right now.",
+        "Correct. It explains the risk calmly and offers a safe alternative that meets the real need, combining what the other responses each do only in part. The nurse can request nicotine replacement from the provider."
       ],
-      "rationale": "Patient-focused care respects the client's wishes, but the nurse also owes nonmaleficence and never participates in unsafe care. The best response names the risk without judgment and offers a safe option, such as asking the provider for nicotine replacement, that meets the underlying need. Citing policy may seem acceptable because it is true, but it ignores the craving and invites the client to leave anyway. A competent adult can refuse treatment after an informed discussion, but threats and bargains are not therapeutic.",
+      "rationale": "Patient-focused care respects the client's wishes, but the nurse also owes nonmaleficence and never participates in unsafe care. The best response names the risk without judgment and offers a safe option, such as asking the provider for nicotine replacement, that meets the underlying need. Stating the risk alone ignores the craving, and offering a patch alone leaves the client uninformed about the danger. Cessation teaching is valuable but mistimed. A competent adult can refuse treatment after an informed discussion, but the nurse first explains the risk and offers a safe alternative.",
       "takeaway": "Honor the client's goal with a safe alternative; never join an unsafe request.",
       "hintContent": "What is driving the request, and is there a safe way to meet that need?",
       "hintStrategy": "Choose the response that explains the risk and offers an alternative; avoid threats, bargains, and policy-only answers.",
@@ -322,7 +327,8 @@ window.NURSE_DATA.push({
       "cjmm": "Generate Solutions",
       "focus": "Nursing Interventions",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-010",
@@ -390,7 +396,8 @@ window.NURSE_DATA.push({
       "cjmm": "Prioritize Hypotheses",
       "focus": "Delegation & Safety",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-012",
@@ -399,19 +406,19 @@ window.NURSE_DATA.push({
       "priority": true,
       "stem": "While walking down the hallway, an RN sees a UAP ambulating a client who had a hip arthroplasty yesterday. The client is not using the prescribed walker, is grimacing, and is gripping the handrail. Which action should the RN take first?",
       "options": [
-        "Report the UAP's unsafe ambulation practice to the nurse manager before the shift ends",
+        "Tell the UAP to stop and go get the client's walker from the room",
         "Step in now, help the client sit down, and bring the walker to the client",
         "Let the walk finish, then review walker use with the UAP in private",
-        "Complete an incident report describing the UAP's error in detail"
+        "Ask the client to rate the hip pain before the walk continues"
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. Reporting may follow, but it does not protect the client who is at risk right now.",
-        "Correct. The client is at immediate risk of falling, so the RN intervenes to make the situation safe.",
-        "Incorrect. Private feedback is appropriate later, but waiting leaves the client at risk of falling.",
-        "Incorrect. Paperwork does not address the immediate danger to the client."
+        "Incorrect. Stopping the walk and getting the walker is the right idea, but sending the UAP away leaves an unsteady client standing without support.",
+        "Correct. The client is at immediate risk of falling, so the RN intervenes directly to make the situation safe; feedback to the UAP follows.",
+        "Incorrect. Private feedback is appropriate later, but waiting leaves the client at risk of falling now.",
+        "Incorrect. Pain assessment is needed, but assessing while the client stands unsupported delays making the situation safe."
       ],
-      "rationale": "Supervision and evaluation is the fifth right of delegation, and when a delegated task becomes unsafe, the RN intervenes immediately to protect the client. Helping the client sit and providing the walker prevents a fall now; feedback to the UAP follows. Private feedback after the walk is tempting because correcting staff privately is good practice, but waiting leaves the client at risk. Reporting to the manager and filing paperwork are not priorities while the client is in danger.",
+      "rationale": "Supervision and evaluation is the fifth right of delegation, and when a delegated task becomes unsafe, the RN intervenes immediately to protect the client. Helping the client sit and providing the walker prevents a fall now; feedback to the UAP follows. Private feedback after the walk is tempting because correcting staff privately is good practice, but waiting leaves the client at risk. Sending the UAP for the walker leaves the client unsupported, and assessing pain can wait until the client is seated safely.",
       "takeaway": "When a delegated task turns unsafe, protect the client first and coach the UAP afterward.",
       "hintContent": "Is the client at risk of harm right now?",
       "hintStrategy": "Safety before paperwork: choose the action that removes the immediate danger.",
@@ -420,7 +427,8 @@ window.NURSE_DATA.push({
       "cjmm": "Take Action",
       "focus": "Delegation & Safety",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-013",
@@ -517,7 +525,8 @@ window.NURSE_DATA.push({
       "cjmm": "Generate Solutions",
       "focus": "Delegation & Safety",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-016",
@@ -547,7 +556,8 @@ window.NURSE_DATA.push({
       "cjmm": "Evaluate Outcomes",
       "focus": "Nursing Interventions",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-017",
@@ -559,16 +569,16 @@ window.NURSE_DATA.push({
         "“Switch to thickened liquids and keep feeding him very slowly.”",
         "“Check his oxygen level now and call me back in 15 minutes.”",
         "“Stop the meal, keep him upright, and stay with him until I get there.”",
-        "“Finish the meal first, and then I will put in a request for a swallow study.”"
+        "“Stop the meal now, and I will ask the provider for a swallow study.”"
       ],
       "answer": 2,
       "optionRationales": [
-        "Incorrect. Changing diet consistency requires assessment and a prescription, and feeding should not continue.",
-        "Incorrect. Delaying RN assessment leaves a possible aspiration unaddressed.",
-        "Correct. Coughing and a wet voice suggest aspiration; stopping intake and protecting the airway come first, followed by RN assessment.",
-        "Incorrect. Continuing to feed exposes the airway to more aspiration."
+        "Incorrect. Thickened liquids are a common aspiration intervention, but changing diet consistency requires assessment and a prescription, and feeding should not continue.",
+        "Incorrect. Checking oxygen saturation is useful data, but feeding may continue and RN assessment is delayed while a possible aspiration goes unaddressed.",
+        "Correct. Coughing and a wet voice suggest aspiration; stopping intake, protecting the airway, and staying with the client come first, followed by RN assessment.",
+        "Incorrect. Stopping the meal is right and a swallow study may follow, but the RN must assess the client first, and the client is left without airway protection."
       ],
-      "rationale": "Coughing and a wet voice during intake are cues of aspiration, so the client is no longer stable for a delegated feeding. The RN stops oral intake, keeps the client upright to protect the airway, and assesses personally. Thickened liquids are tempting because they are a common aspiration intervention, but changing diet consistency requires assessment and a prescription. Delaying for a callback or finishing the meal exposes the airway to more risk.",
+      "rationale": "Coughing and a wet voice during intake are cues of aspiration, so the client is no longer stable for a delegated feeding. The RN stops oral intake, keeps the client upright to protect the airway, and assesses personally. Thickened liquids are tempting because they are a common aspiration intervention, but changing diet consistency requires assessment and a prescription. Delaying for a callback or requesting a swallow study before the RN has assessed the client puts the steps in the wrong order.",
       "takeaway": "Signs of aspiration end a delegated feeding until the RN assesses the client.",
       "hintContent": "What do coughing and a wet voice during meals suggest about the airway?",
       "hintStrategy": "When an airway risk appears during a delegated task, stop the task and get the RN to the bedside.",
@@ -577,7 +587,8 @@ window.NURSE_DATA.push({
       "cjmm": "Take Action",
       "focus": "Delegation & Safety",
       "difficulty": 2,
-      "clientNeed": "Physiological Integrity: Reduction of Risk Potential"
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-018",
@@ -607,7 +618,8 @@ window.NURSE_DATA.push({
       "cjmm": "Take Action",
       "focus": "Delegation & Safety",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-019",
@@ -703,7 +715,8 @@ window.NURSE_DATA.push({
             }
           }
         ]
-      }
+      },
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-021",
@@ -749,19 +762,19 @@ window.NURSE_DATA.push({
       "priority": false,
       "stem": "A client with low back pain tells the clinic nurse, “My insurance won’t approve another MRI because I had one 3 weeks ago at urgent care. Why would they care?” Which response by the nurse is most accurate?",
       "options": [
-        "“Most imaging gets denied, so plan to pay for this MRI out of pocket.”",
+        "“Plans avoid repeat tests that would not change your treatment.”",
         "“Plans avoid repeat tests. I'll ask your provider to get the last results.”",
-        "“The insurance company has already decided that your back pain is not serious.”",
-        "“Go to the emergency room, where imaging does not need plan approval.”"
+        "“I'll ask your provider to appeal the denial with your insurance plan.”",
+        "“Bring a copy of the urgent care MRI report to your next visit.”"
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. This is inaccurate and skips coordination that could make a repeat unnecessary.",
-        "Correct. Avoiding redundant testing is a managed care goal, and the nurse coordinates access to prior results.",
-        "Incorrect. The denial reflects a recent duplicate test, not a judgment about the client's pain.",
-        "Incorrect. Using the ED to bypass review is costly and inappropriate."
+        "Incorrect. This accurately explains the managed care goal, but it stops there and does nothing to get the earlier results to the provider.",
+        "Correct. It explains that managed care avoids redundant testing and coordinates access to prior results, so the provider can decide whether a new study is needed.",
+        "Incorrect. An appeal may be needed later, but the recent MRI may answer the question, and the client's question about why goes unanswered.",
+        "Incorrect. Getting the prior report is useful, but this shifts coordination to the client and does not explain the denial."
       ],
-      "rationale": "A goal of managed care is to lower cost by eliminating redundancy, such as repeated tests that would not change treatment. The nurse explains this and coordinates getting the earlier results to the provider, who can decide whether a new study is truly needed. Telling the client to self-pay is tempting because it seems practical, but it skips coordination and may cost the client unnecessarily. Using the emergency department to bypass review is costly and inappropriate.",
+      "rationale": "A goal of managed care is to lower cost by eliminating redundancy, such as repeated tests that would not change treatment. The nurse explains this and coordinates getting the earlier results to the provider, who can decide whether a new study is truly needed. Explaining the rule alone is accurate but incomplete. Appealing the denial is tempting because it seems to advocate for the client, but it skips the earlier results that may make a repeat unnecessary, and asking the client to bring the report shifts the nurse's coordination role to the client.",
       "takeaway": "Managed care cuts waste by avoiding repeat tests; the nurse coordinates access to prior results.",
       "hintContent": "Which goal of managed care does a denied repeat test reflect?",
       "hintStrategy": "Choose the answer that is accurate and also moves care forward.",
@@ -770,7 +783,8 @@ window.NURSE_DATA.push({
       "cjmm": "Analyze Cues",
       "focus": "Client Teaching",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-023",
@@ -782,16 +796,16 @@ window.NURSE_DATA.push({
         "Talk the UAP through the meter's steps by phone during the check",
         "Do the glucose check personally and arrange meter training for the UAP",
         "Ask a different UAP to show the first UAP how the new meter works",
-        "Reassure the UAP that the meter is simple and that proceeding is fine"
+        "Have the UAP read the new meter's manual before doing the check"
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. Coaching by phone still sends an untrained person to do the task.",
+        "Incorrect. Guidance is supportive, but coaching by phone still sends an untrained person to do the task.",
         "Correct. The right-person criterion is not met, so the RN performs the task and arranges training for future delegation.",
-        "Incorrect. Informal peer coaching is not validated competence.",
-        "Incorrect. Reassurance does not replace training and competence validation."
+        "Incorrect. Peers often teach each other, but informal peer coaching is not validated competence.",
+        "Incorrect. Reading the manual builds knowledge, but it does not replace formal training and competence validation."
       ],
-      "rationale": "Right person means the delegatee has the training and demonstrated competence for the task. Because the UAP has not been trained on the new device, the RN performs the check and arranges proper training so the task can be delegated later. Having a coworker demonstrate is tempting because peers often teach each other, but informal coaching is not validated competence. Talking the UAP through it or offering reassurance still sends an untrained person to do the task.",
+      "rationale": "Right person means the delegatee has the training and demonstrated competence for the task. Because the UAP has not been trained on the new device, the RN performs the check and arranges proper training so the task can be delegated later. Having a coworker demonstrate is tempting because peers often teach each other, but informal coaching is not validated competence. Talking the UAP through it or having the UAP read the manual still sends an untrained person to do the task.",
       "takeaway": "If the delegatee is not trained on the task, the RN does it and arranges training.",
       "hintContent": "Which right of delegation is missing here?",
       "hintStrategy": "Run the five rights; if any one fails, do not delegate.",
@@ -800,7 +814,8 @@ window.NURSE_DATA.push({
       "cjmm": "Take Action",
       "focus": "Delegation & Safety",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-024",
@@ -906,7 +921,8 @@ window.NURSE_DATA.push({
       "cjmm": "Take Action",
       "focus": "Delegation & Safety",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-026",
@@ -917,17 +933,17 @@ window.NURSE_DATA.push({
       "options": [
         "“Thanks for telling me. I'll assess him and decide about the metoprolol.”",
         "“Yes, tell him to skip it today, and I'll document that it was held.”",
-        "“A pulse of 52 is normal for him, so go ahead and let him take it as usual.”",
-        "“Recheck his pulse in an hour and give him the metoprolol if it is higher.”"
+        "“Please recheck his apical pulse now, and tell me the new number.”",
+        "“Thanks. I'll call his provider now to ask about holding the metoprolol.”"
       ],
       "answer": 0,
       "optionRationales": [
-        "Correct. The RN acknowledges the report, assesses, and makes the medication decision.",
+        "Correct. The RN acknowledges the report, assesses the client, and makes the medication decision, notifying the provider if the dose is held.",
         "Incorrect. Holding may be correct, but the decision requires RN assessment and cannot be relayed through a UAP.",
-        "Incorrect. Declaring the finding normal without assessment is unsafe, and UAP do not manage medications.",
-        "Incorrect. UAP cannot administer medications or make dosing decisions."
+        "Incorrect. A UAP may recheck a pulse, but the RN still needs to assess the client personally before deciding about the medication.",
+        "Incorrect. The provider may need to be called, but the RN should assess first so the report includes complete data."
       ],
-      "rationale": "UAP collect and report data, but interpreting a finding and making a medication decision are nursing judgment. The RN thanks the UAP, assesses the client, and decides whether to hold the beta blocker and notify the provider. Telling the client to skip the dose is tempting because holding metoprolol for a low pulse is often correct, but the RN must make that decision after assessment. Declaring the pulse fine without assessing, or having a UAP give medication, are both unsafe.",
+      "rationale": "UAP collect and report data, but interpreting a finding and making a medication decision are nursing judgment. The RN thanks the UAP, assesses the client, and decides whether to hold the beta blocker and notify the provider. Telling the client to skip the dose is tempting because holding metoprolol for a low pulse is often correct, but the RN must make that decision after assessment. A repeat pulse by the UAP is only data, and calling the provider before assessing gives an incomplete report.",
       "takeaway": "UAP report the number; the RN interprets it and makes the medication decision.",
       "hintContent": "Who interprets data and decides about medications?",
       "hintStrategy": "Even when a proposed action might be clinically right, ask whether the right person is making the decision.",
@@ -936,7 +952,8 @@ window.NURSE_DATA.push({
       "cjmm": "Analyze Cues",
       "focus": "Pharmacology",
       "difficulty": 2,
-      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies"
+      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-027",
@@ -985,14 +1002,14 @@ window.NURSE_DATA.push({
         "Better continuity of care because each RN knows more of the clients",
         "No change in outcomes as long as UAP hours on the unit stay the same as before",
         "More complications, missed assessments, and deaths among surgical clients",
-        "Lower total costs because complications are unrelated to staffing"
+        "Lower unit costs because salary savings outweigh any added complications"
       ],
       "answer": 2,
       "optionRationales": [
-        "Incorrect. Caring for more clients spreads attention thinner rather than improving continuity.",
-        "Incorrect. UAP cannot perform the assessments that catch deterioration.",
-        "Correct. Higher RN workloads are linked to more adverse events and higher mortality.",
-        "Incorrect. Complications rise with understaffing and often erase salary savings."
+        "Incorrect. Each RN may know more clients, but caring for more clients spreads attention thinner rather than improving continuity.",
+        "Incorrect. Keeping UAP hours seems like a safeguard, but UAP cannot perform the assessments that catch deterioration.",
+        "Correct. Higher RN workloads are linked to more adverse events, failure to rescue, and higher mortality.",
+        "Incorrect. Salaries would drop, but complications rise with understaffing and often erase those savings."
       ],
       "rationale": "Both the number of nurses and their education affect morbidity, mortality, and cost. Higher client loads lead to more missed assessments, errors, falls, and failure to rescue. Keeping UAP hours constant is tempting as a safeguard, but UAP cannot perform the assessments and judgments that catch deterioration. Complications that follow understaffing often cancel out the salary savings.",
       "takeaway": "Fewer RN hours per client means more complications and deaths, not just lower salary costs.",
@@ -1003,7 +1020,8 @@ window.NURSE_DATA.push({
       "cjmm": "Analyze Cues",
       "focus": "Delegation & Safety",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-029",
@@ -1068,7 +1086,8 @@ window.NURSE_DATA.push({
       "cjmm": "Recognize Cues",
       "focus": "Prioritization",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-031",
@@ -1078,18 +1097,18 @@ window.NURSE_DATA.push({
       "stem": "On postoperative day 1 after a colectomy, the critical pathway calls for walking in the hallway. As the nurse helps the client dangle, the client becomes pale and dizzy. Pulse is 118/min and BP is 90/56 mm Hg; yesterday's readings were 84/min and 128/76 mm Hg. Which action should the nurse take first?",
       "options": [
         "Return the client to bed and assess the incision, drains, and vital signs",
-        "Encourage a short walk to the doorway so the pathway goal is still met",
-        "Document the variance and plan to try walking again tomorrow morning",
+        "Keep the client sitting up and recheck vital signs in 15 minutes",
+        "Call the provider about the vital signs before moving the client",
         "Ask the case manager to move the expected discharge date back a day"
       ],
       "answer": 0,
       "optionRationales": [
         "Correct. New tachycardia and hypotension may signal bleeding, so the nurse makes the client safe and gathers data before notifying the provider.",
-        "Incorrect. A pathway goal never overrides physiological instability, and walking risks a fall.",
-        "Incorrect. Documentation alone ignores a possibly life-threatening cause.",
-        "Incorrect. Changing the plan does not address the client's immediate instability."
+        "Incorrect. Rechecking vital signs is reasonable, but a dizzy, hypotensive client should be lying down now, and waiting 15 minutes delays assessment of possible bleeding.",
+        "Incorrect. The provider must be notified, but the client should be made safe first, and the call needs assessment data on the incision and drains.",
+        "Incorrect. The discharge date may change, but adjusting the plan does not address the client's immediate instability."
       ],
-      "rationale": "A variance is any departure from the pathway, and the bedside nurse's first job is to keep the client safe and assess the cause. New tachycardia and hypotension after abdominal surgery suggest bleeding or hypovolemia, so the client returns to bed and is assessed, and the provider is notified per the pathway. Pushing toward the walking goal is tempting because pathways emphasize early ambulation, but a pathway never overrides instability. Documenting or changing the discharge date skips assessment of a possibly serious cause.",
+      "rationale": "A variance is any departure from the pathway, and the bedside nurse's first job is to keep the client safe and assess the cause. New tachycardia and hypotension after abdominal surgery suggest bleeding or hypovolemia, so the client returns to bed and is assessed, and the provider is notified per the pathway. Keeping the client upright to recheck later is tempting, but a dizzy, hypotensive client needs to lie down and be assessed now. Calling before the client is safe and assessed gives an incomplete report, and changing the discharge date skips assessment of a possibly serious cause.",
       "takeaway": "For a variance with unstable vital signs, make the client safe and assess before anything else.",
       "hintContent": "What could new tachycardia and low blood pressure mean on postoperative day 1?",
       "hintStrategy": "Assess before acting on paperwork; a pathway goal never outranks instability.",
@@ -1098,7 +1117,8 @@ window.NURSE_DATA.push({
       "cjmm": "Take Action",
       "focus": "Assessment Findings",
       "difficulty": 2,
-      "clientNeed": "Physiological Integrity: Reduction of Risk Potential"
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-032",
@@ -1128,7 +1148,8 @@ window.NURSE_DATA.push({
       "cjmm": "Recognize Cues",
       "focus": "Assessment Findings",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-033",
@@ -1140,14 +1161,14 @@ window.NURSE_DATA.push({
         "Apply the standard pathway unchanged so care stays consistent for all clients",
         "Adjust the pathway's time frames and interventions to fit this client's needs",
         "Remove the client from the pathway and let each discipline plan separately",
-        "Plan the discharge for day 2, since pathway time frames cannot change"
+        "Plan a rehab facility discharge now, since dementia will slow her progress"
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. Rigid use ignores the client's needs and sets up variances and an unsafe discharge.",
-        "Correct. Pathways are individualized for comorbidities such as dementia.",
-        "Incorrect. Abandoning the pathway loses its coordinated, evidence-based structure.",
-        "Incorrect. Pathways are not rigid orders; time frames can be adjusted."
+        "Incorrect. Pathways do promote consistency, but rigid use ignores the client's needs and sets up variances and an unsafe discharge.",
+        "Correct. Pathways are individualized for comorbidities such as dementia, which prevents predictable variances.",
+        "Incorrect. Individual planning addresses needs, but abandoning the pathway loses its coordinated, evidence-based structure.",
+        "Incorrect. Rehab may end up being needed, but deciding before surgery presumes the outcome instead of planning for her needs and assessing her progress and home supports."
       ],
       "rationale": "Critical pathways are standardized plans for predictable conditions, but they are not rigid orders; the case manager individualizes them for comorbidities such as dementia or COPD. This client may need delirium precautions, caregiver teaching, and more time to learn walker use. Applying the pathway unchanged is tempting because pathways promote consistency, but it sets the client up for variances and an unsafe discharge. Abandoning the pathway loses its coordinated structure.",
       "takeaway": "Pathways are a starting map; the case manager adjusts them for each client's comorbidities.",
@@ -1158,7 +1179,8 @@ window.NURSE_DATA.push({
       "cjmm": "Generate Solutions",
       "focus": "Nursing Interventions",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-034",
@@ -1239,17 +1261,17 @@ window.NURSE_DATA.push({
       "options": [
         "Reassure the daughter that home health visits will fill the gap",
         "Notify the case manager today so the discharge plan can be revised",
-        "Proceed with the discharge, since the daughter's surgery is next week",
+        "Ask the provider to cancel tomorrow's discharge until a plan is set",
         "Document the call and let the day shift address it at discharge"
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. Intermittent visits do not replace a caregiver, and the nurse cannot promise services.",
-        "Correct. A change in discharge plans requires revising the plan right away.",
-        "Incorrect. Proceeding ignores that the planned caregiver will be unavailable.",
-        "Incorrect. Waiting until discharge day leaves too little time to arrange a safe option."
+        "Incorrect. Home health may be part of the plan, but intermittent visits do not replace a caregiver, and the nurse cannot promise services.",
+        "Correct. A change in discharge plans requires revising the plan right away, and the case manager coordinates new options such as rehabilitation.",
+        "Incorrect. The provider should be informed, but canceling is premature; the case manager may arrange a safe placement in time for tomorrow.",
+        "Incorrect. Documenting the call is necessary, but waiting until discharge day leaves too little time to arrange a safe option."
       ],
-      "rationale": "A change in clinical condition or in discharge plans means the plan must be revised right away. Losing the planned caregiver changes where and how the client can safely go, so the nurse notifies the case manager now, allowing time to arrange options such as rehabilitation or more services. Reassuring the daughter about home health is tempting, but intermittent visits do not replace daily help, and the nurse cannot promise services. Proceeding or waiting until discharge day risks an unsafe transition.",
+      "rationale": "A change in clinical condition or in discharge plans means the plan must be revised right away. Losing the planned caregiver changes where and how the client can safely go, so the nurse notifies the case manager now, allowing time to arrange options such as rehabilitation or more services. Reassuring the daughter about home health is tempting, but intermittent visits do not replace daily help, and the nurse cannot promise services. Canceling the discharge is premature, and waiting until discharge day risks an unsafe transition.",
       "takeaway": "A caregiver who can no longer help is a change in discharge plans that requires immediate revision.",
       "hintContent": "Does the planned discharge still match the support available at home?",
       "hintStrategy": "Choose the option that acts on the change now rather than on discharge day.",
@@ -1258,7 +1280,8 @@ window.NURSE_DATA.push({
       "cjmm": "Take Action",
       "focus": "Prioritization",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-036",
@@ -1304,19 +1327,19 @@ window.NURSE_DATA.push({
       "priority": true,
       "stem": "On postoperative day 1 after a total hip arthroplasty, a client refuses scheduled physical therapy and rates pain 7/10. Vital signs are stable. The last oral oxycodone was given 6 hours ago, and it is prescribed every 4 hours as needed. Which action should the nurse take first?",
       "options": [
-        "Tell the client that refusing therapy will delay going home",
+        "Explain how early therapy helps prevent clots and stiff joints",
         "Record the variance and let physical therapy try again the next morning",
         "Ask the case manager to extend the client's length of stay",
         "Give the prescribed oxycodone and retry therapy after reassessing"
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. This is coercive and ignores the cause of the refusal.",
-        "Incorrect. Documenting alone leaves the treatable cause unaddressed.",
-        "Incorrect. Changing the plan comes before treating an obvious, fixable cause.",
-        "Correct. Uncontrolled pain is a treatable bedside cause of the variance, so the nurse treats it and retries."
+        "Incorrect. Teaching the benefits of early mobility is accurate, but it does not remove the pain that is keeping the client from therapy.",
+        "Incorrect. The variance must be documented, but documenting alone leaves the treatable cause unaddressed and loses a day of therapy.",
+        "Incorrect. The case manager may be involved if the goal stays unmet, but changing the plan comes before treating an obvious, fixable cause.",
+        "Correct. Uncontrolled pain is a treatable bedside cause of the variance, so the nurse treats it, reassesses, and retries therapy."
       ],
-      "rationale": "When a client falls off the pathway, the bedside nurse first looks for a cause that can be fixed at the bedside. Uncontrolled pain with an available PRN analgesic is a treatable barrier, so the nurse medicates, reassesses, and coordinates a later therapy session, notifying per the pathway if the goal is still unmet. Asking the case manager to extend the stay is tempting because it addresses the variance, but it changes the plan before treating the cause. Warning the client is coercive, and simply documenting ignores the barrier.",
+      "rationale": "When a client falls off the pathway, the bedside nurse first looks for a cause that can be fixed at the bedside. Uncontrolled pain with an available PRN analgesic is a treatable barrier, so the nurse medicates, reassesses, and coordinates a later therapy session, notifying per the pathway if the goal is still unmet. Asking the case manager to extend the stay is tempting because it addresses the variance, but it changes the plan before treating the cause. Teaching the benefits of therapy does not relieve the pain, and simply documenting ignores the barrier.",
       "takeaway": "For a pathway variance, fix a treatable bedside cause before escalating or changing the plan.",
       "hintContent": "Is there a cause of the variance the nurse can treat right now?",
       "hintStrategy": "Ask, 'Can I fix the cause at the bedside?' before choosing documentation or escalation.",
@@ -1325,7 +1348,8 @@ window.NURSE_DATA.push({
       "cjmm": "Take Action",
       "focus": "Pharmacology",
       "difficulty": 2,
-      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies"
+      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-038",
@@ -1336,15 +1360,15 @@ window.NURSE_DATA.push({
       "options": [
         "Hold a family meeting on the client's goals, hospice, and advance directives",
         "Follow the son's wishes, because he will be the main caregiver at home after discharge",
-        "Wait to discuss the client's wishes until the next hospital admission",
-        "Refer the client to a long-term acute care facility to keep options open"
+        "Arrange home hospice now and tell the son it is the client's decision",
+        "Ask the palliative care team to talk with the son about his fears"
       ],
       "answer": 0,
       "optionRationales": [
-        "Correct. This honors the capable client's wishes while helping the son understand and voice his concerns.",
-        "Incorrect. A capable client directs their own care; the son's role does not override autonomy.",
-        "Incorrect. Delaying the conversation risks care the client has said they do not want.",
-        "Incorrect. Facility care contradicts the client's clear wish to stay home."
+        "Correct. This honors the capable client's wishes, addresses hospice and advance directives, and helps the son understand and voice his concerns.",
+        "Incorrect. The son's caregiving role matters, but a capable client directs their own care, and his wishes do not override autonomy.",
+        "Incorrect. Hospice fits the client's goals, but acting without engaging the son leaves the conflict unresolved and the wishes undocumented.",
+        "Incorrect. Palliative care support helps, but it addresses only the son and leaves out the client's goals and advance directives."
       ],
       "rationale": "A client with capacity directs their own care, and case management at end of life includes hospice, palliative care, and advance directives that honor wishes such as dying at home. A family meeting lets the son hear the client's goals while the case manager addresses his fears. Following the son's wishes is tempting because he will provide care, but it overrides the client's autonomy. In North Carolina, choices can be documented with a Health Care Power of Attorney, a Declaration of a Desire for a Natural Death, and the MOST form.",
       "takeaway": "At end of life, the case manager builds the plan around the capable client's own wishes.",
@@ -1355,7 +1379,8 @@ window.NURSE_DATA.push({
       "cjmm": "Generate Solutions",
       "focus": "Lifespan & Diversity",
       "difficulty": 2,
-      "clientNeed": "Psychosocial Integrity"
+      "clientNeed": "Psychosocial Integrity",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-039",
@@ -1400,18 +1425,18 @@ window.NURSE_DATA.push({
       "stem": "A 16-year-old comes alone to a North Carolina health department clinic at about 10 weeks of pregnancy and asks to start prenatal care. She says her parents do not know yet. A staff member says nothing can be done until a parent signs. Which action by the nurse case manager is best?",
       "options": [
         "Delay care until a parent or legal guardian can be reached to sign the consent form",
-        "Refer her to a clinic that will see minors only with a court order",
+        "Start prenatal care only after she agrees to tell her parents",
         "Begin prenatal intake with the teen's own consent and link her to services",
-        "Tell her prenatal care cannot start until she turns 18 years old"
+        "Have the social worker decide who must consent before care begins"
       ],
       "answer": 2,
       "optionRationales": [
-        "Incorrect. Pregnancy care is an exception to parental consent, and delay harms mother and fetus.",
-        "Incorrect. No court order is needed for a minor to consent to pregnancy care.",
+        "Incorrect. Minors usually need parental consent, but pregnancy care is a legal exception, and delay harms mother and fetus.",
+        "Incorrect. Encouraging family support is reasonable, but making care depend on telling her parents adds a condition the law does not require and may drive her away.",
         "Correct. A minor may consent to pregnancy care, and early prenatal care is a key goal for at-risk pregnancies.",
-        "Incorrect. This is false and would leave her without prenatal care."
+        "Incorrect. Social work can be a helpful resource, but the consent question is settled by law, and waiting for a decision delays care."
       ],
-      "rationale": "North Carolina law (G.S. 90-21.5) allows a minor to consent to services for the prevention, diagnosis, and treatment of pregnancy, and early prenatal care is a key case management goal for at-risk pregnant clients. The nurse begins care and connects the teen to services such as nutrition support and community programs. Waiting for a parent is tempting because minors usually need parental consent, but pregnancy care is a legal exception, and delay harms mother and fetus. Requiring a court order or waiting until age 18 has no basis.",
+      "rationale": "North Carolina law (G.S. 90-21.5) allows a minor to consent to services for the prevention, diagnosis, and treatment of pregnancy, and early prenatal care is a key case management goal for at-risk pregnant clients. The nurse begins care and connects the teen to services such as nutrition support and community programs. Waiting for a parent is tempting because minors usually need parental consent, but pregnancy care is a legal exception, and delay harms mother and fetus. Requiring her to tell her parents first or waiting for a social work decision adds barriers the law does not require.",
       "takeaway": "A minor may consent to pregnancy care, so early prenatal care should not wait for a parent.",
       "hintContent": "Is pregnancy care one of the exceptions to parental consent for minors?",
       "hintStrategy": "When a delay would harm the client and a legal exception exists, choose the option that starts care.",
@@ -1420,7 +1445,8 @@ window.NURSE_DATA.push({
       "cjmm": "Take Action",
       "focus": "Lifespan & Diversity",
       "difficulty": 3,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-041",
@@ -1430,18 +1456,18 @@ window.NURSE_DATA.push({
       "stem": "A case manager follows a 5-year-old with spastic cerebral palsy who is about to start kindergarten. Which plan best reflects case management for a lifelong condition?",
       "options": [
         "Close the case now that the child's early intervention therapy goals have been met",
-        "Arrange surgery to correct the cerebral palsy before school starts",
+        "Coordinate the move to kindergarten, then close the case once settled",
         "Coordinate school accommodations and ongoing therapies through childhood",
-        "Transfer the child to adult services because needs are now stable"
+        "Schedule a yearly clinic review of the child's therapy needs"
       ],
       "answer": 2,
       "optionRationales": [
-        "Incorrect. Needs continue and change; starting school is a new transition.",
-        "Incorrect. Cerebral palsy is not surgically curable.",
-        "Correct. Lifelong conditions need long-term supports, including school accommodations.",
-        "Incorrect. A 5-year-old is not ready for adult services, and needs are ongoing."
+        "Incorrect. Meeting early goals is real progress, but needs continue and change; starting school is a new transition.",
+        "Incorrect. Coordinating the school transition is needed, but closing the case afterward treats a lifelong condition as time-limited.",
+        "Correct. Lifelong conditions need long-term supports, including school accommodations and ongoing therapies.",
+        "Incorrect. Periodic review helps monitor needs, but it does not coordinate school accommodations or ongoing services."
       ],
-      "rationale": "Correctable conditions, such as cleft lip, need coordination of surgeries and rehabilitation until goals are met, but lifelong conditions such as cerebral palsy need long-term supports, including school accommodations and therapies, throughout childhood. Starting school is a transition that requires new coordination. Closing the case is tempting because early goals were met, but the child's needs will continue and change. Cerebral palsy is not surgically curable, and a 5-year-old is not ready for adult services.",
+      "rationale": "Correctable conditions, such as cleft lip, need coordination of surgeries and rehabilitation until goals are met, but lifelong conditions such as cerebral palsy need long-term supports, including school accommodations and therapies, throughout childhood. Starting school is a transition that requires new coordination. Closing the case is tempting because early goals were met, but the child's needs will continue and change. Coordinating only the kindergarten move or reviewing needs once a year does not provide the ongoing coordination a lifelong condition requires.",
       "takeaway": "Lifelong conditions need long-term coordination, including school supports, not case closure.",
       "hintContent": "Is cerebral palsy a correctable or a lifelong condition?",
       "hintStrategy": "Distinguish correctable from lifelong disabilities; the plan's time horizon follows from that.",
@@ -1450,7 +1476,8 @@ window.NURSE_DATA.push({
       "cjmm": "Generate Solutions",
       "focus": "Lifespan & Diversity",
       "difficulty": 2,
-      "clientNeed": "Health Promotion and Maintenance"
+      "clientNeed": "Health Promotion and Maintenance",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-042",
@@ -1460,18 +1487,18 @@ window.NURSE_DATA.push({
       "stem": "During a home visit, a case manager finds a 45-year-old client with an intellectual disability locked in a bedroom by a roommate who manages the client's disability check. The refrigerator is nearly empty, and the client has lost 6 kg since the last visit. The client is alert with stable vital signs. Which action should the case manager take first?",
       "options": [
         "Report the suspected neglect and exploitation to adult protective services today",
-        "Return to gather more evidence at the next two monthly visits",
-        "Ask the roommate to sign a written agreement to improve the client's care",
-        "Bring groceries today and check whether the weight improves next month"
+        "Document the findings and recheck the client at the next monthly home visit",
+        "Bring groceries today and check whether the client's weight improves next month",
+        "Call the client's provider to schedule a visit to evaluate the weight loss"
       ],
       "answer": 0,
       "optionRationales": [
         "Correct. Suspected neglect of a disabled adult must be reported to protective services (in North Carolina, the county DSS director) without waiting for proof.",
-        "Incorrect. Waiting for proof leaves the client in an unsafe situation.",
-        "Incorrect. Negotiating with the suspected abuser does not protect the client.",
-        "Incorrect. Food meets one need but leaves the client without protection."
+        "Incorrect. Documentation is needed, but waiting a month leaves the client in an unsafe situation.",
+        "Incorrect. Food meets an immediate need but leaves the client without protection.",
+        "Incorrect. The weight loss needs medical evaluation, but this does not protect the client from the caregiver's neglect and exploitation."
       ],
-      "rationale": "Any person with reasonable cause to believe a disabled adult needs protective services must report it; in North Carolina, the report goes to the county department of social services director (G.S. 108A-102), and good-faith reporters are immune. Being locked in a room, weight loss, and a caregiver controlling the client's money are cues of neglect and financial exploitation. Bringing groceries is tempting because it meets an immediate need, but it leaves the client in an unsafe situation without protection. The case manager reports suspicion and does not wait for proof.",
+      "rationale": "Any person with reasonable cause to believe a disabled adult needs protective services must report it; in North Carolina, the report goes to the county department of social services director (G.S. 108A-102), and good-faith reporters are immune. Being locked in a room, weight loss, and a caregiver controlling the client's money are cues of neglect and financial exploitation. Bringing groceries or arranging a medical visit is tempting because each meets a real need, but neither protects the client. The case manager reports suspicion and does not wait for proof.",
       "takeaway": "Suspected neglect or exploitation of a vulnerable adult is reported to protective services without waiting for proof.",
       "hintContent": "Is the case manager required to prove neglect before reporting?",
       "hintStrategy": "When neglect is suspected and the client is physically stable, reporting is the priority action.",
@@ -1480,7 +1507,8 @@ window.NURSE_DATA.push({
       "cjmm": "Take Action",
       "focus": "Delegation & Safety",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-043",
@@ -1525,18 +1553,18 @@ window.NURSE_DATA.push({
       "stem": "A 70-year-old client with heart failure tells the case manager, “On clinic days I skip my water pill. I ride the bus for an hour, and there’s no bathroom.” Which response by the case manager is best?",
       "options": [
         "“You need to take it every morning, even on the days you ride the bus.”",
-        "“Take an extra pill the day after clinic to make up for the missed dose.”",
-        "“Drink less fluid on clinic days, and the skipped dose won't matter much.”",
+        "“Let's see if a medical ride service can get you to clinic faster.”",
+        "“Weigh yourself daily so we can see how the skipped doses affect you.”",
         "“Let's ask your provider if you can take it once you're home on clinic days.”"
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. Insisting ignores the real barrier, so the client will likely keep skipping.",
-        "Incorrect. Doubling a diuretic dose without a prescriber risks dehydration and electrolyte loss.",
-        "Incorrect. Skipping the diuretic still risks fluid overload; this approves an unsafe change.",
+        "Incorrect. Adherence matters, but insisting ignores the real barrier, so the client will likely keep skipping.",
+        "Incorrect. Transportation help addresses the barrier, but a shorter ride may still lack a bathroom and may not be available.",
+        "Incorrect. Daily weights are good heart failure monitoring, but this accepts the skipped doses instead of solving the problem.",
         "Correct. This keeps the therapy and solves the client's practical barrier with the prescriber."
       ],
-      "rationale": "Case managers look for practical barriers behind nonadherence and solve them with the client and the provider. Asking the provider about adjusting diuretic timing on clinic days keeps the therapy and removes the barrier. Insisting on the morning dose is tempting because adherence matters, but it ignores the real problem. Doubling the next dose or restricting fluids are unsafe changes made without the prescriber.",
+      "rationale": "Case managers look for practical barriers behind nonadherence and solve them with the client and the provider. Asking the provider about adjusting diuretic timing on clinic days keeps the therapy and removes the barrier. Insisting on the morning dose is tempting because adherence matters, but it ignores the real problem. A ride service may not solve the bathroom problem, and monitoring weights accepts the missed doses rather than preventing them.",
       "takeaway": "Solve the practical barrier behind nonadherence with the prescriber; never change the dose on your own.",
       "hintContent": "Why is the client skipping the medication, and who can change the timing?",
       "hintStrategy": "Choose the response that addresses the client's stated reason and involves the prescriber.",
@@ -1545,7 +1573,8 @@ window.NURSE_DATA.push({
       "cjmm": "Generate Solutions",
       "focus": "Pharmacology",
       "difficulty": 2,
-      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies"
+      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-045",
@@ -1591,17 +1620,17 @@ window.NURSE_DATA.push({
       "options": [
         "Walk the client in the hall so the discharge goal is still met today",
         "Keep the client in bed and notify the provider of the calf findings",
-        "Apply a warm pack and gently massage the calf to relieve the pain",
-        "Ask the case manager to continue the discharge plan as scheduled"
+        "Elevate the leg and apply a warm pack, then recheck in an hour",
+        "Measure both calves and document the findings in the chart"
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. Once a clot is suspected, activity waits for provider direction.",
+        "Incorrect. Early ambulation helps prevent VTE, but once a clot is suspected, activity waits for provider direction.",
         "Correct. These findings suggest DVT; the nurse keeps the client safe and notifies the provider for testing and treatment.",
-        "Incorrect. Massaging the calf could dislodge a clot.",
-        "Incorrect. Continuing the discharge ignores a new, potentially serious complication."
+        "Incorrect. Elevation and warmth may be ordered once DVT is confirmed, but treating before notifying the provider delays diagnosis.",
+        "Incorrect. Measuring calves adds useful data, but documenting without notifying the provider delays testing for a possible DVT."
       ],
-      "rationale": "New unilateral calf pain, swelling, warmth, and firmness after knee arthroplasty suggest deep vein thrombosis, a client variance that can lead to pulmonary embolism. The bedside nurse keeps the client safe and notifies the provider per the pathway so diagnostic testing and treatment can start. Walking to meet the discharge goal is tempting because early ambulation helps prevent VTE, but once a clot is suspected, activity waits for provider direction. Massaging the calf could dislodge a clot.",
+      "rationale": "New unilateral calf pain, swelling, warmth, and firmness after knee arthroplasty suggest deep vein thrombosis, a client variance that can lead to pulmonary embolism. The bedside nurse keeps the client safe and notifies the provider per the pathway so diagnostic testing and treatment can start. Walking to meet the discharge goal is tempting because early ambulation helps prevent VTE, but once a clot is suspected, activity waits for provider direction. Comfort measures or measuring and documenting without notifying the provider delay diagnosis.",
       "takeaway": "A suspected complication overrides the pathway timeline; keep the client safe and notify the provider.",
       "hintContent": "What complication do these calf findings suggest after joint replacement?",
       "hintStrategy": "Pathway goals never outrank a new, potentially life-threatening finding.",
@@ -1610,7 +1639,8 @@ window.NURSE_DATA.push({
       "cjmm": "Recognize Cues",
       "focus": "Assessment Findings",
       "difficulty": 2,
-      "clientNeed": "Physiological Integrity: Reduction of Risk Potential"
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-047",
@@ -1649,19 +1679,19 @@ window.NURSE_DATA.push({
       "priority": true,
       "stem": "A 27-year-old client who is 14 weeks pregnant tells the maternity case manager, “I use pain pills I buy on the street, and I want to stop for my baby.” Which action by the case manager is best?",
       "options": [
-        "Advise her to stop taking the pills on her own starting today",
-        "Tell her that drug use in pregnancy must be reported to police",
-        "Wait to refer her until she has stopped using the pills on her own",
+        "Refer her to a detox program to taper off the pills safely",
+        "Praise her decision and ask who can support her at home",
+        "Schedule a routine prenatal visit and give her a hotline number",
         "Refer her to prenatal care linked with an opioid treatment program"
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. Abrupt, unsupervised withdrawal is dangerous in pregnancy and offers no support.",
-        "Incorrect. Threats damage trust and are not the case manager's role.",
-        "Incorrect. Delaying the referral and expecting her to quit alone increases risk to the client and fetus.",
-        "Correct. Coordinated prenatal care with medication treatment for opioid use disorder is the safe standard."
+        "Incorrect. A supervised taper sounds safer than stopping abruptly, but it carries a high risk of relapse and overdose; medication treatment for opioid use disorder is the standard in pregnancy.",
+        "Incorrect. Affirming her goal and assessing support are supportive steps, but they do not connect her to the treatment she needs now.",
+        "Incorrect. Prenatal care is needed, but a hotline number alone does not provide coordinated opioid treatment.",
+        "Correct. Coordinated prenatal care with medication treatment for opioid use disorder protects the client and fetus and addresses both needs at once."
       ],
-      "rationale": "Substance use is a major risk for pregnant clients, and case managers connect them early to prenatal care and community services. For opioid use disorder in pregnancy, medication treatment within a coordinated program is the standard, because abrupt withdrawal can harm the fetus and leads to relapse. Telling her to stop on her own is tempting because it matches her goal, but unsupervised withdrawal is dangerous. Threatening police involvement damages trust, and delaying care increases risk.",
+      "rationale": "Substance use is a major risk for pregnant clients, and case managers connect them early to prenatal care and community services. For opioid use disorder in pregnancy, medication treatment within a coordinated program is the standard, because withdrawal, even a supervised taper, often leads to relapse and overdose, which endangers both client and fetus. A detox referral is tempting because it matches her goal of stopping, but it is not the recommended treatment. Praise and support or a prenatal visit with a hotline number help, but neither provides coordinated treatment.",
       "takeaway": "Link a pregnant client with substance use to prenatal care and treatment early, without judgment.",
       "hintContent": "What are the risks of abrupt opioid withdrawal during pregnancy?",
       "hintStrategy": "Choose the response that supports the client's goal with safe, coordinated services.",
@@ -1670,7 +1700,8 @@ window.NURSE_DATA.push({
       "cjmm": "Generate Solutions",
       "focus": "Lifespan & Diversity",
       "difficulty": 3,
-      "clientNeed": "Health Promotion and Maintenance"
+      "clientNeed": "Health Promotion and Maintenance",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-049",
@@ -1774,7 +1805,8 @@ window.NURSE_DATA.push({
             }
           }
         ]
-      }
+      },
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-051",
@@ -1783,19 +1815,19 @@ window.NURSE_DATA.push({
       "priority": false,
       "stem": "During a private interview, a 79-year-old client who uses a walker tells the case manager, “My son hits me when I won’t sign over my checks. Please don’t tell anyone. He’s all I have.” Which response by the case manager is best?",
       "options": [
-        "“I'll keep this between us so your son doesn't get angry with you.”",
-        "“What do you think makes your son so frustrated with you lately?”",
+        "“It sounds like you're afraid of losing your son if you tell someone.”",
+        "“Let's make a safety plan for what to do if your son hits you again.”",
         "“I care about your safety, and I have to report this so you can get help.”",
-        "“Let's wait and see whether this happens again before we do anything about it.”"
+        "“I'll ask your provider to examine you for any injuries before you go.”"
       ],
       "answer": 2,
       "optionRationales": [
-        "Incorrect. The nurse cannot promise secrecy when there is a duty to report abuse.",
-        "Incorrect. This shifts blame to the client and does not address her safety.",
-        "Correct. This is honest and empathetic and explains the duty to report suspected abuse.",
-        "Incorrect. Waiting allows further harm and ignores the reporting duty."
+        "Incorrect. Reflecting her fear is therapeutic, but it does not meet the legal duty to report suspected abuse and exploitation.",
+        "Incorrect. Safety planning is useful, but it accepts that abuse will continue and does not involve adult protective services.",
+        "Correct. The nurse responds with empathy and honesty, explains the duty to report, and focuses on the client's safety.",
+        "Incorrect. Assessing for injuries is appropriate, but it does not address the reporting duty or the ongoing financial exploitation."
       ],
-      "rationale": "Suspected abuse and financial exploitation of a dependent older adult must be reported to adult protective services; in North Carolina, any person with reasonable cause reports to the county DSS director. The nurse responds honestly and with empathy, explaining the duty to report and focusing on the client's safety. Promising secrecy is tempting because it honors the client's request, but the nurse cannot keep a promise that violates a reporting duty and leaves the client in danger. Exploring the son's frustration shifts blame to the client.",
+      "rationale": "Suspected abuse and financial exploitation of a dependent older adult must be reported to adult protective services; in North Carolina, any person with reasonable cause reports to the county DSS director. The nurse responds honestly and with empathy, explaining the duty to report and focusing on the client's safety. Reflecting her fear is tempting because it is therapeutic, but the nurse cannot promise secrecy or delay a required report. Safety planning and an injury exam are helpful parts of care, but neither replaces reporting.",
       "takeaway": "Never promise to keep abuse secret; explain the duty to report with empathy.",
       "hintContent": "Can the nurse promise confidentiality when abuse is disclosed?",
       "hintStrategy": "In communication items about abuse, choose honesty plus safety over secrecy.",
@@ -1804,7 +1836,8 @@ window.NURSE_DATA.push({
       "cjmm": "Take Action",
       "focus": "Lifespan & Diversity",
       "difficulty": 2,
-      "clientNeed": "Psychosocial Integrity"
+      "clientNeed": "Psychosocial Integrity",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-052",
@@ -1813,19 +1846,19 @@ window.NURSE_DATA.push({
       "priority": false,
       "stem": "A case manager is planning diabetes care for a 63-year-old Vietnamese-speaking client with limited English. In the client's family, major decisions are usually made together. Which action is most appropriate?",
       "options": [
-        "Have her 12-year-old grandson interpret during the planning meeting",
+        "Use a professional interpreter and plan with the client's whole family",
         "Make the plan with the client alone to protect her personal autonomy",
         "Ask the client, through a professional interpreter, whom she wants included",
-        "Give her English-language handouts and ask the family to translate them later"
+        "Give handouts in Vietnamese and review them with her adult daughter"
       ],
       "answer": 2,
       "optionRationales": [
-        "Incorrect. Child interpreters risk errors and violate privacy.",
-        "Incorrect. This ignores her stated preference for shared family decisions.",
-        "Correct. An interpreter ensures accuracy, and the client decides how her family takes part.",
-        "Incorrect. Relying on family translation risks errors and is not culturally aligned planning."
+        "Incorrect. A professional interpreter is right, but including the whole family assumes her preference instead of asking her.",
+        "Incorrect. Protecting autonomy matters, but planning alone ignores her stated cultural preference for shared decisions.",
+        "Correct. A professional interpreter ensures accuracy, and asking whom to include respects both her autonomy and her family's role.",
+        "Incorrect. Translated materials help, but reviewing them with the daughter skips an interpreter and assumes who she wants involved."
       ],
-      "rationale": "Culturally aligned planning identifies how the client prefers to make decisions and communicates in the client's language. A professional interpreter ensures accuracy, and asking the client whom to include respects both her autonomy and her family's role. Planning with the client alone may seem to protect autonomy, but it ignores her preference for shared decisions. Using a child interpreter or relying on family to translate risks errors and violates privacy.",
+      "rationale": "Culturally aligned planning identifies how the client prefers to make decisions and communicates in the client's language. A professional interpreter ensures accuracy, and asking the client whom to include respects both her autonomy and her family's role. Planning with the client alone may seem to protect autonomy, but it ignores her preference for shared decisions. Planning with the whole family or with one relative assumes her wishes instead of asking, and relying on family to communicate risks errors and violates privacy.",
       "takeaway": "Use a professional interpreter and let the client decide who joins care decisions.",
       "hintContent": "Who should decide how the family participates?",
       "hintStrategy": "Pick the option that uses a qualified interpreter and lets the client set the terms.",
@@ -1834,7 +1867,8 @@ window.NURSE_DATA.push({
       "cjmm": "Generate Solutions",
       "focus": "Lifespan & Diversity",
       "difficulty": 2,
-      "clientNeed": "Psychosocial Integrity"
+      "clientNeed": "Psychosocial Integrity",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-053",
@@ -1883,17 +1917,17 @@ window.NURSE_DATA.push({
       "options": [
         "Ask the client to describe how medicines and diet are managed at home",
         "Request that the provider increase the client's daily diuretic dose",
-        "Arrange more frequent ED visits to monitor weight and symptoms",
-        "Remind the client to follow the discharge plan more carefully this time"
+        "Arrange a home health referral for daily weights after discharge",
+        "Reteach the low-sodium diet and fluid limits before discharge"
       ],
       "answer": 0,
       "optionRationales": [
-        "Correct. Holistic assessment uncovers the practical barriers behind repeated readmissions.",
-        "Incorrect. The cause may be missed doses rather than an inadequate dose; assessment comes first.",
-        "Incorrect. ED visits are costly and reactive and do not address the cause.",
-        "Incorrect. A reminder blames the client without finding the barrier."
+        "Correct. Assessing home management first uncovers the barrier, such as cost, confusion, or caregiver limits, that keeps causing readmission.",
+        "Incorrect. Fluid overload is the presenting problem, but the cause may be missed doses rather than an inadequate dose.",
+        "Incorrect. Home health may help, but arranging it before assessing the barrier may not fix why the plan keeps failing.",
+        "Incorrect. Teaching may be needed, but reteaching before assessing assumes knowledge is the problem."
       ],
-      "rationale": "Repeated readmissions signal practical barriers, such as cost, transportation, confusing instructions, or caregiver limits, that only holistic assessment uncovers. Asking the client to describe home management reveals why the plan keeps failing. Requesting a higher diuretic dose is tempting because fluid overload is the presenting problem, but the cause may be missed doses rather than an inadequate dose. ED visits are costly and reactive, and reminders blame the client without finding the barrier.",
+      "rationale": "Repeated readmissions signal practical barriers, such as cost, transportation, confusing instructions, or caregiver limits, that only holistic assessment uncovers. Asking the client to describe home management reveals why the plan keeps failing. Requesting a higher diuretic dose is tempting because fluid overload is the presenting problem, but the cause may be missed doses rather than an inadequate dose. Home health referrals and reteaching may be useful later, but choosing them before assessing may miss the real barrier.",
       "takeaway": "Behind repeat readmissions are barriers; assess the client's home routine before planning.",
       "hintContent": "What does the case manager not yet know about why the plan failed?",
       "hintStrategy": "When the cause is unknown, choose the assessment option before any intervention.",
@@ -1902,7 +1936,8 @@ window.NURSE_DATA.push({
       "cjmm": "Recognize Cues",
       "focus": "Assessment Findings",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-055",
@@ -1911,19 +1946,19 @@ window.NURSE_DATA.push({
       "priority": false,
       "stem": "A hospital discharge planner is preparing a client with newly diagnosed atrial fibrillation for discharge. The client's primary care office is a patient-centered medical home (PCMH). Which action best supports the transition of care?",
       "options": [
-        "Tell the client to call the primary care office sometime next month",
-        "Advise the client to return to the ED if any new symptoms develop",
+        "Tell the client to call the primary care office to book a visit",
+        "Teach the client the signs of bleeding and stroke to report promptly",
         "Give the client a copy of the discharge summary to keep at home",
         "Send the discharge summary to the PCMH and book a visit within 7 days"
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. A vague, late follow-up leaves the new diagnosis and medications unmonitored.",
-        "Incorrect. ED-based follow-up is reactive and costly and does not coordinate ongoing care.",
-        "Incorrect. A client copy is helpful but relies on the client to carry the information.",
-        "Correct. Direct communication plus early follow-up closes the information gap between settings."
+        "Incorrect. Follow-up with primary care is right, but leaving scheduling to the client risks a delayed or missed visit.",
+        "Incorrect. Teaching warning signs is important, but it does not transfer information to the primary care team.",
+        "Incorrect. Clients should have their records, but this relies on the client to carry the information.",
+        "Correct. Sending the summary directly and booking early follow-up lets the PCMH manage new medicines promptly."
       ],
-      "rationale": "Information is often lost during transitions of care, and the PCMH serves as the client's home base for ongoing care with a personal plan. Sending the discharge summary directly to the PCMH and scheduling follow-up within 7 days lets the primary care team manage new medications, such as anticoagulants, promptly. Giving the client a copy is tempting because clients should have their records, but it relies on the client to carry the information. A vague call next month or ED-based follow-up leaves gaps.",
+      "rationale": "Information is often lost during transitions of care, and the PCMH serves as the client's home base for ongoing care with a personal plan. Sending the discharge summary directly to the PCMH and scheduling follow-up within 7 days lets the primary care team manage new medications, such as anticoagulants, promptly. Giving the client a copy is tempting because clients should have their records, but it relies on the client to carry the information. Asking the client to call or teaching warning signs alone leaves gaps in the handoff.",
       "takeaway": "A safe transition sends information directly to the next provider and books early follow-up.",
       "hintContent": "Who will coordinate the client's ongoing care after discharge?",
       "hintStrategy": "Choose the option that closes the information loop between settings.",
@@ -1932,7 +1967,8 @@ window.NURSE_DATA.push({
       "cjmm": "Take Action",
       "focus": "Nursing Interventions",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-056",
@@ -1943,17 +1979,17 @@ window.NURSE_DATA.push({
       "options": [
         "On postoperative day 2, once the client's level of mobility is known",
         "At admission, so equipment and home needs can be found early",
-        "On the morning of discharge, to confirm transportation home",
-        "Only if a variance from the pathway delays the discharge"
+        "When the physical therapist first recommends home equipment",
+        "Once the surgeon sets a planned discharge date for the client"
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. Waiting delays planning; early plans can be adjusted as mobility becomes clear.",
-        "Correct. Involvement from admission is the first essential element of a successful program.",
-        "Incorrect. Discharge-day involvement finds needs too late and causes delays.",
-        "Incorrect. Waiting for a problem misses predictable needs such as stairs and living alone."
+        "Incorrect. Mobility helps refine the plan, but this client's risks are known now, and waiting causes delays.",
+        "Correct. Involvement at admission lets the case manager anticipate stairs and living alone and arrange services in time.",
+        "Incorrect. Equipment is one need, but waiting for a therapy recommendation delays planning for home services or rehabilitation.",
+        "Incorrect. A discharge date guides timing, but planning should begin well before one is set."
       ],
-      "rationale": "A qualified case manager involved from admission is the first essential element of a successful program. This client's risks, living alone with stairs after hip surgery, can be anticipated immediately, allowing time to arrange equipment, home services, or rehabilitation. Waiting until mobility is known is tempting because the outcome seems uncertain, but early planning can be adjusted, while late planning causes delays. Discharge-day involvement or involvement only after a variance leads to unsafe or delayed transitions.",
+      "rationale": "A qualified case manager involved from admission is the first essential element of a successful program. This client's risks, living alone with stairs after hip surgery, can be anticipated immediately, allowing time to arrange equipment, home services, or rehabilitation. Waiting until mobility is known is tempting because the outcome seems uncertain, but early planning can be adjusted, while late planning causes delays. Waiting for a therapy recommendation or a set discharge date also leaves too little time.",
       "takeaway": "The case manager starts at admission, not on discharge day.",
       "hintContent": "When are home and equipment needs best identified?",
       "hintStrategy": "Think of air-traffic control: the coordinator is in place before takeoff.",
@@ -1962,7 +1998,8 @@ window.NURSE_DATA.push({
       "cjmm": "Prioritize Hypotheses",
       "focus": "Prioritization",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-057",
@@ -2041,17 +2078,17 @@ window.NURSE_DATA.push({
       "options": [
         "Refer the client to social work for help with an insulin assistance program",
         "Check the client's blood glucose and ask about nausea and vomiting",
-        "Teach the client to skip meals on days when insulin runs short",
-        "Ask the provider to switch the client to an oral diabetes drug"
+        "Teach the client the warning signs of DKA and when to seek care",
+        "Ask the provider about switching to a lower-cost human insulin"
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. A referral will be needed, but it does not address possible acute danger now.",
-        "Correct. Rationing insulin with thirst and flushing may signal hyperglycemia or DKA, so physical assessment comes first.",
-        "Incorrect. Skipping meals is unsafe and does not prevent ketoacidosis in type 1 diabetes.",
-        "Incorrect. Oral agents cannot replace insulin in type 1 diabetes."
+        "Incorrect. Cost is the stated problem and a referral will be needed, but it does not address possible acute danger.",
+        "Correct. Thirst and flushing during insulin rationing may signal hyperglycemia or DKA, so assessment determines urgency first.",
+        "Incorrect. Teaching DKA signs is useful, but the client may already have them, so assessment comes first.",
+        "Incorrect. A lower-cost insulin may solve the cost barrier later, but it does not assess current symptoms."
       ],
-      "rationale": "A cost barrier must be addressed, but a client with type 1 diabetes who is rationing insulin and has increased thirst and flushing may be developing hyperglycemia or diabetic ketoacidosis, so physical assessment comes first. Checking glucose and screening for symptoms of ketoacidosis determines how urgent the situation is. Social work referral is tempting because cost is the stated problem, and it will be needed, but it does not address possible acute danger. Skipping meals is unsafe, and oral agents cannot replace insulin in type 1 diabetes.",
+      "rationale": "A cost barrier must be addressed, but a client with type 1 diabetes who is rationing insulin and has increased thirst and flushing may be developing hyperglycemia or diabetic ketoacidosis, so physical assessment comes first. Checking glucose and screening for symptoms of ketoacidosis determines how urgent the situation is. Social work referral is tempting because cost is the stated problem, and it will be needed, but it does not address possible acute danger. Teaching DKA signs or asking about a cheaper insulin are useful next steps, not first steps.",
       "takeaway": "When cost leads to rationing, assess for physical danger first, then address the cost barrier.",
       "hintContent": "What complication can develop when a client with type 1 diabetes cuts insulin doses?",
       "hintStrategy": "When a cost problem and a physical risk appear together, address the physical risk first.",
@@ -2060,7 +2097,8 @@ window.NURSE_DATA.push({
       "cjmm": "Recognize Cues",
       "focus": "Prioritization",
       "difficulty": 2,
-      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies"
+      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-059",
@@ -2117,7 +2155,8 @@ window.NURSE_DATA.push({
             }
           }
         ]
-      }
+      },
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-060",
@@ -2156,19 +2195,19 @@ window.NURSE_DATA.push({
       "priority": false,
       "stem": "The daughter of an 84-year-old client with advanced dementia says, “Mom will move into a nursing home permanently next month, and Medicare will cover it like it covered her rehab last year.” Which information should the nurse provide?",
       "options": [
-        "“Medicare covers nursing home care indefinitely once someone is diagnosed with dementia.”",
+        "“Medicare covers up to 100 days in a skilled facility after a hospital stay.”",
         "“Medicare will pay as long as she had a hospital stay in the past year.”",
         "“Medicare won't cover long-term custodial care; social work can review options.”",
-        "“Long-term care is covered by Medicare Part D after the deductible is met.”"
+        "“Medicare Part B may still cover her doctor visits while she lives there.”"
       ],
       "answer": 2,
       "optionRationales": [
-        "Incorrect. A dementia diagnosis does not make long-term custodial care a Medicare benefit.",
-        "Incorrect. A qualifying stay supports short-term skilled care, not permanent residence.",
-        "Correct. Medicare does not pay for long-term custodial care; Medicaid is the major public payer for those who qualify.",
-        "Incorrect. Part D covers prescription drugs, not nursing-home care."
+        "Incorrect. This describes short-term skilled care, which is true, but it does not answer her plan for a permanent custodial stay.",
+        "Incorrect. Last year's rehab was short-term skilled care; a past hospital stay does not make long-term custodial care covered.",
+        "Correct. Medicare does not pay for long-term custodial care, and a social work referral helps the family plan for costs.",
+        "Incorrect. This is true, but it does not correct the daughter's belief that the nursing home stay itself is covered."
       ],
-      "rationale": "Medicare covers short-term skilled nursing or rehabilitation after a qualifying hospital stay, hospice, and home health when criteria are met, but it does not pay for long-term custodial care such as indefinite help with bathing and dressing in a nursing home. Medicaid is the major public payer for long-term custodial care for those who qualify. The prior-hospitalization option is tempting because Medicare did cover last year's rehab, but that was short-term skilled care. A social work referral helps the family plan for costs.",
+      "rationale": "Medicare covers short-term skilled nursing or rehabilitation after a qualifying hospital stay, hospice, and home health when criteria are met, but it does not pay for long-term custodial care such as indefinite help with bathing and dressing in a nursing home. Medicaid is the major public payer for long-term custodial care for those who qualify. The skilled-facility and doctor-visit statements are tempting because they are true, but they do not answer the cost of a permanent stay. A social work referral helps the family plan for costs.",
       "takeaway": "Medicare pays for short-term skilled care, not long-term custodial nursing-home care; Medicaid is the major public payer for that.",
       "hintContent": "What is the difference between skilled rehabilitation and custodial care?",
       "hintStrategy": "Watch for the long-term care trap in Medicare vs. Medicaid items.",
@@ -2177,7 +2216,8 @@ window.NURSE_DATA.push({
       "cjmm": "Take Action",
       "focus": "Client Teaching",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-062",
@@ -2262,19 +2302,19 @@ window.NURSE_DATA.push({
       "priority": true,
       "stem": "During a busy shift, a nurse sees a coworker rinse a single-use suction catheter in sterile water and hang it at the bedside of a client with a tracheostomy. The coworker says, “We're over budget, so I'm reusing these all shift.” Which response by the nurse is best?",
       "options": [
-        "“That works as long as you rinse it with sterile water before every suctioning pass.”",
+        "“Let's ask the charge nurse whether our unit allows reusing catheters.”",
         "“Only reuse it for the same client, and replace it at the end of the shift.”",
         "“Reusing it raises infection risk. Let's use a new one and find savings elsewhere.”",
-        "“I'll report this to infection control and won't mention it to you again.”"
+        "“I'm going to report this to infection control right after this shift.”"
       ],
       "answer": 2,
       "optionRationales": [
-        "Incorrect. Rinsing does not make a single-use device safe to reuse.",
-        "Incorrect. Single-use devices are designed for one use only, even with the same client.",
-        "Correct. This stops the unsafe practice immediately and redirects toward real savings.",
-        "Incorrect. Reporting without speaking up leaves the unsafe practice in place right now."
+        "Incorrect. Checking policy with the charge nurse is reasonable, but single-use means single use, and the client stays at risk while waiting.",
+        "Incorrect. Limiting reuse to one client sounds like a compromise, but single-use devices are designed for one use only.",
+        "Correct. The nurse addresses the unsafe practice directly, protects the client now, and suggests real savings.",
+        "Incorrect. Reporting may be needed if it continues, but it does not stop the risk now or address the coworker directly."
       ],
-      "rationale": "Cost-effective care achieves the best outcome for the resources used and never compromises safety or the standard of care. Reusing a single-use catheter increases the risk of respiratory infection, which harms the client and adds unpaid costs. Limiting reuse to one client sounds like a reasonable compromise, but single-use devices are designed for one use only. The nurse addresses the coworker directly and suggests true savings, such as avoiding duplicate labs or clustering care.",
+      "rationale": "Cost-effective care achieves the best outcome for the resources used and never compromises safety or the standard of care. Reusing a single-use catheter increases the risk of respiratory infection, which harms the client and adds unpaid costs. Limiting reuse to one client sounds like a reasonable compromise, but single-use devices are designed for one use only. Checking with the charge nurse or reporting after the shift leaves the client at risk now. The nurse addresses the coworker directly and suggests true savings, such as avoiding duplicate labs or clustering care.",
       "takeaway": "Reusing single-use devices is never cost-effective; it moves cost into complications.",
       "hintContent": "Does saving money on a supply ever justify an infection risk?",
       "hintStrategy": "In cost-vs-safety items, reject the shortcut and keep the standard of care.",
@@ -2283,7 +2323,8 @@ window.NURSE_DATA.push({
       "cjmm": "Take Action",
       "focus": "Delegation & Safety",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-064",
@@ -2293,18 +2334,18 @@ window.NURSE_DATA.push({
       "stem": "A 73-year-old client with pneumonia is scheduled for discharge today to meet the expected length of stay. While walking to the bathroom, the client's SpO2 drops to 86% on room air. After resting in bed, SpO2 returns to 91%, but the client is newly confused about the date. Which action should the nurse take first?",
       "options": [
         "Report the new findings to the provider before the client leaves",
-        "Discharge as planned with instructions to return if symptoms worsen",
+        "Recheck the SpO2 during another walk before calling the provider",
         "Ask the case manager to arrange home oxygen before the discharge",
-        "Finish discharge teaching, then document the oxygen saturation"
+        "Reorient the client and repeat discharge teaching with the family"
       ],
       "answer": 0,
       "optionRationales": [
-        "Correct. A new change in condition must be evaluated before discharge.",
-        "Incorrect. This ignores a new change and risks harm and readmission.",
-        "Incorrect. Planning around an unexplained change skips provider evaluation of new confusion.",
-        "Incorrect. Teaching and documentation do not address the client's change in condition."
+        "Correct. New confusion and desaturation with activity are changes in condition that the provider must evaluate before discharge.",
+        "Incorrect. Reassessing is reasonable, but the change is already clear, and another walk delays reporting new confusion.",
+        "Incorrect. Home oxygen seems to solve the desaturation, but new confusion needs evaluation first.",
+        "Incorrect. Involving the family is helpful, but it treats new confusion as a teaching problem instead of a change in condition."
       ],
-      "rationale": "Prospective payment rewards timely discharge, but it also creates pressure to discharge too early, which increases readmissions. New confusion and desaturation with activity are signs that the client's condition has changed and may not be ready for discharge, so the provider must be informed before the client leaves. Arranging home oxygen is tempting because it seems to solve the desaturation, but new confusion needs evaluation, and the nurse cannot plan around an unexplained change. Discharging with return instructions or finishing teaching first ignores the change.",
+      "rationale": "Prospective payment rewards timely discharge, but it also creates pressure to discharge too early, which increases readmissions. New confusion and desaturation with activity are signs that the client's condition has changed and may not be ready for discharge, so the provider must be informed before the client leaves. Arranging home oxygen is tempting because it seems to solve the desaturation, but new confusion needs evaluation, and the nurse cannot plan around an unexplained change. Rechecking with another walk delays reporting, and reteaching the family ignores the change.",
       "takeaway": "Length-of-stay targets never override a new change in the client's condition.",
       "hintContent": "Is the client still stable enough to leave as planned?",
       "hintStrategy": "When a target date conflicts with new clinical findings, the findings win.",
@@ -2313,7 +2354,8 @@ window.NURSE_DATA.push({
       "cjmm": "Prioritize Hypotheses",
       "focus": "Prioritization",
       "difficulty": 2,
-      "clientNeed": "Physiological Integrity: Reduction of Risk Potential"
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-065",
@@ -2343,7 +2385,8 @@ window.NURSE_DATA.push({
       "cjmm": "Recognize Cues",
       "focus": "Lifespan & Diversity",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-066",
@@ -2435,19 +2478,19 @@ window.NURSE_DATA.push({
       "priority": true,
       "stem": "A 61-year-old client with hypertension tells the clinic nurse, “My blood pressure pills cost too much, so I've started cutting them in half to make them last.” Which response by the nurse is best?",
       "options": [
-        "“Cutting them is fine as long as you check your blood pressure at home daily.”",
+        "“Ask your pharmacist whether a generic version of each pill would cost you less.”",
         "“Let's go over what you pay. I'll tell your provider and ask social work about help.”",
-        "“Ask your pharmacist which of your blood pressure pills you can safely stop.”",
-        "“You need to take the full dose every single day, or you could end up having a stroke.”"
+        "“Taking half doses can raise your blood pressure, so please take the full dose.”",
+        "“Check your blood pressure at home daily and bring the readings to your next visit.”"
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. Approving a half dose risks uncontrolled blood pressure and stroke.",
-        "Correct. This assesses the barrier, informs the prescriber, and connects the client with resources.",
-        "Incorrect. Only the prescriber decides whether to stop a medication.",
-        "Incorrect. A warning without help does not solve the cost problem."
+        "Incorrect. A generic may lower cost, but this step skips telling the prescriber about the unsafe dosing.",
+        "Correct. The nurse assesses the cost barrier, informs the prescriber, and connects the client to resources.",
+        "Incorrect. The teaching is accurate, but it does not solve the cost problem that caused the behavior.",
+        "Incorrect. Monitoring is useful, but it accepts unsafe half doses instead of fixing the barrier."
       ],
-      "rationale": "When cost causes unsafe nonadherence, the nurse assesses the barrier, communicates with the prescriber, and refers to resources such as social work or a lower-cost equivalent. Halving antihypertensive doses risks uncontrolled blood pressure, stroke, and readmission. The pharmacist option is tempting because pharmacists know drug costs, but only the prescriber decides whether to stop a medication. Approving the change is unsafe, and a warning without help does not solve the cost problem.",
+      "rationale": "When cost causes unsafe nonadherence, the nurse assesses the barrier, communicates with the prescriber, and refers to resources such as social work or a lower-cost equivalent. Halving antihypertensive doses risks uncontrolled blood pressure, stroke, and readmission. The pharmacist option is tempting because a generic may cost less, but the prescriber still needs to know about the unsafe dosing. Home monitoring accepts the change, and teaching without help does not solve the cost problem.",
       "takeaway": "For a cost barrier: assess, tell the prescriber, refer; never endorse cutting doses.",
       "hintContent": "Who can change a medication regimen, and what resources address cost?",
       "hintStrategy": "Assess, communicate, refer: pick the option that does all three.",
@@ -2456,7 +2499,8 @@ window.NURSE_DATA.push({
       "cjmm": "Generate Solutions",
       "focus": "Pharmacology",
       "difficulty": 2,
-      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies"
+      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-068",
@@ -2465,19 +2509,19 @@ window.NURSE_DATA.push({
       "priority": false,
       "stem": "A client with heart failure who was discharged 12 days ago is readmitted with fluid overload. At a staff meeting, the nurse manager says readmissions like this affect the hospital financially. Which explanation is accurate?",
       "options": [
-        "Medicare pays the hospital a bonus for each readmission within 30 days",
+        "Medicare refuses to pay anything for a second stay within 30 days",
         "Medicare penalizes hospitals with too many 30-day readmissions for some conditions",
-        "The client must now pay the full cost of the second stay out of pocket",
+        "The hospital is penalized only if the client was sent home too early",
         "Readmissions cost the hospital nothing extra because the first DRG payment covers both"
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. Readmissions bring penalties, not bonuses.",
-        "Correct. Medicare reduces payments to hospitals with excess 30-day readmissions for selected conditions such as heart failure.",
-        "Incorrect. Readmission does not shift the full cost of the stay to the client.",
-        "Incorrect. A readmission is a separate stay, and excess readmissions bring penalties."
+        "Incorrect. Readmissions do affect payment, but the second stay is paid; the penalty reduces the hospital's overall Medicare payments.",
+        "Correct. Medicare reduces payments to hospitals with excess 30-day readmissions for selected conditions, including heart failure.",
+        "Incorrect. Early discharge can cause readmissions, but the penalty is based on the hospital's readmission rates, not a review of each discharge.",
+        "Incorrect. Payment is fixed per DRG, but the readmission is a separate stay, and the penalty adds cost."
       ],
-      "rationale": "Under prospective payment, the hospital receives a set payment based on the DRG, which creates pressure to discharge on time but can lead to rushed discharges. Medicare responded by penalizing hospitals with excess 30-day readmissions for selected conditions, including heart failure. The option claiming the first DRG covers both stays is tempting because payment is fixed, but the readmission is a separate stay, and the penalty adds cost. Nurses reduce readmissions through teach-back, affordability checks, and early follow-up.",
+      "rationale": "Under prospective payment, the hospital receives a set payment based on the DRG, which creates pressure to discharge on time but can lead to rushed discharges. Medicare responded by penalizing hospitals with excess 30-day readmissions for selected conditions, including heart failure. The option claiming the first DRG covers both stays is tempting because payment is fixed, but the readmission is a separate stay, and the penalty adds cost. The penalty is based on readmission rates, not refusal to pay or case-by-case review. Nurses reduce readmissions through teach-back, affordability checks, and early follow-up.",
       "takeaway": "Excess 30-day readmissions bring Medicare penalties, so discharge teaching and follow-up protect clients and budgets.",
       "hintContent": "How has Medicare responded to rushed discharges and readmissions?",
       "hintStrategy": "Link payment rules to the nursing behavior they reward.",
@@ -2486,7 +2530,8 @@ window.NURSE_DATA.push({
       "cjmm": "Analyze Cues",
       "focus": "Nursing Interventions",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-069",
@@ -2495,19 +2540,19 @@ window.NURSE_DATA.push({
       "priority": true,
       "stem": "A 72-year-old client with new atrial fibrillation is ready for discharge with a prescription for apixaban. The client says, “My drug plan’s copay for this is $180 a month. I can’t pay that.” Which action by the nurse is best?",
       "options": [
-        "Suggest the client take the pill once a day instead of twice to save money",
+        "Refer the client to social work after discharge for copay assistance",
         "Give the client two weeks of samples and complete the discharge as planned",
-        "Advise the client to start the medicine once there is room in the budget",
+        "Teach the client why taking apixaban every day helps prevent a stroke",
         "Tell the provider before discharge so a covered option can be considered"
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. Changing the dose without the prescriber leaves the client underprotected against stroke.",
-        "Incorrect. Samples delay the problem; the same cost barrier returns in two weeks.",
-        "Incorrect. Delaying anticoagulation leaves a high stroke risk untreated.",
-        "Correct. The prescriber can consider a covered alternative or assistance program before the client leaves."
+        "Incorrect. Social work can help, but waiting until after discharge risks the client going without the drug.",
+        "Incorrect. Samples fill an immediate gap, but the client will face the same cost in two weeks.",
+        "Incorrect. Teaching the purpose is accurate, but it does not solve the cost barrier.",
+        "Correct. The provider can consider a covered alternative or assistance before the client leaves, preventing a gap in stroke prevention."
       ],
-      "rationale": "Cost barriers must be identified and solved before discharge so the client does not leave without a needed therapy. Untreated atrial fibrillation carries a high stroke risk, so the nurse informs the provider, who can consider a covered alternative or an assistance program, and refers to social work or the case manager. Samples are tempting because they fill an immediate gap, but the client will face the same cost in two weeks. Reducing the dosing frequency or delaying the start are unsafe changes.",
+      "rationale": "Cost barriers must be identified and solved before discharge so the client does not leave without a needed therapy. Untreated atrial fibrillation carries a high stroke risk, so the nurse informs the provider, who can consider a covered alternative or an assistance program, and refers to social work or the case manager. Samples are tempting because they fill an immediate gap, but the client will face the same cost in two weeks. A referral after discharge comes too late, and teaching does not solve the cost problem.",
       "takeaway": "Solve medication cost barriers with the prescriber before the client leaves.",
       "hintContent": "What happens if the client cannot afford the anticoagulant after discharge?",
       "hintStrategy": "Choose the action that keeps the therapy and involves the prescriber; reject any self-adjustment.",
@@ -2516,7 +2561,8 @@ window.NURSE_DATA.push({
       "cjmm": "Take Action",
       "focus": "Pharmacology",
       "difficulty": 2,
-      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies"
+      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-070",
@@ -2561,18 +2607,18 @@ window.NURSE_DATA.push({
       "stem": "On postoperative day 3 after a bowel resection, a client still has an indwelling urinary catheter. The client is alert, walking in the hall, and has no documented reason for the catheter. The unit has a nurse-driven catheter removal protocol. Which action by the nurse is best?",
       "options": [
         "Check the protocol criteria and remove the catheter if they are met",
-        "Leave it in place until discharge to save time measuring output",
-        "Replace it with a new catheter to lower the risk of infection",
+        "Ask the provider for an order to remove the catheter later today",
+        "Clamp the catheter for 2 hours to retrain the bladder before removal",
         "Send a urine culture before applying the removal protocol"
       ],
       "answer": 0,
       "optionRationales": [
-        "Correct. Removing a catheter that no longer meets indications prevents CAUTI, which is safe and cost-effective.",
-        "Incorrect. Every extra catheter day raises CAUTI risk.",
-        "Incorrect. A new catheter still prolongs exposure and adds cost.",
-        "Incorrect. Culturing an asymptomatic client adds cost and can lead to unnecessary treatment."
+        "Correct. The nurse-driven protocol allows the nurse to remove a catheter that no longer meets indications, reducing CAUTI risk.",
+        "Incorrect. Removal is the right goal, but the protocol already authorizes the nurse, and waiting adds catheter time.",
+        "Incorrect. Clamping sounds cautious, but it is not needed for a short-term catheter and only delays removal.",
+        "Incorrect. A culture sounds cautious, but routine culture of an asymptomatic client adds cost and can lead to unnecessary treatment."
       ],
-      "rationale": "Every catheter day increases the risk of CAUTI, a hospital-acquired condition that harms clients, lengthens stays, and is not paid extra by Medicare. A nurse-driven protocol lets the nurse remove a catheter that no longer meets indications, which is both safe and cost-effective. Sending a urine culture is tempting because it sounds cautious, but routine culture of an asymptomatic client adds cost and can lead to unnecessary treatment. Leaving or replacing the catheter prolongs exposure.",
+      "rationale": "Every catheter day increases the risk of CAUTI, a hospital-acquired condition that harms clients, lengthens stays, and is not paid extra by Medicare. A nurse-driven protocol lets the nurse remove a catheter that no longer meets indications, which is both safe and cost-effective. Sending a urine culture is tempting because it sounds cautious, but routine culture of an asymptomatic client adds cost and can lead to unnecessary treatment. Waiting for a provider order or clamping first only prolongs exposure.",
       "takeaway": "Remove urinary catheters as soon as they are no longer indicated; it prevents CAUTI and cost.",
       "hintContent": "What is the main way to prevent catheter-associated infection?",
       "hintStrategy": "Pick the option that removes the source of risk rather than monitoring it.",
@@ -2581,7 +2627,8 @@ window.NURSE_DATA.push({
       "cjmm": "Take Action",
       "focus": "Nursing Interventions",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-072",
@@ -2590,19 +2637,19 @@ window.NURSE_DATA.push({
       "priority": false,
       "stem": "To cut supply costs, a materials manager replaces the unit's absorbent foam dressing with a thin film dressing for all wounds. A client on the unit has a heavily draining stage 3 pressure injury. Which action by the nurse is most appropriate?",
       "options": [
-        "Use the film dressing as directed, since all supply changes are mandatory",
-        "Change the film dressing every hour so the drainage does not pool",
+        "Use the film dressing as directed and document the wound drainage",
+        "Add gauze over the film dressing to absorb the extra drainage",
         "Request the product that fits this wound and explain why to the manager",
-        "Bring a supply of foam dressings from another unit without telling anyone"
+        "Ask the wound care nurse to see the client at the next weekly round"
       ],
       "answer": 2,
       "optionRationales": [
-        "Incorrect. A film cannot absorb heavy drainage and could delay healing.",
-        "Incorrect. Hourly changes add cost and labor and traumatize the skin.",
-        "Correct. A cheaper product is acceptable only when it works as well for the client; the nurse advocates and communicates.",
-        "Incorrect. Working around the system without communication does not solve the problem."
+        "Incorrect. Following policy and documenting is reasonable, but the nurse must advocate when a product cannot meet the client's need.",
+        "Incorrect. Adding gauze is a workaround, but it does not fix the mismatch and still traps drainage against the skin.",
+        "Correct. The nurse advocates for the right product for this client and explains the reason, so the problem is fixed for others too.",
+        "Incorrect. Wound care input is useful, but waiting for a weekly round leaves the wound poorly managed now."
       ],
-      "rationale": "Cost-effective care means the best outcome for the resources used, not the cheapest product. A thin film cannot absorb heavy drainage, which can macerate the skin, delay healing, and lengthen the stay, so a cheaper product is acceptable only when it works as well for that client. Hourly changes are tempting because they seem to make the product work, but they increase cost, labor, and skin trauma. Taking supplies without communicating leaves the problem unsolved for the next client.",
+      "rationale": "Cost-effective care means the best outcome for the resources used, not the cheapest product. A thin film cannot absorb heavy drainage, which can macerate the skin, delay healing, and lengthen the stay, so a cheaper product is acceptable only when it works as well for that client. Adding gauze is tempting because it seems to make the product work, but it does not fix the mismatch. Documenting alone or waiting for a weekly wound round leaves the problem unsolved.",
       "takeaway": "A cheaper product is cost-effective only if it is right for the client.",
       "hintContent": "Is the cheapest option always the most cost-effective?",
       "hintStrategy": "Separate 'cost-effective' from 'cheapest'; choose the option that keeps outcomes safe and communicates the issue.",
@@ -2611,7 +2658,8 @@ window.NURSE_DATA.push({
       "cjmm": "Generate Solutions",
       "focus": "Nursing Interventions",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-073",
@@ -2656,18 +2704,18 @@ window.NURSE_DATA.push({
       "stem": "A 58-year-old client at a walk-in clinic reports 40 minutes of chest pressure radiating to the jaw and says, “I didn't go to the ER because my last bill there was huge. Can we just schedule tests?” Which action should the nurse take first?",
       "options": [
         "Explain the client's deductible and coinsurance before deciding on the next step",
-        "Schedule an outpatient stress test next week to keep costs low",
+        "Have the client rest and recheck the chest pressure in 15 minutes",
         "Arrange emergency transport to the ED and address billing concerns later",
-        "Refer the client to a financial counselor before calling for transport"
+        "Call a family member to drive the client to the ED right away"
       ],
       "answer": 2,
       "optionRationales": [
-        "Incorrect. Explaining costs first delays treatment of a possible heart attack.",
-        "Incorrect. Stress testing is unsafe for a client with active chest pain.",
-        "Correct. Possible acute coronary syndrome needs emergency care now; cost concerns come after safety.",
-        "Incorrect. Financial counseling can follow, but it must not delay emergency care."
+        "Incorrect. Explaining costs can reduce care avoidance, but it delays treatment of a possible myocardial infarction.",
+        "Incorrect. Reassessment sounds careful, but 40 minutes of radiating chest pressure is already an emergency, and waiting delays care.",
+        "Correct. Possible acute coronary syndrome requires immediate emergency transport; billing fears can be handled later.",
+        "Incorrect. The ED is the right destination, but a private car lacks monitoring and treatment if the client deteriorates."
       ],
-      "rationale": "Chest pressure radiating to the jaw suggests acute coronary syndrome, and physiological safety outranks cost concerns. The nurse arranges emergency transport immediately and can address billing fears later through a financial counselor or social work. Explaining cost-sharing terms is tempting because misunderstood bills cause clients to avoid care, but it delays treatment of a possible myocardial infarction. A stress test next week is unsafe for a client with active symptoms.",
+      "rationale": "Chest pressure radiating to the jaw suggests acute coronary syndrome, and physiological safety outranks cost concerns. The nurse arranges emergency transport immediately and can address billing fears later through a financial counselor or social work. Explaining cost-sharing terms is tempting because misunderstood bills cause clients to avoid care, but it delays treatment of a possible myocardial infarction. Resting to recheck wastes time, and a ride from family lacks monitoring.",
       "takeaway": "A possible emergency is treated first; cost conversations come after the client is safe.",
       "hintContent": "Which concern threatens the client's life right now?",
       "hintStrategy": "ABCs before finances: when a physical threat exists, act on it first.",
@@ -2676,7 +2724,8 @@ window.NURSE_DATA.push({
       "cjmm": "Prioritize Hypotheses",
       "focus": "Prioritization",
       "difficulty": 2,
-      "clientNeed": "Physiological Integrity: Physiological Adaptation"
+      "clientNeed": "Physiological Integrity: Physiological Adaptation",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-075",
@@ -2686,18 +2735,18 @@ window.NURSE_DATA.push({
       "stem": "A single parent of a 6-year-old tells the school nurse, “I make too much for Medicaid, but I can't afford the family plan at work. My son hasn't had a checkup in two years.” Which program should the nurse discuss with the parent?",
       "options": [
         "The Children's Health Insurance Program (CHIP)",
-        "Medicare Part B outpatient coverage for children",
+        "The Vaccines for Children program",
         "A preferred provider organization through the employer",
-        "Medicare Advantage coverage under Medicare Part C"
+        "A sliding-scale community health center"
       ],
       "answer": 0,
       "optionRationales": [
         "Correct. CHIP covers children in families who earn too much for Medicaid but cannot afford private coverage.",
-        "Incorrect. Medicare covers older adults and some people with qualifying conditions, not healthy children.",
-        "Incorrect. The parent already said the employer plan is unaffordable.",
-        "Incorrect. Medicare Advantage is a Medicare option and does not cover healthy children."
+        "Incorrect. This program provides free vaccines, but it does not cover checkups or other ongoing care.",
+        "Incorrect. The employer plan is a real option, but the parent already said it is unaffordable.",
+        "Incorrect. A clinic can provide a low-cost checkup, but it is not insurance coverage for the child's ongoing care."
       ],
-      "rationale": "CHIP is a public insurance program for children in families whose income is too high for Medicaid but too low to afford private coverage. Connecting the family to CHIP restores preventive care such as well-child visits. The employer PPO is tempting because it is a real option, but the parent already said it is unaffordable. Medicare covers people 65 and older and some with qualifying disabilities or conditions, not healthy children.",
+      "rationale": "CHIP is a public insurance program for children in families whose income is too high for Medicaid but too low to afford private coverage. Connecting the family to CHIP restores preventive care such as well-child visits. The employer PPO is tempting because it is a real option, but the parent already said it is unaffordable. The Vaccines for Children program and sliding-scale clinics help, but they do not provide ongoing coverage.",
       "takeaway": "CHIP covers children in families who earn too much for Medicaid but cannot afford private insurance.",
       "hintContent": "Which public program is designed for children just above Medicaid income limits?",
       "hintStrategy": "Match the client's age and income situation to the program's eligibility rule.",
@@ -2706,7 +2755,8 @@ window.NURSE_DATA.push({
       "cjmm": "Generate Solutions",
       "focus": "Lifespan & Diversity",
       "difficulty": 2,
-      "clientNeed": "Health Promotion and Maintenance"
+      "clientNeed": "Health Promotion and Maintenance",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-076",
@@ -2753,19 +2803,19 @@ window.NURSE_DATA.push({
       "priority": true,
       "stem": "A 69-year-old client with COPD is being discharged on day 3 to meet the expected length of stay. During teach-back, the client cannot demonstrate correct use of the new inhaler. Which action should the nurse take first?",
       "options": [
-        "Give a written handout and tell the client to review it at home",
-        "Ask a family member to watch a video about the inhaler after discharge",
+        "Give a written handout with pictures and review it with the client",
+        "Ask a family member to watch the teaching and help at home",
         "Postpone discharge until the client has used the inhaler for 2 more days",
         "Reteach the inhaler technique and have the client demonstrate it again"
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. A handout does not confirm the client can use the device.",
-        "Incorrect. A video after discharge does not verify the client's technique now.",
-        "Incorrect. Postponing is not the first step when reteaching may solve the problem.",
-        "Correct. Reteaching with return demonstration is the least invasive action that confirms learning."
+        "Incorrect. Written materials support learning, but they do not confirm the client can use the device.",
+        "Incorrect. Family support helps, but the client is the one who must use the inhaler correctly.",
+        "Incorrect. Postponing discharge seems safest, but it is not the first step when reteaching may solve the problem.",
+        "Correct. Reteaching with return demonstration is the least invasive effective way to confirm learning before discharge."
       ],
-      "rationale": "Early discharge under prospective payment raises readmission risk when teaching is rushed, so the nurse verifies learning before the client leaves. Reteaching and repeating the return demonstration is the least invasive effective action; if the client still cannot perform it, the nurse escalates to arrange follow-up such as home health. Postponing discharge is tempting because it seems safest, but it is not the first step when reteaching may solve the problem. Handouts and videos alone do not confirm the client can use the device.",
+      "rationale": "Early discharge under prospective payment raises readmission risk when teaching is rushed, so the nurse verifies learning before the client leaves. Reteaching and repeating the return demonstration is the least invasive effective action; if the client still cannot perform it, the nurse escalates to arrange follow-up such as home health. Postponing discharge is tempting because it seems safest, but it is not the first step when reteaching may solve the problem. Handouts and family help alone do not confirm the client can use the device.",
       "takeaway": "Confirm learning with teach-back before discharge; reteach before escalating.",
       "hintContent": "What is the least invasive action that could close the teaching gap?",
       "hintStrategy": "Choose the action that evaluates and corrects learning now before larger changes to the plan.",
@@ -2774,7 +2824,8 @@ window.NURSE_DATA.push({
       "cjmm": "Evaluate Outcomes",
       "focus": "Client Teaching",
       "difficulty": 2,
-      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies"
+      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-078",
@@ -2804,7 +2855,8 @@ window.NURSE_DATA.push({
       "cjmm": "Evaluate Outcomes",
       "focus": "Assessment Findings",
       "difficulty": 2,
-      "clientNeed": "Health Promotion and Maintenance"
+      "clientNeed": "Health Promotion and Maintenance",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-079",
@@ -2871,7 +2923,8 @@ window.NURSE_DATA.push({
       "cjmm": "Take Action",
       "focus": "Delegation & Safety",
       "difficulty": 3,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-081",
@@ -2972,7 +3025,8 @@ window.NURSE_DATA.push({
       "cjmm": "Prioritize Hypotheses",
       "focus": "Prioritization",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-084",
@@ -3051,19 +3105,19 @@ window.NURSE_DATA.push({
       "priority": true,
       "stem": "A charge nurse is asked to propose one cost-reduction initiative for a 24-bed surgical unit. Last quarter there were 4 CAUTIs and 3 falls with injury, and length of stay is above the DRG benchmark. Which proposal should the charge nurse present first?",
       "options": [
-        "Replacing two RN positions with UAP to lower the unit's salary costs",
-        "Cutting RN continuing education hours to reduce the training budget",
+        "A stronger fall bundle alone, since falls with injury cause the most harm",
+        "Earlier discharge planning to bring length of stay down to the benchmark",
         "A nurse-driven catheter removal protocol plus a stronger fall bundle",
-        "Switching to a cheaper skin barrier before checking whether it works"
+        "Switching to lower-cost catheter kits from a new medical supplier"
       ],
       "answer": 2,
       "optionRationales": [
-        "Incorrect. Fewer RN hours lead to more missed assessments and complications.",
-        "Incorrect. Lower RN education is linked to worse outcomes.",
-        "Correct. This targets the preventable, non-reimbursed complications driving cost and length of stay.",
-        "Incorrect. An untested product risks skin injury and new costs."
+        "Incorrect. A fall bundle targets one problem, but it leaves the CAUTIs that also lengthen stays.",
+        "Incorrect. Length of stay is above benchmark, but earlier discharge ignores the complications causing it and risks readmission.",
+        "Correct. This targets both preventable complications that lengthen stays and are not paid extra under prospective payment.",
+        "Incorrect. Cheaper kits lower supply cost, but they do not reduce the infections that drive the larger costs."
       ],
-      "rationale": "Complications and readmissions drive cost more than RN salaries, and preventable conditions such as CAUTI and injurious falls are not paid extra under prospective payment. A catheter removal protocol and a stronger fall bundle target the exact complications that lengthen stays. Replacing RNs with UAP is tempting because salary is a large budget line, but fewer RN hours lead to more missed assessments and complications. Cutting education or adopting an untested product risks quality.",
+      "rationale": "Complications and readmissions drive cost more than supply prices, and preventable conditions such as CAUTI and injurious falls are not paid extra under prospective payment. A catheter removal protocol and a stronger fall bundle target the exact complications that lengthen stays. A fall bundle alone is tempting because injury causes visible harm, but it ignores the CAUTIs. Pushing earlier discharge or buying cheaper kits does not prevent the complications.",
       "takeaway": "Target preventable complications, not RN staffing, to lower costs safely.",
       "hintContent": "What is actually driving cost on this unit?",
       "hintStrategy": "Connect the data in the stem to the option that fixes the problem it shows.",
@@ -3072,7 +3126,8 @@ window.NURSE_DATA.push({
       "cjmm": "Prioritize Hypotheses",
       "focus": "Prioritization",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-087",
@@ -3118,19 +3173,19 @@ window.NURSE_DATA.push({
       "priority": true,
       "stem": "A client admitted with a COPD exacerbation tells the nurse, “I heard my insurance only pays for 3 days. Are you sending me home tomorrow because of money? I still get short of breath walking to the bathroom.” Which response by the nurse is best?",
       "options": [
-        "“Discharge decisions are based only on medical need, so money has nothing to do with it.”",
+        "“Discharge decisions here are based only on your medical needs, so money has nothing to do with it.”",
         "“Insurance rules can affect timing, but your safety comes first. I will tell your provider about your breathing.”",
-        "“You should ask the billing office, because nurses are not involved in any insurance decisions.”",
-        "“Everyone feels nervous before going home. You will do fine once you are back in your own bed.”"
+        "“Your case manager handles insurance questions, so I will ask her to come and talk with you about it today.”",
+        "“It sounds like you are worried that you are not ready to go home yet. Can you tell me more about that?”"
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect. This may be untrue, which violates veracity, and it ignores the new symptom.",
-        "Correct. It is truthful, puts safety first, and advocates by reporting the dyspnea to the provider.",
-        "Incorrect. It dismisses the client and the breathing concern the nurse must act on.",
-        "Incorrect. False reassurance ignores dyspnea with minimal activity, which may mean the client is not ready."
+        "Incorrect. It sounds reassuring, but it may be false, and it does not address the shortness of breath.",
+        "Correct. The nurse is truthful about payer rules, puts safety first, and reports the symptom to the provider.",
+        "Incorrect. The case manager can explain coverage, but this deflects the question and ignores the breathing symptom.",
+        "Incorrect. Exploring feelings is therapeutic, but the client reported a symptom the provider needs to know about."
       ],
-      "rationale": "Managing care links to ethics and advocacy. Veracity means telling the truth, so the nurse can acknowledge that payer rules affect timing while making clear that safety comes first. Shortness of breath walking to the bathroom is a finding the provider needs before discharge, so reporting it is advocacy. Saying money has nothing to do with it is tempting because it sounds reassuring, but it may be false. Sending the client to billing or giving false reassurance ignores both the question and the symptom.",
+      "rationale": "Managing care links to ethics and advocacy. Veracity means telling the truth, so the nurse can acknowledge that payer rules affect timing while making clear that safety comes first. Shortness of breath walking to the bathroom is a finding the provider needs before discharge, so reporting it is advocacy. Saying money has nothing to do with it is tempting because it sounds reassuring, but it may be false. Referring to the case manager or exploring feelings is reasonable, but both leave the symptom unreported.",
       "takeaway": "Answer resource questions truthfully and advocate when the client may not be ready to leave.",
       "hintContent": "Which ethical principle requires honesty, and which concept requires speaking up?",
       "hintStrategy": "Choose the response that is both truthful and acts on the safety concern.",
@@ -3139,7 +3194,8 @@ window.NURSE_DATA.push({
       "cjmm": "Take Action",
       "focus": "Nursing Interventions",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-089",
@@ -3186,19 +3242,19 @@ window.NURSE_DATA.push({
       "priority": false,
       "stem": "A 42-year-old client had surgery 2 days ago to repair a femur fracture. During discharge planning, which finding in the client's history most supports the nursing diagnosis Risk for ineffective health management?",
       "options": [
-        "Being 42 years old and working full time before the injury",
+        "Needing a walker with partial weight bearing for several weeks",
         "Having the femur repaired with surgery under general anesthesia",
-        "Reporting pain of 4 out of 10 on the second day after surgery",
+        "Reporting worry about missing several weeks of work while healing",
         "Having type 2 diabetes while living alone with no family nearby"
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. Age and employment alone do not suggest trouble managing care at home.",
-        "Incorrect. Surgery supports risk for DVT and impaired mobility, not health management.",
-        "Incorrect. Controlled pain is an expected finding, not a self-management risk.",
-        "Correct. A chronic disease to manage plus no one at home to help raises the risk of ineffective health management."
+        "Incorrect. Walker use and weight limits are real challenges, but they best support impaired physical mobility.",
+        "Incorrect. Surgery is a major event, but it supports other diagnoses, such as impaired mobility and DVT risk.",
+        "Incorrect. Worry about work is a real concern, but it best supports anxiety rather than self-management risk.",
+        "Correct. A complex chronic regimen plus no nearby support is the best evidence of risk for ineffective health management."
       ],
-      "rationale": "Risk for ineffective health management fits a client who must manage a complex regimen with limited support. Type 2 diabetes requires glucose monitoring, diet, and medications, and recovery after a femur repair makes that harder. Living alone with no nearby relatives removes the backup that would help. Surgery under anesthesia is tempting because it is a major event, but it supports other diagnoses, such as impaired mobility and DVT risk. Age, work history, and controlled pain do not point to self-management risk.",
+      "rationale": "Risk for ineffective health management fits a client who must manage a complex regimen with limited support. Type 2 diabetes requires glucose monitoring, diet, and medications, and recovery after a femur repair makes that harder. Living alone with no nearby relatives removes the backup that would help. Surgery under anesthesia is tempting because it is a major event, but it supports other diagnoses, such as impaired mobility and DVT risk. Walker use and worry about work point to impaired mobility and anxiety.",
       "takeaway": "Chronic illness plus little home support signals risk for ineffective health management.",
       "hintContent": "Which finding makes managing care at home hardest?",
       "hintStrategy": "Link each option to the nursing diagnosis it actually supports, then match the one named in the stem.",
@@ -3207,7 +3263,8 @@ window.NURSE_DATA.push({
       "cjmm": "Analyze Cues",
       "focus": "Assessment Findings",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-091",
@@ -3237,7 +3294,8 @@ window.NURSE_DATA.push({
       "cjmm": "Prioritize Hypotheses",
       "focus": "Prioritization",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-092",
@@ -3284,19 +3342,19 @@ window.NURSE_DATA.push({
       "priority": true,
       "stem": "A newborn has a severe congenital heart defect that will need several staged surgeries over the first years of life. The parents work hourly jobs and have a private plan with a high deductible. Which action by the case manager is the priority during the first hospital stay?",
       "options": [
-        "Wait until after the final surgery to discuss long-term financial help",
-        "Focus planning on the first surgery and close the case once it heals",
+        "Arrange home nursing visits to begin after the first surgery heals",
+        "Schedule cardiology follow-up visits through the first year of life",
         "Connect the parents with financial aid and Medicaid waiver programs early",
         "Refer the family to the billing office to set up a monthly payment plan"
       ],
       "answer": 2,
       "optionRationales": [
-        "Incorrect. Waiting lets costs build up and can block access to later stages of care.",
-        "Incorrect. Staged repairs need coordination across every stage, not just the first.",
-        "Correct. Early links to aid and waivers protect access to all the staged surgeries and follow-up.",
-        "Incorrect. A payment plan alone does not address eligibility for aid the family may qualify for."
+        "Incorrect. Home nursing is part of the plan, but it does not address the financial barrier that threatens later stages of care.",
+        "Incorrect. Follow-up is needed, but scheduling visits does not help a family that may not afford them.",
+        "Correct. Early connection to financial aid and waiver programs keeps cost from blocking staged surgeries and follow-up.",
+        "Incorrect. A payment plan helps with bills, but it misses aid and coverage the family may qualify for."
       ],
-      "rationale": "A severe congenital heart defect needs coordinated care across multiple surgeries, cardiology and pediatric follow-ups, and home nursing. A key case manager action is to connect the family early with financial aid and Medicaid waiver programs, so money does not block later stages of care. Closing the case after the first surgery is tempting because the first repair may go well, but staged repairs need ongoing coordination. Waiting or offering only a payment plan leaves the family without the help it may qualify for.",
+      "rationale": "A severe congenital heart defect needs coordinated care across multiple surgeries, cardiology and pediatric follow-ups, and home nursing. A key case manager action is to connect the family early with financial aid and Medicaid waiver programs, so money does not block later stages of care. Arranging home nursing or cardiology visits is part of coordination, but it does not address the family's financial risk. A payment plan alone leaves the family without the help it may qualify for.",
       "takeaway": "For staged congenital repairs, coordinate every stage and connect families to financial help early.",
       "hintContent": "How long will this child need coordinated care?",
       "hintStrategy": "For chronic, staged conditions, choose the action that protects access to care over the long term.",
@@ -3305,7 +3363,8 @@ window.NURSE_DATA.push({
       "cjmm": "Take Action",
       "focus": "Lifespan & Diversity",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-094",
@@ -3400,7 +3459,8 @@ window.NURSE_DATA.push({
       "cjmm": "Analyze Cues",
       "focus": "Lifespan & Diversity",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m39-x1-097",

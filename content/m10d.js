@@ -63,21 +63,22 @@ window.NURSE_DATA.push({
    "stem": "A client with right lower quadrant pain has WBC 15,200/mm³, neutrophils 81%, and bands 12%. The client asks, “What does it mean that my ‘bands’ are high?” Which explanation by the nurse is accurate?",
    "options": [
     "“Your bone marrow is releasing young neutrophils early to fight a sudden bacterial process.”",
-    "“Your body is making allergy antibodies, which means you are reacting to a medication you took.”",
-    "“Your white cells are wearing out, so your immune system is too weak to fight infection.”",
-    "“Macrophages are laying down scar tissue, so the appendix inflammation is already healing.”"
+    "“Your total white count is high because your body is fighting an infection somewhere.”",
+    "“Your bone marrow is making extra mature neutrophils to fight a long-term, chronic infection.”",
+    "“Your lymphocytes are rising and working hard because your body is fighting off a virus.”"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Bands are immature neutrophils. A rise (left shift) reflects the cellular response of acute inflammation, usually bacterial.",
-    "Bands are neutrophils, not IgE antibodies; a left shift does not indicate an allergic reaction.",
-    "A high WBC with bands shows a strong, active response, not a weak or suppressed immune system.",
-    "Scar formation belongs to the reparative stage and is not measured by bands; bands show an active acute response."
+    "Correct. Bands are immature neutrophils released early when demand suddenly rises, a left shift typical of acute bacterial inflammation such as appendicitis. This directly answers what high bands mean.",
+    "Incorrect. This is true, since the WBC is elevated, but it explains the total count and not what the high bands mean.",
+    "Incorrect. The marrow is increasing neutrophil output, but bands are immature cells, and a left shift points to a sudden, acute process, not a long-term one.",
+    "Incorrect. Lymphocytes do rise in viral infections, but this client’s rise is in neutrophils and bands, which points to an acute bacterial process."
    ],
    "rationale": "In the cellular response of Stage 1, neutrophils are the first responders. When the demand is sudden, the bone marrow releases young neutrophils (bands) before they mature, creating a left shift. Neutrophil-driven responses with bands are typical of acute, usually bacterial, inflammation such as appendicitis, not chronic or allergic processes.",
    "takeaway": "↑ Bands = left shift = acute, neutrophil-driven (usually bacterial) inflammation.",
    "hintContent": "Connect the white blood cell that arrives first in the cellular response with what an immature form of that cell in the blood means.",
-   "hintStrategy": "Identify what type of cell a band is, then decide which type of inflammation (acute or chronic, bacterial or allergic) is driven by that cell."
+   "hintStrategy": "Identify what type of cell a band is, then decide which type of inflammation (acute or chronic, bacterial or allergic) is driven by that cell.",
+   "bestAnswer": true
   },
   {
    "id": "m10d-003",
@@ -97,20 +98,21 @@ window.NURSE_DATA.push({
    "options": [
     "The inflammation is still local because the temperature is below 38.5 °C",
     "The systemic response may be more severe than the temperature shows",
-    "The ibuprofen has treated the inflammation, so surgery may not be needed",
-    "The high bands suggest an allergic reaction to the ibuprofen taken at home"
+    "The rapid heart rate is most likely caused by pain and anxiety",
+    "The ibuprofen has brought the fever under good control"
    ],
    "answer": 1,
    "optionRationales": [
-    "HR, RR, and WBC with bands all meet systemic cutoffs, so the process is not local even with a lower temperature.",
-    "Correct. Ibuprofen blocks prostaglandins and lowers fever, so the measured temperature may understate a systemic response that the HR, RR, and WBC already show.",
-    "Ibuprofen reduces pain and fever by blocking prostaglandins; it does not remove the inflamed, infected appendix.",
-    "A left shift reflects an acute bacterial response, not an allergy to the drug."
+    "Incorrect. A temperature below 38.5 °C may look reassuring, but the other systemic criteria are met and the recent NSAID dose can hide fever.",
+    "Correct. Ibuprofen blocks prostaglandins and can blunt fever, yet HR, RR, WBC, and bands already meet systemic cutoffs. The provider needs to know the response may be worse than the temperature suggests.",
+    "Incorrect. Pain and anxiety can raise the heart rate, but the tachypnea, high WBC, and bands show a systemic inflammatory response, not just pain.",
+    "Incorrect. The ibuprofen probably did lower the temperature, but that is the problem: it masks fever while the other findings show worsening systemic inflammation."
    ],
    "rationale": "NSAIDs block prostaglandins, the mediators that reset the thermostat, so a recent dose can hide fever. The other systemic cutoffs are clearly met (HR >90, RR >20, WBC >12,000 with bands), and rebound tenderness is a worrying local sign. The key conclusion to report is that the inflammation is systemic and possibly worse than the temperature suggests.",
    "takeaway": "NSAIDs (and steroids) can mask fever; judge a systemic response by all the cutoffs, not the temperature alone.",
    "hintContent": "Link how ibuprofen works on prostaglandins with the four systemic signs of inflammation.",
-   "hintStrategy": "Check each value against its systemic cutoff, then ask which finding a recent medication could be hiding."
+   "hintStrategy": "Check each value against its systemic cutoff, then ask which finding a recent medication could be hiding.",
+   "bestAnswer": true
   },
   {
    "id": "m10d-004",
@@ -169,21 +171,22 @@ window.NURSE_DATA.push({
    "stem": "A client with appendicitis is awaiting surgery. The client says, “The pain suddenly got a lot better about 30 minutes ago, but now my whole belly hurts.” The abdomen is rigid and board-like. T 39.1 °C (102.4 °F), HR 124/min, RR 26/min, BP 96/58 mm Hg. Which action should the nurse take first?",
    "options": [
     "Give the PRN IV morphine and reassess the pain in 30 minutes",
-    "Reassure the client that the relief means the swelling is going down",
+    "Recheck the vital signs in 15 minutes to confirm the trend",
     "Give acetaminophen and apply cool cloths to lower the temperature",
     "Notify the surgeon of the findings immediately using SBAR"
    ],
    "answer": 3,
    "optionRationales": [
-    "Pain control matters, but treating the pain first delays the surgical team’s response to a likely perforation.",
-    "Sudden relief followed by diffuse pain suggests the appendix burst; false reassurance delays care.",
-    "The fever is a symptom of spreading infection; cooling measures do not address the cause.",
-    "Correct. Sudden relief, then diffuse pain, a rigid abdomen, and worsening systemic signs suggest perforation with peritonitis, which needs the surgeon now."
+    "Incorrect. Pain relief is appropriate, but it does not treat the likely perforation and worsening systemic response, which need the surgeon now.",
+    "Incorrect. Ongoing monitoring is needed, but the findings already show perforation and worsening systemic response; waiting 15 minutes delays surgical treatment.",
+    "Incorrect. Lowering the fever is reasonable comfort care, but it treats a symptom and is lower priority than getting surgical help for a likely perforation.",
+    "Correct. Sudden pain relief followed by diffuse pain and a rigid abdomen suggests perforation and peritonitis. With worsening vital signs, the client needs urgent surgical care, so the surgeon is notified first."
    ],
    "rationale": "Local appendix pain that suddenly eases and then spreads across a rigid abdomen means the inflamed appendix has likely perforated, spreading infection through the abdomen. The rising temperature, HR, and RR and the falling BP confirm the response is systemic and worsening. This cannot be managed by the nurse alone, so the surgeon is notified immediately.",
    "takeaway": "Appendicitis + sudden relief then diffuse pain, rigid belly, and worsening vital signs = perforation; call the surgeon now.",
    "hintContent": "Connect a change from localized to generalized abdominal pain with the trend of the systemic signs.",
-   "hintStrategy": "Decide whether this is an expected change or a new complication, then choose the action that gets definitive treatment fastest."
+   "hintStrategy": "Decide whether this is an expected change or a new complication, then choose the action that gets definitive treatment fastest.",
+   "bestAnswer": true
   },
   {
    "id": "m10d-006",
@@ -203,20 +206,21 @@ window.NURSE_DATA.push({
    "options": [
     "Document that the client is improving because the systemic markers are falling",
     "Report the port-site findings to the surgeon",
-    "Apply a warm compress to the port site and recheck it at the next shift",
-    "Advance the diet as ordered and reassess the incision tomorrow morning"
+    "Apply a warm compress and recheck the site at the next shift",
+    "Clean the port site and cover it with a dry dressing"
    ],
    "answer": 1,
    "optionRationales": [
-    "Systemic markers can improve while a local wound infection begins; each finding must be judged separately.",
+    "Incorrect. The systemic markers really are improving, but a local wound infection can start while they fall, so each finding must be judged separately.",
     "Correct. Spreading redness, warmth, induration, and cloudy (purulent) drainage suggest a port-site infection that needs follow-up.",
-    "A warm compress does not treat a developing infection and delays reporting it.",
-    "Advancing the diet is appropriate, but waiting until tomorrow to reassess leaves a possible infection unreported."
+    "Incorrect. Warmth can ease local discomfort, but it does not treat a developing infection, and waiting until the next shift delays reporting it.",
+    "Incorrect. Wound care is part of managing the site, but cleaning and covering it does not get the likely infection evaluated and treated."
    ],
    "rationale": "Falling temperature, WBC, bands, and CRP show the systemic response is resolving. But the incision tells a separate story: cloudy yellow drainage is purulent exudate, and spreading redness with warmth and induration means local infection. Improvement in one area does not cancel a new problem in another, so the nurse reports the wound findings.",
    "takeaway": "Judge systemic markers and the wound separately; purulent drainage with spreading redness needs reporting even when labs improve.",
    "hintContent": "Connect the types of exudate with what falling WBC and CRP can and cannot tell you.",
-   "hintStrategy": "Separate the whole-body trend from the local wound findings, then ask whether any single finding is abnormal on its own."
+   "hintStrategy": "Separate the whole-body trend from the local wound findings, then ask whether any single finding is abnormal on its own.",
+   "bestAnswer": true
   },
   {
    "id": "m10d-007",
@@ -281,15 +285,16 @@ window.NURSE_DATA.push({
    ],
    "answer": 2,
    "optionRationales": [
-    "Diphenhydramine blocks only histamine, acts slowly, and does not open the airway or raise BP; the order specifies after epinephrine.",
-    "Oxygen is needed, but it does not reverse the airway swelling and vasodilation causing the low SpO₂.",
+    "Incorrect. Diphenhydramine blocks only histamine, acts slowly, and does not open the airway or raise BP; the order specifies after epinephrine.",
+    "Incorrect. Oxygen is needed, but it does not reverse the airway swelling and vasodilation causing the low SpO₂.",
     "Correct. Epinephrine constricts vessels and opens the airways, directly reversing the body-wide mediator release.",
-    "The bolus supports BP, but without epinephrine the vessels keep dilating and leaking."
+    "Incorrect. The bolus supports BP, but without epinephrine the vessels keep dilating and leaking."
    ],
    "rationale": "Skin (wheals), airway (hoarseness, throat tightness, wheezing), GI (cramps, vomiting), and circulation (BP 84/50, HR 124) are all involved after a known allergen. Massive mast-cell release of histamine, leukotrienes, and other mediators is causing widespread vasodilation, capillary leak, and bronchoconstriction. Epinephrine is the only drug that reverses all of these, so it comes first; oxygen, fluids, and antihistamines are supportive.",
    "takeaway": "Anaphylaxis: epinephrine IM first. Antihistamines block one mediator and never replace epinephrine.",
    "hintContent": "Connect which mediators are released in anaphylaxis with what each drug on the order sheet can and cannot reverse.",
-   "hintStrategy": "Identify the condition from the systems involved, then pick the one intervention that treats the cause of both the airway and circulation problems."
+   "hintStrategy": "Identify the condition from the systems involved, then pick the one intervention that treats the cause of both the airway and circulation problems.",
+   "bestAnswer": true
   },
   {
    "id": "m10d-009",
@@ -426,21 +431,22 @@ window.NURSE_DATA.push({
    "stem": "During a preoperative interview for a laparoscopic cholecystectomy, a client states, “The last time a dentist wore rubber gloves, I broke out in hives and my lips swelled.” Which action is the nurse’s priority?",
    "options": [
     "Notify the surgical team and arrange a latex-safe environment",
-    "Document the reaction in the chart as a minor skin sensitivity",
+    "Add latex to the allergy list in the client’s chart",
     "Ask the provider to prescribe an antihistamine before the surgery",
-    "Explain that a skin reaction to gloves will not affect the surgery"
+    "Ask the client whether other rubber items cause a reaction"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Latex is an anaphylaxis trigger, and lip swelling shows more than a skin reaction; the perioperative team must avoid latex exposure.",
-    "Lip swelling is not minor; documenting it as a skin sensitivity underestimates the risk.",
-    "An antihistamine does not prevent anaphylaxis; avoiding the trigger does.",
-    "Surgery involves many latex products, so this reassurance is false and unsafe."
+    "Correct. Hives and lip swelling after glove contact suggest a significant latex allergy. Telling the surgical team so they can prepare a latex-safe room prevents exposure, which is the only reliable protection.",
+    "Incorrect. Documenting the allergy is necessary, but on its own it may not reach the surgical team in time to prepare a latex-free setup.",
+    "Incorrect. Premedication may lessen some symptoms, but it does not prevent anaphylaxis; avoiding latex exposure is the priority.",
+    "Incorrect. A fuller allergy history is useful, but the reaction already described is enough to act on; more questions delay protecting the client."
    ],
    "rationale": "Latex is one of the four anaphylaxis trigger groups on the slides, and lip swelling indicates a significant reaction. The nurse’s preoperative role includes identifying risks and communicating them so the surgical team can prepare a latex-safe environment. Prevention means avoiding the trigger.",
    "takeaway": "A latex reaction with lip swelling before surgery = notify the team and set up latex-safe care.",
    "hintContent": "Connect the slide list of anaphylaxis triggers with the nurse’s role in preoperative care.",
-   "hintStrategy": "Decide how serious the reported reaction was, then think about what the surgical environment will expose the client to."
+   "hintStrategy": "Decide how serious the reported reaction was, then think about what the surgical environment will expose the client to.",
+   "bestAnswer": true
   },
   {
    "id": "m10d-015",
@@ -465,9 +471,9 @@ window.NURSE_DATA.push({
    ],
    "answer": 3,
    "optionRationales": [
-    "The outer thigh is the correct site, and the auto-injector can be given through clothing.",
-    "Symptoms can return, so calling 911 after every use is correct.",
-    "Children’s doses are weight-based; this shows correct understanding.",
+    "Incorrect. The outer thigh is the correct site, and the auto-injector can be given through clothing.",
+    "Incorrect. Symptoms can return, so calling 911 after every use is correct.",
+    "Incorrect. Children’s doses are weight-based; this shows correct understanding.",
     "Correct. Skin plus GI symptoms after the allergen is anaphylaxis; an antihistamine cannot replace epinephrine, and waiting delays life-saving care."
    ],
    "rationale": "Two body systems (skin and GI) involved after a known allergen meet the definition of anaphylaxis, so epinephrine is given right away. Antihistamines block only histamine and act slowly. The parent correctly understands the injection site, calling 911, and weight-based pediatric dosing.",
@@ -495,15 +501,16 @@ window.NURSE_DATA.push({
    ],
    "answer": 2,
    "optionRationales": [
-    "Lying down with the legs raised is correct for a dizzy person, but it follows epinephrine; positioning does not reverse the airway swelling and vasodilation.",
-    "An oral antihistamine is slow and does not open the airway or raise BP.",
+    "Incorrect. Lying down with the legs raised is correct for a dizzy person, but it follows epinephrine; positioning does not reverse the airway swelling and vasodilation.",
+    "Incorrect. An oral antihistamine is slow and does not open the airway or raise BP.",
     "Correct. Once EMS is called, epinephrine IM into the outer thigh is the priority because it reverses airway swelling and vasodilation.",
-    "Timing and monitoring come after epinephrine is given, not instead of it."
+    "Incorrect. Timing and monitoring come after epinephrine is given, not instead of it."
    ],
    "rationale": "Outside the hospital the slide treatment is immediate epinephrine plus EMS activation. EMS has been called, so the next action is the auto-injector into the outer thigh. Several options are correct community steps, but they follow epinephrine: the person then lies down with the legs raised, the time is noted, and a second dose is given if symptoms continue.",
    "takeaway": "Community anaphylaxis: call 911, epinephrine auto-injector into the outer thigh, then position and monitor.",
    "hintContent": "Recall the slide treatment for anaphylaxis outside the hospital.",
-   "hintStrategy": "Note which steps are already done, then choose the next step in the sequence."
+   "hintStrategy": "Note which steps are already done, then choose the next step in the sequence.",
+   "bestAnswer": true
   },
   {
    "id": "m10d-019",
@@ -529,15 +536,16 @@ window.NURSE_DATA.push({
    ],
    "answer": 3,
    "optionRationales": [
-    "Prolonged morning stiffness is an expected symptom of chronic RA and is stable.",
-    "A temperature of 38.0 °C is below the systemic cutoff of 38.5 °C and is not unexpected on day 1 of antibiotics.",
-    "Hyperglycemia is an expected steroid adverse effect that needs follow-up but is not immediately life-threatening.",
+    "Incorrect. Prolonged morning stiffness is an expected symptom of chronic RA and is stable.",
+    "Incorrect. A temperature of 38.0 °C is below the systemic cutoff of 38.5 °C and is not unexpected on day 1 of antibiotics.",
+    "Incorrect. Hyperglycemia is an expected steroid adverse effect that needs follow-up but is not immediately life-threatening.",
     "Correct. Hoarseness after allergen exposure signals laryngeal swelling from anaphylaxis, an airway emergency."
    ],
    "rationale": "Use the ABCs, then unstable before stable. Hoarseness and throat symptoms after a known allergen mean the airway is swelling. The RA stiffness is a chronic, expected finding; the cellulitis temperature does not yet meet the systemic cutoff early in treatment; and steroid-induced hyperglycemia is an expected adverse effect that can be addressed after the airway threat.",
    "takeaway": "Airway threat from anaphylaxis beats chronic, expected, and medication-related findings.",
    "hintContent": "Weigh an airway sign after an allergen against a chronic symptom, a borderline temperature, and a known steroid effect.",
-   "hintStrategy": "Apply the ABCs first, then ask which findings are expected for the condition or drug."
+   "hintStrategy": "Apply the ABCs first, then ask which findings are expected for the condition or drug.",
+   "bestAnswer": true
   },
   {
    "id": "m10d-020",
@@ -595,21 +603,22 @@ window.NURSE_DATA.push({
    "stem": "A client is on day 5 of IV antibiotics for an infected leg wound. The CRP has decreased from 12.4 mg/dL to 3.1 mg/dL, and the ESR from 72 mm/hr to 68 mm/hr. The wound drainage has changed from thick yellow-green to scant and serous. Which interpretation by the nurse is accurate?",
    "options": [
     "The antibiotics are failing because the ESR is still high",
-    "The lab values conflict, so a laboratory error is likely",
+    "More data are needed before the response can be judged",
     "Treatment is working; the ESR falls more slowly than CRP",
-    "The thinner drainage shows a new infection is developing"
+    "The falling CRP shows the infection has fully resolved"
    ],
    "answer": 2,
    "optionRationales": [
-    "ESR rises and falls slowly and can stay high for weeks after improvement, so it does not show treatment failure.",
-    "CRP and ESR normally change at different speeds; this pattern is expected, not an error.",
-    "Correct. The falling CRP and the change from purulent to serous drainage both show the infection is responding.",
-    "A change from purulent to scant serous drainage is a healthy trend, not a sign of new infection."
+    "Incorrect. The ESR being high is accurate, but ESR changes slowly; judging treatment by ESR alone ignores the falling CRP and improving wound.",
+    "Incorrect. Ongoing monitoring is reasonable, but the CRP trend and wound changes already provide enough data to conclude treatment is working.",
+    "Correct. CRP rises and falls quickly, while ESR lags behind. The sharp CRP drop and change to scant serous drainage both show the treatment is working.",
+    "Incorrect. The falling CRP does show improvement, but a CRP of 3.1 mg/dL is still elevated, so the infection is improving, not fully resolved."
    ],
    "rationale": "CRP rises and falls quickly, which makes it the better marker for monitoring treatment, while ESR lags. The wound confirms the lab trend: purulent exudate (dead neutrophils and bacteria) has given way to scant serous exudate, which is seen late in healing. Both pieces of data point to an effective response.",
    "takeaway": "Falling CRP + drainage changing from purulent to serous = treatment working, even if ESR is still high.",
    "hintContent": "Connect how quickly CRP and ESR change with what each type of wound exudate means.",
-   "hintStrategy": "Interpret the fast marker, the slow marker, and the wound trend separately, then see if they agree."
+   "hintStrategy": "Interpret the fast marker, the slow marker, and the wound trend separately, then see if they agree.",
+   "bestAnswer": true
   },
   {
    "id": "m10d-024",
@@ -673,10 +682,10 @@ window.NURSE_DATA.push({
    ],
    "answer": 1,
    "optionRationales": [
-    "SLE involves overproduction of antibodies, so gamma globulin rises rather than falls.",
+    "Incorrect. SLE involves overproduction of antibodies, so gamma globulin rises rather than falls.",
     "Correct. In SLE the immune system overproduces antibodies (gamma globulins), and albumin often falls with chronic inflammation.",
-    "An active autoimmune process with an ESR of 58 (normal for women 0–20) is not expected to show normal fractions.",
-    "Gamma globulin is increased, not decreased, in SLE."
+    "Incorrect. An active autoimmune process with an ESR of 58 (normal for women 0–20) is not expected to show normal fractions.",
+    "Incorrect. Gamma globulin is increased, not decreased, in SLE."
    ],
    "rationale": "SLE is a chronic autoimmune inflammatory disease in which the immune system attacks the body’s own tissues. The ESR of 58 mm/hr is well above the female range of 0–20, showing active inflammation. The slides list increased gamma globulin (antibodies) and decreased albumin on protein electrophoresis in SLE.",
    "takeaway": "SLE: ↑ ESR, ↑ gamma globulin, ↓ albumin.",
@@ -707,14 +716,15 @@ window.NURSE_DATA.push({
    "answer": 0,
    "optionRationales": [
     "Correct. A temperature below 36 °C, HR above 90, RR above 20, and WBC above 12,000 with bands meet every systemic cutoff; older adults often run low rather than febrile.",
-    "A falling ESR in chronic RA shows improving inflammation.",
-    "A WBC returning to normal shows the wound infection is resolving.",
-    "These are expected findings in SLE, a known chronic condition."
+    "Incorrect. A falling ESR in chronic RA shows improving inflammation.",
+    "Incorrect. A WBC returning to normal shows the wound infection is resolving.",
+    "Incorrect. These are expected findings in SLE, a known chronic condition."
    ],
    "rationale": "Systemic beats local and unstable beats stable. The older adult with pneumonia meets every slide cutoff for a systemic response, including a low temperature, which is a common presentation at this age. The other results show improving acute or chronic inflammation or findings expected for a known diagnosis.",
    "takeaway": "A LOW temperature with tachycardia, tachypnea, and a left shift in an older adult is a systemic response; report it first.",
    "hintContent": "Combine the systemic cutoffs (including low temperature) with how older adults present with infection and how chronic disease markers trend.",
-   "hintStrategy": "Mark each client as improving, expected, or unstable, then report the unstable one."
+   "hintStrategy": "Mark each client as improving, expected, or unstable, then report the unstable one.",
+   "bestAnswer": true
   },
   {
    "id": "m10d-031",
@@ -772,22 +782,23 @@ window.NURSE_DATA.push({
    ],
    "stem": "A client with acute elbow bursitis has been taking ibuprofen and asks, “Can I switch to acetaminophen? My neighbor says it works the same on the swelling.” Which response by the nurse is most accurate?",
    "options": [
-    "“Acetaminophen blocks histamine, so it reduces the swelling just as well.”",
-    "“Both drugs block prostaglandins equally, so either will shrink the swelling.”",
-    "“Acetaminophen is also an NSAID, so it has the same benefits and risks.”",
+    "“Acetaminophen is gentler on the stomach, so it is a safe switch.”",
+    "“Acetaminophen relieves pain well, so it will help the bursitis too.”",
+    "“Only your provider can decide which pain medicine is best for you.”",
     "“Acetaminophen eases pain and fever but does little for the swelling.”"
    ],
    "answer": 3,
    "optionRationales": [
-    "Acetaminophen does not block histamine, and blocking histamine is not how swelling from bursitis is treated.",
-    "Acetaminophen has very little anti-inflammatory effect at the site, unlike ibuprofen.",
-    "Acetaminophen is a non-opioid analgesic, not an NSAID; it spares the stomach but can harm the liver.",
-    "Correct. Acetaminophen relieves pain and fever but has little anti-inflammatory effect, so it will not reduce swelling."
+    "Incorrect. Acetaminophen does cause less stomach irritation, but this does not answer the question about swelling, which acetaminophen barely affects.",
+    "Incorrect. Acetaminophen does relieve pain, but bursitis swelling comes from inflammation, and acetaminophen has very little anti-inflammatory effect.",
+    "Incorrect. Involving the provider in a medication change is reasonable, but the nurse can and should teach how the two drugs differ.",
+    "Correct. Acetaminophen relieves pain and fever but has little anti-inflammatory effect, so it will not reduce the swelling the way ibuprofen does."
    ],
    "rationale": "Swelling comes from increased capillary permeability driven by mediators such as prostaglandins. Ibuprofen, an NSAID, lowers prostaglandin production and so reduces pain, fever, and swelling. Acetaminophen relieves pain and fever but has very little anti-inflammatory effect, so it will not bring the swelling down.",
    "takeaway": "Acetaminophen = pain and fever only. NSAIDs = pain, fever, AND inflammation (swelling).",
    "hintContent": "Connect which mediator causes the swelling with which drug class actually reduces it at the site.",
-   "hintStrategy": "Identify what causes the swelling, then check which drug acts on that cause."
+   "hintStrategy": "Identify what causes the swelling, then check which drug acts on that cause.",
+   "bestAnswer": true
   },
   {
    "id": "m10d-034",
@@ -802,22 +813,23 @@ window.NURSE_DATA.push({
    "alsoTests": [],
    "stem": "A client is prescribed ibuprofen 600 mg every 6 hours for acute tendinitis. Which item in the client’s medication history is most important for the nurse to clarify with the prescriber before giving the first dose?",
    "options": [
-    "Levothyroxine 75 mcg daily",
-    "Loratadine 10 mg daily in spring",
+    "Lisinopril 10 mg daily",
+    "Omeprazole 20 mg daily",
     "Warfarin 5 mg daily",
-    "Vitamin D 1,000 units daily"
+    "Hydrochlorothiazide 25 mg daily"
    ],
    "answer": 2,
    "optionRationales": [
-    "Levothyroxine has no important interaction with a short course of ibuprofen.",
-    "Loratadine, an antihistamine, does not raise the risk of NSAID harm.",
-    "Correct. An NSAID plus an anticoagulant greatly increases the risk of serious bleeding.",
-    "Vitamin D does not interact with ibuprofen."
+    "Incorrect. NSAIDs can blunt ACE inhibitors and stress the kidneys, so this is worth noting, but the bleeding risk with warfarin is more dangerous.",
+    "Incorrect. A proton pump inhibitor is relevant because it protects the stomach from NSAIDs, but it lowers risk rather than creating a danger.",
+    "Correct. NSAIDs impair platelet function and stomach protection. Combined with warfarin, the risk of serious GI and other bleeding rises sharply, so this needs clarifying before the first dose.",
+    "Incorrect. NSAIDs can reduce the effect of diuretics and affect kidney function, but this is less immediately dangerous than bleeding with warfarin."
    ],
    "rationale": "NSAIDs block prostaglandins everywhere, including those that protect the stomach lining and help platelets function. Combined with warfarin, the risk of serious GI and other bleeding rises sharply, so the prescription should be clarified before the first dose.",
    "takeaway": "Question an NSAID in a client taking an anticoagulant.",
    "hintContent": "Recall the adverse effects of NSAIDs and which other drugs add to them.",
-   "hintStrategy": "Look for the medication whose risk overlaps with a known NSAID adverse effect."
+   "hintStrategy": "Look for the medication whose risk overlaps with a known NSAID adverse effect.",
+   "bestAnswer": true
   },
   {
    "id": "m10d-035",
@@ -878,20 +890,21 @@ window.NURSE_DATA.push({
    "options": [
     "The findings are within expected limits for postoperative day 4",
     "The prednisone may be masking signs of a developing infection",
-    "The prednisone has fully controlled the inflammation at the incision",
-    "Slight swelling without redness rules out a wound infection"
+    "The low-grade temperature is most likely from atelectasis",
+    "The increasing pain needs a stronger analgesic order"
    ],
    "answer": 1,
    "optionRationales": [
-    "Pain that increases on day 4 instead of easing, with a rising HR, is not the expected healing pattern.",
-    "Correct. Steroids suppress the inflammatory response, blunting fever and redness, so increasing pain and HR may be the only early clues.",
-    "Suppressing the classic signs does not mean the tissue is healing or free of infection.",
-    "Steroids can hide redness, so its absence does not rule out infection."
+    "Incorrect. These numbers might be acceptable in another client, but pain should be easing by day 4, and steroids blunt the usual signs of infection.",
+    "Correct. Prednisone suppresses inflammation, hiding redness, heat, swelling, and fever. Increasing pain and a heart rate near 100 may be the only clues to infection and should be reported.",
+    "Incorrect. Atelectasis can cause low-grade fever early after surgery, but it is less likely on day 4 and does not explain the worsening incisional pain.",
+    "Incorrect. Pain control matters, but pain that increases on day 4 is a warning sign to investigate, not simply treat with more analgesia."
    ],
    "rationale": "Corticosteroids suppress the inflammatory response, so the cardinal signs (redness, heat, swelling) and fever that normally reveal infection are blunted. In a client on prednisone, subtle changes such as pain that increases instead of easing and a heart rate above 90 matter more and should be reported.",
    "takeaway": "Steroids hide the classic signs; in these clients, rising pain or HR may be the only early sign of infection.",
    "hintContent": "Connect how corticosteroids affect the cardinal signs with which assessment findings still change during infection.",
-   "hintStrategy": "Ask what you would normally expect to see with a wound infection and how the medication changes that picture."
+   "hintStrategy": "Ask what you would normally expect to see with a wound infection and how the medication changes that picture.",
+   "bestAnswer": true
   },
   {
    "id": "m10d-037",
@@ -911,20 +924,21 @@ window.NURSE_DATA.push({
    "options": [
     "Take a warm shower or soak the hands in warm water after waking",
     "Apply a cloth-wrapped ice pack to each hand for 15–20 minutes",
-    "Keep both hands immobilized in resting splints all day long",
-    "Delay all hand activity until the afternoon when stiffness eases"
+    "Wear resting splints on both hands at night to support the joints",
+    "Use assistive devices to avoid using the hands in the morning"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Heat causes vasodilation and relaxes stiff joints; it is appropriate for chronic stiffness without acute signs.",
-    "The technique is safe, but cold is for fresh, acutely swollen injuries; with no redness or warmth, the problem is chronic stiffness, which heat relieves.",
-    "Constant immobilization worsens stiffness and loss of function in chronic arthritis.",
-    "Avoiding activity reduces mobility; gentle activity after warmth is preferred."
+    "Correct. Without redness or warmth, the problem is chronic stiffness, not acute swelling. Heat increases blood flow and relaxes stiff joints, directly easing morning stiffness.",
+    "Incorrect. Cold applied safely is right for acute, swollen, warm joints, but these joints are not acutely inflamed, and cold can worsen stiffness.",
+    "Incorrect. Night splints can rest painful joints in RA, but they do not relieve existing morning stiffness the way heat does.",
+    "Incorrect. Assistive devices help protect joints, but avoiding hand use keeps joints stiff; gentle movement after heat is better."
    ],
-   "rationale": "RA is chronic inflammation. With no acute cardinal signs (redness, warmth) present, the problem is stiffness, not fresh swelling. Heat increases blood flow and relaxes stiff joints, so it is the right choice here; cold, even when applied safely, is reserved for new, acutely swollen injuries.",
+   "rationale": "RA is chronic inflammation. With no acute cardinal signs (redness, warmth) present, the problem is stiffness, not fresh swelling. Heat increases blood flow and relaxes stiff joints, so it is the right choice here; cold is reserved for new, acutely swollen joints, and splints or avoiding hand use do not relieve stiffness that is already present.",
    "takeaway": "Ice for fresh acute swelling; heat for chronic stiffness without acute redness or warmth.",
    "hintContent": "Connect the difference between acute and chronic inflammation with the vessel effects of heat and cold.",
-   "hintStrategy": "Check whether acute cardinal signs are present, then match the therapy to the problem."
+   "hintStrategy": "Check whether acute cardinal signs are present, then match the therapy to the problem.",
+   "bestAnswer": true
   },
   {
    "id": "m10d-040",
@@ -940,21 +954,22 @@ window.NURSE_DATA.push({
    "stem": "A client admitted with acute cholecystitis is NPO and awaiting cholecystectomy. The client says, “I’m starving. Why can’t I just have a little something to eat?” Which explanation by the nurse is most accurate?",
    "options": [
     "“You need to stay NPO so the bowel shows clearly on tomorrow’s x-ray.”",
-    "“Food in your stomach would neutralize the antibiotics you are receiving through the IV.”",
-    "“Not eating will help you lose weight, which is important before surgery.”",
+    "“Not eating lets your stomach rest while the IV gives you the fluids you need.”",
+    "“Fatty foods upset the gallbladder, but a low-fat snack is fine.”",
     "“Eating makes your gallbladder contract, which worsens inflammation and pain.”"
    ],
    "answer": 3,
    "optionRationales": [
-    "NPO in cholecystitis is not ordered to improve an x-ray image.",
-    "Food does not neutralize IV antibiotics.",
-    "Weight loss is not the purpose of preoperative NPO status.",
-    "Correct. Food triggers gallbladder contraction, increasing pain and inflammation; NPO rests the organ and prepares for anesthesia."
+    "Incorrect. Some imaging does require NPO status, but the main reason here is to rest the inflamed gallbladder before surgery.",
+    "Incorrect. Resting the GI tract and giving IV fluids are part of care, but it is the gallbladder, not the stomach, that food stimulates and that is inflamed.",
+    "Incorrect. Fat is the strongest trigger for gallbladder contraction, but any food stimulates it, and the client must stay NPO before surgery.",
+    "Correct. Food triggers a hormone that makes the gallbladder contract, increasing pain and inflammation. Staying NPO rests the organ and prepares the client for surgery."
    ],
    "rationale": "When food arrives, a hormone signals the gallbladder to contract. In cholecystitis this increases pain and inflammation. Keeping the client NPO rests the inflamed organ and also prepares the client for anesthesia and surgery.",
    "takeaway": "Cholecystitis: NPO rests the gallbladder (and prepares for surgery).",
    "hintContent": "Recall what eating does to the gallbladder and why an inflamed organ is rested before surgery.",
-   "hintStrategy": "Choose the explanation that links eating to the inflamed organ itself."
+   "hintStrategy": "Choose the explanation that links eating to the inflamed organ itself.",
+   "bestAnswer": true
   },
   {
    "id": "m10d-041",
@@ -972,21 +987,22 @@ window.NURSE_DATA.push({
    "stem": "A 14-month-old who weighs 10 kg (22 lb) has had acute gastroenteritis with diarrhea for 2 days. The parent reports only two wet diapers today. The child is alert, with moist mucous membranes. Which intervention is the nurse’s priority?",
    "options": [
     "Offer undiluted apple juice to replace the lost fluids",
-    "Give an over-the-counter antidiarrheal medication",
+    "Ask the provider for an order to start IV fluids",
     "Give small, frequent sips of oral rehydration solution",
-    "Withhold all fluids for 24 hours to rest the bowel"
+    "Weigh the child and count wet diapers for 4 hours"
    ],
    "answer": 2,
    "optionRationales": [
-    "Undiluted juice is high in sugar and can worsen diarrhea.",
-    "OTC antidiarrheals are not a nursing priority for a toddler and do not replace fluid.",
-    "Correct. Small, frequent amounts of oral rehydration solution replace fluid safely in mild to moderate dehydration; wet diapers then show whether it works.",
-    "Withholding fluids is dangerous for a toddler with a small total fluid volume."
+    "Incorrect. Encouraging fluids is right, but undiluted juice is high in sugar and low in sodium, which can worsen diarrhea.",
+    "Incorrect. IV fluids are needed for severe dehydration, but this alert child with moist mucous membranes can be rehydrated orally first.",
+    "Correct. The child shows early fluid loss but is alert with moist mucous membranes, so small, frequent sips of oral rehydration solution replace water and electrolytes safely.",
+    "Incorrect. Weight and diaper counts are good ways to evaluate, but fewer wet diapers already show fluid loss, so rehydration should start now."
    ],
-   "rationale": "A toddler’s smaller total fluid volume and immature kidneys make fluid losses from GI inflammation more significant than in an adult. With the child still alert and mucous membranes moist, small, frequent oral rehydration solution is the priority, and the nurse evaluates by counting wet diapers rather than waiting for vital signs to change.",
+   "rationale": "A toddler’s smaller total fluid volume and immature kidneys make fluid losses from GI inflammation more significant than in an adult. With the child still alert and mucous membranes moist, small, frequent oral rehydration solution is the priority over IV fluids or juice, and the nurse evaluates by counting wet diapers rather than waiting for vital signs to change.",
    "takeaway": "Children lose fluid faster: small, frequent ORS, and track wet diapers.",
    "hintContent": "Connect a child’s fluid volume and kidney function with safe fluid replacement.",
-   "hintStrategy": "Judge how dehydrated the child is now, then pick the safest way to replace fluid for that level."
+   "hintStrategy": "Judge how dehydrated the child is now, then pick the safest way to replace fluid for that level.",
+   "bestAnswer": true
   },
   {
    "id": "m10d-042",
@@ -1004,22 +1020,23 @@ window.NURSE_DATA.push({
    ],
    "stem": "A 15-year-old with Crohn’s disease has been taking prednisone for 6 weeks and tells the nurse, “I’m going to stop taking it. My face is so round and I have acne. Everyone at school stares at me.” Which response by the nurse is best?",
    "options": [
-    "“Your health matters more than how you look, so keep taking it.”",
+    "“Your health is more important than how you look right now.”",
     "“Tell me more about how these changes are affecting you at school.”",
-    "“Lots of teenagers have acne at your age, so nobody at school will really notice yours.”",
-    "“You can stop the prednisone once your symptoms are better.”"
+    "“Many teens feel this way, and the roundness fades after treatment.”",
+    "“Let’s ask your provider whether your dose can be lowered.”"
    ],
    "answer": 1,
    "optionRationales": [
-    "This dismisses the teen’s concern and makes it less likely the teen will keep taking the drug.",
-    "Correct. Exploring the body-image concern first builds trust; the nurse can then explain why the drug must not be stopped suddenly.",
-    "False reassurance minimizes the concern and closes the conversation.",
-    "Stopping prednisone suddenly after weeks of use risks adrenal insufficiency; it must be tapered."
+    "Incorrect. Health is the priority, but this dismisses a body-image concern that matters greatly to teens and may push the teen to stop the drug anyway.",
+    "Correct. An open-ended response explores the body-image concern first. Teens who feel heard are more likely to keep taking the medication, and teaching can follow.",
+    "Incorrect. This is supportive and true, but it offers reassurance before the nurse understands how the changes are affecting the teen.",
+    "Incorrect. Involving the provider may be appropriate later, but it jumps to a solution before the nurse has explored the teen’s concern."
    ],
    "rationale": "A round face and acne are expected steroid effects, and adolescents are especially sensitive to body image. Teens are more likely to keep taking a medication when they feel heard, so the nurse first explores the concern and then teaches that prednisone must never be stopped suddenly and that the provider can discuss options.",
    "takeaway": "Teen upset about steroid effects: explore the concern first, then teach never to stop suddenly.",
    "hintContent": "Combine adolescent developmental needs with the risks of stopping corticosteroids abruptly.",
-   "hintStrategy": "Consider the teen's developmental needs and what each response would do to the teen's willingness to keep talking and keep taking the medication."
+   "hintStrategy": "Consider the teen's developmental needs and what each response would do to the teen's willingness to keep talking and keep taking the medication.",
+   "bestAnswer": true
   },
   {
    "id": "m10d-043",
@@ -1078,21 +1095,22 @@ window.NURSE_DATA.push({
    "stem": "A client with acute cellulitis of the forearm has received IV antibiotics for 48 hours. On admission, the nurse outlined the redness with a skin marker. Which finding best indicates that treatment is effective?",
    "options": [
     "Redness has receded inside the marked border",
-    "Temperature has risen from 37.8 °C to 38.4 °C",
-    "Redness now extends 2 cm past the marked border",
-    "A new soft, fluid-filled area formed in the center"
+    "The client says the arm feels a little better",
+    "WBC is 11,800/mm³, down from 12,400/mm³",
+    "Temperature has stayed at 37.8 °C since admission"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Shrinking redness inside the marked line shows the acute inflammation is resolving as the cause is treated.",
-    "A rising temperature suggests the process is worsening, not resolving.",
-    "Redness spreading past the border means the infection is spreading.",
-    "A new fluctuant area suggests abscess formation and needs to be reported."
+    "Correct. The marked border gives an objective, direct measure of the inflamed area. Redness pulling back inside the line clearly shows the infection is responding.",
+    "Incorrect. Feeling better is encouraging, but it is subjective and can reflect analgesics rather than a change in the infection.",
+    "Incorrect. A falling WBC is a good sign, but the change is small and the count is still elevated, so it is weaker evidence than shrinking redness.",
+    "Incorrect. A stable temperature means things are not worse, but an unchanged low-grade fever does not show improvement after 48 hours."
    ],
-   "rationale": "Acute inflammation resolves once its cause is neutralized, so cellulitis should improve with antibiotics. Marking the border of redness gives an objective way to evaluate: redness inside the line means improvement, while spreading redness, a rising temperature, or a fluctuant area means the treatment is not working.",
+   "rationale": "Acute inflammation resolves once its cause is neutralized, so cellulitis should improve with antibiotics. Marking the border of redness gives an objective way to evaluate: redness inside the line means improvement. A client’s report of feeling better, a small WBC drop, or an unchanged low-grade fever are weaker evidence than a direct, measured change at the site.",
    "takeaway": "Evaluate cellulitis objectively: redness shrinking inside the marked border = treatment working.",
    "hintContent": "Connect how acute inflammation behaves once the cause is treated with how the nurse measures redness over time.",
-   "hintStrategy": "Compare each finding with the marked border and with the expected course of acute inflammation once its cause is treated."
+   "hintStrategy": "Compare each finding with the marked border and with the expected course of acute inflammation once its cause is treated.",
+   "bestAnswer": true
   }
  ]
 });

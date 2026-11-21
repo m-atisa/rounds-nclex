@@ -11,17 +11,17 @@ window.NURSE_DATA.push({
    "priority": false,
    "stem": "A nurse with 2 years of medical-surgical experience transfers to a cardiac intensive care unit. During orientation, she asks which standards will be used to judge her care on the new unit. Which response by the preceptor is accurate?",
    "options": [
-    "Only the hospital’s ICU policies apply, because national standards are optional guidelines.",
+    "The unit’s ICU policies set her standard, in place of the national standards.",
     "The ANA baseline standards apply, plus critical care standards from groups such as AACN.",
-    "Medical-surgical standards apply until she earns a critical care certification.",
-    "Her job description sets the standard, so it overrides any national standards."
+    "The ANA standards apply, and AACN critical care standards begin once she is certified.",
+    "AACN critical care standards replace the ANA baseline standards for nurses in the ICU."
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Prevailing national standards help define the standard of care in court; agency policy is only one source.",
-    "Correct. ANA Standards of Practice set the baseline for every RN, and specialty standards add specific expectations for nurses working in that specialty.",
-    "Incorrect. Certification is optional; a nurse practicing in the ICU is judged against what a reasonably prudent critical care nurse would do.",
-    "Incorrect. A job description can narrow a role, but it never replaces the Nurse Practice Act or national standards."
+    "Incorrect. ICU policies do help define expected care on the unit, but they add to national professional standards rather than replace them.",
+    "Correct. Standards are layered: the ANA standards apply to every RN, and specialty standards such as AACN’s add expectations for nurses working in critical care.",
+    "Incorrect. The ANA standards do apply, but specialty standards apply to anyone working in the ICU; she is judged as a reasonably prudent ICU nurse whether or not she is certified.",
+    "Incorrect. AACN standards do apply in the ICU, but they build on the ANA baseline rather than replace it; both layers apply."
    ],
    "rationale": "The standard of care is built in layers. The Nurse Practice Act and Board rules are the legal base. The ANA Standards of Practice describe the competent care expected of every registered nurse. Specialty organizations, such as the American Association of Critical-Care Nurses (AACN) and the Emergency Nurses Association (ENA), add more specific expectations for nurses working in those settings. A nurse who works in the ICU is held to what a reasonably prudent ICU nurse would do, whether or not she is certified.",
    "takeaway": "ANA standards are the floor for every RN; specialty standards add to them for nurses working in that specialty.",
@@ -32,7 +32,8 @@ window.NURSE_DATA.push({
    "cjmm": "Analyze Cues",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m49-u7-002",
@@ -41,17 +42,17 @@ window.NURSE_DATA.push({
    "priority": true,
    "stem": "During an electronic record downtime, a nurse receives a paper order for a client with atrial fibrillation: “Digoxin 0.125 mg daily.” No route is written, and the decimal point is faint and hard to read. The client’s apical pulse is 72/min, and the morning dose is due now. Which action should the nurse take first?",
    "options": [
-    "Give the dose by mouth, since that is how digoxin is usually given.",
+    "Compare the order with the client’s previous digoxin dose.",
     "Ask the charge nurse how she would read the order.",
     "Call the prescriber to clarify the order before giving it.",
     "Hold the dose and flag the order for the prescriber to review on morning rounds."
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Guessing the route of an incomplete order is a medication error waiting to happen, even if the guess is usually right.",
-    "Incorrect. Only the prescriber can confirm what was intended; a coworker’s reading is still a guess.",
-    "Correct. An order with a missing route and an unclear decimal must be verified with the prescriber before the drug is given.",
-    "Incorrect. Holding is reasonable until the order is clear, but waiting for rounds delays a scheduled cardiac drug; the nurse contacts the prescriber now."
+    "Incorrect. The prior dose is useful background, but it cannot confirm what the prescriber intended now; only the prescriber can clarify a missing route and unreadable dose.",
+    "Incorrect. The charge nurse is a good resource, but she cannot know what the prescriber intended; guessing together still risks a large digoxin dose error.",
+    "Correct. Only the prescriber can clarify a missing route and unreadable decimal. Calling now gets a safe, clear order before the due dose, unlike guessing or waiting for rounds.",
+    "Incorrect. Not giving an unclear order is safe, but waiting for rounds delays a due cardiac drug when the prescriber can be reached and the order clarified now."
    ],
    "rationale": "Medication administration is a high-risk nursing activity, and medication errors are a leading cause of malpractice claims. The nurse uses the rights of medication administration, and an order missing the route with an unreadable decimal fails them. A misread decimal point with digoxin can cause a large dose error. The safe first step is to verify the unclear order with the prescriber before giving the drug, then document the clarified order.",
    "takeaway": "Never give a drug from an unclear or incomplete order; verify it with the prescriber first.",
@@ -62,7 +63,8 @@ window.NURSE_DATA.push({
    "cjmm": "Take Action",
    "focus": "Pharmacology",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies"
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "bestAnswer": true
   },
   {
    "id": "m49-u7-003",
@@ -198,7 +200,8 @@ window.NURSE_DATA.push({
    "cjmm": "Take Action",
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m49-u7-007",

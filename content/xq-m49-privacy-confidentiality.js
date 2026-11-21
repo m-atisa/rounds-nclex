@@ -32,7 +32,8 @@ window.NURSE_DATA.push({
       "cjmm": "Take Action",
       "focus": "Prioritization",
       "difficulty": 3,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m49-pc-002",
@@ -79,16 +80,16 @@ window.NURSE_DATA.push({
       "priority": false,
       "stem": "A 16-year-old was treated yesterday at a county health department clinic for gonorrhea. Today his mother calls and says, “I’m his mother, and I have a right to know why he was there.” Which response by the nurse is best?",
       "options": [
-        "“Because he is a minor, I can tell you his diagnosis and treatment.”",
-        "“I’ll mail a copy of his visit summary to your home address today.”",
-        "“He was here for a routine checkup, so there is nothing to worry about.”",
+        "“Since he is a minor, I can share his visit once you show me ID.”",
+        "“I’ll have his provider call you back to discuss his visit today.”",
+        "“I can confirm he was seen, but I can’t share why he was here.”",
         "“I can’t share anything about his visit. Please talk with him.”"
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect. Minors who consent to STI care control that information, so being under 18 does not open it to a parent.",
-        "Incorrect. Mailing the summary discloses confidential care without the client’s permission.",
-        "Incorrect. This statement is untrue, and nurses must not lie, even to protect privacy.",
+        "Incorrect. Verifying a caller’s identity is usually good practice, but proving she is his mother does not matter here. Minor-consent STI care is confidential, even from a parent.",
+        "Incorrect. Involving the provider sounds careful, but it passes the problem to the wrong person. The provider is bound by the same confidentiality rule and cannot share this visit either.",
+        "Incorrect. Withholding the reason protects some details, but confirming that he was seen at the clinic is itself a disclosure of protected minor-consent care.",
         "Correct. A minor may consent to STI care, so that care is confidential, and encouraging family talk is supportive."
       ],
       "rationale": "Every state lets minors consent to diagnosis and treatment of sexually transmitted infections, and in North Carolina this is set out in G.S. 90-21.5. When a minor consents to this care, the information is confidential and generally may not be shared with a parent without the minor’s permission. The nurse declines kindly and encourages the mother to talk with her son. Assuming a parent always has a right to a minor’s records is the common error, because minor-consent services are an exception.",
@@ -102,7 +103,8 @@ window.NURSE_DATA.push({
       "cjmm": "Generate Solutions",
       "focus": "Lifespan & Diversity",
       "difficulty": 3,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m49-pc-004",
@@ -114,14 +116,14 @@ window.NURSE_DATA.push({
         "Say there is no information to give and alert security",
         "Ask the man for photo identification to confirm the marriage",
         "Call the client’s room to ask whether she wants to see him",
-        "Give the room number but stay with them during the visit"
+        "Tell him visiting hours are over and to return tomorrow"
       ],
       "answer": 0,
       "optionRationales": [
         "Correct. Confirming nothing honors her stated privacy wishes, and security addresses the physical threat a possible abuser poses.",
         "Incorrect. Proof of marriage does not matter; the client already said no one may be told she is here.",
         "Incorrect. The client already stated her wishes, and calling her room in front of him confirms she is admitted.",
-        "Incorrect. Revealing her location breaks her privacy request and exposes her to the person who may have hurt her."
+        "Incorrect. Ending the visit request sounds protective, but it confirms that the client is in the hospital and invites him back. It does nothing to alert security to a possible abuser."
       ],
       "rationale": "Privacy is the client’s right to control who knows about her, including whether she is a patient at all. This client asked that no one be told she is here, and the visitor may be the partner who assaulted her, so a disclosure here creates both a privacy breach and a safety risk. The nurse should confirm nothing and alert security, which also protects staff and other clients. Checking his ID is tempting, but being a spouse gives no right to information the client has refused to share.",
       "takeaway": "When a client asks that her presence be kept private, confirm nothing to anyone, and treat a possible abuser as a safety threat.",
@@ -132,7 +134,8 @@ window.NURSE_DATA.push({
       "cjmm": "Take Action",
       "focus": "Delegation & Safety",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+      "bestAnswer": true
     },
     {
       "id": "m49-pc-005",
@@ -201,7 +204,8 @@ window.NURSE_DATA.push({
       "cjmm": "Generate Solutions",
       "focus": "Client Teaching",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m49-pc-007",
@@ -262,7 +266,8 @@ window.NURSE_DATA.push({
             }
           }
         ]
-      }
+      },
+      "bestAnswer": true
     },
     {
       "id": "m49-pc-008",
@@ -309,16 +314,16 @@ window.NURSE_DATA.push({
       "stem": "A caller to an inpatient psychiatric unit says, “Is my brother, Daniel Okoro, there? Our mom is worried sick.” The client has not signed a release for any family member. Which response by the nurse is best?",
       "options": [
         "“He is here, but I am not allowed to tell you anything else about him.”",
-        "“Yes, he is here, and I can tell your mother that he is doing better.”",
+        "“Please give me his date of birth so I can look him up for you.”",
         "“I can’t confirm or deny whether any person is a patient on this unit.”",
-        "“Let me check his chart so I can give you a short update on his status.”"
+        "“I can share that only with your mother, since she is his parent.”"
       ],
       "answer": 2,
       "optionRationales": [
         "Incorrect. Saying he is here already discloses that he is receiving psychiatric care.",
-        "Incorrect. This confirms his admission and shares his condition without his permission.",
+        "Incorrect. Using two identifiers is a standard safety habit, but here it implies the nurse will confirm his admission once the caller proves who he means. No release exists, so nothing may be confirmed.",
         "Correct. On a psychiatric unit, even confirming that someone is a patient reveals mental health information.",
-        "Incorrect. Checking his chart to update an unverified caller is an improper access and disclosure."
+        "Incorrect. Families often do get updates, but an adult client controls his own information. Without his release, a parent has no more right than a sibling, and this reply implies he is there."
       ],
       "rationale": "PHI includes the fact that a person is receiving care, and on a psychiatric unit that fact alone reveals mental health information. Without the client’s written permission, the nurse may not confirm or deny that he is a patient. The nurse can stay kind and explain that the unit cannot share who is or is not admitted. Saying “He is here, but I can’t tell you more” is tempting because it seems to protect details, yet the admission itself is the sensitive information.",
       "takeaway": "On a psychiatric unit, confirming that a person is a patient is itself a disclosure of PHI.",
@@ -329,7 +334,8 @@ window.NURSE_DATA.push({
       "cjmm": "Analyze Cues",
       "focus": "Nursing Interventions",
       "difficulty": 3,
-      "clientNeed": "Psychosocial Integrity"
+      "clientNeed": "Psychosocial Integrity",
+      "bestAnswer": true
     },
     {
       "id": "m49-pc-010",
@@ -340,15 +346,15 @@ window.NURSE_DATA.push({
       "options": [
         "Remind the coworker that the access will appear in the audit log",
         "Ask the coworker to close the chart and report it per policy",
-        "Agree to say nothing if the coworker closes the chart right now",
-        "Read the chart with the coworker to show nothing harmful is there"
+        "Tell the coworker to close the chart and keep what she saw private",
+        "Report the access to the charge nurse at the end of the shift"
       ],
       "answer": 1,
       "optionRationales": [
         "Incorrect. A reminder about the audit log may stop her, but it ignores the nurse’s duty to report a known breach.",
         "Correct. Stopping the access and reporting it protects the client and follows the duty to advocate for confidentiality.",
-        "Incorrect. Keeping quiet hides a breach that the agency must review and possibly report to the client.",
-        "Incorrect. Reading the chart adds a second unauthorized access and makes the nurse part of the breach."
+        "Incorrect. Stopping the access is the right first move, but the breach has already happened. Keeping it quiet skips the required report, so the agency cannot review it.",
+        "Incorrect. Reporting is required, but waiting until the end of the shift lets the coworker keep reading the chart now. The nurse should stop the access first, then report."
       ],
       "rationale": "Confidentiality includes obtaining only what you need for care and advocating when others do not. The coworker has no work reason to open this record, so the access itself is a breach, even if she tells no one what she reads. The nurse should ask her to close the chart and then report it to the charge nurse or privacy officer, per policy. Mentioning the audit log is tempting because it may stop her, but it treats the breach as a warning instead of something the agency must review.",
       "takeaway": "Opening a chart with no work reason is a breach; stop it and report it, do not cover it up.",
@@ -359,7 +365,8 @@ window.NURSE_DATA.push({
       "cjmm": "Take Action",
       "focus": "Delegation & Safety",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m49-pc-011",
@@ -406,15 +413,15 @@ window.NURSE_DATA.push({
       "stem": "A clinic nurse calls a 31-year-old client about abnormal Pap test results and reaches voicemail. The client’s privacy form allows phone calls but not detailed messages. Which message should the nurse leave?",
       "options": [
         "“This is Ana from Lakeside Clinic for Jamie. Please call me at 555-0142.”",
-        "“This is Ana. Jamie, your Pap results were abnormal, so please call 555-0142.”",
-        "“Jamie, your results are ready, and you will need a colposcopy. Call 555-0142.”",
+        "“This is Ana from Lakeside Clinic. Jamie, please call about your Pap test: 555-0142.”",
+        "“This is Ana from the Lakeside Clinic gynecology team for Jamie. Call 555-0142.”",
         "“Jamie, this is Ana. Your lab tests came back, so call to discuss them at 555-0142.”"
       ],
       "answer": 0,
       "optionRationales": [
         "Correct. A name, clinic, and callback number meet the client’s wishes and reveal no health details.",
-        "Incorrect. Naming the abnormal Pap result shares PHI that anyone with access to the voicemail could hear.",
-        "Incorrect. Naming a follow-up procedure reveals the result and future care, which is PHI.",
+        "Incorrect. It leaves out the result, which seems careful, but naming the Pap test still tells anyone who hears the message what care the client received. Her form allows no detailed messages.",
+        "Incorrect. It gives no test or result, but naming the gynecology team reveals the type of care. The safest message gives only the nurse’s name, the clinic, and a callback number.",
         "Incorrect. Saying lab tests came back still reveals care details the client did not permit in messages."
       ],
       "rationale": "Clients have the right to choose how they are contacted and how much is said, and the nurse must honor those requests. PHI includes care provided and future care, so naming a test, a result, or a planned procedure on voicemail can disclose it to whoever hears the message. The safest message gives only the nurse’s name, the clinic, and a callback number. Mentioning that “lab tests came back” is tempting because it sounds vague, but it still tells listeners that the client is having health tests.",
@@ -426,7 +433,8 @@ window.NURSE_DATA.push({
       "cjmm": "Generate Solutions",
       "focus": "Nursing Interventions",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m49-pc-013",
@@ -438,14 +446,14 @@ window.NURSE_DATA.push({
         "Wait to see whether police recover the laptop before reporting",
         "Call each client on her caseload to warn them about the theft",
         "Report the theft to her supervisor and privacy officer now",
-        "Change her email password and continue the day’s visits"
+        "Make a list of the client files stored on the laptop first"
       ],
       "answer": 2,
       "optionRationales": [
         "Incorrect. Delay keeps the agency from locking the device and starting required breach review.",
         "Incorrect. The agency decides whether and how clients are notified after it reviews the breach.",
         "Correct. Lost or stolen devices holding PHI are possible breaches that must be reported to the agency right away.",
-        "Incorrect. A new email password does not protect records stored on the laptop, and the theft still must be reported."
+        "Incorrect. The agency will need to know which records were on the laptop, but listing them first delays the report. The agency can lock or wipe the device and identify the records itself."
       ],
       "rationale": "The HIPAA Security Rule protects electronic PHI, and a stolen laptop with client records is a possible breach. The nurse should report it immediately to her supervisor and the privacy officer so the agency can lock or wipe the device and judge whether clients must be notified. Agencies must notify affected clients without unreasonable delay, but the agency, not the individual nurse, carries out that notice. Waiting for police is tempting because the laptop may turn up, but delay keeps the agency from protecting the data in time.",
       "takeaway": "Report a lost or stolen device holding PHI to the agency immediately; do not wait or handle it alone.",
@@ -456,7 +464,8 @@ window.NURSE_DATA.push({
       "cjmm": "Prioritize Hypotheses",
       "focus": "Prioritization",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m49-pc-014",
@@ -504,17 +513,17 @@ window.NURSE_DATA.push({
       "options": [
         "Decline to answer until the daughter shows legal guardianship papers to staff",
         "Explain the antibiotic schedule, since the daughter is involved in her care",
-        "Give the daughter a printout of the full chart, including past notes",
+        "Ask the client whether she agrees before telling her daughter the schedule",
         "Tell the daughter that only the provider can share medication details"
       ],
       "answer": 1,
       "optionRationales": [
         "Incorrect. Requiring legal papers blocks needed information from the person giving her medicines at home.",
         "Correct. When a client cannot respond, the nurse may use judgment to share what a caregiver needs, if it serves the client.",
-        "Incorrect. The full chart is more than the daughter needs, and minimum necessary still applies to family.",
+        "Incorrect. Asking the client first is usually right, but this client cannot state her wishes. The nurse uses professional judgment instead, and the daughter needs the schedule to give safe care.",
         "Incorrect. Nurses may share relevant information with family involved in care, so this blocks safe caregiving."
       ],
-      "rationale": "HIPAA lets the nurse share information with family members involved in a client’s care when the client agrees or does not object. When the client cannot respond, the nurse uses professional judgment and shares only what serves the client’s best interest. The daughter gives all of her mother’s medicines, so the antibiotic schedule is exactly what she needs. Demanding guardianship papers is tempting because it seems careful, but it blocks safe care, while giving the full chart goes beyond what she needs.",
+      "rationale": "HIPAA lets the nurse share information with family members involved in a client’s care when the client agrees or does not object. When the client cannot respond, the nurse uses professional judgment and shares only what serves the client’s best interest. The daughter gives all of her mother’s medicines, so the antibiotic schedule is exactly what she needs. Demanding guardianship papers is tempting because it seems careful, but it blocks safe care, and asking a client who cannot state her wishes only delays the answer.",
       "takeaway": "If a client cannot respond, share with an involved caregiver only what serves the client’s care.",
       "hintContent": "Think about what this daughter actually does for her mother and what she needs to do it.",
       "hintStrategy": "Look for the answer that shares the right amount: not nothing, not everything.",
@@ -523,7 +532,8 @@ window.NURSE_DATA.push({
       "cjmm": "Analyze Cues",
       "focus": "Lifespan & Diversity",
       "difficulty": 3,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m49-pc-016",
@@ -594,7 +604,8 @@ window.NURSE_DATA.push({
             }
           }
         ]
-      }
+      },
+      "bestAnswer": true
     },
     {
       "id": "m49-pc-017",
@@ -604,15 +615,15 @@ window.NURSE_DATA.push({
       "stem": "A 52-year-old client who speaks only Vietnamese comes to a women’s health clinic for bleeding after menopause. Her 15-year-old son speaks English and offers to interpret. Which action should the nurse take?",
       "options": [
         "Let the son interpret, since his mother is comfortable with him",
-        "Have the son interpret only the questions about her bleeding",
-        "Use gestures and an English form to complete the history",
+        "Ask the son to interpret while the nurse uses simple, clear words",
+        "Ask a bilingual receptionist to interpret the health history",
         "Arrange a qualified medical interpreter for the health history"
       ],
       "answer": 3,
       "optionRationales": [
         "Incorrect. A minor child should not relay a parent’s gynecologic history, even if she agrees, because accuracy and privacy suffer.",
-        "Incorrect. The bleeding questions are the most sensitive part, so limiting his role does not protect her privacy.",
-        "Incorrect. Gestures and a form she cannot read will not give an accurate or informed history.",
+        "Incorrect. Plain language is good teaching practice, but it does not fix the problem. A teenage son still hears his mother’s private gynecologic history and may filter what she says.",
+        "Incorrect. A bilingual staff member protects privacy better than the son, but a receptionist is not a trained medical interpreter and may misstate medical terms and sensitive details.",
         "Correct. A trained interpreter gives accurate medical language and keeps sensitive history private from family."
       ],
       "rationale": "Clients with limited English proficiency have a right to a qualified medical interpreter, by phone, video, or in person. Family members, especially children, may filter or misstate sensitive details, and a gynecologic history shared through a teenage son violates the mother’s privacy. A professional interpreter keeps the information accurate and confidential. Allowing the son because the mother seems comfortable is tempting, but she may not feel free to share sexual or bleeding history in front of him.",
@@ -624,7 +635,8 @@ window.NURSE_DATA.push({
       "cjmm": "Generate Solutions",
       "focus": "Lifespan & Diversity",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m49-pc-018",
@@ -672,14 +684,14 @@ window.NURSE_DATA.push({
       "stem": "A hospitalist texts a nurse’s personal cell phone: “What was Mr. Lin’s potassium this morning? Bed 7.” The hospital provides an encrypted secure messaging app for staff. Which action by the nurse is best?",
       "options": [
         "Text back the potassium value, since the hospitalist is on his care team",
-        "Ignore the text, since providers should look up results themselves",
+        "Text back asking him to resend his question through the secure app",
         "Reply through the secure messaging app with the potassium result",
         "Text back only his initials and potassium value to limit identifiers"
       ],
       "answer": 2,
       "optionRationales": [
         "Incorrect. The person may receive the result, but personal texting is not a secure way to send PHI.",
-        "Incorrect. Sharing results with a treating provider is permitted, and ignoring the request could delay care.",
+        "Incorrect. Moving to the secure app is the right idea, but asking him to resend delays an answer he needs for care. The nurse can simply reply in the secure app with the result.",
         "Correct. The hospitalist may receive the result, and the approved encrypted app protects it in transit.",
         "Incorrect. Initials plus a bed number and lab value can still identify the client, and the channel is still insecure."
       ],
@@ -692,7 +704,8 @@ window.NURSE_DATA.push({
       "cjmm": "Analyze Cues",
       "focus": "Delegation & Safety",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m49-pc-020",
@@ -703,15 +716,15 @@ window.NURSE_DATA.push({
       "options": [
         "Pull the curtain and lower her voice for the sensitive questions",
         "Move the client to a private consult room to finish the history",
-        "Postpone the sensitive questions until the day of discharge",
-        "Document that the client declined to answer those questions"
+        "Ask the roommate’s visitors to step out during the questions",
+        "Finish the other questions and ask the sensitive ones later"
       ],
       "answer": 1,
       "optionRationales": [
         "Incorrect. A curtain blocks sight but not sound, so visitors can still hear the answers.",
         "Correct. A private room keeps others from hearing and still allows a complete, accurate history.",
-        "Incorrect. Alcohol use guides withdrawal monitoring now, so waiting until discharge risks client safety.",
-        "Incorrect. Charting a refusal the client never gave is false documentation and leaves the history incomplete."
+        "Incorrect. Fewer listeners is better, but the roommate can still hear every answer. Asking another client’s visitors to leave also intrudes on the roommate’s time with family.",
+        "Incorrect. Delaying keeps others from hearing for now, but the history stays incomplete. Alcohol use affects withdrawal risk, so the nurse should create privacy and ask now."
       ],
       "rationale": "Advocating for confidentiality means arranging care so others cannot overhear private details. Questions about alcohol use and sexual partners are sensitive, and the client may withhold the truth if strangers can hear. Moving to a private space protects the client and gets more honest answers, which matters because alcohol use affects withdrawal risk. Pulling the curtain is the tempting choice, but a curtain blocks only sight, and the visitors can still hear every word.",
       "takeaway": "A curtain is not privacy; move sensitive conversations to a space where others cannot hear.",
@@ -722,7 +735,8 @@ window.NURSE_DATA.push({
       "cjmm": "Generate Solutions",
       "focus": "Nursing Interventions",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m49-pc-021",
@@ -773,14 +787,14 @@ window.NURSE_DATA.push({
         "“Yes. You have a right to see it, and I’ll help you start the request.”",
         "“Only your physician can decide whether you may read your medical record.”",
         "“You can see it after discharge, once your chart is complete and signed.”",
-        "“Charts belong to the hospital, so clients aren’t allowed to read them.”"
+        "“I can go over what it says, but you can’t get a copy of your own.”"
       ],
       "answer": 0,
       "optionRationales": [
         "Correct. Clients have a right to see and get a copy of their own records through the agency’s process.",
         "Incorrect. Access to one’s own record is a client right, not a decision left to the physician.",
         "Incorrect. The client does not have to wait until discharge to start a request for his record.",
-        "Incorrect. The agency owns the physical record, but the client still has a right to its information."
+        "Incorrect. Reviewing the chart with the client is helpful, but the Privacy Rule also gives him the right to a copy. This reply honors only part of his right."
       ],
       "rationale": "Sharing PHI with the client is permitted, and the Privacy Rule gives clients the right to see and get a copy of their own records. The nurse supports this by helping the client start the request through the agency’s process. The client may also ask to correct information he believes is wrong. Deferring to the physician is the tempting choice because it sounds cautious, but it treats a legal right as a favor.",
       "takeaway": "Clients have a right to see and copy their own health records.",
@@ -791,7 +805,8 @@ window.NURSE_DATA.push({
       "cjmm": "Generate Solutions",
       "focus": "Client Teaching",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m49-pc-023",
@@ -801,16 +816,16 @@ window.NURSE_DATA.push({
       "stem": "At 0855, a nurse whose electronic record login has just locked asks a coworker, “Can I use yours to scan and give room 6’s 0900 insulin?” Which response by the coworker is best?",
       "options": [
         "Log in for her and watch closely while she scans and documents the insulin",
-        "Let her use the login just this once if she logs out right after",
+        "Decline, and remind her that sharing logins breaks security policy",
         "Decline, and help her get an urgent reset from IT or the charge nurse",
-        "Share the password, then ask her to change it after her reset"
+        "Tell her to give it now and document it once her login is reset"
       ],
       "answer": 2,
       "optionRationales": [
         "Incorrect. Even if the coworker watches, the record will show the wrong nurse giving the insulin.",
-        "Incorrect. Any use of another person’s login is a security breach, no matter how brief.",
+        "Incorrect. Declining is correct, but this reply stops there. It protects the record without helping meet the client’s 0900 insulin need, so it is less complete than getting an urgent reset.",
         "Correct. Each user must chart under their own login, and an urgent reset solves the problem without a false record.",
-        "Incorrect. Sharing a password breaks technical safeguards, and changing it later does not fix the false record."
+        "Incorrect. Giving the insulin on time meets the client’s need, but giving it without scanning bypasses barcode safety checks. Late entry also leaves a gap in the record."
       ],
       "rationale": "The HIPAA Security Rule requires technical safeguards such as unique logins, so every access and entry can be traced to the person who made it. Using another nurse’s login creates a false record of who gave the insulin and is a breach of security policy for both nurses. The best response protects the record and still meets the client’s need by getting an urgent password reset through IT or the charge nurse. Logging in and watching is tempting because the coworker supervises, but the audit trail still names the wrong nurse.",
       "takeaway": "Never share or use another person’s login; get an urgent reset instead.",
@@ -821,7 +836,8 @@ window.NURSE_DATA.push({
       "cjmm": "Generate Solutions",
       "focus": "Delegation & Safety",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m49-pc-024",
@@ -892,7 +908,8 @@ window.NURSE_DATA.push({
       "cjmm": "Analyze Cues",
       "focus": "Nursing Interventions",
       "difficulty": 3,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m49-pc-026",
@@ -903,15 +920,15 @@ window.NURSE_DATA.push({
       "options": [
         "Take the sheet and keep it in her possession",
         "Leave the sheet and tell the charge nurse where it is",
-        "Drop the sheet into the nearest public trash can",
-        "Photograph the sheet to show to the unit manager"
+        "Report the breach to the privacy officer once back on the unit",
+        "Ask others in the elevator whether they read the sheet"
       ],
       "answer": 0,
       "optionRationales": [
         "Correct. Picking up the sheet ends the exposure; the nurse then shreds it in a secure bin and reports it.",
         "Incorrect. Leaving the sheet in a public elevator lets more people read the PHI while she reports.",
-        "Incorrect. A public trash can is not secure disposal, and others can still retrieve the PHI.",
-        "Incorrect. Taking a photo makes another copy of the PHI on a device, which spreads the breach."
+        "Incorrect. Reporting is required, but it is not the first step. Until she picks up the sheet, anyone in the elevator can read it. She should secure the sheet first, then report.",
+        "Incorrect. Knowing who saw the sheet may help the investigation, but asking first leaves it exposed. Containing the breach comes before assessing its extent."
       ],
       "rationale": "The first step in any breach is to stop the exposure if possible. A report sheet in a public elevator can be read by anyone, so the nurse should secure it right away. She then disposes of it in a locked shred bin and reports the incident so the agency can find its source and decide on next steps. Leaving it and reporting its location is tempting because reporting is required, but every minute it sits there, more people may read four clients’ PHI.",
       "takeaway": "Secure exposed PHI first, then dispose of it properly and report it.",
@@ -922,7 +939,8 @@ window.NURSE_DATA.push({
       "cjmm": "Prioritize Hypotheses",
       "focus": "Prioritization",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m49-pc-027",
@@ -952,7 +970,8 @@ window.NURSE_DATA.push({
       "cjmm": "Take Action",
       "focus": "Delegation & Safety",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m49-pc-028",
@@ -1002,14 +1021,14 @@ window.NURSE_DATA.push({
         "“You’re right, so I’ll need you to sign a release before I make any report.”",
         "“I will wait until the doctor confirms abuse before I share anything with them.”",
         "“The law requires this report, and HIPAA permits it without consent.”",
-        "“I won’t send his records, but I will share my personal opinion with them.”"
+        "“Help me understand how he got these bruises before I call anyone.”"
       ],
       "answer": 2,
       "optionRationales": [
         "Incorrect. A report required by law does not need a release, and asking for one may put the child at risk.",
         "Incorrect. Nurses report suspicion; waiting for proof delays protection and breaks the reporting duty.",
         "Correct. Reporting suspected child abuse is required by law, so it is a permitted disclosure without parental consent.",
-        "Incorrect. The report should include the objective findings that support the suspicion, not just an opinion."
+        "Incorrect. Asking about injuries is part of a good history, but reasonable suspicion already exists. The nurse must report without waiting for an explanation, and questioning the father now could put the child at risk."
       ],
       "rationale": "HIPAA allows disclosures that are required by law, and reporting suspected child abuse or neglect is one of them. Patterned loop-shaped bruises in different stages of healing are a strong cue of abuse, so the nurse must report the suspicion to child protective services without waiting for proof or permission. In North Carolina, any person who suspects abuse of a child under 18 must report it to the county department of social services, and good-faith reporters are immune. Asking the father for a release is tempting because it sounds like HIPAA compliance, but it is not required and could endanger the child.",
       "takeaway": "Reporting suspected child abuse is a legal duty and a permitted disclosure; no parental consent is needed.",
@@ -1022,7 +1041,8 @@ window.NURSE_DATA.push({
       "cjmm": "Take Action",
       "focus": "Delegation & Safety",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m49-pc-030",
@@ -1052,7 +1072,8 @@ window.NURSE_DATA.push({
       "cjmm": "Recognize Cues",
       "focus": "Lifespan & Diversity",
       "difficulty": 3,
-      "clientNeed": "Psychosocial Integrity"
+      "clientNeed": "Psychosocial Integrity",
+      "bestAnswer": true
     },
     {
       "id": "m49-pc-031",
@@ -1103,14 +1124,14 @@ window.NURSE_DATA.push({
         "“A group plan can’t refuse you or charge you more because of your health.”",
         "“Your new plan is allowed to exclude your diabetes care for the first full year.”",
         "“Whether you are covered depends only on your new employer’s own policies.”",
-        "“Only people who are on Medicare are protected from that kind of practice.”"
+        "“They can’t refuse you, but only if you had no gap in your coverage.”"
       ],
       "answer": 0,
       "optionRationales": [
-        "Correct. HIPAA ended medical underwriting for group plans, so health history cannot be used to deny a member or raise his rate.",
+        "Correct. HIPAA ended medical underwriting for group plans, so health history cannot be used to deny an eligible member or raise that person’s rate.",
         "Incorrect. Current federal law does not allow plans to exclude care for a condition the person already had.",
         "Incorrect. Federal law, not just the employer, sets these rules for group health plans.",
-        "Incorrect. These protections apply to group health plan members, not only to Medicare enrollees."
+        "Incorrect. Coverage gaps once mattered for older preexisting-condition rules, which makes this sound right. But a group plan cannot deny an eligible member or charge more because of health, with or without a gap."
       ],
       "rationale": "HIPAA is more than a privacy law; it also protects health coverage. For group plans, it eliminated medical underwriting, so a plan cannot deny an eligible member or charge that person more because of a health condition. HIPAA also reduced barriers related to preexisting conditions and protects people who lose prior coverage, and since 2014 the Affordable Care Act has barred most plans from excluding preexisting conditions. The one-year exclusion is tempting because older rules allowed limited waiting periods, but it does not reflect current law.",
       "takeaway": "HIPAA protects coverage too: group plans cannot deny or charge a member more because of health history.",
@@ -1121,7 +1142,8 @@ window.NURSE_DATA.push({
       "cjmm": "Generate Solutions",
       "focus": "Client Teaching",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m49-pc-033",
@@ -1132,15 +1154,15 @@ window.NURSE_DATA.push({
       "options": [
         "Check every page for this client’s name and second identifier",
         "Review the medication list with the client and his spouse",
-        "Ask the spouse to remove any pages that are not his",
-        "Place the packet in a folder in the client’s belongings"
+        "Have the client confirm his name on the packet’s cover page",
+        "Verify the client’s name and birth date on his wristband"
       ],
       "answer": 0,
       "optionRationales": [
         "Correct. Checking identifiers on every page prevents giving another client’s PHI to this family.",
         "Incorrect. Teaching is needed, but starting before checking the pages risks reviewing another client’s list.",
-        "Incorrect. Letting the spouse sort pages exposes another client’s PHI to a family member.",
-        "Incorrect. Filing the packet without checking it could send another client’s PHI home with this family."
+        "Incorrect. Involving the client is reasonable, but checking only the cover page misses pages from other clients mixed in from the shared printer.",
+        "Incorrect. Two identifiers on the wristband confirm the right client, but not the right pages. The nurse must match every page of the packet to this client."
       ],
       "rationale": "A common breach is handing a client someone else’s discharge papers from a shared printer. Before any page leaves the nurse’s hands, she should check each page for the correct name and a second identifier, such as birth date. This protects other clients’ PHI and makes sure this client gets the right medication and follow-up instructions. Starting the medication review is tempting because teaching is important, but teaching from the wrong client’s list is both a breach and a safety error.",
       "takeaway": "Check every page of printed PHI for two identifiers before giving it to anyone.",
@@ -1151,7 +1173,8 @@ window.NURSE_DATA.push({
       "cjmm": "Recognize Cues",
       "focus": "Prioritization",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m49-pc-034",
@@ -1249,7 +1272,8 @@ window.NURSE_DATA.push({
             }
           }
         ]
-      }
+      },
+      "bestAnswer": true
     },
     {
       "id": "m49-pc-036",
@@ -1310,7 +1334,8 @@ window.NURSE_DATA.push({
             }
           }
         ]
-      }
+      },
+      "bestAnswer": true
     },
     {
       "id": "m49-pc-037",
@@ -1340,7 +1365,8 @@ window.NURSE_DATA.push({
       "cjmm": "Prioritize Hypotheses",
       "focus": "Lifespan & Diversity",
       "difficulty": 3,
-      "clientNeed": "Psychosocial Integrity"
+      "clientNeed": "Psychosocial Integrity",
+      "bestAnswer": true
     },
     {
       "id": "m49-pc-038",
@@ -1409,7 +1435,8 @@ window.NURSE_DATA.push({
       "cjmm": "Evaluate Outcomes",
       "focus": "Nursing Interventions",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m49-pc-040",
@@ -1439,7 +1466,8 @@ window.NURSE_DATA.push({
       "cjmm": "Take Action",
       "focus": "Delegation & Safety",
       "difficulty": 3,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "bestAnswer": true
     },
     {
       "id": "m49-pc-041",
@@ -1488,16 +1516,16 @@ window.NURSE_DATA.push({
       "stem": "An assistive personnel (AP) asks the nurse, “Is the man in room 12 the one with AIDS? I want to know before I give him his bath.” Which response by the nurse is best?",
       "options": [
         "“Yes, so please wear a gown and double gloves when you give him his bath.”",
-        "“I can pull up his chart so you can read his whole diagnosis list for yourself.”",
+        "“I can’t share that, but wear a gown and double gloves to be safe.”",
         "“Use standard precautions for all clients; his diagnosis doesn’t change that.”",
-        "“You shouldn’t ask about that. Just go ahead and give him his bath.”"
+        "“That information is private, and only his assigned nurses may know it.”"
       ],
       "answer": 2,
       "optionRationales": [
         "Incorrect. This discloses a diagnosis the AP does not need and adds precautions not required for bloodborne infections.",
-        "Incorrect. Showing the chart gives the AP far more PHI than the task requires.",
+        "Incorrect. It withholds the diagnosis, but advising extra gear implies the answer and reinforces the myth that precautions depend on a known diagnosis.",
         "Correct. Standard precautions protect the AP, and the diagnosis is not part of the minimum needed for a bath.",
-        "Incorrect. This protects the client’s privacy but misses the chance to teach the AP about standard precautions."
+        "Incorrect. It protects the diagnosis, but it does not tell the AP how to stay safe. Teaching standard precautions answers the real concern behind the question."
       ],
       "rationale": "The minimum necessary rule means staff receive only the PHI needed for their task. For a bath, the AP needs to know about mobility, skin concerns, and safety needs, not the client’s HIV status. Standard precautions are used with every client because infection status is often unknown, so the diagnosis does not change how the AP protects herself. Answering “yes” and adding extra gear is tempting because it seems protective, but it discloses PHI and reinforces the false idea that precautions depend on a known diagnosis.",
       "takeaway": "Give team members only what their task needs, and teach standard precautions for every client.",
@@ -1508,7 +1536,8 @@ window.NURSE_DATA.push({
       "cjmm": "Generate Solutions",
       "focus": "Delegation & Safety",
       "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+      "bestAnswer": true
     }
   ]
 });

@@ -18,22 +18,23 @@
    "focus": "Assessment Findings",
    "stem": "A parent brings an 8-month-old to the pediatric clinic and reports watery diarrhea since yesterday evening. The infant is fussy but alert. Which action should the nurse take first?",
    "options": [
-    "Reassure the parent that infant diarrhea usually clears up on its own within a week",
-    "Tell the parent to stop all feedings for 24 hours so the bowel can rest",
+    "Collect a stool sample from the diaper and send it to the lab for a culture",
+    "Tell the parent to keep offering breast milk or formula along with extra fluids",
     "Weigh the infant and check the mucous membranes, fontanel, and recent wet diapers",
     "Give the parent written instructions for offering oral rehydration fluid at home"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Infants have a high percentage of body water and lose fluid quickly, so reassurance without assessment can let a dangerous deficit develop.",
-    "Incorrect. Withholding feedings removes the only source of intake for an infant who depends completely on caregivers and speeds dehydration.",
-    "Correct. Weight, fontanel, mucous membranes, and wet diapers show how much fluid the infant has already lost, and that data guides every next step.",
-    "Incorrect. Home teaching may be appropriate later, but the nurse cannot plan care until the infant’s fluid status is known."
+    "Incorrect. A stool culture may help find a cause later, but it is not routine for acute watery diarrhea and says nothing about how dehydrated the infant is now.",
+    "Incorrect. Continuing feedings is sound advice for infant diarrhea, but it is an intervention given before the nurse knows how much fluid has been lost.",
+    "Correct. Weight, mucous membranes, fontanel, and wet diapers are objective measures of hydration. They show how much fluid has been lost and whether home care is safe, so they come before any teaching.",
+    "Incorrect. Oral rehydration teaching is often appropriate, but giving it before assessing could send home an infant who already needs more care."
    ],
-   "rationale": "Infants are at high risk for rapid fluid loss: they have a large body surface area for their size, immature kidneys with little reserve, and total dependence on caregivers for intake. Because balance can shift within hours, the nurse first gathers objective data (weight, fontanel, mucous membranes, wet diapers) to judge how much fluid has been lost. Teaching about oral fluids is tempting because it sounds helpful, but it skips assessment and could send home an infant who already needs more care. Stopping feedings or simply reassuring the parent ignores how fast an infant can become dehydrated.",
+   "rationale": "Infants are at high risk for rapid fluid loss: they have a large body surface area for their size, immature kidneys with little reserve, and total dependence on caregivers for intake. Because balance can shift within hours, the nurse first gathers objective data (weight, fontanel, mucous membranes, wet diapers) to judge how much fluid has been lost. Teaching about oral fluids or continued feedings is tempting because it sounds helpful, but it skips assessment and could send home an infant who already needs more care. Sending a stool culture may help find a cause later, but it does not show the infant’s current hydration status.",
    "takeaway": "When an infant is losing fluid, assess hydration status first; infants can become dehydrated within hours.",
    "hintContent": "Think about why an infant’s fluid balance changes faster than an adult’s and which data show how much has been lost.",
-   "hintStrategy": "With no emergency described, choose the option that assesses before the nurse teaches or intervenes."
+   "hintStrategy": "With no emergency described, choose the option that assesses before the nurse teaches or intervenes.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-002",
@@ -51,21 +52,22 @@
    "stem": "A 76-year-old client admitted with pneumonia has a temperature of 39.2°C (102.6°F). The client is diaphoretic, the gown and linens are damp, and the client has drunk 300 mL since breakfast. There is no fluid restriction. Which action is the nurse’s priority?",
    "options": [
     "Change the linens and document the sweating as an expected fever response",
-    "Limit oral fluids until the fever breaks so that the sweating will decrease",
+    "Give a tepid sponge bath to help bring the client’s fever down",
     "Encourage rest and recheck the temperature and fluid intake in 4 hours",
     "Offer preferred fluids frequently and begin recording intake and output"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Fresh linens add comfort, but treating the sweating as merely expected ignores the fluid it is costing this older adult.",
-    "Incorrect. Restricting fluids deepens the deficit; the body needs water to keep cooling itself as long as the fever lasts.",
-    "Incorrect. Rest is reasonable, but waiting 4 hours without replacing ongoing losses lets a deficit build in a client with little reserve.",
-    "Correct. Sweating cools the body but costs water; with poor intake and an older adult’s small fluid reserve, replacing fluid and tracking I&O protects balance."
+    "Incorrect. Dry linens add comfort and sweating is expected with fever, but this does nothing about the fluid the client is losing.",
+    "Incorrect. Cooling measures may ease the fever, but they do not replace the water already lost through sweat in an older adult with low intake.",
+    "Incorrect. Rest and rechecking are reasonable, but waiting 4 hours lets the fluid deficit grow in an older adult who is already drinking little.",
+    "Correct. The client is losing water through sweat and has a low intake. Offering preferred fluids and tracking I&O replaces the loss and shows whether intake is keeping up."
    ],
    "rationale": "Regulating body temperature is one of the main jobs of body fluid: blood carries heat to the skin, and sweat evaporates to cool it. The trade-off is that sweating removes water, so intake must rise to keep gains equal to losses. This client is 76, has less total body water (about 45–50%) and a weaker thirst sense, and has taken in little fluid, so replacing fluid and monitoring I&O is the priority. Changing linens is tempting because it is visible and kind, but comfort measures do not address the fluid deficit that is developing.",
    "takeaway": "Fever-related sweating cools the body at the cost of water; increase intake and track I&O, especially in older adults.",
    "hintContent": "Recall which function of body fluid sweating serves and what it costs the body.",
-   "hintStrategy": "When two options are both reasonable, choose the one that addresses the physiological threat rather than comfort or documentation."
+   "hintStrategy": "When two options are both reasonable, choose the one that addresses the physiological threat rather than comfort or documentation.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-003",
@@ -95,7 +97,8 @@
    "rationale": "Infants can lose fluid within hours, so accurate data matter, and much of the data collection can be delegated. AP can weigh diapers, record intake, and obtain weights using a set procedure. The RN keeps the tasks that require assessment, interpretation, and evaluation, such as deciding whether the infant’s hydration is improving. Weighing diapers may seem too important to delegate because it reflects output, but it is a measurement; judging what the numbers mean is the RN’s job.",
    "takeaway": "Delegate measuring and recording; keep assessing, interpreting, and evaluating.",
    "hintContent": "Separate tasks that collect a number from tasks that decide what the numbers mean.",
-   "hintStrategy": "In delegation items, look at the verb: assess, evaluate, and teach stay with the RN."
+   "hintStrategy": "In delegation items, look at the verb: assess, evaluate, and teach stay with the RN.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-004",
@@ -163,7 +166,8 @@
    "rationale": "Older adults are at high risk for dehydration because they have less body water, a decreased thirst sensation, and reduced renal reserve. The resident with only 400 mL of intake, dark amber urine, and new confusion shows a cluster of findings pointing to an acute deficit, and new confusion is a change in condition. Tenting skin is the most tempting distractor, but skin turgor is less reliable in older adults because their skin naturally loses elasticity; her intake and pale urine are reassuring. Lack of thirst alone does not signal a deficit when intake and output are adequate.",
    "takeaway": "In older adults, trust intake, urine, weight, and mental status over thirst or skin turgor.",
    "hintContent": "Look for the resident whose data form a cluster of low intake, concentrated urine, and an acute change.",
-   "hintStrategy": "Choose the client with an acute change in condition over clients whose findings are stable or explained by normal aging."
+   "hintStrategy": "Choose the client with an acute change in condition over clients whose findings are stable or explained by normal aging.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-005",
@@ -178,22 +182,23 @@
    "focus": "Lifespan & Diversity",
    "stem": "During a home visit, the nurse sees a 5-day-old breastfed newborn. The parent reports the baby has been very sleepy, has fed poorly for the past day, and has had 2 wet diapers in 24 hours. Which action is the priority?",
    "options": [
-    "Reassure the parent that sleepy newborns often feed less for a few days",
-    "Have the parent offer plain water between breastfeedings",
+    "Observe a breastfeeding and help the parent improve the latch",
+    "Teach the parent to wake the baby to feed every 2 to 3 hours",
     "Ask the parent to count wet diapers again tomorrow and call if there are fewer",
     "Arrange for the newborn to be evaluated by the provider today"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. A newborn is about 75% water with immature kidneys; poor feeding with few wet diapers is not something to wait out.",
-    "Incorrect. Plain water is not recommended for newborns, displaces breast milk, and does not address why the baby is feeding poorly.",
-    "Incorrect. Waiting another day delays care for an infant whose fluid balance can change within hours.",
-    "Correct. Poor feeding, sleepiness, and few wet diapers signal inadequate intake that can worsen within hours in a newborn and needs same-day evaluation."
+    "Incorrect. Latch help is useful for poor feeding, but a sleepy newborn with only 2 wet diapers may already be dehydrated and needs evaluation today.",
+    "Incorrect. Frequent feeding is good teaching, but a lethargic newborn with low output needs to be examined, not just fed on a schedule at home.",
+    "Incorrect. Tracking diapers is a reasonable way to monitor intake, but waiting another day is too long for a newborn who may already be dehydrated.",
+    "Correct. Sleepiness, poor feeding, and only 2 wet diapers suggest the newborn is not getting enough fluid. A newborn can worsen within hours, so evaluation today is the priority over home measures."
    ],
    "rationale": "Newborns are about 75% water, have a large surface area for their size and immature kidneys with limited reserve, and depend completely on caregivers for intake. Poor feeding, sleepiness, and only 2 wet diapers in 24 hours suggest the newborn is not getting enough fluid, and the deficit can worsen within hours. The priority is prompt provider evaluation. Rechecking tomorrow is tempting because it sounds measured, but for a newborn a one-day delay is too long.",
    "takeaway": "A newborn with poor feeding and few wet diapers needs same-day evaluation; infant fluid balance changes within hours.",
    "hintContent": "Recall a newborn’s body water percentage, kidney maturity, and how quickly balance can change.",
-   "hintStrategy": "When an infant shows signs of inadequate intake, eliminate options that wait or reassure."
+   "hintStrategy": "When an infant shows signs of inadequate intake, eliminate options that wait or reassure.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-006",
@@ -209,21 +214,22 @@
    "stem": "An 87-year-old resident of a long-term care facility has drunk about 350 mL since breakfast, and it is now 1400. When the nurse offers water, the resident says, “No thanks, I’m not thirsty. I’ll ask when I need something.” Which action by the nurse is best?",
    "options": [
     "Leave a full pitcher at the bedside and remind the resident to ask when thirsty",
-    "Explain that the resident must drink 240 mL every hour or an IV will be needed",
+    "Explain that older adults may not feel thirsty even when they need fluids",
     "Offer a drink the resident enjoys now and set times to offer fluids through the day",
     "Accept the resident’s choice and document that fluids were offered and declined"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Fluids within reach help, but relying on the resident to ask depends on a thirst signal that is blunted with age.",
-    "Incorrect. Threatening an IV is coercive and not therapeutic; the goal is to make drinking easy and appealing.",
-    "Correct. Older adults have a decreased thirst sensation, so the nurse offers preferred fluids on a schedule instead of waiting for thirst.",
-    "Incorrect. Respecting choice matters, but lack of thirst is an age-related change, not proof of adequate hydration, so the nurse keeps offering."
+    "Incorrect. Keeping fluids in reach helps, but it still depends on the resident asking, and a weak thirst sense means the resident may not ask.",
+    "Incorrect. This teaching is true and useful, but explaining alone does not increase intake. The resident still needs fluids offered now and on a schedule.",
+    "Correct. Offering a preferred drink now and scheduling regular offers works around the weak thirst signal while respecting the resident’s choices.",
+    "Incorrect. Documenting a refusal respects autonomy, but intake is already low and the decision rests on an unreliable thirst sense. The nurse should first offer appealing options."
    ],
    "rationale": "Older adults often have a decreased thirst sensation, lower muscle mass, and reduced renal reserve, so they can become dehydrated without feeling thirsty. At 350 mL by mid-afternoon, this resident’s intake is low. Offering preferred fluids and scheduling regular offers works around the weak thirst signal while respecting the resident’s preferences. Documenting the refusal is tempting because it seems to honor autonomy, but autonomy is better supported with information and appealing choices than by relying on an unreliable thirst sense.",
    "takeaway": "“Not thirsty” does not mean “well hydrated” in an older adult; offer preferred fluids on a schedule.",
    "hintContent": "Consider how thirst sensation changes with age.",
-   "hintStrategy": "Eliminate options that depend on a body signal the client’s age group is known to lack."
+   "hintStrategy": "Eliminate options that depend on a body signal the client’s age group is known to lack.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-007",
@@ -253,7 +259,8 @@
    "rationale": "Infants are at the highest risk for rapid fluid loss among these callers: they have a high percentage of body water, a large surface area for their size, immature kidneys, and depend on caregivers for intake. Vomiting every feeding means intake is not staying in, and one wet diaper since morning shows the effect. The adults are responding normally (thirst after exercise), compensating (drinking well with mild diarrhea), or have a chronic, stable issue. The marathon runner may seem concerning because of large sweat losses, but the thirst response is working and the client is replacing fluid.",
    "takeaway": "Among clients with fluid losses, an infant who cannot keep intake down is the priority because infant balance changes fastest.",
    "hintContent": "Compare each client’s age-related fluid reserve and whether intake is keeping up with losses.",
-   "hintStrategy": "Acute and unstable beats chronic and stable; the most vulnerable age group with ongoing losses is usually first."
+   "hintStrategy": "Acute and unstable beats chronic and stable; the most vulnerable age group with ongoing losses is usually first.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-008",
@@ -283,7 +290,8 @@
    "rationale": "Blood is intravascular fluid, the part of the ECF inside the vessels, and an adult has only about 5 L of it. Hemorrhage removes that fluid directly and quickly, so 1 L in 30 minutes is about 20% of total blood volume. The diuretic loss is tempting because it is the same volume, but it occurs over 8 hours, which lets fluid from the much larger interstitial space move into the vessels. The amount, the speed, and the compartment a loss comes from all determine how dangerous it is.",
    "takeaway": "Rapid blood loss threatens circulation most because the intravascular compartment holds only about 5 L.",
    "hintContent": "Recall the size of the intravascular compartment and where each fluid comes from.",
-   "hintStrategy": "When volumes are equal, compare how fast each loss occurred and which compartment it drains."
+   "hintStrategy": "When volumes are equal, compare how fast each loss occurred and which compartment it drains.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-009",
@@ -315,7 +323,8 @@
    "rationale": "Older adults have less total body water and reduced renal reserve, so a long period without intake quickly produces a deficit. This client has had nothing for 13 hours, has scant dark urine, and faces another night NPO. The nurse cannot give fluids against an active NPO order, so the first step is to contact the surgeon to clarify the order and obtain fluids. Mouth care is tempting because it relieves the visible dryness, but it is a comfort measure only and does not correct the deficit.",
    "takeaway": "Advocate early for fluids when an older adult’s NPO period is extended; comfort measures do not replace intake.",
    "hintContent": "Consider how long an older adult can safely go without intake and who can change an NPO order.",
-   "hintStrategy": "When an order blocks a needed action, the best choice is usually to contact the provider rather than ignore the order or follow it passively."
+   "hintStrategy": "When an order blocks a needed action, the best choice is usually to contact the provider rather than ignore the order or follow it passively.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-010",
@@ -331,21 +340,22 @@
    "stem": "A 68-year-old Muslim client plans to fast from dawn to sunset during Ramadan, which falls in midsummer this year. The client walks to work each day and asks how to stay healthy while fasting. Which instruction by the nurse is most important?",
    "options": [
     "You will need to skip fasting this year, because older adults cannot safely go without water",
-    "Eat salty foods at the pre-dawn meal so that your body holds on to water during the day",
+    "Walk to work early in the morning, before the heat of the day, while fasting",
     "Drink fluids steadily between sunset and dawn, and break the fast if you feel dizzy or confused",
     "Drink whenever you feel thirsty after sunset, since thirst is the best guide to your fluid needs"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Telling the client to stop disregards autonomy and religious practice when a safe plan can be made together.",
-    "Incorrect. Extra sodium raises ECF concentration and increases thirst; it does not protect an older adult from dehydration in the heat.",
-    "Correct. This respects the client’s practice while replacing fluid overnight and setting a clear safety limit for signs of dehydration.",
-    "Incorrect. Older adults have a decreased thirst sensation, so thirst underestimates their fluid needs."
+    "Incorrect. This sounds safe, but it ignores the client’s religious practice when the risk can be managed with a plan for fluids and warning signs.",
+    "Incorrect. Avoiding the heat does reduce sweat losses, but it does not make sure fluid is replaced or tell the client when to break the fast.",
+    "Correct. Steady fluid intake during non-fasting hours replaces daytime losses, and knowing the warning signs keeps the client safe while respecting the fast.",
+    "Incorrect. Drinking after sunset is right, but older adults have a blunted thirst sense, so thirst alone will not prompt enough intake."
    ],
    "rationale": "Older adults have less body water, a blunted thirst sense, and reduced renal reserve, and summer heat increases sweat losses. The nurse supports the client’s religious practice by planning with the client: drink steadily during non-fasting hours and know which warning signs mean the fast should be broken. Telling the client not to fast is the tempting “safe” answer, but it ignores autonomy and culture when the risk can be managed. Relying on thirst is unsafe at this age.",
    "takeaway": "Support cultural practices with a safe plan; older adults should drink on a schedule, not by thirst.",
    "hintContent": "Combine what you know about older adults’ thirst sense with respect for the client’s beliefs.",
-   "hintStrategy": "Eliminate answers that override the client’s choice when a safe, culturally respectful option exists."
+   "hintStrategy": "Eliminate answers that override the client’s choice when a safe, culturally respectful option exists.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-011",
@@ -360,22 +370,23 @@
    "focus": "Nursing Interventions",
    "stem": "A 74-year-old client had a stroke 3 days ago and has right-sided weakness. The client passed a swallow screen and is on a regular diet. At 1300, the nurse notices the water pitcher and cup on the client’s right side, still full from the morning. Which action should the nurse take first?",
    "options": [
-    "Ask the provider to change the diet order to clear liquids only",
+    "Ask the family to bring in drinks the client likes from home",
     "Remind the client to use the call light whenever a drink is wanted",
     "Record that the client has had no oral fluid intake since the morning",
     "Move the fluids within reach of the left hand and offer a drink now"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. The diet order is not the barrier; the client simply cannot reach the fluids.",
-    "Incorrect. Waiting for a call depends on the client noticing and acting on thirst, which may be impaired after a stroke.",
-    "Incorrect. Documentation is needed, but it does not fix the problem that is limiting intake.",
-    "Correct. Placing fluids within reach of the unaffected hand removes the barrier and gets fluid into the client right away."
+    "Incorrect. Preferred drinks can raise intake, but they would still sit on the weak side. The barrier is reach, and the client needs fluid now.",
+    "Incorrect. Using the call light is reasonable, but the client has gone all morning without drinking and needs the barrier fixed and fluid offered now.",
+    "Incorrect. Recording the low intake is accurate and needed, but documenting comes after acting to correct the cause.",
+    "Correct. The fluids are on the weak side, out of reach. Moving them to the unaffected side and offering a drink now removes the barrier and starts intake right away."
    ],
    "rationale": "Clients who cannot reach fluids depend on others for intake, the same reason infants and frail older adults are at high risk. This client’s intake is low because of a physical barrier, not a lack of need. The first action is to place fluids on the unaffected side within reach and offer a drink. Documenting the low intake is tempting because it is accurate, but acting to correct the cause comes first.",
    "takeaway": "When intake is low, first remove the barrier: place fluids within reach of the client’s functional side.",
    "hintContent": "Ask yourself why this client has not been drinking.",
-   "hintStrategy": "Choose the action that fixes the cause now over options that document or wait."
+   "hintStrategy": "Choose the action that fixes the cause now over options that document or wait.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-012",
@@ -467,7 +478,8 @@
    "rationale": "Fluid balance means the right volume, the right concentration (osmolality), and the right electrolyte levels. Nurses monitor volume with I&O, daily weights, and physical assessment; concentration by knowing the type of IV fluid ordered and what it will do; and electrolytes with laboratory values. Reviewing potassium and magnesium is tempting because lab values feel like a measure of concentration, but those results monitor the electrolyte part. Matching each nursing action to the part of balance it measures helps the nurse cover all three.",
    "takeaway": "Volume = I&O, weight, and assessment; concentration = the type of IV fluid ordered; electrolytes = lab values.",
    "hintContent": "Recall the three areas the nurse monitors and the tool matched to each.",
-   "hintStrategy": "Sort each option into volume, concentration, or electrolytes before choosing."
+   "hintStrategy": "Sort each option into volume, concentration, or electrolytes before choosing.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-015",
@@ -559,7 +571,8 @@
    "rationale": "In older adults, the most reliable signs of restored balance are objective: adequate intake, good urine output, and dilute, pale urine. A urine specific gravity of 1.034 is above the normal range of 1.005–1.030 and shows the kidneys are still conserving water. Lack of thirst is tempting as evidence of hydration, but older adults have a decreased thirst sensation, so it adds little. Skin turgor is less reliable at this age because skin naturally loses elasticity.",
    "takeaway": "Evaluate hydration in older adults with intake, urine output and color, and weight, not thirst or skin turgor.",
    "hintContent": "Think about which assessments are least reliable in older adults.",
-   "hintStrategy": "In evaluate-outcome items, choose the objective, measurable finding over the client’s subjective sense."
+   "hintStrategy": "In evaluate-outcome items, choose the objective, measurable finding over the client’s subjective sense.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-018",
@@ -627,7 +640,8 @@
    "rationale": "Fluid balance has separate parts: volume (how much fluid) and concentration (osmolality, how many particles are dissolved). Normal serum osmolality is 280–300 mOsm/kg, and normal sodium is 135–145 mEq/L. Client 1 lost fluid and solutes together, so volume is low (2 kg ≈ 2 L) but concentration is normal. Client 2’s weight is stable, but sodium and osmolality are high, a concentration problem. Assuming normal labs mean no problem is the tempting trap; a client can be short on volume with completely normal lab values.",
    "takeaway": "Volume and concentration are separate: normal osmolality does not rule out a volume deficit.",
    "hintContent": "Use weight to judge volume and osmolality to judge concentration.",
-   "hintStrategy": "When a stem compares two clients, judge each one on each dimension before reading the options."
+   "hintStrategy": "When a stem compares two clients, judge each one on each dimension before reading the options.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-019",
@@ -1044,22 +1058,23 @@
    "focus": "Nursing Interventions",
    "stem": "A 72-year-old postoperative client has received D5W at 125 mL/hr for 2 days. The client now reports a headache, is newly confused, and has a serum sodium of 127 mEq/L. Which action should the nurse take first?",
    "options": [
-    "Encourage the client to drink more water to dilute the dextrose",
+    "Start seizure precautions and recheck the serum sodium in 4 hours",
     "Give the prescribed acetaminophen for the headache and reassess in 1 hour",
-    "Increase the D5W rate so that the low sodium is corrected faster",
+    "Reorient the client often and keep the bed in its lowest position",
     "Slow the D5W to the minimum rate per policy and notify the provider"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. More water further dilutes the ECF and drives even more water into the cells.",
-    "Incorrect. Treating the headache masks a new neurological change without addressing the fluid that is causing it.",
-    "Incorrect. More D5W adds more free water, which lowers sodium further rather than correcting it.",
-    "Correct. Once the dextrose is used, D5W acts like plain water; stopping further free water and reporting the neurological change addresses the cause."
+    "Incorrect. Seizure precautions are reasonable with low sodium and confusion, but the D5W keeps adding free water. Stopping the cause and reporting comes first.",
+    "Incorrect. Treating the headache addresses the complaint, but it ignores the cause and delays reporting a new neurological change.",
+    "Incorrect. Reorienting and keeping the bed low protect a confused client, but they do not stop the fluid that is making the brain cells swell.",
+    "Correct. D5W acts like free water and has diluted the sodium, causing brain cells to swell. Slowing the infusion stops the cause, and the provider must change the plan."
    ],
    "rationale": "Once the cells use the dextrose, D5W behaves like plain water. Large amounts dilute the ECF (sodium 127 is below the normal 135–145 mEq/L), so by osmosis water moves into the more concentrated cells, which swell. Swelling brain cells cause headache and confusion. The priority is to stop adding free water and notify the provider. Treating the headache with acetaminophen is tempting because it addresses the complaint, but it ignores the cause and delays reporting a neurological change.",
    "takeaway": "A dilute ECF drives water into cells; new confusion during a free-water infusion means slow it and report.",
    "hintContent": "Think about how D5W behaves after the sugar is used and which way water moves when the ECF is diluted.",
-   "hintStrategy": "When a new neurological change appears during an infusion, suspect the infusion and stop adding to the problem."
+   "hintStrategy": "When a new neurological change appears during an infusion, suspect the infusion and stop adding to the problem.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-031",
@@ -1113,20 +1128,21 @@
    "options": [
     "Assess the client’s heart rate and rhythm and notify the provider promptly",
     "Ask the lab to redraw the sample, since the result is likely hemolyzed",
-    "Document the results and recheck the potassium with tomorrow’s labs",
+    "Review the client’s urine output and urine color since admission",
     "Remove bananas and orange juice from the client’s breakfast tray"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Damaged muscle cells are releasing intracellular potassium; because potassium controls heart rhythm, the nurse checks the rhythm and reports at once.",
-    "Incorrect. Hemolysis can falsely raise potassium, but this client has a real cause for cell breakdown, so assuming an error delays care.",
-    "Incorrect. Waiting a day ignores a rising potassium that can affect the heart within hours.",
-    "Incorrect. The rise comes from damaged cells, not diet, and the client had not eaten the foods anyway."
+    "Correct. Potassium of 5.9 can cause dangerous dysrhythmias. Checking heart rhythm and reporting promptly addresses the most life-threatening effect of cell breakdown first.",
+    "Incorrect. Hemolysis can falsely raise potassium, but a crush injury explains a true rise, and the rising phosphate supports it. Waiting for a redraw delays care.",
+    "Incorrect. Urine output matters after a crush injury because the kidneys are at risk, but the immediate threat of high potassium is to the heart.",
+    "Incorrect. Limiting potassium in food is reasonable, but the potassium is coming from damaged cells, and diet changes do nothing for the risk to the heart now."
    ],
    "rationale": "The Na⁺/K⁺ pump keeps most of the body’s potassium and phosphate inside cells. When many cells are damaged, as in a crush injury, those intracellular electrolytes spill into the ECF, so serum levels rise even though the client took none in. Potassium outside 3.5–5.0 mEq/L affects heart rhythm, so the nurse assesses rhythm and reports promptly. Assuming the sample is hemolyzed is tempting because that can falsely raise potassium, but this client has a clear reason for true cell breakdown, and the rising phosphate supports it.",
    "takeaway": "Rising potassium and phosphate after major tissue injury signal cell breakdown; assess rhythm and report promptly.",
    "hintContent": "Recall where most potassium and phosphate are kept and what happens when cells are damaged.",
-   "hintStrategy": "When a dangerous lab value has a clear clinical cause, choose prompt assessment and reporting over explaining it away."
+   "hintStrategy": "When a dangerous lab value has a clear clinical cause, choose prompt assessment and reporting over explaining it away.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-032",
@@ -1197,7 +1213,8 @@
    "rationale": "When capillary pressure is high, filtration pushes more fluid out of the vessels than can return at the venous end, so fluid collects in the tissues. In the legs this causes edema; in the lungs, fluid in the tissue and air spaces interferes with oxygen diffusing into the blood. New crackles with SpO₂ of 89% show a breathing problem and come first. Ankle edema is the tempting choice because it is the most visible, but it is unchanged and does not threaten oxygenation.",
    "takeaway": "High capillary pressure pushes fluid into the tissues; when it reaches the lungs, breathing comes first.",
    "hintContent": "Ask where the filtered fluid is causing the greatest threat to the ABCs.",
-   "hintStrategy": "Compare today with yesterday; a new change in breathing outranks stable findings."
+   "hintStrategy": "Compare today with yesterday; a new change in breathing outranks stable findings.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-033",
@@ -1215,21 +1232,22 @@
    "stem": "The nurse is preparing to give a unit of packed red blood cells. Another nurse has already primed the blood tubing with D5W from the client’s maintenance line. Which action is the priority?",
    "options": [
     "Start the transfusion but run it slowly for the first 15 minutes as usual",
-    "Flush the D5W through with the blood at a fast rate to clear the tubing quickly",
+    "Report the priming error to the charge nurse, and then start the blood transfusion",
     "Start the transfusion, since the D5W in the tubing is only a small volume",
     "Replace the tubing and prime it with 0.9% sodium chloride before starting the blood"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Slow initial rates are a standard safety step, but they do not prevent damage from the wrong fluid.",
-    "Incorrect. Running blood quickly through D5W still exposes the cells to the wrong fluid.",
-    "Incorrect. Even a small amount of D5W in contact with red cells can cause them to swell and burst.",
-    "Correct. Blood is given only with isotonic 0.9% sodium chloride, which causes no major water shift into the red cells."
+    "Incorrect. A slow start for 15 minutes is a routine safety step, but it does not protect the red cells from the D5W already in the tubing.",
+    "Incorrect. Reporting the error is reasonable, but starting the blood through the same tubing still exposes red cells to hypotonic fluid.",
+    "Incorrect. The volume is small, but any red cells that sit in D5W can swell and burst, so the tubing must not be used.",
+    "Correct. D5W acts as a hypotonic fluid that can make red cells swell and burst. New tubing primed with 0.9% sodium chloride is the only safe way to start."
    ],
    "rationale": "Once its dextrose is taken up, D5W acts like plain water, so red cells sitting in it are in a hypotonic environment. By osmosis, water moves into the red cells toward their higher solute concentration, so they swell and can burst. Blood is primed and given only with isotonic 0.9% sodium chloride, which causes no major fluid shift. Starting slowly is tempting because it is a routine transfusion safety step, but it does not protect the cells from the wrong fluid.",
    "takeaway": "Only isotonic 0.9% sodium chloride touches red cells; a dilute fluid makes them swell and burst.",
    "hintContent": "Predict what happens to a red blood cell placed in a fluid that acts like water.",
-   "hintStrategy": "When a setup error could harm the client, correct the error before starting, even if it takes time."
+   "hintStrategy": "When a setup error could harm the client, correct the error before starting, even if it takes time.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-034",
@@ -1248,21 +1266,22 @@
    "stem": "A client’s serum potassium is 3.2 mEq/L. The provider’s order reads: “Potassium chloride 20 mEq IV push now.” Which action should the nurse take?",
    "options": [
     "Hold the dose and call the provider; IV potassium must be diluted and run on a pump",
-    "Give the dose as ordered, since the client’s potassium is below the normal range",
+    "Check that the client’s urine output is adequate, then give the dose as ordered",
     "Give the dose slowly over 5 minutes while watching the client’s cardiac monitor",
     "Dilute the dose in 10 mL of saline and push it slowly over 2 to 3 minutes"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. IV potassium is never pushed; the nurse holds the order and clarifies a diluted, pump-controlled infusion.",
-    "Incorrect. Low potassium needs replacement, but not by a route that can cause a fatal dysrhythmia.",
-    "Incorrect. Any IV push of potassium can raise the ECF level fast enough to stop the heart, even when given slowly.",
-    "Incorrect. A small dilution and a short push still deliver a concentrated bolus to the heart."
+    "Correct. IV potassium is never given by IV push. The nurse holds the dose and gets a corrected order for a diluted infusion on a pump.",
+    "Incorrect. Confirming urine output is a real step before IV potassium, but the order is still an IV push, which can cause a fatal dysrhythmia.",
+    "Incorrect. Cardiac monitoring is wise with IV potassium, but pushing it, even over 5 minutes, raises serum potassium too fast to be safe.",
+    "Incorrect. Dilution is part of safe potassium use, but 10 mL is far too little, and any IV push of potassium is unsafe."
    ],
    "rationale": "The Na⁺/K⁺ pump keeps potassium mostly inside cells, so the ECF normally holds only a small amount (3.5–5.0 mEq/L). Pushing a concentrated dose into the bloodstream raises ECF potassium faster than it can move into cells, and because potassium controls heart rhythm, this can cause a fatal dysrhythmia. IV potassium is never given by IV push; it is diluted and infused on a pump after adequate urine output is confirmed. Pushing slowly or diluting slightly is tempting because it seems careful, but any IV push of potassium is unsafe.",
    "takeaway": "Never give potassium by IV push; clarify the order and infuse it diluted on a pump.",
    "hintContent": "Recall where potassium normally lives and how much of it the ECF can tolerate.",
-   "hintStrategy": "When an order is unsafe, the answer is to hold and clarify, not to modify the order on your own."
+   "hintStrategy": "When an order is unsafe, the answer is to hold and clarify, not to modify the order on your own.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-035",
@@ -1280,21 +1299,22 @@
    "stem": "A 74-year-old client who has eaten poorly for several weeks has a serum albumin of 2.6 g/dL and swelling in both legs. Which instruction is most important for the nurse to include in the client’s teaching?",
    "options": [
     "Drink less water each day so that the swelling in your legs will go down",
-    "Add salt to your food so that the fluid is pulled back into your blood vessels",
+    "Raise your legs on a pillow when you sit so that the swelling will go down",
     "Include protein foods such as eggs, fish, beans, or dairy at each meal as allowed",
-    "Keep your legs hanging down when you sit to help the blood flow to your feet"
+    "Weigh yourself each morning and call the clinic if you gain 1 kg in a day"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. The problem is where the fluid sits, not how much the client drinks; restricting water does not restore oncotic pressure.",
-    "Incorrect. Water follows sodium, so extra salt adds fluid to the ECF and can worsen the swelling.",
-    "Correct. Albumin is a protein, and better protein intake supports albumin levels and the oncotic pull that holds fluid in the vessels.",
-    "Incorrect. Dependent legs raise capillary pressure in the feet and push more fluid into the tissues."
+    "Incorrect. The swelling looks like too much fluid, but it comes from low albumin, not from how much the client drinks. Limiting water risks dehydration in an older adult.",
+    "Incorrect. Leg elevation can ease swelling and is reasonable, but it treats the symptom. The edema returns unless the low protein is corrected.",
+    "Correct. Low albumin lets fluid leak into the tissues. Adding protein foods addresses the cause by restoring the oncotic pull that keeps fluid in the vessels.",
+    "Incorrect. Daily weights are a reasonable way to track fluid, but monitoring does not correct the low albumin that is causing the swelling."
    ],
    "rationale": "Albumin is the main plasma protein, and it creates the oncotic pull that brings fluid back into the vessels at the venous end of the capillary. With albumin at 2.6 g/dL (normal 3.5–5.0), filtration still pushes fluid out, but too little returns, so it collects in the tissues. Improving protein intake addresses the cause. Drinking less water is tempting because the swelling looks like “too much fluid,” but the issue is where the fluid is held, not how much the client drinks.",
    "takeaway": "Low albumin means weak oncotic pull; protein intake addresses the cause of the edema.",
    "hintContent": "Recall what albumin is and how it keeps fluid inside the vessels.",
-   "hintStrategy": "Choose the teaching that treats the cause rather than the visible symptom."
+   "hintStrategy": "Choose the teaching that treats the cause rather than the visible symptom.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-036",
@@ -1310,21 +1330,22 @@
    "stem": "An 81-year-old client with a low serum albumin has marked edema in both legs and over the sacrum. Which instruction to the assistive personnel (AP) is most important?",
    "options": [
     "Massage any reddened areas over the hips to improve the circulation",
-    "Limit the client’s total fluid intake to 500 mL for the rest of the day",
-    "Place a heating pad on the swollen legs to help reduce the edema",
+    "Raise the client’s swollen legs on pillows while the client is in bed",
+    "Measure and record all of the client’s intake and output each shift",
     "Reposition the client at least every 2 hours and report any reddened skin"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Massaging reddened areas can damage fragile, edematous tissue.",
-    "Incorrect. Fluid restriction needs a provider order and does not correct low albumin.",
-    "Incorrect. Heat on edematous skin with poor circulation risks burns.",
-    "Correct. Edematous skin is stretched and poorly perfused, so frequent turning and early reporting of redness prevent breakdown."
+    "Incorrect. Massage sounds like it improves blood flow, but rubbing reddened areas can injure fragile, edematous tissue.",
+    "Incorrect. Elevating the legs is a reasonable comfort measure for edema, but it does not protect the sacrum and other bony areas from breakdown.",
+    "Incorrect. I&O is appropriate to delegate and useful, but it monitors fluid rather than protecting the stretched, fragile skin at risk now.",
+    "Correct. Edematous skin breaks down easily over bony areas. Frequent repositioning and reporting redness prevent pressure injury and are within the AP’s role."
    ],
    "rationale": "Low albumin reduces oncotic pressure, so fluid stays in the interstitial space instead of returning to the vessels. Edematous skin is stretched, has poorer circulation, and breaks down easily, especially over bony areas such as the sacrum. Frequent repositioning and reporting reddened skin protect skin integrity and are appropriate to delegate. Massaging reddened areas is tempting because it sounds like it improves blood flow, but it can injure fragile tissue.",
    "takeaway": "Edematous skin breaks down easily; reposition often and report redness rather than massage it.",
    "hintContent": "Think about how fluid trapped in the tissues affects skin over pressure points.",
-   "hintStrategy": "In delegation items, pick the clear, safe, routine task with a specific reporting instruction."
+   "hintStrategy": "In delegation items, pick the clear, safe, routine task with a specific reporting instruction.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-037",
@@ -1372,21 +1393,22 @@
    "stem": "A 56-year-old client had a left mastectomy with removal of the axillary lymph nodes. Which instruction is most important for the nurse to include in discharge teaching?",
    "options": [
     "Avoid blood pressure readings and needle sticks in your left arm",
-    "Keep your left arm hanging down at your side to help it drain",
-    "Apply heat to your left arm each day to improve circulation",
+    "Rest your left arm on a pillow above heart level when sitting",
+    "Report any swelling in your left arm at your next clinic visit",
     "Limit how much you drink to reduce swelling in your left arm"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. With lymph return impaired, avoiding extra pressure and injury to the arm reduces the risk of swelling and infection.",
-    "Incorrect. A dependent arm raises capillary pressure and pushes more fluid into the tissues.",
-    "Incorrect. Heat increases blood flow and fluid leaving the capillaries, which can worsen swelling.",
-    "Incorrect. The swelling risk comes from impaired lymph return, not from the amount the client drinks."
+    "Correct. Removing axillary nodes impairs lymph return. Avoiding cuffs and needle sticks in that arm prevents pressure and injury that can trigger lifelong lymphedema.",
+    "Incorrect. Elevating the arm can help lymph drain, but it does not prevent the injury and pressure that most often trigger lymphedema.",
+    "Incorrect. Reporting swelling is right, but it should be reported promptly, and it detects lymphedema rather than preventing it.",
+    "Incorrect. The swelling looks like extra fluid, but it comes from poor lymph return, not from drinking. Limiting fluids does not help."
    ],
    "rationale": "Filtration pushes fluid out of the capillaries into the tissues, and most of it returns at the venous end; the small amount left over is carried back to the blood by the lymph vessels. When axillary lymph nodes are removed, that return path is impaired, so the arm is prone to swelling (lymphedema). Avoiding blood pressure cuffs and needle sticks limits extra pressure and injury to the arm. Limiting fluid intake is tempting because the problem looks like extra fluid, but the swelling comes from poor lymph return, not from drinking.",
    "takeaway": "Lymph vessels return leftover filtered fluid; when they are removed, protect the arm from pressure and injury.",
    "hintContent": "Recall what happens to the small amount of fluid that does not return to the capillary at the venous end.",
-   "hintStrategy": "Eliminate options that increase capillary pressure or blood flow into an area already prone to swelling."
+   "hintStrategy": "Eliminate options that increase capillary pressure or blood flow into an area already prone to swelling.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-039",
@@ -1406,19 +1428,20 @@
     "Encourage the client to cough and deep breathe every hour while awake",
     "Slow the infusion to the minimum rate per policy and raise the head of the bed",
     "Obtain a weight now and compare it with yesterday’s morning weight",
-    "Document the findings and recheck the lungs at the next scheduled assessment"
+    "Notify the provider of the new crackles and the drop in oxygen saturation"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Coughing does not remove fluid filtered into the lung tissue.",
-    "Correct. Stopping further volume and improving breathing position address the cause and the threat to oxygenation; the provider is notified next.",
-    "Incorrect. A weight confirms fluid gain but delays action while the client is short of breath.",
-    "Incorrect. Waiting for the next scheduled check leaves a worsening breathing problem untreated."
+    "Incorrect. Coughing and deep breathing help clear secretions, but these crackles come from fluid overload, and the infusion keeps adding volume while the client struggles to breathe.",
+    "Correct. Slowing the infusion stops adding volume, and raising the head of the bed eases breathing right away. The nurse then notifies the provider.",
+    "Incorrect. A daily weight is the best measure of fluid balance, but gathering more data delays relief while the client is short of breath.",
+    "Incorrect. The provider must be notified, but the nurse can first slow the infusion and position the client, which act on the cause and the breathing problem immediately."
    ],
    "rationale": "Isotonic saline stays in the ECF, and as vascular volume rises, capillary pressure rises too. Higher pressure filters more fluid out of the capillaries, including into the lungs, where it interferes with oxygen diffusing into the blood. Older adults have less renal reserve to remove the extra volume. The first action is to stop adding volume and ease breathing by slowing the infusion and raising the head of the bed, then notify the provider. Weighing the client is tempting because weight tracks fluid, but it gathers data while the client struggles to breathe.",
    "takeaway": "New crackles during IV fluids: slow the infusion, raise the head of the bed, then notify the provider.",
    "hintContent": "Link rising vascular volume to capillary pressure and where the filtered fluid goes.",
-   "hintStrategy": "When breathing is threatened, choose the action that stops the cause and supports breathing before gathering more data."
+   "hintStrategy": "When breathing is threatened, choose the action that stops the cause and supports breathing before gathering more data.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-040",
@@ -1433,22 +1456,23 @@
    "focus": "Lifespan & Diversity",
    "stem": "The parent of a 3-month-old tells the nurse, “Money is tight right now, so I add extra water to the formula to make it last longer.” Which response by the nurse is most important?",
    "options": [
-    "“A little extra water is fine as long as your baby seems satisfied after each feeding.”",
-    "“Give your baby plain water between feedings instead so the formula lasts longer.”",
+    "“Let’s talk with the social worker about WIC so you can afford more formula.”",
+    "“Watch your baby for puffiness, fussiness, or seizures and call if they occur.”",
     "“Mix the formula exactly as the label says; extra water can make your baby’s cells swell.”",
-    "“Switch to cow’s milk, which costs less and gives your baby the same water balance.”"
+    "“How many wet diapers and feedings does your baby have each day right now?”"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Satisfaction after feeding does not show whether the infant’s fluid concentration is safe.",
-    "Incorrect. Plain water between feedings adds the same excess free water to an infant with immature kidneys.",
-    "Correct. Correct mixing prevents excess free water from diluting the infant’s ECF; the nurse can then connect the family with formula resources.",
-    "Incorrect. Cow’s milk is not appropriate for young infants and does not solve the safety problem."
+    "Incorrect. A WIC or social work referral addresses the cost problem and should follow, but the diluted feeds are causing harm now and must be stopped first.",
+    "Incorrect. Knowing the signs of water intoxication is useful, but this response lets the unsafe practice continue instead of stopping it.",
+    "Correct. Correct mixing stops the excess free water that can dilute the infant’s ECF and swell cells, including brain cells. Safety teaching comes before resources and monitoring.",
+    "Incorrect. Assessing intake and output is reasonable, but the nurse already knows the practice is unsafe, and gathering more data delays the teaching that prevents harm."
    ],
-   "rationale": "Water moves by osmosis toward the side with more solute. When an infant takes in too much water, the ECF becomes dilute and water moves into the cells, which swell; swelling brain cells can cause seizures. Infants are especially vulnerable because their immature kidneys cannot get rid of extra water well. The nurse teaches correct mixing and then helps the family find resources such as WIC. Giving plain water between feedings is tempting because it seems harmless, but it adds the same excess free water.",
+   "rationale": "Water moves by osmosis toward the side with more solute. When an infant takes in too much water, the ECF becomes dilute and water moves into the cells, which swell; swelling brain cells can cause seizures. Infants are especially vulnerable because their immature kidneys cannot get rid of extra water well. The nurse teaches correct mixing and then helps the family find resources such as WIC. Referring the family to WIC is tempting because it solves the cost problem, but the unsafe mixing must be corrected first.",
    "takeaway": "Too much free water dilutes an infant’s ECF and makes cells swell; formula must be mixed exactly as directed.",
    "hintContent": "Predict which way water moves when an infant’s ECF becomes too dilute.",
-   "hintStrategy": "Address the immediate safety risk first; then attend to the underlying social need."
+   "hintStrategy": "Address the immediate safety risk first; then attend to the underlying social need.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-041",
@@ -1478,7 +1502,8 @@
    "rationale": "Gas exchange is a classic example of diffusion: particles move from an area of high concentration to an area of low concentration until balance is reached, with no energy required. Supplemental oxygen raises the oxygen concentration in the air sacs, which steepens the gradient into the blood. The active-transport option is tempting because it sounds like the body is working hard, but only movement against a gradient requires ATP. Filtration and osmosis move fluid and water, not oxygen.",
    "takeaway": "Oxygen enters the blood by diffusion, from high concentration to low; extra oxygen steepens that gradient.",
    "hintContent": "Name the process that moves particles from high to low concentration without energy.",
-   "hintStrategy": "Identify what is moving (water, fluid, or particles) and in which direction, then match the process."
+   "hintStrategy": "Identify what is moving (water, fluid, or particles) and in which direction, then match the process.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-042",
@@ -1495,22 +1520,23 @@
    "focus": "Assessment Findings",
    "stem": "A healthy 40-year-old client’s preoperative potassium is reported as 6.0 mEq/L with a lab comment that the specimen is hemolyzed. The client has no symptoms, normal kidney function, and takes no medications. Which interpretation by the nurse is most accurate?",
    "options": [
-    "The result reflects the potassium inside the client’s cells, which is normally this high",
-    "The client’s Na⁺/K⁺ pump has stopped working and is moving potassium out of all cells",
-    "The client has been eating too many high-potassium foods in the days before surgery",
+    "The value is slightly high but acceptable, since the client is healthy and has no symptoms",
+    "The client has true hyperkalemia and needs cardiac monitoring before surgery",
+    "The client may have early kidney injury that is causing potassium to build up",
     "Red blood cells broke open in the tube and released potassium, so a redraw is likely needed"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Serum labs measure only the ECF, never the fluid inside cells.",
-    "Incorrect. A failed pump throughout the body would cause serious illness; this client is healthy and asymptomatic.",
-    "Incorrect. Diet rarely raises potassium in someone with normal kidneys, and the hemolysis comment explains the value.",
-    "Correct. Hemolysis releases intracellular potassium into the sample, giving a falsely high value; the nurse reports it and anticipates a redraw."
+    "Incorrect. The lack of symptoms is reassuring, but 6.0 mEq/L is above the normal 3.5–5.0 range and cannot simply be accepted; the hemolyzed specimen explains the high value.",
+    "Incorrect. Cardiac monitoring is right for true hyperkalemia, but a hemolyzed sample in a healthy client without symptoms most likely gives a falsely high value.",
+    "Incorrect. Kidney injury is a common cause of high potassium, but this client has normal kidney function and takes no medications.",
+    "Correct. Hemolysis releases potassium from damaged red cells into the sample, giving a falsely high result. The nurse reports it and anticipates a redraw before treating."
    ],
    "rationale": "Potassium is kept mostly inside cells by the Na⁺/K⁺ pump. When red cells are damaged in the collection tube (hemolysis), they release potassium into the serum sample, which gives a falsely high result. The nurse reports the result and anticipates a redraw rather than treating a value that may not reflect the client. The intracellular option is tempting because cell potassium really is high, but serum labs measure only the ECF.",
    "takeaway": "A hemolyzed sample can show a falsely high potassium because broken red cells release their potassium.",
    "hintContent": "Recall where potassium is concentrated and what happens when cells break open.",
-   "hintStrategy": "Use all the clues in the stem, including the lab comment and the client’s risk factors, before choosing."
+   "hintStrategy": "Use all the clues in the stem, including the lab comment and the client’s risk factors, before choosing.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-043",
@@ -1528,19 +1554,20 @@
     "Diffusion moves water from the ankles to the sacrum until the concentrations are equal",
     "Gravity raises capillary pressure in the lowest body areas, so more fluid filters out there",
     "Albumin moves into the sacral tissues and pulls fluid toward the area the client lies on",
-    "Active transport pumps fluid into the tissues that are bearing the client’s weight"
+    "Low albumin lets fluid leak out of the vessels evenly into tissues throughout the body"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Diffusion moves particles, not water, and does not move fluid between body regions.",
-    "Correct. Hydrostatic pressure is highest in dependent areas, so filtration pushes more fluid into those tissues.",
-    "Incorrect. Albumin stays inside the vessels and pulls water in; it does not move into the tissues.",
-    "Incorrect. Active transport moves particles such as sodium and potassium, not bulk fluid into tissues."
+    "Incorrect. Diffusion moves particles from high to low concentration; it does not move water from one body region to another.",
+    "Correct. Hydrostatic pressure drives filtration, and gravity raises it in dependent areas. In a client lying in bed, the sacrum and backs of the thighs are lowest.",
+    "Incorrect. Albumin matters in edema, but it stays in the vessels and pulls fluid in, not out into the tissues.",
+    "Incorrect. Low albumin can cause edema, but it would not explain why swelling appears only where the client is lying; gravity explains the pattern."
    ],
    "rationale": "Fluid filters out of capillaries where hydrostatic pressure is highest. Gravity adds to that pressure in the lowest, or dependent, parts of the body: the ankles when a person is upright and the sacrum and backs of the thighs when the person lies in bed. That is why edema in a bedbound client often shows up over the sacrum first, and why the nurse checks there. The albumin option is tempting because albumin is part of every edema discussion, but albumin stays in the vessels and pulls fluid in.",
    "takeaway": "Edema collects where capillary pressure is highest, so check the sacrum in bedbound clients.",
    "hintContent": "Think about how body position changes pressure inside the capillaries.",
-   "hintStrategy": "Match each option’s process to what it actually moves; eliminate any that move the wrong thing."
+   "hintStrategy": "Match each option’s process to what it actually moves; eliminate any that move the wrong thing.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-044",
@@ -1556,21 +1583,22 @@
    "stem": "A nurse is preparing to irrigate a client’s open abdominal wound. Sterile water and sterile 0.9% sodium chloride are both on the supply cart, and the order specifies saline. A new graduate asks why. Which explanation is most accurate?",
    "options": [
     "Saline matches body fluid concentration, so the wound’s cells neither swell nor shrink",
-    "Saline is hypotonic, so it draws bacteria out of the wound bed by osmosis",
-    "Sterile water contains more particles than saline and would irritate the tissue",
-    "Sterile water is hypertonic and would pull fluid out of the exposed wound cells"
+    "Saline is hypertonic, so it draws drainage and bacteria out of the wound bed",
+    "Sterile water is hypotonic, so it would pull fluid out of the exposed wound cells",
+    "Saline has an antibacterial effect that sterile water does not provide to the wound"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. 0.9% sodium chloride is isotonic, so it causes no major shift of water into or out of the exposed cells.",
-    "Incorrect. 0.9% saline is isotonic, and osmosis moves water, not bacteria.",
-    "Incorrect. Sterile water has almost no particles; that is exactly why it is hypotonic.",
-    "Incorrect. Water with no solute is hypotonic, not hypertonic; it would push water into cells."
+    "Correct. Isotonic 0.9% saline causes no major water shift, so exposed cells are protected. Sterile water is hypotonic and would make the cells swell.",
+    "Incorrect. Hypertonic saline can draw fluid out of tissue, but 0.9% saline is isotonic, not hypertonic.",
+    "Incorrect. Sterile water is hypotonic, but this reverses the direction: water moves into the cells and makes them swell, not out of them.",
+    "Incorrect. Sterility matters in wound care, but 0.9% saline is chosen for its concentration, not because it kills bacteria."
    ],
-   "rationale": "0.9% sodium chloride is isotonic: its concentration is similar to body fluids, so there is no major shift of water into or out of cells. Sterile water has almost no solute, so it is hypotonic; by osmosis, water would move into the exposed cells, causing them to swell and possibly burst. The hypertonic option is tempting because it uses a real tonicity term, but water with no solutes cannot be more concentrated than body fluid. Matching a fluid’s concentration to the cells protects tissue.",
+   "rationale": "0.9% sodium chloride is isotonic: its concentration is similar to body fluids, so there is no major shift of water into or out of cells. Sterile water has almost no solute, so it is hypotonic; by osmosis, water would move into the exposed cells, causing them to swell and possibly burst. Calling sterile water hypotonic is correct, but it is tempting to reverse the direction: water moves into the cells, not out of them. Matching a fluid’s concentration to the cells protects tissue.",
    "takeaway": "Isotonic saline protects exposed cells; plain water is hypotonic and makes cells swell.",
    "hintContent": "Compare the particle concentration of each fluid with that of the client’s cells.",
-   "hintStrategy": "Check that each tonicity label in the options is correct before weighing the explanation."
+   "hintStrategy": "Check that each tonicity label in the options is correct before weighing the explanation.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-045",
@@ -1602,7 +1630,8 @@
    "rationale": "A hypertonic fluid has a higher solute concentration than blood and cells. By osmosis, water moves toward the side with more solute, so it leaves the cells and enters the vascular space, and the cells shrink. This principle is used to reduce swelling in the brain. The sodium option is tempting because “water follows sodium,” but osmosis is the movement of water only; particles move by diffusion or active transport.",
    "takeaway": "Hypertonic fluid pulls water out of cells; hypotonic fluid pushes water into them.",
    "hintContent": "Decide which side of the cell membrane has more solute once the fluid is infused.",
-   "hintStrategy": "For tonicity items, first decide where solute is higher, then send water there."
+   "hintStrategy": "For tonicity items, first decide where solute is higher, then send water there.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-046",
@@ -1664,7 +1693,8 @@
    "rationale": "Albumin creates oncotic pressure, which pulls fluid back into the vessels at the venous end of the capillary. When albumin rises into the normal range (3.5–5.0 g/dL), more fluid returns to the bloodstream and edema decreases. The appetite option is tempting because nutrition is the treatment, but an albumin of 2.9 g/dL is still low. Falling blood pressure and persistent edema point to continued loss of fluid from the vessels.",
    "takeaway": "Rising albumin with shrinking edema shows oncotic pressure is holding fluid in the vessels again.",
    "hintContent": "Recall the normal ranges for albumin and prealbumin and what better oncotic pressure would look like.",
-   "hintStrategy": "In evaluate-outcome items, choose the option where both the lab value and the physical finding have improved."
+   "hintStrategy": "In evaluate-outcome items, choose the option where both the lab value and the physical finding have improved.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-048",
@@ -1680,21 +1710,22 @@
    "stem": "A 34-year-old completed a 5-hour marathon on a hot day, sweating heavily and drinking only plain water at every station. At the medical tent the runner has a headache, nausea, and confusion; serum sodium is 129 mEq/L. Which explanation best accounts for these symptoms?",
    "options": [
     "Sweat sodium was replaced with plain water, so the ECF became dilute and water moved into cells",
-    "Plain water stayed in the blood vessels and raised blood pressure enough to cause a headache",
+    "Low blood sugar after hours of running caused the headache, nausea, and confusion",
     "The runner did not drink enough, so the ECF became concentrated and the brain cells shrank",
-    "Exercise used up ATP, so the Na⁺/K⁺ pump moved sodium into the blood from the cells"
+    "Heavy sweating lowered the blood volume, so too little blood and oxygen reached the brain"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Water without sodium dilutes the ECF; by osmosis water enters the more concentrated cells, and swelling brain cells cause these symptoms.",
-    "Incorrect. Plain water does not stay only in the vessels; it spreads into all compartments, including cells.",
-    "Incorrect. A concentrated ECF would raise sodium, but this runner’s sodium is low.",
-    "Incorrect. The pump moves sodium out of cells into the ECF; low ECF sodium here comes from dilution, not pump failure."
+    "Correct. Replacing sweat with plain water restores water but not sodium, so the ECF becomes dilute (129 mEq/L) and water moves into brain cells, causing these symptoms.",
+    "Incorrect. Low blood sugar can cause similar symptoms after long exercise, but it does not explain the low serum sodium.",
+    "Incorrect. Dehydration is common after a hot race, but a concentrated ECF would raise sodium, not lower it to 129 mEq/L.",
+    "Incorrect. Sweating does lower volume, but the runner drank throughout, and low volume does not explain the low sodium or the cell swelling."
    ],
    "rationale": "Sweat contains water and sodium. Replacing a large sweat loss with plain water alone restores water but not sodium, so the ECF becomes dilute (sodium 129 is below 135–145 mEq/L). By osmosis, water moves toward the more concentrated cells, and they swell; swelling brain cells cause headache, nausea, and confusion. Assuming dehydration is the tempting answer after a hot marathon, but a concentrated ECF would raise sodium, not lower it.",
    "takeaway": "Replacing heavy sweat losses with plain water alone can dilute the ECF and swell cells.",
    "hintContent": "Use the sodium value to decide whether the ECF is dilute or concentrated.",
-   "hintStrategy": "Let the lab value settle the direction before you choose the story that fits."
+   "hintStrategy": "Let the lab value settle the direction before you choose the story that fits.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-049",
@@ -1714,19 +1745,20 @@
     "“The test measures potassium inside your red blood cells, which matches every other cell.”",
     "“The test shows potassium outside your cells; most of it is inside cells and isn’t measured.”",
     "“Yes, the blood level reflects the potassium inside your cells, so your total potassium is normal.”",
-    "“Potassium is stored in your bones, so the blood test shows how much you have in reserve.”"
+    "“Most of your body’s potassium is in your blood, so this level shows nearly all of it.”"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. A serum test measures the fluid portion of blood, not the inside of red cells.",
-    "Correct. Serum labs reflect only the ECF; the Na⁺/K⁺ pump keeps most potassium inside cells, where it cannot be measured directly.",
-    "Incorrect. Serum values do not measure intracellular potassium.",
-    "Incorrect. The body does not store potassium in bone; it must be taken in every day."
+    "Incorrect. Red cells do contain potassium, but serum tests measure the fluid outside cells, not the potassium inside them.",
+    "Correct. Serum potassium reflects only the ECF. Most potassium is inside cells and is not directly measured, so a normal value is reassuring but not a total count.",
+    "Incorrect. A normal value is reassuring, but the blood level reflects only the small amount outside cells, not total body potassium.",
+    "Incorrect. The blood does hold some potassium, but most of the body’s potassium is inside cells, kept there by the Na⁺/K⁺ pump."
    ],
    "rationale": "The Na⁺/K⁺ pump moves potassium into cells, so most of the body’s potassium is intracellular. Serum labs measure only the ECF, which holds a small fraction of total potassium. A normal serum value (3.5–5.0 mEq/L) is reassuring, but it does not directly measure what is inside the cells. The “yes” option is tempting because lab results feel definitive, but they reflect only the fluid outside cells.",
    "takeaway": "Serum electrolyte values reflect the ECF only; intracellular levels are not measured directly.",
    "hintContent": "Recall which compartment a blood test samples and where potassium mostly lives.",
-   "hintStrategy": "Watch for options that claim a test measures more than it can."
+   "hintStrategy": "Watch for options that claim a test measures more than it can.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-050",
@@ -2087,15 +2119,16 @@
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. The 24-hour projection hides that the hourly rate is below 0.5 mL/kg/hr.",
+    "Incorrect. The 24-hour total looks acceptable, but the hourly rate of about 37 mL/hr is below this 90-kg client’s minimum of 45 mL/hr (0.5 mL/kg/hr).",
     "Incorrect. The provider will likely be notified, but the report is more useful after a mechanical cause has been checked.",
     "Correct. A kinked or blocked catheter is a common, quickly fixable cause of low output, so the nurse rules it out before calling.",
-    "Incorrect. Changing the IV rate requires a provider order."
+    "Incorrect. More fluid may eventually be needed, but changing the IV rate requires a provider order, and a blocked catheter has not been ruled out."
    ],
    "rationale": "Minimum urine output is 0.5 mL/kg/hr: 198 lb ÷ 2.2 = 90 kg, × 0.5 = 45 mL/hr, × 8 hours = 360 mL. The client’s 300 mL is below that minimum. Before calling, the nurse rules out a simple mechanical cause, such as a kinked or blocked catheter or a full bladder, because fixing it may correct the problem immediately. Notifying the provider is tempting and will likely follow, but checking the catheter first is quick and changes what the nurse reports. Projecting to the 400–600 mL obligatory loss misses that the hourly rate is too low.",
    "takeaway": "Low urine output: calculate 0.5 mL/kg/hr, check the catheter and bladder, then report.",
    "hintContent": "Convert the weight to kilograms, then find the minimum for 8 hours.",
-   "hintStrategy": "When a number is abnormal, look for a quick assessment that could explain it before escalating."
+   "hintStrategy": "When a number is abnormal, look for a quick assessment that could explain it before escalating.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-060",
@@ -2159,14 +2192,15 @@
    "answer": 3,
    "optionRationales": [
     "Incorrect. Similar totals hide that most output is NG drainage while the kidneys are making too little urine.",
-    "Incorrect. Clamping an NG tube requires a provider order and does not address the low urine output.",
-    "Incorrect. Changing the IV rate requires a provider order.",
+    "Incorrect. Reducing NG losses seems logical, but clamping requires a provider order and does nothing about the low urine output.",
+    "Incorrect. Replacing NG losses is a reasonable goal, but changing the IV rate requires a provider order, and the low urine output must be checked and reported first.",
     "Correct. Minimum output is 36 mL/hr, or 288 mL over 8 hours; 180 mL of urine is too little even though the totals look reassuring."
    ],
    "rationale": "The totals look reassuring (900 mL in, 710 mL out), but totals can hide a problem. Minimum urine output is 0.5 mL/kg/hr: 72 kg × 0.5 = 36 mL/hr, or 288 mL over 8 hours, and this client made only 180 mL. Large NG losses are being counted as output while the kidneys are making too little urine. The nurse checks for a mechanical cause and reports. Documenting balance is tempting because the totals are close, and clamping the NG tube or changing the IV rate requires a provider order.",
    "takeaway": "Always check urine output against 0.5 mL/kg/hr; balanced totals can hide low urine output.",
    "hintContent": "Separate the urine from the other outputs and compare it with the client’s minimum.",
-   "hintStrategy": "In exhibit items, recalculate the key value yourself instead of trusting the totals."
+   "hintStrategy": "In exhibit items, recalculate the key value yourself instead of trusting the totals.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-061",
@@ -2183,20 +2217,21 @@
    "options": [
     "Encourage the client to drink an extra 650 mL to replace the loss",
     "Record the drainage as output and report the increase to the provider",
-    "Record the drainage in the nursing notes as an insensible fluid loss",
+    "Assess the skin around the fistula for redness and breakdown",
     "Wait until the end of the shift to total the drainage, then report it"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. The amount and route of replacement are a provider decision, and the drainage also carries electrolytes.",
-    "Correct. Fistula drainage is a measurable abnormal loss; recording it and reporting a sharp rise lets the provider adjust replacement.",
-    "Incorrect. Fistula drainage can be measured, so it is a sensible loss that belongs on the I&O record.",
-    "Incorrect. Waiting delays care for a loss that is accelerating."
+    "Incorrect. The loss does need replacing, but the amount and route are provider decisions, and fistula fluid carries electrolytes as well as water.",
+    "Correct. Fistula drainage is a measurable sensible loss, so it is recorded as output. More than doubling in 8 hours needs prompt reporting.",
+    "Incorrect. Fistula drainage can damage the skin, so this assessment matters, but the sharp rise in fluid loss threatens fluid balance and is the priority.",
+    "Incorrect. Totaling drainage at the end of the shift is routine, but waiting delays reporting a large, sudden loss."
    ],
    "rationale": "Fistulas, drains, vomiting, bleeding, and open wounds are abnormal routes of output that can quickly upset balance. Fistula drainage can be measured, so it is a sensible loss that is recorded on the I&O; when it increases sharply, the nurse reports it. Replacing it by mouth is tempting, but the amount and route of replacement are provider decisions, and fistula fluid carries electrolytes as well as water. Waiting until the end of the shift delays care.",
    "takeaway": "Measure and record every abnormal loss, and report sharp increases promptly.",
    "hintContent": "Recall which losses are measurable and which routes of output are abnormal.",
-   "hintStrategy": "Choose the option that both documents accurately and escalates a worsening trend."
+   "hintStrategy": "Choose the option that both documents accurately and escalates a worsening trend.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-062",
@@ -2213,20 +2248,21 @@
    "options": [
     "Measure each void and tell me right away if the 4-hour total is under 140 mL",
     "Report the client’s total urine output to me at the end of your shift",
-    "Estimate each void by how full the urinal looks and record that amount",
+    "Measure each void and record the amount on the intake and output sheet",
     "Check the client’s skin turgor each time you record the urine output"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. The instruction is specific and gives a threshold: 70 kg × 0.5 mL/kg/hr = 35 mL/hr, or 140 mL in 4 hours.",
-    "Incorrect. An end-of-shift report can delay recognition of falling output for many hours.",
-    "Incorrect. Visual estimates are inaccurate; strict I&O requires measured volumes.",
-    "Incorrect. Assessing skin turgor is an RN assessment, not an AP task."
+    "Correct. This gives the AP a clear task and a specific threshold. For a 70-kg client, the minimum is 35 mL/hr, so less than 140 mL in 4 hours needs prompt attention.",
+    "Incorrect. End-of-shift reporting is routine, but it can hide a falling output for 8 to 12 hours.",
+    "Incorrect. Measuring and recording is correct, but without a reporting threshold, low output may not reach the nurse in time.",
+    "Incorrect. Skin turgor is an assessment, which stays with the RN and is not delegated to the AP."
    ],
-   "rationale": "Clear delegation gives the AP a specific task and a specific reporting threshold. For this 70-kg client (154 lb ÷ 2.2), minimum urine output is 35 mL/hr, so less than 140 mL in 4 hours needs prompt attention. Reporting totals at the end of the shift is tempting because it is routine, but it can hide a falling output for 8 to 12 hours. Estimating by sight is inaccurate, and assessment stays with the RN.",
+   "rationale": "Clear delegation gives the AP a specific task and a specific reporting threshold. For this 70-kg client (154 lb ÷ 2.2), minimum urine output is 35 mL/hr, so less than 140 mL in 4 hours needs prompt attention. Reporting totals at the end of the shift is tempting because it is routine, but it can hide a falling output for 8 to 12 hours. Measuring and recording without a reporting threshold is incomplete, and assessment stays with the RN.",
    "takeaway": "Delegate I&O with measured volumes and a clear, number-based reporting threshold.",
    "hintContent": "Convert the weight and apply the minimum urine output rule over 4 hours.",
-   "hintStrategy": "The best delegation instruction is specific, within the AP’s role, and tells the AP when to report."
+   "hintStrategy": "The best delegation instruction is specific, within the AP’s role, and tells the AP when to report.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-063",
@@ -2256,7 +2292,8 @@
    "rationale": "Hypodermoclysis delivers fluid slowly into the subcutaneous tissue, where it is absorbed into the blood. Mild soft swelling and slight coolness at the site are expected as the fluid collects before absorption. New crackles and shortness of breath suggest the fluid is more than this older adult can handle, which threatens breathing, so it comes first. Site swelling is tempting because it looks abnormal, but it is how this route normally works.",
    "takeaway": "During any fluid infusion in an older adult, new crackles or dyspnea outrank expected site changes.",
    "hintContent": "Recall how fluid given by hypodermoclysis reaches the bloodstream.",
-   "hintStrategy": "Separate expected effects of the route from unexpected findings that threaten breathing."
+   "hintStrategy": "Separate expected effects of the route from unexpected findings that threaten breathing.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-064",
@@ -2327,7 +2364,8 @@
    "rationale": "The body must excrete at least 400–600 mL of urine a day to clear wastes, and minimum output is 0.5 mL/kg/hr. For the 60-kg client, that is 30 mL/hr or 720 mL per day; 340 mL falls below even the obligatory loss. The 50-kg client’s 900 mL exceeds the 600-mL minimum for that weight. The large output after a diuretic is tempting because it is the most dramatic number, but it is the expected effect of the medication.",
    "takeaway": "Urine below the 400–600 mL obligatory loss means wastes are not being cleared; assess first.",
    "hintContent": "Calculate each client’s 24-hour minimum from weight, and recall the obligatory loss.",
-   "hintStrategy": "An unexpected abnormal value outranks a dramatic value that has an expected explanation."
+   "hintStrategy": "An unexpected abnormal value outranks a dramatic value that has an expected explanation.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-065",
@@ -2344,22 +2382,23 @@
    "focus": "Prioritization",
    "stem": "An occupational health nurse responds to a building site where a 44-year-old roofer has worked 6 hours in the sun with little to drink. He is alert, sweating, and dizzy when he stands, and has urinated once today, a small amount of dark urine. Which action should the nurse take first?",
    "options": [
-    "Have him finish his shift and drink extra water at home tonight",
+    "Call emergency services to transport him for IV fluids",
     "Give him salt tablets and let him return to work after a break",
     "Move him to a cool, shaded area and have him drink fluids",
     "Ask him to collect his next void so its color can be checked"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Continuing to work in the heat increases losses while his blood volume is already low.",
-    "Incorrect. Extra sodium further concentrates the ECF; he needs water first, and returning to work continues the loss.",
-    "Correct. Stopping ongoing sweat loss and replacing fluid by mouth while he is alert addresses the deficit directly.",
-    "Incorrect. He has already shown dark, scant urine; collecting more data delays treatment."
+    "Incorrect. Emergency transport is needed if he becomes confused or cannot drink, but he is alert and able to take oral fluids, so cooling and fluids come first.",
+    "Incorrect. Sweat contains sodium, but salt tablets further concentrate his ECF; he needs water and rest, not a return to work in the heat.",
+    "Correct. Moving him out of the heat stops further loss, and oral fluids replace volume while he is alert and able to drink.",
+    "Incorrect. Urine color is useful data, but his dark, scant urine and dizziness already show fluid loss, and waiting delays treatment."
    ],
    "rationale": "Heavy sweating removes water, and his concentrated blood has triggered ADH, so his kidneys are holding water and making small amounts of dark urine. Dizziness on standing suggests his blood volume is low. The first action is to stop the ongoing loss (cool shade) and replace fluid by mouth while he is alert and able to drink. Salt tablets are tempting because sweat contains sodium, but extra sodium further concentrates his ECF; he needs water first.",
    "takeaway": "Heat and sweat losses: stop the loss and replace fluid; dark, scant urine shows ADH conserving water.",
    "hintContent": "Interpret his urine using what ADH does when body fluids are concentrated.",
-   "hintStrategy": "When a client is alert and losing fluid, choose the least invasive action that stops the loss and replaces it."
+   "hintStrategy": "When a client is alert and losing fluid, choose the least invasive action that stops the loss and replaces it.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-066",
@@ -2377,21 +2416,22 @@
    "stem": "A client is 4 hours post–total knee replacement. When the nurse empties the wound drain, it holds 280 mL of bright red blood collected in the past hour. Heart rate is 116/min (baseline 84), and blood pressure is 98/58 mm Hg (baseline 132/78). Which action should the nurse take first?",
    "options": [
     "Apply an ice pack to the knee and reinforce the surgical dressing",
-    "Encourage the client to drink fluids to replace the blood that was lost",
+    "Check the drain tubing and dressing for any additional bleeding",
     "Record the drainage on the I&O record and recheck the drain in 1 hour",
     "Notify the surgeon immediately of the drainage and vital sign changes"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Ice and reinforcement do not stop bleeding of this volume and delay reporting.",
-    "Incorrect. Oral fluids cannot keep up with an active hemorrhage, and the client may need surgery.",
-    "Incorrect. Recording is required, but waiting an hour while the client becomes unstable is unsafe.",
-    "Correct. Rapid bleeding with rising heart rate and falling blood pressure shows circulation is failing, which needs immediate surgical attention."
+    "Incorrect. Ice and dressing reinforcement are common post-op measures, but they will not stop this volume of bleeding.",
+    "Incorrect. Checking for more bleeding is reasonable, but the drainage and vital signs already show hemorrhage, and more assessment delays treatment.",
+    "Incorrect. The drainage must be recorded, but waiting an hour to recheck is unsafe when the client is becoming unstable.",
+    "Correct. 280 mL of blood in an hour with a rising heart rate and falling blood pressure suggests hemorrhage. The surgeon must be told now."
    ],
    "rationale": "Hemorrhage is an abnormal route of output that removes fluid directly from the intravascular compartment, which holds only about 5 L in an adult. A large hourly blood loss with a rising heart rate and falling blood pressure shows the body is struggling to maintain circulation, so the surgeon must be notified immediately. Recording the drainage is required but is not the first action when the client is becoming unstable. Applying ice is tempting because it is a common post-op comfort measure, but it will not stop this volume of bleeding.",
    "takeaway": "Abnormal output with unstable vital signs needs immediate escalation, not just documentation.",
    "hintContent": "Consider which compartment blood loss drains and what the vital signs say about it.",
-   "hintStrategy": "When a client is becoming unstable, choose the action that brings definitive help fastest."
+   "hintStrategy": "When a client is becoming unstable, choose the action that brings definitive help fastest.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-067",
@@ -2409,19 +2449,20 @@
     "Increase the tube feeding rate to make up for the fluid lost in the stool",
     "Record the number of stools only, since stool is not counted as output",
     "Measure the liquid stool as output and report the diarrhea to the provider",
-    "Hold the tube feeding for 24 hours without contacting the provider"
+    "Provide perineal skin care and apply a moisture barrier to the skin"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Changing the rate requires an order, and more unabsorbed formula may worsen the diarrhea.",
-    "Incorrect. Stool is a sensible, measurable output and belongs on the I&O record.",
-    "Correct. Liquid stool is a measurable loss, and diarrhea means the feeding is not being absorbed, which the provider needs to know.",
-    "Incorrect. Stopping a prescribed feeding requires a provider order and would remove the client’s intake."
+    "Incorrect. Replacing the loss makes sense, but changing the rate needs an order and may worsen the diarrhea.",
+    "Incorrect. Counting stools is useful, but liquid stool is a measurable loss and must be recorded as output.",
+    "Correct. Liquid stool is a sensible, measurable loss. Recording it and reporting the diarrhea addresses both the fluid deficit and the feeding problem.",
+    "Incorrect. Skin care is needed with frequent liquid stools, but fluid loss in an older adult is the bigger risk and must be reported first."
    ],
    "rationale": "Fluids and nutrients that are not absorbed in the GI tract remain there and leave in the stool. Six liquid stools mean much of this client’s tube feeding is passing through without being absorbed, so recorded intake overstates what is reaching the bloodstream. Liquid stool is a sensible, measurable loss, so the nurse measures it, records it as output, and reports the diarrhea. Increasing the feeding rate is tempting because it seems to replace the loss, but it requires an order and may worsen the diarrhea.",
    "takeaway": "Intake that is not absorbed leaves in the stool; measure liquid stool and report diarrhea.",
    "hintContent": "Think about what happens to fluid and formula that the intestines do not absorb.",
-   "hintStrategy": "Choose the action within nursing scope that documents accurately and involves the provider."
+   "hintStrategy": "Choose the action within nursing scope that documents accurately and involves the provider.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-068",
@@ -2439,19 +2480,20 @@
     "Notify the provider promptly of the large volume of dilute urine",
     "Restrict oral fluids to slow down the client’s urine output",
     "Document the output as expected fluid loss after surgery",
-    "Encourage the client to void every 2 hours while awake"
+    "Recheck the urine specific gravity in 1 hour to confirm the trend"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. The pituitary releases ADH; very large amounts of dilute urine suggest ADH is missing, which can quickly dehydrate the client.",
-    "Incorrect. Restricting fluids while the kidneys are losing large amounts of water risks severe dehydration.",
-    "Incorrect. This volume and dilution are not expected after surgery and need to be reported.",
-    "Incorrect. Timed voiding does not address why the kidneys are losing so much water."
+    "Correct. Large volumes of dilute urine after pituitary surgery suggest low ADH. The client is losing over 1 L every 3 hours and needs prompt treatment.",
+    "Incorrect. Limiting fluids seems to slow output, but the kidneys keep losing water, and the client will become dehydrated faster.",
+    "Incorrect. Some diuresis can follow surgery, but more than 350 mL/hr of very dilute urine is not expected.",
+    "Incorrect. Rechecking is reasonable, but three hours of high output already shows the trend, and waiting delays treatment."
    ],
    "rationale": "ADH is released from the pituitary gland and tells the kidneys to conserve water. Without ADH, the kidneys cannot hold water, so the client makes very large amounts of dilute urine (specific gravity 1.002, below the normal 1.005–1.030). This client is losing over 1 L every 3 hours and can become dehydrated quickly, so the provider must be notified promptly. Restricting fluids is tempting because it seems to “slow” the output, but the kidneys will keep losing water while intake falls.",
    "takeaway": "ADH comes from the pituitary; large volumes of very dilute urine suggest ADH is missing.",
    "hintContent": "Recall where ADH comes from and what the kidneys do without it.",
-   "hintStrategy": "Link the surgery site to the hormone it affects, then predict the output."
+   "hintStrategy": "Link the surgery site to the hormone it affects, then predict the output.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-069",
@@ -2511,7 +2553,8 @@
    "rationale": "Aldosterone is released from the adrenal glands when blood volume is low. It tells the kidneys to keep sodium and water; because water follows sodium, blood volume rises and the ECF is maintained. As the kidneys hold sodium, they let potassium go in the urine, and urine output falls. The water-only option is tempting because ADH also lowers urine output, but ADH conserves water alone, while aldosterone keeps sodium and water together.",
    "takeaway": "Aldosterone keeps sodium and water (and releases potassium); ADH keeps water only; ANF releases sodium and water.",
    "hintContent": "Recall what aldosterone does with sodium, and therefore with water.",
-   "hintStrategy": "When hormones look alike, sort them by what each one keeps: sodium and water, water only, or neither."
+   "hintStrategy": "When hormones look alike, sort them by what each one keeps: sodium and water, water only, or neither.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-071",
@@ -2529,19 +2572,20 @@
     "“Your ADH level went up, which tells your kidneys to produce more urine than usual.”",
     "“The water triggered more aldosterone, which makes your kidneys release sodium and water.”",
     "“The water diluted your blood, so less ADH is released and your kidneys let more water go.”",
-    "“The water stretched your stomach, which releases a hormone that makes you urinate more.”"
+    "“The water made your blood more concentrated, so your kidneys flushed out the extra.”"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. ADH conserves water; a rise would decrease urine output.",
-    "Incorrect. Aldosterone keeps sodium and water; it does not release them.",
-    "Correct. When body fluids are diluted, ADH falls, and the kidneys release more water as large amounts of pale urine.",
-    "Incorrect. Stomach stretch is not the signal that controls urine output; fluid concentration and volume are."
+    "Incorrect. ADH is the right hormone, but this reverses its effect; high ADH makes the kidneys save water.",
+    "Incorrect. Aldosterone affects sodium and water, but it rises when volume is low and makes the kidneys keep sodium, not release it.",
+    "Correct. Diluted blood lowers ADH release, so the kidneys excrete more water and the urine becomes plentiful and pale.",
+    "Incorrect. The kidneys did release the extra water, but drinking dilutes the blood rather than concentrating it."
    ],
    "rationale": "ADH controls water only. When body fluids are concentrated, ADH rises and the kidneys conserve water, so urine is scant and dark. When the person drinks a large volume and the blood becomes diluted, ADH falls, the kidneys let more water go, and the urine becomes plentiful and pale. Saying ADH went up is tempting because it names the right hormone, but it reverses ADH’s effect: “anti-diuretic” means against making urine.",
    "takeaway": "ADH up → less, darker urine; ADH down → more, paler urine.",
    "hintContent": "Break down the name antidiuretic hormone to recall its effect on urine.",
-   "hintStrategy": "When two options name the same hormone, check the direction of its effect."
+   "hintStrategy": "When two options name the same hormone, check the direction of its effect.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-072",
@@ -2571,7 +2615,8 @@
    "rationale": "When a client cannot take enough by mouth, other routes of intake include IV, nasogastric or feeding tube, rectal or body cavity instillation, subcutaneous infusion (hypodermoclysis), and intraosseous infusion. Hypodermoclysis infuses fluid slowly into the subcutaneous tissue, where it is absorbed into the blood, which makes it useful for older adults with poor veins in long-term care. The intraosseous option is tempting because it is also used when veins are hard to access, but it goes into bone marrow and is used mainly in emergencies.",
    "takeaway": "Hypodermoclysis = slow subcutaneous fluid infusion; intraosseous = into the bone marrow.",
    "hintContent": "Break the word down: hypo- (under) and derm (skin).",
-   "hintStrategy": "Match each option to the name of a specific route, then pick the one that matches the term in the stem."
+   "hintStrategy": "Match each option to the name of a specific route, then pick the one that matches the term in the stem.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-073",
@@ -2601,7 +2646,8 @@
    "rationale": "A healthy adult takes in about 2,400–2,700 mL of water a day and loses about 2,300–2,600 mL. Drinking supplies only about half (1,200–1,500 mL); food provides about 1,000 mL, and metabolism about 200 mL. Output includes about 1,400–1,500 mL of urine plus losses through the lungs, skin, and stool. The 500-mL option is tempting because it matches the obligatory urine amount, but it ignores every other daily loss.",
    "takeaway": "Adults need about 2,400–2,700 mL of water a day; drinks supply about half and food most of the rest.",
    "hintContent": "Recall the three sources of daily water intake and their amounts.",
-   "hintStrategy": "Be wary of answers that use a real number from the topic for the wrong purpose."
+   "hintStrategy": "Be wary of answers that use a real number from the topic for the wrong purpose.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-074",
@@ -2631,7 +2677,8 @@
    "rationale": "Minimum urine output is 0.5 mL/kg/hr, so for a 70-kg client the target is at least 35 mL/hr. An output of 45 mL/hr sustained over 2 hours shows the bolus restored enough volume for the kidneys to produce adequate urine. The 30 mL/hr option is tempting because 30 mL/hr is a commonly quoted number, but for this client it remains below the weight-based minimum. Subjective thirst and darker urine do not show improvement.",
    "takeaway": "Judge urine output against the client’s own weight-based minimum, not a one-size-fits-all number.",
    "hintContent": "Calculate this client’s hourly minimum before reading the options.",
-   "hintStrategy": "In evaluate-outcome items, the right answer meets the specific target, not just “better than before.”"
+   "hintStrategy": "In evaluate-outcome items, the right answer meets the specific target, not just “better than before.”",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-075",
@@ -2691,7 +2738,8 @@
    "rationale": "Oral fluid helps only after it is absorbed from the GI tract, mostly in the intestines, into the bloodstream. When a client vomits everything, the fluid never gets the chance to be absorbed. IV fluid skips absorption and enters the bloodstream immediately, which is why it acts faster than oral fluid. The stomach option is tempting because vomiting involves the stomach, but absorption happens mainly in the intestines.",
    "takeaway": "IV fluid bypasses absorption and enters the blood immediately; oral fluid must be absorbed first.",
    "hintContent": "Compare the path oral fluid takes with the path IV fluid takes.",
-   "hintStrategy": "For “best response” items, choose the accurate explanation that addresses the client’s specific concern."
+   "hintStrategy": "For “best response” items, choose the accurate explanation that addresses the client’s specific concern.",
+   "bestAnswer": true
   },
   {
    "id": "m6-x1-077",

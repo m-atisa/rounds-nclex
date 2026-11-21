@@ -27,15 +27,16 @@
    ],
    "answer": 2,
    "optionRationales": [
-    "140 mL ÷ 4 hours = 35 mL/hr. The expected minimum for 60 kg is 0.5 × 60 = 30 mL/hr, so this output is adequate.",
-    "270 mL ÷ 4 hours = 67.5 mL/hr. The expected minimum for 90 kg is 45 mL/hr, so this output is adequate.",
+    "Incorrect. 140 mL ÷ 4 hours = 35 mL/hr. The expected minimum for 60 kg is 0.5 × 60 = 30 mL/hr, so this output is adequate.",
+    "Incorrect. 270 mL ÷ 4 hours = 67.5 mL/hr. The expected minimum for 90 kg is 45 mL/hr, so this output is adequate.",
     "Correct. 120 mL ÷ 4 hours = 30 mL/hr, which sounds like the familiar 30 mL/hr average. But the weight-based expectation for 110 kg is 0.5 × 110 = 55 mL/hr, so this client is producing only about half of what is expected.",
-    "160 mL ÷ 4 hours = 40 mL/hr. The expected minimum for 70 kg is 35 mL/hr, so this output is adequate."
+    "Incorrect. 160 mL ÷ 4 hours = 40 mL/hr. The expected minimum for 70 kg is 35 mL/hr, so this output is adequate."
    ],
    "rationale": "The expected urine output is 0.5 mL/kg/hr. The 30 mL/hr figure is only an average for a typical adult. To compare clients, convert each total to an hourly rate and compare it with that client's own weight-based minimum. Only the 110-kg client falls short, even though the hourly number looks 'normal' at first glance. Falling output can signal the kidneys are not being perfused or are failing, so it is reported.",
    "takeaway": "Expected urine output = 0.5 mL/kg/hr. A larger client needs more than 30 mL/hr.",
    "hintContent": "Connect the weight-based urine output formula with the hourly rate for each client, and remember that 30 mL/hr is only an average.",
-   "hintStrategy": "Convert each 4-hour total to mL/hr, calculate each client's minimum from weight, and look for the biggest gap between expected and actual."
+   "hintStrategy": "Convert each 4-hour total to mL/hr, calculate each client's minimum from weight, and look for the biggest gap between expected and actual.",
+   "bestAnswer": true
   },
   {
    "id": "m5q-002",
@@ -97,9 +98,9 @@
    "answer": 0,
    "optionRationales": [
     "Correct. Polyuria causes heavy fluid loss, which leads to intense thirst (polydipsia), dehydration, and weight loss.",
-    "Weight gain and edema suggest the body is holding fluid. Polyuria removes fluid.",
-    "Large amounts of pale urine are dilute, so the specific gravity would not be high. A specific gravity above 1.030 points to concentrated urine.",
-    "Less than 400 mL per day is oliguria, the opposite of this client's pattern."
+    "Incorrect. Weight gain and edema suggest the body is holding fluid. Polyuria removes fluid.",
+    "Incorrect. Large amounts of pale urine are dilute, so the specific gravity would not be high. A specific gravity above 1.030 points to concentrated urine.",
+    "Incorrect. Less than 400 mL per day is oliguria, the opposite of this client's pattern."
    ],
    "rationale": "Polyuria (diuresis) means producing abnormally large amounts of urine. Losing that much fluid drives intense thirst, dehydration, and weight loss. Dilute, pale urine has a low specific gravity. Fluid retention, concentrated urine, and oliguria all describe the opposite problem.",
    "takeaway": "Polyuria → fluid loss → thirst (polydipsia), dehydration, weight loss.",
@@ -121,22 +122,23 @@
    "focus": "Prioritization",
    "stem": "A 70-kg client with an indwelling urinary catheter has had urine output of 25 mL/hr for the past 3 hours. The nurse has confirmed the tubing is not kinked and the catheter is draining freely. Today's labs: BUN 32 mg/dL, serum creatinine 2.1 mg/dL. Which action should the nurse take first?",
    "options": [
-    "Document the findings and recheck output at the end of the shift",
-    "Encourage the client to drink an extra 240 mL of oral fluid every hour",
-    "Increase the IV fluid rate to improve kidney perfusion",
+    "Recheck the urine output in 1 hour to confirm the low trend",
+    "Encourage the client to drink an extra 240 mL of fluid each hour",
+    "Increase the IV fluid rate to improve blood flow to the kidneys",
     "Notify the health care provider of the output trend and lab results"
    ],
    "answer": 3,
    "optionRationales": [
-    "Waiting until the end of the shift delays care for a client whose output and labs suggest the kidneys are failing.",
-    "Pushing fluids without knowing the cause could overload a client whose kidneys are not removing fluid well.",
-    "Changing the IV rate requires a provider's order and could cause fluid overload.",
+    "Incorrect. Confirming a trend is reasonable, but 3 hours of low output plus an elevated BUN and creatinine already establish it. Waiting another hour delays the report.",
+    "Incorrect. Fluids can help some causes of low output, but pushing fluids before the cause is known could overload a client whose kidneys are not removing fluid well.",
+    "Incorrect. Better perfusion may help, but changing the IV rate needs a provider's order and could cause fluid overload if the kidneys are failing.",
     "Correct. Output under 30 mL/hr (and under the expected 35 mL/hr for 70 kg), with an elevated BUN and creatinine, may signal impending renal failure. A blocked catheter has been ruled out, so the provider needs to know now."
    ],
    "rationale": "Oliguria (<30 mL/hr or <400 mL/day) may signal impending renal failure. Here it is backed up by a BUN above 20 mg/dL and a creatinine above 1.2 mg/dL, both of which rise in renal disease. The nurse has already checked the most common fixable cause, a blocked catheter. The next step is to report to the provider, not to keep watching or to change fluids on the nurse's own.",
    "takeaway": "Oliguria plus rising BUN and creatinine means notify the provider. Rule out a blocked catheter first, then report.",
    "hintContent": "Combine the oliguria definition, the weight-based expected output, and the normal ranges for BUN and creatinine.",
-   "hintStrategy": "Ask whether the data show a real problem. Then ask what has already been done and which remaining action is safe and within nursing scope."
+   "hintStrategy": "Ask whether the data show a real problem. Then ask what has already been done and which remaining action is safe and within nursing scope.",
+   "bestAnswer": true
   },
   {
    "id": "m5q-005",
@@ -200,10 +202,10 @@
    ],
    "answer": 1,
    "optionRationales": [
-    "Bedwetting in a deep sleeper describes nocturnal enuresis, not a neurogenic bladder.",
+    "Incorrect. Bedwetting in a deep sleeper describes nocturnal enuresis, not a neurogenic bladder.",
     "Correct. With a neurogenic bladder, the client does not perceive bladder fullness and cannot control the urinary sphincters, so leaking happens without warning.",
-    "Burning and fever suggest an infection. That is a complication to watch for, but it does not define a neurogenic bladder.",
-    "Voiding six to eight times a day is the normal pattern for a school-age child."
+    "Incorrect. Burning and fever suggest an infection. That is a complication to watch for, but it does not define a neurogenic bladder.",
+    "Incorrect. Voiding six to eight times a day is the normal pattern for a school-age child."
    ],
    "rationale": "Spina bifida (myelomeningocele) is a genetic or congenital risk factor for altered urinary elimination because it damages the nerves that control the bladder. A neurogenic bladder means the client does not sense fullness and cannot control the sphincters. The other options describe a normal school-age pattern, ordinary nocturnal enuresis, or an infection.",
    "takeaway": "Neurogenic bladder means the client cannot sense fullness or control the sphincters.",
@@ -306,19 +308,20 @@
     "Teach the client that a warm, flushed feeling may occur during the injection",
     "Report the shrimp reaction and metformin use to the health care provider",
     "Plan to encourage extra fluids after the procedure to flush out the dye",
-    "Confirm that the client knows what time the procedure is scheduled"
+    "Remind the client not to eat or drink after midnight before the test"
    ],
    "answer": 1,
    "optionRationales": [
-    "Teaching about sensations during the test is reasonable, but it does not address the two safety risks in front of the nurse.",
-    "Correct. An IVP uses contrast. A history of shellfish or iodine reaction and the use of metformin both have to be addressed before the test, because metformin must be stopped ahead of time in clients with diabetes. The provider needs this information now.",
-    "Encouraging fluids after the test is appropriate later, so this is the right action at the wrong time.",
-    "Confirming the time is helpful but does not prevent harm."
+    "Incorrect. Teaching about expected sensations is appropriate, but it does not address the two safety risks in front of the nurse.",
+    "Correct. An IVP uses iodinated contrast. The provider needs to know the client's allergy history and metformin use before the test, because metformin may need to be held around contrast to prevent lactic acidosis.",
+    "Incorrect. Encouraging fluids after the test is appropriate later, so this is the right action at the wrong time.",
+    "Incorrect. NPO teaching is part of normal preparation, but it does not prevent an allergic reaction or a metformin complication, which must be addressed first."
    ],
    "rationale": "An IVP uses contrast. The nurse checks for iodine or shellfish allergies, and clients with diabetes must stop metformin before the procedure. This client has both risk factors, and the test is tomorrow, so the provider must be told before the test can proceed safely. Teaching and post-procedure care matter, but they come after preventing an allergic reaction and a medication complication.",
    "takeaway": "Before contrast tests such as an IVP: check iodine or shellfish allergy and metformin use, and report both before the procedure.",
    "hintContent": "Recall the two safety checks the slides list for an IVP and connect them to this client's history.",
-   "hintStrategy": "Find the options that prevent harm before the procedure. Teaching and post-procedure care come after safety."
+   "hintStrategy": "Find the options that prevent harm before the procedure. Teaching and post-procedure care come after safety.",
+   "bestAnswer": true
   },
   {
    "id": "m5q-010",
@@ -342,15 +345,16 @@
    ],
    "answer": 3,
    "optionRationales": [
-    "Pink-tinged urine is expected for a short time after the scope irritates the urinary tract lining.",
-    "Mild dysuria is an expected effect of the procedure that the nurse watches for, not an emergency.",
-    "Some urgency is common after instruments pass through the urethra and bladder.",
+    "Incorrect. Pink-tinged urine is expected for a short time after the scope irritates the urinary tract lining.",
+    "Incorrect. Mild dysuria is an expected effect of the procedure that the nurse watches for, not an emergency.",
+    "Incorrect. Some urgency is common after instruments pass through the urethra and bladder.",
     "Correct. Frank bleeding with clots, plus a distended bladder, suggests significant hemorrhage and clots blocking urine flow. This needs prompt action."
    ],
    "rationale": "After cystoscopy, the nurse observes for swelling, dysuria, and hematuria. A small amount of irritation (pink-tinged urine, mild burning, some urgency) is expected. Bright red urine with clots together with a distended bladder means heavy bleeding and possible obstruction of outflow, which goes beyond the expected.",
    "takeaway": "After cystoscopy: pink tinge and mild burning are expected. Bright red urine, clots, or inability to void are not.",
    "hintContent": "Use what the slides say to watch for after cystoscopy, and separate expected irritation from serious bleeding or obstruction.",
-   "hintStrategy": "Decide which findings are expected after the procedure. Then pick the option where two danger cues appear together."
+   "hintStrategy": "Decide which findings are expected after the procedure. Then pick the option where two danger cues appear together.",
+   "bestAnswer": true
   },
   {
    "id": "m5q-011",
@@ -366,21 +370,22 @@
    "stem": "After receiving report, which client should the nurse assess first?",
    "options": [
     "A client who had a kidney biopsy 1 hour ago whose pulse rose from 84 to 110/min",
-    "A client who had an intravenous pyelogram 3 hours ago and is asking for lunch",
+    "A client scheduled for an IVP this afternoon who reports a shellfish allergy",
     "A client on a 24-hour urine collection who forgot to save one void",
     "A client who had a cystoscopy this morning and reports mild burning with voiding"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. A kidney biopsy carries a risk of bleeding. A rising heart rate soon after the procedure is an early sign of blood loss and needs assessment right away.",
-    "Wanting to eat after an IVP is not a sign of a problem.",
-    "A missed sample means the collection must be restarted. That should be handled, but it is not a physical threat to the client.",
-    "Mild dysuria is expected after cystoscopy and can wait."
+    "Incorrect. Allergy history must be reported before a contrast study, but the test is hours away and the client is stable. A rising pulse after biopsy may mean active bleeding.",
+    "Incorrect. A missed sample means the collection must be restarted. That should be handled, but it is not a physical threat to the client.",
+    "Incorrect. Mild burning should be monitored, but it is expected after cystoscopy and is not a sign of instability."
    ],
-   "rationale": "The slides flag kidney biopsy as a 'risk for bleed.' The kidney has a rich blood supply, so a climbing heart rate shortly after biopsy may be the body compensating for hemorrhage. The other clients have expected findings or a procedural problem with no immediate physical risk.",
+   "rationale": "A kidney biopsy carries a risk of bleeding. The kidney has a rich blood supply, so a climbing heart rate shortly after biopsy may be the body compensating for hemorrhage. The other clients need follow-up, but none shows signs of physical instability right now.",
    "takeaway": "Kidney biopsy = bleeding risk. A rising heart rate after biopsy needs assessment first.",
    "hintContent": "Recall the main complication of each procedure listed and which cue signals that complication.",
-   "hintStrategy": "Separate expected post-procedure findings from early signs of a complication, and choose the client whose problem threatens physical stability."
+   "hintStrategy": "Separate expected post-procedure findings from early signs of a complication, and choose the client whose problem threatens physical stability.",
+   "bestAnswer": true
   },
   {
    "id": "m5q-012",
@@ -441,10 +446,10 @@
    ],
    "answer": 2,
    "optionRationales": [
-    "Keeping the specimen cold is correct technique.",
-    "Missing any urine makes the result inaccurate, so the collection is usually restarted. This statement is correct.",
+    "Incorrect. Keeping the specimen cold is correct technique.",
+    "Incorrect. Missing any urine makes the result inaccurate, so the collection is usually restarted. This statement is correct.",
     "Correct. This statement shows a misunderstanding. The first void at the start time is discarded because that urine was made before the test period began. Collection starts after that void.",
-    "Adding the final void at the end time is correct, because that urine was made during the test period."
+    "Incorrect. Adding the final void at the end time is correct, because that urine was made during the test period."
    ],
    "rationale": "A creatinine clearance test compares the creatinine in the blood with the creatinine the kidneys cleared into the urine over 24 hours. The specimen must contain exactly the urine made during those 24 hours. That means discarding the first void, saving every void after it, keeping the specimen cold, and adding the final void at the end time. Saving the first void adds urine made before the test began.",
    "takeaway": "24-hour urine: discard the first void, save everything after it, add the final void, and keep it cold.",
@@ -473,9 +478,9 @@
    ],
    "answer": 3,
    "optionRationales": [
-    "Efficient clearance would lower the blood creatinine and raise the urine creatinine, the opposite of these results.",
-    "If the kidneys were compensating, urine creatinine would rise as they cleared the extra. It fell.",
-    "The test is used to judge the degree of renal insufficiency. This pattern reflects the kidneys' ability to clear waste.",
+    "Incorrect. Efficient clearance would lower the blood creatinine and raise the urine creatinine, the opposite of these results.",
+    "Incorrect. If the kidneys were compensating, urine creatinine would rise as they cleared the extra. It fell.",
+    "Incorrect. The test is used to judge the degree of renal insufficiency. This pattern reflects the kidneys' ability to clear waste.",
     "Correct. Creatinine is a waste product the kidneys must remove. When they work, creatinine is higher in the urine than in the blood. Rising blood creatinine with falling urine creatinine means the waste is staying in the body, which points to renal insufficiency."
    ],
    "rationale": "The creatinine clearance test compares blood creatinine with the creatinine the kidneys cleared into the urine. Functioning kidneys move creatinine out of the blood, so urine levels should be higher. When the kidneys fail, creatinine builds up in the blood (above 1.2 mg/dL) and less appears in the urine. The test helps determine the degree of renal insufficiency.",
@@ -540,22 +545,23 @@
    "focus": "Nursing Interventions",
    "stem": "A 74-year-old man with an enlarged prostate voids 150 mL and says he still feels like he needs to go. A bladder scan done right after voiding shows 420 mL. Which action should the nurse take first?",
    "options": [
-    "Document the volume as an expected age-related change",
+    "Repeat the bladder scan in 2 hours to confirm the volume",
     "Report the residual volume and symptoms to the health care provider",
-    "Encourage him to drink more fluids to stimulate voiding",
+    "Run warm water over his perineum to help him void again",
     "Teach him to limit fluids after the evening meal to reduce nighttime voiding"
    ],
    "answer": 1,
    "optionRationales": [
-    "Older adults can have some increase in residual urine, but 420 mL after voiding with persistent fullness is more than an expected change.",
+    "Incorrect. Rechecking can confirm a finding, but 420 mL with ongoing fullness is already clear retention, and waiting lets the bladder distend further.",
     "Correct. A large post-void residual means the bladder is not emptying. With his prostate enlargement and sense of fullness, this suggests urinary retention, which needs the provider's evaluation and orders.",
-    "Adding fluid to a bladder that cannot empty increases distention and discomfort.",
-    "Limiting fluids in the evening may help nocturia, but it does nothing about a bladder that is not emptying now."
+    "Incorrect. Warm water can help a client start voiding, but he already voided. An enlarged prostate is blocking outflow, so comfort measures will not empty 420 mL.",
+    "Incorrect. Limiting fluids in the evening may help nocturia, but it does nothing about a bladder that is not emptying now."
    ],
    "rationale": "A bladder scan after voiding (post-void residual, PVR) measures the urine left behind. Here the bladder held far more after voiding than he passed. With an enlarged prostate, a common age-related change in men that blocks outflow, this points to urinary retention, which is never considered normal. The nurse reports it so the provider can order treatment such as catheterization.",
    "takeaway": "A large post-void residual means the bladder is not emptying. Report it, especially with an enlarged prostate.",
    "hintContent": "Combine what a post-void residual shows, the effect of an enlarged prostate on outflow, and which age-related changes are expected.",
-   "hintStrategy": "Decide whether the bladder is emptying. Then choose the action that addresses retention rather than a different problem."
+   "hintStrategy": "Decide whether the bladder is emptying. Then choose the action that addresses retention rather than a different problem.",
+   "bestAnswer": true
   },
   {
    "id": "m5q-017",
@@ -579,10 +585,10 @@
    ],
    "answer": 2,
    "optionRationales": [
-    "Residual urine is measured with a bladder scan or post-void residual check.",
-    "An x-ray study with contrast describes an intravenous pyelogram.",
+    "Incorrect. Residual urine is measured with a bladder scan or post-void residual check.",
+    "Incorrect. An x-ray study with contrast describes an intravenous pyelogram.",
     "Correct. PSA is a blood test used to evaluate the prostate. An enlarged prostate is a common cause of urinary symptoms in older men.",
-    "Filtration rate is the GFR."
+    "Incorrect. Filtration rate is the GFR."
    ],
    "rationale": "Each diagnostic test answers a different question. PSA evaluates the prostate, which is important in older men with urinary symptoms such as nocturia and a weak stream. A bladder scan measures residual urine, an IVP images the urinary tract with contrast, and the GFR estimates kidney filtration.",
    "takeaway": "PSA is a blood test for the prostate in men with urinary symptoms.",
@@ -613,14 +619,15 @@
    "answer": 0,
    "optionRationales": [
     "Correct. Output (840 mL) is close to intake (1,000 mL) only because of heavy NG losses. Urine output is 30 mL/hr against an expected 40 mL/hr (0.5 × 80 kg), the specific gravity is above 1.030, and the heart rate is up. Together these point to a fluid deficit.",
-    "A bladder scan of 60 mL shows the bladder is not holding urine, so retention does not explain the low output.",
-    "Concentrated urine, low output, and a fast heart rate point to too little fluid, not too much.",
-    "Output below the weight-based expectation, with concentrated urine and tachycardia, is not something to accept as expected."
+    "Incorrect. A bladder scan of 60 mL shows the bladder is not holding urine, so retention does not explain the low output.",
+    "Incorrect. Concentrated urine, low output, and a fast heart rate point to too little fluid, not too much.",
+    "Incorrect. Output below the weight-based expectation, with concentrated urine and tachycardia, is not something to accept as expected."
    ],
    "rationale": "Assessing fluid volume status means putting several cues together. Urine output is 240 mL ÷ 8 hr = 30 mL/hr, below this client's expected 0.5 mL/kg/hr (40 mL/hr). The NG tube is removing a large volume, the specific gravity is above 1.030 (concentrated urine, increased with dehydration), and the heart rate is elevated. The near-empty bladder rules out retention as the reason for the low output. The kidneys are conserving water because the body is short on fluid.",
    "takeaway": "Low output plus specific gravity above 1.030 plus an empty bladder suggests a fluid deficit, not retention.",
    "hintContent": "Combine the I&O totals, the weight-based output formula, specific gravity, heart rate, and the bladder scan result.",
-   "hintStrategy": "Calculate the hourly urine output, then use the bladder scan to decide whether the kidneys are making too little urine or the bladder is holding it."
+   "hintStrategy": "Calculate the hourly urine output, then use the bladder scan to decide whether the kidneys are making too little urine or the bladder is holding it.",
+   "bestAnswer": true
   },
   {
    "id": "m5q-019",
@@ -683,14 +690,15 @@
    "answer": 0,
    "optionRationales": [
     "Correct. Bethanechol is a cholinergic drug that promotes urination. Voiding a good volume with little left behind shows the bladder is emptying.",
-    "Fewer voids is the goal of anticholinergic drugs used for frequency, the opposite of bethanechol's action.",
-    "Reddish-orange urine is the expected effect of phenazopyridine (Pyridium), not bethanechol.",
-    "Less burning would reflect a urinary analgesic, which treats pain rather than retention."
+    "Incorrect. Fewer voids is the goal of anticholinergic drugs used for frequency, the opposite of bethanechol's action.",
+    "Incorrect. Reddish-orange urine is the expected effect of phenazopyridine (Pyridium), not bethanechol.",
+    "Incorrect. Less burning would reflect a urinary analgesic, which treats pain rather than retention."
    ],
    "rationale": "Cholinergic medications such as bethanechol stimulate the bladder to contract and promote urination, so effectiveness shows up as better emptying: a good voided volume and a small post-void residual. The nurse also monitors for elevated liver and pancreatic enzyme levels. Fewer voids, discolored urine, and pain relief are the effects of other drug classes.",
    "takeaway": "Bethanechol (cholinergic) promotes urination. Success is good voiding with a low residual.",
    "hintContent": "Contrast cholinergic and anticholinergic effects on the bladder, and link each urinary drug class to its expected effect.",
-   "hintStrategy": "Name the drug's purpose (it treats retention), then choose the finding that shows that problem is resolving."
+   "hintStrategy": "Name the drug's purpose (it treats retention), then choose the finding that shows that problem is resolving.",
+   "bestAnswer": true
   },
   {
    "id": "m5q-021",
@@ -714,10 +722,10 @@
    ],
    "answer": 2,
    "optionRationales": [
-    "Phenazopyridine only relieves pain. It does not treat the infection, so the antibiotic must be finished.",
-    "A color change is an expected effect, not a reason to stop.",
+    "Incorrect. Phenazopyridine only relieves pain. It does not treat the infection, so the antibiotic must be finished.",
+    "Incorrect. A color change is an expected effect, not a reason to stop.",
     "Correct. Phenazopyridine turns urine reddish-orange, and the dye can stain contact lenses and clothing, so this statement shows understanding.",
-    "Increasing urine output is the action of a diuretic. Phenazopyridine is a urinary analgesic."
+    "Incorrect. Increasing urine output is the action of a diuretic. Phenazopyridine is a urinary analgesic."
    ],
    "rationale": "Phenazopyridine is a urinary analgesic: it treats the pain of dysuria but not the infection itself, which is the antibiotic's job. Its expected effect is reddish-orange urine, which can stain contact lenses and fabric. Clients need to know the color change is harmless and that they must finish the antibiotic even after the pain eases.",
    "takeaway": "Pyridium relieves pain only. Urine turns reddish-orange and can stain contacts and clothing. Finish the antibiotic.",
@@ -776,22 +784,23 @@
    "focus": "Client Teaching",
    "stem": "A client taking spironolactone (Aldactone) for hypertension says, \"I've cut out regular salt and switched to a salt substitute instead.\" Which response by the nurse is most appropriate?",
    "options": [
-    "\"That's a healthy change. Salt substitutes are a great choice while you take your blood pressure medication.\"",
+    "\"Cutting salt is a great step. Let's also review high-sodium foods you should limit.\"",
     "\"Please stop the salt substitute. Most contain potassium, which this drug holds in your body.\"",
-    "\"Take your spironolactone at night so it won't interact with the salt substitute.\"",
-    "\"You can go back to using regular table salt, since your medicine removes the extra sodium.\""
+    "\"Ask your provider to check your potassium level at your next scheduled visit.\"",
+    "\"Use the salt substitute only sparingly, and read labels for any hidden sodium.\""
    ],
    "answer": 1,
    "optionRationales": [
-    "Praising the switch misses the danger: salt substitutes are potassium-based, and spironolactone spares potassium.",
+    "Incorrect. Lowering sodium does help blood pressure, but this response praises a potassium-based product while the client takes a potassium-sparing drug.",
     "Correct. Spironolactone is potassium-sparing. Adding potassium from a salt substitute risks too much potassium, so the client should stop it. The nurse then lets the provider know so labs can be checked.",
-    "The timing of the dose does not prevent potassium from building up.",
-    "Returning to table salt works against blood pressure control and does not address the real issue."
+    "Incorrect. Monitoring potassium is reasonable, but it lets the client keep taking in extra potassium until the next visit instead of removing the source now.",
+    "Incorrect. Reading labels for sodium is good teaching, but using the substitute at all still adds potassium that spironolactone holds in the body."
    ],
    "rationale": "Spironolactone is a potassium-sparing diuretic, and the slides specifically say to avoid salt substitutes, which are made with potassium. The safe response stops the extra potassium source. The nurse then informs the provider, who monitors BUN, creatinine, potassium, and sodium. Cutting sodium is good, but not by adding potassium.",
    "takeaway": "Potassium-sparing diuretic plus a potassium salt substitute risks too much potassium. Tell the client to stop the substitute.",
    "hintContent": "Connect what spironolactone does to potassium with what most salt substitutes contain.",
-   "hintStrategy": "Identify the hidden risk in the client's statement, then choose the response that removes the risk and involves the provider."
+   "hintStrategy": "Identify the hidden risk in the client's statement, then choose the response that removes the risk and involves the provider.",
+   "bestAnswer": true
   },
   {
    "id": "m5q-024",
@@ -810,21 +819,22 @@
    "stem": "A client with anuria and a GFR of 10 mL/min is starting peritoneal dialysis. Which statement by the client indicates understanding of the treatment?",
    "options": [
     "\"My blood will be pumped through a machine outside my body and then returned.\"",
-    "\"Once my kidneys recover, I will only need treatments about once a month.\"",
-    "\"This treatment is used when the kidneys work normally but the bladder will not empty.\"",
+    "\"Fluid will be put into my abdomen and drained, and I'll need this about once a week.\"",
+    "\"This will clean waste from my blood until my kidneys start working again.\"",
     "\"Fluid will be put into my abdomen and then drained, and I'll need to do this often.\""
    ],
    "answer": 3,
    "optionRationales": [
-    "Circulating blood through an external machine describes hemodialysis.",
-    "Peritoneal dialysis must be done at frequent intervals, and a client with a GFR of 10 mL/min has severely reduced kidney function.",
-    "Dialysis is for severely reduced or absent kidney function, not for a bladder that cannot empty.",
+    "Incorrect. This accurately describes dialysis, but it is hemodialysis, which circulates blood through an external machine. Peritoneal dialysis uses the abdominal cavity.",
+    "Incorrect. Fluid is instilled into the abdomen and drained, but peritoneal dialysis must be repeated frequently, not weekly.",
+    "Incorrect. Dialysis does remove waste, but anuria and a GFR of 10 mL/min show severely reduced function, so recovery should not be expected.",
     "Correct. In peritoneal dialysis, dialysis solution is instilled into the abdominal cavity and drained, and it must be done at frequent intervals."
    ],
    "rationale": "Dialysis replaces kidney function when it is severely reduced or absent. Anuria (<100 mL/day) and a GFR of 10 mL/min (normal is 90–110) show this client's kidneys are barely filtering. Hemodialysis sends blood through an external machine. Peritoneal dialysis instills solution into the abdominal cavity and must be repeated frequently.",
    "takeaway": "Hemodialysis: blood goes through an external machine. Peritoneal dialysis: solution goes into the abdomen, done frequently.",
    "hintContent": "Link the client's anuria and low GFR to why dialysis is needed, then distinguish the two types of dialysis.",
-   "hintStrategy": "Identify which option describes the type of dialysis in the stem and which options describe hemodialysis or a different problem."
+   "hintStrategy": "Identify which option describes the type of dialysis in the stem and which options describe hemodialysis or a different problem.",
+   "bestAnswer": true
   },
   {
    "id": "m5q-025",
@@ -886,10 +896,10 @@
    ],
    "answer": 1,
    "optionRationales": [
-    "Cleaning from the meatus outward moves organisms away from the urethra, which is correct technique.",
+    "Incorrect. Cleaning from the meatus outward moves organisms away from the urethra, which is correct technique.",
     "Correct. Raising the bag above the bladder lets urine flow back into the bladder, which raises the risk of a urinary tract infection. This needs to be corrected right away.",
-    "Securing the tubing prevents pulling on the catheter and urethral injury.",
-    "Using a separate labeled container for each client prevents cross-contamination and allows accurate output measurement."
+    "Incorrect. Securing the tubing prevents pulling on the catheter and urethral injury.",
+    "Incorrect. Using a separate labeled container for each client prevents cross-contamination and allows accurate output measurement."
    ],
    "rationale": "Catheter care relies on aseptic technique. The drainage bag must stay below the level of the bladder so urine always flows away from it. Holding the bag above the bladder allows backflow of urine that may carry bacteria. The other actions are correct parts of catheter care and accurate I&O.",
    "takeaway": "Keep the drainage bag below the bladder at all times to prevent backflow and infection.",
@@ -912,21 +922,22 @@
    "stem": "A client with a urinary tract infection has dysuria and frequency and has no fluid restrictions. Which independent nursing intervention is the priority to include in the plan of care?",
    "options": [
     "Encourage at least 2,000 mL of fluid daily, spaced through the day",
-    "Restrict fluids to reduce the number of painful voids",
-    "Ask the provider for a cholinergic medication to help promote voiding",
-    "Insert an indwelling catheter to measure output accurately"
+    "Apply a warm pad to the lower abdomen to ease bladder discomfort",
+    "Teach the client to wipe front to back to prevent future infections",
+    "Teach the client to avoid caffeine, which can irritate the bladder"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Increasing fluid intake is an independent intervention that dilutes urine and flushes the urinary tract. Spreading it out avoids overloading the bladder at once.",
-    "Limiting fluids concentrates the urine, which irritates the bladder wall more, and reduces flushing of the urinary tract.",
-    "Requesting a medication is collaborative, not independent, and a cholinergic is for retention, not infection.",
-    "An indwelling catheter needs an order and increases infection risk. It is not indicated here."
+    "Correct. Increasing fluid intake is an independent intervention that dilutes urine and flushes bacteria from the urinary tract. Spreading it out avoids overloading the bladder at once. The other options ease symptoms or prevent recurrence but do not flush the infection.",
+    "Incorrect. Warmth is a reasonable comfort measure, but it eases symptoms without diluting urine or flushing bacteria out.",
+    "Incorrect. Front-to-back hygiene helps prevent the next infection, but it does not treat the infection the client has now.",
+    "Incorrect. Avoiding bladder irritants can reduce discomfort, but it does not dilute the urine or flush bacteria, so it is less important than fluids."
    ],
-   "rationale": "Increased fluid intake is one of the main independent interventions for urinary problems when not contraindicated. Dilute urine is less irritating to the bladder, and frequent voiding helps flush bacteria out. Restricting fluids is a common misconception because it seems to reduce painful voids, but it concentrates the urine. Catheters and medications require orders and are not the best choice here.",
+   "rationale": "Increased fluid intake is one of the main independent interventions for urinary problems when not contraindicated. Dilute urine is less irritating to the bladder, and frequent voiding helps flush bacteria out. Comfort measures, avoiding irritants, and hygiene teaching are helpful, but they do not flush the current infection the way fluids do.",
    "takeaway": "Unless fluid is restricted, encourage about 2 L or more a day, spaced out, for urinary health.",
    "hintContent": "Recall which urinary interventions are independent and how fluid intake affects urine concentration and bladder irritation.",
-   "hintStrategy": "Eliminate options that need a provider's order, then choose the independent action that treats the cause."
+   "hintStrategy": "Eliminate options that need a provider's order, then choose the independent action that treats the cause.",
+   "bestAnswer": true
   },
   {
    "id": "m5q-028",
@@ -943,22 +954,23 @@
    "focus": "Lifespan & Diversity",
    "stem": "A term newborn is 40 hours old and has not voided since birth. Which action should the nurse take first?",
    "options": [
-    "Document the finding, since healthy newborns often do not void until 72 hours of age",
-    "Notify the provider immediately and prepare for catheterization",
-    "Give the newborn supplemental water to stimulate voiding",
+    "Recheck the diaper in 4 hours and document whether the newborn voids",
+    "Notify the provider immediately and prepare the newborn for catheterization",
+    "Encourage more frequent breastfeeding to increase the newborn's fluid intake",
     "Assess feeding intake and check for bladder distention, restlessness, and pain"
    ],
    "answer": 3,
    "optionRationales": [
-    "Healthy newborns void within the first 24 hours, so 40 hours without voiding is not normal.",
-    "The provider will need to know, but the nurse first gathers assessment data to report. Catheterization is not the first step.",
-    "Giving water is not an appropriate independent action for a newborn and skips assessment.",
-    "Correct. The slides direct the nurse to assess fluid intake, bladder distention, restlessness, and pain. This newborn is past 24 hours and nearing the 48-hour mark, so the nurse gathers these data quickly to report."
+    "Incorrect. Monitoring diapers is part of newborn care, but the newborn is already past the 24-hour mark, and waiting delays needed assessment.",
+    "Incorrect. The provider will need to know, but the nurse first gathers assessment data to report. Catheterization is not the first step.",
+    "Incorrect. More feeding may help if intake is low, but acting before assessing intake and the bladder could miss retention or another cause.",
+    "Correct. The nurse first assesses fluid intake, bladder distention, restlessness, and pain. This newborn is past 24 hours and nearing the 48-hour mark, so the nurse gathers these data quickly to report."
    ],
-   "rationale": "Healthy newborns void within the first 24 hours, and it is important to make sure they void within 48 hours of delivery. At 40 hours, the nurse must act, starting with a focused assessment of intake, bladder distention, restlessness, and pain. These findings shape the report to the provider. Ignoring the finding or jumping to an invasive step skips the assessment.",
+   "rationale": "Healthy newborns void within the first 24 hours, and it is important to make sure they void within 48 hours of delivery. At 40 hours, the nurse must act, starting with a focused assessment of intake, bladder distention, restlessness, and pain. These findings shape the report to the provider. Waiting, increasing feedings, or jumping to catheterization all act before the assessment is done.",
    "takeaway": "Newborns should void within 24 hours, and must by 48 hours. Assess intake, bladder distention, restlessness, and pain.",
    "hintContent": "Recall the newborn voiding time frames and the assessments the slides recommend.",
-   "hintStrategy": "Decide whether this finding is normal. Then choose the action that gathers the data the provider will need."
+   "hintStrategy": "Decide whether this finding is normal. Then choose the action that gathers the data the provider will need.",
+   "bestAnswer": true
   },
   {
    "id": "m5q-029",
@@ -1013,22 +1025,23 @@
    "focus": "Client Teaching",
    "stem": "A client at 34 weeks of pregnancy says, \"I'm going to the bathroom all the time again. It got better for a few months. Is something wrong?\" Which response by the nurse is best?",
    "options": [
-    "\"Cut back to about 1 liter of fluid a day so you won't have to void as often.\"",
-    "\"Frequency should have gone away after the first trimester, so I'll let your provider know about it.\"",
+    "\"Try limiting your fluids in the evening so you won't wake up as often at night.\"",
+    "\"That's very common late in pregnancy, and it usually goes away after the baby is born.\"",
     "\"The growing uterus presses on the bladder again late in pregnancy. Report any burning or fever.\"",
-    "\"Frequency usually means gestational diabetes, so you will need a glucose test.\""
+    "\"Frequency can be a sign of gestational diabetes, so I'll let your provider know.\""
    ],
    "answer": 2,
    "optionRationales": [
-    "Restricting fluids can lead to dehydration and concentrated urine and is not recommended.",
-    "Frequency usually decreases in the second trimester and returns in the third, so this is not abnormal.",
+    "Incorrect. Cutting back on evening fluids can reduce nighttime voiding, but it does not answer her question or teach her the warning signs of infection.",
+    "Incorrect. This reassurance is accurate and supportive, but it does not explain the cause or teach her to report burning or fever, signs of a UTI.",
     "Correct. Pressure from the enlarging uterus causes frequency, which eases in the second trimester and returns in the third. Pregnant clients are at risk for UTI, so reporting burning or fever is appropriate.",
-    "Frequency from uterine pressure is expected and does not point to gestational diabetes."
+    "Incorrect. Frequent urination can occur with diabetes, but late in pregnancy it is expected from uterine pressure, so this response causes needless worry."
    ],
-   "rationale": "The enlarging uterus presses against the bladder and increases urinary frequency. The symptom decreases during the second trimester and comes back in the third. The nurse reassures the client while teaching her to report signs of infection, since UTI is a risk in pregnancy. Fluid restriction is never the answer to normal frequency.",
+   "rationale": "The enlarging uterus presses against the bladder and increases urinary frequency. The symptom decreases during the second trimester and comes back in the third. The nurse reassures the client while teaching her to report signs of infection, since UTI is a risk in pregnancy. Reassurance alone or tips for nighttime voiding leave out this teaching.",
    "takeaway": "Pregnancy frequency: present early, eases in the 2nd trimester, returns in the 3rd. Teach UTI warning signs.",
    "hintContent": "Recall how urinary frequency changes across the trimesters and why.",
-   "hintStrategy": "Decide whether the symptom is expected at 34 weeks. Then choose the response that reassures accurately and keeps the client safe."
+   "hintStrategy": "Decide whether the symptom is expected at 34 weeks. Then choose the response that reassures accurately and keeps the client safe.",
+   "bestAnswer": true
   },
   {
    "id": "m5q-031",
@@ -1045,22 +1058,23 @@
    "focus": "Pathophysiology",
    "stem": "A client in her second trimester has glucose in a routine urinalysis. Which interpretation by the nurse is most accurate?",
    "options": [
-    "It confirms gestational diabetes and requires insulin therapy",
-    "It is always a normal finding during pregnancy and needs no further follow-up or evaluation",
+    "It confirms gestational diabetes and means a glucose tolerance test is needed",
+    "It comes from increased filtration in pregnancy and needs no further follow-up",
     "Increased filtration can cause it, but it needs follow-up to rule out gestational diabetes",
-    "It results from a decrease in GFR during the second trimester"
+    "It most likely reflects a sugary meal or drink taken before the sample was collected"
    ],
    "answer": 2,
    "optionRationales": [
-    "Glycosuria can be normal in pregnancy, so it does not confirm gestational diabetes on its own.",
-    "Glycosuria may be normal, but it may also indicate gestational diabetes, so it cannot simply be dismissed.",
+    "Incorrect. Follow-up testing is appropriate, but glycosuria can be normal in pregnancy, so it does not confirm gestational diabetes on its own.",
+    "Incorrect. Increased filtration can explain it, but glycosuria may also signal gestational diabetes, so it cannot be dismissed without follow-up.",
     "Correct. The higher GFR delivers more glucose than the tubules can reabsorb, which can cause glycosuria. Because it may also signal gestational diabetes, it needs follow-up.",
-    "The GFR rises by as much as 50% starting in the second trimester. It does not fall."
+    "Incorrect. Recent intake can affect results, but assuming a dietary cause ignores the pregnancy-related causes and the need to rule out gestational diabetes."
    ],
    "rationale": "Beginning in the second trimester, the GFR rises by up to 50%. Tubular reabsorption increases to compensate, but the kidneys may not be able to reabsorb all the filtered glucose, so glucose appears in the urine. That can be normal, or it can be a sign of gestational diabetes. The correct interpretation holds both possibilities and calls for follow-up.",
    "takeaway": "Pregnancy glycosuria: the higher GFR spills glucose. It may be normal or may be gestational diabetes, so follow up.",
    "hintContent": "Connect the rise in GFR during pregnancy to the kidneys' ability to reabsorb glucose.",
-   "hintStrategy": "Be wary of options that say 'always' or 'confirms.' Look for the interpretation that explains the cause and still keeps the client safe."
+   "hintStrategy": "Be wary of options that say 'always' or 'confirms.' Look for the interpretation that explains the cause and still keeps the client safe.",
+   "bestAnswer": true
   },
   {
    "id": "m5q-032",
@@ -1085,15 +1099,16 @@
    ],
    "answer": 3,
    "optionRationales": [
-    "More fluid will not help a bladder that is not emptying and can increase distention.",
-    "Kegel exercises help long-term pelvic floor strength but do not address possible retention now.",
-    "Early postpartum output increases, which would mean larger voids. Small, frequent voids with fullness are not expected.",
+    "Incorrect. More fluid will not help a bladder that is not emptying and can increase distention.",
+    "Incorrect. Kegel exercises help long-term pelvic floor strength but do not address possible retention now.",
+    "Incorrect. Early postpartum output increases, which would mean larger voids. Small, frequent voids with fullness are not expected.",
     "Correct. Small, frequent voids with a sense of fullness suggest incomplete emptying. Postpartum clients are at risk for overdistention and residual urine, and a bladder scan shows how much remains."
    ],
    "rationale": "Postpartum clients are at risk for bladder overdistention, incomplete emptying, and residual urine, and urine output increases early after birth. Repeated small voids with persistent fullness suggest the bladder is not emptying, possibly with overflow. Measuring the residual confirms the problem before choosing an intervention. Fluids and Kegels do not address the immediate concern.",
    "takeaway": "Postpartum: small frequent voids plus fullness suggest incomplete emptying, so check the residual.",
    "hintContent": "Combine postpartum urinary risks with what small, frequent voids and a sense of fullness suggest.",
-   "hintStrategy": "Assess before you intervene. Choose the action that confirms whether the bladder is emptying."
+   "hintStrategy": "Assess before you intervene. Choose the action that confirms whether the bladder is emptying.",
+   "bestAnswer": true
   },
   {
    "id": "m5q-033",
@@ -1152,21 +1167,22 @@
    "stem": "An 84-year-old client taking hydrochlorothiazide (HCTZ) for hypertension is newly confused. The client has dry mucous membranes, has been voiding large amounts of pale urine at night, and reports drinking little \"so I don't have to get up.\" Urine specific gravity is 1.032. Which problem should the nurse address first?",
    "options": [
     "Fluid volume deficit related to diuretic use and aging kidneys",
-    "Expected cognitive changes related to aging",
-    "Fluid overload from decreased kidney blood flow",
+    "Acute confusion related to a possible urinary tract infection",
+    "Risk for falls related to confusion and nighttime voiding",
     "Functional incontinence related to limited mobility and nighttime urgency"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. Older adults have a decreased ability to concentrate urine and excrete more fluid at night, which raises dehydration risk. A diuretic, low intake, dry mucous membranes, and a high specific gravity all point to fluid volume deficit.",
-    "New confusion is not an expected part of aging and needs a cause.",
-    "The cues (dry mucous membranes, high specific gravity, low intake) point to too little fluid, not too much.",
-    "No data in the stem suggest incontinence, and it would not explain the confusion or the lab result."
+    "Incorrect. A UTI can cause confusion in older adults, but no infection cues are given, while dry mucous membranes and a high specific gravity point to dehydration.",
+    "Incorrect. Falls are a real concern, but this is a potential problem. The actual problem causing the confusion is fluid volume deficit.",
+    "Incorrect. No data in the stem suggest incontinence, and it would not explain the confusion or the high specific gravity."
    ],
    "rationale": "Older adults are at increased risk of dehydration because they have a decreased ability to concentrate urine and excrete more at night. Diuretic use complicates these changes in concentration and electrolyte regulation. This client also limits fluids to avoid nocturia. Dry mucous membranes and a specific gravity above 1.030 confirm dehydration, which can cause confusion in an older adult.",
    "takeaway": "Older adult plus diuretic plus limited fluids leads to dehydration. A specific gravity above 1.030 supports it.",
    "hintContent": "Connect age-related changes in urine concentration, diuretic effects, fluid intake, and specific gravity.",
-   "hintStrategy": "Cluster the cues. Choose the problem that explains the most findings, including the new confusion."
+   "hintStrategy": "Cluster the cues. Choose the problem that explains the most findings, including the new confusion.",
+   "bestAnswer": true
   },
   {
    "id": "m5q-035",
@@ -1188,10 +1204,10 @@
    ],
    "answer": 1,
    "optionRationales": [
-    "Toddlers need reminders about flushing and handwashing, so this is correct.",
+    "Incorrect. Toddlers need reminders about flushing and handwashing, so this is correct.",
     "Correct. This statement needs correcting. Daytime control normally comes before nighttime control, so waiting for dry nights reverses the usual order.",
-    "Most children develop urinary control between 2 and 5 years of age, so this is correct.",
-    "Toddlers need instruction in wiping. Front to back is correct for girls."
+    "Incorrect. Most children develop urinary control between 2 and 5 years of age, so this is correct.",
+    "Incorrect. Toddlers need instruction in wiping. Front to back is correct for girls."
    ],
    "rationale": "Most children develop urinary control between 2 and 5 years of age, and daytime control normally comes before nighttime control. Toddlers and preschoolers need reminders about flushing and handwashing and instruction in wiping. A plan that waits for nighttime dryness first misunderstands the usual sequence.",
    "takeaway": "Toilet training: day before night, 2 to 5 years, and teach flushing, handwashing, and wiping.",
@@ -1221,15 +1237,16 @@
    ],
    "answer": 3,
    "optionRationales": [
-    "Slow bowel activity on the first day after bowel surgery is expected while peristalsis recovers from anesthesia and handling of the bowel.",
-    "Flatulence after cesarean birth is common, and passing gas shows the bowel is working.",
-    "A soft, formed, brown stool is normal.",
+    "Incorrect. Slow bowel activity on the first day after bowel surgery is expected while peristalsis recovers from anesthesia and handling of the bowel.",
+    "Incorrect. Flatulence after cesarean birth is common, and passing gas shows the bowel is working.",
+    "Incorrect. A soft, formed, brown stool is normal.",
     "Correct. Absent bowel sounds and vomiting on day 3 suggest a paralytic ileus, and a new rigid, tender abdomen raises concern for necrosis or perforation, which can follow an obstruction."
    ],
    "rationale": "Anesthesia and abdominal surgery slow bowel elimination, so some sluggishness early after surgery is expected. A paralytic ileus, in which intestinal muscles stop moving after surgery or drugs, carries a risk of bowel necrosis and perforation. Absent bowel sounds, vomiting, and a new rigid abdomen on day 3 suggest that complication. Gas pains after a cesarean and a normal stool are expected.",
    "takeaway": "Paralytic ileus can lead to necrosis or perforation. A new rigid, tender abdomen needs assessment first.",
    "hintContent": "Combine what is expected after anesthesia and surgery with the warning signs of a paralytic ileus and its complications.",
-   "hintStrategy": "Rule out the expected findings, then choose the client whose findings are worsening and suggest a life-threatening complication."
+   "hintStrategy": "Rule out the expected findings, then choose the client whose findings are worsening and suggest a life-threatening complication.",
+   "bestAnswer": true
   },
   {
    "id": "m5q-037",
@@ -1361,22 +1378,23 @@
    "focus": "Assessment Findings",
    "stem": "A client admitted with diverticulitis has been receiving treatment for 2 days. Which new finding requires immediate follow-up?",
    "options": [
-    "Report from the last colonoscopy of several small outpouchings in the colon",
-    "Increased flatus after eating beans at lunch",
+    "Temperature of 100.2°F (37.9°C), down from 101.5°F (38.6°C)",
+    "Left lower quadrant tenderness that is milder than yesterday",
     "Sudden severe abdominal pain with a rigid, board-like abdomen",
-    "One soft, formed bowel movement this morning"
+    "Mild nausea after the diet is advanced to clear liquids"
    ],
    "answer": 2,
    "optionRationales": [
-    "Outpouchings (diverticula) are already known in this client. They are the underlying condition, not a new complication.",
-    "Beans are a known cause of flatulence and this is not a danger sign.",
+    "Incorrect. A low-grade fever still deserves monitoring, but the temperature is falling, which shows the infection is responding to treatment.",
+    "Incorrect. Left lower quadrant tenderness is typical of diverticulitis, and it is improving, so it does not need immediate follow-up.",
     "Correct. Diverticulitis can cause perforation. Sudden severe pain with a rigid abdomen suggests the bowel has perforated, which is an emergency.",
-    "A soft, formed stool shows the bowel is functioning."
+    "Incorrect. Nausea should be watched as the diet advances, but mild nausea is not a sign of perforation and can be managed without urgent action."
    ],
-   "rationale": "Diverticular disease is outpouching of the colon where the lining herniates through the bowel wall. When the diverticula become inflamed (diverticulitis), the complications are obstruction, perforation, and bleeding. A sudden change to severe pain and a rigid abdomen signals perforation and needs immediate action. The other findings are known or expected.",
+   "rationale": "Diverticular disease is outpouching of the colon where the lining herniates through the bowel wall. When the diverticula become inflamed (diverticulitis), the complications are obstruction, perforation, and bleeding. A sudden change to severe pain and a rigid abdomen signals perforation and needs immediate action. The other findings are improving or minor.",
    "takeaway": "Diverticulitis can lead to obstruction, perforation, or bleeding. A sudden rigid abdomen means possible perforation.",
    "hintContent": "Recall the complications of diverticulitis and the cues that signal each.",
-   "hintStrategy": "Look for a new, sudden change that matches a serious complication rather than a known or expected finding."
+   "hintStrategy": "Look for a new, sudden change that matches a serious complication rather than a known or expected finding.",
+   "bestAnswer": true
   },
   {
    "id": "m5q-041",
@@ -1437,10 +1455,10 @@
    ],
    "answer": 1,
    "optionRationales": [
-    "A soft stool every other day is three or more a week and easy to pass, so it is not constipation, even if the client expects a daily movement.",
+    "Incorrect. A soft stool every other day is three or more a week and easy to pass, so it is not constipation, even if the client expects a daily movement.",
     "Correct. Fewer than three bowel movements a week, with hard, dry stools that are difficult to pass, is constipation.",
-    "Daily bowel movements with flatus do not meet the definition of constipation.",
-    "Two soft stools a day within a normal range does not fit constipation."
+    "Incorrect. Daily bowel movements with flatus do not meet the definition of constipation.",
+    "Incorrect. Two soft stools a day within a normal range does not fit constipation."
    ],
    "rationale": "Constipation is fewer than three bowel movements per week, or difficulty passing stools that may be hard and dry. A stool every other day is within the normal range. A client who believes a daily stool is required has a perceived problem, not true constipation. Bowel frequency varies, so the definition looks at both frequency and how easily the stool passes.",
    "takeaway": "Constipation: fewer than 3 BMs a week, or hard, dry stools that are hard to pass.",
@@ -1464,21 +1482,22 @@
    "stem": "A 58-year-old client reports several recent episodes of being unable to control stool. Which understanding about fecal incontinence should guide the nurse's plan of care?",
    "options": [
     "It is usually a symptom of another disorder whose cause must be identified",
-    "It is a normal part of aging that most clients learn to manage on their own",
-    "It is caused mainly by eating too much fiber in the diet",
-    "It is best managed by giving an antidiarrheal medication on a routine schedule"
+    "It is best managed first by starting a scheduled toileting program",
+    "It is mainly a skin problem that requires routine barrier cream",
+    "It is usually caused by pelvic floor muscles weakened by aging"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. Fecal incontinence is usually a sign of another disorder, such as a neurologic disorder, depression, injury, inflammation, a mass, hemorrhoids, or an anal deformity. Finding the cause guides treatment.",
-    "Incontinence is not a normal change of aging, and this client is 58.",
-    "Fiber is part of prevention. It is not a cause of incontinence.",
-    "Routine antidiarrheals treat a symptom without identifying the cause, and they may be harmful depending on that cause."
+    "Incorrect. Bowel training can help, but starting treatment before finding the cause may miss a disorder that needs its own treatment.",
+    "Incorrect. Protecting the skin is important, but it manages a complication and does not address why the incontinence is happening.",
+    "Incorrect. Weak pelvic muscles can contribute, but assuming one cause skips the assessment needed to find the actual disorder."
    ],
-   "rationale": "Bowel (fecal) incontinence is the inability to voluntarily control the passage of feces and gas through the anal sphincter. It is usually a manifestation of another disorder, such as a neurologic disorder, depression, trauma, inflammation, a mass, hemorrhoids, or anal deformity. The nurse's assessment therefore looks for the underlying cause rather than treating incontinence as normal or masking it with medication.",
+   "rationale": "Bowel (fecal) incontinence is the inability to voluntarily control the passage of feces and gas through the anal sphincter. It is usually a manifestation of another disorder, such as a neurologic disorder, depression, trauma, inflammation, a mass, hemorrhoids, or anal deformity. The nurse's assessment therefore looks for the underlying cause before starting toileting programs or skin care, and without assuming one cause.",
    "takeaway": "Fecal incontinence is a symptom, not a diagnosis. Look for the underlying cause.",
    "hintContent": "Recall how the slides describe fecal incontinence and its possible causes.",
-   "hintStrategy": "Choose the statement that leads to the most complete assessment rather than one that dismisses or masks the problem."
+   "hintStrategy": "Choose the statement that leads to the most complete assessment rather than one that dismisses or masks the problem.",
+   "bestAnswer": true
   },
   {
    "id": "m5q-044",
@@ -1503,9 +1522,9 @@
    "answer": 0,
    "optionRationales": [
     "Correct. This order is wrong. Auscultation must come before palpation, because palpating can change peristalsis and alter the bowel sounds heard afterward.",
-    "Inspection comes first, so this is correct.",
-    "Percussion after auscultation follows the correct sequence.",
-    "Asking about stool characteristics is part of the bowel history."
+    "Incorrect. Inspection comes first, so this is correct.",
+    "Incorrect. Percussion after auscultation follows the correct sequence.",
+    "Incorrect. Asking about stool characteristics is part of the bowel history."
    ],
    "rationale": "The abdominal exam for bowel elimination uses inspection, auscultation, percussion, and palpation, in that order. Auscultation comes before palpation because pressing on the abdomen can stimulate or alter peristalsis and give a false picture of bowel sounds.",
    "takeaway": "Abdomen: inspect, auscultate, percuss, palpate. Listen before you touch.",
@@ -1566,20 +1585,21 @@
    "options": [
     "Mild cramping while passing flatus",
     "Severe abdominal pain with a rigid abdomen and fever",
-    "A request for something to eat",
+    "A small amount of blood with the first stool",
     "Drowsiness that persists 30 minutes after the sedated procedure"
    ],
    "answer": 1,
    "optionRationales": [
-    "Mild cramping and flatus are common as air used during the procedure is passed.",
+    "Incorrect. Cramping should be noted, but mild cramping with flatus is common as the air used during the procedure is passed.",
     "Correct. Severe pain with a rigid abdomen and fever after a colonoscopy with biopsy suggests perforation of the bowel wall, which is an emergency.",
-    "Wanting to eat is not a sign of a complication.",
-    "Drowsiness soon after the procedure is expected while sedation wears off."
+    "Incorrect. Bleeding should be watched after a biopsy, but a small amount of blood with the first stool is expected. Heavy or ongoing bleeding would need reporting.",
+    "Incorrect. Drowsiness should be monitored, but it is expected soon after the procedure while sedation wears off."
    ],
-   "rationale": "Colonoscopy lets the provider view the colon and take tissue samples. Afterward, mild cramping, flatus, and drowsiness from sedation are expected. A rigid, distended abdomen with severe pain and fever suggests the bowel was perforated, the same danger seen with other bowel alterations, and must be reported immediately.",
+   "rationale": "Colonoscopy lets the provider view the colon and take tissue samples. Afterward, mild cramping, flatus, drowsiness from sedation, and a small amount of blood after biopsy are expected. A rigid abdomen with severe pain and fever suggests the bowel was perforated and must be reported immediately.",
    "takeaway": "After colonoscopy: cramping and gas are expected. A rigid, painful abdomen with fever suggests perforation, so report it.",
    "hintContent": "Recall what colonoscopy involves and which findings signal bowel perforation.",
-   "hintStrategy": "Eliminate expected recovery findings and choose the one that matches a life-threatening complication."
+   "hintStrategy": "Eliminate expected recovery findings and choose the one that matches a life-threatening complication.",
+   "bestAnswer": true
   },
   {
    "id": "m5q-047",
@@ -1601,10 +1621,10 @@
    ],
    "answer": 2,
    "optionRationales": [
-    "A colonoscopy examines the colon, the lower part of the GI tract.",
-    "A colorectal transit study measures how quickly material moves through the colon.",
+    "Incorrect. A colonoscopy examines the colon, the lower part of the GI tract.",
+    "Incorrect. A colorectal transit study measures how quickly material moves through the colon.",
     "Correct. EGD uses a scope passed through the mouth to view the esophagus, stomach, and duodenum.",
-    "A digital rectal exam assesses only the rectum and anus."
+    "Incorrect. A digital rectal exam assesses only the rectum and anus."
    ],
    "rationale": "The diagnostic tests for bowel elimination each view a different area. An EGD looks at the upper GI tract (esophagus, stomach, duodenum). A colonoscopy views the colon and allows tissue samples. A colorectal transit study measures movement through the colon. A digital rectal exam assesses the rectum.",
    "takeaway": "EGD = upper GI (esophagus, stomach, duodenum). Colonoscopy = colon.",
@@ -1674,15 +1694,16 @@
    ],
    "answer": 3,
    "optionRationales": [
-    "Giving an antidiarrheal would slow the bowel further if the liquid stool is seeping around an impaction.",
-    "Protecting the skin is appropriate but does not address the likely cause.",
-    "Fiber helps prevent constipation but will not resolve an existing impaction and is not the first step.",
+    "Incorrect. Giving an antidiarrheal would slow the bowel further if the liquid stool is seeping around an impaction.",
+    "Incorrect. Protecting the skin is appropriate but does not address the likely cause.",
+    "Incorrect. Fiber helps prevent constipation but will not resolve an existing impaction and is not the first step.",
     "Correct. Liquid stool after days without a bowel movement, in a client taking opioids, suggests stool seeping around an impaction. Assessing the rectum (digital rectal exam) confirms the problem before any treatment."
    ],
    "rationale": "The history (opioids, older age, 6 days without a bowel movement) points to constipation. Liquid, foul-smelling stool in that setting is a classic sign of fecal impaction, with liquid seeping around the hard mass. It is not true diarrhea. Assessment, including a digital rectal exam, comes first. Treating it as diarrhea with an antidiarrheal would make the impaction worse.",
    "takeaway": "Liquid stool after days without a BM may be seepage around an impaction. Assess before giving an antidiarrheal.",
    "hintContent": "Connect the risk factors for constipation with what liquid stool means in a client who has not had a bowel movement in days.",
-   "hintStrategy": "Ask what is really causing the liquid stool before choosing a treatment. Assessment comes before intervention."
+   "hintStrategy": "Ask what is really causing the liquid stool before choosing a treatment. Assessment comes before intervention.",
+   "bestAnswer": true
   },
   {
    "id": "m5q-050",
@@ -1739,22 +1760,23 @@
    "focus": "Client Teaching",
    "stem": "A client is planning a trip to a developing country. After teaching about modifiable risk factors for altered bowel elimination, which statement by the client indicates understanding?",
    "options": [
-    "\"I'll take a laxative each day of the trip so my bowels stay regular.\"",
-    "\"I'll drink less water while I'm traveling so I don't need bathrooms as often.\"",
+    "\"I'll drink only bottled water, but ice in my drinks should be fine anywhere.\"",
+    "\"I'll use hand sanitizer, so I won't need to worry about where my food comes from.\"",
     "\"Handwashing and eating properly cooked and stored food will lower my risk of diarrhea.\"",
-    "\"Since traveling is a nonmodifiable risk factor, there's really nothing I can do to lower it.\""
+    "\"I'll eat plenty of fresh salads and fruit from street vendors to get my fiber.\""
    ],
    "answer": 2,
    "optionRationales": [
-    "Daily laxatives are not preventive and can interfere with normal bowel reflexes.",
-    "Limiting fluids raises the risk of dehydration, especially if diarrhea occurs.",
+    "Incorrect. Bottled water is a good choice, but ice is often made from local tap water and can carry the same organisms.",
+    "Incorrect. Hand hygiene does lower risk, but poorly cooked or stored food is a separate risk that sanitizer does not remove.",
     "Correct. Poor hygiene, poor cooking and storage of food, and travel to developing countries are modifiable risk factors. Handwashing and food safety directly reduce them.",
-    "Travel is listed as a modifiable risk factor, and hygiene and food safety lower the risk."
+    "Incorrect. Fiber supports regular bowels, but raw produce from street vendors may be washed in unsafe water and is a common cause of traveler's diarrhea."
    ],
-   "rationale": "Modifiable risk factors for altered bowel elimination include poor hygiene, poor diet, poor cooking and storing of food, and travel, especially to developing countries. These can lead to diarrhea and its fluid and electrolyte losses. Handwashing and safe food handling address them. Laxatives and fluid restriction add new risks.",
+   "rationale": "Modifiable risk factors for altered bowel elimination include poor hygiene, poor diet, poor cooking and storing of food, and travel, especially to developing countries. These can lead to diarrhea and its fluid and electrolyte losses. Handwashing and safe food handling together address them. Relying on only one measure, or eating raw produce and ice of unknown safety, leaves risk in place.",
    "takeaway": "Travel, hygiene, and food handling are modifiable bowel risks. Teach handwashing and food safety.",
    "hintContent": "Recall the modifiable risk factors for altered bowel elimination and what each could cause.",
-   "hintStrategy": "Find the statement that targets a listed modifiable risk without creating a new one."
+   "hintStrategy": "Find the statement that targets a listed modifiable risk without creating a new one.",
+   "bestAnswer": true
   },
   {
    "id": "m5q-052",
@@ -1773,21 +1795,22 @@
    "stem": "A client who reports no bowel movement for 4 days now has abdominal distention, vomiting, and no flatus. The client asks for the PRN laxative that is prescribed. Which action should the nurse take first?",
    "options": [
     "Hold the laxative and notify the provider",
-    "Offer a high-fiber snack and extra fluids",
+    "Help the client walk in the hallway to stimulate peristalsis",
     "Give a stool softener instead of the laxative",
     "Give the laxative to relieve the constipation"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. Distention, vomiting, and no flatus suggest a bowel obstruction. Laxatives are not used when a blockage is possible, so the nurse holds the dose and reports the findings.",
-    "Adding food and fiber when vomiting and no flatus suggest a blockage can worsen distention.",
-    "Swapping in a different bowel medication still does not address a possible obstruction, and that decision belongs to the provider.",
-    "Laxatives must not be used when an obstruction is possible, because increasing bowel activity against a blockage can lead to perforation."
+    "Incorrect. Walking helps simple constipation, but distention, vomiting, and no flatus suggest an obstruction that needs to be reported, not treated at the bedside.",
+    "Incorrect. A softener is gentler, but any bowel medication is unsafe when a blockage is possible, and that decision belongs to the provider.",
+    "Incorrect. The client requested it and it is prescribed, but laxatives must not be used when an obstruction is possible because they can lead to perforation."
    ],
    "rationale": "Laxatives are a collaborative therapy for constipation, but they are not used when a blockage or obstruction is suspected. Distention, vomiting, and absent flatus point beyond simple constipation to an obstruction, which carries a risk of necrosis and perforation and may require surgery. Holding the medication and reporting the findings is the safe first step.",
    "takeaway": "Suspected obstruction: no laxatives. Hold the dose and notify the provider.",
    "hintContent": "Connect the signs of bowel obstruction with the contraindication for laxatives.",
-   "hintStrategy": "Ask whether the findings fit simple constipation or something more serious, then choose the option that prevents harm."
+   "hintStrategy": "Ask whether the findings fit simple constipation or something more serious, then choose the option that prevents harm.",
+   "bestAnswer": true
   },
   {
    "id": "m5q-053",
@@ -1804,22 +1827,23 @@
    "focus": "Pharmacology",
    "stem": "A client who gave birth vaginally 1 day ago has not had a bowel movement and says, \"I'm afraid to go because it will hurt.\" Which collaborative therapy should the nurse anticipate?",
    "options": [
-    "An antidiarrheal agent to reduce stool frequency",
+    "A sitz bath and anesthetic spray for perineal pain only",
     "A stool softener, with added fluid and fiber",
-    "A daily enema until bowel movements are regular",
-    "Holding food until the client has a bowel movement"
+    "A bisacodyl suppository to produce a stool today",
+    "An opioid analgesic given before she tries to defecate"
    ],
    "answer": 1,
    "optionRationales": [
-    "An antidiarrheal would slow the bowel further and is not indicated.",
+    "Incorrect. Perineal comfort measures ease pain, but they do not soften the stool, so the client may still delay and the stool will harden.",
     "Correct. A stool softener makes stool easier to pass, which reduces the pain the client fears. Fluid and fiber support regular elimination.",
-    "Repeated enemas interfere with natural reflexes and are not a routine postpartum measure.",
-    "Withholding food is not appropriate and does not address the fear of pain."
+    "Incorrect. A suppository may be used if no stool passes after a few days, but on day 1 it is more than needed. Softening the stool comes first.",
+    "Incorrect. Pain relief is reasonable, but opioids slow the bowel and make stool harder, which worsens the problem the client fears."
    ],
    "rationale": "After birth the bowels are sluggish, and pain may lead the client to delay elimination, which allows stool to harden. Stool softeners are one of the collaborative bowel therapies. Combined with independent measures such as encouraging fluid and fiber, a softener lets the client pass stool with less pain.",
    "takeaway": "Postpartum fear of a painful BM: stool softener plus fluids and fiber.",
    "hintContent": "Connect postpartum bowel changes and fear of pain with the purpose of each bowel medication class.",
-   "hintStrategy": "Choose the therapy that makes defecation easier without harming natural bowel function."
+   "hintStrategy": "Choose the therapy that makes defecation easier without harming natural bowel function.",
+   "bestAnswer": true
   },
   {
    "id": "m5q-054",
@@ -1910,22 +1934,23 @@
    "focus": "Lifespan & Diversity",
    "stem": "The parent of a 3-week-old exclusively breastfed infant is worried because the baby's stools are loose, mustard yellow, and seedy-looking. Which response by the nurse is best?",
    "options": [
-    "\"Firm, tan stools are normal at this age, so let's check for infection.\"",
-    "\"Loose stools mean diarrhea, so you should switch to formula.\"",
-    "\"Seedy stools suggest the baby is not digesting milk and needs testing.\"",
+    "\"Stools like these can mean a milk allergy, so watch for any blood in them.\"",
+    "\"Loose stools can cause dehydration, so let's count her wet diapers today.\"",
+    "\"These are normal and will turn firm and brown within the next few days.\"",
     "\"Mustard-yellow, seedy, soft stools are typical for breastfed babies.\""
    ],
    "answer": 3,
    "optionRationales": [
-    "Stools become firmer only after solids start, and tan stool is typical of formula feeding.",
-    "Soft, liquid stools are normal for young infants and do not mean diarrhea.",
-    "The seedy appearance is normal in breastfed infants and does not suggest a digestive problem.",
+    "Incorrect. Blood in stool is worth reporting, but mustard-yellow seedy stool is the normal pattern for breastfed infants and does not suggest allergy.",
+    "Incorrect. Counting wet diapers is a good hydration check, but it treats normal breastfed stools as diarrhea.",
+    "Incorrect. The reassurance is correct, but stools stay soft and yellow until solid foods begin, not within a few days.",
     "Correct. Breastfed infants normally have mustard-yellow, seedy stools that are soft and liquid until solid foods begin."
    ],
    "rationale": "Infant stool depends on feeding. Breastfed infants have mustard-yellow, seedy stools, while formula-fed infants' stools range from tan to yellow to green. Consistency is soft and liquid until solid foods are started, and odor is faint until then. Reassurance and accurate teaching are the right response.",
    "takeaway": "Breastfed: mustard yellow and seedy. Formula-fed: tan to yellow to green. Firmer stool comes with solids.",
    "hintContent": "Recall how stool color and consistency differ between breastfed and formula-fed infants.",
-   "hintStrategy": "Decide whether the finding is normal for this infant's age and feeding method before choosing a response."
+   "hintStrategy": "Decide whether the finding is normal for this infant's age and feeding method before choosing a response.",
+   "bestAnswer": true
   },
   {
    "id": "m5q-057",
@@ -1949,15 +1974,16 @@
    ],
    "answer": 3,
    "optionRationales": [
-    "Bowel training is usually successful by 36 to 48 months, so a 2-year-old not yet trained is within the normal range.",
-    "Frequent soft, yellow, seedy stools are normal for a breastfed infant.",
-    "Occasional accidents are expected while a toddler is still learning control.",
+    "Incorrect. Bowel training is usually successful by 36 to 48 months, so a 2-year-old not yet trained is within the normal range.",
+    "Incorrect. Frequent soft, yellow, seedy stools are normal for a breastfed infant.",
+    "Incorrect. Occasional accidents are expected while a toddler is still learning control.",
     "Correct. Intussusception is the most common cause of intestinal obstruction in children under 3. Vomiting, distention, no stool, and episodes of severe pain suggest an obstruction, which risks bowel necrosis and perforation."
    ],
    "rationale": "Toddlers gain some bowel control between 1½ and 2 years and are usually trained by 36 to 48 months, and breastfed infant stool is normally soft, yellow, and seedy. A toddler with vomiting, a swollen abdomen, no stool, and episodes of severe pain has signs of obstruction. Intussusception is the most common cause at this age, and obstruction can lead to necrosis and perforation.",
    "takeaway": "Under age 3, vomiting, distention, no stool, and pain episodes suggest intussusception. Call back first.",
    "hintContent": "Recall normal bowel milestones for infants and toddlers, and the most common cause of obstruction under age 3.",
-   "hintStrategy": "Rule out the normal developmental findings, then choose the child with signs of obstruction."
+   "hintStrategy": "Rule out the normal developmental findings, then choose the child with signs of obstruction.",
+   "bestAnswer": true
   },
   {
    "id": "m5q-058",
@@ -2021,10 +2047,10 @@
    ],
    "answer": 1,
    "optionRationales": [
-    "Responding to the gastrocolic reflex after meals is important for older adults, so this is correct.",
+    "Incorrect. Responding to the gastrocolic reflex after meals is important for older adults, so this is correct.",
     "Correct. This statement needs correcting. Laxative use inhibits natural reflexes and may cause constipation rather than relieve it.",
-    "A change in bowel habits over weeks should be referred to the primary care provider, so this is correct.",
-    "Fluid, fiber, and activity address common causes of constipation in older adults, so this is correct."
+    "Incorrect. A change in bowel habits over weeks should be referred to the primary care provider, so this is correct.",
+    "Incorrect. Fluid, fiber, and activity address common causes of constipation in older adults, so this is correct."
    ],
    "rationale": "Constipation is common in older adults because of reduced activity, inadequate fluid and fiber, muscle weakness, and medication side effects. Teaching emphasizes responding to the gastrocolic reflex, fluids, fiber, and activity, and reporting changes in bowel habits that last weeks. Routine laxative use weakens natural reflexes and can create the problem it is meant to prevent.",
    "takeaway": "Older adults: respond to the gastrocolic reflex, use fluid, fiber, and activity, and avoid routine laxatives.",
@@ -2047,21 +2073,22 @@
    "stem": "A 72-year-old client says, \"For about 6 weeks my stools have been narrower than usual, and I go back and forth between constipation and loose stools.\" Which response by the nurse is most appropriate?",
    "options": [
     "\"A change like this that lasts for weeks should be checked by your provider.\"",
-    "\"Try an over-the-counter laxative for a few weeks and see whether it helps you.\"",
-    "\"Increase your fiber and we'll recheck this at your visit in 6 months.\"",
-    "\"Bowel changes like this are a normal part of getting older.\""
+    "\"Keep a diary of your stools and diet for 2 weeks, then we'll review it.\"",
+    "\"Add more fiber and fluid to your diet to help regulate your stools.\"",
+    "\"Call your provider right away if you notice any blood in your stool.\""
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. A change in bowel habits over weeks should be referred to the primary care provider so the cause can be found, which may include diagnostic tests such as a colonoscopy.",
-    "Laxatives can inhibit natural reflexes and may hide a problem that needs evaluation.",
-    "Fiber is generally helpful, but waiting 6 months delays evaluation of a change that has already lasted weeks.",
-    "Although constipation is common in older adults, a persistent change in bowel habits is not a normal finding to dismiss."
+    "Incorrect. A diary gathers useful data, but the change has already lasted 6 weeks, and more tracking delays evaluation.",
+    "Incorrect. Fiber and fluid help many bowel problems, but self-treating a persistent change can delay diagnosis of a serious cause.",
+    "Incorrect. Blood is a warning sign to report, but the change in stool shape and pattern already warrants evaluation without waiting for bleeding."
    ],
-   "rationale": "Older adults commonly have constipation, but a change in bowel habits that persists over weeks, such as a change in stool shape or alternating constipation and diarrhea, should be referred to the primary care provider. Evaluation may include tests such as a colonoscopy. Reassurance, self-treatment with laxatives, or waiting can delay diagnosis.",
+   "rationale": "Older adults commonly have constipation, but a change in bowel habits that persists over weeks, such as a change in stool shape or alternating constipation and diarrhea, should be referred to the primary care provider. Evaluation may include tests such as a colonoscopy. Self-treatment with fiber, tracking symptoms, or waiting for bleeding can delay diagnosis.",
    "takeaway": "A change in bowel habits lasting weeks in an older adult: refer to the provider.",
    "hintContent": "Recall the referral guidance for bowel changes in older adults and the risks of self-treating with laxatives.",
-   "hintStrategy": "Choose the response that leads to evaluation without delay instead of normalizing or masking the change."
+   "hintStrategy": "Choose the response that leads to evaluation without delay instead of normalizing or masking the change.",
+   "bestAnswer": true
   }
  ]
 }

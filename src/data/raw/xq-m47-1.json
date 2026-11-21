@@ -31,7 +31,8 @@
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-002",
@@ -42,14 +43,14 @@
     "Start the infusion now and have another RN verify the settings when the unit is calmer.",
     "Obtain the independent double check from another RN before starting the infusion.",
     "Start the infusion, because state regulations set the legal standard the nurse must meet.",
-    "Hold the infusion until day shift and notify the provider about the staffing delay."
+    "Ask the charge nurse to approve skipping the double check for this night shift."
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. A check done after the infusion starts cannot prevent a programming error from reaching the client.",
+    "Incorrect. A second check is the right idea, but a check done after the infusion starts cannot prevent a programming error from reaching the client.",
     "Correct. Facility policy may be stricter than regulation, and the nurse follows the most restrictive rule that applies.",
-    "Incorrect. Meeting the legal minimum does not excuse breaking a stricter facility policy designed for a high-alert drug.",
-    "Incorrect. Delaying anticoagulation for a new thrombosis is unnecessary when a second RN can be found now."
+    "Incorrect. The nurse must meet state law, but the legal minimum does not excuse breaking a stricter facility policy for a high-alert drug.",
+    "Incorrect. Involving the charge nurse is reasonable when staffing is tight, but a charge nurse cannot waive a safety policy; the nurse should get a second RN to check now."
    ],
    "rationale": "Rules follow a hierarchy: law, regulation, facility policy, and unit procedure. A lower rule may be stricter than the one above it but never looser, so the nurse follows the most restrictive rule that applies. Here the hospital policy adds a safeguard for a high-alert medication, and it binds the nurse as an employee. The colleague’s argument is tempting because the law truly does not require the check, but the law sets only the outer limit, not the full expectation.",
    "takeaway": "When facility policy is stricter than the law, follow the facility policy.",
@@ -61,7 +62,8 @@
    "focus": "Pharmacology",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-003",
@@ -128,7 +130,8 @@
    "focus": "Nursing Interventions",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-005",
@@ -138,14 +141,14 @@
    "options": [
     "Accept the order and apply restraints tonight if the client becomes agitated",
     "Document the verbal order and ask the day shift to obtain a written version",
-    "Decline to care for the client until the provider rewrites the plan of care",
+    "Report the order to the charge nurse and ask her to call the provider back",
     "Clarify with the provider that restraint orders cannot be written as needed"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Accepting an order that conflicts with policy and regulation places the client at risk and the nurse outside the rules.",
-    "Incorrect. Documenting an order the nurse knows is not allowed does not make it valid.",
-    "Incorrect. Refusing care abandons the client; the nurse can clarify the order while continuing to provide care.",
+    "Incorrect. Planning for agitation is reasonable, but accepting an as-needed restraint order conflicts with policy and regulation and places the client at risk.",
+    "Incorrect. Documenting verbal orders is normally required, but recording an order the nurse knows is not allowed does not make it valid.",
+    "Incorrect. The charge nurse is part of the chain of command, but the nurse who received the order should clarify it with the provider first and escalate only if it is not resolved.",
     "Correct. When an order conflicts with law or policy, the nurse clarifies with the prescriber and uses the chain of command if needed."
    ],
    "rationale": "Nurses are accountable for following law, regulation, and facility policy even when a prescriber gives a different instruction. When an order conflicts with those rules, the correct response is to clarify it with the prescriber and, if it is not resolved, move up the chain of command. Restraints carry serious physical and psychological risk, which is why they are tightly regulated. Accepting the order is tempting because it comes from a provider, but an order does not override the rules that govern restraint use.",
@@ -158,7 +161,8 @@
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-006",
@@ -167,16 +171,16 @@
    "stem": "A medical unit is seeing more clients who wear personal continuous glucose monitors, and there is no unit policy on using their readings. A client with type 1 diabetes says, “My sensor says 64.” The client is alert and has no symptoms. The unit has a capillary glucose protocol. Which action by the nurse is best?",
    "options": [
     "Give the hypoglycemia treatment based on the sensor value, since no policy forbids it",
-    "Disregard the sensor reading, because the unit has no policy addressing the device",
+    "Recheck the sensor in 15 minutes to see whether the glucose is trending down",
     "Confirm with a capillary glucose test, act on that result, and propose a CGM policy",
-    "Ask the client to remove the sensor until the hospital writes a policy on it"
+    "Notify the provider of the sensor reading and request orders for treatment"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Without a policy that validates sensor values, treatment decisions should rest on a confirmed capillary glucose.",
-    "Incorrect. Ignoring a possible low glucose is unsafe; the reading is a cue that needs confirmation.",
+    "Incorrect. A value of 64 does need attention, but without a policy that validates sensor values, treatment should rest on a confirmed capillary glucose.",
+    "Incorrect. Watching the trend is reasonable, but waiting delays confirming a possibly low glucose when a capillary test can be done now.",
     "Correct. When no policy exists, the nurse acts within current standards and brings the gap forward through proper channels.",
-    "Incorrect. Removing the device is unnecessary and does not address the possible low glucose."
+    "Incorrect. Informing the provider may be needed later, but a capillary glucose protocol already exists, so the nurse confirms the value before calling."
    ],
    "rationale": "When no policy covers a situation, the nurse acts within scope and current standards of care and treats the gap as a safety issue to fix. Here the existing capillary glucose protocol is the accepted standard, so the nurse confirms the reading and treats based on that value if needed. Proposing a policy to the practice council closes the gap for future clients. Treating directly from the sensor is tempting because the reading is low, but without a policy that validates the device, the confirmed capillary value guides care.",
    "takeaway": "When no policy exists, act within current standards and propose a policy through proper channels.",
@@ -188,7 +192,8 @@
    "focus": "Nursing Interventions",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-007",
@@ -198,14 +203,14 @@
    "options": [
     "“North Carolina issued my license, so its delegation rules go with me.”",
     "“I need a separate single-state license before I can work there.”",
-    "“I can use whichever state’s rules best fit this unit’s staffing needs.”",
+    "“The compact sets one shared set of practice rules for all member states.”",
     "“I follow the practice law of the state where my clients are located.”"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. The home state issues the license, but practice is governed by the law where the client is.",
-    "Incorrect. A multistate license grants the privilege to practice in other compact states without a separate license.",
-    "Incorrect. Practice law is not chosen by convenience; it is set by the client’s location.",
+    "Incorrect. The home state does issue the license, but practice is governed by the law of the state where the client is located.",
+    "Incorrect. Checking licensure before travel is wise, but a multistate license grants the privilege to practice in other compact states without a separate license.",
+    "Incorrect. The compact does create uniform licensure requirements, but it does not unify practice rules; each state still regulates practice within its borders.",
     "Correct. A multistate licensee must follow the nurse practice act and rules of the state where the client is located."
    ],
    "rationale": "The Nurse Licensure Compact lets a nurse with a multistate license practice in other compact states without getting another license. The license comes from the home state, but each state still regulates nursing practice within its borders. A traveling nurse therefore follows the practice act and board rules of the state where the client is located. The home-state answer is tempting because the license feels portable, but the privilege to practice is portable while scope rules stay local.",
@@ -218,7 +223,8 @@
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-008",
@@ -283,7 +289,8 @@
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-010",
@@ -331,15 +338,15 @@
    "options": [
     "Skip the 0400 vital signs for low-risk clients because the evidence supports it",
     "Keep following the policy and bring the study to the unit practice council",
-    "Describe the policy on social media to build support among other nurses",
+    "Share the study with night-shift coworkers at the next staff huddle",
     "Tell night-shift coworkers to use the new schedule until the policy is revised"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Acting alone on new evidence bypasses the policy process and may miss deterioration.",
+    "Incorrect. The evidence may be sound, but acting alone bypasses the policy process and could miss deterioration in a client who is not truly low-risk.",
     "Correct. Until a policy changes, the nurse follows it and uses proper channels to propose a change.",
-    "Incorrect. Public venting is not a proper channel and may expose the employer or clients.",
-    "Incorrect. Encouraging others to ignore policy spreads risk and is not a proper channel."
+    "Incorrect. Sharing evidence with peers is reasonable, but coworkers cannot change the policy; the practice council is the group that can review and revise it.",
+    "Incorrect. Wanting coworkers to use better evidence is understandable, but encouraging others to ignore policy spreads risk and is not a proper channel."
    ],
    "rationale": "Nurses are encouraged to shape policy, but change happens through proper channels such as the practice council, a pilot, and approval. Until a policy changes, the nurse follows it unless following it would clearly harm the client. Less frequent checks may be appropriate for some clients, but deciding which clients are low-risk is a policy decision that needs review. Skipping the checks is tempting because the evidence seems to support it, but one study does not authorize an individual nurse to change unit practice.",
    "takeaway": "Follow the current policy while you bring evidence for change through proper channels.",
@@ -351,7 +358,8 @@
    "focus": "Nursing Interventions",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-012",
@@ -361,14 +369,14 @@
    "options": [
     "Remove the client’s name, age, and street so the story cannot identify her",
     "Add the hospital’s logo to show that her employer endorses the bill",
-    "Shorten the readmission data so the message focuses only on the story",
+    "Add national readmission statistics to support the local data she cites",
     "Send it to every legislator in the state rather than only her own senator"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. Client stories strengthen advocacy only when they cannot identify the client.",
     "Incorrect. The nurse writes as a citizen; implying employer endorsement without permission is inappropriate.",
-    "Incorrect. Local data strengthen the case; removing them weakens it.",
+    "Incorrect. National data could strengthen the message, but it matters far less than removing details that identify a client.",
     "Incorrect. Legislators respond most to their own constituents, and this does not fix the privacy problem."
    ],
    "rationale": "Nurses are effective advocates when they pair data with a client story, but the story must not identify the client. A name, age, and street together allow anyone in a small town to recognize the person, which breaches confidentiality and professional standards. Removing identifiers keeps the persuasive power of the story while protecting the client. Adding the employer’s logo is tempting because it seems to add weight, but it misrepresents the nurse’s role and does not fix the privacy breach.",
@@ -381,7 +389,8 @@
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-013",
@@ -442,7 +451,8 @@
       }
      }
     ]
-   }
+   },
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-014",
@@ -453,14 +463,14 @@
     "“Because the law passed, the health department must start visits with its current budget.”",
     "“The program has reached the evaluation stage, so we should begin measuring its outcomes.”",
     "“A program that is authorized but not funded cannot be implemented, so we must advocate for funding.”",
-    "“The governor’s signature was the last step, so nurses have no further role in this policy.”"
+    "“The health department can begin visits as soon as it finishes writing the program rules.”"
    ],
    "answer": 2,
    "optionRationales": [
     "Incorrect. Authorizing a program does not supply money; an agency cannot fund it out of thin air.",
     "Incorrect. Nothing has been implemented, so there are no outcomes to evaluate.",
     "Correct. Funding is policy too; without an appropriation the program cannot move into implementation.",
-    "Incorrect. Nurses influence every stage, including budget decisions that fund an existing law."
+    "Incorrect. Writing rules is a real implementation step, but rules cannot hire or pay staff; without an appropriation the program still cannot start."
    ],
    "rationale": "Passing a law and paying for it are separate decisions. A program that is authorized but never appropriated cannot hire staff, train, or deliver services, so it stalls before implementation. Nurses can advocate during the budget and appropriations process to fund programs already in law. Some students pick the evaluation option because a year has passed, but evaluation requires a program that has actually been carried out.",
    "takeaway": "A law without funding cannot be implemented; advocating for appropriations is part of nursing’s policy role.",
@@ -472,7 +482,8 @@
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-015",
@@ -502,7 +513,8 @@
    "focus": "Client Teaching",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-016",
@@ -567,7 +579,8 @@
    "focus": "Delegation & Safety",
    "difficulty": 3,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-018",
@@ -597,7 +610,8 @@
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-019",
@@ -704,7 +718,8 @@
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-022",
@@ -714,15 +729,15 @@
    "options": [
     "Ask the nurse’s state legislator to amend the rule before the board adopts it",
     "Submit a written, evidence-based comment to the board during the comment period",
-    "Wait until the rule takes effect and then file a complaint with the employer",
+    "Ask her nurse manager to raise the concern with hospital administrators",
     "Post objections in an online nursing group to build general awareness"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Legislators pass statutes; the board, an executive agency, writes and revises its own rules.",
+    "Incorrect. Legislators can change the statute behind a rule, but the board, an executive agency, writes and revises its own rules through comment.",
     "Correct. Agencies must consider public comments before finalizing a regulation, so this directly reaches the decision-makers.",
-    "Incorrect. An employer cannot change a board regulation, and waiting misses the comment window.",
-    "Incorrect. Awareness does not reach the agency’s formal rulemaking record."
+    "Incorrect. Involving the manager is a reasonable step, but hospital leaders cannot change a board rule, and only a direct public comment enters the board’s rulemaking record.",
+    "Incorrect. Building awareness can rally support, but online posts do not enter the agency’s formal rulemaking record."
    ],
    "rationale": "Regulations are written by executive agencies such as the board of nursing under authority from a statute. Before a rule is final, the agency posts it for public comment and must consider what it receives. A focused written comment with evidence during that window is the most direct way to shape the final wording. Contacting a legislator is tempting because legislators make laws, but they do not write or amend agency regulations directly.",
    "takeaway": "To change a proposed regulation, comment to the agency during the public comment period.",
@@ -734,7 +749,8 @@
    "focus": "Nursing Interventions",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-023",
@@ -764,7 +780,8 @@
    "focus": "Pharmacology",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-024",
@@ -850,14 +867,14 @@
     "Conclude that hourly rounding does not work on this unit and end the project",
     "Study why adherence was low, adapt the process, and test it again in a new cycle",
     "Roll out hourly rounding to all units because it is an evidence-based practice",
-    "Discipline the nurses who did not document rounding during the pilot"
+    "Remind staff to document every hourly round and repeat the same pilot"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. The intervention was done less than half the time, so the data cannot show whether it works.",
+    "Incorrect. Falls did not drop, but the intervention was done less than half the time, so the data cannot show whether rounding works.",
     "Correct. In a PDSA cycle, the team studies results, then acts by adapting the change and retesting.",
-    "Incorrect. Spreading a process that was not carried out reliably will spread the same problem.",
-    "Incorrect. Low adherence with a workload signal points to a system issue, not individual blame."
+    "Incorrect. Hourly rounding does have evidence behind it, but spreading a process that was not carried out reliably will spread the same problem.",
+    "Incorrect. Improving adherence is a reasonable goal, but repeating the same process without studying why staff found it unrealistic will likely produce the same results."
    ],
    "rationale": "Plan-Do-Study-Act (PDSA) cycles test a change on a small scale, study the results, and then adopt, adapt, or abandon it. These results show the change was carried out only 45% of the time and most staff found it unrealistic, so the problem is the process, not proof that rounding fails. The next step is to learn why adherence was low, redesign the change, and retest. Ending the project is tempting because falls did not drop, but an intervention that was not delivered was never truly tested.",
    "takeaway": "In PDSA, study why results fell short and adapt before deciding a change has failed.",
@@ -905,7 +922,8 @@
       }
      }
     ]
-   }
+   },
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-027",
@@ -935,7 +953,8 @@
    "focus": "Client Teaching",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-028",
@@ -1034,7 +1053,8 @@
       }
      }
     ]
-   }
+   },
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-030",
@@ -1043,16 +1063,16 @@
    "stem": "A 58-year-old client with type 2 diabetes tells the clinic nurse, “I’ve been using my insulin glargine every other day so it lasts longer; it costs too much.” Her A1C is 10.2%, and her fasting glucose today is 248 mg/dL. Which action by the nurse is most appropriate?",
    "options": [
     "Reinforce that skipping insulin raises glucose and ask her to take it every day",
-    "Suggest she use the remaining insulin only when her glucose readings are high",
+    "Teach her to check and log her fasting glucose daily to track her control",
     "Collaborate with the prescriber and social worker on formulary options and assistance",
-    "Document the nonadherence and schedule a follow-up visit in three months"
+    "Notify the prescriber of her high glucose and request an insulin dose increase"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Teaching about consequences does not remove the cost barrier causing the rationing.",
-    "Incorrect. This advice is unsafe and continues the pattern of rationing basal insulin.",
+    "Incorrect. Reinforcing daily dosing is accurate teaching, but it does not remove the cost barrier causing the rationing.",
+    "Incorrect. Glucose monitoring is useful, but it tracks the problem without removing the cost barrier that is causing her to ration insulin.",
     "Correct. Policy shapes access; finding a covered option or assistance addresses the root cause.",
-    "Incorrect. Delaying action leaves uncontrolled hyperglycemia and the cost barrier in place."
+    "Incorrect. Informing the prescriber is appropriate, but a higher dose would use insulin faster and worsen the cost problem driving the rationing."
    ],
    "rationale": "Health policy determines what coverage a client has, what a drug costs under the plan’s formulary, and what assistance is available. When cost leads a client to ration medication, the nurse addresses the barrier by working with the prescriber on covered or lower-cost options and linking the client to financial help. Reteaching is tempting because her glucose is high, but she already knows why insulin matters; the problem is access, not knowledge. Identifying the real barrier is what makes the intervention effective.",
    "takeaway": "When cost drives nonadherence, fix the access barrier with the prescriber and social services rather than reteaching.",
@@ -1066,7 +1086,8 @@
    "focus": "Nursing Interventions",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-031",
@@ -1076,14 +1097,14 @@
    "options": [
     "Give the chemotherapy because the manager has accepted responsibility",
     "Give the chemotherapy after carefully reading the hospital’s procedure",
-    "Give the chemotherapy and document that the manager directed it",
+    "Decline the task and postpone the infusion until the oncology nurse returns",
     "Decline to give the chemotherapy and help find a chemo-competent nurse"
    ],
    "answer": 3,
    "optionRationales": [
     "Incorrect. Licensure is personal; a manager’s assurance does not protect the RN or the client.",
     "Incorrect. Reading a procedure does not provide the verified competency the policy requires.",
-    "Incorrect. Documenting the direction does not make an unsafe, policy-violating act acceptable.",
+    "Incorrect. Declining is correct, but postponing on her own delays scheduled treatment; the RN should help find another chemo-competent nurse so care stays on track.",
     "Correct. The RN refuses a task she is not competent to perform and helps keep the client’s care on track."
    ],
    "rationale": "Each nurse is accountable for practicing within legal scope, facility policy, and personal competence. A manager’s order or promise to take responsibility does not shift that accountability, and it would not protect the nurse’s license if harm occurred. Chemotherapy is a high-risk therapy, and the hospital requires verified competency for good reason. The documentation option is tempting because it seems to shift blame, but the nurse would still be practicing beyond verified competence.",
@@ -1096,7 +1117,8 @@
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-032",
@@ -1143,15 +1165,15 @@
    "options": [
     "Keep the new graduates on current policy and send the evidence to the practice council",
     "Let the new graduates choose either approach because the evidence seems to support the change",
-    "Report the staff nurse to the board of nursing for not following hospital policy",
-    "Tell the nurse that the policy is correct and her evidence is not relevant on this unit"
+    "Ask the nurse manager to coach the staff nurse on following hospital policy",
+    "Tell the new graduates to follow current policy and set the article aside"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. Practice changes go through proper channels, and staff follow existing policy until it changes.",
     "Incorrect. Inconsistent practice creates confusion and risk while the policy is still in effect.",
-    "Incorrect. This is an advocacy and practice issue for the unit, not board-reportable misconduct.",
-    "Incorrect. Dismissing evidence discourages nurses from improving practice through proper channels."
+    "Incorrect. The manager may need to know, but this skips correcting the new graduates now and does not route the evidence to the group that can change policy.",
+    "Incorrect. Keeping the new graduates on policy is right, but setting the evidence aside discourages practice improvement; it belongs with the practice council."
    ],
    "rationale": "Nurses are expected to bring evidence to improve practice, but changes are made through proper channels such as a practice council, a pilot, and formal approval. Until a policy changes, staff follow it, and a charge nurse makes sure new nurses are not taught to work around policy. The charge nurse also supports the staff nurse by directing her evidence to the group that can change the policy. Letting staff choose is tempting because the evidence may be valid, but informal change produces inconsistent care.",
    "takeaway": "Redirect good evidence into the policy process while keeping staff on the current policy.",
@@ -1163,7 +1185,8 @@
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-034",
@@ -1171,17 +1194,17 @@
    "type": "mcq",
    "stem": "A hospitalized client with a 40-pack-year history tells the nurse, “I’m going out to smoke on the sidewalk by the entrance. It’s my right.” Hospital policy and a local ordinance ban smoking anywhere on the campus. Which response by the nurse is best?",
    "options": [
-    "“You do have that right, so please stay close to the entrance in case you feel unwell.”",
+    "“Smoking isn’t allowed anywhere on campus, so you will need to stay on the unit.”",
     "“Smoking isn’t allowed on campus, but I can ask about nicotine replacement for you.”",
     "“If you leave the unit to smoke, you will have to sign out against medical advice.”",
     "“Smoking will slow your healing, so you really need to quit completely today.”"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. This misstates the policy and ignores the client’s cravings.",
+    "Incorrect. Stating the policy clearly is appropriate, but this response stops there and does not address the nicotine cravings driving the request.",
     "Correct. This states the policy honestly and offers help with the cravings driving the request.",
-    "Incorrect. This is a threat that does not reflect policy and damages the therapeutic relationship.",
-    "Incorrect. Lecturing does not address the immediate cravings or the client’s request."
+    "Incorrect. Leaving the unit can raise safety concerns, but this response threatens the client, misstates policy, and harms the therapeutic relationship.",
+    "Incorrect. Smoking does slow healing, but lecturing does not address the immediate cravings or the client’s request."
    ],
    "rationale": "Smoke-free laws and campus bans are public health policies that nurses apply at the bedside. The best response states the policy clearly and then addresses the underlying need, which is nicotine withdrawal. Asking the provider about nicotine replacement respects the client and supports both comfort and safety. Lecturing about healing is tempting because it is accurate, but it does not help the client cope with cravings during the hospital stay.",
    "takeaway": "Pair clear policy information with help for the need behind the request.",
@@ -1193,7 +1216,8 @@
    "focus": "Client Teaching",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-035",
@@ -1204,14 +1228,14 @@
     "“Let’s share the decay data and hold forums so residents’ concerns shape the plan.”",
     "“Many residents object, so the board should drop the proposal to respect them.”",
     "“The research is clear, so residents’ concerns should not affect the decision.”",
-    "“The board should wait until every resident agrees before taking any action.”"
+    "“The board should let residents decide the issue through a public vote.”"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. This blends scientific evidence with stakeholder values and concerns.",
-    "Incorrect. Dropping the proposal ignores the evidence; values alone do not make good policy.",
-    "Incorrect. Evidence-informed policy blends research with stakeholder values rather than dismissing them.",
-    "Incorrect. Requiring unanimous agreement is unrealistic and leaves the health problem unaddressed."
+    "Incorrect. Respecting residents’ concerns matters, but dropping the proposal ignores the evidence; values alone do not make good policy.",
+    "Incorrect. The research is strong, but evidence-informed policy blends research with stakeholder values rather than dismissing them.",
+    "Incorrect. A vote respects residents’ values, but it leaves out the evidence; evidence-informed policy shares the data and weighs concerns together."
    ],
    "rationale": "Evidence-informed policy combines scientific evidence with the values, ethics, and concerns of stakeholders and lawmakers. Evidence without values can stall because the public rejects it, while values without evidence can lead to policies that do not work. Sharing data and creating ways for residents to be heard shows respect and increases the chance a sound policy is accepted. The evidence-only response is tempting because the research is strong, but it ignores a core part of the policy process.",
    "takeaway": "Evidence-informed policy blends research with the values of the people it affects.",
@@ -1223,7 +1247,8 @@
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-036",
@@ -1284,7 +1309,8 @@
       }
      }
     ]
-   }
+   },
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-037",
@@ -1293,16 +1319,16 @@
    "stem": "A client tells the clinic nurse that she developed a widespread blistering rash 10 days after starting a recently approved medication. The provider has stopped the drug, the client is stable, and treatment has begun. Which action by the nurse is most appropriate now?",
    "options": [
     "Report the reaction to the CDC, because it may be a new public health threat",
-    "Notify CMS so that Medicare will stop paying for the medication",
+    "Document the reaction in the chart and review the rash at the next visit",
     "Follow facility steps and report the reaction to the FDA’s MedWatch program",
-    "Tell the client to report the reaction only to the drug manufacturer"
+    "Help the client report the reaction to the drug’s manufacturer"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. The CDC handles disease control; drug adverse events go to the FDA.",
-    "Incorrect. CMS handles payment rules, not drug safety surveillance.",
-    "Correct. The FDA monitors drug safety, and MedWatch collects serious adverse event reports.",
-    "Incorrect. Limiting the report to the manufacturer bypasses facility reporting and direct FDA reporting."
+    "Incorrect. The CDC tracks public health threats, but it focuses on disease control; adverse drug reactions are reported to the FDA.",
+    "Incorrect. Documentation and follow-up are needed, but a serious reaction to a newly approved drug should also be reported so rare effects are detected nationally.",
+    "Correct. The FDA monitors drug safety, and MedWatch collects serious adverse event reports; following facility steps also ensures internal review.",
+    "Incorrect. Manufacturers must forward reports to the FDA, but the nurse should follow facility steps and report directly rather than rely on a third party."
    ],
    "rationale": "The Food and Drug Administration, a division of DHHS, oversees the safety of drugs, devices, and food. Serious or unexpected adverse drug reactions are reported through its MedWatch program, especially for newly approved medications whose rare effects may not have appeared in trials. The nurse also follows facility reporting steps. The CDC is tempting because it deals with public health threats, but its focus is disease control and prevention, not drug safety.",
    "takeaway": "Serious adverse drug reactions are reported to the FDA through MedWatch in addition to facility reporting.",
@@ -1314,7 +1340,8 @@
    "focus": "Pharmacology",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-038",
@@ -1381,7 +1408,8 @@
    "focus": "Prioritization",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-040",
@@ -1427,14 +1455,14 @@
     "“You will need a parent’s signature, but I can help you explain this to your mother.”",
     "“I am required to tell your parents before you can be tested or treated for an infection.”",
     "“You can consent to STI care yourself; the city sexual health clinic offers confidential testing.”",
-    "“It would be best to wait until you turn 18, unless your symptoms start getting worse.”"
+    "“I’d encourage you to tell a parent first, and then we can set up your testing together.”"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Parental consent is not required for STI testing and treatment.",
-    "Incorrect. State law, including North Carolina’s, allows minors to consent to STI care without parental notice.",
-    "Correct. Minors may consent to STI services, and city clinics provide confidential, low-cost testing.",
-    "Incorrect. Delaying care allows the infection to progress and spread."
+    "Incorrect. Offering to help her talk with her mother is supportive, but parental consent is not required for STI testing and treatment.",
+    "Incorrect. Parental notice applies to much of minors’ care, but state law, including North Carolina’s, lets minors consent to STI care.",
+    "Correct. Minors may consent to STI services, and city clinics provide confidential, low-cost testing without delay.",
+    "Incorrect. Encouraging family support is reasonable, but making testing wait on telling a parent delays care she can legally consent to now."
    ],
    "rationale": "All states allow minors to consent to testing and treatment for sexually transmitted infections; in North Carolina, G.S. 90-21.5 also covers pregnancy care, substance use, and emotional disturbance, but not sterilization or abortion. City health departments commonly run free or low-cost HIV and sexual health clinics. Connecting the teen with confidential care promotes timely treatment and protects others. Requiring a parent’s signature is tempting because most care for minors needs parental consent, but STI care is a specific exception.",
    "takeaway": "Minors may consent to STI testing and treatment; refer them to confidential services such as a city sexual health clinic.",
@@ -1448,7 +1476,8 @@
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-042",
@@ -1492,16 +1521,16 @@
    "stem": "Several children living near a closed battery recycling plant have elevated blood lead levels, and residents report dust blowing from the abandoned site. The county is providing lead screening and follow-up. Which federal agency’s role most directly addresses contamination at the site?",
    "options": [
     "The Occupational Safety and Health Administration",
-    "The Centers for Medicare & Medicaid Services",
+    "The Centers for Disease Control and Prevention",
     "The Food and Drug Administration",
     "The Environmental Protection Agency"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. OSHA protects workers, and the plant is no longer operating.",
-    "Incorrect. CMS manages payment programs and does not address environmental hazards.",
-    "Incorrect. The FDA regulates drugs, devices, and food, not environmental contamination.",
-    "Correct. The EPA protects air, water, and land, including contaminated sites that affect community health."
+    "Incorrect. OSHA addresses industrial hazards, but it protects workers, and this plant is closed and the exposure affects residents.",
+    "Incorrect. The CDC supports lead screening and surveillance, but cleaning up the contaminated site is the EPA’s role.",
+    "Incorrect. The FDA limits lead in food, drugs, and products, but it does not address contaminated land or air.",
+    "Correct. The EPA protects air, water, and land, including contaminated sites that keep exposing the community."
    ],
    "rationale": "The Environmental Protection Agency protects air, water, and land, which shapes population health problems such as lead poisoning and asthma. While the county screens and follows up with individual children, the EPA’s role addresses the contaminated site that keeps exposing them. Nurses who care for individuals can also advocate for fixing the source of exposure. OSHA is tempting because the hazard came from an industrial plant, but OSHA protects workers, and this exposure affects residents.",
    "takeaway": "Environmental contamination affecting a community points to the EPA; workplace hazards point to OSHA.",
@@ -1513,7 +1542,8 @@
    "focus": "Pathophysiology",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-044",
@@ -1560,16 +1590,16 @@
    "stem": "An uninsured family of five has just moved to a rural area and needs a primary care provider. Their income is low, and they have no transportation to the nearest city. Which referral is most appropriate?",
    "options": [
     "A community health center funded through HRSA with sliding-scale fees",
-    "A private urgent care center that requires full payment at each visit",
-    "The hospital emergency department for routine and preventive visits",
-    "The state Office of EMS, which oversees ambulance transport services"
+    "A private urgent care center in town with extended evening and weekend hours",
+    "The hospital emergency department, which cannot refuse anyone care",
+    "A free mobile screening van that visits the area twice a year"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. HRSA funds community health centers to improve access for underserved populations.",
-    "Incorrect. Upfront payment is a barrier for an uninsured, low-income family.",
-    "Incorrect. The emergency department is not designed for ongoing primary care and is costly.",
-    "Incorrect. The Office of EMS licenses ambulances; it does not provide primary care."
+    "Correct. HRSA-funded community health centers give ongoing primary care with fees based on income, which fits this family.",
+    "Incorrect. Extended hours help access, but urgent care treats single episodes, lacks continuity, and usually charges full fees.",
+    "Incorrect. The emergency department must screen everyone, but it is costly and does not provide ongoing or preventive care.",
+    "Incorrect. Free screening helps, but twice-yearly visits do not give the family a regular primary care provider."
    ],
    "rationale": "The Health Resources and Services Administration, a DHHS division, works to improve access for underserved populations and supports the health care workforce. HRSA-funded community health centers provide primary care with fees based on ability to pay, which fits an uninsured, low-income family. A regular source of primary care also reduces costly emergency visits. The emergency department option is tempting because it cannot turn people away, but it does not provide continuity or prevention.",
    "takeaway": "For uninsured or underserved clients needing ongoing primary care, refer to an HRSA-funded community health center.",
@@ -1583,7 +1613,8 @@
    "focus": "Nursing Interventions",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-046",
@@ -1613,7 +1644,8 @@
    "focus": "Assessment Findings",
    "difficulty": 2,
    "clientNeed": "Psychosocial Integrity",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-047",
@@ -1697,14 +1729,14 @@
     "“Choose a board-approved program that is also accredited; graduate schools look for that.”",
     "“Board approval is all that matters; accreditation has no effect on graduate admission.”",
     "“Accreditation is what makes you eligible for the NCLEX, so approval doesn’t matter.”",
-    "“Any program works, because graduate schools accept all licensed RNs equally.”"
+    "“Pick the school with the highest NCLEX pass rate; that is what counts most.”"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Board approval allows NCLEX eligibility, and accreditation matters for graduate admission.",
-    "Incorrect. Accreditation often affects admission to graduate nursing programs.",
-    "Incorrect. Board of nursing approval, not accreditation, determines NCLEX eligibility.",
-    "Incorrect. Graduate programs commonly require a degree from an accredited program."
+    "Correct. Board approval allows NCLEX eligibility, and accreditation matters for graduate admission, so both fit her goal.",
+    "Incorrect. Board approval is required, but accreditation often affects admission to graduate nursing programs.",
+    "Incorrect. Accreditation matters, but board of nursing approval, not accreditation, determines NCLEX eligibility.",
+    "Incorrect. Pass rates are a useful quality indicator, but they do not tell her whether the program is approved and accredited."
    ],
    "rationale": "Board of nursing approval of a prelicensure program is required and is what makes graduates eligible to take the NCLEX. Accreditation, such as by CCNE or ACEN for baccalaureate programs, is voluntary but matters for admission to RN-to-BSN and graduate programs. A student planning advanced practice should look for both. Students often confuse the two and think accreditation controls NCLEX eligibility, but that is the role of board approval.",
    "takeaway": "Board approval makes graduates NCLEX-eligible; accreditation matters for future graduate study.",
@@ -1716,7 +1748,8 @@
    "focus": "Client Teaching",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-050",
@@ -1783,7 +1816,8 @@
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-052",
@@ -1867,17 +1901,17 @@
    "type": "mcq",
    "stem": "A hospital is conducting a root cause analysis after a wrong-site surgery. Which statement by a team member best reflects the purpose of this process?",
    "options": [
-    "“We need to identify which surgeon was at fault so the licensing board can act.”",
-    "“The circulating nurse should be suspended until the review has finished.”",
+    "“Let’s interview the surgeon and staff to find out who skipped the time-out.”",
+    "“We should retrain the circulating nurse on every step of the time-out checklist.”",
     "“Let’s map each step of the time-out to see where the process allowed the error.”",
-    "“The client recovered well, so we can close the review without any changes.”"
+    "“Let’s count how many wrong-site errors our hospital has had this year.”"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. A root cause analysis looks for system failures rather than an individual to blame.",
-    "Incorrect. Punishment before analysis discourages reporting and misses system causes.",
+    "Incorrect. Interviews are part of the review, but aiming to find who is at fault misses the system failures the analysis seeks.",
+    "Incorrect. Retraining may be part of the action plan, but deciding it before analysis targets one person rather than the process.",
     "Correct. Analyzing each process step identifies the system weaknesses that let the error happen.",
-    "Incorrect. Wrong-site surgery requires analysis and an action plan regardless of the outcome."
+    "Incorrect. Trend data are useful for quality monitoring, but they do not explain why this event happened."
    ],
    "rationale": "A root cause analysis is a structured review of a serious event that looks for system and process failures rather than someone to blame. The team traces the steps that should have prevented the event, such as site marking and the time-out, and asks why each barrier failed. The resulting action plan changes the system so the error is less likely to recur. Focusing on the surgeon is tempting because one person made the incision, but blame alone leaves the faulty process in place.",
    "takeaway": "Root cause analysis looks for system failures, not people to blame.",
@@ -1889,7 +1923,8 @@
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-054",
@@ -1897,19 +1932,19 @@
    "type": "mcq",
    "stem": "During her bedside check before giving insulin, a nurse discovers she drew up 10 units instead of the ordered 1 unit. She discards the dose and gives the correct amount; the client is not harmed. A coworker says, “No harm was done, so don’t bother writing it up.” What should the nurse do?",
    "options": [
-    "Skip the report, because the client never received the wrong dose",
-    "Report it only if the same near miss happens again this month",
-    "Tell the charge nurse but leave the event out of the reporting system",
+    "Document the near miss and the corrected dose in the client’s medical record",
+    "Tell the charge nurse so the other staff can be warned",
+    "Ask pharmacy to relabel the insulin stocked on the unit to prevent a repeat",
     "Report the near miss through the facility’s safety reporting system"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Near misses reveal system weaknesses and should be reported even without harm.",
-    "Incorrect. Waiting for a repeat event risks harm and loses data on the first occurrence.",
-    "Incorrect. A verbal mention is not captured for analysis of patterns and system causes.",
-    "Correct. Reporting near misses lets the organization fix the process before a client is harmed."
+    "Incorrect. Documentation matters, but the dose was never given, and event reports belong in the safety system, not the client’s chart.",
+    "Incorrect. Warning coworkers helps, but a verbal report is not captured for analysis of patterns and system causes.",
+    "Incorrect. Fixing a possible cause is well-meant, but changes should follow a reported, analyzed event, and the cause may not be labeling.",
+    "Correct. Reporting near misses lets the organization find and fix the process before a client is harmed."
    ],
-   "rationale": "Safety programs depend on reporting events and near misses promptly, because near misses show where barriers failed before harm occurs. A root cause or system review can then identify problems such as look-alike labels, syringe types, or distractions. Accreditation standards expect organizations to collect and act on these reports. Skipping the report is tempting because nothing bad happened, but the same weakness could harm the next client.",
+   "rationale": "Safety programs depend on reporting events and near misses promptly, because near misses show where barriers failed before harm occurs. A root cause or system review can then identify problems such as look-alike labels, syringe types, or distractions. Accreditation standards expect organizations to collect and act on these reports. Telling only the charge nurse is tempting because it feels like reporting, but without an entry in the safety system the same weakness could harm the next client.",
    "takeaway": "Report near misses so the system can be fixed before someone is harmed.",
    "hintContent": "Consider what the organization learns from an error that was caught in time.",
    "hintStrategy": "In safety-reporting items, the answer almost always favors reporting through the formal system.",
@@ -1919,7 +1954,8 @@
    "focus": "Pharmacology",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-055",
@@ -1949,7 +1985,8 @@
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-056",
@@ -1957,17 +1994,17 @@
    "type": "mcq",
    "stem": "During a Joint Commission tracer, a surveyor asks a staff nurse, “What is your unit’s hand hygiene compliance rate?” The nurse does not know the exact number. Which response by the nurse is best?",
    "options": [
-    "“It’s about 100%, because everyone on this unit always cleans their hands.”",
+    "“I’m not sure of the exact number, but I can find out and get back to you.”",
     "“You’ll need to ask my manager; she handles all the accreditation data.”",
-    "“We don’t track that on our unit, because infection control handles it.”",
+    "“Our rate is high, because we have hand sanitizer at every room entrance.”",
     "“I’m not sure of the rate; we audit it monthly and post it on our quality board.”"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Guessing a perfect rate is inaccurate and shows no knowledge of monitoring.",
-    "Incorrect. Deflecting shows the nurse is not engaged in the unit’s quality work.",
-    "Incorrect. Hand hygiene is monitored on units, and this answer suggests a gap.",
-    "Correct. An honest answer that describes the monitoring and where the data are kept is best."
+    "Incorrect. Admitting uncertainty is honest, but it does not show that the nurse knows how hand hygiene is monitored on the unit.",
+    "Incorrect. The manager may know the number, but deflecting suggests bedside staff are not engaged in quality work.",
+    "Incorrect. Sanitizer access supports hand hygiene, but it is not a measured result and the claim is unsupported.",
+    "Correct. An honest answer that describes the monitoring and where the data are posted is best."
    ],
    "rationale": "Surveyors expect frontline nurses to explain what the unit does, why it does it, and how results are measured. When a nurse does not know a specific number, the best response is honest and shows understanding of the monitoring process and where the data can be found. This shows a culture of quality rather than memorized answers. Deflecting to the manager is tempting because the manager may know the number, but it signals that bedside staff are not involved in quality improvement.",
    "takeaway": "With surveyors, answer honestly and explain the practice, how it is measured, and where to find the data.",
@@ -1979,7 +2016,8 @@
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-057",
@@ -2009,7 +2047,8 @@
    "focus": "Nursing Interventions",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-058",
@@ -2065,7 +2104,8 @@
       }
      }
     ]
-   }
+   },
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-059",
@@ -2130,7 +2170,8 @@
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-061",
@@ -2162,7 +2203,8 @@
    "focus": "Delegation & Safety",
    "difficulty": 3,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-062",
@@ -2227,7 +2269,8 @@
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
    "clientNeed": "Psychosocial Integrity",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-064",
@@ -2257,7 +2300,8 @@
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
    "clientNeed": "Psychosocial Integrity",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-065",
@@ -2325,7 +2369,8 @@
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-067",
@@ -2355,7 +2400,8 @@
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-068",
@@ -2364,16 +2410,16 @@
    "stem": "A North Carolina hospital hires a nursing assistant who will perform Nurse Aide II tasks, such as sterile dressing changes. Before the RN delegates any of these tasks, which verification is required?",
    "options": [
     "The assistant is listed on the Nurse Aide II registry kept by the Board of Nursing",
-    "The assistant has a letter from a prior employer describing her skills",
-    "The assistant holds a national certification as a medication aide in another state",
+    "The assistant has completed a state-approved Nurse Aide II training program",
+    "The assistant has passed the state medication aide exam and is on its registry",
     "The assistant is listed on the Nurse Aide I registry kept by the state"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. Nurse Aide II tasks require listing on the Board’s NA II registry, and an NA II must also remain on the NA I registry.",
-    "Incorrect. A reference letter does not establish legal authority to perform these tasks.",
-    "Incorrect. Medication aide credentials do not authorize Nurse Aide II tasks.",
-    "Incorrect. The Nurse Aide I listing alone does not authorize Nurse Aide II tasks."
+    "Incorrect. Training is required, but completing a program alone does not give legal authority until the aide is listed on the registry.",
+    "Incorrect. Medication aide listing allows giving certain medications in some settings, but it does not authorize Nurse Aide II tasks such as sterile dressing changes.",
+    "Incorrect. The Nurse Aide I listing is required, but alone it does not authorize Nurse Aide II tasks."
    ],
    "rationale": "North Carolina has two aide levels with separate registries: the Nurse Aide I registry is kept by the NC DHHS Division of Health Service Regulation, and the Nurse Aide II registry is kept by the Board of Nursing. A Nurse Aide II must also be listed on the Nurse Aide I registry. Verifying registry status confirms the aide is legally permitted to perform the task, and the RN still decides whether delegation fits each client. The Nurse Aide I option is tempting because it is a real registry, but it authorizes only Nurse Aide I tasks.",
    "takeaway": "In North Carolina, NA II tasks require listing on the board’s NA II registry as well as the NA I registry.",
@@ -2387,7 +2433,8 @@
    "focus": "Delegation & Safety",
    "difficulty": 3,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-069",
@@ -2448,7 +2495,8 @@
       }
      }
     ]
-   }
+   },
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-070",
@@ -2458,15 +2506,15 @@
    "options": [
     "Help him choose a primary care provider and book a follow-up visit",
     "Give him a list of nearby urgent care centers for future problems",
-    "Tell him the emergency department is now free for him to use",
-    "Advise him to seek care only when symptoms become severe"
+    "Teach him to check his blood glucose at home every morning and record it",
+    "Refer him to a diabetes education class offered at the local hospital"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. A regular primary care provider gives the continuity that chronic illness needs, and insured clients use primary care more often.",
-    "Incorrect. Urgent care treats episodes but does not provide ongoing chronic disease management.",
-    "Incorrect. Coverage does not make the emergency department the right setting for ongoing diabetes and blood pressure care.",
-    "Incorrect. Waiting for severe symptoms allows complications to progress and repeats the pattern that led to poor control."
+    "Correct. A regular primary care provider gives the continuity, medication review, and follow-up that his chronic illnesses need.",
+    "Incorrect. Urgent care is better than the emergency department for minor problems, but it does not manage chronic disease over time.",
+    "Incorrect. Home glucose checks support self-management, but without a regular provider the results are not used to adjust treatment.",
+    "Incorrect. Diabetes education helps, but it does not replace ongoing care for both his diabetes and hypertension."
    ],
    "rationale": "Access to care is closely tied to insurability. When people gain coverage, they use primary care more often, which improves continuity of care for chronic conditions such as diabetes and hypertension. His high HbA1c shows his conditions need regular follow-up, medication review, and teaching, which a primary care provider gives. Urgent care is tempting because it is convenient, but it treats single episodes and does not manage chronic disease over time.",
    "takeaway": "New coverage helps most when the nurse links the client to a regular primary care provider for chronic care.",
@@ -2480,7 +2528,8 @@
    "focus": "Nursing Interventions",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "priority": true
+   "priority": true,
+   "bestAnswer": true
   },
   {
    "id": "m47-x1-071",
@@ -2550,7 +2599,8 @@
    "focus": "Delegation & Safety",
    "difficulty": 1,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "priority": false
+   "priority": false,
+   "bestAnswer": true
   }
  ]
 }

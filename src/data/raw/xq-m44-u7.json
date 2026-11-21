@@ -9,20 +9,20 @@
    "type": "mcq",
    "stem": "A 58-year-old client from a close-knit religious family must decide whether to have a second open-heart surgery. The family gathers to pray and talk with their pastor before each treatment decision. A newly hired nurse says, “They’re just stalling. That’s the wrong way to decide.” Which response by the precepting nurse best reflects an understanding of moral development?",
    "options": [
-    "“You’re right. We should set a firm deadline so the family stops delaying the decision.”",
-    "“We should ask the chaplain to explain to them why waiting to decide is harmful.”",
+    "“Capable clients have the right to decide, so we respect their choice.”",
+    "“Let’s offer chaplain support to the family while they pray and decide.”",
     "“Their faith, family, and life experiences shape how they decide. We support that.”",
-    "“Our professional standards are clear, so we should guide them toward our view.”"
+    "“Let’s make sure the family has accurate facts about the surgery risks.”"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. An arbitrary deadline judges the family’s moral process as wrong and pressures the client rather than supporting an informed choice.",
-    "Incorrect. Using the chaplain to change the family’s way of deciding imposes the team’s values; spiritual care should support the client, not persuade.",
-    "Correct. Moral development is shaped by family, culture, religion, education, and life experiences. Clients’ moral perspectives differ from the nurse’s and shape their health care decisions, so the nurse supports their way of deciding.",
-    "Incorrect. Professional standards require respecting the client’s values and autonomy, not steering the client toward the nurse’s own moral view."
+    "Incorrect. Respecting autonomy is true and important, but it does not explain why this family decides the way it does or correct the new nurse’s judgment about moral development.",
+    "Incorrect. Offering spiritual support is a kind action, but it does not address the new nurse’s view that the family’s process is wrong.",
+    "Correct. This response teaches that moral development is shaped by faith, family, culture, and life experience, and that the nurse supports the family’s own decision process rather than judging it.",
+    "Incorrect. Making sure the client has accurate information is part of the nurse’s role, but it is incomplete; it does not address respect for the family’s moral perspective."
    ],
    "priority": false,
-   "rationale": "Moral development is the process of learning right from wrong. It is influenced by family, culture, religion, education, and life experiences, and it shapes how both nurses and clients make ethical decisions. Nurses must recognize that clients and families hold different moral perspectives that shape their health care choices. Prayer and consultation with a pastor are part of this family’s moral process. The nurse supports that process while making sure the client has accurate information, rather than labeling it wrong, setting deadlines, or steering the client.",
+   "rationale": "Moral development is the process of learning right from wrong. It is shaped by family, culture, religion, education, and life experiences, and it guides how clients and families make health care decisions. Prayer and talking with a pastor are part of this family’s moral process, not stalling. The best response teaches the new nurse to respect that process. Affirming autonomy, offering chaplain support, or checking that the family has accurate facts are all reasonable, but none corrects the new nurse’s judgment about how this family makes moral decisions.",
    "takeaway": "Clients’ moral views come from family, culture, religion, education, and experience; support their way of deciding instead of judging it.",
    "hintContent": "Think about where a person’s sense of right and wrong comes from and whose decision this is.",
    "hintStrategy": "Eliminate options that judge, pressure, or steer the client; choose the one that respects the client’s moral perspective.",
@@ -33,7 +33,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m44-u7-002",
@@ -82,19 +83,19 @@
    "stem": "A nurse is admitting a 70-year-old client who immigrated from a culture in which the eldest son makes medical decisions for the family. The client speaks some English. Her son answers every assessment question for her and says he will sign her consent forms. Which action should the nurse take first?",
    "options": [
     "Ask the client privately, through an interpreter, how she wants decisions made.",
-    "Tell the son that U.S. law requires his mother to answer every question herself.",
-    "Accept the son’s answers and plan for him to sign all of the consent forms.",
-    "Document that the client lacks capacity because she defers to her son."
+    "Direct the questions to the son, as is customary in the client’s culture.",
+    "Ask the son to interpret so his mother understands each question asked.",
+    "Request an ethics consult about who should make the client’s decisions."
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Cultural relativism means accepting that this pattern may be right within her culture, but only the client can choose to defer to her son. Asking her privately, through a professional interpreter rather than the son, confirms her wishes and protects her autonomy.",
-    "Incorrect. This judges the family’s cultural pattern and ignores that a capable client may choose to involve her son.",
-    "Incorrect. Without the client’s confirmed wish and legal authority, the son cannot simply consent for a capable adult.",
-    "Incorrect. Deferring to family is a cultural choice, not evidence of lacking capacity; capacity is presumed in adults."
+    "Correct. Asking the client privately, with a professional interpreter, confirms her own wishes. A capable adult may choose to let her son decide, but the nurse must hear that choice from her first.",
+    "Incorrect. Respecting cultural customs matters, but the nurse cannot assume the client’s preference. The son has no legal authority until she chooses to give it.",
+    "Incorrect. Including family is reasonable, but family members should not interpret. A professional interpreter ensures accurate, unbiased communication.",
+    "Incorrect. An ethics consult may help if a conflict develops, but it is premature. The nurse first asks the client directly how she wants decisions made."
    ],
    "priority": true,
-   "rationale": "During assessment, the nurse considers cultural relativism: morals vary by culture, and family-centered decision making may be right within this client’s culture. Autonomy still belongs to the client. A capable adult may choose to let a family member speak or decide, but the nurse must confirm that choice with the client directly and privately, using a professional interpreter rather than the son. Confronting the son, letting him sign without authority, or labeling the client incapable all fail to respect either her culture or her rights.",
+   "rationale": "During assessment, the nurse considers cultural relativism: morals vary by culture, and family-centered decision making may be right within this client’s culture. Autonomy still belongs to the client. A capable adult may choose to let a family member speak or decide, but the nurse must confirm that choice with the client directly and privately, using a professional interpreter rather than the son. Deferring to the son without asking her, using him as interpreter, or jumping to an ethics consult all skip the step of hearing the client’s own wishes.",
    "takeaway": "Respect cultural decision patterns, but confirm privately that the capable client chooses them.",
    "hintContent": "Whose choice is it to involve the son, and how would the nurse know?",
    "hintStrategy": "In culture-and-autonomy items, pick the answer that asks the client directly rather than judging or assuming.",
@@ -105,7 +106,8 @@
    "cjmm": "Take Action",
    "focus": "Lifespan & Diversity",
    "difficulty": 2,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m44-u7-004",
@@ -148,17 +150,17 @@
    "type": "mcq",
    "stem": "A 67-year-old client with metastatic cancer and decision-making capacity decided to stop chemotherapy. Her adult children keep pressuring her to continue. She tells the nurse, “I know stopping is right for me, but I keep giving in to them, and it’s tearing me apart.” Which nursing diagnosis best fits these data?",
    "options": [
-    "Noncompliance",
+    "Decisional Conflict",
     "Moral Distress",
-    "Social Isolation",
-    "Post-Trauma Syndrome"
+    "Anxiety",
+    "Interrupted Family Processes"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. She is not failing to follow an agreed plan; she is struggling to act on her own decision.",
-    "Correct. She has made a moral choice she believes is right but feels unable to carry it out, which is the core of moral distress.",
-    "Incorrect. Her family is very present; the problem is pressure, not isolation.",
-    "Incorrect. No traumatic event or trauma symptoms are described."
+    "Incorrect. Decisional Conflict fits a person who is unsure which choice to make. This client is certain that stopping chemotherapy is right; her problem is being blocked from acting on it.",
+    "Correct. Moral Distress fits best: she knows the right action for herself but feels unable to carry it out because of family pressure, and she describes inner anguish.",
+    "Incorrect. She is clearly upset, but Anxiety is too general. It does not capture the core problem of knowing the right action and feeling blocked from it.",
+    "Incorrect. Family conflict is present, but the data center on her own anguish over not acting on her decision, which Moral Distress describes more precisely."
    ],
    "priority": false,
    "rationale": "Moral distress occurs when a person knows the right action but feels blocked from carrying it out. This client has decided that stopping chemotherapy is right for her, yet family pressure keeps her from acting on that decision, and she describes inner anguish. Moral Distress is one of the nursing diagnoses related to moral issues on your course slides. The nurse supports her autonomy, for example by arranging a family meeting with the provider so her choice can be heard.",
@@ -172,7 +174,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Assessment Findings",
    "difficulty": 2,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m44-u7-006",
@@ -180,20 +183,20 @@
    "type": "mcq",
    "stem": "A 45-year-old client with end-stage kidney disease and decision-making capacity has decided to stop dialysis and enter hospice. The nephrologist and several nurses believe he should continue. As the nurse revises the plan of care, which action is the priority?",
    "options": [
-    "Delay hospice planning until the team agrees that his decision is right.",
-    "Keep dialysis goals in the plan because they reflect the team’s expertise.",
-    "Ask his family to persuade him to try dialysis for a few more weeks.",
+    "Request a psychiatric consult to confirm his decision-making capacity.",
+    "Write comfort-focused goals and refer him to hospice services.",
+    "Notify the ethics committee to resolve the team’s disagreement.",
     "Write goals around his wishes and set up a care conference with the team."
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Delaying until the team agrees lets the team’s values override a capable client’s decision.",
-    "Incorrect. Keeping goals the client rejected disregards his autonomy.",
-    "Incorrect. Recruiting family to pressure him is coercive and paternalistic.",
-    "Correct. Planning is hard when client and team values differ, but the plan follows the capable client’s values. A care conference helps the team align with his goals."
+    "Incorrect. Assessing capacity matters when it is in doubt, but he already has capacity. Disagreeing with the team is not a sign of incapacity.",
+    "Incorrect. Comfort goals and hospice referral honor his wishes, but this is incomplete. It does not address the team’s differing values or open communication.",
+    "Incorrect. An ethics committee is an option if conflict cannot be resolved, but it is premature. A care conference is the first step toward shared understanding.",
+    "Correct. The plan reflects the client’s goals, and a care conference supports open communication and collaborative decision making among the client, family, and team."
    ],
    "priority": true,
-   "rationale": "Your course notes that planning may be difficult when the client’s or family’s values differ from the health care team’s. A capable adult may refuse life-sustaining treatment, including dialysis. The nurse writes the plan around the client’s goals, such as comfort and hospice referral, and uses a care conference to support open communication and collaborative decision making among the client, family, and team. Delaying, keeping rejected goals, or using family pressure all substitute the team’s values for the client’s.",
+   "rationale": "Your course notes that planning may be difficult when the client’s or family’s values differ from the health care team’s. A capable adult may refuse life-sustaining treatment, including dialysis. The nurse writes the plan around the client’s goals, such as comfort and hospice referral, and uses a care conference to support open communication and collaborative decision making among the client, family, and team. Questioning his capacity substitutes the team’s values for his, hospice referral alone leaves the team conflict unaddressed, and an ethics committee is a later step if the care conference does not resolve the disagreement.",
    "takeaway": "When values differ, the plan of care follows the capable client’s goals.",
    "hintContent": "Whose values should drive the goals in a capable client’s plan of care?",
    "hintStrategy": "Choose the action that both honors the client’s decision and opens communication; reject delay and pressure.",
@@ -204,7 +207,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Prioritization",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-u7-007",
@@ -212,20 +216,20 @@
    "type": "mcq",
    "stem": "Two days after a client died when his family chose to withdraw life support, a nurse tells her mentor, “I keep replaying that night. Did we do the right thing?” Which response by the mentor is most helpful?",
    "options": [
-    "“Try to stop thinking about it, or you will burn out quickly in this job.”",
+    "“The family made a legal, ethical choice, and you cared for him well.”",
     "“Second-guessing after a moral decision is common. Let’s talk it through.”",
-    "“The family made that decision, so it was never really your concern.”",
-    "“If you still have doubts, you should file an event report about it.”"
+    "“Our employee assistance program offers free counseling for this.”",
+    "“Writing in a reflective journal can help you sort through it all.”"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Suppressing reflection does not prevent burnout; unaddressed distress contributes to it.",
-    "Correct. Moral decisions often lead to second-guessing or self-reflection. Normalizing it and debriefing with a mentor is a healthy, evidence-based support.",
-    "Incorrect. This dismisses the nurse’s moral experience and her role in the client’s care.",
-    "Incorrect. An event report is for errors or safety events, not for normal reflection about an ethical decision."
+    "Incorrect. Reassurance is kind and likely true, but it closes the conversation instead of inviting the reflection that builds ethical skill.",
+    "Correct. This normalizes second-guessing after a moral decision and invites the nurse to debrief with an experienced peer, which reduces moral distress and burnout.",
+    "Incorrect. Counseling resources are appropriate if distress persists, but referring her out first misses the chance to debrief directly with her mentor.",
+    "Incorrect. Journaling supports self-reflection, but doing it alone is less helpful than talking it through with an experienced mentor."
    ],
    "priority": false,
-   "rationale": "In the evaluation step of the nursing process, moral decisions often lead to second-guessing or self-reflection. That reflection is normal and can build ethical skill. Talking with a mentor or experienced peer, debriefing, and using support systems reduce moral distress and burnout. Telling the nurse to stop thinking, dismissing her role, or filing an event report does not help her process the experience.",
+   "rationale": "In the evaluation step of the nursing process, moral decisions often lead to second-guessing or self-reflection. That reflection is normal and can build ethical skill. Talking with a mentor or experienced peer, debriefing, and using support systems reduce moral distress and burnout. Quick reassurance, an immediate referral, or solo journaling can help, but each is less effective than talking it through with the mentor right now.",
    "takeaway": "Second-guessing after a moral decision is normal; debrief with a mentor or peer.",
    "hintContent": "Which step of the nursing process involves looking back on a decision?",
    "hintStrategy": "For moral distress items, choose the response that validates and offers support.",
@@ -234,7 +238,8 @@
    "cjmm": "Evaluate Outcomes",
    "focus": "Nursing Interventions",
    "difficulty": 1,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m44-u7-008",
@@ -266,7 +271,8 @@
    "cjmm": "Take Action",
    "focus": "Pharmacology",
    "difficulty": 3,
-   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies"
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "bestAnswer": true
   },
   {
    "id": "m44-u7-009",
@@ -351,20 +357,20 @@
    "type": "mcq",
    "stem": "A 59-year-old client with liver cirrhosis and decision-making capacity is being discharged. He tells the nurse, “I know what the doctor said, but I’m going to keep having a few beers at night.” Which response by the nurse respects his autonomy while still promoting his welfare?",
    "options": [
-    "“I’ll ask the doctor not to discharge you until you promise me to stop drinking.”",
-    "“Your wife and I agreed she will remove all the alcohol from your house.”",
+    "“That is your choice to make as an adult, and I respect your decision.”",
+    "“Drinking will damage your liver even more, so you really need to stop.”",
     "“Would you like to talk about your liver and get resources to help you cut back?”",
-    "“Since you won’t stop drinking, there really isn’t much more I can teach you.”"
+    "“Let’s review the signs of liver problems you should report to your doctor.”"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Holding discharge to force a promise is coercive paternalism.",
-    "Incorrect. Making plans with his wife behind his back overrides his autonomy and breaches trust.",
-    "Correct. The nurse respects his right to decide while still teaching and offering help, which balances autonomy and beneficence.",
-    "Incorrect. Giving up on teaching abandons beneficence; respecting a choice does not end the nurse’s duty to help."
+    "Incorrect. This respects his autonomy, but it is incomplete. It does not promote his welfare with teaching or resources.",
+    "Incorrect. The statement is true and aims to help, but telling a capable adult what he must do is paternalistic and does not respect his autonomy.",
+    "Correct. This response accepts his choice while offering teaching and resources to reduce harm, balancing autonomy with beneficence.",
+    "Incorrect. Teaching warning signs promotes safety, but it ignores the drinking he just raised and misses the chance to offer help cutting back."
    ],
    "priority": false,
-   "rationale": "Autonomy means respecting a capable client’s decisions even when they do not seem to be in his best interest, such as continuing to drink after a cirrhosis diagnosis. The unwanted outcome of beneficence is paternalism: deciding what is best and pressuring the client to act against his wishes, treating a capable adult like a child. The best response respects his choice while still offering accurate teaching and resources. Threats, secret plans with family, and withdrawing teaching are all wrong.",
+   "rationale": "Autonomy means respecting a capable client’s decisions even when they do not seem to be in his best interest, such as continuing to drink after a cirrhosis diagnosis. The unwanted outcome of beneficence is paternalism: deciding what is best and pressuring the client to act against his wishes, treating a capable adult like a child. The best response respects his choice while still offering accurate teaching and resources. Accepting his choice without offering help, telling him he must stop, or teaching around the drinking each meets only part of that goal.",
    "takeaway": "Respect a capable client’s risky choice, and keep teaching and offering help without pressure.",
    "hintContent": "Which option leaves the decision with the client but still offers something helpful?",
    "hintStrategy": "Eliminate answers that threaten, go around the client, or give up on him.",
@@ -375,7 +381,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Client Teaching",
    "difficulty": 2,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m44-u7-012",
@@ -383,20 +390,20 @@
    "type": "mcq",
    "stem": "A hospital will offer free pediatric dental care to 45 children each month. About 120 families apply in the first month. Which method of selecting the children best reflects the principle of justice?",
    "options": [
-    "Give first choice to children of hospital employees who support the program.",
-    "Let each volunteer dentist choose children from his or her own practice.",
-    "Choose the children whose parents call the program office most often.",
+    "Accept the first 45 complete applications received each month.",
+    "Divide the openings equally among the areas the hospital serves.",
+    "Have a committee review each family’s story and choose freely.",
     "Use need-based criteria applied the same way to every application."
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Favoring employees’ families is biased and unfair to other children with need.",
-    "Incorrect. Letting each dentist pick creates inconsistent, biased selection.",
-    "Incorrect. Rewarding persistence favors families with more time and phone access, not greater need.",
-    "Correct. Justice requires a fair method, free from bias, applied equally to everyone."
+    "Incorrect. First come, first served seems neutral, but it favors families with more time, access, and information rather than those with the greatest need.",
+    "Incorrect. Equal shares by area looks fair, but it ignores how need differs between areas and between children.",
+    "Incorrect. Committee review can be careful, but without set criteria applied the same way, personal bias can shape who is chosen.",
+    "Correct. Clear need-based criteria applied the same way to every application distribute a limited resource fairly and free from bias, which reflects justice."
    ],
    "priority": false,
-   "rationale": "Justice is the equal right to goods regardless of what people contribute or who they are. When a resource is limited, such as 45 dental openings a month, justice requires a fair method that is free from bias to decide who receives it. Clear need-based criteria applied the same way to every family meet that standard; a lottery among eligible children would also be fair. Favoring employees, letting individuals pick, or rewarding persistence introduces bias.",
+   "rationale": "Justice is the equal right to goods regardless of what people contribute or who they are. When a resource is limited, such as 45 dental openings a month, justice requires a fair method that is free from bias to decide who receives it. Clear need-based criteria applied the same way to every family meet that standard; a lottery among eligible children would also be fair. First-come selection favors families with more access, equal shares by area ignore need, and case-by-case choice without set criteria invites bias.",
    "takeaway": "Distribute scarce services with clear criteria applied equally to everyone.",
    "hintContent": "Which option uses the same rule for every family?",
    "hintStrategy": "For allocation items, choose consistent, unbiased criteria; reject favoritism and pressure.",
@@ -407,7 +414,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Prioritization",
    "difficulty": 1,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "bestAnswer": true
   },
   {
    "id": "m44-u7-013",
@@ -415,17 +423,17 @@
    "type": "mcq",
    "stem": "A 4-year-old is crying before scheduled immunizations. His parent says, “Why hurt him with shots when he isn’t even sick?” Which response by the nurse best explains the ethical basis for the immunizations?",
    "options": [
-    "“Every child his age gets these shots, so it’s really nothing to worry about.”",
+    "“Vaccines are very safe, and any side effects are usually mild and short.”",
     "“The shots sting briefly, but they protect him and others from serious diseases.”",
-    "“The law requires the shots, so there is nothing we can decide differently.”",
-    "“If he holds still, it will hurt much less, so tell him to be brave.”"
+    "“School entry requires these shots by law, so he needs to get them today.”",
+    "“We can use numbing cream and distraction to ease his pain during them.”"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Pointing to what everyone does dismisses the parent’s concern and does not explain the benefit.",
-    "Correct. Beneficence weighs the brief discomfort against the larger benefit to the child and to society.",
-    "Incorrect. This shuts down discussion; parents still need information to make an informed decision.",
-    "Incorrect. This blames the child and does not answer the parent’s question about why."
+    "Incorrect. This is true and reassuring, but it speaks to safety, not the ethical reason for causing brief pain in a well child.",
+    "Correct. This explains beneficence: the brief discomfort is outweighed by the benefit to the child and to others, which answers the parent’s question honestly.",
+    "Incorrect. School requirements are real, but a legal rule is not the ethical basis, and it does not explain why the benefit outweighs the harm.",
+    "Incorrect. Comfort measures are appropriate and should be used, but they do not explain why giving the shots is ethically justified."
    ],
    "priority": false,
    "rationale": "Your handout uses immunization as an example of beneficence: doing good for the client’s welfare even when the action carries some harm. The injection definitely causes brief discomfort, but the benefits to the child and to society outweigh it. The nurse explains this honestly, supports the parent’s informed decision, and uses comfort measures such as holding the child and distraction.",
@@ -437,7 +445,8 @@
    "cjmm": "Take Action",
    "focus": "Client Teaching",
    "difficulty": 1,
-   "clientNeed": "Health Promotion and Maintenance"
+   "clientNeed": "Health Promotion and Maintenance",
+   "bestAnswer": true
   },
   {
    "id": "m44-u7-014",
@@ -445,20 +454,20 @@
    "type": "mcq",
    "stem": "A 22-year-old client on a medical unit tells the nurse, “You’re the only one I trust. I’ve saved up pills at home, and I’m going to take them all once I’m discharged. Promise me you won’t tell anyone.” Which action should the nurse take first?",
    "options": [
-    "Promise to keep the plan private so the client keeps trusting the nurse.",
+    "Explain to the client that the nurse cannot keep this plan a secret.",
     "Document the statement and report it to the next shift during handoff.",
     "Stay with the client and notify the provider and charge nurse right away.",
     "Call the client’s parents and ask them to remove the pills from the home."
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. A nurse never promises secrecy about a risk to the client’s life; safety overrides confidentiality.",
-    "Incorrect. Waiting until handoff delays urgent action for a client at risk of suicide.",
-    "Correct. A client who confides a suicide plan needs immediate safety measures. The nurse keeps the client safe and notifies the team now.",
-    "Incorrect. Calling family is not the first step; the team must first assess risk and keep the client safe here."
+    "Incorrect. Being honest about limits of confidentiality is appropriate, but it is incomplete. It does not make the client safe or start suicide precautions.",
+    "Incorrect. Documenting and reporting are required, but waiting until handoff delays action on an immediate threat to life.",
+    "Correct. The client has a plan and means. Staying with the client and notifying the provider and charge nurse right away puts safety first and starts suicide precautions and full assessment.",
+    "Incorrect. Removing means at home is part of later safety planning, but it is not the first step and should be planned with the team and the client."
    ],
    "priority": true,
-   "rationale": "The ethics letter warns that nurses may meet a suicidal or homicidal client who confides in no one else, and asks whether you are comfortable holding sensitive information. Comfort with confidential information never means promising secrecy about a threat to life. The first priority is the client’s safety: stay with the client and notify the provider and charge nurse so suicide precautions and a full assessment begin. Planning with family comes later, with the team.",
+   "rationale": "The ethics letter warns that nurses may meet a suicidal or homicidal client who confides in no one else, and asks whether you are comfortable holding sensitive information. Comfort with confidential information never means promising secrecy about a threat to life. Telling the client that the nurse cannot keep the secret is honest but does not by itself protect the client. The first priority is the client’s safety: stay with the client and notify the provider and charge nurse so suicide precautions and a full assessment begin. Planning with family comes later, with the team.",
    "takeaway": "Never promise secrecy about a suicide plan; stay with the client and notify the team at once.",
    "hintContent": "What is the immediate risk, and who must know now?",
    "hintStrategy": "For safety-versus-confidentiality items, choose the action that protects life now through the team.",
@@ -469,7 +478,8 @@
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
    "difficulty": 2,
-   "clientNeed": "Psychosocial Integrity"
+   "clientNeed": "Psychosocial Integrity",
+   "bestAnswer": true
   },
   {
    "id": "m44-u7-015",

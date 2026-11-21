@@ -86,6 +86,8 @@ interface QuestionBase {
   exhibit?: { tabs: ExhibitTab[] };
   /** Other topic ids (same module) this integrated item also requires. */
   alsoTests?: string[];
+  /** Single-answer item whose distractors are all plausible and partly right; the key is the most right. */
+  bestAnswer?: boolean;
   /** Legacy (case studies removed). */
   caseId?: string;
   caseOrder?: number;
